@@ -1,0 +1,2619 @@
+{
+  "localeName": "English",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "AI calorie counter app by photo"
+  },
+  "nav": {
+    "features": "Features",
+    "useCases": "Use cases",
+    "blog": "Learn",
+    "faq": "FAQ",
+    "download": "Download",
+    "language": "Language",
+    "openMenu": "Open menu",
+    "caloriesInFoods": "Calories in foods",
+    "all": "All",
+    "allFeatures": "All features",
+    "allUseCases": "All use cases",
+    "allLearn": "All guides",
+    "openHub": "Open section →",
+    "home": "Home"
+  },
+  "cta": {
+    "appStore": "Download on the App Store",
+    "googlePlay": "Get it on Google Play",
+    "downloadNow": "Download now",
+    "tryFree": "Try it free",
+    "learnMore": "Learn more",
+    "learnMoreArrow": "Learn more →",
+    "readGuide": "Read guide"
+  },
+  "home": {
+    "title": "AI Calorie Counter App by Photo",
+    "description": "Take a photo of your meal and get AI-powered estimates for calories, protein, fats, carbs and portion weight in seconds.",
+    "heroNote": "Start for free with daily AI meal analyses. Built for iPhone and Android.",
+    "photoEyebrow": "Photo calorie counter",
+    "photoTitle": "Photo Calorie Counter",
+    "photoText": "No more searching every ingredient manually. Snap a food photo, review the AI result and save it to your diary.",
+    "photoChecklist": [
+      "Photo calorie counter",
+      "Barcode scanner",
+      "Macros",
+      "Food diary"
+    ],
+    "featureCards": [
+      [
+        "camera",
+        "Photo calorie counter",
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary."
+      ],
+      [
+        "sparkles",
+        "Barcode scanner",
+        "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+      ],
+      [
+        "shield",
+        "Macros",
+        "Start free with daily AI food analyses. Available for iPhone and Android."
+      ],
+      [
+        "barcode",
+        "Food diary",
+        "Scan packaged foods, confirm the product and add calories and macros to your diary in seconds."
+      ],
+      [
+        "macro",
+        "Photo calorie counter",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      [
+        "diary",
+        "Barcode scanner",
+        "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+      ]
+    ],
+    "foodPreviewTitle": "How many calories are in common foods?",
+    "foodPreviewText": "Browse quick calorie and macro guides for everyday meals, snacks and drinks.",
+    "foodPreviewLink": "Open the full food calorie guide →",
+    "goalEyebrow": "Nutrition",
+    "counterTitle": "A simple calorie counter app for everyday tracking",
+    "counterText": "Use photos, barcodes, favorites and a clean diary to stay consistent without turning calorie counting into a second job.",
+    "goalPills": [
+      "Weight loss",
+      "Maintenance",
+      "Muscle gain",
+      "Busy days"
+    ],
+    "magicEyebrow": "Features",
+    "magicTitle": "Log food in three quick steps",
+    "magicText": "Take a photo, review the estimate and save the meal. Less typing makes the habit easier to repeat.",
+    "magicSteps": [
+      "Snap",
+      "Review",
+      "Save"
+    ],
+    "barcodeEyebrow": "Barcode scanner",
+    "barcodeTitle": "Barcode scanner",
+    "barcodeText": "Scan packaged foods, confirm the product and add calories and macros to your diary in seconds.",
+    "barcodeLink": "Barcode scanner →",
+    "progressEyebrow": "Macros",
+    "macroTitle": "Track calories and macros",
+    "macroText": "See calories, protein, carbs and fats at a glance, then compare daily, weekly and monthly progress.",
+    "macroLink": "Macros →",
+    "useCasesEyebrow": "Use cases",
+    "useCasesTitle": "Nutrition",
+    "useCasesText": "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Weight loss",
+        "Calories"
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Homemade food",
+        "Photo calorie counter"
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Restaurant food",
+        "Food diary"
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Muscle gain",
+        "Protein"
+      ]
+    ],
+    "downloadTitle": "Download Calorie Counter AI",
+    "downloadText": "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry.",
+    "faqEyebrow": "FAQ",
+    "faqTitle": "FAQ",
+    "faq": [
+      [
+        "Is Calorie Counter AI free?",
+        "You can start with free daily AI food analyses. Premium features may be useful if you need higher limits and extra tools."
+      ],
+      [
+        "Can I count calories from a photo?",
+        "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+      ],
+      [
+        "How accurate is the AI estimate?",
+        "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+      ],
+      [
+        "Does the app track macros?",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      [
+        "Is it available for iPhone and Android?",
+        "Start free with daily AI food analyses. Available for iPhone and Android."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "AI Calorie Counter App by Photo | Free Calorie Counter",
+    "homeOgTitle": "AI calorie counter from photos",
+    "homeDescription": "Use a free AI calorie counter app to track calories, macros and meal weight from a food photo. Scan barcodes, keep a food diary and reach your nutrition goals."
+  },
+  "footer": {
+    "disclaimer": "Calorie Counter AI provides nutrition estimates for informational purposes only and does not replace medical advice.",
+    "copyright": "© 2026 Calorie Counter AI. All rights reserved."
+  },
+  "foodIndex": {
+    "findTitle": "Calories in foods",
+    "findText": "Calories, Protein, Fat and Carbs for popular foods and portions.",
+    "categoryIntro": "Calories in foods"
+  },
+  "foodPage": {
+    "eyebrow": "Calories in foods",
+    "trackInApp": "Download",
+    "browseFoods": "Calories in foods →",
+    "typicalEstimate": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+    "caloriesMacros": "Calories & Macros",
+    "whenFits": "Use cases",
+    "whatToWatch": "Learn more",
+    "howToLog": "Food diary",
+    "helpfulContext": "Guides",
+    "faq": "FAQ",
+    "weightLossQuestion": "Is this suitable for weight loss?",
+    "variabilityQuestion": "What changes the calories most?",
+    "logFasterTitle": "Photo calorie counter",
+    "logFasterText": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+    "photoTrackingLink": "Photo calorie counter →",
+    "macros": {
+      "protein": "Protein",
+      "fat": "Fat",
+      "carbs": "Carbs"
+    },
+    "titleTemplate": "How many calories are in {namePrep}?",
+    "h1Template": "How many calories are in {namePrep}?",
+    "descriptionTemplate": "{name}: calories, protein, fat and carbs for “{serving}”, plus practical serving and logging notes.",
+    "heroIntroTemplate": "Approximately {calories} {kcal} per serving: {servingLower}. Use this as a starting point and adjust by brand, recipe, cooking method and portion size.",
+    "macroParagraphTemplate": "{name}: about {calories} {kcal} per serving “{servingLower}”. This serving has about {protein} {gram} protein, {fat} {gram} fat and {carbs} {gram} carbs{fiberText}.",
+    "per100Template": "For comparison per 100 {gram}: about {calories} {kcal}, {protein} {gram} protein, {fat} {gram} fat and {carbs} {gram} carbs.",
+    "calorieLevelTemplate": "Use the serving as the guide: about {calories} {kcal} for “{servingLower}”."
+  },
+  "foodCategories": {
+    "Fruit": "Fruit",
+    "Protein foods": "Protein foods",
+    "Fruits and fats": "Fruit and fats",
+    "Grains and starches": "Grains and starches",
+    "Nuts and spreads": "Nuts and spreads",
+    "Breakfast foods": "Breakfast foods",
+    "Dairy": "Dairy",
+    "Restaurant meals": "Restaurant meals",
+    "Fast food": "Fast food",
+    "Legumes and plant protein": "Legumes and plant protein",
+    "Desserts": "Desserts",
+    "Snacks": "Snacks",
+    "Drinks": "Drinks",
+    "Vegetables": "Vegetables",
+    "Sauces and condiments": "Sauces and condiments",
+    "Mixed dishes": "Mixed dishes"
+  },
+  "foods": {
+    "banana": {
+      "name": "Banana",
+      "namePrep": "banana",
+      "serving": "1 serving of banana"
+    },
+    "apple": {
+      "name": "Apple",
+      "namePrep": "apple",
+      "serving": "1 serving of apple"
+    },
+    "egg": {
+      "name": "Egg",
+      "namePrep": "egg",
+      "serving": "1 serving of egg"
+    },
+    "avocado": {
+      "name": "Avocado",
+      "namePrep": "avocado",
+      "serving": "1 serving of avocado"
+    },
+    "chicken-breast": {
+      "name": "Chicken breast",
+      "namePrep": "chicken breast",
+      "serving": "1 serving of chicken breast"
+    },
+    "salmon": {
+      "name": "Salmon",
+      "namePrep": "salmon",
+      "serving": "1 serving of salmon"
+    },
+    "white-rice": {
+      "name": "White rice",
+      "namePrep": "white rice",
+      "serving": "1 serving of white rice"
+    },
+    "brown-rice": {
+      "name": "Brown rice",
+      "namePrep": "brown rice",
+      "serving": "1 serving of brown rice"
+    },
+    "pasta": {
+      "name": "Pasta",
+      "namePrep": "pasta",
+      "serving": "1 serving of pasta"
+    },
+    "potato": {
+      "name": "Potato",
+      "namePrep": "potato",
+      "serving": "1 serving of potato"
+    },
+    "sweet-potato": {
+      "name": "Sweet potato",
+      "namePrep": "sweet potato",
+      "serving": "1 serving of sweet potato"
+    },
+    "bread": {
+      "name": "Bread",
+      "namePrep": "bread",
+      "serving": "1 serving of bread"
+    },
+    "peanut-butter": {
+      "name": "Peanut butter",
+      "namePrep": "peanut butter",
+      "serving": "1 serving of peanut butter"
+    },
+    "oatmeal": {
+      "name": "Oatmeal",
+      "namePrep": "oatmeal",
+      "serving": "1 serving of oatmeal"
+    },
+    "greek-yogurt": {
+      "name": "Greek yogurt",
+      "namePrep": "greek yogurt",
+      "serving": "1 serving of greek yogurt"
+    },
+    "yogurt": {
+      "name": "Yogurt",
+      "namePrep": "yogurt",
+      "serving": "1 serving of yogurt"
+    },
+    "milk": {
+      "name": "Milk",
+      "namePrep": "milk",
+      "serving": "1 serving of milk"
+    },
+    "cheddar-cheese": {
+      "name": "Cheddar cheese",
+      "namePrep": "cheddar cheese",
+      "serving": "1 serving of cheddar cheese"
+    },
+    "pizza": {
+      "name": "Pizza",
+      "namePrep": "pizza",
+      "serving": "1 serving of pizza"
+    },
+    "burger": {
+      "name": "Burger",
+      "namePrep": "burger",
+      "serving": "1 serving of burger"
+    },
+    "french-fries": {
+      "name": "French fries",
+      "namePrep": "french fries",
+      "serving": "1 serving of french fries"
+    },
+    "sushi-roll": {
+      "name": "Sushi roll",
+      "namePrep": "sushi roll",
+      "serving": "1 serving of sushi roll"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "taco",
+      "serving": "1 serving of taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "burrito",
+      "serving": "1 serving of burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Chicken nuggets",
+      "namePrep": "chicken nuggets",
+      "serving": "1 serving of chicken nuggets"
+    },
+    "hot-dog": {
+      "name": "Hot dog",
+      "namePrep": "hot dog",
+      "serving": "1 serving of hot dog"
+    },
+    "steak": {
+      "name": "Steak",
+      "namePrep": "steak",
+      "serving": "1 serving of steak"
+    },
+    "bacon": {
+      "name": "Bacon",
+      "namePrep": "bacon",
+      "serving": "1 serving of bacon"
+    },
+    "tuna": {
+      "name": "Tuna",
+      "namePrep": "tuna",
+      "serving": "1 serving of tuna"
+    },
+    "shrimp": {
+      "name": "Shrimp",
+      "namePrep": "shrimp",
+      "serving": "1 serving of shrimp"
+    },
+    "tofu": {
+      "name": "Tofu",
+      "namePrep": "tofu",
+      "serving": "1 serving of tofu"
+    },
+    "lentils": {
+      "name": "Lentils",
+      "namePrep": "lentils",
+      "serving": "1 serving of lentils"
+    },
+    "black-beans": {
+      "name": "Black beans",
+      "namePrep": "black beans",
+      "serving": "1 serving of black beans"
+    },
+    "chickpeas": {
+      "name": "Chickpeas",
+      "namePrep": "chickpeas",
+      "serving": "1 serving of chickpeas"
+    },
+    "hummus": {
+      "name": "Hummus",
+      "namePrep": "hummus",
+      "serving": "1 serving of hummus"
+    },
+    "quinoa": {
+      "name": "Quinoa",
+      "namePrep": "quinoa",
+      "serving": "1 serving of quinoa"
+    },
+    "tortilla": {
+      "name": "Tortilla",
+      "namePrep": "tortilla",
+      "serving": "1 serving of tortilla"
+    },
+    "bagel": {
+      "name": "Bagel",
+      "namePrep": "bagel",
+      "serving": "1 serving of bagel"
+    },
+    "croissant": {
+      "name": "Croissant",
+      "namePrep": "croissant",
+      "serving": "1 serving of croissant"
+    },
+    "pancake": {
+      "name": "Pancakes",
+      "namePrep": "pancakes",
+      "serving": "1 serving of pancakes"
+    },
+    "waffle": {
+      "name": "Waffle",
+      "namePrep": "waffle",
+      "serving": "1 serving of waffle"
+    },
+    "cereal": {
+      "name": "Cereal",
+      "namePrep": "cereal",
+      "serving": "1 serving of cereal"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granola",
+      "serving": "1 serving of granola"
+    },
+    "almonds": {
+      "name": "Almonds",
+      "namePrep": "almonds",
+      "serving": "1 serving of almonds"
+    },
+    "walnuts": {
+      "name": "Walnuts",
+      "namePrep": "walnuts",
+      "serving": "1 serving of walnuts"
+    },
+    "cashews": {
+      "name": "Cashews",
+      "namePrep": "cashews",
+      "serving": "1 serving of cashews"
+    },
+    "chocolate": {
+      "name": "Chocolate",
+      "namePrep": "chocolate",
+      "serving": "1 serving of chocolate"
+    },
+    "ice-cream": {
+      "name": "Ice cream",
+      "namePrep": "ice cream",
+      "serving": "1 serving of ice cream"
+    },
+    "cookie": {
+      "name": "Chocolate chip cookie",
+      "namePrep": "chocolate chip cookie",
+      "serving": "1 serving of chocolate chip cookie"
+    },
+    "donut": {
+      "name": "Glazed donut",
+      "namePrep": "glazed donut",
+      "serving": "1 serving of glazed donut"
+    },
+    "muffin": {
+      "name": "Blueberry muffin",
+      "namePrep": "blueberry muffin",
+      "serving": "1 serving of blueberry muffin"
+    },
+    "cake": {
+      "name": "Cake",
+      "namePrep": "cake",
+      "serving": "1 serving of cake"
+    },
+    "brownie": {
+      "name": "Brownie",
+      "namePrep": "brownie",
+      "serving": "1 serving of brownie"
+    },
+    "popcorn": {
+      "name": "Popcorn",
+      "namePrep": "popcorn",
+      "serving": "1 serving of popcorn"
+    },
+    "potato-chips": {
+      "name": "Potato chips",
+      "namePrep": "potato chips",
+      "serving": "1 serving of potato chips"
+    },
+    "pretzels": {
+      "name": "Pretzels",
+      "namePrep": "pretzels",
+      "serving": "1 serving of pretzels"
+    },
+    "smoothie": {
+      "name": "Fruit smoothie",
+      "namePrep": "fruit smoothie",
+      "serving": "1 serving of fruit smoothie"
+    },
+    "orange-juice": {
+      "name": "Orange juice",
+      "namePrep": "orange juice",
+      "serving": "1 serving of orange juice"
+    },
+    "soda": {
+      "name": "Soda",
+      "namePrep": "soda",
+      "serving": "1 serving of soda"
+    },
+    "latte": {
+      "name": "Latte",
+      "namePrep": "latte",
+      "serving": "1 serving of latte"
+    },
+    "protein-shake": {
+      "name": "Protein shake",
+      "namePrep": "protein shake",
+      "serving": "1 serving of protein shake"
+    },
+    "spaghetti-bolognese": {
+      "name": "Spaghetti bolognese",
+      "namePrep": "spaghetti bolognese",
+      "serving": "1 serving of spaghetti bolognese"
+    },
+    "ramen": {
+      "name": "Ramen",
+      "namePrep": "ramen",
+      "serving": "1 serving of ramen"
+    },
+    "pho": {
+      "name": "Pho",
+      "namePrep": "pho",
+      "serving": "1 serving of pho"
+    },
+    "chicken-soup": {
+      "name": "Chicken soup",
+      "namePrep": "chicken soup",
+      "serving": "1 serving of chicken soup"
+    },
+    "caesar-salad": {
+      "name": "Caesar salad",
+      "namePrep": "caesar salad",
+      "serving": "1 serving of caesar salad"
+    },
+    "green-salad": {
+      "name": "Green salad",
+      "namePrep": "green salad",
+      "serving": "1 serving of green salad"
+    },
+    "broccoli": {
+      "name": "Broccoli",
+      "namePrep": "broccoli",
+      "serving": "1 serving of broccoli"
+    },
+    "spinach": {
+      "name": "Spinach",
+      "namePrep": "spinach",
+      "serving": "1 serving of spinach"
+    },
+    "carrots": {
+      "name": "Carrots",
+      "namePrep": "carrots",
+      "serving": "1 serving of carrots"
+    },
+    "corn": {
+      "name": "Corn",
+      "namePrep": "corn",
+      "serving": "1 serving of corn"
+    },
+    "tomato": {
+      "name": "Tomato",
+      "namePrep": "tomato",
+      "serving": "1 serving of tomato"
+    },
+    "cucumber": {
+      "name": "Cucumber",
+      "namePrep": "cucumber",
+      "serving": "1 serving of cucumber"
+    },
+    "cheesecake": {
+      "name": "Cheesecake",
+      "namePrep": "cheesecake",
+      "serving": "1 serving of cheesecake"
+    },
+    "lasagna": {
+      "name": "Lasagna",
+      "namePrep": "lasagna",
+      "serving": "1 serving of lasagna"
+    },
+    "grilled-cheese": {
+      "name": "Grilled cheese sandwich",
+      "namePrep": "grilled cheese sandwich",
+      "serving": "1 serving of grilled cheese sandwich"
+    },
+    "peanut-butter-jelly": {
+      "name": "Peanut butter and jelly sandwich",
+      "namePrep": "peanut butter and jelly sandwich",
+      "serving": "1 serving of peanut butter and jelly sandwich"
+    },
+    "omelette": {
+      "name": "Omelette",
+      "namePrep": "omelette",
+      "serving": "1 serving of omelette"
+    },
+    "fried-egg": {
+      "name": "Fried egg",
+      "namePrep": "fried egg",
+      "serving": "1 serving of fried egg"
+    },
+    "boiled-egg": {
+      "name": "Boiled egg",
+      "namePrep": "boiled egg",
+      "serving": "1 serving of boiled egg"
+    },
+    "toast": {
+      "name": "Toast",
+      "namePrep": "toast",
+      "serving": "1 serving of toast"
+    },
+    "avocado-toast": {
+      "name": "Avocado toast",
+      "namePrep": "avocado toast",
+      "serving": "1 serving of avocado toast"
+    },
+    "chicken-salad": {
+      "name": "Chicken salad",
+      "namePrep": "chicken salad",
+      "serving": "1 serving of chicken salad"
+    },
+    "tuna-salad": {
+      "name": "Tuna salad",
+      "namePrep": "tuna salad",
+      "serving": "1 serving of tuna salad"
+    },
+    "egg-salad": {
+      "name": "Egg salad",
+      "namePrep": "egg salad",
+      "serving": "1 serving of egg salad"
+    },
+    "cottage-cheese": {
+      "name": "Cottage cheese",
+      "namePrep": "cottage cheese",
+      "serving": "1 serving of cottage cheese"
+    },
+    "cream-cheese": {
+      "name": "Cream cheese",
+      "namePrep": "cream cheese",
+      "serving": "1 serving of cream cheese"
+    },
+    "butter": {
+      "name": "Butter",
+      "namePrep": "butter",
+      "serving": "1 serving of butter"
+    },
+    "olive-oil": {
+      "name": "Olive oil",
+      "namePrep": "olive oil",
+      "serving": "1 serving of olive oil"
+    },
+    "mayonnaise": {
+      "name": "Mayonnaise",
+      "namePrep": "mayonnaise",
+      "serving": "1 serving of mayonnaise"
+    },
+    "ketchup": {
+      "name": "Ketchup",
+      "namePrep": "ketchup",
+      "serving": "1 serving of ketchup"
+    },
+    "honey": {
+      "name": "Honey",
+      "namePrep": "honey",
+      "serving": "1 serving of honey"
+    },
+    "jam": {
+      "name": "Jam",
+      "namePrep": "jam",
+      "serving": "1 serving of jam"
+    },
+    "protein-bar": {
+      "name": "Protein bar",
+      "namePrep": "protein bar",
+      "serving": "1 serving of protein bar"
+    },
+    "energy-drink": {
+      "name": "Energy drink",
+      "namePrep": "energy drink",
+      "serving": "1 serving of energy drink"
+    },
+    "matcha-latte": {
+      "name": "Matcha latte",
+      "namePrep": "matcha latte",
+      "serving": "1 serving of matcha latte"
+    },
+    "trail-mix": {
+      "name": "Trail mix",
+      "namePrep": "trail mix",
+      "serving": "1 serving of trail mix"
+    },
+    "blueberries": {
+      "name": "Blueberries",
+      "namePrep": "blueberries",
+      "serving": "1 serving of blueberries"
+    },
+    "strawberries": {
+      "name": "Strawberries",
+      "namePrep": "strawberries",
+      "serving": "1 serving of strawberries"
+    },
+    "grapes": {
+      "name": "Grapes",
+      "namePrep": "grapes",
+      "serving": "1 serving of grapes"
+    },
+    "orange": {
+      "name": "Orange",
+      "namePrep": "orange",
+      "serving": "1 serving of orange"
+    },
+    "pear": {
+      "name": "Pear",
+      "namePrep": "pear",
+      "serving": "1 serving of pear"
+    },
+    "peach": {
+      "name": "Peach",
+      "namePrep": "peach",
+      "serving": "1 serving of peach"
+    },
+    "watermelon": {
+      "name": "Watermelon",
+      "namePrep": "watermelon",
+      "serving": "1 serving of watermelon"
+    },
+    "pineapple": {
+      "name": "Pineapple",
+      "namePrep": "pineapple",
+      "serving": "1 serving of pineapple"
+    },
+    "mango": {
+      "name": "Mango",
+      "namePrep": "mango",
+      "serving": "1 serving of mango"
+    },
+    "kiwi": {
+      "name": "Kiwi",
+      "namePrep": "kiwi",
+      "serving": "1 serving of kiwi"
+    },
+    "raspberries": {
+      "name": "Raspberries",
+      "namePrep": "raspberries",
+      "serving": "1 serving of raspberries"
+    },
+    "blackberries": {
+      "name": "Blackberries",
+      "namePrep": "blackberries",
+      "serving": "1 serving of blackberries"
+    },
+    "cherries": {
+      "name": "Cherries",
+      "namePrep": "cherries",
+      "serving": "1 serving of cherries"
+    },
+    "grapefruit": {
+      "name": "Grapefruit",
+      "namePrep": "grapefruit",
+      "serving": "1 serving of grapefruit"
+    },
+    "lettuce": {
+      "name": "Lettuce",
+      "namePrep": "lettuce",
+      "serving": "1 serving of lettuce"
+    },
+    "cabbage": {
+      "name": "Cabbage",
+      "namePrep": "cabbage",
+      "serving": "1 serving of cabbage"
+    },
+    "cauliflower": {
+      "name": "Cauliflower",
+      "namePrep": "cauliflower",
+      "serving": "1 serving of cauliflower"
+    },
+    "asparagus": {
+      "name": "Asparagus",
+      "namePrep": "asparagus",
+      "serving": "1 serving of asparagus"
+    },
+    "zucchini": {
+      "name": "Zucchini",
+      "namePrep": "zucchini",
+      "serving": "1 serving of zucchini"
+    },
+    "eggplant": {
+      "name": "Eggplant",
+      "namePrep": "eggplant",
+      "serving": "1 serving of eggplant"
+    },
+    "bell-pepper": {
+      "name": "Bell pepper",
+      "namePrep": "bell pepper",
+      "serving": "1 serving of bell pepper"
+    },
+    "onion": {
+      "name": "Onion",
+      "namePrep": "onion",
+      "serving": "1 serving of onion"
+    },
+    "mushrooms": {
+      "name": "Mushrooms",
+      "namePrep": "mushrooms",
+      "serving": "1 serving of mushrooms"
+    },
+    "green-beans": {
+      "name": "Green beans",
+      "namePrep": "green beans",
+      "serving": "1 serving of green beans"
+    },
+    "kale": {
+      "name": "Kale",
+      "namePrep": "kale",
+      "serving": "1 serving of kale"
+    },
+    "beets": {
+      "name": "Beets",
+      "namePrep": "beets",
+      "serving": "1 serving of beets"
+    },
+    "turkey-breast": {
+      "name": "Turkey breast",
+      "namePrep": "turkey breast",
+      "serving": "1 serving of turkey breast"
+    },
+    "chicken-thigh": {
+      "name": "Chicken thigh",
+      "namePrep": "chicken thigh",
+      "serving": "1 serving of chicken thigh"
+    },
+    "pork-chop": {
+      "name": "Pork chop",
+      "namePrep": "pork chop",
+      "serving": "1 serving of pork chop"
+    },
+    "ground-beef": {
+      "name": "Ground beef",
+      "namePrep": "ground beef",
+      "serving": "1 serving of ground beef"
+    },
+    "meatballs": {
+      "name": "Meatballs",
+      "namePrep": "meatballs",
+      "serving": "1 serving of meatballs"
+    },
+    "sausage": {
+      "name": "Sausage",
+      "namePrep": "sausage",
+      "serving": "1 serving of sausage"
+    },
+    "cod": {
+      "name": "Cod",
+      "namePrep": "cod",
+      "serving": "1 serving of cod"
+    },
+    "tilapia": {
+      "name": "Tilapia",
+      "namePrep": "tilapia",
+      "serving": "1 serving of tilapia"
+    },
+    "sardines": {
+      "name": "Sardines",
+      "namePrep": "sardines",
+      "serving": "1 serving of sardines"
+    },
+    "crab": {
+      "name": "Crab",
+      "namePrep": "crab",
+      "serving": "1 serving of crab"
+    },
+    "scallops": {
+      "name": "Scallops",
+      "namePrep": "scallops",
+      "serving": "1 serving of scallops"
+    },
+    "smoked-salmon": {
+      "name": "Smoked salmon",
+      "namePrep": "smoked salmon",
+      "serving": "1 serving of smoked salmon"
+    },
+    "skim-milk": {
+      "name": "Skim milk",
+      "namePrep": "skim milk",
+      "serving": "1 serving of skim milk"
+    },
+    "soy-milk": {
+      "name": "Soy milk",
+      "namePrep": "soy milk",
+      "serving": "1 serving of soy milk"
+    },
+    "almond-milk": {
+      "name": "Almond milk",
+      "namePrep": "almond milk",
+      "serving": "1 serving of almond milk"
+    },
+    "oat-milk": {
+      "name": "Oat milk",
+      "namePrep": "oat milk",
+      "serving": "1 serving of oat milk"
+    },
+    "kefir": {
+      "name": "Kefir",
+      "namePrep": "kefir",
+      "serving": "1 serving of kefir"
+    },
+    "sour-cream": {
+      "name": "Sour cream",
+      "namePrep": "sour cream",
+      "serving": "1 serving of sour cream"
+    },
+    "feta-cheese": {
+      "name": "Feta",
+      "namePrep": "feta",
+      "serving": "1 serving of feta"
+    },
+    "mozzarella": {
+      "name": "Mozzarella",
+      "namePrep": "mozzarella",
+      "serving": "1 serving of mozzarella"
+    },
+    "parmesan": {
+      "name": "Parmesan",
+      "namePrep": "parmesan",
+      "serving": "1 serving of parmesan"
+    },
+    "couscous": {
+      "name": "Couscous",
+      "namePrep": "couscous",
+      "serving": "1 serving of couscous"
+    },
+    "barley": {
+      "name": "Barley",
+      "namePrep": "barley",
+      "serving": "1 serving of barley"
+    },
+    "buckwheat": {
+      "name": "Buckwheat",
+      "namePrep": "buckwheat",
+      "serving": "1 serving of buckwheat"
+    },
+    "bulgur": {
+      "name": "Bulgur",
+      "namePrep": "bulgur",
+      "serving": "1 serving of bulgur"
+    },
+    "naan": {
+      "name": "Naan",
+      "namePrep": "naan",
+      "serving": "1 serving of naan"
+    },
+    "pita-bread": {
+      "name": "Pita bread",
+      "namePrep": "pita bread",
+      "serving": "1 serving of pita bread"
+    },
+    "english-muffin": {
+      "name": "English muffin",
+      "namePrep": "english muffin",
+      "serving": "1 serving of english muffin"
+    },
+    "rice-cake": {
+      "name": "Rice cake",
+      "namePrep": "rice cake",
+      "serving": "1 serving of rice cake"
+    },
+    "crackers": {
+      "name": "Crackers",
+      "namePrep": "crackers",
+      "serving": "1 serving of crackers"
+    },
+    "mashed-potatoes": {
+      "name": "Mashed potatoes",
+      "namePrep": "mashed potatoes",
+      "serving": "1 serving of mashed potatoes"
+    },
+    "scrambled-eggs": {
+      "name": "Scrambled eggs",
+      "namePrep": "scrambled eggs",
+      "serving": "1 serving of scrambled eggs"
+    },
+    "french-toast": {
+      "name": "French toast",
+      "namePrep": "french toast",
+      "serving": "1 serving of french toast"
+    },
+    "breakfast-burrito": {
+      "name": "Breakfast burrito",
+      "namePrep": "breakfast burrito",
+      "serving": "1 serving of breakfast burrito"
+    },
+    "hash-browns": {
+      "name": "Hash browns",
+      "namePrep": "hash browns",
+      "serving": "1 serving of hash browns"
+    },
+    "chia-pudding": {
+      "name": "Chia pudding",
+      "namePrep": "chia pudding",
+      "serving": "1 serving of chia pudding"
+    },
+    "overnight-oats": {
+      "name": "Overnight oats",
+      "namePrep": "overnight oats",
+      "serving": "1 serving of overnight oats"
+    },
+    "breakfast-sandwich": {
+      "name": "Breakfast sandwich",
+      "namePrep": "breakfast sandwich",
+      "serving": "1 serving of breakfast sandwich"
+    },
+    "edamame": {
+      "name": "Edamame",
+      "namePrep": "edamame",
+      "serving": "1 serving of edamame"
+    },
+    "kidney-beans": {
+      "name": "Kidney beans",
+      "namePrep": "kidney beans",
+      "serving": "1 serving of kidney beans"
+    },
+    "pinto-beans": {
+      "name": "Pinto beans",
+      "namePrep": "pinto beans",
+      "serving": "1 serving of pinto beans"
+    },
+    "split-peas": {
+      "name": "Split peas",
+      "namePrep": "split peas",
+      "serving": "1 serving of split peas"
+    },
+    "baked-beans": {
+      "name": "Baked beans",
+      "namePrep": "baked beans",
+      "serving": "1 serving of baked beans"
+    },
+    "fried-rice": {
+      "name": "Fried rice",
+      "namePrep": "fried rice",
+      "serving": "1 serving of fried rice"
+    },
+    "pad-thai": {
+      "name": "Pad Thai",
+      "namePrep": "pad thai",
+      "serving": "1 serving of pad thai"
+    },
+    "chicken-curry": {
+      "name": "Chicken curry",
+      "namePrep": "chicken curry",
+      "serving": "1 serving of chicken curry"
+    },
+    "chicken-tikka-masala": {
+      "name": "Chicken tikka masala",
+      "namePrep": "chicken tikka masala",
+      "serving": "1 serving of chicken tikka masala"
+    },
+    "beef-chili": {
+      "name": "Beef chili",
+      "namePrep": "beef chili",
+      "serving": "1 serving of beef chili"
+    },
+    "falafel": {
+      "name": "Falafel",
+      "namePrep": "falafel",
+      "serving": "1 serving of falafel"
+    },
+    "dumplings": {
+      "name": "Dumplings",
+      "namePrep": "dumplings",
+      "serving": "1 serving of dumplings"
+    },
+    "spring-rolls": {
+      "name": "Spring rolls",
+      "namePrep": "spring rolls",
+      "serving": "1 serving of spring rolls"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "quesadilla",
+      "serving": "1 serving of quesadilla"
+    },
+    "nachos": {
+      "name": "Nachos",
+      "namePrep": "nachos",
+      "serving": "1 serving of nachos"
+    },
+    "mac-and-cheese": {
+      "name": "Mac and cheese",
+      "namePrep": "mac and cheese",
+      "serving": "1 serving of mac and cheese"
+    },
+    "chicken-wings": {
+      "name": "Chicken wings",
+      "namePrep": "chicken wings",
+      "serving": "1 serving of chicken wings"
+    },
+    "fish-and-chips": {
+      "name": "Fish and chips",
+      "namePrep": "fish and chips",
+      "serving": "1 serving of fish and chips"
+    },
+    "risotto": {
+      "name": "Risotto",
+      "namePrep": "risotto",
+      "serving": "1 serving of risotto"
+    },
+    "tortilla-chips": {
+      "name": "Tortilla chips",
+      "namePrep": "tortilla chips",
+      "serving": "1 serving of tortilla chips"
+    },
+    "granola-bar": {
+      "name": "Granola bar",
+      "namePrep": "granola bar",
+      "serving": "1 serving of granola bar"
+    },
+    "chocolate-bar": {
+      "name": "Chocolate bar",
+      "namePrep": "chocolate bar",
+      "serving": "1 serving of chocolate bar"
+    },
+    "candy": {
+      "name": "Candy",
+      "namePrep": "candy",
+      "serving": "1 serving of candy"
+    },
+    "cinnamon-roll": {
+      "name": "Cinnamon roll",
+      "namePrep": "cinnamon roll",
+      "serving": "1 serving of cinnamon roll"
+    },
+    "marshmallows": {
+      "name": "Marshmallows",
+      "namePrep": "marshmallows",
+      "serving": "1 serving of marshmallows"
+    },
+    "fruit-snacks": {
+      "name": "Fruit snacks",
+      "namePrep": "fruit snacks",
+      "serving": "1 serving of fruit snacks"
+    },
+    "black-coffee": {
+      "name": "Black coffee",
+      "namePrep": "black coffee",
+      "serving": "1 serving of black coffee"
+    },
+    "cappuccino": {
+      "name": "Cappuccino",
+      "namePrep": "cappuccino",
+      "serving": "1 serving of cappuccino"
+    },
+    "milk-tea": {
+      "name": "Milk tea",
+      "namePrep": "milk tea",
+      "serving": "1 serving of milk tea"
+    },
+    "bubble-tea": {
+      "name": "Bubble tea",
+      "namePrep": "bubble tea",
+      "serving": "1 serving of bubble tea"
+    },
+    "lemonade": {
+      "name": "Lemonade",
+      "namePrep": "lemonade",
+      "serving": "1 serving of lemonade"
+    },
+    "iced-tea": {
+      "name": "Iced tea",
+      "namePrep": "iced tea",
+      "serving": "1 serving of iced tea"
+    },
+    "apple-juice": {
+      "name": "Apple juice",
+      "namePrep": "apple juice",
+      "serving": "1 serving of apple juice"
+    },
+    "coconut-water": {
+      "name": "Coconut water",
+      "namePrep": "coconut water",
+      "serving": "1 serving of coconut water"
+    },
+    "sports-drink": {
+      "name": "Sports drink",
+      "namePrep": "sports drink",
+      "serving": "1 serving of sports drink"
+    },
+    "ranch-dressing": {
+      "name": "Ranch dressing",
+      "namePrep": "ranch dressing",
+      "serving": "1 serving of ranch dressing"
+    },
+    "bbq-sauce": {
+      "name": "BBQ sauce",
+      "namePrep": "bbq sauce",
+      "serving": "1 serving of bbq sauce"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "salsa",
+      "serving": "1 serving of salsa"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "guacamole",
+      "serving": "1 serving of guacamole"
+    }
+  },
+  "utility": {
+    "pricing": "Pricing",
+    "support": "Support",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "press": "Press",
+    "deleteExtra": "To request account or data deletion, write from the email linked to the account and use “Delete account” in the subject line."
+  },
+  "store": {
+    "appStoreSmall": "Download on the",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Get it on",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Features",
+    "useCase": "Use cases",
+    "openPage": "Learn more →",
+    "openArrow": "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+    "practicalWorkflow": "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+    "workflowTitle": "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+    "goodToKnow": "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+    "defaultNote": "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+    "relatedPages": "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+    "quickTakeaway": "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+    "defaultTakeaway": "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+    "information": "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+    "bestFor": "Best for"
+  },
+  "internalCta": {
+    "title": "Turn your next meal into a nutrition entry",
+    "text": "Download Calorie Counter AI and experience fast photo calorie tracking.",
+    "button": "Download the app"
+  },
+  "download": {
+    "availableTitle": "Available for iPhone and Android",
+    "availableText": "Start with a photo, barcode or simple diary entry. Keep calorie and macro tracking fast from day one."
+  },
+  "faq": {
+    "items": [
+      [
+        "Is Calorie Counter AI free?",
+        "You can start with free daily AI food analyses. Premium features may be useful if you need higher limits and extra tools."
+      ],
+      [
+        "Can I count calories from a photo?",
+        "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+      ],
+      [
+        "Is there a barcode scanner?",
+        "Scan packaged foods, confirm the product and add calories and macros to your diary in seconds."
+      ],
+      [
+        "Does the app track macros?",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      [
+        "Is it suitable for homemade food?",
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary."
+      ],
+      [
+        "Is it medical advice?",
+        "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "You can start with free daily AI food analyses. Premium features may be useful if you need higher limits and extra tools.",
+      "You can start with free daily AI food analyses. Premium features may be useful if you need higher limits and extra tools."
+    ],
+    "support": [
+      "Need help? Contact support and include your device, platform, app version and a short description of the issue.",
+      "Need help? Contact support and include your device, platform, app version and a short description of the issue."
+    ],
+    "contact": [
+      "Support email: support@caloriecounterai.app",
+      "For partnerships, media requests and feedback, use a clear subject line."
+    ],
+    "privacy": [
+      "Calorie Counter AI is built for food logging and mindful nutrition tracking. Data may include meals, photos, settings and technical information needed to run the service.",
+      "Calorie Counter AI is built for food logging and mindful nutrition tracking. Data may include meals, photos, settings and technical information needed to run the service."
+    ],
+    "terms": [
+      "By using Calorie Counter AI, you agree to use it as an informational nutrition tool and to check estimates before relying on them.",
+      "By using Calorie Counter AI, you agree to use it as an informational nutrition tool and to check estimates before relying on them."
+    ],
+    "disclaimer": [
+      "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+    ],
+    "delete": [
+      "To request account or data deletion, write from the email linked to the account and use “Delete account” in the subject line.",
+      "To request account or data deletion, write from the email linked to the account and use “Delete account” in the subject line."
+    ]
+  },
+  "press": {
+    "iconAlt": "App icon",
+    "iconTitle": "App icon",
+    "downloadIcon": "Download",
+    "screenshotAlt": "App screenshot",
+    "screenshotTitle": "Screenshot",
+    "downloadScreenshot": "Download",
+    "shortDescriptionTitle": "AI calorie counter from photos",
+    "shortDescriptionText": "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The page you are looking for does not exist yet.",
+    "home": "Go home"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Features",
+      "h1": "Features",
+      "description": "Features: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Features",
+      "summary": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+      "bullets": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ]
+      ],
+      "workflowTitle": "Features",
+      "workflow": [
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      "note": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "bestFor": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "workflowKicker": "Features",
+      "noteTitle": "Learn more"
+    },
+    "/food-recognition-ai/": {
+      "title": "AI Photo calorie counter",
+      "h1": "AI Photo calorie counter",
+      "description": "AI Photo calorie counter: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "AI Photo calorie counter",
+      "summary": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+      "bullets": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ]
+      ],
+      "workflowTitle": "AI Photo calorie counter",
+      "workflow": [
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      "note": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "bestFor": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "workflowKicker": "Features",
+      "noteTitle": "Learn more"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Barcode scanner",
+      "h1": "Barcode scanner",
+      "description": "Barcode scanner: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Barcode scanner",
+      "summary": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+      "bullets": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ]
+      ],
+      "workflowTitle": "Barcode scanner",
+      "workflow": [
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      "note": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "bestFor": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "workflowKicker": "Features",
+      "noteTitle": "Learn more"
+    },
+    "/macro-tracker/": {
+      "title": "Macros",
+      "h1": "Macros",
+      "description": "Macros: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Macros",
+      "summary": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+      "bullets": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ]
+      ],
+      "workflowTitle": "Macros",
+      "workflow": [
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      "note": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "bestFor": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "workflowKicker": "Features",
+      "noteTitle": "Learn more"
+    },
+    "/food-diary-app/": {
+      "title": "Food diary",
+      "h1": "Food diary",
+      "description": "Food diary: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Food diary",
+      "summary": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+      "bullets": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ]
+      ],
+      "workflowTitle": "Food diary",
+      "workflow": [
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      "note": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "bestFor": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "workflowKicker": "Features",
+      "noteTitle": "Learn more"
+    },
+    "/nutrition-tracker/": {
+      "title": "Nutrition",
+      "h1": "Nutrition",
+      "description": "Nutrition: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Nutrition",
+      "summary": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+      "bullets": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ]
+      ],
+      "workflowTitle": "Nutrition",
+      "workflow": [
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      "note": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "bestFor": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "workflowKicker": "Features",
+      "noteTitle": "Learn more"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Meal weight estimator",
+      "h1": "Meal weight estimator",
+      "description": "Meal weight estimator: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Meal weight estimator",
+      "summary": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+      "bullets": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ]
+      ],
+      "workflowTitle": "Meal weight estimator",
+      "workflow": [
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      "note": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "bestFor": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "workflowKicker": "Features",
+      "noteTitle": "Learn more"
+    },
+    "/progress-statistics/": {
+      "title": "Nutrition statistics",
+      "h1": "Nutrition statistics",
+      "description": "Nutrition statistics: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Nutrition statistics",
+      "summary": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+      "bullets": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ]
+      ],
+      "workflowTitle": "Nutrition statistics",
+      "workflow": [
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      "note": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "bestFor": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "workflowKicker": "Features",
+      "noteTitle": "Learn more"
+    },
+    "/meal-reminders/": {
+      "title": "Meal reminders",
+      "h1": "Meal reminders",
+      "description": "Meal reminders: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Meal reminders",
+      "summary": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+      "bullets": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ]
+      ],
+      "workflowTitle": "Meal reminders",
+      "workflow": [
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      "note": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "bestFor": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "workflowKicker": "Features",
+      "noteTitle": "Learn more"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Google Health Connect",
+      "description": "Google Health Connect: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Google Health Connect",
+      "summary": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+      "bullets": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ]
+      ],
+      "workflowTitle": "Google Health Connect",
+      "workflow": [
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      "note": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "bestFor": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "workflowKicker": "Features",
+      "noteTitle": "Learn more"
+    },
+    "/data-export/": {
+      "title": "Data export",
+      "h1": "Data export",
+      "description": "Data export: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Data export",
+      "summary": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+      "bullets": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ]
+      ],
+      "workflowTitle": "Data export",
+      "workflow": [
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      "note": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "bestFor": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "workflowKicker": "Features",
+      "noteTitle": "Learn more"
+    },
+    "/use-cases/": {
+      "title": "Use cases",
+      "h1": "Use cases",
+      "description": "Use cases: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Use cases"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Calorie counter for weight loss",
+      "h1": "Calorie counter for weight loss",
+      "description": "Calorie counter for weight loss: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Calorie counter for weight loss",
+      "summary": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+      "bullets": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ]
+      ],
+      "workflowTitle": "Calorie counter for weight loss",
+      "workflow": [
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      "note": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "bestFor": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "workflowKicker": "Features",
+      "noteTitle": "Learn more"
+    },
+    "/calorie-deficit-app/": {
+      "title": "Calorie deficit app",
+      "h1": "Calorie deficit app",
+      "description": "Calorie deficit app: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Calorie deficit app",
+      "summary": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+      "bullets": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ]
+      ],
+      "workflowTitle": "Calorie deficit app",
+      "workflow": [
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      "note": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "bestFor": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "workflowKicker": "Features",
+      "noteTitle": "Learn more"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Calorie tracker for muscle gain",
+      "h1": "Calorie tracker for muscle gain",
+      "description": "Calorie tracker for muscle gain: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Calorie tracker for muscle gain",
+      "summary": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+      "bullets": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ]
+      ],
+      "workflowTitle": "Calorie tracker for muscle gain",
+      "workflow": [
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      "note": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "bestFor": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "workflowKicker": "Features",
+      "noteTitle": "Learn more"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Weight maintenance tracker",
+      "h1": "Weight maintenance tracker",
+      "description": "Weight maintenance tracker: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Weight maintenance tracker",
+      "summary": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+      "bullets": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ]
+      ],
+      "workflowTitle": "Weight maintenance tracker",
+      "workflow": [
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      "note": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "bestFor": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "workflowKicker": "Features",
+      "noteTitle": "Learn more"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Homemade food calorie counter",
+      "h1": "Homemade food calorie counter",
+      "description": "Homemade food calorie counter: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Homemade food calorie counter",
+      "summary": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+      "bullets": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ]
+      ],
+      "workflowTitle": "Homemade food calorie counter",
+      "workflow": [
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      "note": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "bestFor": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "workflowKicker": "Features",
+      "noteTitle": "Learn more"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Restaurant calorie tracker",
+      "h1": "Restaurant calorie tracker",
+      "description": "Restaurant calorie tracker: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Restaurant calorie tracker",
+      "summary": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+      "bullets": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ]
+      ],
+      "workflowTitle": "Restaurant calorie tracker",
+      "workflow": [
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      "note": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "bestFor": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "workflowKicker": "Features",
+      "noteTitle": "Learn more"
+    },
+    "/meal-tracker/": {
+      "title": "Meal tracker",
+      "h1": "Meal tracker",
+      "description": "Meal tracker: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Meal tracker",
+      "summary": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+      "bullets": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ]
+      ],
+      "workflowTitle": "Meal tracker",
+      "workflow": [
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      "note": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "bestFor": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "workflowKicker": "Features",
+      "noteTitle": "Learn more"
+    },
+    "/photo-food-journal/": {
+      "title": "Food diary + Photo calorie counter",
+      "h1": "Food diary + Photo calorie counter",
+      "description": "Food diary + Photo calorie counter: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Food diary + Photo calorie counter",
+      "summary": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+      "bullets": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ]
+      ],
+      "workflowTitle": "Food diary + Photo calorie counter",
+      "workflow": [
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      "note": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "bestFor": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "workflowKicker": "Features",
+      "noteTitle": "Learn more"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Healthy eating tracker",
+      "h1": "Healthy eating tracker",
+      "description": "Healthy eating tracker: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Healthy eating tracker",
+      "summary": "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+      "bullets": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ]
+      ],
+      "workflowTitle": "Healthy eating tracker",
+      "workflow": [
+        "No need to search every ingredient manually. Take a food photo, check the AI estimate and save it to your food diary.",
+        "Track calories, protein, fat and carbs next to your daily goal."
+      ],
+      "note": "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice.",
+      "bestFor": [
+        "Photo calorie counter",
+        "Barcode scanner",
+        "Macros",
+        "Food diary"
+      ],
+      "workflowKicker": "Features",
+      "noteTitle": "Learn more"
+    },
+    "/blog/": {
+      "title": "Calorie counting and AI food logging guides",
+      "h1": "Calorie counting and AI food logging guides",
+      "description": "Calorie counting and AI food logging guides: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Calorie counting and AI food logging guides"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "How to count calories from a photo",
+      "h1": "How to count calories from a photo",
+      "description": "How to count calories from a photo: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "category": "How to count calories from a photo",
+      "readTime": "How to count calories from a photo",
+      "intro": "How to count calories from a photo",
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ],
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ]
+      ],
+      "takeaway": "How to count calories from a photo"
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "How accurate are AI calorie counters?",
+      "h1": "How accurate are AI calorie counters?",
+      "description": "How accurate are AI calorie counters?: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "category": "How accurate are AI calorie counters?",
+      "readTime": "How accurate are AI calorie counters?",
+      "intro": "How accurate are AI calorie counters?",
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ],
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ]
+      ],
+      "takeaway": "How accurate are AI calorie counters?"
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "AI food logging vs manual logging",
+      "h1": "AI food logging vs manual logging",
+      "description": "AI food logging vs manual logging: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "category": "AI food logging vs manual logging",
+      "readTime": "AI food logging vs manual logging",
+      "intro": "AI food logging vs manual logging",
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ],
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ]
+      ],
+      "takeaway": "AI food logging vs manual logging"
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "What is a food scanner?",
+      "h1": "What is a food scanner?",
+      "description": "What is a food scanner?: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "category": "What is a food scanner?",
+      "readTime": "What is a food scanner?",
+      "intro": "What is a food scanner?",
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ],
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ]
+      ],
+      "takeaway": "What is a food scanner?"
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "How to start tracking macros",
+      "h1": "How to start tracking macros",
+      "description": "How to start tracking macros: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "category": "How to start tracking macros",
+      "readTime": "How to start tracking macros",
+      "intro": "How to start tracking macros",
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ],
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ]
+      ],
+      "takeaway": "How to start tracking macros"
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Calories vs macros",
+      "h1": "Calories vs macros",
+      "description": "Calories vs macros: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "category": "Calories vs macros",
+      "readTime": "Calories vs macros",
+      "intro": "Calories vs macros",
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ],
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ]
+      ],
+      "takeaway": "Calories vs macros"
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "How to count calories in homemade food",
+      "h1": "How to count calories in homemade food",
+      "description": "How to count calories in homemade food: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "category": "How to count calories in homemade food",
+      "readTime": "How to count calories in homemade food",
+      "intro": "How to count calories in homemade food",
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ],
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ]
+      ],
+      "takeaway": "How to count calories in homemade food"
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "How to estimate portion size",
+      "h1": "How to estimate portion size",
+      "description": "How to estimate portion size: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "category": "How to estimate portion size",
+      "readTime": "How to estimate portion size",
+      "intro": "How to estimate portion size",
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ],
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ]
+      ],
+      "takeaway": "How to estimate portion size"
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "How many calories should I eat a day?",
+      "h1": "How many calories should I eat a day?",
+      "description": "How many calories should I eat a day?: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "category": "How many calories should I eat a day?",
+      "readTime": "How many calories should I eat a day?",
+      "intro": "How many calories should I eat a day?",
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ],
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ]
+      ],
+      "takeaway": "How many calories should I eat a day?"
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "What is a calorie deficit?",
+      "h1": "What is a calorie deficit?",
+      "description": "What is a calorie deficit?: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "category": "What is a calorie deficit?",
+      "readTime": "What is a calorie deficit?",
+      "intro": "What is a calorie deficit?",
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ],
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ]
+      ],
+      "takeaway": "What is a calorie deficit?"
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Common calorie counting mistakes",
+      "h1": "Common calorie counting mistakes",
+      "description": "Common calorie counting mistakes: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "category": "Common calorie counting mistakes",
+      "readTime": "Common calorie counting mistakes",
+      "intro": "Common calorie counting mistakes",
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ],
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ]
+      ],
+      "takeaway": "Common calorie counting mistakes"
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "How to log restaurant food",
+      "h1": "How to log restaurant food",
+      "description": "How to log restaurant food: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "category": "How to log restaurant food",
+      "readTime": "How to log restaurant food",
+      "intro": "How to log restaurant food",
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ],
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ]
+      ],
+      "takeaway": "How to log restaurant food"
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "How to track protein",
+      "h1": "How to track protein",
+      "description": "How to track protein: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "category": "How to track protein",
+      "readTime": "How to track protein",
+      "intro": "How to track protein",
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ],
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ]
+      ],
+      "takeaway": "How to track protein"
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "What is a food diary?",
+      "h1": "What is a food diary?",
+      "description": "What is a food diary?: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "category": "What is a food diary?",
+      "readTime": "What is a food diary?",
+      "intro": "What is a food diary?",
+      "sections": [
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ],
+        [
+          "Learn more",
+          "Calorie Counter AI provides approximate nutrition estimates for informational purposes and does not replace medical or dietetic advice."
+        ],
+        [
+          "Download",
+          "Download Calorie Counter AI for iPhone or Android and turn your next food photo into a diary entry."
+        ],
+        [
+          "Features",
+          "Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds."
+        ]
+      ],
+      "takeaway": "What is a food diary?"
+    },
+    "/download/": {
+      "title": "Download Calorie Counter AI",
+      "h1": "Download Calorie Counter AI",
+      "description": "Download Calorie Counter AI: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Download Calorie Counter AI"
+    },
+    "/faq/": {
+      "title": "FAQ",
+      "h1": "FAQ",
+      "description": "FAQ: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "FAQ"
+    },
+    "/pricing/": {
+      "title": "Pricing",
+      "h1": "Pricing",
+      "description": "Pricing: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Pricing"
+    },
+    "/support/": {
+      "title": "Support",
+      "h1": "Support",
+      "description": "Support: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Support"
+    },
+    "/contact/": {
+      "title": "Contact",
+      "h1": "Contact",
+      "description": "Contact: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Contact"
+    },
+    "/privacy-policy/": {
+      "title": "Privacy",
+      "h1": "Privacy",
+      "description": "Privacy: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Privacy"
+    },
+    "/terms/": {
+      "title": "Terms",
+      "h1": "Terms",
+      "description": "Terms: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Terms"
+    },
+    "/health-disclaimer/": {
+      "title": "Health disclaimer",
+      "h1": "Health disclaimer",
+      "description": "Health disclaimer: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Health disclaimer"
+    },
+    "/delete-account/": {
+      "title": "Download / Privacy",
+      "h1": "Download / Privacy",
+      "description": "Download / Privacy: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Download / Privacy"
+    },
+    "/press/": {
+      "title": "Press kit",
+      "h1": "Press kit",
+      "description": "Press kit: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Press kit"
+    },
+    "/how-many-calories-in/": {
+      "title": "Calories in foods",
+      "h1": "Calories in foods",
+      "description": "Calories in foods: Take a photo of your meal and get an estimate of calories, protein, fat, carbs and portion size in seconds.",
+      "kicker": "Calories in foods"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Cookie preferences",
+    "text": "We use necessary cookies and local storage to remember your language and cookie choice. With your consent, we also use analytics cookies to improve the website.",
+    "accept": "Accept",
+    "decline": "Decline analytics"
+  }
+}

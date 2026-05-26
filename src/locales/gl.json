@@ -1,0 +1,2619 @@
+{
+  "localeName": "Galego",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "Contador de calorías con IA a partir de fotos"
+  },
+  "nav": {
+    "features": "Funcións",
+    "useCases": "Casos de uso",
+    "blog": "Guías",
+    "faq": "Preguntas frecuentes",
+    "download": "Descargar a app",
+    "language": "Escoller idioma",
+    "openMenu": "Abrir o menú",
+    "caloriesInFoods": "Calorías dos alimentos",
+    "all": "Todo",
+    "allFeatures": "Todas as funcións",
+    "allUseCases": "Todos os casos de uso",
+    "allLearn": "Todas as guías",
+    "openHub": "Ver todo →",
+    "home": "Inicio"
+  },
+  "cta": {
+    "appStore": "Descárgaa na App Store",
+    "googlePlay": "Descárgaa en Google Play",
+    "downloadNow": "Descargar agora",
+    "tryFree": "Probar gratis",
+    "learnMore": "Máis información",
+    "learnMoreArrow": "Máis información →",
+    "readGuide": "Ler a guía"
+  },
+  "home": {
+    "title": "Contador de calorías con IA a partir de fotos",
+    "description": "Saca unha foto da túa comida e obtén en segundos unha estimación editable de calorías, proteínas, graxas, hidratos de carbono e tamaño da ración.",
+    "heroNote": "Comeza gratis con análises diarias de comida con IA. Dispoñible para iPhone e Android.",
+    "photoEyebrow": "Función principal",
+    "photoTitle": "Contador de calorías con foto",
+    "photoText": "Non tes que buscar cada ingrediente á man. Saca unha foto da comida, revisa a estimación da IA e garda a comida no diario alimentario.",
+    "photoChecklist": [
+      "Estimación de calorías a partir dunha foto da comida",
+      "Proteínas, graxas e hidratos de carbono nunha soa vista",
+      "Revisión e edición antes de gardar",
+      "Diario alimentario visual"
+    ],
+    "featureCards": [
+      [
+        "camera",
+        "Rexistro con foto",
+        "Fotografa a comida, revisa a estimación e gárdaa sen buscas longas."
+      ],
+      [
+        "sparkles",
+        "Estimación de comidas con IA",
+        "Cando non hai etiqueta nin receita exacta, obtén un punto de partida para calorías, macronutrientes e ración."
+      ],
+      [
+        "shield",
+        "Análises diarias gratuítas",
+        "Proba o fluxo básico con IA cada día e actualiza só se precisas límites máis altos."
+      ],
+      [
+        "barcode",
+        "Produtos envasados",
+        "Escanea códigos de barras de iogures, bebidas, snacks, pratos preparados e outros alimentos envasados."
+      ],
+      [
+        "macro",
+        "Macronutrientes dunha ollada",
+        "Segue proteínas, graxas e hidratos de carbono xunto co obxectivo diario de calorías."
+      ],
+      [
+        "diary",
+        "Diario visual",
+        "Volve a calquera día, mira as comidas como fotos e detecta hábitos que se repiten."
+      ]
+    ],
+    "foodPreviewTitle": "Cantas calorías teñen os alimentos habituais?",
+    "foodPreviewText": "Unha referencia rápida de calorías e macronutrientes para pratos, snacks e bebidas do día a día.",
+    "foodPreviewLink": "Abrir a guía completa de calorías →",
+    "goalEyebrow": "Obxectivo baixo control",
+    "counterTitle": "Un contador de calorías sinxelo para o día a día",
+    "counterText": "Fotos, códigos de barras, comidas favoritas e un diario claro para que seguir a alimentación non pareza outro traballo.",
+    "goalPills": [
+      "Perda de peso",
+      "Mantemento",
+      "Gañar masa muscular",
+      "Días con pouco tempo"
+    ],
+    "magicEyebrow": "Por que é máis doado?",
+    "magicTitle": "Rexistra a comida en tres pasos",
+    "magicText": "Saca a foto, revisa a estimación e gárdaa. Canta menos entrada manual necesites, máis doado será manter o diario cada día.",
+    "magicSteps": [
+      "Foto",
+      "Revisa",
+      "Garda"
+    ],
+    "barcodeEyebrow": "Produtos envasados",
+    "barcodeTitle": "Escáner de códigos de barras de alimentos",
+    "barcodeText": "Hai código de barras? Escanea o envase, confirma o produto e engade calorías, proteínas, graxas e hidratos de carbono ao diario en segundos.",
+    "barcodeLink": "Máis información sobre o escáner de códigos de barras →",
+    "progressEyebrow": "Progreso claro",
+    "macroTitle": "Segue calorías e macronutrientes",
+    "macroText": "Consulta calorías, proteínas, graxas e hidratos de carbono nun só lugar e compara días, semanas e meses.",
+    "macroLink": "Abrir a páxina de macronutrientes →",
+    "useCasesEyebrow": "Para que serve Calorie Counter AI?",
+    "useCasesTitle": "Obxectivos nutricionais para a vida real",
+    "useCasesText": "Se queres perder peso, mantelo, gañar masa muscular ou entender mellor o que comes, a app converte as comidas en información clara e diaria.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Perda de peso",
+        "Mira cantas calorías che quedan para o obxectivo diario."
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Comida caseira",
+        "Obtén unha estimación de pratos sen etiqueta nin receita exacta."
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Comer fóra",
+        "Rexistra rapidamente comidas de restaurante cunha estimación por foto."
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Gañar masa muscular",
+        "Mantén visibles a proteína e as calorías nunha fase de volume."
+      ]
+    ],
+    "downloadTitle": "Comeza hoxe a contar calorías con IA",
+    "downloadText": "Descarga Calorie Counter AI para iPhone ou Android e converte a próxima foto da comida nun rexistro do diario.",
+    "faqEyebrow": "Preguntas frecuentes",
+    "faqTitle": "Tes dúbidas antes de descargala?",
+    "faq": [
+      [
+        "Calorie Counter AI é gratis?",
+        "Podes comezar con análises diarias gratuítas de comida con IA. Para límites máis altos e funcións avanzadas, pode haber opcións premium."
+      ],
+      [
+        "Podo contar calorías a partir dunha foto?",
+        "Si. Sacas unha foto da comida, revisas a estimación da IA e axustas a ración, os ingredientes, as salsas ou a marca antes de gardala."
+      ],
+      [
+        "Que precisión teñen as estimacións de calorías con IA?",
+        "Non é unha análise de laboratorio, senón unha estimación práctica. O tamaño da ración, a receita, as graxas ocultas, as salsas, a marca e a calidade da foto inflúen no resultado."
+      ],
+      [
+        "Hai escáner de códigos de barras?",
+        "Si. Para produtos envasados podes escanear o código de barras, confirmar o produto e engadir calorías e macronutrientes máis rápido."
+      ],
+      [
+        "Serve para perder peso?",
+        "Si, pode axudarche a seguir un déficit calórico e entender mellor os teus hábitos alimentarios. Para obxectivos médicos, consulta cun profesional."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "Contador de calorías con IA por foto | Calorie Counter AI",
+    "homeOgTitle": "Contador de calorías con IA a partir de fotos",
+    "homeDescription": "Saca unha foto da túa comida e obtén en segundos unha estimación editable de calorías, proteínas, graxas, hidratos de carbono e tamaño da ración."
+  },
+  "footer": {
+    "disclaimer": "As estimacións nutricionais teñen só finalidade informativa e non substitúen o consello dun médico, dietista-nutricionista ou outro profesional sanitario.",
+    "copyright": "© 2026 Calorie Counter AI. Todos os dereitos reservados."
+  },
+  "foodIndex": {
+    "findTitle": "Calorías, macronutrientes e consellos prácticos de ración",
+    "findText": "A guía inclúe valores aproximados para alimentos populares e consellos sobre racións, cociñado, salsas, aceite e ingredientes engadidos.",
+    "categoryIntro": "Buscas populares de calorías e macronutrientes nesta categoría."
+  },
+  "foodPage": {
+    "eyebrow": "Guía de calorías",
+    "trackInApp": "Rexistrar na app",
+    "browseFoods": "Ver alimentos →",
+    "typicalEstimate": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+    "caloriesMacros": "Calorías e macronutrientes",
+    "whenFits": "Cando encaixa",
+    "whatToWatch": "Que convén revisar",
+    "howToLog": "Como rexistralo con máis precisión",
+    "helpfulContext": "Contexto útil",
+    "faq": "Preguntas frecuentes",
+    "weightLossQuestion": "É axeitado para perder peso?",
+    "variabilityQuestion": "Que pode cambiar máis as calorías?",
+    "logFasterTitle": "Rexistra a comida máis rápido",
+    "logFasterText": "Con Calorie Counter AI podes sacar unha foto da comida, obter un borrador do rexistro e axustar a ración, as salsas ou a marca cando faga falta.",
+    "photoTrackingLink": "Como funciona o contador de calorías con foto →",
+    "macros": {
+      "protein": "Proteínas",
+      "fat": "Graxas",
+      "carbs": "Hidratos de carbono"
+    },
+    "titleTemplate": "{namePrep}: calorías e macronutrientes",
+    "h1Template": "{namePrep}: calorías e macronutrientes",
+    "descriptionTemplate": "{name}: calorías, proteínas, graxas e hidratos de carbono para a ración «{serving}», con consellos prácticos para rexistralo no diario alimentario.",
+    "heroIntroTemplate": "Aproximadamente {calories} {kcal}: {servingLower}. Usa esta cifra como punto de partida e axústaa segundo a marca, a receita, a preparación e o tamaño da ración.",
+    "macroParagraphTemplate": "{name}: aproximadamente {calories} {kcal} para «{servingLower}». Esta ración achega arredor de {protein} {gram} de proteínas, {fat} {gram} de graxas e {carbs} {gram} de hidratos de carbono{fiberText}.",
+    "per100Template": "Para comparar, por cada 100 {gram}: aproximadamente {calories} {kcal}, {protein} {gram} de proteínas, {fat} {gram} de graxas e {carbs} {gram} de hidratos de carbono.",
+    "calorieLevelTemplate": "Comeza pola ración: aquí móstranse arredor de {calories} {kcal} para «{servingLower}»."
+  },
+  "foodCategories": {
+    "Fruit": "Froita",
+    "Protein foods": "Alimentos ricos en proteínas",
+    "Fruits and fats": "Froitas e graxas",
+    "Grains and starches": "Cereais e amidóns",
+    "Nuts and spreads": "Froitos secos e cremas para untar",
+    "Breakfast foods": "Alimentos de almorzo",
+    "Dairy": "Lácteos",
+    "Restaurant meals": "Comidas de restaurante",
+    "Fast food": "Comida rápida",
+    "Legumes and plant protein": "Legumes e proteína vexetal",
+    "Desserts": "Sobremesas",
+    "Snacks": "Snacks",
+    "Drinks": "Bebidas",
+    "Vegetables": "Verduras e hortalizas",
+    "Sauces and condiments": "Salsas e condimentos",
+    "Mixed dishes": "Pratos combinados"
+  },
+  "foods": {
+    "banana": {
+      "name": "Banana",
+      "namePrep": "a banana",
+      "serving": "1 banana mediana"
+    },
+    "apple": {
+      "name": "Mazá",
+      "namePrep": "a mazá",
+      "serving": "1 mazá mediana"
+    },
+    "egg": {
+      "name": "Ovo",
+      "namePrep": "o ovo",
+      "serving": "1 ovo grande"
+    },
+    "avocado": {
+      "name": "Aguacate",
+      "namePrep": "o aguacate",
+      "serving": "1/2 aguacate mediano"
+    },
+    "chicken-breast": {
+      "name": "Peituga de polo",
+      "namePrep": "a peituga de polo",
+      "serving": "100 g de peituga de polo cociñada"
+    },
+    "salmon": {
+      "name": "Salmón",
+      "namePrep": "o salmón",
+      "serving": "1 ración de salmón"
+    },
+    "white-rice": {
+      "name": "Arroz branco",
+      "namePrep": "o arroz branco",
+      "serving": "1 ración de arroz branco"
+    },
+    "brown-rice": {
+      "name": "Arroz integral",
+      "namePrep": "o arroz integral",
+      "serving": "1 ración de arroz integral"
+    },
+    "pasta": {
+      "name": "Pasta",
+      "namePrep": "a pasta",
+      "serving": "1 ración de pasta"
+    },
+    "potato": {
+      "name": "Pataca",
+      "namePrep": "a pataca",
+      "serving": "1 pataca mediana"
+    },
+    "sweet-potato": {
+      "name": "Batata doce",
+      "namePrep": "a batata doce",
+      "serving": "1 batata doce mediana"
+    },
+    "bread": {
+      "name": "Pan",
+      "namePrep": "o pan",
+      "serving": "1 porción de pan"
+    },
+    "peanut-butter": {
+      "name": "Crema de cacahuete",
+      "namePrep": "a crema de cacahuete",
+      "serving": "1 culler de sopa de crema de cacahuete"
+    },
+    "oatmeal": {
+      "name": "Papas de avea",
+      "namePrep": "as papas de avea",
+      "serving": "1 cunca de papas de avea"
+    },
+    "greek-yogurt": {
+      "name": "Iogur grego",
+      "namePrep": "o iogur grego",
+      "serving": "1 envase de iogur grego"
+    },
+    "yogurt": {
+      "name": "Iogur",
+      "namePrep": "o iogur",
+      "serving": "1 envase de iogur"
+    },
+    "milk": {
+      "name": "Leite",
+      "namePrep": "o leite",
+      "serving": "1 vaso de leite"
+    },
+    "cheddar-cheese": {
+      "name": "Queixo cheddar",
+      "namePrep": "o queixo cheddar",
+      "serving": "1 ración de queixo cheddar"
+    },
+    "pizza": {
+      "name": "Pizza",
+      "namePrep": "a pizza",
+      "serving": "1 porción de pizza"
+    },
+    "burger": {
+      "name": "Hamburguesa",
+      "namePrep": "a hamburguesa",
+      "serving": "1 hamburguesa"
+    },
+    "french-fries": {
+      "name": "Patacas fritas",
+      "namePrep": "as patacas fritas",
+      "serving": "1 ración de patacas fritas"
+    },
+    "sushi-roll": {
+      "name": "Sushi",
+      "namePrep": "sushi",
+      "serving": "1 ración de sushi"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "um taco",
+      "serving": "1 taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "um burrito",
+      "serving": "1 burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Nuggets de polo",
+      "namePrep": "nuggets de polo",
+      "serving": "1 ración de nuggets de polo"
+    },
+    "hot-dog": {
+      "name": "Perrito quente",
+      "namePrep": "o perrito quente",
+      "serving": "1 perrito quente"
+    },
+    "steak": {
+      "name": "Filete de tenreira",
+      "namePrep": "o filete de tenreira",
+      "serving": "1 ración de filete de tenreira"
+    },
+    "bacon": {
+      "name": "Bacon",
+      "namePrep": "bacon",
+      "serving": "1 ración de bacon"
+    },
+    "tuna": {
+      "name": "Atún",
+      "namePrep": "o atún",
+      "serving": "1 ración de atún"
+    },
+    "shrimp": {
+      "name": "Gambas",
+      "namePrep": "as gambas",
+      "serving": "1 ración de gambas"
+    },
+    "tofu": {
+      "name": "Tofu",
+      "namePrep": "tofu",
+      "serving": "1 ración de tofu"
+    },
+    "lentils": {
+      "name": "Lentellas",
+      "namePrep": "as lentellas",
+      "serving": "1 ración de lentellas"
+    },
+    "black-beans": {
+      "name": "Feixóns negros",
+      "namePrep": "os feixóns negros",
+      "serving": "1 ración de feixóns negros"
+    },
+    "chickpeas": {
+      "name": "Garavanzos",
+      "namePrep": "os garavanzos",
+      "serving": "1 ración de garavanzos"
+    },
+    "hummus": {
+      "name": "Húmus",
+      "namePrep": "húmus",
+      "serving": "1 ración de húmus"
+    },
+    "quinoa": {
+      "name": "Quinoa",
+      "namePrep": "quinoa",
+      "serving": "1 ración de quinoa"
+    },
+    "tortilla": {
+      "name": "Tortilha",
+      "namePrep": "tortilha",
+      "serving": "1 tortilha"
+    },
+    "bagel": {
+      "name": "Bagel",
+      "namePrep": "bagel",
+      "serving": "1 bagel"
+    },
+    "croissant": {
+      "name": "Croissant",
+      "namePrep": "croissant",
+      "serving": "1 croissant"
+    },
+    "pancake": {
+      "name": "Filloas",
+      "namePrep": "filloas",
+      "serving": "2 filloas"
+    },
+    "waffle": {
+      "name": "Gofre",
+      "namePrep": "gofre",
+      "serving": "1 gofre"
+    },
+    "cereal": {
+      "name": "Cereal",
+      "namePrep": "cereal",
+      "serving": "1 tigela de cereal"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granola",
+      "serving": "1 ración de granola"
+    },
+    "almonds": {
+      "name": "Amêndoas",
+      "namePrep": "amêndoas",
+      "serving": "1 ración de amêndoas"
+    },
+    "walnuts": {
+      "name": "Nozes",
+      "namePrep": "nozes",
+      "serving": "1 ración de nozes"
+    },
+    "cashews": {
+      "name": "Castanhas-de-caju",
+      "namePrep": "castanhas-de-caju",
+      "serving": "1 ración de castanhas-de-caju"
+    },
+    "chocolate": {
+      "name": "Chocolate",
+      "namePrep": "chocolate",
+      "serving": "1 ración de chocolate"
+    },
+    "ice-cream": {
+      "name": "Gelado",
+      "namePrep": "gelado",
+      "serving": "1 bola de gelado"
+    },
+    "cookie": {
+      "name": "Galleta con pepitas de chocolate",
+      "namePrep": "uma galleta con pepitas de chocolate",
+      "serving": "1 galleta con pepitas de chocolate"
+    },
+    "donut": {
+      "name": "Donut glaceado",
+      "namePrep": "um donut glaceado",
+      "serving": "1 donut glaceado"
+    },
+    "muffin": {
+      "name": "Muffin de mirtilo",
+      "namePrep": "um muffin de mirtilo",
+      "serving": "1 muffin de mirtilo"
+    },
+    "cake": {
+      "name": "Torta",
+      "namePrep": "torta",
+      "serving": "1 ración de torta"
+    },
+    "brownie": {
+      "name": "Brownie",
+      "namePrep": "brownie",
+      "serving": "1 brownie"
+    },
+    "popcorn": {
+      "name": "Pipoca",
+      "namePrep": "pipoca",
+      "serving": "1 ración de pipoca"
+    },
+    "potato-chips": {
+      "name": "Patacas fritas de pacote",
+      "namePrep": "patacas fritas de pacote",
+      "serving": "1 ración de patacas fritas de pacote"
+    },
+    "pretzels": {
+      "name": "Pretzels",
+      "namePrep": "pretzels",
+      "serving": "1 ración de pretzels"
+    },
+    "smoothie": {
+      "name": "Batido de fruta",
+      "namePrep": "batido de fruta",
+      "serving": "1 copo de batido de fruta"
+    },
+    "orange-juice": {
+      "name": "Zume de laranxa",
+      "namePrep": "o zume de laranxa",
+      "serving": "1 vaso de zume de laranxa"
+    },
+    "soda": {
+      "name": "Bebida gaseificada",
+      "namePrep": "bebida gaseificada",
+      "serving": "1 lata de bebida gaseificada"
+    },
+    "latte": {
+      "name": "Café con leite",
+      "namePrep": "o café con leite",
+      "serving": "1 cunca de café con leite"
+    },
+    "protein-shake": {
+      "name": "Batido de proteínas",
+      "namePrep": "o batido de proteínas",
+      "serving": "1 batido de proteínas"
+    },
+    "spaghetti-bolognese": {
+      "name": "Espaguete à tortanhesa",
+      "namePrep": "espaguete à tortanhesa",
+      "serving": "1 ración de espaguete à tortanhesa"
+    },
+    "ramen": {
+      "name": "Lámen",
+      "namePrep": "lámen",
+      "serving": "1 tigela de lámen"
+    },
+    "pho": {
+      "name": "Pho",
+      "namePrep": "pho",
+      "serving": "1 tigela de pho"
+    },
+    "chicken-soup": {
+      "name": "Canja de galinha",
+      "namePrep": "canja de galinha",
+      "serving": "1 tigela de canja de galinha"
+    },
+    "caesar-salad": {
+      "name": "Ensalada César",
+      "namePrep": "a ensalada César",
+      "serving": "1 ración de ensalada César"
+    },
+    "green-salad": {
+      "name": "Ensalada verde",
+      "namePrep": "a ensalada verde",
+      "serving": "1 ración de ensalada verde"
+    },
+    "broccoli": {
+      "name": "Brócolis",
+      "namePrep": "brócolis",
+      "serving": "1 ración de brócolis"
+    },
+    "spinach": {
+      "name": "Espinafre",
+      "namePrep": "espinafre",
+      "serving": "1 ración de espinafre"
+    },
+    "carrots": {
+      "name": "Cenorias",
+      "namePrep": "cenorias",
+      "serving": "1 ración de cenorias"
+    },
+    "corn": {
+      "name": "Millo",
+      "namePrep": "millo",
+      "serving": "1 ración de millo"
+    },
+    "tomato": {
+      "name": "Tomate",
+      "namePrep": "tomate",
+      "serving": "1 tomate médio"
+    },
+    "cucumber": {
+      "name": "Cogombro",
+      "namePrep": "cogombro",
+      "serving": "1 ración de cogombro"
+    },
+    "cheesecake": {
+      "name": "Cheesecake",
+      "namePrep": "cheesecake",
+      "serving": "1 ración de cheesecake"
+    },
+    "lasagna": {
+      "name": "Lasanha",
+      "namePrep": "lasanha",
+      "serving": "1 ración de lasanha"
+    },
+    "grilled-cheese": {
+      "name": "Tosta de queixo",
+      "namePrep": "uma tosta de queixo",
+      "serving": "1 tosta de queixo"
+    },
+    "peanut-butter-jelly": {
+      "name": "Bocadillo de manteiga de cacahuete e compota",
+      "namePrep": "uma bocadillo de manteiga de cacahuete e compota",
+      "serving": "1 bocadillo de manteiga de cacahuete e compota"
+    },
+    "omelette": {
+      "name": "Tortilla francesa",
+      "namePrep": "a tortilla francesa",
+      "serving": "1 tortilla francesa"
+    },
+    "fried-egg": {
+      "name": "Ovo fritido",
+      "namePrep": "o ovo fritido",
+      "serving": "1 ovo fritido"
+    },
+    "boiled-egg": {
+      "name": "Ovo cocido",
+      "namePrep": "o ovo cocido",
+      "serving": "1 ovo cocido"
+    },
+    "toast": {
+      "name": "Torrada",
+      "namePrep": "a torrada",
+      "serving": "1 torrada"
+    },
+    "avocado-toast": {
+      "name": "Torrada con aguacate",
+      "namePrep": "a torrada con aguacate",
+      "serving": "1 torrada con aguacate"
+    },
+    "chicken-salad": {
+      "name": "Salada de polo",
+      "namePrep": "salada de polo",
+      "serving": "1 ración de salada de polo"
+    },
+    "tuna-salad": {
+      "name": "Salada de atún",
+      "namePrep": "salada de atún",
+      "serving": "1 ración de salada de atún"
+    },
+    "egg-salad": {
+      "name": "Salada de ovo",
+      "namePrep": "salada de ovo",
+      "serving": "1 ración de salada de ovo"
+    },
+    "cottage-cheese": {
+      "name": "Queixo cottage",
+      "namePrep": "queixo cottage",
+      "serving": "1 ración de queixo cottage"
+    },
+    "cream-cheese": {
+      "name": "Queixo creme",
+      "namePrep": "queixo creme",
+      "serving": "1 ración de queixo creme"
+    },
+    "butter": {
+      "name": "Manteiga",
+      "namePrep": "a manteiga",
+      "serving": "1 ración de manteiga"
+    },
+    "olive-oil": {
+      "name": "Aceite de oliva",
+      "namePrep": "o aceite de oliva",
+      "serving": "1 culler de sopa de aceite de oliva"
+    },
+    "mayonnaise": {
+      "name": "Maionesa",
+      "namePrep": "maionesa",
+      "serving": "1 ración de maionesa"
+    },
+    "ketchup": {
+      "name": "Ketchup",
+      "namePrep": "ketchup",
+      "serving": "1 ración de ketchup"
+    },
+    "honey": {
+      "name": "Mel",
+      "namePrep": "o mel",
+      "serving": "1 ración de mel"
+    },
+    "jam": {
+      "name": "Marmelada",
+      "namePrep": "a marmelada",
+      "serving": "1 ración de marmelada"
+    },
+    "protein-bar": {
+      "name": "Barra proteica",
+      "namePrep": "barra proteica",
+      "serving": "1 barra proteica"
+    },
+    "energy-drink": {
+      "name": "Bebida enerxética",
+      "namePrep": "bebida enerxética",
+      "serving": "1 lata de bebida enerxética"
+    },
+    "matcha-latte": {
+      "name": "Matcha latte",
+      "namePrep": "matcha latte",
+      "serving": "1 matcha latte"
+    },
+    "trail-mix": {
+      "name": "Mix de castanhas e frutas secas",
+      "namePrep": "mix de castanhas e frutas secas",
+      "serving": "1 ración de mix de castanhas e frutas secas"
+    },
+    "blueberries": {
+      "name": "Arándanos",
+      "namePrep": "arándanos",
+      "serving": "1 ración de arándanos"
+    },
+    "strawberries": {
+      "name": "Amorodos",
+      "namePrep": "amorodos",
+      "serving": "1 ración de amorodos"
+    },
+    "grapes": {
+      "name": "Uvas",
+      "namePrep": "uvas",
+      "serving": "1 ración de uvas"
+    },
+    "orange": {
+      "name": "Laranxa",
+      "namePrep": "uma laranxa",
+      "serving": "1 laranxa média"
+    },
+    "pear": {
+      "name": "Pera",
+      "namePrep": "uma pera",
+      "serving": "1 pera média"
+    },
+    "peach": {
+      "name": "Pexego",
+      "namePrep": "um pexego",
+      "serving": "1 pexego médio"
+    },
+    "watermelon": {
+      "name": "Sandía",
+      "namePrep": "sandía",
+      "serving": "1 ración de sandía"
+    },
+    "pineapple": {
+      "name": "Piña",
+      "namePrep": "piña",
+      "serving": "1 ración de piña"
+    },
+    "mango": {
+      "name": "Manga",
+      "namePrep": "manga",
+      "serving": "1 manga média"
+    },
+    "kiwi": {
+      "name": "Kiwi",
+      "namePrep": "kiwi",
+      "serving": "1 kiwi"
+    },
+    "raspberries": {
+      "name": "Framboesas",
+      "namePrep": "framboesas",
+      "serving": "1 ración de framboesas"
+    },
+    "blackberries": {
+      "name": "Amoras",
+      "namePrep": "moras",
+      "serving": "1 ración de moras"
+    },
+    "cherries": {
+      "name": "Cereixas",
+      "namePrep": "cereixas",
+      "serving": "1 ración de cereixas"
+    },
+    "grapefruit": {
+      "name": "Pomelo",
+      "namePrep": "pomelo",
+      "serving": "1/2 pomelo"
+    },
+    "lettuce": {
+      "name": "Leituga",
+      "namePrep": "leituga",
+      "serving": "1 ración de leituga"
+    },
+    "cabbage": {
+      "name": "Couve",
+      "namePrep": "couve",
+      "serving": "1 ración de couve"
+    },
+    "cauliflower": {
+      "name": "Coliflor",
+      "namePrep": "coliflor",
+      "serving": "1 ración de coliflor"
+    },
+    "asparagus": {
+      "name": "Aspargos",
+      "namePrep": "aspargos",
+      "serving": "1 ración de aspargos"
+    },
+    "zucchini": {
+      "name": "Cabaciña",
+      "namePrep": "cabaciña",
+      "serving": "1 ración de cabaciña"
+    },
+    "eggplant": {
+      "name": "Berenxena",
+      "namePrep": "berenxena",
+      "serving": "1 ración de berenxena"
+    },
+    "bell-pepper": {
+      "name": "Pimentão",
+      "namePrep": "pimentão",
+      "serving": "1 pimentão médio"
+    },
+    "onion": {
+      "name": "Cebola",
+      "namePrep": "cebola",
+      "serving": "1 cebola média"
+    },
+    "mushrooms": {
+      "name": "Cogomelos",
+      "namePrep": "cogomelos",
+      "serving": "1 ración de cogomelos"
+    },
+    "green-beans": {
+      "name": "Feixón-verde",
+      "namePrep": "feixón-verde",
+      "serving": "1 ración de feixón-verde"
+    },
+    "kale": {
+      "name": "Couve",
+      "namePrep": "couve",
+      "serving": "1 ración de couve"
+    },
+    "beets": {
+      "name": "Beterraba",
+      "namePrep": "beterraba",
+      "serving": "1 ración de beterraba"
+    },
+    "turkey-breast": {
+      "name": "Peito de pavo",
+      "namePrep": "peito de pavo",
+      "serving": "1 ración de peito de pavo"
+    },
+    "chicken-thigh": {
+      "name": "Coxa de polo",
+      "namePrep": "coxa de polo",
+      "serving": "1 coxa de polo"
+    },
+    "pork-chop": {
+      "name": "Costeleta de porco",
+      "namePrep": "costeleta de porco",
+      "serving": "1 costeleta de porco"
+    },
+    "ground-beef": {
+      "name": "Carne picada",
+      "namePrep": "carne picada",
+      "serving": "1 ración de carne picada"
+    },
+    "meatballs": {
+      "name": "Almôndegas",
+      "namePrep": "almôndegas",
+      "serving": "1 ración de almôndegas"
+    },
+    "sausage": {
+      "name": "Salsicha",
+      "namePrep": "salsicha",
+      "serving": "1 salsicha"
+    },
+    "cod": {
+      "name": "Bacallau",
+      "namePrep": "bacallau",
+      "serving": "1 ración de bacallau"
+    },
+    "tilapia": {
+      "name": "Tilápia",
+      "namePrep": "tilápia",
+      "serving": "1 ración de tilápia"
+    },
+    "sardines": {
+      "name": "Sardiñas",
+      "namePrep": "sardiñas",
+      "serving": "1 ración de sardiñas"
+    },
+    "crab": {
+      "name": "Cangrexo",
+      "namePrep": "cangrexo",
+      "serving": "1 ración de cangrexo"
+    },
+    "scallops": {
+      "name": "Vieiras",
+      "namePrep": "vieiras",
+      "serving": "1 ración de vieiras"
+    },
+    "smoked-salmon": {
+      "name": "Salmón fumado",
+      "namePrep": "salmón fumado",
+      "serving": "1 ración de salmón fumado"
+    },
+    "skim-milk": {
+      "name": "Leite magro",
+      "namePrep": "leite magro",
+      "serving": "1 copo de leite magro"
+    },
+    "soy-milk": {
+      "name": "Leite de soja",
+      "namePrep": "leite de soja",
+      "serving": "1 copo de leite de soja"
+    },
+    "almond-milk": {
+      "name": "Leite de amêndoas",
+      "namePrep": "leite de amêndoas",
+      "serving": "1 copo de leite de amêndoas"
+    },
+    "oat-milk": {
+      "name": "Leite de avea",
+      "namePrep": "leite de avea",
+      "serving": "1 copo de leite de avea"
+    },
+    "kefir": {
+      "name": "Kefir",
+      "namePrep": "kefir",
+      "serving": "1 copo de kefir"
+    },
+    "sour-cream": {
+      "name": "Nata agres",
+      "namePrep": "nata agres",
+      "serving": "1 ración de nata agres"
+    },
+    "feta-cheese": {
+      "name": "Queixo feta",
+      "namePrep": "queixo feta",
+      "serving": "1 ración de queixo feta"
+    },
+    "mozzarella": {
+      "name": "Mozarela",
+      "namePrep": "mozarela",
+      "serving": "1 ración de mozarela"
+    },
+    "parmesan": {
+      "name": "Parmesano",
+      "namePrep": "parmesano",
+      "serving": "1 ración de parmesano"
+    },
+    "couscous": {
+      "name": "Cuscuz",
+      "namePrep": "cuscuz",
+      "serving": "1 ración de cuscuz"
+    },
+    "barley": {
+      "name": "Cebada",
+      "namePrep": "cebada",
+      "serving": "1 ración de cebada"
+    },
+    "buckwheat": {
+      "name": "Trigo sarraceno",
+      "namePrep": "trigo sarraceno",
+      "serving": "1 ración de trigo sarraceno"
+    },
+    "bulgur": {
+      "name": "Bulgur",
+      "namePrep": "bulgur",
+      "serving": "1 ración de bulgur"
+    },
+    "naan": {
+      "name": "Naan",
+      "namePrep": "naan",
+      "serving": "1 naan"
+    },
+    "pita-bread": {
+      "name": "Pan pita",
+      "namePrep": "pan pita",
+      "serving": "1 pan pita"
+    },
+    "english-muffin": {
+      "name": "Muffin inglês",
+      "namePrep": "muffin inglês",
+      "serving": "1 muffin inglês"
+    },
+    "rice-cake": {
+      "name": "Galleta de arroz",
+      "namePrep": "galleta de arroz",
+      "serving": "1 galleta de arroz"
+    },
+    "crackers": {
+      "name": "Galletas de água e sal",
+      "namePrep": "galletas de água e sal",
+      "serving": "1 ración de galletas de água e sal"
+    },
+    "mashed-potatoes": {
+      "name": "Puré de pataca",
+      "namePrep": "puré de pataca",
+      "serving": "1 ración de puré de pataca"
+    },
+    "scrambled-eggs": {
+      "name": "Ovos revoltos",
+      "namePrep": "os ovos revoltos",
+      "serving": "1 ración de ovos revoltos"
+    },
+    "french-toast": {
+      "name": "Rabanada",
+      "namePrep": "rabanada",
+      "serving": "1 ración de rabanada"
+    },
+    "breakfast-burrito": {
+      "name": "Burrito de almorzo",
+      "namePrep": "burrito de almorzo",
+      "serving": "1 burrito de almorzo"
+    },
+    "hash-browns": {
+      "name": "Pataca hash brown",
+      "namePrep": "pataca hash brown",
+      "serving": "1 ración de pataca hash brown"
+    },
+    "chia-pudding": {
+      "name": "Pudim de chia",
+      "namePrep": "pudim de chia",
+      "serving": "1 ración de pudim de chia"
+    },
+    "overnight-oats": {
+      "name": "Avea de véspera",
+      "namePrep": "avea de véspera",
+      "serving": "1 ración de avea de véspera"
+    },
+    "breakfast-sandwich": {
+      "name": "Bocadillo de almorzo",
+      "namePrep": "bocadillo de almorzo",
+      "serving": "1 bocadillo de almorzo"
+    },
+    "edamame": {
+      "name": "Edamame",
+      "namePrep": "edamame",
+      "serving": "1 ración de edamame"
+    },
+    "kidney-beans": {
+      "name": "Feixón-vermelho",
+      "namePrep": "feixón-vermelho",
+      "serving": "1 ración de feixón-vermelho"
+    },
+    "pinto-beans": {
+      "name": "Feixón carioca",
+      "namePrep": "feixón carioca",
+      "serving": "1 ración de feixón carioca"
+    },
+    "split-peas": {
+      "name": "Ervilhas partidas",
+      "namePrep": "ervilhas partidas",
+      "serving": "1 ración de ervilhas partidas"
+    },
+    "baked-beans": {
+      "name": "Feixón ao molho",
+      "namePrep": "feixón ao molho",
+      "serving": "1 ración de feixón ao molho"
+    },
+    "fried-rice": {
+      "name": "Arroz salteado",
+      "namePrep": "arroz salteado",
+      "serving": "1 ración de arroz salteado"
+    },
+    "pad-thai": {
+      "name": "Pad thai",
+      "namePrep": "pad thai",
+      "serving": "1 ración de pad thai"
+    },
+    "chicken-curry": {
+      "name": "Curry de polo",
+      "namePrep": "curry de polo",
+      "serving": "1 ración de curry de polo"
+    },
+    "chicken-tikka-masala": {
+      "name": "Polo tikka masala",
+      "namePrep": "polo tikka masala",
+      "serving": "1 ración de polo tikka masala"
+    },
+    "beef-chili": {
+      "name": "Chili con carne",
+      "namePrep": "chili con carne",
+      "serving": "1 ración de chili con carne"
+    },
+    "falafel": {
+      "name": "Falafel",
+      "namePrep": "falafel",
+      "serving": "1 ración de falafel"
+    },
+    "dumplings": {
+      "name": "Dumplings",
+      "namePrep": "dumplings",
+      "serving": "1 ración de dumplings"
+    },
+    "spring-rolls": {
+      "name": "Rolinho primavera",
+      "namePrep": "rolinho primavera",
+      "serving": "1 ración de rolinho primavera"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "quesadilla",
+      "serving": "1 quesadilla"
+    },
+    "nachos": {
+      "name": "Nachos",
+      "namePrep": "nachos",
+      "serving": "1 ración de nachos"
+    },
+    "mac-and-cheese": {
+      "name": "Pasta con queixo",
+      "namePrep": "pasta con queixo",
+      "serving": "1 ración de pasta con queixo"
+    },
+    "chicken-wings": {
+      "name": "Asinhas de polo",
+      "namePrep": "asinhas de polo",
+      "serving": "1 ración de asinhas de polo"
+    },
+    "fish-and-chips": {
+      "name": "Fish and chips",
+      "namePrep": "fish and chips",
+      "serving": "1 ración de fish and chips"
+    },
+    "risotto": {
+      "name": "Risoto",
+      "namePrep": "risoto",
+      "serving": "1 ración de risoto"
+    },
+    "tortilla-chips": {
+      "name": "Chips de tortilha",
+      "namePrep": "chips de tortilha",
+      "serving": "1 ración de chips de tortilha"
+    },
+    "granola-bar": {
+      "name": "Barra de cereais",
+      "namePrep": "barra de cereais",
+      "serving": "1 barra de cereais"
+    },
+    "chocolate-bar": {
+      "name": "Barra de chocolate",
+      "namePrep": "barra de chocolate",
+      "serving": "1 barra de chocolate"
+    },
+    "candy": {
+      "name": "Rebuçados",
+      "namePrep": "rebuçados",
+      "serving": "1 ración de rebuçados"
+    },
+    "cinnamon-roll": {
+      "name": "Rolinho de canela",
+      "namePrep": "rolinho de canela",
+      "serving": "1 rolinho de canela"
+    },
+    "marshmallows": {
+      "name": "Marshmallows",
+      "namePrep": "marshmallows",
+      "serving": "1 ración de marshmallows"
+    },
+    "fruit-snacks": {
+      "name": "Snacks de frutas",
+      "namePrep": "snacks de frutas",
+      "serving": "1 ración de snacks de frutas"
+    },
+    "black-coffee": {
+      "name": "Café só",
+      "namePrep": "o café só",
+      "serving": "1 cunca de café só"
+    },
+    "cappuccino": {
+      "name": "Cappuccino",
+      "namePrep": "cappuccino",
+      "serving": "1 cappuccino"
+    },
+    "milk-tea": {
+      "name": "Chá con leite",
+      "namePrep": "chá con leite",
+      "serving": "1 copo de chá con leite"
+    },
+    "bubble-tea": {
+      "name": "Bubble tea",
+      "namePrep": "bubble tea",
+      "serving": "1 bubble tea"
+    },
+    "lemonade": {
+      "name": "Limonada",
+      "namePrep": "limonada",
+      "serving": "1 copo de limonada"
+    },
+    "iced-tea": {
+      "name": "Chá gelado",
+      "namePrep": "chá gelado",
+      "serving": "1 copo de chá gelado"
+    },
+    "apple-juice": {
+      "name": "Zume de mazá",
+      "namePrep": "o zume de mazá",
+      "serving": "1 vaso de zume de mazá"
+    },
+    "coconut-water": {
+      "name": "Água de coco",
+      "namePrep": "água de coco",
+      "serving": "1 copo de água de coco"
+    },
+    "sports-drink": {
+      "name": "Bebida desportiva",
+      "namePrep": "bebida desportiva",
+      "serving": "1 garrafa de bebida desportiva"
+    },
+    "ranch-dressing": {
+      "name": "Molho ranch",
+      "namePrep": "molho ranch",
+      "serving": "1 ración de molho ranch"
+    },
+    "bbq-sauce": {
+      "name": "Molho barbecue",
+      "namePrep": "molho barbecue",
+      "serving": "1 ración de molho barbecue"
+    },
+    "salsa": {
+      "name": "Salsa mexicana",
+      "namePrep": "salsa mexicana",
+      "serving": "1 ración de salsa mexicana"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "guacamole",
+      "serving": "1 ración de guacamole"
+    }
+  },
+  "utility": {
+    "pricing": "Prezos",
+    "support": "Soporte",
+    "privacy": "Privacidade",
+    "terms": "Condicións de uso",
+    "press": "Kit de prensa",
+    "deleteExtra": "Para eliminar a conta ou os datos, escribe desde o correo asociado á conta e pon “Delete account” no asunto."
+  },
+  "store": {
+    "appStoreSmall": "Descárgaa na",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Dispoñible en",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Función",
+    "useCase": "Caso de uso",
+    "openPage": "Abrir a páxina",
+    "openArrow": "Abrir →",
+    "practicalWorkflow": "Fluxo práctico",
+    "workflowTitle": "Uso diario",
+    "goodToKnow": "Cómpre saber",
+    "defaultNote": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+    "relatedPages": "Páxinas relacionadas",
+    "quickTakeaway": "Resumo rápido",
+    "defaultTakeaway": "A foto, a revisión da ración e as correccións manuais fan que o diario alimentario sexa máis doado de manter.",
+    "information": "Información",
+    "bestFor": "Ideal para"
+  },
+  "internalCta": {
+    "title": "Proba o contador de calorías con IA por foto",
+    "text": "Fotografa a túa próxima comida, revisa a estimación de calorías e macronutrientes e gárdaa no diario alimentario.",
+    "button": "Descargar a app"
+  },
+  "download": {
+    "availableTitle": "Dispoñible para iPhone e Android",
+    "availableText": "Descarga Calorie Counter AI para iPhone ou Android e converte a próxima foto da comida nun rexistro do diario."
+  },
+  "faq": {
+    "items": [
+      [
+        "Calorie Counter AI é gratis?",
+        "Podes comezar con análises diarias gratuítas de comida con IA. Para límites máis altos e funcións avanzadas, pode haber opcións premium."
+      ],
+      [
+        "Podo contar calorías a partir dunha foto?",
+        "Si. Sacas unha foto da comida, revisas a estimación da IA e axustas a ración, os ingredientes, as salsas ou a marca antes de gardala."
+      ],
+      [
+        "Que precisión teñen as estimacións de calorías con IA?",
+        "Non é unha análise de laboratorio, senón unha estimación práctica. O tamaño da ración, a receita, as graxas ocultas, as salsas, a marca e a calidade da foto inflúen no resultado."
+      ],
+      [
+        "Hai escáner de códigos de barras?",
+        "Si. Para produtos envasados podes escanear o código de barras, confirmar o produto e engadir calorías e macronutrientes máis rápido."
+      ],
+      [
+        "Serve para perder peso?",
+        "Si, pode axudarche a seguir un déficit calórico e entender mellor os teus hábitos alimentarios. Para obxectivos médicos, consulta cun profesional."
+      ],
+      [
+        "Podo seguir proteínas, graxas e hidratos de carbono?",
+        "Si. Cada rexistro mostra calorías xunto con proteínas, graxas e hidratos de carbono para que vexas os macronutrientes ao longo do día."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Podes comezar con análises diarias gratuítas de comida con IA. Para límites máis altos, ferramentas avanzadas e funcións adicionais, pode haber opcións premium.",
+      "Os prezos, os períodos de proba e as subscricións poden variar segundo o país e a plataforma. O prezo actual móstrase na App Store ou en Google Play antes da compra."
+    ],
+    "support": [
+      "Necesitas axuda? Ao escribir ao soporte, indica o dispositivo, a plataforma, a versión da app e unha descrición breve do problema.",
+      "Os pagamentos, reembolsos e a xestión de subscricións adoitan facerse desde a configuración da App Store ou de Google Play, porque a compra pasa pola tenda."
+    ],
+    "contact": [
+      "Correo de soporte: support@caloriecounterai.app",
+      "Para colaboracións, peticións de medios ou comentarios sobre o produto, un asunto claro axuda a responder máis rápido."
+    ],
+    "privacy": [
+      "Calorie Counter AI está pensado para levar un diario alimentario e entender mellor a nutrición. Os datos poden incluír rexistros de comidas, fotos, preferencias e información técnica necesaria para facer funcionar o servizo.",
+      "Permite só os datos de saúde e actividade cos que te sintas cómodo. Podes cambiar os permisos desde a configuración do dispositivo."
+    ],
+    "terms": [
+      "Ao usar Calorie Counter AI aceptas que a app é unha ferramenta informativa para rexistrar a alimentación e que debes revisar as estimacións antes de empregalas.",
+      "As funcións, os límites gratuítos e as opcións premium poden cambiar. As compras feitas a través da App Store e Google Play tamén están suxeitas ás normas de cada tenda."
+    ],
+    "disclaimer": [
+      "As estimacións nutricionais teñen só finalidade informativa e non substitúen o consello dun médico, dietista-nutricionista ou outro profesional sanitario.",
+      "As estimacións con foto dependen da ración, dos ingredientes ocultos, da receita, da calidade da foto e das correccións manuais. Se tes unha enfermidade, estás embarazada, tes antecedentes de trastornos da conduta alimentaria ou obxectivos nutricionais clínicos, consulta cun profesional."
+    ],
+    "delete": [
+      "Para eliminar a conta ou os datos, escribe desde o correo asociado á conta e pon “Delete account” no asunto.",
+      "O equipo de soporte pode pedir información adicional para confirmar a solicitude e atopar a conta correcta."
+    ]
+  },
+  "press": {
+    "iconAlt": "Icona da app",
+    "iconTitle": "Icona da app",
+    "downloadIcon": "Descargar icona",
+    "screenshotAlt": "Captura de pantalla da app",
+    "screenshotTitle": "Captura de pantalla",
+    "downloadScreenshot": "Descargar captura",
+    "shortDescriptionTitle": "Descrición breve",
+    "shortDescriptionText": "Calorie Counter AI é un contador de calorías con intelixencia artificial que estima calorías, macronutrientes e tamaño da ración a partir dunha foto da comida, con escáner de códigos de barras e diario alimentario visual."
+  },
+  "notFound": {
+    "title": "Non se atopou a páxina",
+    "text": "É posible que a ligazón sexa antiga ou que a páxina se movese.",
+    "home": "Volver ao inicio"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Funcións",
+      "h1": "Funcións",
+      "description": "Funcións en Calorie Counter AI: usa fotos, código de barras, revisión da ración e macronutrientes para rexistrar a alimentación con menos fricción.",
+      "kicker": "Función",
+      "summary": "A app dáche un punto de partida rápido, pero deixa espazo para corrixir racións, ingredientes e detalles importantes antes de gardar o rexistro.",
+      "bullets": [
+        "Rexistro rápido con foto ou código de barras",
+        "Estimación editable de calorías e macronutrientes",
+        "Diario alimentario claro para volver a cada día",
+        "Control manual cando a precisión importa"
+      ],
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ]
+      ],
+      "workflowTitle": "Como usalo no rexistro diario",
+      "workflow": [
+        "Escolle o método máis rápido para cada comida: foto para pratos sen etiqueta, código de barras para produtos envasados e edición manual para receitas que coñeces ben.",
+        "Así o diario segue sendo rápido, pero non cego: a app axuda a comezar e ti confirmas o que afecta á precisión."
+      ],
+      "note": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+      "bestFor": [
+        "rexistro rápido",
+        "obxectivos diarios",
+        "revisión de racións",
+        "seguimento sostible"
+      ],
+      "workflowKicker": "Enfoque práctico",
+      "noteTitle": "A ter en conta"
+    },
+    "/food-recognition-ai/": {
+      "title": "Recoñecemento de alimentos con IA",
+      "h1": "Recoñecemento de alimentos con IA",
+      "description": "Recoñecemento de alimentos con IA en Calorie Counter AI: usa fotos, código de barras, revisión da ración e macronutrientes para rexistrar a alimentación con menos fricción.",
+      "kicker": "Función",
+      "summary": "A app dáche un punto de partida rápido, pero deixa espazo para corrixir racións, ingredientes e detalles importantes antes de gardar o rexistro.",
+      "bullets": [
+        "Rexistro rápido con foto ou código de barras",
+        "Estimación editable de calorías e macronutrientes",
+        "Diario alimentario claro para volver a cada día",
+        "Control manual cando a precisión importa"
+      ],
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ]
+      ],
+      "workflowTitle": "Como usalo no rexistro diario",
+      "workflow": [
+        "Escolle o método máis rápido para cada comida: foto para pratos sen etiqueta, código de barras para produtos envasados e edición manual para receitas que coñeces ben.",
+        "Así o diario segue sendo rápido, pero non cego: a app axuda a comezar e ti confirmas o que afecta á precisión."
+      ],
+      "note": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+      "bestFor": [
+        "rexistro rápido",
+        "obxectivos diarios",
+        "revisión de racións",
+        "seguimento sostible"
+      ],
+      "workflowKicker": "Enfoque práctico",
+      "noteTitle": "A ter en conta"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Escáner de calorías con código de barras",
+      "h1": "Escáner de calorías con código de barras",
+      "description": "Escáner de calorías con código de barras en Calorie Counter AI: usa fotos, código de barras, revisión da ración e macronutrientes para rexistrar a alimentación con menos fricción.",
+      "kicker": "Función",
+      "summary": "A app dáche un punto de partida rápido, pero deixa espazo para corrixir racións, ingredientes e detalles importantes antes de gardar o rexistro.",
+      "bullets": [
+        "Rexistro rápido con foto ou código de barras",
+        "Estimación editable de calorías e macronutrientes",
+        "Diario alimentario claro para volver a cada día",
+        "Control manual cando a precisión importa"
+      ],
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ]
+      ],
+      "workflowTitle": "Como usalo no rexistro diario",
+      "workflow": [
+        "Escolle o método máis rápido para cada comida: foto para pratos sen etiqueta, código de barras para produtos envasados e edición manual para receitas que coñeces ben.",
+        "Así o diario segue sendo rápido, pero non cego: a app axuda a comezar e ti confirmas o que afecta á precisión."
+      ],
+      "note": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+      "bestFor": [
+        "rexistro rápido",
+        "obxectivos diarios",
+        "revisión de racións",
+        "seguimento sostible"
+      ],
+      "workflowKicker": "Enfoque práctico",
+      "noteTitle": "A ter en conta"
+    },
+    "/macro-tracker/": {
+      "title": "Seguimento de macronutrientes",
+      "h1": "Seguimento de macronutrientes",
+      "description": "Seguimento de macronutrientes en Calorie Counter AI: usa fotos, código de barras, revisión da ración e macronutrientes para rexistrar a alimentación con menos fricción.",
+      "kicker": "Función",
+      "summary": "A app dáche un punto de partida rápido, pero deixa espazo para corrixir racións, ingredientes e detalles importantes antes de gardar o rexistro.",
+      "bullets": [
+        "Rexistro rápido con foto ou código de barras",
+        "Estimación editable de calorías e macronutrientes",
+        "Diario alimentario claro para volver a cada día",
+        "Control manual cando a precisión importa"
+      ],
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ]
+      ],
+      "workflowTitle": "Como usalo no rexistro diario",
+      "workflow": [
+        "Escolle o método máis rápido para cada comida: foto para pratos sen etiqueta, código de barras para produtos envasados e edición manual para receitas que coñeces ben.",
+        "Así o diario segue sendo rápido, pero non cego: a app axuda a comezar e ti confirmas o que afecta á precisión."
+      ],
+      "note": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+      "bestFor": [
+        "rexistro rápido",
+        "obxectivos diarios",
+        "revisión de racións",
+        "seguimento sostible"
+      ],
+      "workflowKicker": "Enfoque práctico",
+      "noteTitle": "A ter en conta"
+    },
+    "/food-diary-app/": {
+      "title": "App de diario alimentario",
+      "h1": "App de diario alimentario",
+      "description": "App de diario alimentario en Calorie Counter AI: usa fotos, código de barras, revisión da ración e macronutrientes para rexistrar a alimentación con menos fricción.",
+      "kicker": "Función",
+      "summary": "A app dáche un punto de partida rápido, pero deixa espazo para corrixir racións, ingredientes e detalles importantes antes de gardar o rexistro.",
+      "bullets": [
+        "Rexistro rápido con foto ou código de barras",
+        "Estimación editable de calorías e macronutrientes",
+        "Diario alimentario claro para volver a cada día",
+        "Control manual cando a precisión importa"
+      ],
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ]
+      ],
+      "workflowTitle": "Como usalo no rexistro diario",
+      "workflow": [
+        "Escolle o método máis rápido para cada comida: foto para pratos sen etiqueta, código de barras para produtos envasados e edición manual para receitas que coñeces ben.",
+        "Así o diario segue sendo rápido, pero non cego: a app axuda a comezar e ti confirmas o que afecta á precisión."
+      ],
+      "note": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+      "bestFor": [
+        "rexistro rápido",
+        "obxectivos diarios",
+        "revisión de racións",
+        "seguimento sostible"
+      ],
+      "workflowKicker": "Enfoque práctico",
+      "noteTitle": "A ter en conta"
+    },
+    "/nutrition-tracker/": {
+      "title": "Seguimento nutricional",
+      "h1": "Seguimento nutricional",
+      "description": "Seguimento nutricional en Calorie Counter AI: usa fotos, código de barras, revisión da ración e macronutrientes para rexistrar a alimentación con menos fricción.",
+      "kicker": "Función",
+      "summary": "A app dáche un punto de partida rápido, pero deixa espazo para corrixir racións, ingredientes e detalles importantes antes de gardar o rexistro.",
+      "bullets": [
+        "Rexistro rápido con foto ou código de barras",
+        "Estimación editable de calorías e macronutrientes",
+        "Diario alimentario claro para volver a cada día",
+        "Control manual cando a precisión importa"
+      ],
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ]
+      ],
+      "workflowTitle": "Como usalo no rexistro diario",
+      "workflow": [
+        "Escolle o método máis rápido para cada comida: foto para pratos sen etiqueta, código de barras para produtos envasados e edición manual para receitas que coñeces ben.",
+        "Así o diario segue sendo rápido, pero non cego: a app axuda a comezar e ti confirmas o que afecta á precisión."
+      ],
+      "note": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+      "bestFor": [
+        "rexistro rápido",
+        "obxectivos diarios",
+        "revisión de racións",
+        "seguimento sostible"
+      ],
+      "workflowKicker": "Enfoque práctico",
+      "noteTitle": "A ter en conta"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Estimador do peso da ración",
+      "h1": "Estimador do peso da ración",
+      "description": "Estimador do peso da ración en Calorie Counter AI: usa fotos, código de barras, revisión da ración e macronutrientes para rexistrar a alimentación con menos fricción.",
+      "kicker": "Función",
+      "summary": "A app dáche un punto de partida rápido, pero deixa espazo para corrixir racións, ingredientes e detalles importantes antes de gardar o rexistro.",
+      "bullets": [
+        "Rexistro rápido con foto ou código de barras",
+        "Estimación editable de calorías e macronutrientes",
+        "Diario alimentario claro para volver a cada día",
+        "Control manual cando a precisión importa"
+      ],
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ]
+      ],
+      "workflowTitle": "Como usalo no rexistro diario",
+      "workflow": [
+        "Escolle o método máis rápido para cada comida: foto para pratos sen etiqueta, código de barras para produtos envasados e edición manual para receitas que coñeces ben.",
+        "Así o diario segue sendo rápido, pero non cego: a app axuda a comezar e ti confirmas o que afecta á precisión."
+      ],
+      "note": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+      "bestFor": [
+        "rexistro rápido",
+        "obxectivos diarios",
+        "revisión de racións",
+        "seguimento sostible"
+      ],
+      "workflowKicker": "Enfoque práctico",
+      "noteTitle": "A ter en conta"
+    },
+    "/progress-statistics/": {
+      "title": "Estatísticas de progreso",
+      "h1": "Estatísticas de progreso",
+      "description": "Estatísticas de progreso en Calorie Counter AI: usa fotos, código de barras, revisión da ración e macronutrientes para rexistrar a alimentación con menos fricción.",
+      "kicker": "Función",
+      "summary": "A app dáche un punto de partida rápido, pero deixa espazo para corrixir racións, ingredientes e detalles importantes antes de gardar o rexistro.",
+      "bullets": [
+        "Rexistro rápido con foto ou código de barras",
+        "Estimación editable de calorías e macronutrientes",
+        "Diario alimentario claro para volver a cada día",
+        "Control manual cando a precisión importa"
+      ],
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ]
+      ],
+      "workflowTitle": "Como usalo no rexistro diario",
+      "workflow": [
+        "Escolle o método máis rápido para cada comida: foto para pratos sen etiqueta, código de barras para produtos envasados e edición manual para receitas que coñeces ben.",
+        "Así o diario segue sendo rápido, pero non cego: a app axuda a comezar e ti confirmas o que afecta á precisión."
+      ],
+      "note": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+      "bestFor": [
+        "rexistro rápido",
+        "obxectivos diarios",
+        "revisión de racións",
+        "seguimento sostible"
+      ],
+      "workflowKicker": "Enfoque práctico",
+      "noteTitle": "A ter en conta"
+    },
+    "/meal-reminders/": {
+      "title": "Recordatorios de comidas",
+      "h1": "Recordatorios de comidas",
+      "description": "Recordatorios de comidas en Calorie Counter AI: usa fotos, código de barras, revisión da ración e macronutrientes para rexistrar a alimentación con menos fricción.",
+      "kicker": "Función",
+      "summary": "A app dáche un punto de partida rápido, pero deixa espazo para corrixir racións, ingredientes e detalles importantes antes de gardar o rexistro.",
+      "bullets": [
+        "Rexistro rápido con foto ou código de barras",
+        "Estimación editable de calorías e macronutrientes",
+        "Diario alimentario claro para volver a cada día",
+        "Control manual cando a precisión importa"
+      ],
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ]
+      ],
+      "workflowTitle": "Como usalo no rexistro diario",
+      "workflow": [
+        "Escolle o método máis rápido para cada comida: foto para pratos sen etiqueta, código de barras para produtos envasados e edición manual para receitas que coñeces ben.",
+        "Así o diario segue sendo rápido, pero non cego: a app axuda a comezar e ti confirmas o que afecta á precisión."
+      ],
+      "note": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+      "bestFor": [
+        "rexistro rápido",
+        "obxectivos diarios",
+        "revisión de racións",
+        "seguimento sostible"
+      ],
+      "workflowKicker": "Enfoque práctico",
+      "noteTitle": "A ter en conta"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Google Health Connect",
+      "description": "Google Health Connect en Calorie Counter AI: usa fotos, código de barras, revisión da ración e macronutrientes para rexistrar a alimentación con menos fricción.",
+      "kicker": "Función",
+      "summary": "A app dáche un punto de partida rápido, pero deixa espazo para corrixir racións, ingredientes e detalles importantes antes de gardar o rexistro.",
+      "bullets": [
+        "Rexistro rápido con foto ou código de barras",
+        "Estimación editable de calorías e macronutrientes",
+        "Diario alimentario claro para volver a cada día",
+        "Control manual cando a precisión importa"
+      ],
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ]
+      ],
+      "workflowTitle": "Como usalo no rexistro diario",
+      "workflow": [
+        "Escolle o método máis rápido para cada comida: foto para pratos sen etiqueta, código de barras para produtos envasados e edición manual para receitas que coñeces ben.",
+        "Así o diario segue sendo rápido, pero non cego: a app axuda a comezar e ti confirmas o que afecta á precisión."
+      ],
+      "note": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+      "bestFor": [
+        "rexistro rápido",
+        "obxectivos diarios",
+        "revisión de racións",
+        "seguimento sostible"
+      ],
+      "workflowKicker": "Enfoque práctico",
+      "noteTitle": "A ter en conta"
+    },
+    "/data-export/": {
+      "title": "Exportación de datos",
+      "h1": "Exportación de datos",
+      "description": "Exportación de datos en Calorie Counter AI: usa fotos, código de barras, revisión da ración e macronutrientes para rexistrar a alimentación con menos fricción.",
+      "kicker": "Función",
+      "summary": "A app dáche un punto de partida rápido, pero deixa espazo para corrixir racións, ingredientes e detalles importantes antes de gardar o rexistro.",
+      "bullets": [
+        "Rexistro rápido con foto ou código de barras",
+        "Estimación editable de calorías e macronutrientes",
+        "Diario alimentario claro para volver a cada día",
+        "Control manual cando a precisión importa"
+      ],
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ]
+      ],
+      "workflowTitle": "Como usalo no rexistro diario",
+      "workflow": [
+        "Escolle o método máis rápido para cada comida: foto para pratos sen etiqueta, código de barras para produtos envasados e edición manual para receitas que coñeces ben.",
+        "Así o diario segue sendo rápido, pero non cego: a app axuda a comezar e ti confirmas o que afecta á precisión."
+      ],
+      "note": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+      "bestFor": [
+        "rexistro rápido",
+        "obxectivos diarios",
+        "revisión de racións",
+        "seguimento sostible"
+      ],
+      "workflowKicker": "Enfoque práctico",
+      "noteTitle": "A ter en conta"
+    },
+    "/use-cases/": {
+      "title": "Casos de uso",
+      "h1": "Casos de uso",
+      "description": "Casos de uso: unha forma práctica de seguir calorías, proteínas, graxas e hidratos de carbono segundo o teu obxectivo.",
+      "kicker": "Caso de uso"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Contador de calorías para perder peso",
+      "h1": "Contador de calorías para perder peso",
+      "description": "Contador de calorías para perder peso: unha forma práctica de seguir calorías, proteínas, graxas e hidratos de carbono segundo o teu obxectivo.",
+      "kicker": "Caso de uso",
+      "summary": "O útil non é só contar unha comida illada, senón manter un diario sostible que mostre patróns ao longo dos días.",
+      "bullets": [
+        "Ver calorías e macronutrientes nun só lugar",
+        "Axustar racións e ingredientes cando faga falta",
+        "Comparar días e detectar hábitos repetidos",
+        "Usar fotos para reducir a entrada manual"
+      ],
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ]
+      ],
+      "workflowTitle": "Como usalo no rexistro diario",
+      "workflow": [
+        "Escolle o método máis rápido para cada comida: foto para pratos sen etiqueta, código de barras para produtos envasados e edición manual para receitas que coñeces ben.",
+        "Así o diario segue sendo rápido, pero non cego: a app axuda a comezar e ti confirmas o que afecta á precisión."
+      ],
+      "note": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+      "bestFor": [
+        "rexistro rápido",
+        "obxectivos diarios",
+        "revisión de racións",
+        "seguimento sostible"
+      ],
+      "workflowKicker": "Enfoque práctico",
+      "noteTitle": "A ter en conta"
+    },
+    "/calorie-deficit-app/": {
+      "title": "App para déficit calórico",
+      "h1": "App para déficit calórico",
+      "description": "App para déficit calórico: unha forma práctica de seguir calorías, proteínas, graxas e hidratos de carbono segundo o teu obxectivo.",
+      "kicker": "Caso de uso",
+      "summary": "O útil non é só contar unha comida illada, senón manter un diario sostible que mostre patróns ao longo dos días.",
+      "bullets": [
+        "Ver calorías e macronutrientes nun só lugar",
+        "Axustar racións e ingredientes cando faga falta",
+        "Comparar días e detectar hábitos repetidos",
+        "Usar fotos para reducir a entrada manual"
+      ],
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ]
+      ],
+      "workflowTitle": "Como usalo no rexistro diario",
+      "workflow": [
+        "Escolle o método máis rápido para cada comida: foto para pratos sen etiqueta, código de barras para produtos envasados e edición manual para receitas que coñeces ben.",
+        "Así o diario segue sendo rápido, pero non cego: a app axuda a comezar e ti confirmas o que afecta á precisión."
+      ],
+      "note": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+      "bestFor": [
+        "rexistro rápido",
+        "obxectivos diarios",
+        "revisión de racións",
+        "seguimento sostible"
+      ],
+      "workflowKicker": "Enfoque práctico",
+      "noteTitle": "A ter en conta"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Seguimento para gañar masa muscular",
+      "h1": "Seguimento para gañar masa muscular",
+      "description": "Seguimento para gañar masa muscular: unha forma práctica de seguir calorías, proteínas, graxas e hidratos de carbono segundo o teu obxectivo.",
+      "kicker": "Caso de uso",
+      "summary": "O útil non é só contar unha comida illada, senón manter un diario sostible que mostre patróns ao longo dos días.",
+      "bullets": [
+        "Ver calorías e macronutrientes nun só lugar",
+        "Axustar racións e ingredientes cando faga falta",
+        "Comparar días e detectar hábitos repetidos",
+        "Usar fotos para reducir a entrada manual"
+      ],
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ]
+      ],
+      "workflowTitle": "Como usalo no rexistro diario",
+      "workflow": [
+        "Escolle o método máis rápido para cada comida: foto para pratos sen etiqueta, código de barras para produtos envasados e edición manual para receitas que coñeces ben.",
+        "Así o diario segue sendo rápido, pero non cego: a app axuda a comezar e ti confirmas o que afecta á precisión."
+      ],
+      "note": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+      "bestFor": [
+        "rexistro rápido",
+        "obxectivos diarios",
+        "revisión de racións",
+        "seguimento sostible"
+      ],
+      "workflowKicker": "Enfoque práctico",
+      "noteTitle": "A ter en conta"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Mantemento do peso",
+      "h1": "Mantemento do peso",
+      "description": "Mantemento do peso: unha forma práctica de seguir calorías, proteínas, graxas e hidratos de carbono segundo o teu obxectivo.",
+      "kicker": "Caso de uso",
+      "summary": "O útil non é só contar unha comida illada, senón manter un diario sostible que mostre patróns ao longo dos días.",
+      "bullets": [
+        "Ver calorías e macronutrientes nun só lugar",
+        "Axustar racións e ingredientes cando faga falta",
+        "Comparar días e detectar hábitos repetidos",
+        "Usar fotos para reducir a entrada manual"
+      ],
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ]
+      ],
+      "workflowTitle": "Como usalo no rexistro diario",
+      "workflow": [
+        "Escolle o método máis rápido para cada comida: foto para pratos sen etiqueta, código de barras para produtos envasados e edición manual para receitas que coñeces ben.",
+        "Así o diario segue sendo rápido, pero non cego: a app axuda a comezar e ti confirmas o que afecta á precisión."
+      ],
+      "note": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+      "bestFor": [
+        "rexistro rápido",
+        "obxectivos diarios",
+        "revisión de racións",
+        "seguimento sostible"
+      ],
+      "workflowKicker": "Enfoque práctico",
+      "noteTitle": "A ter en conta"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Calorías da comida caseira",
+      "h1": "Calorías da comida caseira",
+      "description": "Calorías da comida caseira: unha forma práctica de seguir calorías, proteínas, graxas e hidratos de carbono segundo o teu obxectivo.",
+      "kicker": "Caso de uso",
+      "summary": "O útil non é só contar unha comida illada, senón manter un diario sostible que mostre patróns ao longo dos días.",
+      "bullets": [
+        "Ver calorías e macronutrientes nun só lugar",
+        "Axustar racións e ingredientes cando faga falta",
+        "Comparar días e detectar hábitos repetidos",
+        "Usar fotos para reducir a entrada manual"
+      ],
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ]
+      ],
+      "workflowTitle": "Como usalo no rexistro diario",
+      "workflow": [
+        "Escolle o método máis rápido para cada comida: foto para pratos sen etiqueta, código de barras para produtos envasados e edición manual para receitas que coñeces ben.",
+        "Así o diario segue sendo rápido, pero non cego: a app axuda a comezar e ti confirmas o que afecta á precisión."
+      ],
+      "note": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+      "bestFor": [
+        "rexistro rápido",
+        "obxectivos diarios",
+        "revisión de racións",
+        "seguimento sostible"
+      ],
+      "workflowKicker": "Enfoque práctico",
+      "noteTitle": "A ter en conta"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Seguimento de comida de restaurante",
+      "h1": "Seguimento de comida de restaurante",
+      "description": "Seguimento de comida de restaurante: unha forma práctica de seguir calorías, proteínas, graxas e hidratos de carbono segundo o teu obxectivo.",
+      "kicker": "Caso de uso",
+      "summary": "O útil non é só contar unha comida illada, senón manter un diario sostible que mostre patróns ao longo dos días.",
+      "bullets": [
+        "Ver calorías e macronutrientes nun só lugar",
+        "Axustar racións e ingredientes cando faga falta",
+        "Comparar días e detectar hábitos repetidos",
+        "Usar fotos para reducir a entrada manual"
+      ],
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ]
+      ],
+      "workflowTitle": "Como usalo no rexistro diario",
+      "workflow": [
+        "Escolle o método máis rápido para cada comida: foto para pratos sen etiqueta, código de barras para produtos envasados e edición manual para receitas que coñeces ben.",
+        "Así o diario segue sendo rápido, pero non cego: a app axuda a comezar e ti confirmas o que afecta á precisión."
+      ],
+      "note": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+      "bestFor": [
+        "rexistro rápido",
+        "obxectivos diarios",
+        "revisión de racións",
+        "seguimento sostible"
+      ],
+      "workflowKicker": "Enfoque práctico",
+      "noteTitle": "A ter en conta"
+    },
+    "/meal-tracker/": {
+      "title": "Seguimento de comidas",
+      "h1": "Seguimento de comidas",
+      "description": "Seguimento de comidas: unha forma práctica de seguir calorías, proteínas, graxas e hidratos de carbono segundo o teu obxectivo.",
+      "kicker": "Caso de uso",
+      "summary": "O útil non é só contar unha comida illada, senón manter un diario sostible que mostre patróns ao longo dos días.",
+      "bullets": [
+        "Ver calorías e macronutrientes nun só lugar",
+        "Axustar racións e ingredientes cando faga falta",
+        "Comparar días e detectar hábitos repetidos",
+        "Usar fotos para reducir a entrada manual"
+      ],
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ]
+      ],
+      "workflowTitle": "Como usalo no rexistro diario",
+      "workflow": [
+        "Escolle o método máis rápido para cada comida: foto para pratos sen etiqueta, código de barras para produtos envasados e edición manual para receitas que coñeces ben.",
+        "Así o diario segue sendo rápido, pero non cego: a app axuda a comezar e ti confirmas o que afecta á precisión."
+      ],
+      "note": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+      "bestFor": [
+        "rexistro rápido",
+        "obxectivos diarios",
+        "revisión de racións",
+        "seguimento sostible"
+      ],
+      "workflowKicker": "Enfoque práctico",
+      "noteTitle": "A ter en conta"
+    },
+    "/photo-food-journal/": {
+      "title": "Diario visual de comida",
+      "h1": "Diario visual de comida",
+      "description": "Diario visual de comida: unha forma práctica de seguir calorías, proteínas, graxas e hidratos de carbono segundo o teu obxectivo.",
+      "kicker": "Caso de uso",
+      "summary": "O útil non é só contar unha comida illada, senón manter un diario sostible que mostre patróns ao longo dos días.",
+      "bullets": [
+        "Ver calorías e macronutrientes nun só lugar",
+        "Axustar racións e ingredientes cando faga falta",
+        "Comparar días e detectar hábitos repetidos",
+        "Usar fotos para reducir a entrada manual"
+      ],
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ]
+      ],
+      "workflowTitle": "Como usalo no rexistro diario",
+      "workflow": [
+        "Escolle o método máis rápido para cada comida: foto para pratos sen etiqueta, código de barras para produtos envasados e edición manual para receitas que coñeces ben.",
+        "Así o diario segue sendo rápido, pero non cego: a app axuda a comezar e ti confirmas o que afecta á precisión."
+      ],
+      "note": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+      "bestFor": [
+        "rexistro rápido",
+        "obxectivos diarios",
+        "revisión de racións",
+        "seguimento sostible"
+      ],
+      "workflowKicker": "Enfoque práctico",
+      "noteTitle": "A ter en conta"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Seguimento de alimentación saudable",
+      "h1": "Seguimento de alimentación saudable",
+      "description": "Seguimento de alimentación saudable: unha forma práctica de seguir calorías, proteínas, graxas e hidratos de carbono segundo o teu obxectivo.",
+      "kicker": "Caso de uso",
+      "summary": "O útil non é só contar unha comida illada, senón manter un diario sostible que mostre patróns ao longo dos días.",
+      "bullets": [
+        "Ver calorías e macronutrientes nun só lugar",
+        "Axustar racións e ingredientes cando faga falta",
+        "Comparar días e detectar hábitos repetidos",
+        "Usar fotos para reducir a entrada manual"
+      ],
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ]
+      ],
+      "workflowTitle": "Como usalo no rexistro diario",
+      "workflow": [
+        "Escolle o método máis rápido para cada comida: foto para pratos sen etiqueta, código de barras para produtos envasados e edición manual para receitas que coñeces ben.",
+        "Así o diario segue sendo rápido, pero non cego: a app axuda a comezar e ti confirmas o que afecta á precisión."
+      ],
+      "note": "Os valores nutricionais son estimacións. As cifras reais poden variar segundo a marca, a receita, a preparación e o tamaño da ración.",
+      "bestFor": [
+        "rexistro rápido",
+        "obxectivos diarios",
+        "revisión de racións",
+        "seguimento sostible"
+      ],
+      "workflowKicker": "Enfoque práctico",
+      "noteTitle": "A ter en conta"
+    },
+    "/blog/": {
+      "title": "Guías",
+      "h1": "Guías",
+      "description": "Guía práctica sobre guías con exemplos para rexistrar comidas, revisar racións e interpretar calorías e macronutrientes.",
+      "kicker": "Guía"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Guía de Calorie Counter AI",
+      "h1": "Guía de Calorie Counter AI",
+      "description": "Guía práctica sobre guía de calorie counter ai con exemplos para rexistrar comidas, revisar racións e interpretar calorías e macronutrientes.",
+      "category": "Guía",
+      "readTime": "4 min de lectura",
+      "intro": "Un bo rexistro combina rapidez e revisión: a IA axuda a empezar, e ti confirmas os detalles que cambian o resultado.",
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ],
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ]
+      ],
+      "takeaway": "A mellor estimación é a que podes revisar: foto, ración e corrección antes de gardar."
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Guía de Calorie Counter AI",
+      "h1": "Guía de Calorie Counter AI",
+      "description": "Guía práctica sobre guía de calorie counter ai con exemplos para rexistrar comidas, revisar racións e interpretar calorías e macronutrientes.",
+      "category": "Guía",
+      "readTime": "4 min de lectura",
+      "intro": "Un bo rexistro combina rapidez e revisión: a IA axuda a empezar, e ti confirmas os detalles que cambian o resultado.",
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ],
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ]
+      ],
+      "takeaway": "A mellor estimación é a que podes revisar: foto, ración e corrección antes de gardar."
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "Guía de Calorie Counter AI",
+      "h1": "Guía de Calorie Counter AI",
+      "description": "Guía práctica sobre guía de calorie counter ai con exemplos para rexistrar comidas, revisar racións e interpretar calorías e macronutrientes.",
+      "category": "Guía",
+      "readTime": "4 min de lectura",
+      "intro": "Un bo rexistro combina rapidez e revisión: a IA axuda a empezar, e ti confirmas os detalles que cambian o resultado.",
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ],
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ]
+      ],
+      "takeaway": "A mellor estimación é a que podes revisar: foto, ración e corrección antes de gardar."
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Guía de Calorie Counter AI",
+      "h1": "Guía de Calorie Counter AI",
+      "description": "Guía práctica sobre guía de calorie counter ai con exemplos para rexistrar comidas, revisar racións e interpretar calorías e macronutrientes.",
+      "category": "Guía",
+      "readTime": "4 min de lectura",
+      "intro": "Un bo rexistro combina rapidez e revisión: a IA axuda a empezar, e ti confirmas os detalles que cambian o resultado.",
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ],
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ]
+      ],
+      "takeaway": "A mellor estimación é a que podes revisar: foto, ración e corrección antes de gardar."
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Guía de Calorie Counter AI",
+      "h1": "Guía de Calorie Counter AI",
+      "description": "Guía práctica sobre guía de calorie counter ai con exemplos para rexistrar comidas, revisar racións e interpretar calorías e macronutrientes.",
+      "category": "Guía",
+      "readTime": "4 min de lectura",
+      "intro": "Un bo rexistro combina rapidez e revisión: a IA axuda a empezar, e ti confirmas os detalles que cambian o resultado.",
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ],
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ]
+      ],
+      "takeaway": "A mellor estimación é a que podes revisar: foto, ración e corrección antes de gardar."
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Guía de Calorie Counter AI",
+      "h1": "Guía de Calorie Counter AI",
+      "description": "Guía práctica sobre guía de calorie counter ai con exemplos para rexistrar comidas, revisar racións e interpretar calorías e macronutrientes.",
+      "category": "Guía",
+      "readTime": "4 min de lectura",
+      "intro": "Un bo rexistro combina rapidez e revisión: a IA axuda a empezar, e ti confirmas os detalles que cambian o resultado.",
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ],
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ]
+      ],
+      "takeaway": "A mellor estimación é a que podes revisar: foto, ración e corrección antes de gardar."
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Guía de Calorie Counter AI",
+      "h1": "Guía de Calorie Counter AI",
+      "description": "Guía práctica sobre guía de calorie counter ai con exemplos para rexistrar comidas, revisar racións e interpretar calorías e macronutrientes.",
+      "category": "Guía",
+      "readTime": "4 min de lectura",
+      "intro": "Un bo rexistro combina rapidez e revisión: a IA axuda a empezar, e ti confirmas os detalles que cambian o resultado.",
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ],
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ]
+      ],
+      "takeaway": "A mellor estimación é a que podes revisar: foto, ración e corrección antes de gardar."
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Guía de Calorie Counter AI",
+      "h1": "Guía de Calorie Counter AI",
+      "description": "Guía práctica sobre guía de calorie counter ai con exemplos para rexistrar comidas, revisar racións e interpretar calorías e macronutrientes.",
+      "category": "Guía",
+      "readTime": "4 min de lectura",
+      "intro": "Un bo rexistro combina rapidez e revisión: a IA axuda a empezar, e ti confirmas os detalles que cambian o resultado.",
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ],
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ]
+      ],
+      "takeaway": "A mellor estimación é a que podes revisar: foto, ración e corrección antes de gardar."
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Guía de Calorie Counter AI",
+      "h1": "Guía de Calorie Counter AI",
+      "description": "Guía práctica sobre guía de calorie counter ai con exemplos para rexistrar comidas, revisar racións e interpretar calorías e macronutrientes.",
+      "category": "Guía",
+      "readTime": "4 min de lectura",
+      "intro": "Un bo rexistro combina rapidez e revisión: a IA axuda a empezar, e ti confirmas os detalles que cambian o resultado.",
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ],
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ]
+      ],
+      "takeaway": "A mellor estimación é a que podes revisar: foto, ración e corrección antes de gardar."
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Guía de Calorie Counter AI",
+      "h1": "Guía de Calorie Counter AI",
+      "description": "Guía práctica sobre guía de calorie counter ai con exemplos para rexistrar comidas, revisar racións e interpretar calorías e macronutrientes.",
+      "category": "Guía",
+      "readTime": "4 min de lectura",
+      "intro": "Un bo rexistro combina rapidez e revisión: a IA axuda a empezar, e ti confirmas os detalles que cambian o resultado.",
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ],
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ]
+      ],
+      "takeaway": "A mellor estimación é a que podes revisar: foto, ración e corrección antes de gardar."
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Guía de Calorie Counter AI",
+      "h1": "Guía de Calorie Counter AI",
+      "description": "Guía práctica sobre guía de calorie counter ai con exemplos para rexistrar comidas, revisar racións e interpretar calorías e macronutrientes.",
+      "category": "Guía",
+      "readTime": "4 min de lectura",
+      "intro": "Un bo rexistro combina rapidez e revisión: a IA axuda a empezar, e ti confirmas os detalles que cambian o resultado.",
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ],
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ]
+      ],
+      "takeaway": "A mellor estimación é a que podes revisar: foto, ración e corrección antes de gardar."
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Guía de Calorie Counter AI",
+      "h1": "Guía de Calorie Counter AI",
+      "description": "Guía práctica sobre guía de calorie counter ai con exemplos para rexistrar comidas, revisar racións e interpretar calorías e macronutrientes.",
+      "category": "Guía",
+      "readTime": "4 min de lectura",
+      "intro": "Un bo rexistro combina rapidez e revisión: a IA axuda a empezar, e ti confirmas os detalles que cambian o resultado.",
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ],
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ]
+      ],
+      "takeaway": "A mellor estimación é a que podes revisar: foto, ración e corrección antes de gardar."
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Guía de Calorie Counter AI",
+      "h1": "Guía de Calorie Counter AI",
+      "description": "Guía práctica sobre guía de calorie counter ai con exemplos para rexistrar comidas, revisar racións e interpretar calorías e macronutrientes.",
+      "category": "Guía",
+      "readTime": "4 min de lectura",
+      "intro": "Un bo rexistro combina rapidez e revisión: a IA axuda a empezar, e ti confirmas os detalles que cambian o resultado.",
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ],
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ]
+      ],
+      "takeaway": "A mellor estimación é a que podes revisar: foto, ración e corrección antes de gardar."
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Guía de Calorie Counter AI",
+      "h1": "Guía de Calorie Counter AI",
+      "description": "Guía práctica sobre guía de calorie counter ai con exemplos para rexistrar comidas, revisar racións e interpretar calorías e macronutrientes.",
+      "category": "Guía",
+      "readTime": "4 min de lectura",
+      "intro": "Un bo rexistro combina rapidez e revisión: a IA axuda a empezar, e ti confirmas os detalles que cambian o resultado.",
+      "sections": [
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ],
+        [
+          "Revisa antes de gardar",
+          "A ración, o aceite, as salsas e a marca poden cambiar moito as calorías finais."
+        ],
+        [
+          "Mantén o hábito",
+          "Un diario sinxelo e repetible é máis útil ca un rexistro perfecto que abandonas aos poucos días."
+        ],
+        [
+          "Rexistra sen complicarte",
+          "Saca unha foto, escanea un código de barras ou introduce a comida manualmente cando coñezas mellor a receita."
+        ]
+      ],
+      "takeaway": "A mellor estimación é a que podes revisar: foto, ración e corrección antes de gardar."
+    },
+    "/download/": {
+      "title": "Descargar Calorie Counter AI",
+      "h1": "Descargar Calorie Counter AI",
+      "description": "Información sobre descargar calorie counter ai en Calorie Counter AI.",
+      "kicker": "Información"
+    },
+    "/faq/": {
+      "title": "Preguntas frecuentes",
+      "h1": "Preguntas frecuentes",
+      "description": "Información sobre preguntas frecuentes en Calorie Counter AI.",
+      "kicker": "Información"
+    },
+    "/pricing/": {
+      "title": "Prezos",
+      "h1": "Prezos",
+      "description": "Información sobre prezos en Calorie Counter AI.",
+      "kicker": "Información"
+    },
+    "/support/": {
+      "title": "Soporte",
+      "h1": "Soporte",
+      "description": "Información sobre soporte en Calorie Counter AI.",
+      "kicker": "Información"
+    },
+    "/contact/": {
+      "title": "Contacto",
+      "h1": "Contacto",
+      "description": "Información sobre contacto en Calorie Counter AI.",
+      "kicker": "Información"
+    },
+    "/privacy-policy/": {
+      "title": "Política de privacidade",
+      "h1": "Política de privacidade",
+      "description": "Información sobre política de privacidade en Calorie Counter AI.",
+      "kicker": "Información"
+    },
+    "/terms/": {
+      "title": "Condicións de uso",
+      "h1": "Condicións de uso",
+      "description": "Información sobre condicións de uso en Calorie Counter AI.",
+      "kicker": "Información"
+    },
+    "/health-disclaimer/": {
+      "title": "Aviso de saúde",
+      "h1": "Aviso de saúde",
+      "description": "Información sobre aviso de saúde en Calorie Counter AI.",
+      "kicker": "Información"
+    },
+    "/delete-account/": {
+      "title": "Eliminar conta",
+      "h1": "Eliminar conta",
+      "description": "Información sobre eliminar conta en Calorie Counter AI.",
+      "kicker": "Información"
+    },
+    "/press/": {
+      "title": "Kit de prensa",
+      "h1": "Kit de prensa",
+      "description": "Información sobre kit de prensa en Calorie Counter AI.",
+      "kicker": "Información"
+    },
+    "/how-many-calories-in/": {
+      "title": "Calorías nos alimentos",
+      "h1": "Calorías nos alimentos",
+      "description": "Calorías nos alimentos en Calorie Counter AI: usa fotos, código de barras, revisión da ración e macronutrientes para rexistrar a alimentación con menos fricción.",
+      "kicker": "Función"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Preferencias de cookies",
+    "text": "Usamos cookies esenciais e localStorage para lembrar o idioma e as preferencias de cookies. Se aceptas, tamén usamos cookies de analítica para mellorar o sitio web.",
+    "accept": "Aceptar",
+    "decline": "Rexeitar analítica"
+  }
+}

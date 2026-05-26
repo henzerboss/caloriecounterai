@@ -1,0 +1,2619 @@
+{
+  "localeName": "Eesti",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "AI-kalorilugeja toidufoto põhjal"
+  },
+  "nav": {
+    "features": "Funktsioonid",
+    "useCases": "Kasutusjuhud",
+    "blog": "Juhendid",
+    "faq": "KKK",
+    "download": "Laadi alla",
+    "language": "Vali keel",
+    "openMenu": "Ava menüü",
+    "caloriesInFoods": "Kalorid toitudes",
+    "all": "Kõik",
+    "allFeatures": "Kõik funktsioonid",
+    "allUseCases": "Kõik kasutusjuhud",
+    "allLearn": "Kõik juhendid",
+    "openHub": "Ava jaotis →",
+    "home": "Avaleht"
+  },
+  "cta": {
+    "appStore": "Laadi alla App Store’ist",
+    "googlePlay": "Laadi alla Google Playst",
+    "downloadNow": "Laadi kohe alla",
+    "tryFree": "Proovi tasuta",
+    "learnMore": "Loe lähemalt",
+    "learnMoreArrow": "Loe lähemalt →",
+    "readGuide": "Loe juhendit"
+  },
+  "home": {
+    "title": "AI-kalorilugeja toidufoto põhjal",
+    "description": "Tee oma toidust foto ja saa mõne sekundiga muudetav hinnang kalorite, valkude, rasvade, süsivesikute ja portsjoni suuruse kohta.",
+    "heroNote": "Alusta tasuta igapäevaste AI-toiduanalüüsidega. Saadaval iPhone’ile ja Androidile.",
+    "photoEyebrow": "Põhifunktsioon",
+    "photoTitle": "Kalorilugeja foto järgi",
+    "photoText": "Iga koostisosa ei pea käsitsi otsima. Tee toidust foto, kontrolli AI hinnangut ja salvesta eine toidupäevikusse.",
+    "photoChecklist": [
+      "Hinda kaloreid toidufoto põhjal",
+      "Näe valke, rasvu ja süsivesikuid",
+      "Kontrolli ja paranda tulemust enne salvestamist",
+      "Pea visuaalset toidupäevikut"
+    ],
+    "featureCards": [
+      [
+        "camera",
+        "Lisa eine fotoga",
+        "Pildista eine, kontrolli hinnangut ja salvesta see ilma iga toitu eraldi otsimata."
+      ],
+      [
+        "sparkles",
+        "AI-hinnang einetele",
+        "Saa kiiresti ligikaudne hinnang kalorite, makrode ja portsjoni suuruse kohta, kui pakendit või täpset retsepti pole."
+      ],
+      [
+        "shield",
+        "Tasuta analüüsid iga päev",
+        "Proovi põhilist AI-töövoogu iga päev ja suurenda limiite ainult siis, kui vajad rohkem."
+      ],
+      [
+        "barcode",
+        "Pakendatud toidud",
+        "Skanni jogurteid, jooke, suupisteid, valmistoite ja muid poetooteid vöötkoodi abil."
+      ],
+      [
+        "macro",
+        "Makrod ühes vaates",
+        "Jälgi valke, rasvu ja süsivesikuid koos päevase kalorikogusega."
+      ],
+      [
+        "diary",
+        "Visuaalne päevik",
+        "Naase ükskõik millise päeva juurde, vaata eineid piltidena ja märka korduvaid toitumisharjumusi."
+      ]
+    ],
+    "foodPreviewTitle": "Kui palju kaloreid on tavalistes toitudes?",
+    "foodPreviewText": "Kiired kalori- ja makrohinnangud igapäevastele einetele, suupistetele ja jookidele.",
+    "foodPreviewLink": "Ava kogu kalorijuhend →",
+    "goalEyebrow": "Eesmärk kontrolli all",
+    "counterTitle": "Lihtne kalorilugeja igapäevaeluks",
+    "counterText": "Kasuta fotosid, vöötkoode, lemmikeineid ja selget päevikut, et toidu jälgimine ei tunduks lisatööna.",
+    "goalPills": [
+      "Kaalulangus",
+      "Kaalu hoidmine",
+      "Lihasmassi kasvatamine",
+      "Kiired päevad"
+    ],
+    "magicEyebrow": "Miks see tundub lihtsam",
+    "magicTitle": "Lisa toit kolme sammuga",
+    "magicText": "Tee foto, kontrolli hinnangut ja salvesta kirje. Mida vähem käsitsi sisestamist, seda lihtsam on päevikut järjepidevalt pidada.",
+    "magicSteps": [
+      "Tee foto",
+      "Kontrolli",
+      "Salvesta"
+    ],
+    "barcodeEyebrow": "Pakendatud toidud",
+    "barcodeTitle": "Toidu vöötkoodiskanner",
+    "barcodeText": "Kui tootel on vöötkood, skanni pakend, kinnita toode ja lisa kalorid, valgud, rasvad ning süsivesikud päevikusse mõne sekundiga.",
+    "barcodeLink": "Loe vöötkoodiskannerist lähemalt →",
+    "progressEyebrow": "Selge jälgimine",
+    "macroTitle": "Jälgi kaloreid ja makrosid",
+    "macroText": "Näe kaloreid, valke, rasvu ja süsivesikuid samas vaates ning võrdle päevi, nädalaid ja kuid.",
+    "macroLink": "Ava makrode jälgimise leht →",
+    "useCasesEyebrow": "Miks kasutada Calorie Counter AI-d",
+    "useCasesTitle": "Toitumiseesmärgid päris igapäevaellu",
+    "useCasesText": "Olenemata sellest, kas soovid kaalu langetada, praegust kaalu hoida, lihast kasvatada või oma toitumist paremini mõista, muudab rakendus eined selgeks igapäevaseks tagasisideks.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Kaalulangus",
+        "Näe, kui palju kaloreid on päevase eesmärgi suhtes veel jäänud."
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Kodune toit",
+        "Hinda segatoite ja retsepte, millel pole toitumisalast märgistust."
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Restoranitoit",
+        "Lisa restoranitoidud kiiresti fotopõhise hinnanguga."
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Lihasmassi kasvatamine",
+        "Hoia valgud ja kalorid nähtaval, kui sööd energiaga ülejäägis."
+      ]
+    ],
+    "downloadTitle": "Alusta kalorite lugemist AI abil juba täna",
+    "downloadText": "Laadi rakendus iPhone’i või Androidi ja muuda järgmine toidufoto päevikukirjeks.",
+    "faqEyebrow": "KKK",
+    "faqTitle": "Küsimusi enne allalaadimist?",
+    "faq": [
+      [
+        "Kas Calorie Counter AI on tasuta?",
+        "Saad alustada tasuta igapäevaste AI-eineanalüüsidega. Tasulises versioonis võivad olla saadaval premium-funktsioonid ja kõrgemad limiidid."
+      ],
+      [
+        "Kas ma saan kaloreid fotolt lugeda?",
+        "Jah. Tee taldrikust foto ja rakendus hindab nähtavate toitude kaloreid, makrosid ja portsjoni kaalu."
+      ],
+      [
+        "Kui täpne AI-kalorilugeja on?",
+        "See on ligikaudne hinnang. Täpsust mõjutavad foto kvaliteet, nähtav portsjon, peidetud koostisosad, kastmed ja sinu parandused."
+      ],
+      [
+        "Kas rakendus jälgib makrosid?",
+        "Jah. Päevikus näed valke, rasvu ja süsivesikuid kalorite kõrval."
+      ],
+      [
+        "Kas rakendus on saadaval iPhone’ile ja Androidile?",
+        "Jah. Rakendus on saadaval App Store’is ja Google Plays."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "AI-kalorilugeja toidufoto põhjal | Calorie Counter AI",
+    "homeOgTitle": "Loe kaloreid AI abil toidufotolt",
+    "homeDescription": "Loe kaloreid AI abil: hinda toidufoto põhjal kaloreid, makrosid ja portsjoni suurust, skanni vöötkoode ning pea toidupäevikut."
+  },
+  "footer": {
+    "disclaimer": "Toitumishinnanguid tuleks käsitleda ligikaudse infona. Need ei asenda arsti, toitumisnõustaja ega muu tervishoiuspetsialisti nõuandeid.",
+    "copyright": "© 2026 Calorie Counter AI. Kõik õigused kaitstud."
+  },
+  "foodIndex": {
+    "findTitle": "Kalorid, makrod ja realistlikud portsjonid",
+    "findText": "Vaata tavaliste toitude ligikaudseid väärtusi ja soovitusi, kuidas neid mõistlike portsjonitena päevikusse lisada.",
+    "categoryIntro": "Populaarsed kalori- ja makrootsingud selles kategoorias."
+  },
+  "foodPage": {
+    "eyebrow": "Kalorijuhend",
+    "trackInApp": "Lisa rakenduses",
+    "browseFoods": "Sirvi toite →",
+    "typicalEstimate": "Ligikaudne hinnang. Tegelikud väärtused sõltuvad tootemargist, retseptist ja portsjoni suurusest.",
+    "caloriesMacros": "Kalorid ja makrod",
+    "whenFits": "Millal see sobib?",
+    "whatToWatch": "Mida jälgida?",
+    "howToLog": "Kuidas täpsemalt kirja panna",
+    "helpfulContext": "Kasulik teada",
+    "faq": "KKK",
+    "weightLossQuestion": "Kas see sobib kaalulanguseks?",
+    "variabilityQuestion": "Mis mõjutab kaloreid kõige rohkem?",
+    "logFasterTitle": "Lisa eineid kiiremini",
+    "logFasterText": "Kasuta Calorie Counter AI-d: tee toidust foto, saa esmane hinnang ja paranda vajaduse korral portsjonit, kastet või tootemarki.",
+    "photoTrackingLink": "Kuidas kalorite lugemine fotolt töötab →",
+    "macros": {
+      "protein": "Valgud",
+      "fat": "Rasvad",
+      "carbs": "Süsivesikud"
+    },
+    "titleTemplate": "Kui palju kaloreid on {namePrep}?",
+    "h1Template": "Kui palju kaloreid on {namePrep}?",
+    "descriptionTemplate": "{name}: kalorid, valgud, rasvad ja süsivesikud portsjonile „{serving}“ ning soovitused selle toidupäevikusse lisamiseks.",
+    "heroIntroTemplate": "Umbes {calories} {kcal} portsjoni kohta: {servingLower}. Kasuta seda lähtepunktina ja kohanda tootemargi, retsepti, valmistusviisi ning portsjoni suuruse järgi.",
+    "macroParagraphTemplate": "{name}: umbes {calories} {kcal} portsjonis „{servingLower}“. See portsjon sisaldab hinnanguliselt {protein} {gram} valke, {fat} {gram} rasvu ja {carbs} {gram} süsivesikuid{fiberText}.",
+    "per100Template": "Võrdluseks 100 {gram} kohta: umbes {calories} {kcal}, {protein} {gram} valke, {fat} {gram} rasvu ja {carbs} {gram} süsivesikuid.",
+    "calorieLevelTemplate": "Kasuta portsjonit orientiirina: umbes {calories} {kcal} portsjonile „{servingLower}“."
+  },
+  "foodCategories": {
+    "Fruit": "Puuviljad",
+    "Protein foods": "Valgurikkad toidud",
+    "Fruits and fats": "Puuviljad ja rasvad",
+    "Grains and starches": "Teraviljad ja tärkliserikkad toidud",
+    "Nuts and spreads": "Pähklid ja määrded",
+    "Breakfast foods": "Hommikusöögid",
+    "Dairy": "Piimatooted",
+    "Restaurant meals": "Restoranieined",
+    "Fast food": "Kiirtoit",
+    "Legumes and plant protein": "Kaunviljad ja taimne valk",
+    "Desserts": "Magustoidud",
+    "Snacks": "Suupisted",
+    "Drinks": "Joogid",
+    "Vegetables": "Köögiviljad",
+    "Sauces and condiments": "Kastmed ja maitseained",
+    "Mixed dishes": "Segatoidud"
+  },
+  "foods": {
+    "banana": {
+      "name": "Banaan",
+      "namePrep": "banaanis",
+      "serving": "1 keskmine banaan"
+    },
+    "apple": {
+      "name": "Õun",
+      "namePrep": "õunas",
+      "serving": "1 keskmine õun"
+    },
+    "egg": {
+      "name": "Muna",
+      "namePrep": "munas",
+      "serving": "1 suur muna"
+    },
+    "avocado": {
+      "name": "Avokaado",
+      "namePrep": "avokaados",
+      "serving": "1/2 keskmist avokaadot"
+    },
+    "chicken-breast": {
+      "name": "Kanarind",
+      "namePrep": "kanarinnas",
+      "serving": "100 g küpset kanarinda"
+    },
+    "salmon": {
+      "name": "Lõhe",
+      "namePrep": "lõhes",
+      "serving": "100 g küpset lõhet"
+    },
+    "white-rice": {
+      "name": "Valge riis",
+      "namePrep": "valges riisis",
+      "serving": "1 tass keedetud valget riisi"
+    },
+    "brown-rice": {
+      "name": "Pruun riis",
+      "namePrep": "pruunis riisis",
+      "serving": "1 tass keedetud pruuni riisi"
+    },
+    "pasta": {
+      "name": "Pasta",
+      "namePrep": "pastas",
+      "serving": "1 tass keedetud pastat"
+    },
+    "potato": {
+      "name": "Kartul",
+      "namePrep": "kartulis",
+      "serving": "1 keskmine kartul"
+    },
+    "sweet-potato": {
+      "name": "Bataat",
+      "namePrep": "bataadis",
+      "serving": "1 keskmine bataat"
+    },
+    "bread": {
+      "name": "Leib",
+      "namePrep": "leivas",
+      "serving": "1 viil leiba"
+    },
+    "peanut-butter": {
+      "name": "Maapähklivõi",
+      "namePrep": "maapähklivõis",
+      "serving": "2 sl maapähklivõid"
+    },
+    "oatmeal": {
+      "name": "Kaerahelbepuder",
+      "namePrep": "kaerahelbepudrus",
+      "serving": "1 kauss keedetud kaerahelbeputru"
+    },
+    "greek-yogurt": {
+      "name": "Kreeka jogurt",
+      "namePrep": "Kreeka jogurtis",
+      "serving": "170 g Kreeka jogurtit"
+    },
+    "yogurt": {
+      "name": "Jogurt",
+      "namePrep": "jogurtis",
+      "serving": "1 tops jogurtit"
+    },
+    "milk": {
+      "name": "Piim",
+      "namePrep": "piimas",
+      "serving": "1 klaas piima"
+    },
+    "cheddar-cheese": {
+      "name": "Cheddari juust",
+      "namePrep": "Cheddari juustus",
+      "serving": "1 viil Cheddari juustu"
+    },
+    "pizza": {
+      "name": "Pitsa",
+      "namePrep": "pitsas",
+      "serving": "1 viil pitsat"
+    },
+    "burger": {
+      "name": "Burger",
+      "namePrep": "burgeris",
+      "serving": "1 burger"
+    },
+    "french-fries": {
+      "name": "Friikartulid",
+      "namePrep": "friikartulites",
+      "serving": "1 keskmine portsjon friikartuleid"
+    },
+    "sushi-roll": {
+      "name": "Sushirull",
+      "namePrep": "sushirullis",
+      "serving": "1 sushirull"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "tacos",
+      "serving": "1 taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "burritos",
+      "serving": "1 burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Kanapalad",
+      "namePrep": "kanapalades",
+      "serving": "6 kanapala"
+    },
+    "hot-dog": {
+      "name": "Hot dog",
+      "namePrep": "hot dog’is",
+      "serving": "1 hot dog"
+    },
+    "steak": {
+      "name": "Steik",
+      "namePrep": "steigis",
+      "serving": "100 g küpset steiki"
+    },
+    "bacon": {
+      "name": "Peekon",
+      "namePrep": "peekonis",
+      "serving": "2 viilu peekonit"
+    },
+    "tuna": {
+      "name": "Tuunikala",
+      "namePrep": "tuunikalas",
+      "serving": "100 g tuunikala"
+    },
+    "shrimp": {
+      "name": "Krevetid",
+      "namePrep": "krevetites",
+      "serving": "100 g krevette"
+    },
+    "tofu": {
+      "name": "Tofu",
+      "namePrep": "tofus",
+      "serving": "100 g tofut"
+    },
+    "lentils": {
+      "name": "Läätsed",
+      "namePrep": "läätsedes",
+      "serving": "1 tass keedetud läätsi"
+    },
+    "black-beans": {
+      "name": "Mustad oad",
+      "namePrep": "mustades ubades",
+      "serving": "1 tass keedetud musti ube"
+    },
+    "chickpeas": {
+      "name": "Kikerherned",
+      "namePrep": "kikerhernestes",
+      "serving": "1 tass keedetud kikerherneid"
+    },
+    "hummus": {
+      "name": "Hummus",
+      "namePrep": "hummuses",
+      "serving": "2 sl hummust"
+    },
+    "quinoa": {
+      "name": "Kinoa",
+      "namePrep": "kinoas",
+      "serving": "1 tass keedetud kinoad"
+    },
+    "tortilla": {
+      "name": "Tortilja",
+      "namePrep": "tortiljas",
+      "serving": "1 tortilja"
+    },
+    "bagel": {
+      "name": "Bagel",
+      "namePrep": "bagelis",
+      "serving": "1 bagel"
+    },
+    "croissant": {
+      "name": "Croissant",
+      "namePrep": "croissant’is",
+      "serving": "1 croissant"
+    },
+    "pancake": {
+      "name": "Pannkoogid",
+      "namePrep": "pannkookides",
+      "serving": "2 pannkooki"
+    },
+    "waffle": {
+      "name": "Vahvel",
+      "namePrep": "vahvlis",
+      "serving": "1 vahvel"
+    },
+    "cereal": {
+      "name": "Hommikuhelbed",
+      "namePrep": "hommikuhelvestes",
+      "serving": "1 kauss hommikuhelbeid"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granolas",
+      "serving": "1/2 tassi granolat"
+    },
+    "almonds": {
+      "name": "Mandlid",
+      "namePrep": "mandlites",
+      "serving": "1 peotäis mandleid"
+    },
+    "walnuts": {
+      "name": "Kreeka pähklid",
+      "namePrep": "Kreeka pähklites",
+      "serving": "1 peotäis Kreeka pähkleid"
+    },
+    "cashews": {
+      "name": "India pähklid",
+      "namePrep": "India pähklites",
+      "serving": "1 peotäis India pähkleid"
+    },
+    "chocolate": {
+      "name": "Šokolaad",
+      "namePrep": "šokolaadis",
+      "serving": "1 tahvel või portsjon šokolaadi"
+    },
+    "ice-cream": {
+      "name": "Jäätis",
+      "namePrep": "jäätises",
+      "serving": "1 pall jäätist"
+    },
+    "cookie": {
+      "name": "Šokolaaditükkidega küpsis",
+      "namePrep": "šokolaaditükkidega küpsises",
+      "serving": "1 šokolaaditükkidega küpsis"
+    },
+    "donut": {
+      "name": "Glasuuriga sõõrik",
+      "namePrep": "glasuuriga sõõrikus",
+      "serving": "1 glasuuriga sõõrik"
+    },
+    "muffin": {
+      "name": "Mustikamuffin",
+      "namePrep": "mustikamuffinis",
+      "serving": "1 mustikamuffin"
+    },
+    "cake": {
+      "name": "Kook",
+      "namePrep": "koogis",
+      "serving": "1 viil kooki"
+    },
+    "brownie": {
+      "name": "Brownie",
+      "namePrep": "brownie’s",
+      "serving": "1 brownie"
+    },
+    "popcorn": {
+      "name": "Popkorn",
+      "namePrep": "popkornis",
+      "serving": "1 kauss popkorni"
+    },
+    "potato-chips": {
+      "name": "Kartulikrõpsud",
+      "namePrep": "kartulikrõpsudes",
+      "serving": "1 väike pakk kartulikrõpse"
+    },
+    "pretzels": {
+      "name": "Pretzelid",
+      "namePrep": "pretzelites",
+      "serving": "1 portsjon pretzeleid"
+    },
+    "smoothie": {
+      "name": "Puuviljasmuuti",
+      "namePrep": "puuviljasmuutis",
+      "serving": "1 klaas puuviljasmuutit"
+    },
+    "orange-juice": {
+      "name": "Apelsinimahl",
+      "namePrep": "apelsinimahlas",
+      "serving": "1 klaas apelsinimahla"
+    },
+    "soda": {
+      "name": "Karastusjook",
+      "namePrep": "karastusjoogis",
+      "serving": "1 purk karastusjooki"
+    },
+    "latte": {
+      "name": "Latte",
+      "namePrep": "lattes",
+      "serving": "1 latte"
+    },
+    "protein-shake": {
+      "name": "Valgujook",
+      "namePrep": "valgujoogis",
+      "serving": "1 valgujook"
+    },
+    "spaghetti-bolognese": {
+      "name": "Spagetid bolognese kastmega",
+      "namePrep": "spagettides bolognese kastmega",
+      "serving": "1 taldrik spagette bolognese kastmega"
+    },
+    "ramen": {
+      "name": "Ramen",
+      "namePrep": "ramenis",
+      "serving": "1 kauss ramenit"
+    },
+    "pho": {
+      "name": "Pho",
+      "namePrep": "pho’s",
+      "serving": "1 kauss pho’d"
+    },
+    "chicken-soup": {
+      "name": "Kanasupp",
+      "namePrep": "kanasupis",
+      "serving": "1 kauss kanasuppi"
+    },
+    "caesar-salad": {
+      "name": "Caesari salat",
+      "namePrep": "Caesari salatis",
+      "serving": "1 kauss Caesari salatit"
+    },
+    "green-salad": {
+      "name": "Roheline salat",
+      "namePrep": "rohelises salatis",
+      "serving": "1 kauss rohelist salatit"
+    },
+    "broccoli": {
+      "name": "Brokoli",
+      "namePrep": "brokolis",
+      "serving": "1 tass keedetud brokolit"
+    },
+    "spinach": {
+      "name": "Spinat",
+      "namePrep": "spinatis",
+      "serving": "1 tass spinatit"
+    },
+    "carrots": {
+      "name": "Porgandid",
+      "namePrep": "porgandites",
+      "serving": "1 tass porgandeid"
+    },
+    "corn": {
+      "name": "Mais",
+      "namePrep": "maisis",
+      "serving": "1 tass maisi"
+    },
+    "tomato": {
+      "name": "Tomat",
+      "namePrep": "tomatis",
+      "serving": "1 keskmine tomat"
+    },
+    "cucumber": {
+      "name": "Kurk",
+      "namePrep": "kurgis",
+      "serving": "1/2 kurki"
+    },
+    "cheesecake": {
+      "name": "Juustukook",
+      "namePrep": "juustukoogis",
+      "serving": "1 viil juustukooki"
+    },
+    "lasagna": {
+      "name": "Lasanje",
+      "namePrep": "lasanjes",
+      "serving": "1 portsjon lasanjet"
+    },
+    "grilled-cheese": {
+      "name": "Grillitud juustuvõileib",
+      "namePrep": "grillitud juustuvõileivas",
+      "serving": "1 grillitud juustuvõileib"
+    },
+    "peanut-butter-jelly": {
+      "name": "Maapähklivõi ja moosiga võileib",
+      "namePrep": "maapähklivõi ja moosiga võileivas",
+      "serving": "1 maapähklivõi ja moosiga võileib"
+    },
+    "omelette": {
+      "name": "Omlett",
+      "namePrep": "omletis",
+      "serving": "1 omlett"
+    },
+    "fried-egg": {
+      "name": "Praemuna",
+      "namePrep": "praemunas",
+      "serving": "1 praemuna"
+    },
+    "boiled-egg": {
+      "name": "Keedumuna",
+      "namePrep": "keedumunas",
+      "serving": "1 keedumuna"
+    },
+    "toast": {
+      "name": "Röstsai",
+      "namePrep": "röstsaias",
+      "serving": "1 viil röstsaia"
+    },
+    "avocado-toast": {
+      "name": "Avokaadoröstsai",
+      "namePrep": "avokaadoröstsaias",
+      "serving": "1 avokaadoröstsai"
+    },
+    "chicken-salad": {
+      "name": "Kanasalat",
+      "namePrep": "kanasalatis",
+      "serving": "1 portsjon kanasalatit"
+    },
+    "tuna-salad": {
+      "name": "Tuunikalasalat",
+      "namePrep": "tuunikalasalatis",
+      "serving": "1 portsjon tuunikalasalatit"
+    },
+    "egg-salad": {
+      "name": "Munasalat",
+      "namePrep": "munasalatis",
+      "serving": "1 portsjon munasalatit"
+    },
+    "cottage-cheese": {
+      "name": "Kodujuust",
+      "namePrep": "kodujuustus",
+      "serving": "1 kauss kodujuustu"
+    },
+    "cream-cheese": {
+      "name": "Toorjuust",
+      "namePrep": "toorjuustus",
+      "serving": "2 sl toorjuustu"
+    },
+    "butter": {
+      "name": "Või",
+      "namePrep": "võis",
+      "serving": "1 sl võid"
+    },
+    "olive-oil": {
+      "name": "Oliiviõli",
+      "namePrep": "oliiviõlis",
+      "serving": "1 sl oliiviõli"
+    },
+    "mayonnaise": {
+      "name": "Majonees",
+      "namePrep": "majoneesis",
+      "serving": "1 sl majoneesi"
+    },
+    "ketchup": {
+      "name": "Ketšup",
+      "namePrep": "ketšupis",
+      "serving": "1 sl ketšupit"
+    },
+    "honey": {
+      "name": "Mesi",
+      "namePrep": "mees",
+      "serving": "1 sl mett"
+    },
+    "jam": {
+      "name": "Moos",
+      "namePrep": "moosis",
+      "serving": "1 sl moosi"
+    },
+    "protein-bar": {
+      "name": "Valgubatoon",
+      "namePrep": "valgubatoonis",
+      "serving": "1 valgubatoon"
+    },
+    "energy-drink": {
+      "name": "Energiajook",
+      "namePrep": "energiajoogis",
+      "serving": "1 purk energiajooki"
+    },
+    "matcha-latte": {
+      "name": "Matcha latte",
+      "namePrep": "matcha lattes",
+      "serving": "1 matcha latte"
+    },
+    "trail-mix": {
+      "name": "Pähkli- ja puuviljasegu",
+      "namePrep": "pähkli- ja puuviljasegus",
+      "serving": "1 peotäis pähkli- ja puuviljasegu"
+    },
+    "blueberries": {
+      "name": "Mustikad",
+      "namePrep": "mustikates",
+      "serving": "1 tass mustikaid"
+    },
+    "strawberries": {
+      "name": "Maasikad",
+      "namePrep": "maasikates",
+      "serving": "1 tass maasikaid"
+    },
+    "grapes": {
+      "name": "Viinamarjad",
+      "namePrep": "viinamarjades",
+      "serving": "1 tass viinamarju"
+    },
+    "orange": {
+      "name": "Apelsin",
+      "namePrep": "apelsinis",
+      "serving": "1 keskmine apelsin"
+    },
+    "pear": {
+      "name": "Pirn",
+      "namePrep": "pirnis",
+      "serving": "1 keskmine pirn"
+    },
+    "peach": {
+      "name": "Virsik",
+      "namePrep": "virsikus",
+      "serving": "1 keskmine virsik"
+    },
+    "watermelon": {
+      "name": "Arbuus",
+      "namePrep": "arbuusis",
+      "serving": "1 viil arbuusi"
+    },
+    "pineapple": {
+      "name": "Ananass",
+      "namePrep": "ananassis",
+      "serving": "1 tass ananassi"
+    },
+    "mango": {
+      "name": "Mango",
+      "namePrep": "mangos",
+      "serving": "1 tass mangot"
+    },
+    "kiwi": {
+      "name": "Kiivi",
+      "namePrep": "kiivis",
+      "serving": "1 kiivi"
+    },
+    "raspberries": {
+      "name": "Vaarikad",
+      "namePrep": "vaarikates",
+      "serving": "1 tass vaarikaid"
+    },
+    "blackberries": {
+      "name": "Põldmarjad",
+      "namePrep": "põldmarjades",
+      "serving": "1 tass põldmarju"
+    },
+    "cherries": {
+      "name": "Kirsid",
+      "namePrep": "kirssides",
+      "serving": "1 tass kirsse"
+    },
+    "grapefruit": {
+      "name": "Greip",
+      "namePrep": "greibis",
+      "serving": "1/2 greipi"
+    },
+    "lettuce": {
+      "name": "Lehtsalat",
+      "namePrep": "lehtsalatis",
+      "serving": "1 kauss lehtsalatit"
+    },
+    "cabbage": {
+      "name": "Kapsas",
+      "namePrep": "kapsas",
+      "serving": "1 tass kapsast"
+    },
+    "cauliflower": {
+      "name": "Lillkapsas",
+      "namePrep": "lillkapsas",
+      "serving": "1 tass lillkapsast"
+    },
+    "asparagus": {
+      "name": "Spargel",
+      "namePrep": "sparglis",
+      "serving": "1 portsjon sparglit"
+    },
+    "zucchini": {
+      "name": "Suvikõrvits",
+      "namePrep": "suvikõrvitsas",
+      "serving": "1 keskmine suvikõrvits"
+    },
+    "eggplant": {
+      "name": "Baklažaan",
+      "namePrep": "baklažaanis",
+      "serving": "1 tass baklažaani"
+    },
+    "bell-pepper": {
+      "name": "Paprika",
+      "namePrep": "paprikas",
+      "serving": "1 keskmine paprika"
+    },
+    "onion": {
+      "name": "Sibul",
+      "namePrep": "sibulas",
+      "serving": "1 keskmine sibul"
+    },
+    "mushrooms": {
+      "name": "Seened",
+      "namePrep": "seentes",
+      "serving": "1 tass seeni"
+    },
+    "green-beans": {
+      "name": "Rohelised oad",
+      "namePrep": "rohelistes ubades",
+      "serving": "1 tass rohelisi ube"
+    },
+    "kale": {
+      "name": "Lehtkapsas",
+      "namePrep": "lehtkapsas",
+      "serving": "1 tass lehtkapsast"
+    },
+    "beets": {
+      "name": "Peet",
+      "namePrep": "peedis",
+      "serving": "1 tass peeti"
+    },
+    "turkey-breast": {
+      "name": "Kalkunirind",
+      "namePrep": "kalkunirinnas",
+      "serving": "100 g küpset kalkunirinda"
+    },
+    "chicken-thigh": {
+      "name": "Kanakints",
+      "namePrep": "kanakintsus",
+      "serving": "1 küps kanakints"
+    },
+    "pork-chop": {
+      "name": "Seakarbonaad",
+      "namePrep": "seakarbonaadis",
+      "serving": "1 seakarbonaad"
+    },
+    "ground-beef": {
+      "name": "Veisehakkliha",
+      "namePrep": "veisehakklihas",
+      "serving": "100 g küpset veisehakkliha"
+    },
+    "meatballs": {
+      "name": "Lihapallid",
+      "namePrep": "lihapallides",
+      "serving": "4 lihapalli"
+    },
+    "sausage": {
+      "name": "Vorst",
+      "namePrep": "vorstis",
+      "serving": "1 vorst"
+    },
+    "cod": {
+      "name": "Tursk",
+      "namePrep": "tursas",
+      "serving": "100 g küpset turska"
+    },
+    "tilapia": {
+      "name": "Tilaapia",
+      "namePrep": "tilaapias",
+      "serving": "100 g küpset tilaapiat"
+    },
+    "sardines": {
+      "name": "Sardiinid",
+      "namePrep": "sardiinides",
+      "serving": "1 portsjon sardiine"
+    },
+    "crab": {
+      "name": "Krabi",
+      "namePrep": "krabis",
+      "serving": "100 g krabiliha"
+    },
+    "scallops": {
+      "name": "Kammkarbid",
+      "namePrep": "kammkarpides",
+      "serving": "100 g kammkarpe"
+    },
+    "smoked-salmon": {
+      "name": "Suitsulõhe",
+      "namePrep": "suitsulõhes",
+      "serving": "100 g suitsulõhet"
+    },
+    "skim-milk": {
+      "name": "Rasvatu piim",
+      "namePrep": "rasvatus piimas",
+      "serving": "1 klaas rasvatut piima"
+    },
+    "soy-milk": {
+      "name": "Sojapiim",
+      "namePrep": "sojapiimas",
+      "serving": "1 klaas sojapiima"
+    },
+    "almond-milk": {
+      "name": "Mandlipiim",
+      "namePrep": "mandlipiimas",
+      "serving": "1 klaas mandlipiima"
+    },
+    "oat-milk": {
+      "name": "Kaerapiim",
+      "namePrep": "kaerapiimas",
+      "serving": "1 klaas kaerapiima"
+    },
+    "kefir": {
+      "name": "Keefir",
+      "namePrep": "keefiris",
+      "serving": "1 klaas keefirit"
+    },
+    "sour-cream": {
+      "name": "Hapukoor",
+      "namePrep": "hapukoores",
+      "serving": "2 sl hapukoort"
+    },
+    "feta-cheese": {
+      "name": "Feta",
+      "namePrep": "fetas",
+      "serving": "30 g fetat"
+    },
+    "mozzarella": {
+      "name": "Mozzarella",
+      "namePrep": "mozzarellas",
+      "serving": "30 g mozzarellat"
+    },
+    "parmesan": {
+      "name": "Parmesan",
+      "namePrep": "parmesanis",
+      "serving": "1 sl riivitud parmesani"
+    },
+    "couscous": {
+      "name": "Kuskuss",
+      "namePrep": "kuskussis",
+      "serving": "1 tass keedetud kuskussi"
+    },
+    "barley": {
+      "name": "Oder",
+      "namePrep": "odras",
+      "serving": "1 tass keedetud otra"
+    },
+    "buckwheat": {
+      "name": "Tatar",
+      "namePrep": "tatras",
+      "serving": "1 tass keedetud tatart"
+    },
+    "bulgur": {
+      "name": "Bulgur",
+      "namePrep": "bulguris",
+      "serving": "1 tass keedetud bulgurit"
+    },
+    "naan": {
+      "name": "Naan",
+      "namePrep": "naanis",
+      "serving": "1 naan"
+    },
+    "pita-bread": {
+      "name": "Pita",
+      "namePrep": "pitas",
+      "serving": "1 pita"
+    },
+    "english-muffin": {
+      "name": "Inglise muffin",
+      "namePrep": "Inglise muffinis",
+      "serving": "1 Inglise muffin"
+    },
+    "rice-cake": {
+      "name": "Riisigalett",
+      "namePrep": "riisigaletis",
+      "serving": "1 riisigalett"
+    },
+    "crackers": {
+      "name": "Kreekerid",
+      "namePrep": "kreekerites",
+      "serving": "1 portsjon kreekereid"
+    },
+    "mashed-potatoes": {
+      "name": "Kartulipuder",
+      "namePrep": "kartulipudrus",
+      "serving": "1 tass kartuliputru"
+    },
+    "scrambled-eggs": {
+      "name": "Munapuder",
+      "namePrep": "munapudrus",
+      "serving": "2 munast tehtud munapuder"
+    },
+    "french-toast": {
+      "name": "Prantsuse röstsai",
+      "namePrep": "Prantsuse röstsaia portsjonis",
+      "serving": "2 viilu Prantsuse röstsaia"
+    },
+    "breakfast-burrito": {
+      "name": "Hommikuburrito",
+      "namePrep": "hommikuburritos",
+      "serving": "1 hommikuburrito"
+    },
+    "hash-browns": {
+      "name": "Riivkartulikotletid",
+      "namePrep": "riivkartulikotlettides",
+      "serving": "1 portsjon riivkartulikotlette"
+    },
+    "chia-pudding": {
+      "name": "Chia-puding",
+      "namePrep": "chia-pudingus",
+      "serving": "1 kauss chia-pudingut"
+    },
+    "overnight-oats": {
+      "name": "Üleöö kaerahelbed",
+      "namePrep": "üleöö kaerahelvestes",
+      "serving": "1 purk üleöö kaerahelbeid"
+    },
+    "breakfast-sandwich": {
+      "name": "Hommikuvõileib",
+      "namePrep": "hommikuvõileivas",
+      "serving": "1 hommikuvõileib"
+    },
+    "edamame": {
+      "name": "Edamame",
+      "namePrep": "edamames",
+      "serving": "1 tass edamame ube"
+    },
+    "kidney-beans": {
+      "name": "Punased oad",
+      "namePrep": "punastes ubades",
+      "serving": "1 tass keedetud punaseid ube"
+    },
+    "pinto-beans": {
+      "name": "Pinto oad",
+      "namePrep": "pinto ubades",
+      "serving": "1 tass keedetud pinto ube"
+    },
+    "split-peas": {
+      "name": "Poolitatud herned",
+      "namePrep": "poolitatud hernestes",
+      "serving": "1 tass keedetud poolitatud herneid"
+    },
+    "baked-beans": {
+      "name": "Küpsetatud oad",
+      "namePrep": "küpsetatud ubades",
+      "serving": "1 tass küpsetatud ube"
+    },
+    "fried-rice": {
+      "name": "Praeriis",
+      "namePrep": "praeriisis",
+      "serving": "1 portsjon praeriisi"
+    },
+    "pad-thai": {
+      "name": "Pad Thai",
+      "namePrep": "Pad Thais",
+      "serving": "1 portsjon Pad Thaid"
+    },
+    "chicken-curry": {
+      "name": "Kanakarri",
+      "namePrep": "kanakarris",
+      "serving": "1 portsjon kanakarrit"
+    },
+    "chicken-tikka-masala": {
+      "name": "Kana tikka masala",
+      "namePrep": "kana tikka masalas",
+      "serving": "1 portsjon kana tikka masalat"
+    },
+    "beef-chili": {
+      "name": "Veiseliha chili",
+      "namePrep": "veiseliha chilis",
+      "serving": "1 kauss veiseliha chilit"
+    },
+    "falafel": {
+      "name": "Falafel",
+      "namePrep": "falafelis",
+      "serving": "3 falafelipalli"
+    },
+    "dumplings": {
+      "name": "Pelmeenid",
+      "namePrep": "pelmeenides",
+      "serving": "6 pelmeeni"
+    },
+    "spring-rolls": {
+      "name": "Kevadrullid",
+      "namePrep": "kevadrullides",
+      "serving": "2 kevadrulli"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "quesadillas",
+      "serving": "1 quesadilla"
+    },
+    "nachos": {
+      "name": "Nachod",
+      "namePrep": "nachodes",
+      "serving": "1 portsjon nachosid"
+    },
+    "mac-and-cheese": {
+      "name": "Makaronid juustukastmega",
+      "namePrep": "makaronides juustukastmega",
+      "serving": "1 kauss makarone juustukastmega"
+    },
+    "chicken-wings": {
+      "name": "Kanatiivad",
+      "namePrep": "kanatiibades",
+      "serving": "6 kanatiiba"
+    },
+    "fish-and-chips": {
+      "name": "Kala ja friikartulid",
+      "namePrep": "kalas ja friikartulites",
+      "serving": "1 portsjon kala ja friikartuleid"
+    },
+    "risotto": {
+      "name": "Risoto",
+      "namePrep": "risotos",
+      "serving": "1 portsjon risotot"
+    },
+    "tortilla-chips": {
+      "name": "Tortiljakrõpsud",
+      "namePrep": "tortiljakrõpsudes",
+      "serving": "1 portsjon tortiljakrõpse"
+    },
+    "granola-bar": {
+      "name": "Granolabatoon",
+      "namePrep": "granolabatoonis",
+      "serving": "1 granolabatoon"
+    },
+    "chocolate-bar": {
+      "name": "Šokolaadibatoon",
+      "namePrep": "šokolaadibatoonis",
+      "serving": "1 šokolaadibatoon"
+    },
+    "candy": {
+      "name": "Kommid",
+      "namePrep": "kommides",
+      "serving": "1 portsjon komme"
+    },
+    "cinnamon-roll": {
+      "name": "Kaneelisai",
+      "namePrep": "kaneelisaia portsjonis",
+      "serving": "1 kaneelisai"
+    },
+    "marshmallows": {
+      "name": "Vahukommid",
+      "namePrep": "vahukommides",
+      "serving": "1 portsjon vahukomme"
+    },
+    "fruit-snacks": {
+      "name": "Puuviljasuupisted",
+      "namePrep": "puuviljasuupistetes",
+      "serving": "1 portsjon puuviljasuupisteid"
+    },
+    "black-coffee": {
+      "name": "Must kohv",
+      "namePrep": "mustas kohvis",
+      "serving": "1 tass musta kohvi"
+    },
+    "cappuccino": {
+      "name": "Cappuccino",
+      "namePrep": "cappuccinos",
+      "serving": "1 cappuccino"
+    },
+    "milk-tea": {
+      "name": "Piimatee",
+      "namePrep": "piimatees",
+      "serving": "1 piimatee"
+    },
+    "bubble-tea": {
+      "name": "Bubble tea",
+      "namePrep": "bubble teas",
+      "serving": "1 bubble tea"
+    },
+    "lemonade": {
+      "name": "Limonaad",
+      "namePrep": "limonaadis",
+      "serving": "1 klaas limonaadi"
+    },
+    "iced-tea": {
+      "name": "Jäätee",
+      "namePrep": "jäätees",
+      "serving": "1 klaas jääteed"
+    },
+    "apple-juice": {
+      "name": "Õunamahl",
+      "namePrep": "õunamahlas",
+      "serving": "1 klaas õunamahla"
+    },
+    "coconut-water": {
+      "name": "Kookosvesi",
+      "namePrep": "kookosvees",
+      "serving": "1 klaas kookosvett"
+    },
+    "sports-drink": {
+      "name": "Spordijook",
+      "namePrep": "spordijoogis",
+      "serving": "1 pudel spordijooki"
+    },
+    "ranch-dressing": {
+      "name": "Ranch-kaste",
+      "namePrep": "ranch-kastmes",
+      "serving": "2 sl ranch-kastet"
+    },
+    "bbq-sauce": {
+      "name": "BBQ-kaste",
+      "namePrep": "BBQ-kastmes",
+      "serving": "2 sl BBQ-kastet"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "salsas",
+      "serving": "2 sl salsat"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "guacamoles",
+      "serving": "2 sl guacamolet"
+    }
+  },
+  "utility": {
+    "pricing": "Hinnad",
+    "support": "Tugi",
+    "privacy": "Privaatsus",
+    "terms": "Tingimused",
+    "press": "Pressikomplekt",
+    "deleteExtra": "Konto või andmete kustutamise taotlemiseks kirjuta kontoga seotud e-posti aadressilt ja kasuta teemareal fraasi „Kustuta konto“."
+  },
+  "store": {
+    "appStoreSmall": "Laadi alla",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Laadi alla",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Funktsioon",
+    "useCase": "Kasutusjuht",
+    "openPage": "Ava leht →",
+    "openArrow": "Ava →",
+    "practicalWorkflow": "Praktiline töövoog",
+    "workflowTitle": "Kuidas seda kasutada",
+    "goodToKnow": "Hea teada",
+    "defaultNote": "Toitumishinnangud on ligikaudsed ja mõeldud info andmiseks.",
+    "relatedPages": "Seotud lehed",
+    "quickTakeaway": "Lühikokkuvõte",
+    "defaultTakeaway": "Parim tulemus tuleb siis, kui kasutad AI-hinnangut lähtepunktina ja kontrollid portsjoni üle.",
+    "information": "Info",
+    "bestFor": "Sobib hästi"
+  },
+  "internalCta": {
+    "title": "Loe kaloreid lihtsamalt",
+    "text": "Tee toidust foto, kontrolli AI-hinnangut ja salvesta eine mõne sekundiga toidupäevikusse.",
+    "button": "Laadi rakendus alla"
+  },
+  "download": {
+    "availableTitle": "iPhone ja Android",
+    "availableText": "Laadi Calorie Counter AI alla iPhone’ile või Androidile ja muuda järgmine toidufoto päevikukirjeks."
+  },
+  "faq": {
+    "items": [
+      [
+        "Kas Calorie Counter AI on tasuta?",
+        "Saad alustada tasuta igapäevaste AI-toiduanalüüsidega. Kui vajad kõrgemaid limiite või lisatööriistu, võivad saadaval olla premium-funktsioonid."
+      ],
+      [
+        "Kas kaloreid saab lugeda fotolt?",
+        "Jah. Tee toidust foto, kontrolli hinnangut ja salvesta kalorid ning makrod päevikusse."
+      ],
+      [
+        "Kas rakenduses on vöötkoodiskanner?",
+        "Jah. Skanni pakendatud toidud, kinnita toode ja lisa kalorid ning makrod kiiresti päevikusse."
+      ],
+      [
+        "Kas rakendus jälgib makrosid?",
+        "Jah. Päevikus on kalorite kõrval näha valgud, rasvad ja süsivesikud."
+      ],
+      [
+        "Kas see sobib koduse toidu jaoks?",
+        "Jah. Foto põhjal hindamine on kasulik eriti segatoitude ja retseptide puhul, millel pole pakendiinfot."
+      ],
+      [
+        "Kas see on meditsiiniline nõuanne?",
+        "Ei. Calorie Counter AI annab ligikaudseid toitumishinnanguid info eesmärgil ega asenda arsti või toitumisspetsialisti nõu."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Saad alustada tasuta igapäevaste AI-toiduanalüüsidega. Rakenduses või poes kuvatakse alati kehtivad tellimused, prooviperioodid ja hinnad.",
+      "Premium-funktsioonid võivad olla kasulikud, kui vajad suuremaid limiite, rohkem analüüse või lisatööriistu järjepidevaks jälgimiseks."
+    ],
+    "support": [
+      "Vajad abi? Võta ühendust toega ja lisa seadme mudel, platvorm, rakenduse versioon ning lühike kirjeldus probleemist.",
+      "Mida täpsemalt probleemi kirjeldad, seda lihtsam on meil seda korrata ja lahendada."
+    ],
+    "contact": [
+      "Toe e-post: support@caloriecounterai.app",
+      "Koostöö-, meedia- ja tagasisidepäringute puhul kasuta selget teemarea kirjeldust."
+    ],
+    "privacy": [
+      "Calorie Counter AI on loodud toidu kirja panemiseks ja teadlikuks toitumise jälgimiseks. Andmed võivad hõlmata eineid, fotosid, seadeid ja teenuse toimimiseks vajalikku tehnilist teavet.",
+      "Kasutame andmeid rakenduse töö tagamiseks, kogemuse parandamiseks ja kasutaja valikute meelespidamiseks kooskõlas privaatsuspõhimõtetega."
+    ],
+    "terms": [
+      "Calorie Counter AI kasutamisega nõustud kasutama rakendust informatiivse toitumistööriistana ja kontrollima hinnanguid enne nendele toetumist.",
+      "Sa vastutad oma terviseotsuste eest ning vajaduse korral peaksid küsima nõu kvalifitseeritud spetsialistilt."
+    ],
+    "disclaimer": [
+      "Calorie Counter AI annab ligikaudseid toitumishinnanguid info eesmärgil ega asenda meditsiinilist või dietoloogilist nõu.",
+      "Kui sul on haigus, eridieet, rasedus, söömishäire või muu tervisega seotud olukord, pea enne toitumismuudatusi nõu spetsialistiga."
+    ],
+    "delete": [
+      "Konto või andmete kustutamise taotlemiseks kirjuta kontoga seotud e-posti aadressilt ja kasuta teemareal fraasi „Kustuta konto“.",
+      "Lisame vajaduse korral juhised, kuidas taotlust kinnitada ja lõpule viia."
+    ]
+  },
+  "press": {
+    "iconAlt": "Rakenduse ikoon",
+    "iconTitle": "Rakenduse ikoon",
+    "downloadIcon": "Laadi ikoon alla",
+    "screenshotAlt": "Rakenduse kuvatõmmis",
+    "screenshotTitle": "Kuvatõmmis",
+    "downloadScreenshot": "Laadi kuvatõmmis alla",
+    "shortDescriptionTitle": "AI-kalorilugeja toidufoto põhjal",
+    "shortDescriptionText": "Calorie Counter AI aitab fotolt hinnata kaloreid, makrosid ja portsjoni suurust ning pidada lihtsat toidupäevikut."
+  },
+  "notFound": {
+    "title": "404",
+    "text": "Seda lehte pole veel olemas või aadress sisestati valesti.",
+    "home": "Avalehele"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Funktsioonid",
+      "h1": "Calorie Counter AI funktsioonid",
+      "description": "Kalorilugeja fotolt, vöötkoodiskanner, makrode jälgimine ja visuaalne toidupäevik ühes rakenduses.",
+      "kicker": "Funktsioonid",
+      "summary": "Rakendus on loodud kiireks igapäevaseks jälgimiseks: pildista eine, skanni pakendatud toode või paranda hinnangut käsitsi.",
+      "bullets": [
+        "Kalorilugeja fotolt",
+        "Vöötkoodiskanner",
+        "Makrod",
+        "Toidupäevik"
+      ],
+      "sections": [
+        [
+          "Fotost hinnanguks",
+          "Tee toidust foto ja saa esmane hinnang kaloritele, makrodele ja portsjoni suurusele."
+        ],
+        [
+          "Pakendatud tooted",
+          "Vöötkoodiskanner kiirendab nende toodete lisamist, millel on etikett ja vöötkood."
+        ],
+        [
+          "Igapäevane jälgimine",
+          "Päevik näitab, mida sõid ning kuidas kalorid ja makrod kogunevad."
+        ]
+      ],
+      "workflowTitle": "Kuidas funktsioonid koos töötavad",
+      "workflow": [
+        "Tee toidust foto, kontrolli AI-hinnangut ja paranda vajaduse korral portsjonit, kastet või tootemarki enne salvestamist.",
+        "Kasuta vöötkoode ja käsitsi parandusi siis, kui tead portsjonit, retsepti või toodet paremini."
+      ],
+      "note": "Toitumishinnangud on ligikaudsed ega asenda arsti, toitumisnõustaja või muu tervishoiuspetsialisti nõu.",
+      "bestFor": [
+        "fotohinnangud",
+        "vöötkoodid",
+        "makrod",
+        "päevik"
+      ],
+      "workflowKicker": "Funktsioonid",
+      "noteTitle": "Märkus"
+    },
+    "/food-recognition-ai/": {
+      "title": "AI-toidutuvastus",
+      "h1": "Tuvasta toit foto põhjal",
+      "description": "Hinda eine toite, portsjoni suurust, kaloreid ja makrosid toidufoto põhjal.",
+      "kicker": "Fotoanalüüs",
+      "summary": "Fotopõhine hinnang on kasulik koduse toidu, restoranitoidu ja muu pakendiinfota söögi puhul.",
+      "bullets": [
+        "Toidufoto analüüs",
+        "Kalorid ja makrod",
+        "Muudetavad portsjonid",
+        "Kiire salvestamine"
+      ],
+      "sections": [
+        [
+          "Kuidas see töötab",
+          "Tee taldrikust selge foto, kontrolli tuvastatud toite ja salvesta kirje."
+        ],
+        [
+          "Mida üle vaadata",
+          "Õli, kaste, juust, suhkur ja peidetud koostisosad võivad hinnangut oluliselt muuta."
+        ],
+        [
+          "Parim tulemus",
+          "AI annab mustandi, kuid sinu kiire kontroll teeb kirje palju kasulikumaks."
+        ]
+      ],
+      "workflowTitle": "Lisa toit foto põhjal",
+      "workflow": [
+        "Tee toidust foto, kontrolli AI-hinnangut ja paranda vajaduse korral portsjonit, kastet või tootemarki enne salvestamist.",
+        "Kui mõni koostisosa pole fotol näha, lisa see enne salvestamist käsitsi."
+      ],
+      "note": "Fotod töötavad hästi nähtavate toitude puhul, kuid ei näita alati retsepti kõiki koostisosi.",
+      "bestFor": [
+        "kodune toit",
+        "salatid ja kausid",
+        "restoran",
+        "kiire mustand"
+      ],
+      "workflowKicker": "Fotoanalüüs",
+      "noteTitle": "Pea meeles"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Vöötkoodiga kaloriskanner",
+      "h1": "Skanni pakendatud toite vöötkoodi abil",
+      "description": "Lisa pakendatud tooted kiiremini: skanni vöötkood, kinnita toode ja salvesta kalorid ning makrod päevikusse.",
+      "kicker": "Vöötkoodiskanner",
+      "summary": "Vöötkoodid sobivad hästi toodetele, millel on pakend ja toitumisalane teave.",
+      "bullets": [
+        "Kiire tooteotsing",
+        "Pakendiinfo",
+        "Kalorid ja makrod",
+        "Päevikusse salvestamine"
+      ],
+      "sections": [
+        [
+          "Skanni pakendit",
+          "Suuna kaamera vöötkoodile ja kontrolli leitud toodet."
+        ],
+        [
+          "Kontrolli portsjonit",
+          "Pakendi portsjon ei pruugi olla sama, mis sina tegelikult sõid."
+        ],
+        [
+          "Lisa päevikusse",
+          "Pärast kinnitamist salvesta toode päeva koguarvestusse."
+        ]
+      ],
+      "workflowTitle": "Pakendatud toidu lisamine",
+      "workflow": [
+        "Skanni vöötkood, kontrolli toote nimi ja portsjon ning salvesta kirje.",
+        "Kui toode puudub või portsjon on teine, paranda kogust käsitsi."
+      ],
+      "note": "Vöötkood on kiire alguspunkt, kuid portsjon ja tootemargi andmed tuleks üle kontrollida.",
+      "bestFor": [
+        "jogurtid",
+        "joogid",
+        "snäkid",
+        "valmistoidud"
+      ],
+      "workflowKicker": "Vöötkood",
+      "noteTitle": "Nõuanne"
+    },
+    "/macro-tracker/": {
+      "title": "Makrode jälgija",
+      "h1": "Jälgi valke, rasvu ja süsivesikuid",
+      "description": "Vaata kaloreid, valke, rasvu ja süsivesikuid kõrvuti, et mõista oma päeva toitumist.",
+      "kicker": "Makrod",
+      "summary": "Makrod aitavad aru saada, millest kalorid tulevad ja kas päev toetab sinu eesmärki.",
+      "bullets": [
+        "Valgud",
+        "Rasvad",
+        "Süsivesikud",
+        "Päevane kogus"
+      ],
+      "sections": [
+        [
+          "Valgud",
+          "Valgukoguse jälgimine aitab paremini hinnata täiskõhutunnet ja lihasmassi hoidmist."
+        ],
+        [
+          "Rasvad ja süsivesikud",
+          "Need makrod mõjutavad energia hulka ja eine ülesehitust."
+        ],
+        [
+          "Päevane trend",
+          "Üks eine ei määra kõike; vaata päeva ja nädala kogupilti."
+        ]
+      ],
+      "workflowTitle": "Kuidas makrosid kasutada",
+      "workflow": [
+        "Lisa eineid foto, vöötkoodi või käsitsi sisestamisega ja vaata makrosid kalorite kõrval.",
+        "Kasuta tulemusi suunana, mitte täiusliku matemaatikana."
+      ],
+      "note": "Toitumishinnangud on ligikaudsed ega asenda arsti, toitumisnõustaja või muu tervishoiuspetsialisti nõu.",
+      "bestFor": [
+        "valgud",
+        "rasvad",
+        "süsivesikud",
+        "päeva ülevaade"
+      ],
+      "workflowKicker": "Makrod",
+      "noteTitle": "Hea teada"
+    },
+    "/food-diary-app/": {
+      "title": "Toidupäeviku rakendus",
+      "h1": "Pea lihtsat toidupäevikut",
+      "description": "Salvesta eined, fotod, kalorid ja makrod ühte päevikusse, mida on lihtne järjepidevalt kasutada.",
+      "kicker": "Toidupäevik",
+      "summary": "Hea toidupäevik teeb igapäevased valikud nähtavaks ilma liigse käsitsitööta.",
+      "bullets": [
+        "Einete ajalugu",
+        "Fotod",
+        "Kalorid ja makrod",
+        "Päevade võrdlus"
+      ],
+      "sections": [
+        [
+          "Mida salvestada",
+          "Lisa eined, joogid, suupisted ja vajaduse korral portsjoniparandused."
+        ],
+        [
+          "Miks fotod aitavad",
+          "Foto aitab mäletada, mida sõid, isegi kui täpset retsepti ei tea."
+        ],
+        [
+          "Järjepidevus",
+          "Lihtne töövoog teeb päeviku pidamise realistlikumaks."
+        ]
+      ],
+      "workflowTitle": "Igapäevane päevik",
+      "workflow": [
+        "Tee toidust foto, kontrolli AI-hinnangut ja paranda vajaduse korral portsjonit, kastet või tootemarki enne salvestamist.",
+        "Vaata päeva lõpus üle, mis kõige rohkem kaloreid ja makrosid mõjutas."
+      ],
+      "note": "Toitumishinnangud on ligikaudsed ega asenda arsti, toitumisnõustaja või muu tervishoiuspetsialisti nõu.",
+      "bestFor": [
+        "igapäevane jälgimine",
+        "fotod",
+        "harjumused",
+        "trendid"
+      ],
+      "workflowKicker": "Päevik",
+      "noteTitle": "Märkus"
+    },
+    "/nutrition-tracker/": {
+      "title": "Toitumise jälgija",
+      "h1": "Jälgi toitumist selgemalt",
+      "description": "Ühenda kalorid, makrod, portsjonid ja einete ajalugu ühte lihtsasse toitumisvaatesse.",
+      "kicker": "Toitumine",
+      "summary": "Rakendus aitab näha, millised toidud ja harjumused mõjutavad sinu päeva kogupilti.",
+      "bullets": [
+        "Kalorid",
+        "Makrod",
+        "Portsjonid",
+        "Harjumused"
+      ],
+      "sections": [
+        [
+          "Päeva ülevaade",
+          "Näe, kuidas eined päevase eesmärgiga sobituvad."
+        ],
+        [
+          "Makrode tasakaal",
+          "Valgud, rasvad ja süsivesikud näitavad toidu koostist."
+        ],
+        [
+          "Praktilised parandused",
+          "Paranda kõigepealt portsjon, kastmed, õli ja joogid."
+        ]
+      ],
+      "workflowTitle": "Toitumise jälgimine",
+      "workflow": [
+        "Tee toidust foto, kontrolli AI-hinnangut ja paranda vajaduse korral portsjonit, kastet või tootemarki enne salvestamist.",
+        "Kasuta päeviku ajalugu, et märgata korduvaid mustreid."
+      ],
+      "note": "Toitumishinnangud on ligikaudsed ega asenda arsti, toitumisnõustaja või muu tervishoiuspetsialisti nõu.",
+      "bestFor": [
+        "toitumine",
+        "harjumused",
+        "kalorid",
+        "makrod"
+      ],
+      "workflowKicker": "Toitumine",
+      "noteTitle": "Märkus"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Eine kaalu hindaja",
+      "h1": "Hinda portsjoni kaalu foto põhjal",
+      "description": "Kasuta AI-d, et saada nähtava portsjoni ligikaudne kaal ja kohanda seda enne salvestamist.",
+      "kicker": "Portsjonid",
+      "summary": "Portsjoni suurus on üks suurimaid kaloreid mõjutavaid tegureid.",
+      "bullets": [
+        "Portsjoni hinnang",
+        "Fotopõhine mustand",
+        "Käsitsi parandus",
+        "Realistlik päevik"
+      ],
+      "sections": [
+        [
+          "Miks kaal on tähtis",
+          "Sama toit võib sisaldada väga erineval hulgal kaloreid sõltuvalt portsjonist."
+        ],
+        [
+          "AI annab alguse",
+          "Foto aitab saada mõistliku mustandi, mida saab parandada."
+        ],
+        [
+          "Kontroll on oluline",
+          "Kui tead kogust paremini, muuda gramme või portsjonit."
+        ]
+      ],
+      "workflowTitle": "Kuidas portsjonit hinnata",
+      "workflow": [
+        "Pildista kogu taldrik ja kontrolli, kas portsjon näib realistlik.",
+        "Paranda kogust, kui eine oli suurem, väiksem või osa sellest jäi söömata."
+      ],
+      "note": "Kaalu hinnang on ligikaudne ja sõltub fotost, toidust ning nähtavast portsjonist.",
+      "bestFor": [
+        "portsjonid",
+        "grammid",
+        "kodune toit",
+        "restoran"
+      ],
+      "workflowKicker": "Portsjonid",
+      "noteTitle": "Hea teada"
+    },
+    "/progress-statistics/": {
+      "title": "Edenemise statistika",
+      "h1": "Vaata toitumise trende",
+      "description": "Jälgi kaloreid, makrosid ja päeviku ajalugu, et näha muutusi päevade, nädalate ja kuude lõikes.",
+      "kicker": "Statistika",
+      "summary": "Trendid aitavad teha paremaid otsuseid kui üksik päev või üks eine.",
+      "bullets": [
+        "Päevad",
+        "Nädalad",
+        "Makrod",
+        "Harjumused"
+      ],
+      "sections": [
+        [
+          "Päevane vaade",
+          "Näe, kuidas tänased eined eesmärgiga sobituvad."
+        ],
+        [
+          "Pikem trend",
+          "Vaata nädalate lõikes, kas harjumused liiguvad soovitud suunas."
+        ],
+        [
+          "Tõlgenda rahulikult",
+          "Üks kõrge või madal päev ei tähenda läbikukkumist."
+        ]
+      ],
+      "workflowTitle": "Kuidas statistikat kasutada",
+      "workflow": [
+        "Lisa eineid järjepidevalt ja vaata keskmisi, mitte ainult üksikuid päevi.",
+        "Kasuta trende, et kohandada portsjoneid, suupisteid ja valguallikaid."
+      ],
+      "note": "Toitumishinnangud on ligikaudsed ega asenda arsti, toitumisnõustaja või muu tervishoiuspetsialisti nõu.",
+      "bestFor": [
+        "trendid",
+        "päeva ülevaade",
+        "nädalad",
+        "harjumused"
+      ],
+      "workflowKicker": "Statistika",
+      "noteTitle": "Märkus"
+    },
+    "/meal-reminders/": {
+      "title": "Eine meeldetuletused",
+      "h1": "Mäleta eineid õigel ajal lisada",
+      "description": "Kasuta meeldetuletusi, et toidupäevik ei jääks unarusse kiiretel päevadel.",
+      "kicker": "Meeldetuletused",
+      "summary": "Parim päevik on see, mida kasutad järjepidevalt ka tavalistel ja kiiretel päevadel.",
+      "bullets": [
+        "Meeldetuletused",
+        "Päevik",
+        "Harjumus",
+        "Järjepidevus"
+      ],
+      "sections": [
+        [
+          "Miks meeldetuletused aitavad",
+          "Kui kirje lisada kohe pärast sööki, on portsjon ja koostisosad paremini meeles."
+        ],
+        [
+          "Paindlik kasutus",
+          "Kasuta meeldetuletusi ainult siis, kui need toetavad sinu rutiini."
+        ],
+        [
+          "Vähem tagantjärele arvamist",
+          "Õigeaegne lisamine vähendab unustatud snäkke ja jooke."
+        ]
+      ],
+      "workflowTitle": "Päeviku rutiin",
+      "workflow": [
+        "Sea meeldetuletused aegadele, mil tavaliselt sööd.",
+        "Lisa eine kohe või tee vähemalt foto, mille juurde hiljem tagasi tulla."
+      ],
+      "note": "Toitumishinnangud on ligikaudsed ega asenda arsti, toitumisnõustaja või muu tervishoiuspetsialisti nõu.",
+      "bestFor": [
+        "rutiin",
+        "kiired päevad",
+        "päevik",
+        "järjepidevus"
+      ],
+      "workflowKicker": "Meeldetuletused",
+      "noteTitle": "Nõuanne"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Ühenda andmed Google Health Connectiga",
+      "description": "Kasuta toetatud terviseandmete ühendusi, et toitumise jälgimine sobituks paremini sinu Androidi ökosüsteemi.",
+      "kicker": "Integratsioon",
+      "summary": "Health Connect aitab koondada toetatud tervise- ja aktiivsusandmeid ühte turvalisemasse süsteemi.",
+      "bullets": [
+        "Android",
+        "Health Connect",
+        "Andmete ühendus",
+        "Kontroll kasutaja käes"
+      ],
+      "sections": [
+        [
+          "Mida see teeb",
+          "Ühendus võib aidata toitumis- ja terviseandmeid paremini koos kasutada."
+        ],
+        [
+          "Kontrolli õigusi",
+          "Luba ainult need andmed, mida soovid jagada."
+        ],
+        [
+          "Saadavus",
+          "Funktsioonid võivad sõltuda seadmest, riigist ja rakenduse versioonist."
+        ]
+      ],
+      "workflowTitle": "Kuidas ühendust kasutada",
+      "workflow": [
+        "Ava rakenduses seaded ja kontrolli, millised Health Connecti õigused on saadaval.",
+        "Muuda õigusi Androidi seadetes igal ajal."
+      ],
+      "note": "Health Connecti võimalused ja saadavus võivad aja jooksul muutuda.",
+      "bestFor": [
+        "Android",
+        "ühendused",
+        "terviseandmed",
+        "seaded"
+      ],
+      "workflowKicker": "Integratsioon",
+      "noteTitle": "Märkus"
+    },
+    "/data-export/": {
+      "title": "Andmete eksport",
+      "h1": "Ekspordi oma toidupäeviku andmed",
+      "description": "Ekspordi eine- ja toitumisandmeid, kui vajad varukoopiat või soovid neid mujal analüüsida.",
+      "kicker": "Andmed",
+      "summary": "Andmete eksport annab parema kontrolli oma päeviku ja toitumisajaloo üle.",
+      "bullets": [
+        "Eksport",
+        "Päevik",
+        "Varukoopia",
+        "Analüüs"
+      ],
+      "sections": [
+        [
+          "Miks eksportida",
+          "Varukoopia või eraldi analüüs võib olla kasulik pikema jälgimise korral."
+        ],
+        [
+          "Mida kontrollida",
+          "Veendu, et eksporditud andmed hõlmaksid soovitud ajavahemikku."
+        ],
+        [
+          "Privaatsus",
+          "Hoia eksporditud failid turvalises kohas."
+        ]
+      ],
+      "workflowTitle": "Andmete kasutamine",
+      "workflow": [
+        "Vali rakenduses soovitud ajavahemik ja ekspordivorming, kui see on saadaval.",
+        "Jaga faile ainult teenustega, mida usaldad."
+      ],
+      "note": "Ekspordivõimalused võivad sõltuda rakenduse versioonist ja platvormist.",
+      "bestFor": [
+        "varukoopia",
+        "analüüs",
+        "päevik",
+        "andmed"
+      ],
+      "workflowKicker": "Andmed",
+      "noteTitle": "Märkus"
+    },
+    "/use-cases/": {
+      "title": "Kasutusjuhud",
+      "h1": "Kuidas Calorie Counter AI-d kasutada",
+      "description": "Ideed, kuidas kasutada rakendust kaalulanguse, kaalu hoidmise, lihasmassi kasvatamise, koduse toidu ja restoranitoidu jälgimiseks.",
+      "kicker": "Kasutusjuhud"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Kalorilugeja kaalulanguseks",
+      "h1": "Jälgi kaloreid kaalulanguse toetamiseks",
+      "description": "Näe päeva kaloreid, allesjäänud eesmärki ja einete ülesehitust ilma raske käsitsitööta.",
+      "kicker": "Kaalulangus",
+      "summary": "Kaalulangus toimib igapäevaelus paremini, kui kalorisiht on nähtav ja kirja panemine on piisavalt lihtne.",
+      "bullets": [
+        "Päevane kalorisiht",
+        "Fotohinnangud einetele",
+        "Makrod täiskõhutunde toetamiseks",
+        "Trend aja jooksul"
+      ],
+      "sections": [
+        [
+          "Kaloripuudujääk nähtavaks",
+          "Päevik aitab mõista, kuidas eined sobituvad päeva eesmärgiga."
+        ],
+        [
+          "Vähem hõõrdumist",
+          "Foto teeb alustamise kiireks ka kiirel päeval."
+        ],
+        [
+          "Kontrolli lisandeid",
+          "Õli, kastmed, joogid ja näksid mõjutavad sageli kõige rohkem."
+        ]
+      ],
+      "workflowTitle": "Kasuta rakendust kaalulangusel",
+      "workflow": [
+        "Lisa eined võimalikult varsti. Kontrolli portsjonit ning lisa peidetud kalorid, näiteks kastmed ja joogid.",
+        "Vaata pigem nädala trendi kui üht päeva."
+      ],
+      "note": "Toitumishinnangud on ligikaudsed ega asenda arsti, toitumisnõustaja või muu tervishoiuspetsialisti nõu.",
+      "bestFor": [
+        "kaloripuudujääk",
+        "päevane eesmärk",
+        "portsjonid",
+        "trendid"
+      ],
+      "workflowKicker": "Kaalulangus",
+      "noteTitle": "Märkus"
+    },
+    "/calorie-deficit-app/": {
+      "title": "Kaloripuudujäägi rakendus",
+      "h1": "Muuda kaloripuudujääk nähtavaks",
+      "description": "Jälgi tarbitud kaloreid, einete koostist ja päevast eesmärki, et kaalulangus oleks paremini hallatav.",
+      "kicker": "Kaloripuudujääk",
+      "summary": "Kaloripuudujääk tähendab, et tarbid pikema aja jooksul vähem energiat, kui kulutad.",
+      "bullets": [
+        "Päevane siht",
+        "Einete päevik",
+        "Makrod",
+        "Nädala trend"
+      ],
+      "sections": [
+        [
+          "Lihtne põhimõte",
+          "Püsiv puudujääk võib aja jooksul kaalu langetada."
+        ],
+        [
+          "Ära tee seda liiga suureks",
+          "Liiga suur puudujääk võib halvendada enesetunnet ja järjepidevust."
+        ],
+        [
+          "Jälgi realistlikult",
+          "Kõige rohkem aitavad portsjonid, joogid, õli ja korduvad suupisted."
+        ]
+      ],
+      "workflowTitle": "Jälgi puudujääki praktiliselt",
+      "workflow": [
+        "Lisa eined ja vaata päeva kogupilti, mitte ainult üht söögikorda.",
+        "Kohanda sihti enesetunde, aktiivsuse ja pikaajalise trendi järgi."
+      ],
+      "note": "Toitumishinnangud on ligikaudsed ega asenda arsti, toitumisnõustaja või muu tervishoiuspetsialisti nõu.",
+      "bestFor": [
+        "kaloripuudujääk",
+        "kaalulangus",
+        "päevane eesmärk",
+        "trend"
+      ],
+      "workflowKicker": "Kaloripuudujääk",
+      "noteTitle": "Märkus"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Kalorijälgija lihasmassi kasvatamiseks",
+      "h1": "Hoia kalorid ja valgud nähtaval",
+      "description": "Jälgi energiatarbimist ja valku, kui soovid treeningu kõrval lihasmassi kasvatada.",
+      "kicker": "Lihasmass",
+      "summary": "Lihasmassi kasvatamisel on sageli oluline piisav energia ja järjepidev valgukogus.",
+      "bullets": [
+        "Valgud",
+        "Kalorid",
+        "Energia ülejääk",
+        "Päevane ülevaade"
+      ],
+      "sections": [
+        [
+          "Valgud nähtavaks",
+          "Päevik aitab näha, kas valgukogus koguneb päeva jooksul."
+        ],
+        [
+          "Energiat peab jätkuma",
+          "Liiga madal kalorikogus võib arengut pidurdada."
+        ],
+        [
+          "Vaata trendi",
+          "Jälgi kehakaalu, treeningut ja enesetunnet pikema aja jooksul."
+        ]
+      ],
+      "workflowTitle": "Kasuta rakendust lihaskasvuks",
+      "workflow": [
+        "Lisa valguallikad ja kontrolli, kas päeva kogus toetab sinu eesmärki.",
+        "Jälgi kaloreid piisava energiatarbimise hoidmiseks."
+      ],
+      "note": "Toitumishinnangud on ligikaudsed ega asenda arsti, toitumisnõustaja või muu tervishoiuspetsialisti nõu.",
+      "bestFor": [
+        "valgud",
+        "kalorid",
+        "treening",
+        "energia"
+      ],
+      "workflowKicker": "Lihasmass",
+      "noteTitle": "Märkus"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Kaalu hoidmise jälgija",
+      "h1": "Hoia kaal stabiilsemalt kontrolli all",
+      "description": "Jälgi kaloreid ja harjumusi, et hoida praegust kaalu ilma liigse ranguseta.",
+      "kicker": "Kaalu hoidmine",
+      "summary": "Kaalu hoidmine vajab sageli püsivaid harjumusi, mitte täiuslikku igapäevast täpsust.",
+      "bullets": [
+        "Päevane ülevaade",
+        "Nädala keskmine",
+        "Makrod",
+        "Harjumused"
+      ],
+      "sections": [
+        [
+          "Stabiilsus",
+          "Päevik aitab näha, kas tarbimine on enam-vähem kooskõlas kulutusega."
+        ],
+        [
+          "Paindlikkus",
+          "Üks suurem päev ei riku trendi, kui keskmine püsib sobiv."
+        ],
+        [
+          "Korduvad mustrid",
+          "Märka jooke, suupisteid ja portsjoneid, mis kogunevad märkamatult."
+        ]
+      ],
+      "workflowTitle": "Kaalu hoidmise töövoog",
+      "workflow": [
+        "Lisa eined piisava järjepidevusega, et näha üldist mustrit.",
+        "Võrdle nädalaid, mitte üksikuid päevi."
+      ],
+      "note": "Toitumishinnangud on ligikaudsed ega asenda arsti, toitumisnõustaja või muu tervishoiuspetsialisti nõu.",
+      "bestFor": [
+        "kaalu hoidmine",
+        "harjumused",
+        "nädala keskmine",
+        "paindlikkus"
+      ],
+      "workflowKicker": "Kaalu hoidmine",
+      "noteTitle": "Märkus"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Koduse toidu kalorilugeja",
+      "h1": "Hinda koduse toidu kaloreid",
+      "description": "Kasuta fotot ja käsitsi parandusi, et lisada retseptid, segatoidud ja kodused portsjonid päevikusse.",
+      "kicker": "Kodune toit",
+      "summary": "Kodutoidu täpset retsepti ei ole alati lihtne sisestada, kuid hea hinnang on parem kui vahele jätmine.",
+      "bullets": [
+        "Retseptid",
+        "Segatoidud",
+        "Portsjonid",
+        "Käsitsi parandused"
+      ],
+      "sections": [
+        [
+          "Alusta fotost",
+          "Foto annab taldriku ja portsjoni kohta kiire lähtepunkti."
+        ],
+        [
+          "Lisa peidetud koostisosad",
+          "Õli, kaste, või ja juust võivad kaloreid palju muuta."
+        ],
+        [
+          "Paranda kogust",
+          "Kui tead, kui palju sõid, muuda portsjonit või gramme."
+        ]
+      ],
+      "workflowTitle": "Koduse toidu lisamine",
+      "workflow": [
+        "Tee toidust foto, kontrolli AI-hinnangut ja paranda vajaduse korral portsjonit, kastet või tootemarki enne salvestamist.",
+        "Lisa käsitsi koostisosad, mida fotolt ei näe."
+      ],
+      "note": "Toitumishinnangud on ligikaudsed ega asenda arsti, toitumisnõustaja või muu tervishoiuspetsialisti nõu.",
+      "bestFor": [
+        "kodune toit",
+        "retseptid",
+        "segatoidud",
+        "portsjonid"
+      ],
+      "workflowKicker": "Kodune toit",
+      "noteTitle": "Märkus"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Restoranikalorite jälgija",
+      "h1": "Lisa restoranitoit kiiresti päevikusse",
+      "description": "Hinda restoranitoidu kaloreid foto, portsjoni ja lisandite põhjal.",
+      "kicker": "Restoran",
+      "summary": "Restoranitoidu puhul pole täpne retsept tavaliselt teada, seega on eesmärk mõistlik ja järjepidev hinnang.",
+      "bullets": [
+        "Fotohinnang",
+        "Lisandid",
+        "Joogid",
+        "Portsjonid"
+      ],
+      "sections": [
+        [
+          "Pildista enne söömist",
+          "Foto aitab portsjoni ja koostisosad hiljem meelde jätta."
+        ],
+        [
+          "Ära unusta lisandeid",
+          "Leib, kastmed, joogid ja magustoidud võivad päevast kogust palju muuta."
+        ],
+        [
+          "Hinda realistlikult",
+          "Restoranis on praktiline eesmärk aus hinnang, mitte täiuslik number."
+        ]
+      ],
+      "workflowTitle": "Restoranitoidu töövoog",
+      "workflow": [
+        "Tee foto kogu einest ja lisa joogid või lisandid eraldi.",
+        "Paranda hinnangut, kui portsjon oli eriti suur või väike."
+      ],
+      "note": "Toitumishinnangud on ligikaudsed ega asenda arsti, toitumisnõustaja või muu tervishoiuspetsialisti nõu.",
+      "bestFor": [
+        "restoran",
+        "väljas söömine",
+        "fotod",
+        "portsjonid"
+      ],
+      "workflowKicker": "Restoran",
+      "noteTitle": "Märkus"
+    },
+    "/meal-tracker/": {
+      "title": "Einete jälgija",
+      "h1": "Jälgi eineid päeva jooksul",
+      "description": "Lisa hommikusöök, lõuna, õhtusöök, suupisted ja joogid ühte selgesse päevikusse.",
+      "kicker": "Einete jälgimine",
+      "summary": "Kui eined on ühes kohas, on lihtsam näha päeva kogupilti.",
+      "bullets": [
+        "Hommikusöök",
+        "Lõuna",
+        "Õhtusöök",
+        "Suupisted"
+      ],
+      "sections": [
+        [
+          "Lisa kohe",
+          "Mida kiiremini kirje lisad, seda paremini mäletad portsjonit."
+        ],
+        [
+          "Kasuta fotosid",
+          "Foto vähendab käsitsi otsimist ja aitab hiljem kontrollida."
+        ],
+        [
+          "Vaata kogu päeva",
+          "Üks eine on ainult osa päevast."
+        ]
+      ],
+      "workflowTitle": "Einete lisamine",
+      "workflow": [
+        "Lisa eine foto, vöötkoodi või käsitsi sisestamisega.",
+        "Päeva lõpus vaata, mis mõjutas kaloreid kõige rohkem."
+      ],
+      "note": "Toitumishinnangud on ligikaudsed ega asenda arsti, toitumisnõustaja või muu tervishoiuspetsialisti nõu.",
+      "bestFor": [
+        "einete päevik",
+        "suupisted",
+        "joogid",
+        "päeva ülevaade"
+      ],
+      "workflowKicker": "Einete jälgimine",
+      "noteTitle": "Märkus"
+    },
+    "/photo-food-journal/": {
+      "title": "Fotodega toidupäevik",
+      "h1": "Pea toidupäevikut fotodega",
+      "description": "Salvesta söögid piltidena koos kalorite ja makrode hinnanguga.",
+      "kicker": "Fotopäevik",
+      "summary": "Fotod teevad päeviku visuaalseks ja aitavad paremini mäletada, mida tegelikult sõid.",
+      "bullets": [
+        "Toidufotod",
+        "Kalorid",
+        "Makrod",
+        "Päevad"
+      ],
+      "sections": [
+        [
+          "Miks foto aitab",
+          "Üks pilt annab kiiresti konteksti portsjoni, lisandite ja taldriku kohta."
+        ],
+        [
+          "Lihtsam järjepidevus",
+          "Foto lisamine on sageli kiirem kui pikk käsitsi otsing."
+        ],
+        [
+          "Kontrolli enne salvestamist",
+          "Paranda hinnangut, kui midagi on puudu või portsjon vale."
+        ]
+      ],
+      "workflowTitle": "Fotopäeviku töövoog",
+      "workflow": [
+        "Tee toidust foto, kontrolli AI-hinnangut ja paranda vajaduse korral portsjonit, kastet või tootemarki enne salvestamist.",
+        "Kasuta fotosid ka siis, kui soovid kirje hiljem täpsustada."
+      ],
+      "note": "Toitumishinnangud on ligikaudsed ega asenda arsti, toitumisnõustaja või muu tervishoiuspetsialisti nõu.",
+      "bestFor": [
+        "fotod",
+        "päevik",
+        "portsjonid",
+        "harjumused"
+      ],
+      "workflowKicker": "Fotopäevik",
+      "noteTitle": "Märkus"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Tervisliku toitumise jälgija",
+      "h1": "Muuda toitumisharjumused nähtavaks",
+      "description": "Jälgi eineid, makrosid ja korduvaid mustreid, et teha teadlikumaid toiduvalikuid.",
+      "kicker": "Tervislik toitumine",
+      "summary": "Tervislik toitumine ei tähenda ainult kaloreid; oluline on ka koostis, rutiin ja jätkusuutlikkus.",
+      "bullets": [
+        "Harjumused",
+        "Makrod",
+        "Päevik",
+        "Trend"
+      ],
+      "sections": [
+        [
+          "Vaata mustreid",
+          "Päevik näitab, mida sööd sageli ja millal tekivad raskemad kohad."
+        ],
+        [
+          "Lisa kontekst",
+          "Fotod ja märkmed aitavad mõista, mis päriselt juhtus."
+        ],
+        [
+          "Tee väikesi muudatusi",
+          "Alusta korduvatest kohtadest, nagu joogid, suupisted ja portsjonid."
+        ]
+      ],
+      "workflowTitle": "Tervislikuma rutiini loomine",
+      "workflow": [
+        "Lisa eineid järjepidevalt ja vaata, millised valikud korduvad.",
+        "Kasuta makrosid ja kaloreid suunava tagasisidena."
+      ],
+      "note": "Toitumishinnangud on ligikaudsed ega asenda arsti, toitumisnõustaja või muu tervishoiuspetsialisti nõu.",
+      "bestFor": [
+        "harjumused",
+        "tasakaal",
+        "päevik",
+        "toitumine"
+      ],
+      "workflowKicker": "Tervislik toitumine",
+      "noteTitle": "Märkus"
+    },
+    "/blog/": {
+      "title": "Toitumise ja kalorite juhendid",
+      "h1": "Calorie Counter AI juhendid",
+      "description": "Praktilised juhendid kalorite lugemiseks, fotopõhiseks toidujälgimiseks, makrodeks ja portsjonite hindamiseks.",
+      "kicker": "Juhendid"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Kuidas lugeda kaloreid fotolt",
+      "h1": "Kuidas lugeda kaloreid fotolt",
+      "description": "Tee einest foto, kontrolli AI-hinnangut ja salvesta kalorid ning makrod toidupäevikusse.",
+      "category": "Fotojuhend",
+      "readTime": "5 min lugemist",
+      "intro": "Kalorite lugemine fotolt toimib kõige paremini siis, kui AI annab mustandi ja sina kontrollid portsjoni ning peidetud lisandid.",
+      "sections": [
+        [
+          "Alusta fotoga",
+          "Tee enne söömist selge foto kogu portsjonist. Hea valgus ja nähtav taldrik parandavad hinnangut."
+        ],
+        [
+          "Kontrolli tulemust",
+          "Veendu, et põhitoidud, portsjoni suurus ja võimalikud kastmed oleksid arvesse võetud."
+        ],
+        [
+          "Paranda olulisemad asjad",
+          "Muuda portsjonit või lisa peidetud koostisosad, nagu õli, juust, suhkur ja joogid."
+        ],
+        [
+          "Salvesta päevikusse",
+          "Kui hinnang tundub mõistlik, salvesta see ja jälgi päeva kogupilti."
+        ]
+      ],
+      "takeaway": "Foto kiirendab kirja panemist, kuid parim tulemus tuleb portsjoni kontrollimisest ja puuduvate koostisosade lisamisest."
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Kui täpsed on AI-kalorilugejad?",
+      "h1": "Kui täpsed on AI-kalorilugejad?",
+      "description": "AI-kalorilugeja on praktiline hinnangutööriist, kuid täpsust mõjutavad foto, portsjon, retsept ja sinu parandused.",
+      "category": "Täpsus",
+      "readTime": "5 min lugemist",
+      "intro": "AI aitab kiiresti alustada, kuid toitumisandmeid tuleks käsitleda ligikaudse hinnanguna, mitte laboritulemusena.",
+      "sections": [
+        [
+          "Mis parandab täpsust",
+          "Selge foto, nähtav portsjon ja õiged parandused annavad parema tulemuse."
+        ],
+        [
+          "Mis võib eksitada",
+          "Õli, kastmed, suhkur, pähklid ja peidetud koostisosad võivad fotol märkamatuks jääda."
+        ],
+        [
+          "Portsjon on kõige tähtsam",
+          "Sama toit võib eri portsjonis anda väga erineva kalorikoguse."
+        ],
+        [
+          "Kasuta trendina",
+          "Üks kirje võib eksida; järjepidev trend on sageli kasulikum."
+        ]
+      ],
+      "takeaway": "AI-kalorilugeja sobib praktiliseks päevikuks, kui kontrollid portsjoni ja lisandid üle."
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "AI-kalorilugeja või käsitsi sisestamine",
+      "h1": "AI-kalorilugeja vs käsitsi sisestamine",
+      "description": "Võrdle fotopõhist AI-hinnangut ja käsitsi toidu sisestamist ning kasuta mõlemat seal, kus need töötavad kõige paremini.",
+      "category": "Võrdlus",
+      "readTime": "5 min lugemist",
+      "intro": "AI vähendab alustamise vaeva, käsitsi sisestamine annab kontrolli siis, kui tead täpseid koguseid.",
+      "sections": [
+        [
+          "AI on kiire",
+          "Foto sobib hästi koduse ja restoranitoidu esialgseks hinnanguks."
+        ],
+        [
+          "Käsitsi on täpsem, kui kogus on teada",
+          "Kui sul on retsept või kaal, sisesta kogused käsitsi."
+        ],
+        [
+          "Parim on kombinatsioon",
+          "Kasuta AI mustandit ja paranda vajaduse korral olulised detailid."
+        ],
+        [
+          "Järjepidevus loeb",
+          "Lihtsam töövoog aitab päevikut sagedamini pidada."
+        ]
+      ],
+      "takeaway": "Kõige praktilisem lahendus on AI kiirus koos käsitsi kontrolliga."
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Toidu kaloriskanner",
+      "h1": "Mis on toidu kaloriskanner?",
+      "description": "Toidu kaloriskanner aitab lisada kaloreid foto, vöötkoodi või käsitsi sisestamise abil.",
+      "category": "Skanner",
+      "readTime": "5 min lugemist",
+      "intro": "Kaloriskanneri eesmärk on muuta toidu kirja panemine kiiremaks, mitte asendada sinu otsust.",
+      "sections": [
+        [
+          "Fotoga skannimine",
+          "Sobib taldrikul olevatele einetele ja pakendiinfota toidule."
+        ],
+        [
+          "Vöötkoodiga skannimine",
+          "Sobib pakendatud toodetele, millel on tooteandmed."
+        ],
+        [
+          "Kontrolli portsjonit",
+          "Skanner leiab toidu, kuid sina tead kõige paremini, kui palju sõid."
+        ],
+        [
+          "Salvesta päevikusse",
+          "Pärast kontrolli lisa kirje päeva koguarvestusse."
+        ]
+      ],
+      "takeaway": "Skanner on kiire alguspunkt; hea päevik vajab ka portsjoni kontrolli."
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Kuidas algajana makrosid jälgida",
+      "h1": "Kuidas algajana makrosid jälgida",
+      "description": "Makrode jälgimine tähendab valkude, rasvade ja süsivesikute vaatamist kalorite kõrval.",
+      "category": "Makrod",
+      "readTime": "5 min lugemist",
+      "intro": "Algajale piisab sageli sellest, et näha päeva valke, rasvu ja süsivesikuid ilma liigse detailita.",
+      "sections": [
+        [
+          "Alusta valgust",
+          "Paljude eesmärkide puhul on valk esimene makro, mida tasub jälgida."
+        ],
+        [
+          "Vaata kogu päeva",
+          "Üks eine ei pea olema täiuslik, kui päeva kogus on mõistlik."
+        ],
+        [
+          "Ära unusta kaloreid",
+          "Makrod on kasulikud, kuid kalorite kogus mõjutab endiselt energiatasakaalu."
+        ],
+        [
+          "Kasuta lihtsat päevikut",
+          "Foto ja vöötkood aitavad andmeid kiiremini koguda."
+        ]
+      ],
+      "takeaway": "Alusta lihtsast: jälgi kaloreid ja valku ning lisa detailid hiljem."
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Kalorid vs makrod",
+      "h1": "Kalorid ja makrod: mis vahe on?",
+      "description": "Kalorid näitavad energia hulka, makrod aga seda, kas energia tuleb valkudest, rasvadest või süsivesikutest.",
+      "category": "Põhitõed",
+      "readTime": "5 min lugemist",
+      "intro": "Kalorid ja makrod vastavad eri küsimustele ning koos annavad nad toidust selgema pildi.",
+      "sections": [
+        [
+          "Kalorid",
+          "Kalorid kirjeldavad, kui palju energiat toit annab."
+        ],
+        [
+          "Makrod",
+          "Valgud, rasvad ja süsivesikud kirjeldavad toidu koostist."
+        ],
+        [
+          "Miks mõlemad loevad",
+          "Sama kalorikogus võib toetada enesetunnet erinevalt sõltuvalt makrojaotusest."
+        ],
+        [
+          "Praktiline kasutus",
+          "Vaata esmalt päeva kaloreid ja valku, seejärel vajaduse korral rasvu ja süsivesikuid."
+        ]
+      ],
+      "takeaway": "Kalorid näitavad energiakogust; makrod aitavad mõista, millest see energia tuleb."
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Kuidas lugeda kaloreid koduses toidus",
+      "h1": "Kuidas lugeda kaloreid koduses toidus",
+      "description": "Koduse toidu kalorite hindamine on lihtsam, kui alustad fotost ja parandad portsjoni ning peidetud koostisosad.",
+      "category": "Kodune toit",
+      "readTime": "5 min lugemist",
+      "intro": "Kodutoidu retseptid ja portsjonid varieeruvad, seega on mõistlik hinnang sageli praktilisem kui täiuslik arv.",
+      "sections": [
+        [
+          "Pildista portsjon",
+          "Foto annab kiire ülevaate sellest, mis taldrikul on."
+        ],
+        [
+          "Lisa õli ja kastmed",
+          "Need jäävad sageli märkamatuks, kuid võivad kaloreid palju muuta."
+        ],
+        [
+          "Kasuta retsepti, kui see on olemas",
+          "Kui tead koostisosi ja koguseid, täpsusta kirjet käsitsi."
+        ],
+        [
+          "Salvesta korduvad toidud",
+          "Kui sööd sama toitu sageli, muuda selle lisamine edaspidi kiiremaks."
+        ]
+      ],
+      "takeaway": "Koduse toidu puhul on parim kombinatsioon foto, portsjoni kontroll ja peidetud lisandite parandamine."
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Kuidas hinnata portsjoni suurust",
+      "h1": "Kuidas hinnata portsjoni suurust",
+      "description": "Portsjoni suurus mõjutab kaloreid rohkem kui paljud muud detailid.",
+      "category": "Portsjonid",
+      "readTime": "5 min lugemist",
+      "intro": "Kui portsjon on vale, muutub ka kalorihinnang kiiresti valeks.",
+      "sections": [
+        [
+          "Vaata kogu taldrikut",
+          "Pildista toit enne söömist, et portsjon oleks nähtav."
+        ],
+        [
+          "Võrdle tavaliste kogustega",
+          "Kasuta tuttavaid mõõte, näiteks tass, viil, peotäis või grammid."
+        ],
+        [
+          "Paranda pärast söömist",
+          "Kui sõid ainult osa portsjonist, muuda kirjet."
+        ],
+        [
+          "Ära otsi täiuslikkust",
+          "Järjepidev ligikaudne hinnang on sageli kasulikum kui harv täpne kaalumine."
+        ]
+      ],
+      "takeaway": "Portsjoni kontroll on üks lihtsamaid viise, kuidas kaloripäevikut paremaks teha."
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Kui palju kaloreid peaksin päevas sööma?",
+      "h1": "Kui palju kaloreid peaksin päevas sööma?",
+      "description": "Päevane kalorivajadus sõltub kehast, aktiivsusest, eesmärgist ja tervislikust seisundist.",
+      "category": "Päevane eesmärk",
+      "readTime": "5 min lugemist",
+      "intro": "Kalorisiht aitab toitumist jälgida, kuid isiklik vajadus on erinev.",
+      "sections": [
+        [
+          "Vajadus on individuaalne",
+          "Vanus, keha suurus, aktiivsus ja eesmärk mõjutavad energiavajadust."
+        ],
+        [
+          "Eesmärk muudab sihti",
+          "Kaalulangus, hoidmine ja lihaskasv vajavad erinevat lähenemist."
+        ],
+        [
+          "Jälgi trendi",
+          "Kaal, enesetunne ja nälg räägivad sageli rohkem kui ühe päeva number."
+        ],
+        [
+          "Küsi spetsialistilt",
+          "Terviseolukorrad ja eridieedid tasub läbi arutada asjatundjaga."
+        ]
+      ],
+      "takeaway": "Kasuta kalorisihti lähtepunktina ja jälgi, kuidas keha ning igapäevased trendid reageerivad."
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Mis on kaloripuudujääk?",
+      "h1": "Mis on kaloripuudujääk?",
+      "description": "Kaloripuudujääk tähendab, et tarbid pikema aja jooksul vähem energiat, kui kulutad.",
+      "category": "Kaalulangus",
+      "readTime": "5 min lugemist",
+      "intro": "Kaloripuudujääk on kaalulanguse põhiprintsiip, kuid selle teostus mõjutab enesetunnet.",
+      "sections": [
+        [
+          "Põhiidee",
+          "Kui energiatarbimine on piisavalt kaua kulutusest väiksem, võib kaal langeda."
+        ],
+        [
+          "Liiga suur puudujääk võib olla probleem",
+          "Väga madal energiatarbimine võib halvendada enesetunnet ja toitumise kontrolli."
+        ],
+        [
+          "Valk ja rutiin aitavad",
+          "Täiskõhutunne, valk ja regulaarsus teevad puudujäägi praktilisemaks."
+        ],
+        [
+          "Vaata mitme päeva keskmist",
+          "Üks päev ei määra tulemust; oluline on pikem keskmine."
+        ]
+      ],
+      "takeaway": "Kaloripuudujääk peaks olema realistlik, jälgitav ja sinu olukorraga sobiv."
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Levinud vead kalorite lugemisel",
+      "h1": "Levinud vead kalorite lugemisel",
+      "description": "Väldi vigu, mis muudavad toidupäeviku vähem kasulikuks.",
+      "category": "Vead",
+      "readTime": "5 min lugemist",
+      "intro": "Kalorite lugemine töötab paremini, kui keskendud kõige suurematele mõjutajatele, mitte täiuslikkusele.",
+      "sections": [
+        [
+          "Unustatud lisandid",
+          "Õli, kastmed, joogid ja väikesed suupisted jäävad kergesti lisamata."
+        ],
+        [
+          "Vale portsjon",
+          "Sama toit võib sisaldada väga erinevalt kaloreid sõltuvalt kogusest."
+        ],
+        [
+          "Liigne täpsusstress",
+          "Iga grammi täiuslik jälgimine võib muuta harjumuse raskeks."
+        ],
+        [
+          "Trende ei vaadata",
+          "Ühe päeva asemel tasub vaadata nädala kogupilti."
+        ]
+      ],
+      "takeaway": "Paranda esmalt suured asjad: portsjon, õli, kastmed, joogid ja korduvad suupisted."
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Kuidas restoranitoitu kirja panna",
+      "h1": "Kuidas restoranitoitu kirja panna",
+      "description": "Restoranitoidu kaloreid on lihtsam hinnata, kui foto, portsjon ja lisandid koos arvesse võtta.",
+      "category": "Restoranid",
+      "readTime": "5 min lugemist",
+      "intro": "Restoranitoidu täpne retsept pole tavaliselt teada, seega on eesmärk mõistlik hinnang.",
+      "sections": [
+        [
+          "Tee foto enne söömist",
+          "Foto annab portsjoni hindamiseks lähtepunkti."
+        ],
+        [
+          "Lisa lisandid",
+          "Leib, kastmed, joogid ja magustoit võivad päeva kogust muuta."
+        ],
+        [
+          "Kohanda portsjonit",
+          "Kui portsjon oli eriti suur või väike, paranda hinnangut."
+        ],
+        [
+          "Ära otsi täiuslikkust",
+          "Restoranis on ligikaudne hinnang sageli kõige praktilisem."
+        ]
+      ],
+      "takeaway": "Restoranitoidu puhul on parim eesmärk aus ja järjepidev hinnang, mitte täiuslik number."
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Kuidas valku jälgida",
+      "h1": "Kuidas valku jälgida",
+      "description": "Valgu jälgimine aitab täiskõhutunde, lihasmassi hoidmise ja päeva toidu ülesehituse mõistmisel.",
+      "category": "Valk",
+      "readTime": "5 min lugemist",
+      "intro": "Valk on paljude jaoks esimene makro, mida tasub kalorite kõrval jälgida.",
+      "sections": [
+        [
+          "Vaata päeva kogust",
+          "Ühe eine asemel on sageli olulisem kogu päeva kogus."
+        ],
+        [
+          "Tunne valguallikaid",
+          "Kana, kala, munad, piimatooted, tofu, kaunviljad ja valgujoogid on tavalised allikad."
+        ],
+        [
+          "Kasuta päevikut",
+          "Rakendus näitab valku kalorite kõrval, et puudujääke oleks lihtsam märgata."
+        ],
+        [
+          "Kohanda eesmärgi järgi",
+          "Vajadus sõltub eesmärgist, kehast, treeningust ja terviseseisundist."
+        ]
+      ],
+      "takeaway": "Valku tasub jälgida lihtsalt: lisa eined ja vaata päeva kogusummat."
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Mis on toidupäevik?",
+      "h1": "Mis on toidupäevik?",
+      "description": "Toidupäevik on viis salvestada eined, portsjonid ja toitumishinnangud, et harjumused paremini nähtavaks muutuksid.",
+      "category": "Päevik",
+      "readTime": "5 min lugemist",
+      "intro": "Toidupäeviku väärtus tuleb sellest, et see muudab igapäevased valikud nähtavaks.",
+      "sections": [
+        [
+          "Mida kirja panna",
+          "Einete, suupistete, jookide, portsjonite ning vajaduse korral kalorite ja makrode info."
+        ],
+        [
+          "Miks see aitab",
+          "Mälu ei näita alati täpselt, mida ja kui palju sõime."
+        ],
+        [
+          "Foto kasu",
+          "Einefoto kiirendab kirje alustamist ja aitab portsjonit meenutada."
+        ],
+        [
+          "Hoia see jätkusuutlik",
+          "Parim päevik on selline, mida jaksad kasutada ka tavalistel päevadel."
+        ]
+      ],
+      "takeaway": "Toidupäevik ei pea olema täiuslik; see peab olema piisavalt lihtne ja aus."
+    },
+    "/download/": {
+      "title": "Laadi Calorie Counter AI alla",
+      "h1": "Laadi Calorie Counter AI alla",
+      "description": "Laadi AI-kalorilugeja iPhone’ile või Androidile ja alusta toidu lisamist foto, vöötkoodi või käsitsi sisestamisega.",
+      "kicker": "Allalaadimine"
+    },
+    "/faq/": {
+      "title": "Korduma kippuvad küsimused",
+      "h1": "Korduma kippuvad küsimused",
+      "description": "Vastused Calorie Counter AI kasutamise, fotohinnangute, makrode, vöötkoodide ja privaatsuse kohta.",
+      "kicker": "KKK"
+    },
+    "/pricing/": {
+      "title": "Hinnad",
+      "h1": "Hinnad",
+      "description": "Alusta tasuta ja kontrolli võimalikke tellimusi, prooviperioode ning hindu App Store’is või Google Plays.",
+      "kicker": "Hinnad"
+    },
+    "/support/": {
+      "title": "Tugi",
+      "h1": "Tugi",
+      "description": "Vajad Calorie Counter AI kasutamisel abi? Leia tugi, tagasiside ja veateavituse juhised.",
+      "kicker": "Tugi"
+    },
+    "/contact/": {
+      "title": "Kontakt",
+      "h1": "Kontakt",
+      "description": "Võta Calorie Counter AI tiimiga ühendust rakenduse, koostöö või pressipäringute asjus.",
+      "kicker": "Kontakt"
+    },
+    "/privacy-policy/": {
+      "title": "Privaatsuspoliitika",
+      "h1": "Privaatsuspoliitika",
+      "description": "Loe, kuidas Calorie Counter AI käsitleb rakenduse ja veebisaidi toimimiseks vajalikke andmeid.",
+      "kicker": "Privaatsus"
+    },
+    "/terms/": {
+      "title": "Kasutustingimused",
+      "h1": "Kasutustingimused",
+      "description": "Calorie Counter AI kasutustingimused ja teenuse kasutamise põhimõtted.",
+      "kicker": "Tingimused"
+    },
+    "/health-disclaimer/": {
+      "title": "Tervisealane vastutusest loobumine",
+      "h1": "Tervisealane vastutusest loobumine",
+      "description": "Calorie Counter AI annab toitumishinnanguid info eesmärgil ega asenda meditsiinilist või toitumisalast nõustamist.",
+      "kicker": "Vastutusest loobumine"
+    },
+    "/delete-account/": {
+      "title": "Konto kustutamine",
+      "h1": "Konto kustutamine",
+      "description": "Juhised Calorie Counter AI konto ja sellega seotud andmete kustutamise taotlemiseks.",
+      "kicker": "Konto"
+    },
+    "/press/": {
+      "title": "Press",
+      "h1": "Press",
+      "description": "Calorie Counter AI lühikirjeldus, ikoon ja kuvatõmmis pressile ning koostööpartneritele.",
+      "kicker": "Press"
+    },
+    "/how-many-calories-in/": {
+      "title": "Kalorid toitudes",
+      "h1": "Kalorid toitudes",
+      "description": "Sirvi tavaliste toitude kaloreid, valke, rasvu, süsivesikuid ja portsjonisoovitusi.",
+      "kicker": "Kalorijuhend"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Küpsised",
+    "text": "Kasutame vajalikke küpsiseid ja localStorage’i, et mäletada sinu keelt ja küpsisevalikut. Sinu nõusolekul kasutame ka analüütikaküpsiseid, et saiti paremaks teha.",
+    "accept": "Nõustun",
+    "decline": "Keeldun analüütikast"
+  }
+}

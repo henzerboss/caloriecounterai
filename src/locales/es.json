@@ -1,0 +1,2619 @@
+{
+  "localeName": "Español",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "Contador de calorías con IA a partir de fotos"
+  },
+  "nav": {
+    "features": "Funciones",
+    "useCases": "Casos de uso",
+    "blog": "Guías",
+    "faq": "FAQ",
+    "download": "Descargar",
+    "language": "Elegir idioma",
+    "openMenu": "Abrir menú",
+    "caloriesInFoods": "Calorías de los alimentos",
+    "all": "Todo",
+    "allFeatures": "Todas las funciones",
+    "allUseCases": "Todos los casos de uso",
+    "allLearn": "Todas las guías",
+    "openHub": "Ver todo →",
+    "home": "Inicio"
+  },
+  "cta": {
+    "appStore": "Descargar en App Store",
+    "googlePlay": "Descargar en Google Play",
+    "downloadNow": "Descargar ahora",
+    "tryFree": "Probar gratis",
+    "learnMore": "Más información",
+    "learnMoreArrow": "Más información →",
+    "readGuide": "Leer guía"
+  },
+  "home": {
+    "title": "Contador de calorías con IA a partir de fotos",
+    "description": "Haz una foto de tu comida y recibe en segundos una estimación de calorías, proteínas, grasas, hidratos de carbono y tamaño de la porción.",
+    "heroNote": "Empieza gratis con análisis diarios de comida por IA. Disponible para iPhone y Android.",
+    "photoEyebrow": "La función clave",
+    "photoTitle": "Contador de calorías por foto",
+    "photoText": "No hace falta buscar cada ingrediente a mano. Haz una foto, revisa la estimación de la IA y guarda la comida en tu diario de alimentación.",
+    "photoChecklist": [
+      "Cuenta calorías a partir de una foto de la comida",
+      "Obtén una estimación de proteínas, grasas e hidratos de carbono",
+      "Revisa y edita el resultado antes de guardarlo",
+      "Lleva un diario visual de alimentación"
+    ],
+    "featureCards": [
+      [
+        "camera",
+        "Registro por foto",
+        "Fotografía tu comida, revisa la estimación y guarda el registro sin perder tiempo buscando alimentos."
+      ],
+      [
+        "sparkles",
+        "Estimación del plato con IA",
+        "Obtén una referencia rápida de calorías, macros y tamaño de porción cuando no hay etiqueta ni receta cerrada."
+      ],
+      [
+        "shield",
+        "Análisis diarios gratuitos",
+        "Prueba el flujo principal con IA cada día y amplía límites solo si necesitas más comodidad."
+      ],
+      [
+        "barcode",
+        "Alimentos envasados",
+        "Escanea códigos de barras de yogures, bebidas, snacks, platos preparados y otros productos del supermercado."
+      ],
+      [
+        "macro",
+        "Macros siempre a mano",
+        "Controla proteínas, grasas e hidratos de carbono junto a tu objetivo diario de calorías."
+      ],
+      [
+        "diary",
+        "Diario visual",
+        "Abre cualquier día, revisa tus comidas y detecta hábitos que se repiten."
+      ]
+    ],
+    "foodPreviewTitle": "¿Cuántas calorías tienen los alimentos más populares?",
+    "foodPreviewText": "Guías rápidas de calorías y macros para comidas, snacks y bebidas de uso diario.",
+    "foodPreviewLink": "Abrir la guía completa de calorías →",
+    "goalEyebrow": "Tu objetivo bajo control",
+    "counterTitle": "Un contador de calorías sencillo para el día a día",
+    "counterText": "Usa fotos, códigos de barras, comidas favoritas y un diario claro para registrar lo que comes sin sentirlo como una segunda tarea.",
+    "goalPills": [
+      "Pérdida de peso",
+      "Mantenimiento",
+      "Ganancia muscular",
+      "Días con poco tiempo"
+    ],
+    "magicEyebrow": "Por qué se siente diferente",
+    "magicTitle": "Registra la comida en tres pasos",
+    "magicText": "Haz una foto del plato, revisa la estimación y guarda el registro. Cuanto menos tengas que escribir, más fácil será mantener el hábito.",
+    "magicSteps": [
+      "Fotografiar",
+      "Revisar",
+      "Guardar"
+    ],
+    "barcodeEyebrow": "Productos envasados",
+    "barcodeTitle": "Escáner de códigos de barras para alimentos",
+    "barcodeText": "¿Tiene código de barras? Escanea el envase, confirma el producto y añade calorías, proteínas, grasas e hidratos de carbono al diario en segundos.",
+    "barcodeLink": "Más sobre el escáner de códigos de barras →",
+    "progressEyebrow": "Progreso claro",
+    "macroTitle": "Controla calorías y macros",
+    "macroText": "Consulta calorías, proteínas, grasas e hidratos de carbono en un mismo lugar y compara días, semanas y meses.",
+    "macroLink": "Abrir la página de macros →",
+    "useCasesEyebrow": "Para qué usar Calorie Counter AI",
+    "useCasesTitle": "Objetivos de nutrición que encajan con la vida real",
+    "useCasesText": "Ya quieras perder peso, mantenerte, ganar músculo o entender mejor tu alimentación, la app convierte la comida en feedback diario fácil de leer.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Pérdida de peso",
+        "Comprueba cuántas calorías te quedan respecto a tu referencia diaria."
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Comida casera",
+        "Estima platos mixtos que no tienen etiqueta nutricional."
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Comer fuera",
+        "Registra platos de restaurante con estimaciones rápidas por foto."
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Ganancia muscular",
+        "Mantén a la vista proteínas y calorías durante una etapa de volumen."
+      ]
+    ],
+    "downloadTitle": "Empieza a contar calorías con Calorie Counter AI",
+    "downloadText": "Descarga la app para iPhone o Android y convierte tu próxima foto de comida en un registro editable.",
+    "faqEyebrow": "FAQ",
+    "faqTitle": "Preguntas frecuentes",
+    "faq": [
+      [
+        "¿Calorie Counter AI es gratis?",
+        "Puedes empezar con análisis diarios gratuitos. Las funciones premium y los límites ampliados pueden variar según el país y la plataforma."
+      ],
+      [
+        "¿Puedo contar calorías con una foto?",
+        "Sí. Haz una foto del plato, revisa la estimación de la IA y edita porción, ingredientes o marca antes de guardar."
+      ],
+      [
+        "¿Qué tan precisa es la estimación de la IA?",
+        "Es una referencia útil, no una medición exacta. La porción, los ingredientes ocultos, la receta y la calidad de la foto pueden cambiar el resultado."
+      ],
+      [
+        "¿La app registra macros?",
+        "Sí. Puedes ver proteínas, grasas e hidratos de carbono junto a las calorías y tus objetivos diarios."
+      ],
+      [
+        "¿Está disponible para iPhone y Android?",
+        "Sí. Calorie Counter AI está disponible en App Store y Google Play."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "Contador de calorías con IA por foto | Calorie Counter AI",
+    "homeOgTitle": "Contador de calorías con IA a partir de fotos",
+    "homeDescription": "Haz una foto de tu comida y obtén una estimación editable de calorías, macros y tamaño de porción en segundos."
+  },
+  "footer": {
+    "disclaimer": "Las estimaciones nutricionales son orientativas y no sustituyen el consejo médico o dietético profesional.",
+    "copyright": "© 2026 Calorie Counter AI"
+  },
+  "foodIndex": {
+    "findTitle": "Calorías de los alimentos",
+    "findText": "Consulta calorías, proteínas, grasas e hidratos de carbono de alimentos populares y porciones habituales.",
+    "categoryIntro": "Explora alimentos por categoría para encontrar una referencia rápida antes de registrarlos en tu diario."
+  },
+  "foodPage": {
+    "eyebrow": "Guía de calorías",
+    "trackInApp": "Añadir en la app",
+    "browseFoods": "Ver alimentos →",
+    "typicalEstimate": "Estimación orientativa. Los valores reales dependen de la marca, la receta y el tamaño de la porción.",
+    "caloriesMacros": "Calorías y macros",
+    "whenFits": "Cuándo encaja bien",
+    "whatToWatch": "En qué fijarse",
+    "howToLog": "Cómo registrarlo mejor",
+    "helpfulContext": "Contexto útil",
+    "faq": "FAQ",
+    "weightLossQuestion": "¿Sirve para perder peso?",
+    "variabilityQuestion": "¿Qué cambia más sus calorías?",
+    "logFasterTitle": "Registra la comida más rápido",
+    "logFasterText": "Usa Calorie Counter AI: haz una foto de la comida, obtén un borrador del registro y ajusta porción, salsa o marca si hace falta.",
+    "photoTrackingLink": "Cómo funciona el conteo de calorías por foto →",
+    "macros": {
+      "protein": "Proteínas",
+      "fat": "Grasas",
+      "carbs": "Hidratos de carbono"
+    },
+    "titleTemplate": "¿Cuántas calorías tiene {namePrep}?",
+    "h1Template": "¿Cuántas calorías tiene {namePrep}?",
+    "descriptionTemplate": "{name}: calorías, proteínas, grasas e hidratos de carbono para la porción «{serving}», con consejos para registrarlo en un diario de alimentación.",
+    "heroIntroTemplate": "Aproximadamente {calories} {kcal} por porción: {servingLower}. Úsalo como punto de partida y ajusta el resultado según marca, receta, método de cocción y tamaño de la porción.",
+    "macroParagraphTemplate": "{name}: unas {calories} {kcal} por porción «{servingLower}». Esta porción contiene alrededor de {protein} {gram} de proteína, {fat} {gram} de grasa y {carbs} {gram} de hidratos de carbono{fiberText}.",
+    "per100Template": "Para comparar, por cada 100 {gram}: unas {calories} {kcal}, {protein} {gram} de proteína, {fat} {gram} de grasa y {carbs} {gram} de hidratos de carbono.",
+    "calorieLevelTemplate": "Toma la porción como referencia: aquí se indican unas {calories} {kcal} para «{servingLower}»."
+  },
+  "foodCategories": {
+    "Fruit": "Fruta",
+    "Protein foods": "Alimentos ricos en proteínas",
+    "Fruits and fats": "Frutas y grasas",
+    "Grains and starches": "Cereales y alimentos con almidón",
+    "Nuts and spreads": "Frutos secos y cremas para untar",
+    "Breakfast foods": "Desayunos",
+    "Dairy": "Lácteos",
+    "Restaurant meals": "Comidas fuera de casa",
+    "Fast food": "Comida rápida",
+    "Legumes and plant protein": "Legumbres y proteína vegetal",
+    "Desserts": "Postres",
+    "Snacks": "Snacks",
+    "Drinks": "Bebidas",
+    "Vegetables": "Verduras y hortalizas",
+    "Sauces and condiments": "Salsas y condimentos",
+    "Mixed dishes": "Platos preparados"
+  },
+  "foods": {
+    "banana": {
+      "name": "Plátano",
+      "namePrep": "el plátano",
+      "serving": "1 porción de plátano"
+    },
+    "apple": {
+      "name": "Manzana",
+      "namePrep": "la manzana",
+      "serving": "1 porción de manzana"
+    },
+    "egg": {
+      "name": "Huevo",
+      "namePrep": "el huevo",
+      "serving": "1 porción de huevo"
+    },
+    "avocado": {
+      "name": "Aguacate",
+      "namePrep": "el aguacate",
+      "serving": "1 porción de aguacate"
+    },
+    "chicken-breast": {
+      "name": "Pechuga de pollo",
+      "namePrep": "la pechuga de pollo",
+      "serving": "1 porción de pechuga de pollo"
+    },
+    "salmon": {
+      "name": "Salmón",
+      "namePrep": "el salmón",
+      "serving": "1 porción de salmón"
+    },
+    "white-rice": {
+      "name": "Arroz blanco",
+      "namePrep": "el arroz blanco",
+      "serving": "1 porción de arroz blanco"
+    },
+    "brown-rice": {
+      "name": "Arroz integral",
+      "namePrep": "el arroz integral",
+      "serving": "1 porción de arroz integral"
+    },
+    "pasta": {
+      "name": "Pasta",
+      "namePrep": "la pasta",
+      "serving": "1 porción de pasta"
+    },
+    "potato": {
+      "name": "Patata",
+      "namePrep": "la patata",
+      "serving": "1 porción de patata"
+    },
+    "sweet-potato": {
+      "name": "Boniato",
+      "namePrep": "el boniato",
+      "serving": "1 porción de boniato"
+    },
+    "bread": {
+      "name": "Pan",
+      "namePrep": "el pan",
+      "serving": "1 porción de pan"
+    },
+    "peanut-butter": {
+      "name": "Crema de cacahuete",
+      "namePrep": "la crema de cacahuete",
+      "serving": "1 porción de crema de cacahuete"
+    },
+    "oatmeal": {
+      "name": "Gachas de avena",
+      "namePrep": "las gachas de avena",
+      "serving": "1 porción de gachas de avena"
+    },
+    "greek-yogurt": {
+      "name": "Yogur griego",
+      "namePrep": "el yogur griego",
+      "serving": "1 porción de yogur griego"
+    },
+    "yogurt": {
+      "name": "Yogur",
+      "namePrep": "el yogur",
+      "serving": "1 porción de yogur"
+    },
+    "milk": {
+      "name": "Leche",
+      "namePrep": "la leche",
+      "serving": "1 porción de leche"
+    },
+    "cheddar-cheese": {
+      "name": "Queso cheddar",
+      "namePrep": "el queso cheddar",
+      "serving": "1 porción de queso cheddar"
+    },
+    "pizza": {
+      "name": "Pizza",
+      "namePrep": "la pizza",
+      "serving": "1 porción de pizza"
+    },
+    "burger": {
+      "name": "Hamburguesa",
+      "namePrep": "la hamburguesa",
+      "serving": "1 porción de hamburguesa"
+    },
+    "french-fries": {
+      "name": "Patatas fritas",
+      "namePrep": "las patatas fritas",
+      "serving": "1 porción de patatas fritas"
+    },
+    "sushi-roll": {
+      "name": "Roll de sushi",
+      "namePrep": "el roll de sushi",
+      "serving": "1 porción de roll de sushi"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "el taco",
+      "serving": "1 porción de taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "el burrito",
+      "serving": "1 porción de burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Nuggets de pollo",
+      "namePrep": "los nuggets de pollo",
+      "serving": "1 porción de nuggets de pollo"
+    },
+    "hot-dog": {
+      "name": "Perrito caliente",
+      "namePrep": "el perrito caliente",
+      "serving": "1 porción de perrito caliente"
+    },
+    "steak": {
+      "name": "Filete de ternera",
+      "namePrep": "el filete de ternera",
+      "serving": "1 porción de filete de ternera"
+    },
+    "bacon": {
+      "name": "Bacon",
+      "namePrep": "el bacon",
+      "serving": "1 porción de bacon"
+    },
+    "tuna": {
+      "name": "Atún",
+      "namePrep": "el atún",
+      "serving": "1 porción de atún"
+    },
+    "shrimp": {
+      "name": "Gambas",
+      "namePrep": "las gambas",
+      "serving": "1 porción de gambas"
+    },
+    "tofu": {
+      "name": "Tofu",
+      "namePrep": "el tofu",
+      "serving": "1 porción de tofu"
+    },
+    "lentils": {
+      "name": "Lentejas",
+      "namePrep": "las lentejas",
+      "serving": "1 porción de lentejas"
+    },
+    "black-beans": {
+      "name": "Frijoles negros",
+      "namePrep": "los frijoles negros",
+      "serving": "1 porción de frijoles negros"
+    },
+    "chickpeas": {
+      "name": "Garbanzos",
+      "namePrep": "los garbanzos",
+      "serving": "1 porción de garbanzos"
+    },
+    "hummus": {
+      "name": "Hummus",
+      "namePrep": "el hummus",
+      "serving": "1 porción de hummus"
+    },
+    "quinoa": {
+      "name": "Quinoa",
+      "namePrep": "la quinoa",
+      "serving": "1 porción de quinoa"
+    },
+    "tortilla": {
+      "name": "Tortilla mexicana",
+      "namePrep": "la tortilla mexicana",
+      "serving": "1 porción de tortilla mexicana"
+    },
+    "bagel": {
+      "name": "Bagel",
+      "namePrep": "el bagel",
+      "serving": "1 porción de bagel"
+    },
+    "croissant": {
+      "name": "Cruasán",
+      "namePrep": "el cruasán",
+      "serving": "1 porción de cruasán"
+    },
+    "pancake": {
+      "name": "Tortitas",
+      "namePrep": "las tortitas",
+      "serving": "1 porción de tortitas"
+    },
+    "waffle": {
+      "name": "Gofre",
+      "namePrep": "el gofre",
+      "serving": "1 porción de gofre"
+    },
+    "cereal": {
+      "name": "Cereales",
+      "namePrep": "los cereales",
+      "serving": "1 porción de cereales"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "la granola",
+      "serving": "1 porción de granola"
+    },
+    "almonds": {
+      "name": "Almendras",
+      "namePrep": "las almendras",
+      "serving": "1 porción de almendras"
+    },
+    "walnuts": {
+      "name": "Nueces",
+      "namePrep": "las nueces",
+      "serving": "1 porción de nueces"
+    },
+    "cashews": {
+      "name": "Anacardos",
+      "namePrep": "los anacardos",
+      "serving": "1 porción de anacardos"
+    },
+    "chocolate": {
+      "name": "Chocolate",
+      "namePrep": "el chocolate",
+      "serving": "1 porción de chocolate"
+    },
+    "ice-cream": {
+      "name": "Helado",
+      "namePrep": "el helado",
+      "serving": "1 porción de helado"
+    },
+    "cookie": {
+      "name": "Galleta con pepitas de chocolate",
+      "namePrep": "la galleta con pepitas de chocolate",
+      "serving": "1 porción de galleta con pepitas de chocolate"
+    },
+    "donut": {
+      "name": "Dónut glaseado",
+      "namePrep": "el dónut glaseado",
+      "serving": "1 porción de dónut glaseado"
+    },
+    "muffin": {
+      "name": "Muffin de arándanos",
+      "namePrep": "el muffin de arándanos",
+      "serving": "1 porción de muffin de arándanos"
+    },
+    "cake": {
+      "name": "Tarta",
+      "namePrep": "la tarta",
+      "serving": "1 porción de tarta"
+    },
+    "brownie": {
+      "name": "Brownie",
+      "namePrep": "el brownie",
+      "serving": "1 porción de brownie"
+    },
+    "popcorn": {
+      "name": "Palomitas",
+      "namePrep": "las palomitas",
+      "serving": "1 porción de palomitas"
+    },
+    "potato-chips": {
+      "name": "Patatas chips",
+      "namePrep": "las patatas chips",
+      "serving": "1 porción de patatas chips"
+    },
+    "pretzels": {
+      "name": "Pretzels",
+      "namePrep": "los pretzels",
+      "serving": "1 porción de pretzels"
+    },
+    "smoothie": {
+      "name": "Smoothie de fruta",
+      "namePrep": "el smoothie de fruta",
+      "serving": "1 porción de smoothie de fruta"
+    },
+    "orange-juice": {
+      "name": "Zumo de naranja",
+      "namePrep": "el zumo de naranja",
+      "serving": "1 porción de zumo de naranja"
+    },
+    "soda": {
+      "name": "Refresco",
+      "namePrep": "el refresco",
+      "serving": "1 porción de refresco"
+    },
+    "latte": {
+      "name": "Café con leche",
+      "namePrep": "el café con leche",
+      "serving": "1 porción de café con leche"
+    },
+    "protein-shake": {
+      "name": "Batido de proteínas",
+      "namePrep": "el batido de proteínas",
+      "serving": "1 porción de batido de proteínas"
+    },
+    "spaghetti-bolognese": {
+      "name": "Espaguetis a la boloñesa",
+      "namePrep": "los espaguetis a la boloñesa",
+      "serving": "1 porción de espaguetis a la boloñesa"
+    },
+    "ramen": {
+      "name": "Ramen",
+      "namePrep": "el ramen",
+      "serving": "1 porción de ramen"
+    },
+    "pho": {
+      "name": "Pho",
+      "namePrep": "el pho",
+      "serving": "1 porción de pho"
+    },
+    "chicken-soup": {
+      "name": "Sopa de pollo",
+      "namePrep": "la sopa de pollo",
+      "serving": "1 porción de sopa de pollo"
+    },
+    "caesar-salad": {
+      "name": "Ensalada César",
+      "namePrep": "la ensalada César",
+      "serving": "1 porción de ensalada César"
+    },
+    "green-salad": {
+      "name": "Ensalada verde",
+      "namePrep": "la ensalada verde",
+      "serving": "1 porción de ensalada verde"
+    },
+    "broccoli": {
+      "name": "Brócoli",
+      "namePrep": "el brócoli",
+      "serving": "1 porción de brócoli"
+    },
+    "spinach": {
+      "name": "Espinacas",
+      "namePrep": "las espinacas",
+      "serving": "1 porción de espinacas"
+    },
+    "carrots": {
+      "name": "Zanahorias",
+      "namePrep": "las zanahorias",
+      "serving": "1 porción de zanahorias"
+    },
+    "corn": {
+      "name": "Maíz",
+      "namePrep": "el maíz",
+      "serving": "1 porción de maíz"
+    },
+    "tomato": {
+      "name": "Tomate",
+      "namePrep": "el tomate",
+      "serving": "1 porción de tomate"
+    },
+    "cucumber": {
+      "name": "Pepino",
+      "namePrep": "el pepino",
+      "serving": "1 porción de pepino"
+    },
+    "cheesecake": {
+      "name": "Tarta de queso",
+      "namePrep": "la tarta de queso",
+      "serving": "1 porción de tarta de queso"
+    },
+    "lasagna": {
+      "name": "Lasaña",
+      "namePrep": "la lasaña",
+      "serving": "1 porción de lasaña"
+    },
+    "grilled-cheese": {
+      "name": "Sándwich de queso a la plancha",
+      "namePrep": "el sándwich de queso a la plancha",
+      "serving": "1 porción de sándwich de queso a la plancha"
+    },
+    "peanut-butter-jelly": {
+      "name": "Sándwich de crema de cacahuete y mermelada",
+      "namePrep": "el sándwich de crema de cacahuete y mermelada",
+      "serving": "1 porción de sándwich de crema de cacahuete y mermelada"
+    },
+    "omelette": {
+      "name": "Tortilla francesa",
+      "namePrep": "la tortilla francesa",
+      "serving": "1 porción de tortilla francesa"
+    },
+    "fried-egg": {
+      "name": "Huevo frito",
+      "namePrep": "el huevo frito",
+      "serving": "1 porción de huevo frito"
+    },
+    "boiled-egg": {
+      "name": "Huevo cocido",
+      "namePrep": "el huevo cocido",
+      "serving": "1 porción de huevo cocido"
+    },
+    "toast": {
+      "name": "Tostada",
+      "namePrep": "la tostada",
+      "serving": "1 porción de tostada"
+    },
+    "avocado-toast": {
+      "name": "Tostada de aguacate",
+      "namePrep": "la tostada de aguacate",
+      "serving": "1 porción de tostada de aguacate"
+    },
+    "chicken-salad": {
+      "name": "Ensalada de pollo",
+      "namePrep": "la ensalada de pollo",
+      "serving": "1 porción de ensalada de pollo"
+    },
+    "tuna-salad": {
+      "name": "Ensalada de atún",
+      "namePrep": "la ensalada de atún",
+      "serving": "1 porción de ensalada de atún"
+    },
+    "egg-salad": {
+      "name": "Ensalada de huevo",
+      "namePrep": "la ensalada de huevo",
+      "serving": "1 porción de ensalada de huevo"
+    },
+    "cottage-cheese": {
+      "name": "Requesón",
+      "namePrep": "el requesón",
+      "serving": "1 porción de requesón"
+    },
+    "cream-cheese": {
+      "name": "Queso crema",
+      "namePrep": "el queso crema",
+      "serving": "1 porción de queso crema"
+    },
+    "butter": {
+      "name": "Mantequilla",
+      "namePrep": "la mantequilla",
+      "serving": "1 porción de mantequilla"
+    },
+    "olive-oil": {
+      "name": "Aceite de oliva",
+      "namePrep": "el aceite de oliva",
+      "serving": "1 porción de aceite de oliva"
+    },
+    "mayonnaise": {
+      "name": "Mayonesa",
+      "namePrep": "la mayonesa",
+      "serving": "1 porción de mayonesa"
+    },
+    "ketchup": {
+      "name": "Kétchup",
+      "namePrep": "el kétchup",
+      "serving": "1 porción de kétchup"
+    },
+    "honey": {
+      "name": "Miel",
+      "namePrep": "la miel",
+      "serving": "1 porción de miel"
+    },
+    "jam": {
+      "name": "Mermelada",
+      "namePrep": "la mermelada",
+      "serving": "1 porción de mermelada"
+    },
+    "protein-bar": {
+      "name": "Barrita de proteínas",
+      "namePrep": "la barrita de proteínas",
+      "serving": "1 porción de barrita de proteínas"
+    },
+    "energy-drink": {
+      "name": "Bebida energética",
+      "namePrep": "la bebida energética",
+      "serving": "1 porción de bebida energética"
+    },
+    "matcha-latte": {
+      "name": "Matcha latte",
+      "namePrep": "el matcha latte",
+      "serving": "1 porción de matcha latte"
+    },
+    "trail-mix": {
+      "name": "Mezcla de frutos secos",
+      "namePrep": "la mezcla de frutos secos",
+      "serving": "1 porción de mezcla de frutos secos"
+    },
+    "blueberries": {
+      "name": "Arándanos",
+      "namePrep": "los arándanos",
+      "serving": "1 porción de arándanos"
+    },
+    "strawberries": {
+      "name": "Fresas",
+      "namePrep": "las fresas",
+      "serving": "1 porción de fresas"
+    },
+    "grapes": {
+      "name": "Uvas",
+      "namePrep": "las uvas",
+      "serving": "1 porción de uvas"
+    },
+    "orange": {
+      "name": "Naranja",
+      "namePrep": "la naranja",
+      "serving": "1 porción de naranja"
+    },
+    "pear": {
+      "name": "Pera",
+      "namePrep": "la pera",
+      "serving": "1 porción de pera"
+    },
+    "peach": {
+      "name": "Melocotón",
+      "namePrep": "el melocotón",
+      "serving": "1 porción de melocotón"
+    },
+    "watermelon": {
+      "name": "Sandía",
+      "namePrep": "la sandía",
+      "serving": "1 porción de sandía"
+    },
+    "pineapple": {
+      "name": "Piña",
+      "namePrep": "la piña",
+      "serving": "1 porción de piña"
+    },
+    "mango": {
+      "name": "Mango",
+      "namePrep": "el mango",
+      "serving": "1 porción de mango"
+    },
+    "kiwi": {
+      "name": "Kiwi",
+      "namePrep": "el kiwi",
+      "serving": "1 porción de kiwi"
+    },
+    "raspberries": {
+      "name": "Frambuesas",
+      "namePrep": "las frambuesas",
+      "serving": "1 porción de frambuesas"
+    },
+    "blackberries": {
+      "name": "Moras",
+      "namePrep": "las moras",
+      "serving": "1 porción de moras"
+    },
+    "cherries": {
+      "name": "Cerezas",
+      "namePrep": "las cerezas",
+      "serving": "1 porción de cerezas"
+    },
+    "grapefruit": {
+      "name": "Pomelo",
+      "namePrep": "el pomelo",
+      "serving": "1 porción de pomelo"
+    },
+    "lettuce": {
+      "name": "Lechuga",
+      "namePrep": "la lechuga",
+      "serving": "1 porción de lechuga"
+    },
+    "cabbage": {
+      "name": "Col",
+      "namePrep": "la col",
+      "serving": "1 porción de col"
+    },
+    "cauliflower": {
+      "name": "Coliflor",
+      "namePrep": "la coliflor",
+      "serving": "1 porción de coliflor"
+    },
+    "asparagus": {
+      "name": "Espárragos",
+      "namePrep": "los espárragos",
+      "serving": "1 porción de espárragos"
+    },
+    "zucchini": {
+      "name": "Calabacín",
+      "namePrep": "el calabacín",
+      "serving": "1 porción de calabacín"
+    },
+    "eggplant": {
+      "name": "Berenjena",
+      "namePrep": "la berenjena",
+      "serving": "1 porción de berenjena"
+    },
+    "bell-pepper": {
+      "name": "Pimiento",
+      "namePrep": "el pimiento",
+      "serving": "1 porción de pimiento"
+    },
+    "onion": {
+      "name": "Cebolla",
+      "namePrep": "la cebolla",
+      "serving": "1 porción de cebolla"
+    },
+    "mushrooms": {
+      "name": "Champiñones",
+      "namePrep": "los champiñones",
+      "serving": "1 porción de champiñones"
+    },
+    "green-beans": {
+      "name": "Judías verdes",
+      "namePrep": "las judías verdes",
+      "serving": "1 porción de judías verdes"
+    },
+    "kale": {
+      "name": "Kale",
+      "namePrep": "el kale",
+      "serving": "1 porción de kale"
+    },
+    "beets": {
+      "name": "Remolacha",
+      "namePrep": "la remolacha",
+      "serving": "1 porción de remolacha"
+    },
+    "turkey-breast": {
+      "name": "Pechuga de pavo",
+      "namePrep": "la pechuga de pavo",
+      "serving": "1 porción de pechuga de pavo"
+    },
+    "chicken-thigh": {
+      "name": "Muslo de pollo",
+      "namePrep": "el muslo de pollo",
+      "serving": "1 porción de muslo de pollo"
+    },
+    "pork-chop": {
+      "name": "Chuleta de cerdo",
+      "namePrep": "la chuleta de cerdo",
+      "serving": "1 porción de chuleta de cerdo"
+    },
+    "ground-beef": {
+      "name": "Carne picada de ternera",
+      "namePrep": "la carne picada de ternera",
+      "serving": "1 porción de carne picada de ternera"
+    },
+    "meatballs": {
+      "name": "Albóndigas",
+      "namePrep": "las albóndigas",
+      "serving": "1 porción de albóndigas"
+    },
+    "sausage": {
+      "name": "Salchicha",
+      "namePrep": "la salchicha",
+      "serving": "1 porción de salchicha"
+    },
+    "cod": {
+      "name": "Bacalao",
+      "namePrep": "el bacalao",
+      "serving": "1 porción de bacalao"
+    },
+    "tilapia": {
+      "name": "Tilapia",
+      "namePrep": "la tilapia",
+      "serving": "1 porción de tilapia"
+    },
+    "sardines": {
+      "name": "Sardinas",
+      "namePrep": "las sardinas",
+      "serving": "1 porción de sardinas"
+    },
+    "crab": {
+      "name": "Cangrejo",
+      "namePrep": "el cangrejo",
+      "serving": "1 porción de cangrejo"
+    },
+    "scallops": {
+      "name": "Vieiras",
+      "namePrep": "las vieiras",
+      "serving": "1 porción de vieiras"
+    },
+    "smoked-salmon": {
+      "name": "Salmón ahumado",
+      "namePrep": "el salmón ahumado",
+      "serving": "1 porción de salmón ahumado"
+    },
+    "skim-milk": {
+      "name": "Leche desnatada",
+      "namePrep": "la leche desnatada",
+      "serving": "1 porción de leche desnatada"
+    },
+    "soy-milk": {
+      "name": "Bebida de soja",
+      "namePrep": "la bebida de soja",
+      "serving": "1 porción de bebida de soja"
+    },
+    "almond-milk": {
+      "name": "Bebida de almendra",
+      "namePrep": "la bebida de almendra",
+      "serving": "1 porción de bebida de almendra"
+    },
+    "oat-milk": {
+      "name": "Bebida de avena",
+      "namePrep": "la bebida de avena",
+      "serving": "1 porción de bebida de avena"
+    },
+    "kefir": {
+      "name": "Kéfir",
+      "namePrep": "el kéfir",
+      "serving": "1 porción de kéfir"
+    },
+    "sour-cream": {
+      "name": "Nata agria",
+      "namePrep": "la nata agria",
+      "serving": "1 porción de nata agria"
+    },
+    "feta-cheese": {
+      "name": "Queso feta",
+      "namePrep": "el queso feta",
+      "serving": "1 porción de queso feta"
+    },
+    "mozzarella": {
+      "name": "Mozzarella",
+      "namePrep": "la mozzarella",
+      "serving": "1 porción de mozzarella"
+    },
+    "parmesan": {
+      "name": "Parmesano",
+      "namePrep": "el parmesano",
+      "serving": "1 porción de parmesano"
+    },
+    "couscous": {
+      "name": "Cuscús",
+      "namePrep": "el cuscús",
+      "serving": "1 porción de cuscús"
+    },
+    "barley": {
+      "name": "Cebada",
+      "namePrep": "la cebada",
+      "serving": "1 porción de cebada"
+    },
+    "buckwheat": {
+      "name": "Trigo sarraceno",
+      "namePrep": "el trigo sarraceno",
+      "serving": "1 porción de trigo sarraceno"
+    },
+    "bulgur": {
+      "name": "Bulgur",
+      "namePrep": "el bulgur",
+      "serving": "1 porción de bulgur"
+    },
+    "naan": {
+      "name": "Pan naan",
+      "namePrep": "el pan naan",
+      "serving": "1 porción de pan naan"
+    },
+    "pita-bread": {
+      "name": "Pan de pita",
+      "namePrep": "el pan de pita",
+      "serving": "1 porción de pan de pita"
+    },
+    "english-muffin": {
+      "name": "Muffin inglés",
+      "namePrep": "el muffin inglés",
+      "serving": "1 porción de muffin inglés"
+    },
+    "rice-cake": {
+      "name": "Tortita de arroz",
+      "namePrep": "la tortita de arroz",
+      "serving": "1 porción de tortita de arroz"
+    },
+    "crackers": {
+      "name": "Crackers",
+      "namePrep": "los crackers",
+      "serving": "1 porción de crackers"
+    },
+    "mashed-potatoes": {
+      "name": "Puré de patatas",
+      "namePrep": "el puré de patatas",
+      "serving": "1 porción de puré de patatas"
+    },
+    "scrambled-eggs": {
+      "name": "Huevos revueltos",
+      "namePrep": "los huevos revueltos",
+      "serving": "1 porción de huevos revueltos"
+    },
+    "french-toast": {
+      "name": "Tostada francesa",
+      "namePrep": "la tostada francesa",
+      "serving": "1 porción de tostada francesa"
+    },
+    "breakfast-burrito": {
+      "name": "Burrito de desayuno",
+      "namePrep": "el burrito de desayuno",
+      "serving": "1 porción de burrito de desayuno"
+    },
+    "hash-browns": {
+      "name": "Hash browns",
+      "namePrep": "los hash browns",
+      "serving": "1 porción de hash browns"
+    },
+    "chia-pudding": {
+      "name": "Pudin de chía",
+      "namePrep": "el pudin de chía",
+      "serving": "1 porción de pudin de chía"
+    },
+    "overnight-oats": {
+      "name": "Avena remojada",
+      "namePrep": "la avena remojada",
+      "serving": "1 porción de avena remojada"
+    },
+    "breakfast-sandwich": {
+      "name": "Sándwich de desayuno",
+      "namePrep": "el sándwich de desayuno",
+      "serving": "1 porción de sándwich de desayuno"
+    },
+    "edamame": {
+      "name": "Edamame",
+      "namePrep": "el edamame",
+      "serving": "1 porción de edamame"
+    },
+    "kidney-beans": {
+      "name": "Alubias rojas",
+      "namePrep": "las alubias rojas",
+      "serving": "1 porción de alubias rojas"
+    },
+    "pinto-beans": {
+      "name": "Frijoles pintos",
+      "namePrep": "los frijoles pintos",
+      "serving": "1 porción de frijoles pintos"
+    },
+    "split-peas": {
+      "name": "Guisantes partidos",
+      "namePrep": "los guisantes partidos",
+      "serving": "1 porción de guisantes partidos"
+    },
+    "baked-beans": {
+      "name": "Alubias con tomate",
+      "namePrep": "las alubias con tomate",
+      "serving": "1 porción de alubias con tomate"
+    },
+    "fried-rice": {
+      "name": "Arroz frito",
+      "namePrep": "el arroz frito",
+      "serving": "1 porción de arroz frito"
+    },
+    "pad-thai": {
+      "name": "Pad thai",
+      "namePrep": "el pad thai",
+      "serving": "1 porción de pad thai"
+    },
+    "chicken-curry": {
+      "name": "Curry de pollo",
+      "namePrep": "el curry de pollo",
+      "serving": "1 porción de curry de pollo"
+    },
+    "chicken-tikka-masala": {
+      "name": "Pollo tikka masala",
+      "namePrep": "el pollo tikka masala",
+      "serving": "1 porción de pollo tikka masala"
+    },
+    "beef-chili": {
+      "name": "Chili con carne",
+      "namePrep": "el chili con carne",
+      "serving": "1 porción de chili con carne"
+    },
+    "falafel": {
+      "name": "Falafel",
+      "namePrep": "el falafel",
+      "serving": "1 porción de falafel"
+    },
+    "dumplings": {
+      "name": "Dumplings",
+      "namePrep": "los dumplings",
+      "serving": "1 porción de dumplings"
+    },
+    "spring-rolls": {
+      "name": "Rollitos de primavera",
+      "namePrep": "los rollitos de primavera",
+      "serving": "1 porción de rollitos de primavera"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "la quesadilla",
+      "serving": "1 porción de quesadilla"
+    },
+    "nachos": {
+      "name": "Nachos",
+      "namePrep": "los nachos",
+      "serving": "1 porción de nachos"
+    },
+    "mac-and-cheese": {
+      "name": "Macarrones con queso",
+      "namePrep": "los macarrones con queso",
+      "serving": "1 porción de macarrones con queso"
+    },
+    "chicken-wings": {
+      "name": "Alitas de pollo",
+      "namePrep": "las alitas de pollo",
+      "serving": "1 porción de alitas de pollo"
+    },
+    "fish-and-chips": {
+      "name": "Pescado con patatas fritas",
+      "namePrep": "el pescado con patatas fritas",
+      "serving": "1 porción de pescado con patatas fritas"
+    },
+    "risotto": {
+      "name": "Risotto",
+      "namePrep": "el risotto",
+      "serving": "1 porción de risotto"
+    },
+    "tortilla-chips": {
+      "name": "Totopos",
+      "namePrep": "los totopos",
+      "serving": "1 porción de totopos"
+    },
+    "granola-bar": {
+      "name": "Barrita de granola",
+      "namePrep": "la barrita de granola",
+      "serving": "1 porción de barrita de granola"
+    },
+    "chocolate-bar": {
+      "name": "Barrita de chocolate",
+      "namePrep": "la barrita de chocolate",
+      "serving": "1 porción de barrita de chocolate"
+    },
+    "candy": {
+      "name": "Caramelos",
+      "namePrep": "los caramelos",
+      "serving": "1 porción de caramelos"
+    },
+    "cinnamon-roll": {
+      "name": "Roll de canela",
+      "namePrep": "el roll de canela",
+      "serving": "1 porción de roll de canela"
+    },
+    "marshmallows": {
+      "name": "Nubes de azúcar",
+      "namePrep": "las nubes de azúcar",
+      "serving": "1 porción de nubes de azúcar"
+    },
+    "fruit-snacks": {
+      "name": "Snacks de fruta",
+      "namePrep": "los snacks de fruta",
+      "serving": "1 porción de snacks de fruta"
+    },
+    "black-coffee": {
+      "name": "Café solo",
+      "namePrep": "el café solo",
+      "serving": "1 porción de café solo"
+    },
+    "cappuccino": {
+      "name": "Capuchino",
+      "namePrep": "el capuchino",
+      "serving": "1 porción de capuchino"
+    },
+    "milk-tea": {
+      "name": "Té con leche",
+      "namePrep": "el té con leche",
+      "serving": "1 porción de té con leche"
+    },
+    "bubble-tea": {
+      "name": "Bubble tea",
+      "namePrep": "el bubble tea",
+      "serving": "1 porción de bubble tea"
+    },
+    "lemonade": {
+      "name": "Limonada",
+      "namePrep": "la limonada",
+      "serving": "1 porción de limonada"
+    },
+    "iced-tea": {
+      "name": "Té helado",
+      "namePrep": "el té helado",
+      "serving": "1 porción de té helado"
+    },
+    "apple-juice": {
+      "name": "Zumo de manzana",
+      "namePrep": "el zumo de manzana",
+      "serving": "1 porción de zumo de manzana"
+    },
+    "coconut-water": {
+      "name": "Agua de coco",
+      "namePrep": "el agua de coco",
+      "serving": "1 porción de agua de coco"
+    },
+    "sports-drink": {
+      "name": "Bebida isotónica",
+      "namePrep": "la bebida isotónica",
+      "serving": "1 porción de bebida isotónica"
+    },
+    "ranch-dressing": {
+      "name": "Salsa ranchera",
+      "namePrep": "la salsa ranchera",
+      "serving": "1 porción de salsa ranchera"
+    },
+    "bbq-sauce": {
+      "name": "Salsa barbacoa",
+      "namePrep": "la salsa barbacoa",
+      "serving": "1 porción de salsa barbacoa"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "la salsa",
+      "serving": "1 porción de salsa"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "el guacamole",
+      "serving": "1 porción de guacamole"
+    }
+  },
+  "utility": {
+    "pricing": "Precios",
+    "support": "Soporte",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "press": "Kit de prensa",
+    "deleteExtra": "Solicitar eliminación de cuenta"
+  },
+  "store": {
+    "appStoreSmall": "Descargar en",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Descargar en",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Función",
+    "useCase": "Caso de uso",
+    "openPage": "Abrir página",
+    "openArrow": "Abrir →",
+    "practicalWorkflow": "Flujo práctico",
+    "workflowTitle": "Cómo funciona",
+    "goodToKnow": "Conviene saberlo",
+    "defaultNote": "Las estimaciones son orientativas y pueden variar según porción, marca, receta e ingredientes ocultos.",
+    "relatedPages": "Páginas relacionadas",
+    "quickTakeaway": "Resumen rápido",
+    "defaultTakeaway": "Usa la estimación como punto de partida, revisa los detalles importantes y guarda un registro que puedas repetir.",
+    "information": "Información",
+    "bestFor": "Ideal para"
+  },
+  "internalCta": {
+    "title": "Cuenta calorías con una foto",
+    "text": "Haz una foto de tu comida, revisa la estimación de la IA y guarda un registro editable en segundos.",
+    "button": "Descargar la app"
+  },
+  "download": {
+    "availableTitle": "Disponible para iPhone y Android",
+    "availableText": "Descarga Calorie Counter AI y convierte tu próxima foto de comida en un registro claro de calorías y macros."
+  },
+  "faq": {
+    "items": [
+      [
+        "¿Calorie Counter AI es gratis?",
+        "Puedes empezar con análisis diarios gratuitos. Las funciones premium y los límites ampliados pueden variar según el país y la plataforma."
+      ],
+      [
+        "¿Puedo contar calorías con una foto?",
+        "Sí. Haz una foto del plato, revisa la estimación de la IA y edita porción, ingredientes o marca antes de guardar."
+      ],
+      [
+        "¿Qué tan precisa es la estimación de la IA?",
+        "Es una referencia útil, no una medición exacta. La porción, los ingredientes ocultos, la receta y la calidad de la foto pueden cambiar el resultado."
+      ],
+      [
+        "¿La app registra macros?",
+        "Sí. Puedes ver proteínas, grasas e hidratos de carbono junto a las calorías y tus objetivos diarios."
+      ],
+      [
+        "¿Está disponible para iPhone y Android?",
+        "Sí. Calorie Counter AI está disponible en App Store y Google Play."
+      ],
+      [
+        "¿Sustituye a un nutricionista o médico?",
+        "No. Calorie Counter AI ofrece estimaciones orientativas con fines informativos y no sustituye el consejo médico, diagnóstico o tratamiento."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Puedes empezar con análisis diarios gratuitos de comida por IA. Las funciones premium pueden ser útiles si necesitas más límites, herramientas ampliadas y comodidad adicional.",
+      "Los precios, periodos de prueba y disponibilidad de las suscripciones pueden variar según el país y la plataforma. El precio actualizado siempre aparece en App Store o Google Play antes de comprar."
+    ],
+    "support": [
+      "¿Necesitas ayuda? Escribe al soporte e indica dispositivo, plataforma, versión de la app y una descripción breve del problema.",
+      "Las consultas sobre pagos, reembolsos y gestión de suscripciones suelen resolverse desde los ajustes de App Store o Google Play, porque la compra se procesa a través de la tienda."
+    ],
+    "contact": [
+      "Email de soporte: support@caloriecounterai.app",
+      "Para colaboraciones, consultas de prensa o feedback, usa un asunto claro para que podamos procesar el mensaje más rápido."
+    ],
+    "privacy": [
+      "Calorie Counter AI está pensado como diario de alimentación y herramienta de control consciente de la dieta. Los datos pueden incluir registros de comida, fotos, ajustes e información técnica necesaria para que el servicio funcione.",
+      "Concede solo los permisos de salud o actividad que te resulte cómodo utilizar. Puedes gestionar esos permisos desde los ajustes del dispositivo."
+    ],
+    "terms": [
+      "Al usar Calorie Counter AI, aceptas utilizar la app como herramienta informativa para registrar la alimentación y revisar las estimaciones antes de basarte en ellas.",
+      "Las funciones, límites gratuitos y opciones premium pueden cambiar. Las compras realizadas a través de App Store y Google Play también se rigen por las normas de cada tienda."
+    ],
+    "disclaimer": [
+      "Calorie Counter AI ofrece estimaciones nutricionales orientativas con fines educativos e informativos. No es consejo médico, diagnóstico ni tratamiento.",
+      "Las estimaciones por foto dependen de la porción, ingredientes ocultos, receta, calidad de la imagen y cambios manuales. Si tienes una condición médica, embarazo, antecedentes de TCA o un objetivo clínico de nutrición, consulta a un profesional."
+    ],
+    "delete": [
+      "Para solicitar la eliminación de la cuenta o de tus datos, escribe desde el email asociado a la cuenta e incluye “Delete account” en el asunto.",
+      "El equipo de soporte puede pedir datos adicionales para confirmar la solicitud y localizar la cuenta correcta."
+    ]
+  },
+  "press": {
+    "iconAlt": "Icono de la app",
+    "iconTitle": "Icono de la app",
+    "downloadIcon": "Descargar icono",
+    "screenshotAlt": "Captura de pantalla de la app",
+    "screenshotTitle": "Captura de pantalla",
+    "downloadScreenshot": "Descargar captura",
+    "shortDescriptionTitle": "Contador de calorías con IA a partir de fotos",
+    "shortDescriptionText": "Haz una foto de tu comida y obtén una estimación editable de calorías, macros y tamaño de porción en segundos."
+  },
+  "notFound": {
+    "title": "404",
+    "text": "No encontramos esta página. Vuelve al inicio o explora las funciones y guías de Calorie Counter AI.",
+    "home": "Inicio"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Funciones",
+      "h1": "Herramientas para registrar la alimentación más rápido",
+      "description": "Fotos, códigos de barras, diario, macros, objetivos, estadísticas y Health Connect: todo lo que ayuda a registrar la comida con menos fricción.",
+      "kicker": "Resumen del producto",
+      "summary": "La idea principal es que registrar comida sea tan sencillo que puedas repetirlo cada día.",
+      "bullets": [
+        "Análisis por foto de platos sin etiqueta",
+        "Escáner de códigos de barras para envases",
+        "Estimaciones editables de calorías y macros",
+        "Diario, objetivos y gráficos de progreso"
+      ],
+      "sections": [
+        [
+          "Elige el método más rápido",
+          "Una comida casera, un yogur del supermercado y una hamburguesa de restaurante no se registran igual. Usa foto, código de barras o entrada manual según la situación."
+        ],
+        [
+          "Revisa la estimación",
+          "La IA ofrece un borrador útil. Conviene confirmar salsas, aceite y tamaño de porción antes de guardar."
+        ],
+        [
+          "Construye el hábito",
+          "Lo importante no es un escaneo espectacular, sino un diario repetible que muestre tendencias."
+        ]
+      ],
+      "workflowTitle": "Elige el tipo de registro según la comida",
+      "workflow": [
+        "Si el plato no tiene etiqueta, empieza con una foto. Si es un producto envasado, escanea el código de barras. Si conoces mejor la receta, ajusta porción o ingredientes a mano.",
+        "Así el diario sigue siendo rápido, pero no ciego: la app inicia el registro y tú confirmas los detalles que importan para la precisión."
+      ],
+      "note": "La automatización no elimina el control: elimina rutina. La revisión de porción e ingredientes sigue siendo clave.",
+      "bestFor": [
+        "inicio rápido del registro",
+        "diferentes tipos de comida",
+        "estimaciones editables",
+        "hábito diario"
+      ],
+      "workflowKicker": "Cómo se usa",
+      "noteTitle": "Principio clave"
+    },
+    "/food-recognition-ai/": {
+      "title": "Reconocimiento de comida con IA",
+      "h1": "Reconocimiento de comida por foto con IA",
+      "description": "Fotografía un plato, identifica los alimentos visibles y recibe una estimación editable de calorías y macros.",
+      "kicker": "Análisis por foto",
+      "summary": "El reconocimiento de comida ahorra tiempo cuando tendrías que buscar varios ingredientes manualmente.",
+      "bullets": [
+        "Identifica alimentos visibles",
+        "Estima porción y macros",
+        "Permite editar el resultado",
+        "Útil para platos, ensaladas y comida de restaurante"
+      ],
+      "sections": [
+        [
+          "Dónde ayuda más",
+          "El análisis por foto funciona especialmente bien con comida casera, bowls, ensaladas, sobras y platos sin etiqueta."
+        ],
+        [
+          "Lo que la cámara no ve",
+          "Aceite, azúcar, nata y salsas pueden quedar ocultos. Por eso el resultado debe revisarse."
+        ],
+        [
+          "Cómo mejorar la estimación",
+          "Fotografía el plato completo con buena luz y añade manualmente los ingredientes que no se vean."
+        ]
+      ],
+      "workflowTitle": "Cómo obtener una estimación más útil por foto",
+      "workflow": [
+        "Fotografía todo el plato con luz suficiente y sin un ángulo extremo. Después revisa nombre del plato, tamaño de porción y macros antes de guardar.",
+        "Si hay aceite, salsa, queso, azúcar o una bebida junto al plato, añádelo a mano. La mejor entrada combina estimación de IA y una revisión breve."
+      ],
+      "note": "La foto ayuda mucho con alimentos visibles, pero no adivina bien ingredientes ocultos. Por eso el registro debe ser editable.",
+      "bestFor": [
+        "comida casera",
+        "ensaladas y bowls",
+        "restaurantes",
+        "borrador rápido"
+      ],
+      "workflowKicker": "Análisis por foto",
+      "noteTitle": "Qué recordar"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Escáner de códigos de barras",
+      "h1": "Escáner de códigos de barras para alimentos",
+      "description": "Escanea productos envasados, confirma el alimento y añade calorías y macros al diario en pocos segundos.",
+      "kicker": "Productos envasados",
+      "summary": "Si el producto tiene código de barras, escanearlo suele ser más rápido y preciso que estimarlo por foto.",
+      "bullets": [
+        "Yogures, snacks, bebidas y platos preparados",
+        "Revisión de la porción antes de guardar",
+        "Añadir rápido al diario",
+        "Compatible con el análisis por foto"
+      ],
+      "sections": [
+        [
+          "Funciona mejor con etiquetas",
+          "El código de barras es útil para productos del supermercado: barritas, bebidas, congelados, salsas y preparados."
+        ],
+        [
+          "Comprueba la porción",
+          "La etiqueta puede mostrar valores por 100 g, por ración o por todo el envase."
+        ],
+        [
+          "No olvides los snacks pequeños",
+          "Escanear ayuda a registrarlos al momento, mientras aún tienes el envase a mano."
+        ]
+      ],
+      "workflowTitle": "Registro rápido de productos envasados",
+      "workflow": [
+        "Escanea el código, confirma que el producto encontrado es correcto y revisa la porción. En los envases, los valores pueden venir por 100 g, por ración o por paquete.",
+        "Si el producto forma parte de un plato —por ejemplo yogur con fruta o salsa en la cena— añade las otras partes por separado para que el diario sea más claro."
+      ],
+      "note": "Los datos de código de barras pueden variar por país, marca y tamaño del envase. Conviene revisar producto y porción antes de guardar.",
+      "bestFor": [
+        "yogures y snacks",
+        "bebidas",
+        "platos preparados",
+        "envases del supermercado"
+      ],
+      "workflowKicker": "Código de barras",
+      "noteTitle": "Revisa el envase"
+    },
+    "/macro-tracker/": {
+      "title": "Contador de macros",
+      "h1": "Seguimiento de proteínas, grasas e hidratos de carbono",
+      "description": "Controla calorías y macros en un mismo diario para entender mejor cómo se reparte tu alimentación.",
+      "kicker": "Macros",
+      "summary": "Las calorías explican el total energético; los macros muestran de dónde viene ese total.",
+      "bullets": [
+        "Proteínas, grasas e hidratos de carbono",
+        "Objetivos diarios visibles",
+        "Comparación por día, semana y mes",
+        "Útil para pérdida de peso o ganancia muscular"
+      ],
+      "sections": [
+        [
+          "Proteína visible",
+          "Ver la proteína junto a las calorías ayuda a planificar comidas más saciantes y objetivos de entrenamiento."
+        ],
+        [
+          "No todo es el número final",
+          "Dos comidas pueden tener calorías parecidas y repartir macros de forma muy distinta."
+        ],
+        [
+          "Mejora con ajustes pequeños",
+          "Corregir porción, aceite o salsa suele mejorar más el registro que buscar una precisión falsa."
+        ]
+      ],
+      "workflowTitle": "Cómo usar los macros sin complicarte",
+      "workflow": [
+        "Empieza registrando calorías y deja visibles proteínas, grasas e hidratos de carbono. Con unos días de datos, busca patrones sencillos: proteína baja, exceso de snacks o comidas muy densas en grasa.",
+        "No necesitas clavar cada gramo. La utilidad está en detectar tendencias y hacer cambios repetibles."
+      ],
+      "note": "Los macros son una guía, no una regla rígida. Para objetivos clínicos o condiciones médicas, consulta con un profesional.",
+      "bestFor": [
+        "proteína diaria",
+        "ganancia muscular",
+        "saciedad",
+        "mejor comprensión de la dieta"
+      ],
+      "workflowKicker": "Seguimiento de macros",
+      "noteTitle": "Sin obsesionarse"
+    },
+    "/food-diary-app/": {
+      "title": "Diario de alimentación",
+      "h1": "Diario visual de alimentación",
+      "description": "Registra comidas por foto, código de barras o entrada manual y revisa tu día de forma clara.",
+      "kicker": "Diario",
+      "summary": "Un diario útil no solo acumula datos: te ayuda a ver hábitos y repetir lo que funciona.",
+      "bullets": [
+        "Registros editables",
+        "Fotos junto a cada comida",
+        "Macros y calorías por día",
+        "Historial fácil de revisar"
+      ],
+      "sections": [
+        [
+          "Menos fricción",
+          "Cuanto más rápido sea guardar una comida, más probable es que mantengas el hábito."
+        ],
+        [
+          "Contexto visual",
+          "Las fotos ayudan a recordar porciones, tipo de plato y momentos del día."
+        ],
+        [
+          "Revisión sin culpa",
+          "El objetivo es entender patrones, no juzgar cada comida aislada."
+        ]
+      ],
+      "workflowTitle": "Cómo llevar un diario sostenible",
+      "workflow": [
+        "Registra la comida de la forma más rápida disponible y revisa los detalles importantes antes de guardar. No hace falta escribir una receta completa si una foto y una corrección de porción son suficientes.",
+        "Después revisa días completos, no comidas sueltas. Los patrones semanales suelen ser más útiles que una entrada perfecta."
+      ],
+      "note": "La consistencia suele importar más que la precisión absoluta de una sola comida.",
+      "bestFor": [
+        "hábito diario",
+        "registro visual",
+        "comidas repetidas",
+        "seguimiento flexible"
+      ],
+      "workflowKicker": "Diario alimentario",
+      "noteTitle": "Lo que importa"
+    },
+    "/nutrition-tracker/": {
+      "title": "Seguimiento de alimentación",
+      "h1": "Seguimiento de alimentación para el día a día",
+      "description": "Controla comidas, calorías y macros para entender mejor tu alimentación sin reglas rígidas.",
+      "kicker": "Nutrición diaria",
+      "summary": "La app ayuda a convertir comidas reales en información clara y editable.",
+      "bullets": [
+        "comidas reales",
+        "calorías y macros",
+        "objetivos diarios",
+        "progreso semanal"
+      ],
+      "sections": [
+        [
+          "Empieza con una referencia rápida",
+          "Usa la app para obtener un primer registro sin convertir la comida en una tarea larga."
+        ],
+        [
+          "Ajusta lo que sí conoces",
+          "Porción, aceite, salsa, marca o receta pueden cambiar bastante el resultado. Editarlos mejora el diario."
+        ],
+        [
+          "Mira la tendencia",
+          "Un día aislado dice poco. La utilidad aparece al comparar varios días y detectar hábitos repetidos."
+        ]
+      ],
+      "workflowTitle": "Cómo usar el seguimiento de alimentación en el día a día",
+      "workflow": [
+        "Registra la comida con foto, código de barras o entrada manual según lo que tengas delante. Después revisa los detalles que más influyen en la estimación.",
+        "Guarda el resultado y úsalo como parte de un diario continuo, no como una medición perfecta de laboratorio."
+      ],
+      "note": "Las estimaciones son orientativas. La revisión del usuario sigue siendo importante para porciones, marcas e ingredientes ocultos.",
+      "bestFor": [
+        "comidas reales",
+        "calorías y macros",
+        "objetivos diarios",
+        "progreso semanal"
+      ],
+      "workflowKicker": "Uso práctico",
+      "noteTitle": "Nota"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Estimación de peso de la porción",
+      "h1": "Estimación del peso del plato por foto",
+      "description": "Usa una foto como punto de partida para estimar la porción y ajustar el registro antes de guardarlo.",
+      "kicker": "Tamaño de porción",
+      "summary": "La porción es una de las variables que más cambia las calorías.",
+      "bullets": [
+        "porciones aproximadas",
+        "edición manual",
+        "platos caseros",
+        "mejor contexto"
+      ],
+      "sections": [
+        [
+          "Empieza con una referencia rápida",
+          "Usa la app para obtener un primer registro sin convertir la comida en una tarea larga."
+        ],
+        [
+          "Ajusta lo que sí conoces",
+          "Porción, aceite, salsa, marca o receta pueden cambiar bastante el resultado. Editarlos mejora el diario."
+        ],
+        [
+          "Mira la tendencia",
+          "Un día aislado dice poco. La utilidad aparece al comparar varios días y detectar hábitos repetidos."
+        ]
+      ],
+      "workflowTitle": "Cómo usar estimación de peso de la porción en el día a día",
+      "workflow": [
+        "Registra la comida con foto, código de barras o entrada manual según lo que tengas delante. Después revisa los detalles que más influyen en la estimación.",
+        "Guarda el resultado y úsalo como parte de un diario continuo, no como una medición perfecta de laboratorio."
+      ],
+      "note": "Las estimaciones son orientativas. La revisión del usuario sigue siendo importante para porciones, marcas e ingredientes ocultos.",
+      "bestFor": [
+        "porciones aproximadas",
+        "edición manual",
+        "platos caseros",
+        "mejor contexto"
+      ],
+      "workflowKicker": "Uso práctico",
+      "noteTitle": "Nota"
+    },
+    "/progress-statistics/": {
+      "title": "Estadísticas de alimentación",
+      "h1": "Gráficos de progreso y alimentación",
+      "description": "Revisa tendencias de calorías, macros y hábitos para entender mejor tu progreso.",
+      "kicker": "Progreso",
+      "summary": "Las gráficas ayudan a ver patrones que una sola comida no muestra.",
+      "bullets": [
+        "día, semana y mes",
+        "tendencias de calorías",
+        "seguimiento de macros",
+        "hábitos repetidos"
+      ],
+      "sections": [
+        [
+          "Empieza con una referencia rápida",
+          "Usa la app para obtener un primer registro sin convertir la comida en una tarea larga."
+        ],
+        [
+          "Ajusta lo que sí conoces",
+          "Porción, aceite, salsa, marca o receta pueden cambiar bastante el resultado. Editarlos mejora el diario."
+        ],
+        [
+          "Mira la tendencia",
+          "Un día aislado dice poco. La utilidad aparece al comparar varios días y detectar hábitos repetidos."
+        ]
+      ],
+      "workflowTitle": "Cómo usar estadísticas de alimentación en el día a día",
+      "workflow": [
+        "Registra la comida con foto, código de barras o entrada manual según lo que tengas delante. Después revisa los detalles que más influyen en la estimación.",
+        "Guarda el resultado y úsalo como parte de un diario continuo, no como una medición perfecta de laboratorio."
+      ],
+      "note": "Las estimaciones son orientativas. La revisión del usuario sigue siendo importante para porciones, marcas e ingredientes ocultos.",
+      "bestFor": [
+        "día, semana y mes",
+        "tendencias de calorías",
+        "seguimiento de macros",
+        "hábitos repetidos"
+      ],
+      "workflowKicker": "Uso práctico",
+      "noteTitle": "Nota"
+    },
+    "/meal-reminders/": {
+      "title": "Recordatorios",
+      "h1": "Recordatorios de comida y agua",
+      "description": "Configura recordatorios para mantener el hábito de registrar comidas y beber agua.",
+      "kicker": "Hábitos",
+      "summary": "Un recordatorio simple puede evitar que el diario se quede incompleto al final del día.",
+      "bullets": [
+        "comidas principales",
+        "snacks",
+        "agua",
+        "rutina diaria"
+      ],
+      "sections": [
+        [
+          "Empieza con una referencia rápida",
+          "Usa la app para obtener un primer registro sin convertir la comida en una tarea larga."
+        ],
+        [
+          "Ajusta lo que sí conoces",
+          "Porción, aceite, salsa, marca o receta pueden cambiar bastante el resultado. Editarlos mejora el diario."
+        ],
+        [
+          "Mira la tendencia",
+          "Un día aislado dice poco. La utilidad aparece al comparar varios días y detectar hábitos repetidos."
+        ]
+      ],
+      "workflowTitle": "Cómo usar recordatorios en el día a día",
+      "workflow": [
+        "Registra la comida con foto, código de barras o entrada manual según lo que tengas delante. Después revisa los detalles que más influyen en la estimación.",
+        "Guarda el resultado y úsalo como parte de un diario continuo, no como una medición perfecta de laboratorio."
+      ],
+      "note": "Las estimaciones son orientativas. La revisión del usuario sigue siendo importante para porciones, marcas e ingredientes ocultos.",
+      "bestFor": [
+        "comidas principales",
+        "snacks",
+        "agua",
+        "rutina diaria"
+      ],
+      "workflowKicker": "Uso práctico",
+      "noteTitle": "Nota"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Sincronización con Google Health Connect",
+      "description": "Conecta datos compatibles de salud y actividad cuando quieras ver más contexto junto a tu alimentación.",
+      "kicker": "Integración",
+      "summary": "Health Connect puede aportar contexto adicional sin sustituir el registro de comida.",
+      "bullets": [
+        "datos compatibles",
+        "permisos controlados",
+        "contexto de actividad",
+        "Android"
+      ],
+      "sections": [
+        [
+          "Empieza con una referencia rápida",
+          "Usa la app para obtener un primer registro sin convertir la comida en una tarea larga."
+        ],
+        [
+          "Ajusta lo que sí conoces",
+          "Porción, aceite, salsa, marca o receta pueden cambiar bastante el resultado. Editarlos mejora el diario."
+        ],
+        [
+          "Mira la tendencia",
+          "Un día aislado dice poco. La utilidad aparece al comparar varios días y detectar hábitos repetidos."
+        ]
+      ],
+      "workflowTitle": "Cómo usar google health connect en el día a día",
+      "workflow": [
+        "Registra la comida con foto, código de barras o entrada manual según lo que tengas delante. Después revisa los detalles que más influyen en la estimación.",
+        "Guarda el resultado y úsalo como parte de un diario continuo, no como una medición perfecta de laboratorio."
+      ],
+      "note": "Las estimaciones son orientativas. La revisión del usuario sigue siendo importante para porciones, marcas e ingredientes ocultos.",
+      "bestFor": [
+        "datos compatibles",
+        "permisos controlados",
+        "contexto de actividad",
+        "Android"
+      ],
+      "workflowKicker": "Uso práctico",
+      "noteTitle": "Nota"
+    },
+    "/data-export/": {
+      "title": "Exportación de datos",
+      "h1": "Exporta e importa tu diario de alimentación",
+      "description": "Guarda una copia de tus registros o muévelos cuando necesites consultar tu historial fuera de la app.",
+      "kicker": "Datos",
+      "summary": "Tener acceso a tus datos facilita revisar el progreso o conservar un historial personal.",
+      "bullets": [
+        "historial",
+        "copia de seguridad",
+        "revisión externa",
+        "control del usuario"
+      ],
+      "sections": [
+        [
+          "Empieza con una referencia rápida",
+          "Usa la app para obtener un primer registro sin convertir la comida en una tarea larga."
+        ],
+        [
+          "Ajusta lo que sí conoces",
+          "Porción, aceite, salsa, marca o receta pueden cambiar bastante el resultado. Editarlos mejora el diario."
+        ],
+        [
+          "Mira la tendencia",
+          "Un día aislado dice poco. La utilidad aparece al comparar varios días y detectar hábitos repetidos."
+        ]
+      ],
+      "workflowTitle": "Cómo usar exportación de datos en el día a día",
+      "workflow": [
+        "Registra la comida con foto, código de barras o entrada manual según lo que tengas delante. Después revisa los detalles que más influyen en la estimación.",
+        "Guarda el resultado y úsalo como parte de un diario continuo, no como una medición perfecta de laboratorio."
+      ],
+      "note": "Las estimaciones son orientativas. La revisión del usuario sigue siendo importante para porciones, marcas e ingredientes ocultos.",
+      "bestFor": [
+        "historial",
+        "copia de seguridad",
+        "revisión externa",
+        "control del usuario"
+      ],
+      "workflowKicker": "Uso práctico",
+      "noteTitle": "Nota"
+    },
+    "/use-cases/": {
+      "title": "Casos de uso",
+      "h1": "Cómo usar Calorie Counter AI en la vida real",
+      "description": "Ideas prácticas para usar el contador de calorías por foto en pérdida de peso, mantenimiento, ganancia muscular y comidas fuera de casa.",
+      "kicker": "Casos reales"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Registro de comida con IA para perder peso",
+      "h1": "Registro de comida con IA para perder peso",
+      "description": "Usa fotos, códigos de barras y un diario claro para entender calorías y mantener un déficit de forma más sostenible.",
+      "kicker": "Pérdida de peso",
+      "summary": "Ver lo que comes ayuda a ajustar porciones sin depender de memoria o suposiciones.",
+      "bullets": [
+        "déficit calórico",
+        "porciones visibles",
+        "snacks registrados",
+        "tendencia semanal"
+      ],
+      "sections": [
+        [
+          "Registra sin complicarte",
+          "Usa foto, código de barras o entrada manual según la comida y el tiempo que tengas."
+        ],
+        [
+          "Revisa lo que más cambia el resultado",
+          "Porción, aceite, salsa, bebida y extras pueden explicar grandes diferencias."
+        ],
+        [
+          "Aprende de la tendencia",
+          "Mira promedios y repeticiones para tomar decisiones más realistas."
+        ]
+      ],
+      "workflowTitle": "Cómo aplicar el registro de comida con IA para perder peso",
+      "workflow": [
+        "Empieza por registrar de forma rápida y edita solo lo que sabes que cambia mucho el resultado.",
+        "Después revisa el día completo y, cuando tengas datos suficientes, compara la semana."
+      ],
+      "note": "Usa las estimaciones como orientación. Para objetivos médicos o dietas terapéuticas, consulta con un profesional.",
+      "bestFor": [
+        "déficit calórico",
+        "porciones visibles",
+        "snacks registrados",
+        "tendencia semanal"
+      ],
+      "workflowKicker": "Uso diario",
+      "noteTitle": "Importante"
+    },
+    "/calorie-deficit-app/": {
+      "title": "Control del déficit calórico",
+      "h1": "App para controlar el déficit calórico",
+      "description": "Registra calorías de forma rápida y revisa si tu día se acerca al objetivo marcado.",
+      "kicker": "Déficit calórico",
+      "summary": "El déficit se entiende mejor con varios días de datos, no con una comida aislada.",
+      "bullets": [
+        "objetivo diario",
+        "calorías restantes",
+        "promedio semanal",
+        "ajustes realistas"
+      ],
+      "sections": [
+        [
+          "Registra sin complicarte",
+          "Usa foto, código de barras o entrada manual según la comida y el tiempo que tengas."
+        ],
+        [
+          "Revisa lo que más cambia el resultado",
+          "Porción, aceite, salsa, bebida y extras pueden explicar grandes diferencias."
+        ],
+        [
+          "Aprende de la tendencia",
+          "Mira promedios y repeticiones para tomar decisiones más realistas."
+        ]
+      ],
+      "workflowTitle": "Cómo aplicar control del déficit calórico",
+      "workflow": [
+        "Empieza por registrar de forma rápida y edita solo lo que sabes que cambia mucho el resultado.",
+        "Después revisa el día completo y, cuando tengas datos suficientes, compara la semana."
+      ],
+      "note": "Usa las estimaciones como orientación. Para objetivos médicos o dietas terapéuticas, consulta con un profesional.",
+      "bestFor": [
+        "objetivo diario",
+        "calorías restantes",
+        "promedio semanal",
+        "ajustes realistas"
+      ],
+      "workflowKicker": "Uso diario",
+      "noteTitle": "Importante"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Registro para ganar masa muscular",
+      "h1": "Macros y calorías para ganar masa muscular",
+      "description": "Mantén a la vista proteínas, calorías y comidas para apoyar una etapa de ganancia muscular.",
+      "kicker": "Ganancia muscular",
+      "summary": "Para ganar masa, las calorías importan, pero la proteína y la constancia también.",
+      "bullets": [
+        "proteína diaria",
+        "superávit moderado",
+        "comidas repetibles",
+        "seguimiento de progreso"
+      ],
+      "sections": [
+        [
+          "Registra sin complicarte",
+          "Usa foto, código de barras o entrada manual según la comida y el tiempo que tengas."
+        ],
+        [
+          "Revisa lo que más cambia el resultado",
+          "Porción, aceite, salsa, bebida y extras pueden explicar grandes diferencias."
+        ],
+        [
+          "Aprende de la tendencia",
+          "Mira promedios y repeticiones para tomar decisiones más realistas."
+        ]
+      ],
+      "workflowTitle": "Cómo aplicar registro para ganar masa muscular",
+      "workflow": [
+        "Empieza por registrar de forma rápida y edita solo lo que sabes que cambia mucho el resultado.",
+        "Después revisa el día completo y, cuando tengas datos suficientes, compara la semana."
+      ],
+      "note": "Usa las estimaciones como orientación. Para objetivos médicos o dietas terapéuticas, consulta con un profesional.",
+      "bestFor": [
+        "proteína diaria",
+        "superávit moderado",
+        "comidas repetibles",
+        "seguimiento de progreso"
+      ],
+      "workflowKicker": "Uso diario",
+      "noteTitle": "Importante"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Mantenimiento de peso",
+      "h1": "Contador para mantener el peso",
+      "description": "Usa el diario para detectar cambios antes de que se conviertan en tendencia.",
+      "kicker": "Mantenimiento",
+      "summary": "Mantener peso no exige perfección: exige notar patrones a tiempo.",
+      "bullets": [
+        "rangos flexibles",
+        "promedio semanal",
+        "rutina estable",
+        "comidas favoritas"
+      ],
+      "sections": [
+        [
+          "Registra sin complicarte",
+          "Usa foto, código de barras o entrada manual según la comida y el tiempo que tengas."
+        ],
+        [
+          "Revisa lo que más cambia el resultado",
+          "Porción, aceite, salsa, bebida y extras pueden explicar grandes diferencias."
+        ],
+        [
+          "Aprende de la tendencia",
+          "Mira promedios y repeticiones para tomar decisiones más realistas."
+        ]
+      ],
+      "workflowTitle": "Cómo aplicar mantenimiento de peso",
+      "workflow": [
+        "Empieza por registrar de forma rápida y edita solo lo que sabes que cambia mucho el resultado.",
+        "Después revisa el día completo y, cuando tengas datos suficientes, compara la semana."
+      ],
+      "note": "Usa las estimaciones como orientación. Para objetivos médicos o dietas terapéuticas, consulta con un profesional.",
+      "bestFor": [
+        "rangos flexibles",
+        "promedio semanal",
+        "rutina estable",
+        "comidas favoritas"
+      ],
+      "workflowKicker": "Uso diario",
+      "noteTitle": "Importante"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Comida casera",
+      "h1": "Calorías en comida casera",
+      "description": "Estima platos caseros, recetas mixtas y porciones sin etiqueta nutricional.",
+      "kicker": "Comida casera",
+      "summary": "La comida casera suele necesitar contexto: aceite, salsas, guarniciones y tamaño de porción.",
+      "bullets": [
+        "recetas mixtas",
+        "sobras",
+        "ingredientes ocultos",
+        "porciones editables"
+      ],
+      "sections": [
+        [
+          "Registra sin complicarte",
+          "Usa foto, código de barras o entrada manual según la comida y el tiempo que tengas."
+        ],
+        [
+          "Revisa lo que más cambia el resultado",
+          "Porción, aceite, salsa, bebida y extras pueden explicar grandes diferencias."
+        ],
+        [
+          "Aprende de la tendencia",
+          "Mira promedios y repeticiones para tomar decisiones más realistas."
+        ]
+      ],
+      "workflowTitle": "Cómo aplicar comida casera",
+      "workflow": [
+        "Empieza por registrar de forma rápida y edita solo lo que sabes que cambia mucho el resultado.",
+        "Después revisa el día completo y, cuando tengas datos suficientes, compara la semana."
+      ],
+      "note": "Usa las estimaciones como orientación. Para objetivos médicos o dietas terapéuticas, consulta con un profesional.",
+      "bestFor": [
+        "recetas mixtas",
+        "sobras",
+        "ingredientes ocultos",
+        "porciones editables"
+      ],
+      "workflowKicker": "Uso diario",
+      "noteTitle": "Importante"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Comida de restaurante",
+      "h1": "Registro de platos de restaurante",
+      "description": "Registra comidas fuera de casa con estimaciones por foto y ajustes manuales cuando haga falta.",
+      "kicker": "Comer fuera",
+      "summary": "En restaurantes, la porción y las salsas cambian mucho el resultado.",
+      "bullets": [
+        "platos sin etiqueta",
+        "salsas y aceites",
+        "estimación rápida",
+        "revisión manual"
+      ],
+      "sections": [
+        [
+          "Registra sin complicarte",
+          "Usa foto, código de barras o entrada manual según la comida y el tiempo que tengas."
+        ],
+        [
+          "Revisa lo que más cambia el resultado",
+          "Porción, aceite, salsa, bebida y extras pueden explicar grandes diferencias."
+        ],
+        [
+          "Aprende de la tendencia",
+          "Mira promedios y repeticiones para tomar decisiones más realistas."
+        ]
+      ],
+      "workflowTitle": "Cómo aplicar comida de restaurante",
+      "workflow": [
+        "Empieza por registrar de forma rápida y edita solo lo que sabes que cambia mucho el resultado.",
+        "Después revisa el día completo y, cuando tengas datos suficientes, compara la semana."
+      ],
+      "note": "Usa las estimaciones como orientación. Para objetivos médicos o dietas terapéuticas, consulta con un profesional.",
+      "bestFor": [
+        "platos sin etiqueta",
+        "salsas y aceites",
+        "estimación rápida",
+        "revisión manual"
+      ],
+      "workflowKicker": "Uso diario",
+      "noteTitle": "Importante"
+    },
+    "/meal-tracker/": {
+      "title": "Registro de comidas",
+      "h1": "Registro de desayuno, comida, cena y snacks",
+      "description": "Organiza el día por comidas para entender mejor cuándo y cómo comes.",
+      "kicker": "Comidas del día",
+      "summary": "Separar comidas ayuda a detectar patrones: desayunos pobres, snacks extra o cenas muy densas.",
+      "bullets": [
+        "desayuno",
+        "comida",
+        "cena",
+        "snacks"
+      ],
+      "sections": [
+        [
+          "Registra sin complicarte",
+          "Usa foto, código de barras o entrada manual según la comida y el tiempo que tengas."
+        ],
+        [
+          "Revisa lo que más cambia el resultado",
+          "Porción, aceite, salsa, bebida y extras pueden explicar grandes diferencias."
+        ],
+        [
+          "Aprende de la tendencia",
+          "Mira promedios y repeticiones para tomar decisiones más realistas."
+        ]
+      ],
+      "workflowTitle": "Cómo aplicar registro de comidas",
+      "workflow": [
+        "Empieza por registrar de forma rápida y edita solo lo que sabes que cambia mucho el resultado.",
+        "Después revisa el día completo y, cuando tengas datos suficientes, compara la semana."
+      ],
+      "note": "Usa las estimaciones como orientación. Para objetivos médicos o dietas terapéuticas, consulta con un profesional.",
+      "bestFor": [
+        "desayuno",
+        "comida",
+        "cena",
+        "snacks"
+      ],
+      "workflowKicker": "Uso diario",
+      "noteTitle": "Importante"
+    },
+    "/photo-food-journal/": {
+      "title": "Diario de comida por fotos",
+      "h1": "Diario visual de alimentación con contexto",
+      "description": "Guarda fotos de tus comidas junto a calorías y macros para recordar mejor qué comiste.",
+      "kicker": "Foto-diario",
+      "summary": "Una foto añade contexto que un número por sí solo no muestra.",
+      "bullets": [
+        "fotos de comidas",
+        "historial visual",
+        "porciones recordables",
+        "hábitos repetidos"
+      ],
+      "sections": [
+        [
+          "Registra sin complicarte",
+          "Usa foto, código de barras o entrada manual según la comida y el tiempo que tengas."
+        ],
+        [
+          "Revisa lo que más cambia el resultado",
+          "Porción, aceite, salsa, bebida y extras pueden explicar grandes diferencias."
+        ],
+        [
+          "Aprende de la tendencia",
+          "Mira promedios y repeticiones para tomar decisiones más realistas."
+        ]
+      ],
+      "workflowTitle": "Cómo aplicar diario de comida por fotos",
+      "workflow": [
+        "Empieza por registrar de forma rápida y edita solo lo que sabes que cambia mucho el resultado.",
+        "Después revisa el día completo y, cuando tengas datos suficientes, compara la semana."
+      ],
+      "note": "Usa las estimaciones como orientación. Para objetivos médicos o dietas terapéuticas, consulta con un profesional.",
+      "bestFor": [
+        "fotos de comidas",
+        "historial visual",
+        "porciones recordables",
+        "hábitos repetidos"
+      ],
+      "workflowKicker": "Uso diario",
+      "noteTitle": "Importante"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Seguimiento de alimentación saludable",
+      "h1": "Seguimiento de alimentación saludable sin reglas rígidas",
+      "description": "Usa el diario para mejorar hábitos sin convertir cada comida en una lista de prohibiciones.",
+      "kicker": "Alimentación saludable",
+      "summary": "Comer mejor suele empezar por observar patrones, no por perseguir perfección.",
+      "bullets": [
+        "más conciencia",
+        "hábitos sostenibles",
+        "flexibilidad",
+        "mejores elecciones"
+      ],
+      "sections": [
+        [
+          "Registra sin complicarte",
+          "Usa foto, código de barras o entrada manual según la comida y el tiempo que tengas."
+        ],
+        [
+          "Revisa lo que más cambia el resultado",
+          "Porción, aceite, salsa, bebida y extras pueden explicar grandes diferencias."
+        ],
+        [
+          "Aprende de la tendencia",
+          "Mira promedios y repeticiones para tomar decisiones más realistas."
+        ]
+      ],
+      "workflowTitle": "Cómo aplicar seguimiento de alimentación saludable",
+      "workflow": [
+        "Empieza por registrar de forma rápida y edita solo lo que sabes que cambia mucho el resultado.",
+        "Después revisa el día completo y, cuando tengas datos suficientes, compara la semana."
+      ],
+      "note": "Usa las estimaciones como orientación. Para objetivos médicos o dietas terapéuticas, consulta con un profesional.",
+      "bestFor": [
+        "más conciencia",
+        "hábitos sostenibles",
+        "flexibilidad",
+        "mejores elecciones"
+      ],
+      "workflowKicker": "Uso diario",
+      "noteTitle": "Importante"
+    },
+    "/blog/": {
+      "title": "Guías de conteo de calorías y registro con IA",
+      "h1": "Guías de conteo de calorías y registro con IA",
+      "description": "Aprende a contar calorías, estimar porciones, registrar macros y usar la IA sin perder de vista el criterio propio.",
+      "kicker": "Guías"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Cómo contar calorías con una foto",
+      "h1": "Cómo contar calorías con una foto",
+      "description": "Aprende a usar una foto como punto de partida para estimar calorías, porción y macros sin registrar cada ingrediente desde cero.",
+      "category": "Guía",
+      "readTime": "5 min de lectura",
+      "intro": "Contar calorías por foto es útil cuando el plato no tiene etiqueta o la receta no está cerrada.",
+      "sections": [
+        [
+          "Cómo hacer una foto útil",
+          "Fotografía el plato completo con buena luz. Si hay bebida, salsa o guarnición, inclúyelas en la imagen o añádelas aparte."
+        ],
+        [
+          "Qué revisar antes de guardar",
+          "Comprueba nombre del plato, porción, ingredientes ocultos y macros. Si hace falta, corrige el peso o los extras."
+        ],
+        [
+          "Cuándo es mejor que buscar a mano",
+          "La foto es especialmente cómoda para comida casera, restaurantes, ensaladas, bowls y platos mixtos."
+        ],
+        [
+          "Conclusión",
+          "La foto es un borrador rápido: fotografiar, revisar y guardar una entrada corregida suele ser el flujo más fiable."
+        ]
+      ],
+      "takeaway": "La foto es un borrador rápido: fotografiar, revisar y guardar una entrada corregida suele ser el flujo más fiable."
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "¿Qué tan precisos son los contadores de calorías con IA?",
+      "h1": "¿Qué tan precisos son los contadores de calorías con IA?",
+      "description": "Entiende qué puede estimar bien la IA, qué suele fallar y cómo revisar resultados antes de guardarlos.",
+      "category": "Guía",
+      "readTime": "5 min de lectura",
+      "intro": "La precisión depende de la foto, la porción, la receta y los ingredientes que no se ven.",
+      "sections": [
+        [
+          "Qué suele estimar bien",
+          "La IA puede reconocer alimentos visibles y proponer una porción aproximada cuando la imagen es clara."
+        ],
+        [
+          "Dónde aparece más error",
+          "Aceite, salsas, azúcar, frutos secos y tamaño real de la porción pueden cambiar mucho el resultado."
+        ],
+        [
+          "Cómo mejorar la precisión",
+          "Usa buena luz, fotografía todo el plato y edita manualmente lo que la cámara no puede saber."
+        ],
+        [
+          "Conclusión",
+          "La IA es una referencia útil, no una medición exacta. Su valor aumenta cuando revisas el resultado."
+        ]
+      ],
+      "takeaway": "La IA es una referencia útil, no una medición exacta. Su valor aumenta cuando revisas el resultado."
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "Registro con IA o entrada manual: qué es más cómodo",
+      "h1": "Registro con IA o entrada manual: qué es más cómodo",
+      "description": "Compara el conteo de calorías por foto con el registro manual y aprende cuándo conviene usar cada método.",
+      "category": "Guía",
+      "readTime": "5 min de lectura",
+      "intro": "La IA reduce fricción; la entrada manual aporta control cuando conoces la receta.",
+      "sections": [
+        [
+          "Ventaja de la IA",
+          "Permite empezar un registro en segundos, sobre todo con platos mixtos o comida sin etiqueta."
+        ],
+        [
+          "Ventaja del registro manual",
+          "Es mejor cuando conoces ingredientes, cantidades exactas o una receta repetida."
+        ],
+        [
+          "Cómo combinarlos",
+          "Usa foto para crear un borrador y corrige a mano lo que sepas con seguridad."
+        ],
+        [
+          "Conclusión",
+          "El mejor sistema no es el más sofisticado, sino el que puedes repetir cada día."
+        ]
+      ],
+      "takeaway": "El mejor sistema no es el más sofisticado, sino el que puedes repetir cada día."
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Qué es un escáner de comida",
+      "h1": "Qué es un escáner de comida",
+      "description": "Descubre cómo un escáner de comida puede combinar foto, código de barras y revisión manual para registrar calorías.",
+      "category": "Guía",
+      "readTime": "5 min de lectura",
+      "intro": "Escanear comida no significa confiar a ciegas: significa empezar más rápido.",
+      "sections": [
+        [
+          "Foto del plato",
+          "Sirve para comidas sin etiqueta, recetas caseras y platos de restaurante."
+        ],
+        [
+          "Código de barras",
+          "Funciona bien con productos envasados, siempre que confirmes marca y porción."
+        ],
+        [
+          "Revisión manual",
+          "Permite corregir aceite, salsa, bebida o cualquier detalle que no aparezca en la imagen."
+        ],
+        [
+          "Conclusión",
+          "Un buen escáner acelera el registro, pero mantiene la entrada editable."
+        ]
+      ],
+      "takeaway": "Un buen escáner acelera el registro, pero mantiene la entrada editable."
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Cómo empezar a contar macros",
+      "h1": "Cómo empezar a contar macros",
+      "description": "Guía sencilla para seguir proteínas, grasas e hidratos de carbono sin convertir la alimentación en matemáticas constantes.",
+      "category": "Guía",
+      "readTime": "5 min de lectura",
+      "intro": "Los macros ayudan a entender de dónde vienen las calorías.",
+      "sections": [
+        [
+          "Qué son los macros",
+          "Proteínas, grasas e hidratos de carbono componen gran parte de las calorías de la dieta."
+        ],
+        [
+          "Empieza por la proteína",
+          "Para muchas personas, ver la proteína diaria ya mejora la calidad del registro."
+        ],
+        [
+          "No persigas perfección",
+          "Busca rangos y tendencias antes que clavar cada gramo."
+        ],
+        [
+          "Conclusión",
+          "Contar macros debe aclarar tus decisiones, no volverlas más estresantes."
+        ]
+      ],
+      "takeaway": "Contar macros debe aclarar tus decisiones, no volverlas más estresantes."
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Calorías y macros: qué conviene seguir",
+      "h1": "Calorías y macros: qué conviene seguir",
+      "description": "Entiende la diferencia entre calorías y macros y cuándo tiene sentido prestar atención a cada métrica.",
+      "category": "Guía",
+      "readTime": "5 min de lectura",
+      "intro": "Las calorías muestran el total; los macros explican la composición.",
+      "sections": [
+        [
+          "Calorías",
+          "Indican la energía total aproximada de lo que comes."
+        ],
+        [
+          "Macros",
+          "Muestran cómo se reparte esa energía entre proteínas, grasas e hidratos de carbono."
+        ],
+        [
+          "Qué mirar primero",
+          "Depende del objetivo: pérdida de peso, saciedad, entrenamiento o salud general."
+        ],
+        [
+          "Conclusión",
+          "Calorías y macros no compiten; responden preguntas distintas."
+        ]
+      ],
+      "takeaway": "Calorías y macros no compiten; responden preguntas distintas."
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Cómo contar calorías en comida casera",
+      "h1": "Cómo contar calorías en comida casera",
+      "description": "Aprende a estimar platos caseros, recetas mixtas y sobras cuando no hay etiqueta nutricional.",
+      "category": "Guía",
+      "readTime": "5 min de lectura",
+      "intro": "La comida casera necesita revisar porción, aceite, salsas y guarniciones.",
+      "sections": [
+        [
+          "Empieza por el plato completo",
+          "Una foto puede servir como borrador cuando no tienes la receta exacta."
+        ],
+        [
+          "Añade ingredientes ocultos",
+          "Aceite, mantequilla, queso, frutos secos y salsas suelen cambiar mucho el resultado."
+        ],
+        [
+          "Repite comidas frecuentes",
+          "Guardar platos habituales facilita registrar porciones parecidas en el futuro."
+        ],
+        [
+          "Conclusión",
+          "No necesitas una receta perfecta: necesitas una estimación revisada y consistente."
+        ]
+      ],
+      "takeaway": "No necesitas una receta perfecta: necesitas una estimación revisada y consistente."
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Cómo estimar una porción sin báscula",
+      "h1": "Cómo estimar una porción sin báscula",
+      "description": "Consejos prácticos para aproximar porciones cuando no puedes pesar la comida.",
+      "category": "Guía",
+      "readTime": "5 min de lectura",
+      "intro": "No siempre tienes una báscula; una estimación consistente puede seguir siendo útil.",
+      "sections": [
+        [
+          "Usa referencias visuales",
+          "Compara la porción con el plato, la mano o envases conocidos cuando no puedas pesar."
+        ],
+        [
+          "Distingue volumen y densidad",
+          "Dos porciones del mismo tamaño visual pueden tener calorías muy distintas según grasa o azúcar."
+        ],
+        [
+          "Corrige después",
+          "Si conoces mejor la porción al comer o al repetir el plato, ajusta el registro."
+        ],
+        [
+          "Conclusión",
+          "La consistencia de la estimación importa más que fingir una precisión inexistente."
+        ]
+      ],
+      "takeaway": "La consistencia de la estimación importa más que fingir una precisión inexistente."
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Cuántas calorías debería comer al día",
+      "h1": "Cuántas calorías debería comer al día",
+      "description": "Qué tener en cuenta al fijar una referencia diaria de calorías según objetivo, actividad y seguimiento real.",
+      "category": "Guía",
+      "readTime": "5 min de lectura",
+      "intro": "La cifra diaria es una referencia, no una regla rígida para todos los días.",
+      "sections": [
+        [
+          "Depende del objetivo",
+          "Perder peso, mantenerlo o ganar masa requiere referencias distintas."
+        ],
+        [
+          "Mira promedios",
+          "Un día puede variar mucho; la tendencia semanal dice más."
+        ],
+        [
+          "Ajusta con datos reales",
+          "Si el progreso no coincide con el objetivo, revisa porciones, actividad y adherencia."
+        ],
+        [
+          "Conclusión",
+          "La mejor referencia es la que puedes seguir y ajustar con seguridad."
+        ]
+      ],
+      "takeaway": "La mejor referencia es la que puedes seguir y ajustar con seguridad."
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Qué es un déficit calórico",
+      "h1": "Qué es un déficit calórico",
+      "description": "Explicación simple del déficit calórico y cómo seguirlo sin obsesionarse con cada comida.",
+      "category": "Guía",
+      "readTime": "5 min de lectura",
+      "intro": "Un déficit aparece cuando el promedio de energía ingerida queda por debajo del gasto.",
+      "sections": [
+        [
+          "Definición simple",
+          "Hay déficit cuando, de media, consumes menos energía de la que gastas."
+        ],
+        [
+          "No depende de una comida",
+          "Una comida alta en calorías no rompe todo si el promedio sigue alineado."
+        ],
+        [
+          "Cómo seguirlo",
+          "Registra de forma constante y revisa el promedio semanal antes de hacer cambios drásticos."
+        ],
+        [
+          "Conclusión",
+          "El déficit debe ser sostenible, no extremo."
+        ]
+      ],
+      "takeaway": "El déficit debe ser sostenible, no extremo."
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Errores comunes al contar calorías",
+      "h1": "Errores comunes al contar calorías",
+      "description": "Evita fallos habituales como olvidar aceite, bebidas, salsas o confiar demasiado en una porción estimada.",
+      "category": "Guía",
+      "readTime": "5 min de lectura",
+      "intro": "Muchos errores no vienen de la app, sino de detalles que se pasan por alto.",
+      "sections": [
+        [
+          "Olvidar líquidos",
+          "Zumos, refrescos, cafés con leche y bebidas energéticas pueden sumar calorías."
+        ],
+        [
+          "No contar salsas y aceites",
+          "Son fáciles de pasar por alto y pueden cambiar mucho el total."
+        ],
+        [
+          "Aceptar porciones sin revisar",
+          "La etiqueta puede estar por 100 g, por ración o por envase completo."
+        ],
+        [
+          "Conclusión",
+          "Revisar pequeños detalles mejora más el diario que obsesionarse con números perfectos."
+        ]
+      ],
+      "takeaway": "Revisar pequeños detalles mejora más el diario que obsesionarse con números perfectos."
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Cómo registrar comida de restaurante",
+      "h1": "Cómo registrar comida de restaurante",
+      "description": "Consejos para estimar calorías de platos de restaurante, salsas, guarniciones y porciones grandes.",
+      "category": "Guía",
+      "readTime": "5 min de lectura",
+      "intro": "Comer fuera requiere estimaciones razonables y margen de error.",
+      "sections": [
+        [
+          "Fotografía el plato",
+          "Una foto ayuda a recordar porción, guarnición y presentación."
+        ],
+        [
+          "Piensa en salsas y aceite",
+          "Muchos platos de restaurante tienen grasa añadida que no se ve claramente."
+        ],
+        [
+          "Elige una estimación razonable",
+          "No busques precisión exacta si no conoces la receta. Ajusta lo visible."
+        ],
+        [
+          "Conclusión",
+          "Para restaurantes, lo útil es registrar de forma consistente y aceptar un margen de error."
+        ]
+      ],
+      "takeaway": "Para restaurantes, lo útil es registrar de forma consistente y aceptar un margen de error."
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Cómo controlar la proteína",
+      "h1": "Cómo controlar la proteína",
+      "description": "Aprende a seguir la proteína diaria y a entender su papel en saciedad, entrenamiento y composición de la dieta.",
+      "category": "Guía",
+      "readTime": "5 min de lectura",
+      "intro": "La proteína es una métrica útil, pero debe encajar en una alimentación completa.",
+      "sections": [
+        [
+          "Por qué mirarla",
+          "La proteína ayuda a entender saciedad, recuperación y distribución de comidas."
+        ],
+        [
+          "Dónde aparece",
+          "Carnes, pescado, huevos, lácteos, legumbres, tofu y batidos pueden aportar proteína."
+        ],
+        [
+          "Cómo registrarla",
+          "Mira el total diario y corrige porciones de alimentos ricos en proteína."
+        ],
+        [
+          "Conclusión",
+          "Controlar proteína no significa ignorar calorías, grasas o hidratos de carbono."
+        ]
+      ],
+      "takeaway": "Controlar proteína no significa ignorar calorías, grasas o hidratos de carbono."
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Qué es un diario de alimentación",
+      "h1": "Qué es un diario de alimentación",
+      "description": "Descubre cómo un diario de alimentación ayuda a ver hábitos, porciones y patrones sin juzgar comidas aisladas.",
+      "category": "Guía",
+      "readTime": "5 min de lectura",
+      "intro": "Un diario útil convierte comidas reales en información que puedes revisar.",
+      "sections": [
+        [
+          "Qué registra",
+          "Puede incluir fotos, alimentos, porciones, calorías, macros y notas."
+        ],
+        [
+          "Para qué sirve",
+          "Ayuda a detectar hábitos repetidos, horarios, snacks y cambios de porción."
+        ],
+        [
+          "Cómo mantenerlo",
+          "Hazlo lo bastante simple para repetirlo incluso en días ocupados."
+        ],
+        [
+          "Conclusión",
+          "El valor del diario está en la tendencia, no en una entrada perfecta."
+        ]
+      ],
+      "takeaway": "El valor del diario está en la tendencia, no en una entrada perfecta."
+    },
+    "/download/": {
+      "title": "Descargar Calorie Counter AI",
+      "h1": "Descargar Calorie Counter AI",
+      "description": "Descarga el contador de calorías con IA para iPhone o Android y empieza a registrar comidas con fotos editables.",
+      "kicker": "Descarga"
+    },
+    "/faq/": {
+      "title": "FAQ",
+      "h1": "Preguntas frecuentes",
+      "description": "Respuestas sobre análisis por foto, códigos de barras, precisión, macros, precios y disponibilidad.",
+      "kicker": "Ayuda"
+    },
+    "/pricing/": {
+      "title": "Precios",
+      "h1": "Precios y comienzo gratuito",
+      "description": "Empieza con análisis diarios gratuitos y revisa las opciones premium disponibles en tu país y plataforma.",
+      "kicker": "Precios"
+    },
+    "/support/": {
+      "title": "Soporte",
+      "h1": "Soporte de Calorie Counter AI",
+      "description": "Encuentra ayuda para problemas técnicos, suscripciones, compras y uso de la app.",
+      "kicker": "Soporte"
+    },
+    "/contact/": {
+      "title": "Contacto",
+      "h1": "Contacta con nosotros",
+      "description": "Escribe al equipo de Calorie Counter AI para soporte, colaboraciones, prensa o feedback.",
+      "kicker": "Contacto"
+    },
+    "/privacy-policy/": {
+      "title": "Política de privacidad",
+      "h1": "Política de privacidad",
+      "description": "Información sobre el uso de datos en Calorie Counter AI, incluidos registros de comida, fotos, ajustes y datos técnicos.",
+      "kicker": "Privacidad"
+    },
+    "/terms/": {
+      "title": "Términos de uso",
+      "h1": "Términos de uso",
+      "description": "Condiciones para usar Calorie Counter AI como herramienta informativa de registro de alimentación.",
+      "kicker": "Términos"
+    },
+    "/health-disclaimer/": {
+      "title": "Aviso médico",
+      "h1": "Aviso médico",
+      "description": "Calorie Counter AI ofrece estimaciones nutricionales orientativas y no sustituye consejo médico o dietético profesional.",
+      "kicker": "Aviso médico"
+    },
+    "/delete-account/": {
+      "title": "Eliminar cuenta",
+      "h1": "Eliminar cuenta y datos",
+      "description": "Cómo solicitar la eliminación de tu cuenta o de los datos asociados a Calorie Counter AI.",
+      "kicker": "Cuenta"
+    },
+    "/press/": {
+      "title": "Kit de prensa",
+      "h1": "Kit de prensa de Calorie Counter AI",
+      "description": "Recursos básicos para prensa, colaboraciones y menciones de Calorie Counter AI.",
+      "kicker": "Prensa"
+    },
+    "/how-many-calories-in/": {
+      "title": "Calorías en alimentos",
+      "h1": "Calorías en alimentos populares",
+      "description": "Consulta referencias rápidas de calorías y macros para alimentos, bebidas, snacks y platos frecuentes.",
+      "kicker": "Guía de alimentos"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Cookies",
+    "text": "Usamos cookies necesarias y, si las aceptas, analítica para entender qué páginas ayudan más a los usuarios.",
+    "accept": "Aceptar",
+    "decline": "Rechazar analítica"
+  }
+}

@@ -1,0 +1,2619 @@
+{
+  "localeName": "日本語",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "写真で使えるAIカロリーカウンター"
+  },
+  "nav": {
+    "features": "機能",
+    "useCases": "使い方",
+    "blog": "ガイド",
+    "faq": "よくある質問",
+    "download": "ダウンロード",
+    "language": "言語",
+    "openMenu": "メニューを開く",
+    "caloriesInFoods": "食品のカロリー",
+    "all": "すべて",
+    "allFeatures": "すべての機能",
+    "allUseCases": "すべての使い方",
+    "allLearn": "すべてのガイド",
+    "openHub": "セクションを開く →",
+    "home": "ホーム"
+  },
+  "cta": {
+    "appStore": "App Storeでダウンロード",
+    "googlePlay": "Google Playでダウンロード",
+    "downloadNow": "今すぐダウンロード",
+    "tryFree": "無料で試す",
+    "learnMore": "詳しく見る",
+    "learnMoreArrow": "詳しく見る →",
+    "readGuide": "ガイドを読む"
+  },
+  "home": {
+    "title": "写真で使えるAIカロリーカウンター",
+    "description": "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+    "heroNote": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+    "photoEyebrow": "写真カロリーカウンター",
+    "photoTitle": "写真で使えるAIカロリーカウンター",
+    "photoText": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+    "photoChecklist": [
+      "カロリー",
+      "たんぱく質",
+      "脂質",
+      "炭水化物"
+    ],
+    "featureCards": [
+      [
+        "photo",
+        "写真カロリーカウンター",
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。"
+      ],
+      [
+        "ai",
+        "写真で使えるAIカロリーカウンター",
+        "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+      ],
+      [
+        "barcode",
+        "バーコードスキャナー",
+        "包装食品はバーコードを読み取り、栄養情報をすばやく確認できます。"
+      ],
+      [
+        "macro",
+        "マクロ",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      [
+        "diary",
+        "食事記録",
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。"
+      ],
+      [
+        "download",
+        "Calorie Counter AIをダウンロード",
+        "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+      ]
+    ],
+    "foodPreviewTitle": "人気食品のカロリー",
+    "foodPreviewText": "よく食べる食品のカロリー、たんぱく質、脂質、炭水化物を目安として確認できます。",
+    "foodPreviewLink": "食品一覧を見る →",
+    "goalEyebrow": "栄養",
+    "counterTitle": "写真で使えるAIカロリーカウンター",
+    "counterText": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+    "goalPills": [
+      "減量",
+      "体重維持",
+      "筋肉づくり",
+      "忙しい日の記録"
+    ],
+    "magicEyebrow": "機能",
+    "magicTitle": "写真を撮るだけで食事を記録",
+    "magicText": "料理名、分量、カロリー、マクロの推定値をすばやく確認し、必要に応じて調整して保存できます。",
+    "magicSteps": [
+      "食事を撮影",
+      "推定値を確認",
+      "食事記録に保存"
+    ],
+    "barcodeEyebrow": "バーコードスキャナー",
+    "barcodeTitle": "バーコードスキャナー",
+    "barcodeText": "包装食品はバーコードを読み取り、栄養情報をすばやく確認できます。",
+    "barcodeLink": "バーコードスキャナー →",
+    "progressEyebrow": "マクロ",
+    "macroTitle": "マクロ",
+    "macroText": "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。",
+    "macroLink": "マクロ →",
+    "useCasesEyebrow": "使い方",
+    "useCasesTitle": "毎日の食事管理に合わせて使えます",
+    "useCasesText": "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "減量",
+        "1日の目標に対して残りのカロリーを確認できます。"
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "自炊",
+        "ラベルのない手料理や混合料理の目安を記録できます。"
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "外食",
+        "レストランの食事も写真からすばやく推定できます。"
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "筋肉づくり",
+        "増量中のたんぱく質とカロリーを見失わずに管理できます。"
+      ]
+    ],
+    "downloadTitle": "Calorie Counter AIをダウンロード",
+    "downloadText": "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。",
+    "faqEyebrow": "よくある質問",
+    "faqTitle": "よくある質問",
+    "faq": [
+      [
+        "Calorie Counter AIは無料で使えますか？",
+        "基本機能は無料で試せます。一部の高度な機能には有料プランが必要です。"
+      ],
+      [
+        "写真からどのようにカロリーを推定しますか？",
+        "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+      ],
+      [
+        "医療目的で使えますか？",
+        "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+      ],
+      [
+        "マクロも記録できますか？",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      [
+        "推定値はあとから編集できますか？",
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。"
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "写真で使えるAIカロリーカウンター",
+    "homeOgTitle": "写真で使えるAIカロリーカウンター",
+    "homeDescription": "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+  },
+  "footer": {
+    "disclaimer": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+    "copyright": "© 2026 Calorie Counter AI"
+  },
+  "foodIndex": {
+    "findTitle": "食品別カロリー一覧",
+    "findText": "よく食べる食品のカロリーとマクロを確認し、実際の分量に合わせてアプリで記録できます。",
+    "categoryIntro": "食品別カロリー一覧"
+  },
+  "foodPage": {
+    "eyebrow": "食品別カロリー一覧",
+    "trackInApp": "ダウンロード",
+    "browseFoods": "食品別カロリー一覧 →",
+    "typicalEstimate": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+    "caloriesMacros": "カロリーとマクロ",
+    "whenFits": "使い方",
+    "whatToWatch": "詳しく見る",
+    "howToLog": "食事記録",
+    "helpfulContext": "ガイド",
+    "faq": "よくある質問",
+    "weightLossQuestion": "減量中でも食べられますか？",
+    "variabilityQuestion": "カロリーが変わる理由は？",
+    "logFasterTitle": "写真カロリーカウンター",
+    "logFasterText": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+    "photoTrackingLink": "写真カロリーカウンター →",
+    "macros": {
+      "protein": "たんぱく質",
+      "fat": "脂質",
+      "carbs": "炭水化物"
+    },
+    "titleTemplate": "{namePrep}のカロリーとマクロ",
+    "h1Template": "{namePrep}のカロリーとマクロ",
+    "descriptionTemplate": "{name}: 「{serving}」あたりのカロリー、たんぱく質、脂質、炭水化物と、食事記録のヒント。",
+    "heroIntroTemplate": "目安は1食分あたり {calories} {kcal}: {servingLower}。ブランド、レシピ、調理法、分量に合わせて調整してください。",
+    "macroParagraphTemplate": "{name}: 「{servingLower}」あたり約{calories} {kcal}。この分量には、たんぱく質{protein} {gram}、脂質{fat} {gram}、炭水化物{carbs} {gram}前後が含まれます{fiberText}。",
+    "per100Template": "比較用に、100 {gram}あたり約{calories} {kcal}、たんぱく質{protein} {gram}、脂質{fat} {gram}、炭水化物{carbs} {gram}です。",
+    "calorieLevelTemplate": "分量を目安にしてください: 「{servingLower}」で約{calories} {kcal}です。"
+  },
+  "foodCategories": {
+    "Fruit": "果物",
+    "Protein foods": "たんぱく質食品",
+    "Fruits and fats": "果物と脂質",
+    "Grains and starches": "穀物・でんぷん質",
+    "Nuts and spreads": "ナッツ・スプレッド",
+    "Breakfast foods": "朝食食品",
+    "Dairy": "乳製品",
+    "Restaurant meals": "外食メニュー",
+    "Fast food": "ファストフード",
+    "Legumes and plant protein": "豆類・植物性たんぱく質",
+    "Desserts": "デザート",
+    "Snacks": "スナック",
+    "Drinks": "飲み物",
+    "Vegetables": "野菜",
+    "Sauces and condiments": "ソース・調味料",
+    "Mixed dishes": "料理・複合メニュー"
+  },
+  "foods": {
+    "banana": {
+      "name": "バナナ",
+      "namePrep": "バナナ",
+      "serving": "1食分のバナナ"
+    },
+    "apple": {
+      "name": "りんご",
+      "namePrep": "りんご",
+      "serving": "1食分のりんご"
+    },
+    "egg": {
+      "name": "卵",
+      "namePrep": "卵",
+      "serving": "1食分の卵"
+    },
+    "avocado": {
+      "name": "アボカド",
+      "namePrep": "アボカド",
+      "serving": "1食分のアボカド"
+    },
+    "chicken-breast": {
+      "name": "鶏むね肉",
+      "namePrep": "鶏むね肉",
+      "serving": "1食分の鶏むね肉"
+    },
+    "salmon": {
+      "name": "サーモン",
+      "namePrep": "サーモン",
+      "serving": "1食分のサーモン"
+    },
+    "white-rice": {
+      "name": "白米",
+      "namePrep": "白米",
+      "serving": "1食分の白米"
+    },
+    "brown-rice": {
+      "name": "玄米",
+      "namePrep": "玄米",
+      "serving": "1食分の玄米"
+    },
+    "pasta": {
+      "name": "パスタ",
+      "namePrep": "パスタ",
+      "serving": "1食分のパスタ"
+    },
+    "potato": {
+      "name": "じゃがいも",
+      "namePrep": "じゃがいも",
+      "serving": "1食分のじゃがいも"
+    },
+    "sweet-potato": {
+      "name": "さつまいも",
+      "namePrep": "さつまいも",
+      "serving": "1食分のさつまいも"
+    },
+    "bread": {
+      "name": "パン",
+      "namePrep": "パン",
+      "serving": "1食分のパン"
+    },
+    "peanut-butter": {
+      "name": "ピーナッツバター",
+      "namePrep": "ピーナッツバター",
+      "serving": "1食分のピーナッツバター"
+    },
+    "oatmeal": {
+      "name": "オートミール",
+      "namePrep": "オートミール",
+      "serving": "1食分のオートミール"
+    },
+    "greek-yogurt": {
+      "name": "ギリシャヨーグルト",
+      "namePrep": "ギリシャヨーグルト",
+      "serving": "1食分のギリシャヨーグルト"
+    },
+    "yogurt": {
+      "name": "ヨーグルト",
+      "namePrep": "ヨーグルト",
+      "serving": "1食分のヨーグルト"
+    },
+    "milk": {
+      "name": "牛乳",
+      "namePrep": "牛乳",
+      "serving": "1食分の牛乳"
+    },
+    "cheddar-cheese": {
+      "name": "チェダーチーズ",
+      "namePrep": "チェダーチーズ",
+      "serving": "1食分のチェダーチーズ"
+    },
+    "pizza": {
+      "name": "ピザ",
+      "namePrep": "ピザ",
+      "serving": "1食分のピザ"
+    },
+    "burger": {
+      "name": "ハンバーガー",
+      "namePrep": "ハンバーガー",
+      "serving": "1食分のハンバーガー"
+    },
+    "french-fries": {
+      "name": "フライドポテト",
+      "namePrep": "フライドポテト",
+      "serving": "1食分のフライドポテト"
+    },
+    "sushi-roll": {
+      "name": "巻き寿司",
+      "namePrep": "巻き寿司",
+      "serving": "1食分の巻き寿司"
+    },
+    "taco": {
+      "name": "タコス",
+      "namePrep": "タコス",
+      "serving": "1食分のタコス"
+    },
+    "burrito": {
+      "name": "ブリトー",
+      "namePrep": "ブリトー",
+      "serving": "1食分のブリトー"
+    },
+    "chicken-nuggets": {
+      "name": "チキンナゲット",
+      "namePrep": "チキンナゲット",
+      "serving": "1食分のチキンナゲット"
+    },
+    "hot-dog": {
+      "name": "ホットドッグ",
+      "namePrep": "ホットドッグ",
+      "serving": "1食分のホットドッグ"
+    },
+    "steak": {
+      "name": "ステーキ",
+      "namePrep": "ステーキ",
+      "serving": "1食分のステーキ"
+    },
+    "bacon": {
+      "name": "ベーコン",
+      "namePrep": "ベーコン",
+      "serving": "1食分のベーコン"
+    },
+    "tuna": {
+      "name": "ツナ",
+      "namePrep": "ツナ",
+      "serving": "1食分のツナ"
+    },
+    "shrimp": {
+      "name": "エビ",
+      "namePrep": "エビ",
+      "serving": "1食分のエビ"
+    },
+    "tofu": {
+      "name": "豆腐",
+      "namePrep": "豆腐",
+      "serving": "1食分の豆腐"
+    },
+    "lentils": {
+      "name": "レンズ豆",
+      "namePrep": "レンズ豆",
+      "serving": "1食分のレンズ豆"
+    },
+    "black-beans": {
+      "name": "黒豆",
+      "namePrep": "黒豆",
+      "serving": "1食分の黒豆"
+    },
+    "chickpeas": {
+      "name": "ひよこ豆",
+      "namePrep": "ひよこ豆",
+      "serving": "1食分のひよこ豆"
+    },
+    "hummus": {
+      "name": "フムス",
+      "namePrep": "フムス",
+      "serving": "1食分のフムス"
+    },
+    "quinoa": {
+      "name": "キヌア",
+      "namePrep": "キヌア",
+      "serving": "1食分のキヌア"
+    },
+    "tortilla": {
+      "name": "トルティーヤ",
+      "namePrep": "トルティーヤ",
+      "serving": "1食分のトルティーヤ"
+    },
+    "bagel": {
+      "name": "ベーグル",
+      "namePrep": "ベーグル",
+      "serving": "1食分のベーグル"
+    },
+    "croissant": {
+      "name": "クロワッサン",
+      "namePrep": "クロワッサン",
+      "serving": "1食分のクロワッサン"
+    },
+    "pancake": {
+      "name": "パンケーキ",
+      "namePrep": "パンケーキ",
+      "serving": "1食分のパンケーキ"
+    },
+    "waffle": {
+      "name": "ワッフル",
+      "namePrep": "ワッフル",
+      "serving": "1食分のワッフル"
+    },
+    "cereal": {
+      "name": "シリアル",
+      "namePrep": "シリアル",
+      "serving": "1食分のシリアル"
+    },
+    "granola": {
+      "name": "グラノーラ",
+      "namePrep": "グラノーラ",
+      "serving": "1食分のグラノーラ"
+    },
+    "almonds": {
+      "name": "アーモンド",
+      "namePrep": "アーモンド",
+      "serving": "1食分のアーモンド"
+    },
+    "walnuts": {
+      "name": "くるみ",
+      "namePrep": "くるみ",
+      "serving": "1食分のくるみ"
+    },
+    "cashews": {
+      "name": "カシューナッツ",
+      "namePrep": "カシューナッツ",
+      "serving": "1食分のカシューナッツ"
+    },
+    "chocolate": {
+      "name": "チョコレート",
+      "namePrep": "チョコレート",
+      "serving": "1食分のチョコレート"
+    },
+    "ice-cream": {
+      "name": "アイスクリーム",
+      "namePrep": "アイスクリーム",
+      "serving": "1食分のアイスクリーム"
+    },
+    "cookie": {
+      "name": "チョコチップクッキー",
+      "namePrep": "チョコチップクッキー",
+      "serving": "1食分のチョコチップクッキー"
+    },
+    "donut": {
+      "name": "グレーズドドーナツ",
+      "namePrep": "グレーズドドーナツ",
+      "serving": "1食分のグレーズドドーナツ"
+    },
+    "muffin": {
+      "name": "ブルーベリーマフィン",
+      "namePrep": "ブルーベリーマフィン",
+      "serving": "1食分のブルーベリーマフィン"
+    },
+    "cake": {
+      "name": "ケーキ",
+      "namePrep": "ケーキ",
+      "serving": "1食分のケーキ"
+    },
+    "brownie": {
+      "name": "ブラウニー",
+      "namePrep": "ブラウニー",
+      "serving": "1食分のブラウニー"
+    },
+    "popcorn": {
+      "name": "ポップコーン",
+      "namePrep": "ポップコーン",
+      "serving": "1食分のポップコーン"
+    },
+    "potato-chips": {
+      "name": "ポテトチップス",
+      "namePrep": "ポテトチップス",
+      "serving": "1食分のポテトチップス"
+    },
+    "pretzels": {
+      "name": "プレッツェル",
+      "namePrep": "プレッツェル",
+      "serving": "1食分のプレッツェル"
+    },
+    "smoothie": {
+      "name": "フルーツスムージー",
+      "namePrep": "フルーツスムージー",
+      "serving": "1食分のフルーツスムージー"
+    },
+    "orange-juice": {
+      "name": "オレンジジュース",
+      "namePrep": "オレンジジュース",
+      "serving": "1食分のオレンジジュース"
+    },
+    "soda": {
+      "name": "炭酸飲料",
+      "namePrep": "炭酸飲料",
+      "serving": "1食分の炭酸飲料"
+    },
+    "latte": {
+      "name": "ラテ",
+      "namePrep": "ラテ",
+      "serving": "1食分のラテ"
+    },
+    "protein-shake": {
+      "name": "プロテインシェイク",
+      "namePrep": "プロテインシェイク",
+      "serving": "1食分のプロテインシェイク"
+    },
+    "spaghetti-bolognese": {
+      "name": "スパゲッティ・ボロネーゼ",
+      "namePrep": "スパゲッティ・ボロネーゼ",
+      "serving": "1食分のスパゲッティ・ボロネーゼ"
+    },
+    "ramen": {
+      "name": "ラーメン",
+      "namePrep": "ラーメン",
+      "serving": "1食分のラーメン"
+    },
+    "pho": {
+      "name": "フォー",
+      "namePrep": "フォー",
+      "serving": "1食分のフォー"
+    },
+    "chicken-soup": {
+      "name": "チキンスープ",
+      "namePrep": "チキンスープ",
+      "serving": "1食分のチキンスープ"
+    },
+    "caesar-salad": {
+      "name": "シーザーサラダ",
+      "namePrep": "シーザーサラダ",
+      "serving": "1食分のシーザーサラダ"
+    },
+    "green-salad": {
+      "name": "グリーンサラダ",
+      "namePrep": "グリーンサラダ",
+      "serving": "1食分のグリーンサラダ"
+    },
+    "broccoli": {
+      "name": "ブロッコリー",
+      "namePrep": "ブロッコリー",
+      "serving": "1食分のブロッコリー"
+    },
+    "spinach": {
+      "name": "ほうれん草",
+      "namePrep": "ほうれん草",
+      "serving": "1食分のほうれん草"
+    },
+    "carrots": {
+      "name": "にんじん",
+      "namePrep": "にんじん",
+      "serving": "1食分のにんじん"
+    },
+    "corn": {
+      "name": "とうもろこし",
+      "namePrep": "とうもろこし",
+      "serving": "1食分のとうもろこし"
+    },
+    "tomato": {
+      "name": "トマト",
+      "namePrep": "トマト",
+      "serving": "1食分のトマト"
+    },
+    "cucumber": {
+      "name": "きゅうり",
+      "namePrep": "きゅうり",
+      "serving": "1食分のきゅうり"
+    },
+    "cheesecake": {
+      "name": "チーズケーキ",
+      "namePrep": "チーズケーキ",
+      "serving": "1食分のチーズケーキ"
+    },
+    "lasagna": {
+      "name": "ラザニア",
+      "namePrep": "ラザニア",
+      "serving": "1食分のラザニア"
+    },
+    "grilled-cheese": {
+      "name": "グリルチーズサンド",
+      "namePrep": "グリルチーズサンド",
+      "serving": "1食分のグリルチーズサンド"
+    },
+    "peanut-butter-jelly": {
+      "name": "ピーナッツバターとジャムのサンドイッチ",
+      "namePrep": "ピーナッツバターとジャムのサンドイッチ",
+      "serving": "1食分のピーナッツバターとジャムのサンドイッチ"
+    },
+    "omelette": {
+      "name": "オムレツ",
+      "namePrep": "オムレツ",
+      "serving": "1食分のオムレツ"
+    },
+    "fried-egg": {
+      "name": "目玉焼き",
+      "namePrep": "目玉焼き",
+      "serving": "1食分の目玉焼き"
+    },
+    "boiled-egg": {
+      "name": "ゆで卵",
+      "namePrep": "ゆで卵",
+      "serving": "1食分のゆで卵"
+    },
+    "toast": {
+      "name": "トースト",
+      "namePrep": "トースト",
+      "serving": "1食分のトースト"
+    },
+    "avocado-toast": {
+      "name": "アボカドトースト",
+      "namePrep": "アボカドトースト",
+      "serving": "1食分のアボカドトースト"
+    },
+    "chicken-salad": {
+      "name": "チキンサラダ",
+      "namePrep": "チキンサラダ",
+      "serving": "1食分のチキンサラダ"
+    },
+    "tuna-salad": {
+      "name": "ツナサラダ",
+      "namePrep": "ツナサラダ",
+      "serving": "1食分のツナサラダ"
+    },
+    "egg-salad": {
+      "name": "卵サラダ",
+      "namePrep": "卵サラダ",
+      "serving": "1食分の卵サラダ"
+    },
+    "cottage-cheese": {
+      "name": "カッテージチーズ",
+      "namePrep": "カッテージチーズ",
+      "serving": "1食分のカッテージチーズ"
+    },
+    "cream-cheese": {
+      "name": "クリームチーズ",
+      "namePrep": "クリームチーズ",
+      "serving": "1食分のクリームチーズ"
+    },
+    "butter": {
+      "name": "バター",
+      "namePrep": "バター",
+      "serving": "1食分のバター"
+    },
+    "olive-oil": {
+      "name": "オリーブオイル",
+      "namePrep": "オリーブオイル",
+      "serving": "1食分のオリーブオイル"
+    },
+    "mayonnaise": {
+      "name": "マヨネーズ",
+      "namePrep": "マヨネーズ",
+      "serving": "1食分のマヨネーズ"
+    },
+    "ketchup": {
+      "name": "ケチャップ",
+      "namePrep": "ケチャップ",
+      "serving": "1食分のケチャップ"
+    },
+    "honey": {
+      "name": "はちみつ",
+      "namePrep": "はちみつ",
+      "serving": "1食分のはちみつ"
+    },
+    "jam": {
+      "name": "ジャム",
+      "namePrep": "ジャム",
+      "serving": "1食分のジャム"
+    },
+    "protein-bar": {
+      "name": "プロテインバー",
+      "namePrep": "プロテインバー",
+      "serving": "1食分のプロテインバー"
+    },
+    "energy-drink": {
+      "name": "エナジードリンク",
+      "namePrep": "エナジードリンク",
+      "serving": "1食分のエナジードリンク"
+    },
+    "matcha-latte": {
+      "name": "抹茶ラテ",
+      "namePrep": "抹茶ラテ",
+      "serving": "1食分の抹茶ラテ"
+    },
+    "trail-mix": {
+      "name": "トレイルミックス",
+      "namePrep": "トレイルミックス",
+      "serving": "1食分のトレイルミックス"
+    },
+    "blueberries": {
+      "name": "ブルーベリー",
+      "namePrep": "ブルーベリー",
+      "serving": "1食分のブルーベリー"
+    },
+    "strawberries": {
+      "name": "いちご",
+      "namePrep": "いちご",
+      "serving": "1食分のいちご"
+    },
+    "grapes": {
+      "name": "ぶどう",
+      "namePrep": "ぶどう",
+      "serving": "1食分のぶどう"
+    },
+    "orange": {
+      "name": "オレンジ",
+      "namePrep": "オレンジ",
+      "serving": "1食分のオレンジ"
+    },
+    "pear": {
+      "name": "洋梨",
+      "namePrep": "洋梨",
+      "serving": "1食分の洋梨"
+    },
+    "peach": {
+      "name": "桃",
+      "namePrep": "桃",
+      "serving": "1食分の桃"
+    },
+    "watermelon": {
+      "name": "すいか",
+      "namePrep": "すいか",
+      "serving": "1食分のすいか"
+    },
+    "pineapple": {
+      "name": "パイナップル",
+      "namePrep": "パイナップル",
+      "serving": "1食分のパイナップル"
+    },
+    "mango": {
+      "name": "マンゴー",
+      "namePrep": "マンゴー",
+      "serving": "1食分のマンゴー"
+    },
+    "kiwi": {
+      "name": "キウイ",
+      "namePrep": "キウイ",
+      "serving": "1食分のキウイ"
+    },
+    "raspberries": {
+      "name": "ラズベリー",
+      "namePrep": "ラズベリー",
+      "serving": "1食分のラズベリー"
+    },
+    "blackberries": {
+      "name": "ブラックベリー",
+      "namePrep": "ブラックベリー",
+      "serving": "1食分のブラックベリー"
+    },
+    "cherries": {
+      "name": "さくらんぼ",
+      "namePrep": "さくらんぼ",
+      "serving": "1食分のさくらんぼ"
+    },
+    "grapefruit": {
+      "name": "グレープフルーツ",
+      "namePrep": "グレープフルーツ",
+      "serving": "1食分のグレープフルーツ"
+    },
+    "lettuce": {
+      "name": "レタス",
+      "namePrep": "レタス",
+      "serving": "1食分のレタス"
+    },
+    "cabbage": {
+      "name": "キャベツ",
+      "namePrep": "キャベツ",
+      "serving": "1食分のキャベツ"
+    },
+    "cauliflower": {
+      "name": "カリフラワー",
+      "namePrep": "カリフラワー",
+      "serving": "1食分のカリフラワー"
+    },
+    "asparagus": {
+      "name": "アスパラガス",
+      "namePrep": "アスパラガス",
+      "serving": "1食分のアスパラガス"
+    },
+    "zucchini": {
+      "name": "ズッキーニ",
+      "namePrep": "ズッキーニ",
+      "serving": "1食分のズッキーニ"
+    },
+    "eggplant": {
+      "name": "なす",
+      "namePrep": "なす",
+      "serving": "1食分のなす"
+    },
+    "bell-pepper": {
+      "name": "パプリカ",
+      "namePrep": "パプリカ",
+      "serving": "1食分のパプリカ"
+    },
+    "onion": {
+      "name": "玉ねぎ",
+      "namePrep": "玉ねぎ",
+      "serving": "1食分の玉ねぎ"
+    },
+    "mushrooms": {
+      "name": "きのこ",
+      "namePrep": "きのこ",
+      "serving": "1食分のきのこ"
+    },
+    "green-beans": {
+      "name": "いんげん",
+      "namePrep": "いんげん",
+      "serving": "1食分のいんげん"
+    },
+    "kale": {
+      "name": "ケール",
+      "namePrep": "ケール",
+      "serving": "1食分のケール"
+    },
+    "beets": {
+      "name": "ビーツ",
+      "namePrep": "ビーツ",
+      "serving": "1食分のビーツ"
+    },
+    "turkey-breast": {
+      "name": "七面鳥むね肉",
+      "namePrep": "七面鳥むね肉",
+      "serving": "1食分の七面鳥むね肉"
+    },
+    "chicken-thigh": {
+      "name": "鶏もも肉",
+      "namePrep": "鶏もも肉",
+      "serving": "1食分の鶏もも肉"
+    },
+    "pork-chop": {
+      "name": "ポークチョップ",
+      "namePrep": "ポークチョップ",
+      "serving": "1食分のポークチョップ"
+    },
+    "ground-beef": {
+      "name": "牛ひき肉",
+      "namePrep": "牛ひき肉",
+      "serving": "1食分の牛ひき肉"
+    },
+    "meatballs": {
+      "name": "ミートボール",
+      "namePrep": "ミートボール",
+      "serving": "1食分のミートボール"
+    },
+    "sausage": {
+      "name": "ソーセージ",
+      "namePrep": "ソーセージ",
+      "serving": "1食分のソーセージ"
+    },
+    "cod": {
+      "name": "タラ",
+      "namePrep": "タラ",
+      "serving": "1食分のタラ"
+    },
+    "tilapia": {
+      "name": "ティラピア",
+      "namePrep": "ティラピア",
+      "serving": "1食分のティラピア"
+    },
+    "sardines": {
+      "name": "イワシ",
+      "namePrep": "イワシ",
+      "serving": "1食分のイワシ"
+    },
+    "crab": {
+      "name": "カニ",
+      "namePrep": "カニ",
+      "serving": "1食分のカニ"
+    },
+    "scallops": {
+      "name": "ホタテ",
+      "namePrep": "ホタテ",
+      "serving": "1食分のホタテ"
+    },
+    "smoked-salmon": {
+      "name": "スモークサーモン",
+      "namePrep": "スモークサーモン",
+      "serving": "1食分のスモークサーモン"
+    },
+    "skim-milk": {
+      "name": "無脂肪乳",
+      "namePrep": "無脂肪乳",
+      "serving": "1食分の無脂肪乳"
+    },
+    "soy-milk": {
+      "name": "豆乳",
+      "namePrep": "豆乳",
+      "serving": "1食分の豆乳"
+    },
+    "almond-milk": {
+      "name": "アーモンドミルク",
+      "namePrep": "アーモンドミルク",
+      "serving": "1食分のアーモンドミルク"
+    },
+    "oat-milk": {
+      "name": "オーツミルク",
+      "namePrep": "オーツミルク",
+      "serving": "1食分のオーツミルク"
+    },
+    "kefir": {
+      "name": "ケフィア",
+      "namePrep": "ケフィア",
+      "serving": "1食分のケフィア"
+    },
+    "sour-cream": {
+      "name": "サワークリーム",
+      "namePrep": "サワークリーム",
+      "serving": "1食分のサワークリーム"
+    },
+    "feta-cheese": {
+      "name": "フェタチーズ",
+      "namePrep": "フェタチーズ",
+      "serving": "1食分のフェタチーズ"
+    },
+    "mozzarella": {
+      "name": "モッツァレラ",
+      "namePrep": "モッツァレラ",
+      "serving": "1食分のモッツァレラ"
+    },
+    "parmesan": {
+      "name": "パルメザン",
+      "namePrep": "パルメザン",
+      "serving": "1食分のパルメザン"
+    },
+    "couscous": {
+      "name": "クスクス",
+      "namePrep": "クスクス",
+      "serving": "1食分のクスクス"
+    },
+    "barley": {
+      "name": "大麦",
+      "namePrep": "大麦",
+      "serving": "1食分の大麦"
+    },
+    "buckwheat": {
+      "name": "そばの実",
+      "namePrep": "そばの実",
+      "serving": "1食分のそばの実"
+    },
+    "bulgur": {
+      "name": "ブルグル",
+      "namePrep": "ブルグル",
+      "serving": "1食分のブルグル"
+    },
+    "naan": {
+      "name": "ナン",
+      "namePrep": "ナン",
+      "serving": "1食分のナン"
+    },
+    "pita-bread": {
+      "name": "ピタパン",
+      "namePrep": "ピタパン",
+      "serving": "1食分のピタパン"
+    },
+    "english-muffin": {
+      "name": "イングリッシュマフィン",
+      "namePrep": "イングリッシュマフィン",
+      "serving": "1食分のイングリッシュマフィン"
+    },
+    "rice-cake": {
+      "name": "ライスケーキ",
+      "namePrep": "ライスケーキ",
+      "serving": "1食分のライスケーキ"
+    },
+    "crackers": {
+      "name": "クラッカー",
+      "namePrep": "クラッカー",
+      "serving": "1食分のクラッカー"
+    },
+    "mashed-potatoes": {
+      "name": "マッシュポテト",
+      "namePrep": "マッシュポテト",
+      "serving": "1食分のマッシュポテト"
+    },
+    "scrambled-eggs": {
+      "name": "スクランブルエッグ",
+      "namePrep": "スクランブルエッグ",
+      "serving": "1食分のスクランブルエッグ"
+    },
+    "french-toast": {
+      "name": "フレンチトースト",
+      "namePrep": "フレンチトースト",
+      "serving": "1食分のフレンチトースト"
+    },
+    "breakfast-burrito": {
+      "name": "朝食ブリトー",
+      "namePrep": "朝食ブリトー",
+      "serving": "1食分の朝食ブリトー"
+    },
+    "hash-browns": {
+      "name": "ハッシュブラウン",
+      "namePrep": "ハッシュブラウン",
+      "serving": "1食分のハッシュブラウン"
+    },
+    "chia-pudding": {
+      "name": "チアプディング",
+      "namePrep": "チアプディング",
+      "serving": "1食分のチアプディング"
+    },
+    "overnight-oats": {
+      "name": "オーバーナイトオーツ",
+      "namePrep": "オーバーナイトオーツ",
+      "serving": "1食分のオーバーナイトオーツ"
+    },
+    "breakfast-sandwich": {
+      "name": "朝食サンドイッチ",
+      "namePrep": "朝食サンドイッチ",
+      "serving": "1食分の朝食サンドイッチ"
+    },
+    "edamame": {
+      "name": "枝豆",
+      "namePrep": "枝豆",
+      "serving": "1食分の枝豆"
+    },
+    "kidney-beans": {
+      "name": "赤いんげん豆",
+      "namePrep": "赤いんげん豆",
+      "serving": "1食分の赤いんげん豆"
+    },
+    "pinto-beans": {
+      "name": "ピント豆",
+      "namePrep": "ピント豆",
+      "serving": "1食分のピント豆"
+    },
+    "split-peas": {
+      "name": "スプリットピー",
+      "namePrep": "スプリットピー",
+      "serving": "1食分のスプリットピー"
+    },
+    "baked-beans": {
+      "name": "ベイクドビーンズ",
+      "namePrep": "ベイクドビーンズ",
+      "serving": "1食分のベイクドビーンズ"
+    },
+    "fried-rice": {
+      "name": "チャーハン",
+      "namePrep": "チャーハン",
+      "serving": "1食分のチャーハン"
+    },
+    "pad-thai": {
+      "name": "パッタイ",
+      "namePrep": "パッタイ",
+      "serving": "1食分のパッタイ"
+    },
+    "chicken-curry": {
+      "name": "チキンカレー",
+      "namePrep": "チキンカレー",
+      "serving": "1食分のチキンカレー"
+    },
+    "chicken-tikka-masala": {
+      "name": "チキンティッカマサラ",
+      "namePrep": "チキンティッカマサラ",
+      "serving": "1食分のチキンティッカマサラ"
+    },
+    "beef-chili": {
+      "name": "ビーフチリ",
+      "namePrep": "ビーフチリ",
+      "serving": "1食分のビーフチリ"
+    },
+    "falafel": {
+      "name": "ファラフェル",
+      "namePrep": "ファラフェル",
+      "serving": "1食分のファラフェル"
+    },
+    "dumplings": {
+      "name": "餃子",
+      "namePrep": "餃子",
+      "serving": "1食分の餃子"
+    },
+    "spring-rolls": {
+      "name": "春巻き",
+      "namePrep": "春巻き",
+      "serving": "1食分の春巻き"
+    },
+    "quesadilla": {
+      "name": "ケサディーヤ",
+      "namePrep": "ケサディーヤ",
+      "serving": "1食分のケサディーヤ"
+    },
+    "nachos": {
+      "name": "ナチョス",
+      "namePrep": "ナチョス",
+      "serving": "1食分のナチョス"
+    },
+    "mac-and-cheese": {
+      "name": "マカロニ＆チーズ",
+      "namePrep": "マカロニ＆チーズ",
+      "serving": "1食分のマカロニ＆チーズ"
+    },
+    "chicken-wings": {
+      "name": "チキンウィング",
+      "namePrep": "チキンウィング",
+      "serving": "1食分のチキンウィング"
+    },
+    "fish-and-chips": {
+      "name": "フィッシュ＆チップス",
+      "namePrep": "フィッシュ＆チップス",
+      "serving": "1食分のフィッシュ＆チップス"
+    },
+    "risotto": {
+      "name": "リゾット",
+      "namePrep": "リゾット",
+      "serving": "1食分のリゾット"
+    },
+    "tortilla-chips": {
+      "name": "トルティーヤチップス",
+      "namePrep": "トルティーヤチップス",
+      "serving": "1食分のトルティーヤチップス"
+    },
+    "granola-bar": {
+      "name": "グラノーラバー",
+      "namePrep": "グラノーラバー",
+      "serving": "1食分のグラノーラバー"
+    },
+    "chocolate-bar": {
+      "name": "チョコレートバー",
+      "namePrep": "チョコレートバー",
+      "serving": "1食分のチョコレートバー"
+    },
+    "candy": {
+      "name": "キャンディ",
+      "namePrep": "キャンディ",
+      "serving": "1食分のキャンディ"
+    },
+    "cinnamon-roll": {
+      "name": "シナモンロール",
+      "namePrep": "シナモンロール",
+      "serving": "1食分のシナモンロール"
+    },
+    "marshmallows": {
+      "name": "マシュマロ",
+      "namePrep": "マシュマロ",
+      "serving": "1食分のマシュマロ"
+    },
+    "fruit-snacks": {
+      "name": "フルーツスナック",
+      "namePrep": "フルーツスナック",
+      "serving": "1食分のフルーツスナック"
+    },
+    "black-coffee": {
+      "name": "ブラックコーヒー",
+      "namePrep": "ブラックコーヒー",
+      "serving": "1食分のブラックコーヒー"
+    },
+    "cappuccino": {
+      "name": "カプチーノ",
+      "namePrep": "カプチーノ",
+      "serving": "1食分のカプチーノ"
+    },
+    "milk-tea": {
+      "name": "ミルクティー",
+      "namePrep": "ミルクティー",
+      "serving": "1食分のミルクティー"
+    },
+    "bubble-tea": {
+      "name": "タピオカミルクティー",
+      "namePrep": "タピオカミルクティー",
+      "serving": "1食分のタピオカミルクティー"
+    },
+    "lemonade": {
+      "name": "レモネード",
+      "namePrep": "レモネード",
+      "serving": "1食分のレモネード"
+    },
+    "iced-tea": {
+      "name": "アイスティー",
+      "namePrep": "アイスティー",
+      "serving": "1食分のアイスティー"
+    },
+    "apple-juice": {
+      "name": "りんごジュース",
+      "namePrep": "りんごジュース",
+      "serving": "1食分のりんごジュース"
+    },
+    "coconut-water": {
+      "name": "ココナッツウォーター",
+      "namePrep": "ココナッツウォーター",
+      "serving": "1食分のココナッツウォーター"
+    },
+    "sports-drink": {
+      "name": "スポーツドリンク",
+      "namePrep": "スポーツドリンク",
+      "serving": "1食分のスポーツドリンク"
+    },
+    "ranch-dressing": {
+      "name": "ランチドレッシング",
+      "namePrep": "ランチドレッシング",
+      "serving": "1食分のランチドレッシング"
+    },
+    "bbq-sauce": {
+      "name": "BBQソース",
+      "namePrep": "BBQソース",
+      "serving": "1食分のBBQソース"
+    },
+    "salsa": {
+      "name": "サルサ",
+      "namePrep": "サルサ",
+      "serving": "1食分のサルサ"
+    },
+    "guacamole": {
+      "name": "ワカモレ",
+      "namePrep": "ワカモレ",
+      "serving": "1食分のワカモレ"
+    }
+  },
+  "utility": {
+    "pricing": "料金",
+    "support": "サポート",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "press": "プレスキット",
+    "deleteExtra": "アカウントや関連データの削除を希望する場合は、アプリ内の案内に従うかサポートへご連絡ください。"
+  },
+  "store": {
+    "appStoreSmall": "App Store",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Google Play",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "機能",
+    "useCase": "使い方",
+    "openPage": "詳しく見る →",
+    "openArrow": "詳しく見る →",
+    "practicalWorkflow": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+    "workflowTitle": "写真を撮るだけで食事を記録",
+    "goodToKnow": "詳しく見る",
+    "defaultNote": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+    "relatedPages": "使い方",
+    "quickTakeaway": "詳しく見る",
+    "defaultTakeaway": "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+    "information": "栄養",
+    "bestFor": "おすすめ"
+  },
+  "internalCta": {
+    "title": "Calorie Counter AIで食事を記録",
+    "text": "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。",
+    "button": "ダウンロード"
+  },
+  "download": {
+    "availableTitle": "iPhoneとAndroidで利用できます",
+    "availableText": "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+  },
+  "faq": {
+    "items": [
+      [
+        "Calorie Counter AIは無料で使えますか？",
+        "基本機能は無料で試せます。一部の高度な機能には有料プランが必要です。"
+      ],
+      [
+        "写真からどのようにカロリーを推定しますか？",
+        "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+      ],
+      [
+        "バーコードスキャンに対応していますか？",
+        "包装食品はバーコードを読み取り、栄養情報をすばやく確認できます。"
+      ],
+      [
+        "マクロも記録できますか？",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      [
+        "自炊料理にも使えますか？",
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。"
+      ],
+      [
+        "栄養値はどのくらい正確ですか？",
+        "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "基本機能は無料で試せます。一部の高度な機能には有料プランが必要です。",
+      "基本機能は無料で試せます。一部の高度な機能には有料プランが必要です。"
+    ],
+    "support": [
+      "サポートが必要な場合はお問い合わせください。アプリ、請求、アカウントに関する質問に対応します。",
+      "サポートが必要な場合はお問い合わせください。アプリ、請求、アカウントに関する質問に対応します。"
+    ],
+    "contact": [
+      "サポートメール",
+      "お問い合わせ内容を送信してください。"
+    ],
+    "privacy": [
+      "私たちは、アプリの提供、改善、保護に必要な情報のみを扱います。詳しくはプライバシーポリシーをご確認ください。",
+      "私たちは、アプリの提供、改善、保護に必要な情報のみを扱います。詳しくはプライバシーポリシーをご確認ください。"
+    ],
+    "terms": [
+      "Calorie Counter AIを利用することで、利用規約に同意したものとみなされます。",
+      "Calorie Counter AIを利用することで、利用規約に同意したものとみなされます。"
+    ],
+    "disclaimer": [
+      "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+    ],
+    "delete": [
+      "アカウントや関連データの削除を希望する場合は、アプリ内の案内に従うかサポートへご連絡ください。",
+      "アカウントや関連データの削除を希望する場合は、アプリ内の案内に従うかサポートへご連絡ください。"
+    ]
+  },
+  "press": {
+    "iconAlt": "アプリアイコン",
+    "iconTitle": "アプリアイコン",
+    "downloadIcon": "ダウンロード",
+    "screenshotAlt": "アプリ画面",
+    "screenshotTitle": "Calorie Counter AIのスクリーンショット",
+    "downloadScreenshot": "ダウンロード",
+    "shortDescriptionTitle": "写真で使えるAIカロリーカウンター",
+    "shortDescriptionText": "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+  },
+  "notFound": {
+    "title": "ページが見つかりません",
+    "text": "探しているページは移動または削除された可能性があります。",
+    "home": "ホーム"
+  },
+  "pages": {
+    "/features/": {
+      "title": "機能",
+      "h1": "機能",
+      "description": "機能: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "機能",
+      "summary": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+      "bullets": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ]
+      ],
+      "workflowTitle": "機能",
+      "workflow": [
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      "note": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "bestFor": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "workflowKicker": "機能",
+      "noteTitle": "詳しく見る"
+    },
+    "/food-recognition-ai/": {
+      "title": "AI食品認識",
+      "h1": "AI食品認識",
+      "description": "AI食品認識: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "AI食品認識",
+      "summary": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+      "bullets": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ]
+      ],
+      "workflowTitle": "AI食品認識",
+      "workflow": [
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      "note": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "bestFor": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "workflowKicker": "AI食品認識",
+      "noteTitle": "詳しく見る"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "バーコードカロリースキャナー",
+      "h1": "バーコードカロリースキャナー",
+      "description": "バーコードカロリースキャナー: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "バーコードカロリースキャナー",
+      "summary": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+      "bullets": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ]
+      ],
+      "workflowTitle": "バーコードカロリースキャナー",
+      "workflow": [
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      "note": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "bestFor": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "workflowKicker": "バーコードカロリースキャナー",
+      "noteTitle": "詳しく見る"
+    },
+    "/macro-tracker/": {
+      "title": "マクロ記録",
+      "h1": "マクロ記録",
+      "description": "マクロ記録: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "マクロ記録",
+      "summary": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+      "bullets": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ]
+      ],
+      "workflowTitle": "マクロ記録",
+      "workflow": [
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      "note": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "bestFor": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "workflowKicker": "マクロ記録",
+      "noteTitle": "詳しく見る"
+    },
+    "/food-diary-app/": {
+      "title": "食事記録アプリ",
+      "h1": "食事記録アプリ",
+      "description": "食事記録アプリ: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "食事記録アプリ",
+      "summary": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+      "bullets": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ]
+      ],
+      "workflowTitle": "食事記録アプリ",
+      "workflow": [
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      "note": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "bestFor": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "workflowKicker": "食事記録アプリ",
+      "noteTitle": "詳しく見る"
+    },
+    "/nutrition-tracker/": {
+      "title": "栄養トラッカー",
+      "h1": "栄養トラッカー",
+      "description": "栄養トラッカー: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "栄養トラッカー",
+      "summary": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+      "bullets": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ]
+      ],
+      "workflowTitle": "栄養トラッカー",
+      "workflow": [
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      "note": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "bestFor": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "workflowKicker": "栄養トラッカー",
+      "noteTitle": "詳しく見る"
+    },
+    "/meal-weight-estimator/": {
+      "title": "食事の重量推定",
+      "h1": "食事の重量推定",
+      "description": "食事の重量推定: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "食事の重量推定",
+      "summary": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+      "bullets": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ]
+      ],
+      "workflowTitle": "食事の重量推定",
+      "workflow": [
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      "note": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "bestFor": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "workflowKicker": "食事の重量推定",
+      "noteTitle": "詳しく見る"
+    },
+    "/progress-statistics/": {
+      "title": "進捗と統計",
+      "h1": "進捗と統計",
+      "description": "進捗と統計: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "進捗と統計",
+      "summary": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+      "bullets": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ]
+      ],
+      "workflowTitle": "進捗と統計",
+      "workflow": [
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      "note": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "bestFor": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "workflowKicker": "進捗と統計",
+      "noteTitle": "詳しく見る"
+    },
+    "/meal-reminders/": {
+      "title": "食事リマインダー",
+      "h1": "食事リマインダー",
+      "description": "食事リマインダー: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "食事リマインダー",
+      "summary": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+      "bullets": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ]
+      ],
+      "workflowTitle": "食事リマインダー",
+      "workflow": [
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      "note": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "bestFor": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "workflowKicker": "食事リマインダー",
+      "noteTitle": "詳しく見る"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect連携",
+      "h1": "Google Health Connect連携",
+      "description": "Google Health Connect連携: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "Google Health Connect連携",
+      "summary": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+      "bullets": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ]
+      ],
+      "workflowTitle": "Google Health Connect連携",
+      "workflow": [
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      "note": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "bestFor": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "workflowKicker": "Google Health Connect連携",
+      "noteTitle": "詳しく見る"
+    },
+    "/data-export/": {
+      "title": "データのエクスポート",
+      "h1": "データのエクスポート",
+      "description": "データのエクスポート: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "データのエクスポート",
+      "summary": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+      "bullets": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ]
+      ],
+      "workflowTitle": "データのエクスポート",
+      "workflow": [
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      "note": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "bestFor": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "workflowKicker": "データのエクスポート",
+      "noteTitle": "詳しく見る"
+    },
+    "/use-cases/": {
+      "title": "使い方",
+      "h1": "使い方",
+      "description": "使い方: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "使い方"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "減量向けカロリーカウンター",
+      "h1": "減量向けカロリーカウンター",
+      "description": "減量向けカロリーカウンター: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "減量向けカロリーカウンター",
+      "summary": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+      "bullets": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ]
+      ],
+      "workflowTitle": "減量向けカロリーカウンター",
+      "workflow": [
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      "note": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "bestFor": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "workflowKicker": "減量向けカロリーカウンター",
+      "noteTitle": "詳しく見る"
+    },
+    "/calorie-deficit-app/": {
+      "title": "カロリー収支管理アプリ",
+      "h1": "カロリー収支管理アプリ",
+      "description": "カロリー収支管理アプリ: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "カロリー収支管理アプリ",
+      "summary": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+      "bullets": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ]
+      ],
+      "workflowTitle": "カロリー収支管理アプリ",
+      "workflow": [
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      "note": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "bestFor": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "workflowKicker": "カロリー収支管理アプリ",
+      "noteTitle": "詳しく見る"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "筋肉づくり向けカロリー記録",
+      "h1": "筋肉づくり向けカロリー記録",
+      "description": "筋肉づくり向けカロリー記録: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "筋肉づくり向けカロリー記録",
+      "summary": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+      "bullets": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ]
+      ],
+      "workflowTitle": "筋肉づくり向けカロリー記録",
+      "workflow": [
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      "note": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "bestFor": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "workflowKicker": "筋肉づくり向けカロリー記録",
+      "noteTitle": "詳しく見る"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "体重維持のカロリー記録",
+      "h1": "体重維持のカロリー記録",
+      "description": "体重維持のカロリー記録: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "体重維持のカロリー記録",
+      "summary": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+      "bullets": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ]
+      ],
+      "workflowTitle": "体重維持のカロリー記録",
+      "workflow": [
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      "note": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "bestFor": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "workflowKicker": "体重維持のカロリー記録",
+      "noteTitle": "詳しく見る"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "自炊向けカロリーカウンター",
+      "h1": "自炊向けカロリーカウンター",
+      "description": "自炊向けカロリーカウンター: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "自炊向けカロリーカウンター",
+      "summary": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+      "bullets": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ]
+      ],
+      "workflowTitle": "自炊向けカロリーカウンター",
+      "workflow": [
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      "note": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "bestFor": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "workflowKicker": "自炊向けカロリーカウンター",
+      "noteTitle": "詳しく見る"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "外食カロリー記録",
+      "h1": "外食カロリー記録",
+      "description": "外食カロリー記録: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "外食カロリー記録",
+      "summary": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+      "bullets": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ]
+      ],
+      "workflowTitle": "外食カロリー記録",
+      "workflow": [
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      "note": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "bestFor": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "workflowKicker": "外食カロリー記録",
+      "noteTitle": "詳しく見る"
+    },
+    "/meal-tracker/": {
+      "title": "食事トラッカー",
+      "h1": "食事トラッカー",
+      "description": "食事トラッカー: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "食事トラッカー",
+      "summary": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+      "bullets": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ]
+      ],
+      "workflowTitle": "食事トラッカー",
+      "workflow": [
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      "note": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "bestFor": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "workflowKicker": "食事トラッカー",
+      "noteTitle": "詳しく見る"
+    },
+    "/photo-food-journal/": {
+      "title": "写真で残す食事日記",
+      "h1": "写真で残す食事日記",
+      "description": "写真で残す食事日記: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "写真で残す食事日記",
+      "summary": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+      "bullets": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ]
+      ],
+      "workflowTitle": "写真で残す食事日記",
+      "workflow": [
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      "note": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "bestFor": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "workflowKicker": "写真で残す食事日記",
+      "noteTitle": "詳しく見る"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "健康的な食事管理",
+      "h1": "健康的な食事管理",
+      "description": "健康的な食事管理: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "健康的な食事管理",
+      "summary": "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+      "bullets": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ]
+      ],
+      "workflowTitle": "健康的な食事管理",
+      "workflow": [
+        "食材を一つずつ検索しなくても、食事の写真から推定値を確認して食事記録に保存できます。",
+        "1日の目標に合わせて、カロリー、たんぱく質、脂質、炭水化物をまとめて確認できます。"
+      ],
+      "note": "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。",
+      "bestFor": [
+        "写真カロリーカウンター",
+        "バーコードスキャナー",
+        "マクロ",
+        "食事記録"
+      ],
+      "workflowKicker": "健康的な食事管理",
+      "noteTitle": "詳しく見る"
+    },
+    "/blog/": {
+      "title": "カロリー管理ガイド",
+      "h1": "カロリー管理ガイド",
+      "description": "カロリー管理ガイド: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "カロリー管理ガイド"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "写真からカロリーを数える方法",
+      "h1": "写真からカロリーを数える方法",
+      "description": "写真からカロリーを数える方法: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "category": "写真からカロリーを数える方法",
+      "readTime": "写真からカロリーを数える方法",
+      "intro": "写真からカロリーを数える方法",
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ],
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ]
+      ],
+      "takeaway": "写真からカロリーを数える方法"
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "AIカロリーカウンターの精度",
+      "h1": "AIカロリーカウンターの精度",
+      "description": "AIカロリーカウンターの精度: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "category": "AIカロリーカウンターの精度",
+      "readTime": "AIカロリーカウンターの精度",
+      "intro": "AIカロリーカウンターの精度",
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ],
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ]
+      ],
+      "takeaway": "AIカロリーカウンターの精度"
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "AI記録と手入力の違い",
+      "h1": "AI記録と手入力の違い",
+      "description": "AI記録と手入力の違い: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "category": "AI記録と手入力の違い",
+      "readTime": "AI記録と手入力の違い",
+      "intro": "AI記録と手入力の違い",
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ],
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ]
+      ],
+      "takeaway": "AI記録と手入力の違い"
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "食品カロリースキャナーの使い方",
+      "h1": "食品カロリースキャナーの使い方",
+      "description": "食品カロリースキャナーの使い方: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "category": "食品カロリースキャナーの使い方",
+      "readTime": "食品カロリースキャナーの使い方",
+      "intro": "食品カロリースキャナーの使い方",
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ],
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ]
+      ],
+      "takeaway": "食品カロリースキャナーの使い方"
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "初心者向けマクロ記録",
+      "h1": "初心者向けマクロ記録",
+      "description": "初心者向けマクロ記録: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "category": "初心者向けマクロ記録",
+      "readTime": "初心者向けマクロ記録",
+      "intro": "初心者向けマクロ記録",
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ],
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ]
+      ],
+      "takeaway": "初心者向けマクロ記録"
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "カロリーとマクロの違い",
+      "h1": "カロリーとマクロの違い",
+      "description": "カロリーとマクロの違い: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "category": "カロリーとマクロの違い",
+      "readTime": "カロリーとマクロの違い",
+      "intro": "カロリーとマクロの違い",
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ],
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ]
+      ],
+      "takeaway": "カロリーとマクロの違い"
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "自炊のカロリーを数える方法",
+      "h1": "自炊のカロリーを数える方法",
+      "description": "自炊のカロリーを数える方法: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "category": "自炊のカロリーを数える方法",
+      "readTime": "自炊のカロリーを数える方法",
+      "intro": "自炊のカロリーを数える方法",
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ],
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ]
+      ],
+      "takeaway": "自炊のカロリーを数える方法"
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "分量を見積もる方法",
+      "h1": "分量を見積もる方法",
+      "description": "分量を見積もる方法: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "category": "分量を見積もる方法",
+      "readTime": "分量を見積もる方法",
+      "intro": "分量を見積もる方法",
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ],
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ]
+      ],
+      "takeaway": "分量を見積もる方法"
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "1日に必要なカロリーの考え方",
+      "h1": "1日に必要なカロリーの考え方",
+      "description": "1日に必要なカロリーの考え方: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "category": "1日に必要なカロリーの考え方",
+      "readTime": "1日に必要なカロリーの考え方",
+      "intro": "1日に必要なカロリーの考え方",
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ],
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ]
+      ],
+      "takeaway": "1日に必要なカロリーの考え方"
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "カロリー赤字とは",
+      "h1": "カロリー赤字とは",
+      "description": "カロリー赤字とは: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "category": "カロリー赤字とは",
+      "readTime": "カロリー赤字とは",
+      "intro": "カロリー赤字とは",
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ],
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ]
+      ],
+      "takeaway": "カロリー赤字とは"
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "カロリー計算でよくあるミス",
+      "h1": "カロリー計算でよくあるミス",
+      "description": "カロリー計算でよくあるミス: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "category": "カロリー計算でよくあるミス",
+      "readTime": "カロリー計算でよくあるミス",
+      "intro": "カロリー計算でよくあるミス",
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ],
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ]
+      ],
+      "takeaway": "カロリー計算でよくあるミス"
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "外食を記録する方法",
+      "h1": "外食を記録する方法",
+      "description": "外食を記録する方法: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "category": "外食を記録する方法",
+      "readTime": "外食を記録する方法",
+      "intro": "外食を記録する方法",
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ],
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ]
+      ],
+      "takeaway": "外食を記録する方法"
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "たんぱく質を記録する方法",
+      "h1": "たんぱく質を記録する方法",
+      "description": "たんぱく質を記録する方法: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "category": "たんぱく質を記録する方法",
+      "readTime": "たんぱく質を記録する方法",
+      "intro": "たんぱく質を記録する方法",
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ],
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ]
+      ],
+      "takeaway": "たんぱく質を記録する方法"
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "食事日記とは",
+      "h1": "食事日記とは",
+      "description": "食事日記とは: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "category": "食事日記とは",
+      "readTime": "食事日記とは",
+      "intro": "食事日記とは",
+      "sections": [
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ],
+        [
+          "詳しく見る",
+          "Calorie Counter AIの栄養値は目安であり、医療・栄養指導の代わりにはなりません。"
+        ],
+        [
+          "ダウンロード",
+          "iPhoneまたはAndroidでCalorie Counter AIをダウンロードし、次の食事写真をそのまま記録に変えましょう。"
+        ],
+        [
+          "機能",
+          "食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。"
+        ]
+      ],
+      "takeaway": "食事日記とは"
+    },
+    "/download/": {
+      "title": "Calorie Counter AIをダウンロード",
+      "h1": "Calorie Counter AIをダウンロード",
+      "description": "Calorie Counter AIをダウンロード: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "Calorie Counter AIをダウンロード"
+    },
+    "/faq/": {
+      "title": "よくある質問",
+      "h1": "よくある質問",
+      "description": "よくある質問: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "よくある質問"
+    },
+    "/pricing/": {
+      "title": "料金",
+      "h1": "料金",
+      "description": "料金: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "料金"
+    },
+    "/support/": {
+      "title": "サポート",
+      "h1": "サポート",
+      "description": "サポート: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "サポート"
+    },
+    "/contact/": {
+      "title": "お問い合わせ",
+      "h1": "お問い合わせ",
+      "description": "お問い合わせ: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "お問い合わせ"
+    },
+    "/privacy-policy/": {
+      "title": "プライバシーポリシー",
+      "h1": "プライバシーポリシー",
+      "description": "プライバシーポリシー: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "プライバシーポリシー"
+    },
+    "/terms/": {
+      "title": "利用規約",
+      "h1": "利用規約",
+      "description": "利用規約: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "利用規約"
+    },
+    "/health-disclaimer/": {
+      "title": "健康に関する免責事項",
+      "h1": "健康に関する免責事項",
+      "description": "健康に関する免責事項: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "健康に関する免責事項"
+    },
+    "/delete-account/": {
+      "title": "アカウント削除",
+      "h1": "アカウント削除",
+      "description": "アカウント削除: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "アカウント削除"
+    },
+    "/press/": {
+      "title": "プレスキット",
+      "h1": "プレスキット",
+      "description": "プレスキット: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "プレスキット"
+    },
+    "/how-many-calories-in/": {
+      "title": "食品別カロリー一覧",
+      "h1": "食品別カロリー一覧",
+      "description": "食品別カロリー一覧: 食事を撮影すると、カロリー、たんぱく質、脂質、炭水化物、分量の目安が数秒で表示されます。",
+      "kicker": "食品別カロリー一覧"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Cookieについて",
+    "text": "このサイトでは、基本機能、分析、表示改善のためにCookieを使用する場合があります。",
+    "accept": "同意する",
+    "decline": "拒否する"
+  }
+}

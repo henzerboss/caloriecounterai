@@ -1,0 +1,2619 @@
+{
+  "localeName": "Euskara",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "Argazki bidezko AI kaloria-kontagailua"
+  },
+  "nav": {
+    "features": "Funtzioak",
+    "useCases": "Erabilera-kasuak",
+    "blog": "Gidak",
+    "faq": "Galderak",
+    "download": "Deskargatu",
+    "language": "Hizkuntza",
+    "openMenu": "Ireki menua",
+    "caloriesInFoods": "Elikagaien kaloriak",
+    "all": "Guztiak",
+    "allFeatures": "Funtzio guztiak",
+    "allUseCases": "Erabilera-kasu guztiak",
+    "allLearn": "Gida guztiak",
+    "openHub": "Ireki atala →",
+    "home": "Hasiera"
+  },
+  "cta": {
+    "appStore": "Deskargatu App Store-n",
+    "googlePlay": "Eskuratu Google Play-n",
+    "downloadNow": "Deskargatu orain",
+    "tryFree": "Probatu doan",
+    "learnMore": "Informazio gehiago",
+    "learnMoreArrow": "Informazio gehiago →",
+    "readGuide": "Irakurri gida"
+  },
+  "home": {
+    "title": "Argazki bidezko AI kaloria-kontagailua",
+    "description": "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+    "heroNote": "Hasi doan eguneroko AI elikagai-analiziekin. iPhone eta Android-erako eskuragarri.",
+    "photoEyebrow": "Argazki bidezko kaloria-kontagailua",
+    "photoTitle": "Argazki bidezko kaloria-kontagailua",
+    "photoText": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+    "photoChecklist": [
+      "Kaloriak",
+      "Proteinak",
+      "Gantzak",
+      "Karbohidratoak"
+    ],
+    "featureCards": [
+      [
+        "photo",
+        "Argazki bidezko kaloria-kontagailua",
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian."
+      ],
+      [
+        "ai",
+        "Argazki bidezko AI kaloria-kontagailua",
+        "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+      ],
+      [
+        "barcode",
+        "Barra-kodeen eskanerra",
+        "Eskaneatu ontziratutako elikagaien barra-kodea eta sartu kaloriak, makroak eta errazioa azkarrago."
+      ],
+      [
+        "macro",
+        "Makroak",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      [
+        "diary",
+        "Elikadura-egunkaria",
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian."
+      ],
+      [
+        "download",
+        "Deskargatu Calorie Counter AI",
+        "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+      ]
+    ],
+    "foodPreviewTitle": "Elikagai ohikoenen kaloriak",
+    "foodPreviewText": "Begiratu kaloriak, proteinak, gantzak eta karbohidratoak errazio arruntetarako.",
+    "foodPreviewLink": "Ikusi elikagaiak →",
+    "goalEyebrow": "Nutrizioa",
+    "counterTitle": "Argazki bidezko AI kaloria-kontagailua",
+    "counterText": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+    "goalPills": [
+      "Pisua galtzea",
+      "Pisua mantentzea",
+      "Muskulua irabaztea",
+      "Egun presatuak"
+    ],
+    "magicEyebrow": "Funtzioak",
+    "magicTitle": "Argazkia, estimazioa, egunkaria",
+    "magicText": "Atera bazkariari argazkia, egiaztatu estimazioa eta gorde elikadura-egunkarian.",
+    "magicSteps": [
+      "Atera bazkariari argazkia",
+      "Egiaztatu kaloriak eta makroak",
+      "Gorde egunkarian"
+    ],
+    "barcodeEyebrow": "Barra-kodeen eskanerra",
+    "barcodeTitle": "Barra-kodeen eskanerra",
+    "barcodeText": "Eskaneatu ontziratutako elikagaien barra-kodea eta sartu kaloriak, makroak eta errazioa azkarrago.",
+    "barcodeLink": "Barra-kodeen eskanerra →",
+    "progressEyebrow": "Makroak",
+    "macroTitle": "Makroak",
+    "macroText": "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko.",
+    "macroLink": "Makroak →",
+    "useCasesEyebrow": "Erabilera-kasuak",
+    "useCasesTitle": "Eguneroko elikadura jarraitzeko",
+    "useCasesText": "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Pisua galtzea",
+        "Kaloriak"
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Etxeko janaria",
+        "Argazki bidezko kontagailua"
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Jatetxeko janaria",
+        "Elikadura-egunkaria"
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Muskulua irabaztea",
+        "Proteinak"
+      ]
+    ],
+    "downloadTitle": "Deskargatu Calorie Counter AI",
+    "downloadText": "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri.",
+    "faqEyebrow": "Galderak",
+    "faqTitle": "Galderak",
+    "faq": [
+      [
+        "Calorie Counter AI doakoa al da?",
+        "Oinarrizko funtzioak doan probatu ditzakezu; analisi aurreratu batzuk, estatistikak eta muga gehigarriak premium planaren parte izan daitezke."
+      ],
+      [
+        "Kaloriak argazki batetik zenbatu al ditzaket?",
+        "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+      ],
+      [
+        "Zein zehatza da AI estimazioa?",
+        "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+      ],
+      [
+        "Aplikazioak makroak jarraitzen al ditu?",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      [
+        "iPhone eta Android-erako eskuragarri al dago?",
+        "Hasi doan eguneroko AI elikagai-analiziekin. iPhone eta Android-erako eskuragarri."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "Argazki bidezko AI kaloria-kontagailua",
+    "homeOgTitle": "Argazki bidezko AI kaloria-kontagailua",
+    "homeDescription": "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+  },
+  "footer": {
+    "disclaimer": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+    "copyright": "© 2026 Calorie Counter AI"
+  },
+  "foodIndex": {
+    "findTitle": "Elikagaien kaloriak",
+    "findText": "Elikagai eta errazio ohikoenetarako kaloriak, proteinak, gantzak eta karbohidratoak.",
+    "categoryIntro": "Elikagaien kaloriak"
+  },
+  "foodPage": {
+    "eyebrow": "Elikagaien kaloriak",
+    "trackInApp": "Deskargatu",
+    "browseFoods": "Elikagaien kaloriak →",
+    "typicalEstimate": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+    "caloriesMacros": "Kaloriak eta makroak",
+    "whenFits": "Erabilera-kasuak",
+    "whatToWatch": "Informazio gehiago",
+    "howToLog": "Elikadura-egunkaria",
+    "helpfulContext": "Gidak",
+    "faq": "Galderak",
+    "weightLossQuestion": "Egokia al da pisua galtzeko?",
+    "variabilityQuestion": "Zerk aldatzen ditu gehien kaloriak?",
+    "logFasterTitle": "Argazki bidezko kaloria-kontagailua",
+    "logFasterText": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+    "photoTrackingLink": "Argazki bidezko kaloria-kontagailua →",
+    "macros": {
+      "protein": "Proteinak",
+      "fat": "Gantzak",
+      "carbs": "Karbohidratoak"
+    },
+    "titleTemplate": "Zenbat kaloria ditu {namePrep} elikagaiak?",
+    "h1Template": "Zenbat kaloria ditu {namePrep} elikagaiak?",
+    "descriptionTemplate": "{name}: kaloriak, proteinak, gantzak eta karbohidratoak “{serving}” erraziorako, errazioa erregistratzeko aholku praktikoekin.",
+    "heroIntroTemplate": "Gutxi gorabehera {calories} {kcal} errazio bakoitzeko: {servingLower}. Erabili abiapuntu gisa eta egokitu markaren, errezetaren, prestaketaren eta errazioaren tamainaren arabera.",
+    "macroParagraphTemplate": "{name}: gutxi gorabehera {calories} {kcal} “{servingLower}” errazioan. Errazio honek {protein} {gram} proteina, {fat} {gram} gantz eta {carbs} {gram} karbohidrato inguru ditu{fiberText}.",
+    "per100Template": "Konparatzeko, 100 {gram}-ko: gutxi gorabehera {calories} {kcal}, {protein} {gram} proteina, {fat} {gram} gantz eta {carbs} {gram} karbohidrato.",
+    "calorieLevelTemplate": "Erabili errazioa orientazio gisa: {calories} {kcal} inguru “{servingLower}” erraziorako."
+  },
+  "foodCategories": {
+    "Fruit": "Fruta",
+    "Protein foods": "Proteina-elikagaiak",
+    "Fruits and fats": "Fruta eta gantzak",
+    "Grains and starches": "Zerealak eta almidoiak",
+    "Nuts and spreads": "Fruitu lehorrak eta kremak",
+    "Breakfast foods": "Gosariko elikagaiak",
+    "Dairy": "Esnekiak",
+    "Restaurant meals": "Jatetxeko otorduak",
+    "Fast food": "Janari azkarra",
+    "Legumes and plant protein": "Lekaleak eta landare-proteina",
+    "Desserts": "Postreak",
+    "Snacks": "Mokaduak",
+    "Drinks": "Edariak",
+    "Vegetables": "Barazkiak",
+    "Sauces and condiments": "Saltsak eta ongailuak",
+    "Mixed dishes": "Plater konbinatuak"
+  },
+  "foods": {
+    "banana": {
+      "name": "Banana",
+      "namePrep": "banana",
+      "serving": "errazio 1: banana"
+    },
+    "apple": {
+      "name": "Sagarra",
+      "namePrep": "sagarra",
+      "serving": "errazio 1: sagarra"
+    },
+    "egg": {
+      "name": "Arrautza",
+      "namePrep": "arrautza",
+      "serving": "errazio 1: arrautza"
+    },
+    "avocado": {
+      "name": "Ahuakatea",
+      "namePrep": "ahuakatea",
+      "serving": "errazio 1: ahuakatea"
+    },
+    "chicken-breast": {
+      "name": "Oilasko-bularra",
+      "namePrep": "oilasko-bularra",
+      "serving": "errazio 1: oilasko-bularra"
+    },
+    "salmon": {
+      "name": "Izokina",
+      "namePrep": "izokina",
+      "serving": "errazio 1: izokina"
+    },
+    "white-rice": {
+      "name": "Arroz zuria",
+      "namePrep": "arroz zuria",
+      "serving": "errazio 1: arroz zuria"
+    },
+    "brown-rice": {
+      "name": "Arroz integrala",
+      "namePrep": "arroz integrala",
+      "serving": "errazio 1: arroz integrala"
+    },
+    "pasta": {
+      "name": "Pasta",
+      "namePrep": "pasta",
+      "serving": "errazio 1: pasta"
+    },
+    "potato": {
+      "name": "Patata",
+      "namePrep": "patata",
+      "serving": "errazio 1: patata"
+    },
+    "sweet-potato": {
+      "name": "Batata",
+      "namePrep": "batata",
+      "serving": "errazio 1: batata"
+    },
+    "bread": {
+      "name": "Ogia",
+      "namePrep": "ogia",
+      "serving": "errazio 1: ogia"
+    },
+    "peanut-butter": {
+      "name": "Kakahuete-gurina",
+      "namePrep": "kakahuete-gurina",
+      "serving": "errazio 1: kakahuete-gurina"
+    },
+    "oatmeal": {
+      "name": "Olo-ahia",
+      "namePrep": "olo-ahia",
+      "serving": "errazio 1: olo-ahia"
+    },
+    "greek-yogurt": {
+      "name": "Greziar jogurta",
+      "namePrep": "greziar jogurta",
+      "serving": "errazio 1: greziar jogurta"
+    },
+    "yogurt": {
+      "name": "Jogurta",
+      "namePrep": "jogurta",
+      "serving": "errazio 1: jogurta"
+    },
+    "milk": {
+      "name": "Esnea",
+      "namePrep": "esnea",
+      "serving": "errazio 1: esnea"
+    },
+    "cheddar-cheese": {
+      "name": "Cheddar gazta",
+      "namePrep": "cheddar gazta",
+      "serving": "errazio 1: cheddar gazta"
+    },
+    "pizza": {
+      "name": "Pizza",
+      "namePrep": "pizza",
+      "serving": "errazio 1: pizza"
+    },
+    "burger": {
+      "name": "Hanburgesa",
+      "namePrep": "hanburgesa",
+      "serving": "errazio 1: hanburgesa"
+    },
+    "french-fries": {
+      "name": "Patata frijituak",
+      "namePrep": "patata frijituak",
+      "serving": "errazio 1: patata frijituak"
+    },
+    "sushi-roll": {
+      "name": "Sushi-biribilkia",
+      "namePrep": "sushi-biribilkia",
+      "serving": "errazio 1: sushi-biribilkia"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "taco",
+      "serving": "errazio 1: taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "burrito",
+      "serving": "errazio 1: burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Oilasko nuggetak",
+      "namePrep": "oilasko nuggetak",
+      "serving": "errazio 1: oilasko nuggetak"
+    },
+    "hot-dog": {
+      "name": "Hot doga",
+      "namePrep": "hot doga",
+      "serving": "errazio 1: hot doga"
+    },
+    "steak": {
+      "name": "Txuleta",
+      "namePrep": "txuleta",
+      "serving": "errazio 1: txuleta"
+    },
+    "bacon": {
+      "name": "Hirugiharra",
+      "namePrep": "hirugiharra",
+      "serving": "errazio 1: hirugiharra"
+    },
+    "tuna": {
+      "name": "Hegaluzea",
+      "namePrep": "hegaluzea",
+      "serving": "errazio 1: hegaluzea"
+    },
+    "shrimp": {
+      "name": "Ganbak",
+      "namePrep": "ganbak",
+      "serving": "errazio 1: ganbak"
+    },
+    "tofu": {
+      "name": "Tofua",
+      "namePrep": "tofua",
+      "serving": "errazio 1: tofua"
+    },
+    "lentils": {
+      "name": "Dilistak",
+      "namePrep": "dilistak",
+      "serving": "errazio 1: dilistak"
+    },
+    "black-beans": {
+      "name": "Babarrun beltzak",
+      "namePrep": "babarrun beltzak",
+      "serving": "errazio 1: babarrun beltzak"
+    },
+    "chickpeas": {
+      "name": "Garbantzuak",
+      "namePrep": "garbantzuak",
+      "serving": "errazio 1: garbantzuak"
+    },
+    "hummus": {
+      "name": "Hummusa",
+      "namePrep": "hummusa",
+      "serving": "errazio 1: hummusa"
+    },
+    "quinoa": {
+      "name": "Kinoa",
+      "namePrep": "kinoa",
+      "serving": "errazio 1: kinoa"
+    },
+    "tortilla": {
+      "name": "Tortilla",
+      "namePrep": "tortilla",
+      "serving": "errazio 1: tortilla"
+    },
+    "bagel": {
+      "name": "Bagel-a",
+      "namePrep": "bagel-a",
+      "serving": "errazio 1: bagel-a"
+    },
+    "croissant": {
+      "name": "Croissanta",
+      "namePrep": "croissanta",
+      "serving": "errazio 1: croissanta"
+    },
+    "pancake": {
+      "name": "Krepeak",
+      "namePrep": "krepeak",
+      "serving": "errazio 1: krepeak"
+    },
+    "waffle": {
+      "name": "Wafflea",
+      "namePrep": "wafflea",
+      "serving": "errazio 1: wafflea"
+    },
+    "cereal": {
+      "name": "Gosariko zerealak",
+      "namePrep": "gosariko zerealak",
+      "serving": "errazio 1: gosariko zerealak"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granola",
+      "serving": "errazio 1: granola"
+    },
+    "almonds": {
+      "name": "Almendrak",
+      "namePrep": "almendrak",
+      "serving": "errazio 1: almendrak"
+    },
+    "walnuts": {
+      "name": "Intxaurrak",
+      "namePrep": "intxaurrak",
+      "serving": "errazio 1: intxaurrak"
+    },
+    "cashews": {
+      "name": "Anakardoak",
+      "namePrep": "anakardoak",
+      "serving": "errazio 1: anakardoak"
+    },
+    "chocolate": {
+      "name": "Txokolatea",
+      "namePrep": "txokolatea",
+      "serving": "errazio 1: txokolatea"
+    },
+    "ice-cream": {
+      "name": "Izozkia",
+      "namePrep": "izozkia",
+      "serving": "errazio 1: izozkia"
+    },
+    "cookie": {
+      "name": "Txokolate txipekin gaileta",
+      "namePrep": "txokolate txipekin gaileta",
+      "serving": "errazio 1: txokolate txipekin gaileta"
+    },
+    "donut": {
+      "name": "Glaseatutako donut-a",
+      "namePrep": "glaseatutako donut-a",
+      "serving": "errazio 1: glaseatutako donut-a"
+    },
+    "muffin": {
+      "name": "Ahabi-maffina",
+      "namePrep": "ahabi-maffina",
+      "serving": "errazio 1: ahabi-maffina"
+    },
+    "cake": {
+      "name": "Tarta",
+      "namePrep": "tarta",
+      "serving": "errazio 1: tarta"
+    },
+    "brownie": {
+      "name": "Brownie-a",
+      "namePrep": "brownie-a",
+      "serving": "errazio 1: brownie-a"
+    },
+    "popcorn": {
+      "name": "Palomitak",
+      "namePrep": "palomitak",
+      "serving": "errazio 1: palomitak"
+    },
+    "potato-chips": {
+      "name": "Poltsako patata frijituak",
+      "namePrep": "poltsako patata frijituak",
+      "serving": "errazio 1: poltsako patata frijituak"
+    },
+    "pretzels": {
+      "name": "Pretzelak",
+      "namePrep": "pretzelak",
+      "serving": "errazio 1: pretzelak"
+    },
+    "smoothie": {
+      "name": "Fruta-smoothiea",
+      "namePrep": "fruta-smoothiea",
+      "serving": "errazio 1: fruta-smoothiea"
+    },
+    "orange-juice": {
+      "name": "Laranja-zukua",
+      "namePrep": "laranja-zukua",
+      "serving": "errazio 1: laranja-zukua"
+    },
+    "soda": {
+      "name": "Freskagarria",
+      "namePrep": "freskagarria",
+      "serving": "errazio 1: freskagarria"
+    },
+    "latte": {
+      "name": "Lattea",
+      "namePrep": "lattea",
+      "serving": "errazio 1: lattea"
+    },
+    "protein-shake": {
+      "name": "Proteina-irabiakia",
+      "namePrep": "proteina-irabiakia",
+      "serving": "errazio 1: proteina-irabiakia"
+    },
+    "spaghetti-bolognese": {
+      "name": "Espageti boloñesa",
+      "namePrep": "espageti boloñesa",
+      "serving": "errazio 1: espageti boloñesa"
+    },
+    "ramen": {
+      "name": "Ramena",
+      "namePrep": "ramena",
+      "serving": "errazio 1: ramena"
+    },
+    "pho": {
+      "name": "Pho-a",
+      "namePrep": "pho-a",
+      "serving": "errazio 1: pho-a"
+    },
+    "chicken-soup": {
+      "name": "Oilasko-zopa",
+      "namePrep": "oilasko-zopa",
+      "serving": "errazio 1: oilasko-zopa"
+    },
+    "caesar-salad": {
+      "name": "Caesar entsalada",
+      "namePrep": "caesar entsalada",
+      "serving": "errazio 1: caesar entsalada"
+    },
+    "green-salad": {
+      "name": "Entsalada berdea",
+      "namePrep": "entsalada berdea",
+      "serving": "errazio 1: entsalada berdea"
+    },
+    "broccoli": {
+      "name": "Brokolia",
+      "namePrep": "brokolia",
+      "serving": "errazio 1: brokolia"
+    },
+    "spinach": {
+      "name": "Espinakak",
+      "namePrep": "espinakak",
+      "serving": "errazio 1: espinakak"
+    },
+    "carrots": {
+      "name": "Azenarioak",
+      "namePrep": "azenarioak",
+      "serving": "errazio 1: azenarioak"
+    },
+    "corn": {
+      "name": "Artoa",
+      "namePrep": "artoa",
+      "serving": "errazio 1: artoa"
+    },
+    "tomato": {
+      "name": "Tomatea",
+      "namePrep": "tomatea",
+      "serving": "errazio 1: tomatea"
+    },
+    "cucumber": {
+      "name": "Pepinoa",
+      "namePrep": "pepinoa",
+      "serving": "errazio 1: pepinoa"
+    },
+    "cheesecake": {
+      "name": "Gazta-tarta",
+      "namePrep": "gazta-tarta",
+      "serving": "errazio 1: gazta-tarta"
+    },
+    "lasagna": {
+      "name": "Lasagna",
+      "namePrep": "lasagna",
+      "serving": "errazio 1: lasagna"
+    },
+    "grilled-cheese": {
+      "name": "Gazta urtuzko ogitartekoa",
+      "namePrep": "gazta urtuzko ogitartekoa",
+      "serving": "errazio 1: gazta urtuzko ogitartekoa"
+    },
+    "peanut-butter-jelly": {
+      "name": "Kakahuete-gurina eta marmeladadun ogitartekoa",
+      "namePrep": "kakahuete-gurina eta marmeladadun ogitartekoa",
+      "serving": "errazio 1: kakahuete-gurina eta marmeladadun ogitartekoa"
+    },
+    "omelette": {
+      "name": "Arrautzopila",
+      "namePrep": "arrautzopila",
+      "serving": "errazio 1: arrautzopila"
+    },
+    "fried-egg": {
+      "name": "Arrautza frijitua",
+      "namePrep": "arrautza frijitua",
+      "serving": "errazio 1: arrautza frijitua"
+    },
+    "boiled-egg": {
+      "name": "Arrautza egosia",
+      "namePrep": "arrautza egosia",
+      "serving": "errazio 1: arrautza egosia"
+    },
+    "toast": {
+      "name": "Tosta",
+      "namePrep": "tosta",
+      "serving": "errazio 1: tosta"
+    },
+    "avocado-toast": {
+      "name": "Ahuakate-tosta",
+      "namePrep": "ahuakate-tosta",
+      "serving": "errazio 1: ahuakate-tosta"
+    },
+    "chicken-salad": {
+      "name": "Oilasko-entsalada",
+      "namePrep": "oilasko-entsalada",
+      "serving": "errazio 1: oilasko-entsalada"
+    },
+    "tuna-salad": {
+      "name": "Hegaluze-entsalada",
+      "namePrep": "hegaluze-entsalada",
+      "serving": "errazio 1: hegaluze-entsalada"
+    },
+    "egg-salad": {
+      "name": "Arrautza-entsalada",
+      "namePrep": "arrautza-entsalada",
+      "serving": "errazio 1: arrautza-entsalada"
+    },
+    "cottage-cheese": {
+      "name": "Gaztanbera",
+      "namePrep": "gaztanbera",
+      "serving": "errazio 1: gaztanbera"
+    },
+    "cream-cheese": {
+      "name": "Krema-gazta",
+      "namePrep": "krema-gazta",
+      "serving": "errazio 1: krema-gazta"
+    },
+    "butter": {
+      "name": "Gurina",
+      "namePrep": "gurina",
+      "serving": "errazio 1: gurina"
+    },
+    "olive-oil": {
+      "name": "Oliba-olioa",
+      "namePrep": "oliba-olioa",
+      "serving": "errazio 1: oliba-olioa"
+    },
+    "mayonnaise": {
+      "name": "Maionesa",
+      "namePrep": "maionesa",
+      "serving": "errazio 1: maionesa"
+    },
+    "ketchup": {
+      "name": "Ketchup-a",
+      "namePrep": "ketchup-a",
+      "serving": "errazio 1: ketchup-a"
+    },
+    "honey": {
+      "name": "Eztia",
+      "namePrep": "eztia",
+      "serving": "errazio 1: eztia"
+    },
+    "jam": {
+      "name": "Marmelada",
+      "namePrep": "marmelada",
+      "serving": "errazio 1: marmelada"
+    },
+    "protein-bar": {
+      "name": "Proteina-barra",
+      "namePrep": "proteina-barra",
+      "serving": "errazio 1: proteina-barra"
+    },
+    "energy-drink": {
+      "name": "Edari energetikoa",
+      "namePrep": "edari energetikoa",
+      "serving": "errazio 1: edari energetikoa"
+    },
+    "matcha-latte": {
+      "name": "Matcha lattea",
+      "namePrep": "matcha lattea",
+      "serving": "errazio 1: matcha lattea"
+    },
+    "trail-mix": {
+      "name": "Fruitu lehorren nahasketa",
+      "namePrep": "fruitu lehorren nahasketa",
+      "serving": "errazio 1: fruitu lehorren nahasketa"
+    },
+    "blueberries": {
+      "name": "Ahabiak",
+      "namePrep": "ahabiak",
+      "serving": "errazio 1: ahabiak"
+    },
+    "strawberries": {
+      "name": "Marrubiak",
+      "namePrep": "marrubiak",
+      "serving": "errazio 1: marrubiak"
+    },
+    "grapes": {
+      "name": "Mahatsak",
+      "namePrep": "mahatsak",
+      "serving": "errazio 1: mahatsak"
+    },
+    "orange": {
+      "name": "Laranja",
+      "namePrep": "laranja",
+      "serving": "errazio 1: laranja"
+    },
+    "pear": {
+      "name": "Udarea",
+      "namePrep": "udarea",
+      "serving": "errazio 1: udarea"
+    },
+    "peach": {
+      "name": "Mertxika",
+      "namePrep": "mertxika",
+      "serving": "errazio 1: mertxika"
+    },
+    "watermelon": {
+      "name": "Sandia",
+      "namePrep": "sandia",
+      "serving": "errazio 1: sandia"
+    },
+    "pineapple": {
+      "name": "Anana",
+      "namePrep": "anana",
+      "serving": "errazio 1: anana"
+    },
+    "mango": {
+      "name": "Mangoa",
+      "namePrep": "mangoa",
+      "serving": "errazio 1: mangoa"
+    },
+    "kiwi": {
+      "name": "Kiwia",
+      "namePrep": "kiwia",
+      "serving": "errazio 1: kiwia"
+    },
+    "raspberries": {
+      "name": "Mugurdiak",
+      "namePrep": "mugurdiak",
+      "serving": "errazio 1: mugurdiak"
+    },
+    "blackberries": {
+      "name": "Masustak",
+      "namePrep": "masustak",
+      "serving": "errazio 1: masustak"
+    },
+    "cherries": {
+      "name": "Gereziak",
+      "namePrep": "gereziak",
+      "serving": "errazio 1: gereziak"
+    },
+    "grapefruit": {
+      "name": "Pomeloa",
+      "namePrep": "pomeloa",
+      "serving": "errazio 1: pomeloa"
+    },
+    "lettuce": {
+      "name": "Letxuga",
+      "namePrep": "letxuga",
+      "serving": "errazio 1: letxuga"
+    },
+    "cabbage": {
+      "name": "Aza",
+      "namePrep": "aza",
+      "serving": "errazio 1: aza"
+    },
+    "cauliflower": {
+      "name": "Azalorea",
+      "namePrep": "azalorea",
+      "serving": "errazio 1: azalorea"
+    },
+    "asparagus": {
+      "name": "Zainzuriak",
+      "namePrep": "zainzuriak",
+      "serving": "errazio 1: zainzuriak"
+    },
+    "zucchini": {
+      "name": "Kuiatxoa",
+      "namePrep": "kuiatxoa",
+      "serving": "errazio 1: kuiatxoa"
+    },
+    "eggplant": {
+      "name": "Alberjinia",
+      "namePrep": "alberjinia",
+      "serving": "errazio 1: alberjinia"
+    },
+    "bell-pepper": {
+      "name": "Piperra",
+      "namePrep": "piperra",
+      "serving": "errazio 1: piperra"
+    },
+    "onion": {
+      "name": "Tipula",
+      "namePrep": "tipula",
+      "serving": "errazio 1: tipula"
+    },
+    "mushrooms": {
+      "name": "Perretxikoak",
+      "namePrep": "perretxikoak",
+      "serving": "errazio 1: perretxikoak"
+    },
+    "green-beans": {
+      "name": "Babarrun berdeak",
+      "namePrep": "babarrun berdeak",
+      "serving": "errazio 1: babarrun berdeak"
+    },
+    "kale": {
+      "name": "Kalea",
+      "namePrep": "kalea",
+      "serving": "errazio 1: kalea"
+    },
+    "beets": {
+      "name": "Erremolatxa",
+      "namePrep": "erremolatxa",
+      "serving": "errazio 1: erremolatxa"
+    },
+    "turkey-breast": {
+      "name": "Indioilar-bularra",
+      "namePrep": "indioilar-bularra",
+      "serving": "errazio 1: indioilar-bularra"
+    },
+    "chicken-thigh": {
+      "name": "Oilasko-izterra",
+      "namePrep": "oilasko-izterra",
+      "serving": "errazio 1: oilasko-izterra"
+    },
+    "pork-chop": {
+      "name": "Txerri-txuleta",
+      "namePrep": "txerri-txuleta",
+      "serving": "errazio 1: txerri-txuleta"
+    },
+    "ground-beef": {
+      "name": "Behi-haragi xehatua",
+      "namePrep": "behi-haragi xehatua",
+      "serving": "errazio 1: behi-haragi xehatua"
+    },
+    "meatballs": {
+      "name": "Albondigak",
+      "namePrep": "albondigak",
+      "serving": "errazio 1: albondigak"
+    },
+    "sausage": {
+      "name": "Saltxitxa",
+      "namePrep": "saltxitxa",
+      "serving": "errazio 1: saltxitxa"
+    },
+    "cod": {
+      "name": "Bakailaoa",
+      "namePrep": "bakailaoa",
+      "serving": "errazio 1: bakailaoa"
+    },
+    "tilapia": {
+      "name": "Tilapia",
+      "namePrep": "tilapia",
+      "serving": "errazio 1: tilapia"
+    },
+    "sardines": {
+      "name": "Sardinak",
+      "namePrep": "sardinak",
+      "serving": "errazio 1: sardinak"
+    },
+    "crab": {
+      "name": "Karramarroa",
+      "namePrep": "karramarroa",
+      "serving": "errazio 1: karramarroa"
+    },
+    "scallops": {
+      "name": "Bieirak",
+      "namePrep": "bieirak",
+      "serving": "errazio 1: bieirak"
+    },
+    "smoked-salmon": {
+      "name": "Izokin ketua",
+      "namePrep": "izokin ketua",
+      "serving": "errazio 1: izokin ketua"
+    },
+    "skim-milk": {
+      "name": "Esne gaingabetua",
+      "namePrep": "esne gaingabetua",
+      "serving": "errazio 1: esne gaingabetua"
+    },
+    "soy-milk": {
+      "name": "Soja-esnea",
+      "namePrep": "soja-esnea",
+      "serving": "errazio 1: soja-esnea"
+    },
+    "almond-milk": {
+      "name": "Almendra-esnea",
+      "namePrep": "almendra-esnea",
+      "serving": "errazio 1: almendra-esnea"
+    },
+    "oat-milk": {
+      "name": "Olo-esnea",
+      "namePrep": "olo-esnea",
+      "serving": "errazio 1: olo-esnea"
+    },
+    "kefir": {
+      "name": "Kefirra",
+      "namePrep": "kefirra",
+      "serving": "errazio 1: kefirra"
+    },
+    "sour-cream": {
+      "name": "Esnegain garratza",
+      "namePrep": "esnegain garratza",
+      "serving": "errazio 1: esnegain garratza"
+    },
+    "feta-cheese": {
+      "name": "Feta",
+      "namePrep": "feta",
+      "serving": "errazio 1: feta"
+    },
+    "mozzarella": {
+      "name": "Mozzarella",
+      "namePrep": "mozzarella",
+      "serving": "errazio 1: mozzarella"
+    },
+    "parmesan": {
+      "name": "Parmesanoa",
+      "namePrep": "parmesanoa",
+      "serving": "errazio 1: parmesanoa"
+    },
+    "couscous": {
+      "name": "Kuskusa",
+      "namePrep": "kuskusa",
+      "serving": "errazio 1: kuskusa"
+    },
+    "barley": {
+      "name": "Garagarra",
+      "namePrep": "garagarra",
+      "serving": "errazio 1: garagarra"
+    },
+    "buckwheat": {
+      "name": "Sarrazenoa",
+      "namePrep": "sarrazenoa",
+      "serving": "errazio 1: sarrazenoa"
+    },
+    "bulgur": {
+      "name": "Bulgurra",
+      "namePrep": "bulgurra",
+      "serving": "errazio 1: bulgurra"
+    },
+    "naan": {
+      "name": "Naan ogia",
+      "namePrep": "naan ogia",
+      "serving": "errazio 1: naan ogia"
+    },
+    "pita-bread": {
+      "name": "Pita ogia",
+      "namePrep": "pita ogia",
+      "serving": "errazio 1: pita ogia"
+    },
+    "english-muffin": {
+      "name": "Muffin ingelesa",
+      "namePrep": "muffin ingelesa",
+      "serving": "errazio 1: muffin ingelesa"
+    },
+    "rice-cake": {
+      "name": "Arroz-opila",
+      "namePrep": "arroz-opila",
+      "serving": "errazio 1: arroz-opila"
+    },
+    "crackers": {
+      "name": "Crackerrak",
+      "namePrep": "crackerrak",
+      "serving": "errazio 1: crackerrak"
+    },
+    "mashed-potatoes": {
+      "name": "Patata-purea",
+      "namePrep": "patata-purea",
+      "serving": "errazio 1: patata-purea"
+    },
+    "scrambled-eggs": {
+      "name": "Arrautza nahasiak",
+      "namePrep": "arrautza nahasiak",
+      "serving": "errazio 1: arrautza nahasiak"
+    },
+    "french-toast": {
+      "name": "Torrija",
+      "namePrep": "torrija",
+      "serving": "errazio 1: torrija"
+    },
+    "breakfast-burrito": {
+      "name": "Gosariko burritoa",
+      "namePrep": "gosariko burritoa",
+      "serving": "errazio 1: gosariko burritoa"
+    },
+    "hash-browns": {
+      "name": "Patata birrindu frijituak",
+      "namePrep": "patata birrindu frijituak",
+      "serving": "errazio 1: patata birrindu frijituak"
+    },
+    "chia-pudding": {
+      "name": "Chia-puddinga",
+      "namePrep": "chia-puddinga",
+      "serving": "errazio 1: chia-puddinga"
+    },
+    "overnight-oats": {
+      "name": "Gaueko oloa",
+      "namePrep": "gaueko oloa",
+      "serving": "errazio 1: gaueko oloa"
+    },
+    "breakfast-sandwich": {
+      "name": "Gosariko ogitartekoa",
+      "namePrep": "gosariko ogitartekoa",
+      "serving": "errazio 1: gosariko ogitartekoa"
+    },
+    "edamame": {
+      "name": "Edamamea",
+      "namePrep": "edamamea",
+      "serving": "errazio 1: edamamea"
+    },
+    "kidney-beans": {
+      "name": "Babarrun gorriak",
+      "namePrep": "babarrun gorriak",
+      "serving": "errazio 1: babarrun gorriak"
+    },
+    "pinto-beans": {
+      "name": "Pinto babarrunak",
+      "namePrep": "pinto babarrunak",
+      "serving": "errazio 1: pinto babarrunak"
+    },
+    "split-peas": {
+      "name": "Ilar zatituak",
+      "namePrep": "ilar zatituak",
+      "serving": "errazio 1: ilar zatituak"
+    },
+    "baked-beans": {
+      "name": "Babarrun labean",
+      "namePrep": "babarrun labean",
+      "serving": "errazio 1: babarrun labean"
+    },
+    "fried-rice": {
+      "name": "Arroz frijitua",
+      "namePrep": "arroz frijitua",
+      "serving": "errazio 1: arroz frijitua"
+    },
+    "pad-thai": {
+      "name": "Pad Thai-a",
+      "namePrep": "pad Thai-a",
+      "serving": "errazio 1: pad Thai-a"
+    },
+    "chicken-curry": {
+      "name": "Oilasko-kurrya",
+      "namePrep": "oilasko-kurrya",
+      "serving": "errazio 1: oilasko-kurrya"
+    },
+    "chicken-tikka-masala": {
+      "name": "Oilasko tikka masala",
+      "namePrep": "oilasko tikka masala",
+      "serving": "errazio 1: oilasko tikka masala"
+    },
+    "beef-chili": {
+      "name": "Behi-chilia",
+      "namePrep": "behi-chilia",
+      "serving": "errazio 1: behi-chilia"
+    },
+    "falafel": {
+      "name": "Falafela",
+      "namePrep": "falafela",
+      "serving": "errazio 1: falafela"
+    },
+    "dumplings": {
+      "name": "Dumplingak",
+      "namePrep": "dumplingak",
+      "serving": "errazio 1: dumplingak"
+    },
+    "spring-rolls": {
+      "name": "Udaberriko erroiluak",
+      "namePrep": "udaberriko erroiluak",
+      "serving": "errazio 1: udaberriko erroiluak"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "quesadilla",
+      "serving": "errazio 1: quesadilla"
+    },
+    "nachos": {
+      "name": "Nachoak",
+      "namePrep": "nachoak",
+      "serving": "errazio 1: nachoak"
+    },
+    "mac-and-cheese": {
+      "name": "Makarroiak gaztarekin",
+      "namePrep": "makarroiak gaztarekin",
+      "serving": "errazio 1: makarroiak gaztarekin"
+    },
+    "chicken-wings": {
+      "name": "Oilasko-hegoak",
+      "namePrep": "oilasko-hegoak",
+      "serving": "errazio 1: oilasko-hegoak"
+    },
+    "fish-and-chips": {
+      "name": "Arraina eta patata frijituak",
+      "namePrep": "arraina eta patata frijituak",
+      "serving": "errazio 1: arraina eta patata frijituak"
+    },
+    "risotto": {
+      "name": "Risottoa",
+      "namePrep": "risottoa",
+      "serving": "errazio 1: risottoa"
+    },
+    "tortilla-chips": {
+      "name": "Tortilla txipak",
+      "namePrep": "tortilla txipak",
+      "serving": "errazio 1: tortilla txipak"
+    },
+    "granola-bar": {
+      "name": "Granola-barra",
+      "namePrep": "granola-barra",
+      "serving": "errazio 1: granola-barra"
+    },
+    "chocolate-bar": {
+      "name": "Txokolate-barra",
+      "namePrep": "txokolate-barra",
+      "serving": "errazio 1: txokolate-barra"
+    },
+    "candy": {
+      "name": "Gozokiak",
+      "namePrep": "gozokiak",
+      "serving": "errazio 1: gozokiak"
+    },
+    "cinnamon-roll": {
+      "name": "Kanela-biribilkia",
+      "namePrep": "kanela-biribilkia",
+      "serving": "errazio 1: kanela-biribilkia"
+    },
+    "marshmallows": {
+      "name": "Marshmallowak",
+      "namePrep": "marshmallowak",
+      "serving": "errazio 1: marshmallowak"
+    },
+    "fruit-snacks": {
+      "name": "Fruta-snackak",
+      "namePrep": "fruta-snackak",
+      "serving": "errazio 1: fruta-snackak"
+    },
+    "black-coffee": {
+      "name": "Kafe beltza",
+      "namePrep": "kafe beltza",
+      "serving": "errazio 1: kafe beltza"
+    },
+    "cappuccino": {
+      "name": "Cappuccinoa",
+      "namePrep": "cappuccinoa",
+      "serving": "errazio 1: cappuccinoa"
+    },
+    "milk-tea": {
+      "name": "Esne-tea",
+      "namePrep": "esne-tea",
+      "serving": "errazio 1: esne-tea"
+    },
+    "bubble-tea": {
+      "name": "Bubble tea",
+      "namePrep": "bubble tea",
+      "serving": "errazio 1: bubble tea"
+    },
+    "lemonade": {
+      "name": "Limonada",
+      "namePrep": "limonada",
+      "serving": "errazio 1: limonada"
+    },
+    "iced-tea": {
+      "name": "Te izoztua",
+      "namePrep": "te izoztua",
+      "serving": "errazio 1: te izoztua"
+    },
+    "apple-juice": {
+      "name": "Sagar-zukua",
+      "namePrep": "sagar-zukua",
+      "serving": "errazio 1: sagar-zukua"
+    },
+    "coconut-water": {
+      "name": "Koko-ura",
+      "namePrep": "koko-ura",
+      "serving": "errazio 1: koko-ura"
+    },
+    "sports-drink": {
+      "name": "Kirol-edaria",
+      "namePrep": "kirol-edaria",
+      "serving": "errazio 1: kirol-edaria"
+    },
+    "ranch-dressing": {
+      "name": "Ranch saltsa",
+      "namePrep": "ranch saltsa",
+      "serving": "errazio 1: ranch saltsa"
+    },
+    "bbq-sauce": {
+      "name": "BBQ saltsa",
+      "namePrep": "bBQ saltsa",
+      "serving": "errazio 1: bBQ saltsa"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "salsa",
+      "serving": "errazio 1: salsa"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "guacamole",
+      "serving": "errazio 1: guacamole"
+    }
+  },
+  "utility": {
+    "pricing": "Prezioak",
+    "support": "Laguntza",
+    "privacy": "Pribatutasuna",
+    "terms": "Baldintzak",
+    "press": "Prentsa-materialak",
+    "deleteExtra": "Kontua eta lotutako datuak ezabatzeko eskaera laguntza-zerbitzura bidal dezakezu."
+  },
+  "store": {
+    "appStoreSmall": "App Store",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Google Play",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Funtzioak",
+    "useCase": "Erabilera-kasuak",
+    "openPage": "Informazio gehiago →",
+    "openArrow": "Informazio gehiago →",
+    "practicalWorkflow": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+    "workflowTitle": "Argazkia, estimazioa, egunkaria",
+    "goodToKnow": "Informazio gehiago",
+    "defaultNote": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+    "relatedPages": "Erabilera-kasuak",
+    "quickTakeaway": "Informazio gehiago",
+    "defaultTakeaway": "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+    "information": "Nutrizioa",
+    "bestFor": "Egokiena"
+  },
+  "internalCta": {
+    "title": "Bihurtu hurrengo otordua nutrizio-sarrera",
+    "text": "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri.",
+    "button": "Deskargatu"
+  },
+  "download": {
+    "availableTitle": "iPhone eta Android-erako eskuragarri",
+    "availableText": "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+  },
+  "faq": {
+    "items": [
+      [
+        "Calorie Counter AI doakoa al da?",
+        "Oinarrizko funtzioak doan probatu ditzakezu; analisi aurreratu batzuk, estatistikak eta muga gehigarriak premium planaren parte izan daitezke."
+      ],
+      [
+        "Kaloriak argazki batetik zenbatu al ditzaket?",
+        "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+      ],
+      [
+        "Barra-kodeen eskanerra al du?",
+        "Eskaneatu ontziratutako elikagaien barra-kodea eta sartu kaloriak, makroak eta errazioa azkarrago."
+      ],
+      [
+        "Aplikazioak makroak jarraitzen al ditu?",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      [
+        "Etxeko janariarekin funtzionatzen al du?",
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian."
+      ],
+      [
+        "Hau aholku medikoa al da?",
+        "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Oinarrizko funtzioak doan probatu ditzakezu; analisi aurreratu batzuk, estatistikak eta muga gehigarriak premium planaren parte izan daitezke.",
+      "Oinarrizko funtzioak doan probatu ditzakezu; analisi aurreratu batzuk, estatistikak eta muga gehigarriak premium planaren parte izan daitezke."
+    ],
+    "support": [
+      "Kontuarekin, harpidetzarekin, datuak ezabatzearekin edo aplikazioko arazoekin laguntza behar baduzu, jarri harremanetan laguntzarekin.",
+      "Kontuarekin, harpidetzarekin, datuak ezabatzearekin edo aplikazioko arazoekin laguntza behar baduzu, jarri harremanetan laguntzarekin."
+    ],
+    "contact": [
+      "Laguntzaren posta elektronikoa: support@caloriecounterai.app",
+      "Lankidetzak, prentsa-eskaerak eta iritziak bidaltzeko, erabili gai argia."
+    ],
+    "privacy": [
+      "Aplikazioa funtzionatzeko, analitikarako, laguntzarako eta nutrizio-estimazioak hobetzeko behar diren datuak bakarrik biltzen ditugu.",
+      "Aplikazioa funtzionatzeko, analitikarako, laguntzarako eta nutrizio-estimazioak hobetzeko behar diren datuak bakarrik biltzen ditugu."
+    ],
+    "terms": [
+      "Aplikazioa erabiltzean onartzen duzu nutrizio-estimazioak gutxi gorabeherakoak direla eta zure osasun- eta nutrizio-erabakien ardura zurea dela.",
+      "Aplikazioa erabiltzean onartzen duzu nutrizio-estimazioak gutxi gorabeherakoak direla eta zure osasun- eta nutrizio-erabakien ardura zurea dela."
+    ],
+    "disclaimer": [
+      "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+    ],
+    "delete": [
+      "Kontua eta lotutako datuak ezabatzeko eskaera laguntza-zerbitzura bidal dezakezu.",
+      "Kontua eta lotutako datuak ezabatzeko eskaera laguntza-zerbitzura bidal dezakezu."
+    ]
+  },
+  "press": {
+    "iconAlt": "Aplikazioaren ikonoa",
+    "iconTitle": "Aplikazioaren ikonoa",
+    "downloadIcon": "Deskargatu",
+    "screenshotAlt": "Aplikazioaren pantaila-argazkia",
+    "screenshotTitle": "Pantaila-argazkia",
+    "downloadScreenshot": "Deskargatu",
+    "shortDescriptionTitle": "Argazki bidezko AI kaloria-kontagailua",
+    "shortDescriptionText": "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+  },
+  "notFound": {
+    "title": "Orria ez da aurkitu",
+    "text": "Bilatzen ari zaren orria oraindik ez dago.",
+    "home": "Hasiera"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Funtzioak",
+      "h1": "Funtzioak",
+      "description": "Funtzioak: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Funtzioak",
+      "summary": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+      "bullets": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ]
+      ],
+      "workflowTitle": "Funtzioak",
+      "workflow": [
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      "note": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "bestFor": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "workflowKicker": "Funtzioak",
+      "noteTitle": "Informazio gehiago"
+    },
+    "/food-recognition-ai/": {
+      "title": "Argazki bidezko AI kaloria-kontagailua",
+      "h1": "Argazki bidezko AI kaloria-kontagailua",
+      "description": "Argazki bidezko AI kaloria-kontagailua: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Argazki bidezko AI kaloria-kontagailua",
+      "summary": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+      "bullets": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ]
+      ],
+      "workflowTitle": "Argazki bidezko AI kaloria-kontagailua",
+      "workflow": [
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      "note": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "bestFor": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "workflowKicker": "Argazki bidezko AI kaloria-kontagailua",
+      "noteTitle": "Informazio gehiago"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Barra-kodeen eskanerra",
+      "h1": "Barra-kodeen eskanerra",
+      "description": "Barra-kodeen eskanerra: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Barra-kodeen eskanerra",
+      "summary": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+      "bullets": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ]
+      ],
+      "workflowTitle": "Barra-kodeen eskanerra",
+      "workflow": [
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      "note": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "bestFor": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "workflowKicker": "Barra-kodeen eskanerra",
+      "noteTitle": "Informazio gehiago"
+    },
+    "/macro-tracker/": {
+      "title": "Makroen jarraipena",
+      "h1": "Makroen jarraipena",
+      "description": "Makroen jarraipena: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Makroen jarraipena",
+      "summary": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+      "bullets": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ]
+      ],
+      "workflowTitle": "Makroen jarraipena",
+      "workflow": [
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      "note": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "bestFor": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "workflowKicker": "Makroen jarraipena",
+      "noteTitle": "Informazio gehiago"
+    },
+    "/food-diary-app/": {
+      "title": "Elikadura-egunkarirako aplikazioa",
+      "h1": "Elikadura-egunkarirako aplikazioa",
+      "description": "Elikadura-egunkarirako aplikazioa: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Elikadura-egunkarirako aplikazioa",
+      "summary": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+      "bullets": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ]
+      ],
+      "workflowTitle": "Elikadura-egunkarirako aplikazioa",
+      "workflow": [
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      "note": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "bestFor": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "workflowKicker": "Elikadura-egunkarirako aplikazioa",
+      "noteTitle": "Informazio gehiago"
+    },
+    "/nutrition-tracker/": {
+      "title": "Nutrizioaren jarraipena",
+      "h1": "Nutrizioaren jarraipena",
+      "description": "Nutrizioaren jarraipena: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Nutrizioaren jarraipena",
+      "summary": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+      "bullets": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ]
+      ],
+      "workflowTitle": "Nutrizioaren jarraipena",
+      "workflow": [
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      "note": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "bestFor": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "workflowKicker": "Nutrizioaren jarraipena",
+      "noteTitle": "Informazio gehiago"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Otorduaren pisuaren estimatzailea",
+      "h1": "Otorduaren pisuaren estimatzailea",
+      "description": "Otorduaren pisuaren estimatzailea: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Otorduaren pisuaren estimatzailea",
+      "summary": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+      "bullets": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ]
+      ],
+      "workflowTitle": "Otorduaren pisuaren estimatzailea",
+      "workflow": [
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      "note": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "bestFor": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "workflowKicker": "Otorduaren pisuaren estimatzailea",
+      "noteTitle": "Informazio gehiago"
+    },
+    "/progress-statistics/": {
+      "title": "Nutrizio-estatistikak",
+      "h1": "Nutrizio-estatistikak",
+      "description": "Nutrizio-estatistikak: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Nutrizio-estatistikak",
+      "summary": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+      "bullets": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ]
+      ],
+      "workflowTitle": "Nutrizio-estatistikak",
+      "workflow": [
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      "note": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "bestFor": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "workflowKicker": "Nutrizio-estatistikak",
+      "noteTitle": "Informazio gehiago"
+    },
+    "/meal-reminders/": {
+      "title": "Otorduen oroigarriak",
+      "h1": "Otorduen oroigarriak",
+      "description": "Otorduen oroigarriak: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Otorduen oroigarriak",
+      "summary": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+      "bullets": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ]
+      ],
+      "workflowTitle": "Otorduen oroigarriak",
+      "workflow": [
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      "note": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "bestFor": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "workflowKicker": "Otorduen oroigarriak",
+      "noteTitle": "Informazio gehiago"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Google Health Connect",
+      "description": "Google Health Connect: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Google Health Connect",
+      "summary": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+      "bullets": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ]
+      ],
+      "workflowTitle": "Google Health Connect",
+      "workflow": [
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      "note": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "bestFor": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "workflowKicker": "Google Health Connect",
+      "noteTitle": "Informazio gehiago"
+    },
+    "/data-export/": {
+      "title": "Datuen esportazioa",
+      "h1": "Datuen esportazioa",
+      "description": "Datuen esportazioa: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Datuen esportazioa",
+      "summary": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+      "bullets": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ]
+      ],
+      "workflowTitle": "Datuen esportazioa",
+      "workflow": [
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      "note": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "bestFor": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "workflowKicker": "Datuen esportazioa",
+      "noteTitle": "Informazio gehiago"
+    },
+    "/use-cases/": {
+      "title": "Erabilera-kasuak",
+      "h1": "Erabilera-kasuak",
+      "description": "Erabilera-kasuak: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Erabilera-kasuak"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Pisua galtzeko kaloria-kontagailua",
+      "h1": "Pisua galtzeko kaloria-kontagailua",
+      "description": "Pisua galtzeko kaloria-kontagailua: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Pisua galtzeko kaloria-kontagailua",
+      "summary": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+      "bullets": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ]
+      ],
+      "workflowTitle": "Pisua galtzeko kaloria-kontagailua",
+      "workflow": [
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      "note": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "bestFor": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "workflowKicker": "Pisua galtzeko kaloria-kontagailua",
+      "noteTitle": "Informazio gehiago"
+    },
+    "/calorie-deficit-app/": {
+      "title": "Kaloria-defiziterako aplikazioa",
+      "h1": "Kaloria-defiziterako aplikazioa",
+      "description": "Kaloria-defiziterako aplikazioa: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Kaloria-defiziterako aplikazioa",
+      "summary": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+      "bullets": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ]
+      ],
+      "workflowTitle": "Kaloria-defiziterako aplikazioa",
+      "workflow": [
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      "note": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "bestFor": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "workflowKicker": "Kaloria-defiziterako aplikazioa",
+      "noteTitle": "Informazio gehiago"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Muskulua irabazteko kaloria-jarraipena",
+      "h1": "Muskulua irabazteko kaloria-jarraipena",
+      "description": "Muskulua irabazteko kaloria-jarraipena: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Muskulua irabazteko kaloria-jarraipena",
+      "summary": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+      "bullets": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ]
+      ],
+      "workflowTitle": "Muskulua irabazteko kaloria-jarraipena",
+      "workflow": [
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      "note": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "bestFor": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "workflowKicker": "Muskulua irabazteko kaloria-jarraipena",
+      "noteTitle": "Informazio gehiago"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Pisua mantentzeko jarraipena",
+      "h1": "Pisua mantentzeko jarraipena",
+      "description": "Pisua mantentzeko jarraipena: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Pisua mantentzeko jarraipena",
+      "summary": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+      "bullets": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ]
+      ],
+      "workflowTitle": "Pisua mantentzeko jarraipena",
+      "workflow": [
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      "note": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "bestFor": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "workflowKicker": "Pisua mantentzeko jarraipena",
+      "noteTitle": "Informazio gehiago"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Etxeko janarirako kaloria-kontagailua",
+      "h1": "Etxeko janarirako kaloria-kontagailua",
+      "description": "Etxeko janarirako kaloria-kontagailua: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Etxeko janarirako kaloria-kontagailua",
+      "summary": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+      "bullets": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ]
+      ],
+      "workflowTitle": "Etxeko janarirako kaloria-kontagailua",
+      "workflow": [
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      "note": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "bestFor": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "workflowKicker": "Etxeko janarirako kaloria-kontagailua",
+      "noteTitle": "Informazio gehiago"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Jatetxeko janariaren kaloria-jarraipena",
+      "h1": "Jatetxeko janariaren kaloria-jarraipena",
+      "description": "Jatetxeko janariaren kaloria-jarraipena: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Jatetxeko janariaren kaloria-jarraipena",
+      "summary": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+      "bullets": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ]
+      ],
+      "workflowTitle": "Jatetxeko janariaren kaloria-jarraipena",
+      "workflow": [
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      "note": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "bestFor": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "workflowKicker": "Jatetxeko janariaren kaloria-jarraipena",
+      "noteTitle": "Informazio gehiago"
+    },
+    "/meal-tracker/": {
+      "title": "Otorduen jarraipena",
+      "h1": "Otorduen jarraipena",
+      "description": "Otorduen jarraipena: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Otorduen jarraipena",
+      "summary": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+      "bullets": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ]
+      ],
+      "workflowTitle": "Otorduen jarraipena",
+      "workflow": [
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      "note": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "bestFor": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "workflowKicker": "Otorduen jarraipena",
+      "noteTitle": "Informazio gehiago"
+    },
+    "/photo-food-journal/": {
+      "title": "Argazkidun elikadura-egunkaria",
+      "h1": "Argazkidun elikadura-egunkaria",
+      "description": "Argazkidun elikadura-egunkaria: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Argazkidun elikadura-egunkaria",
+      "summary": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+      "bullets": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ]
+      ],
+      "workflowTitle": "Argazkidun elikadura-egunkaria",
+      "workflow": [
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      "note": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "bestFor": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "workflowKicker": "Argazkidun elikadura-egunkaria",
+      "noteTitle": "Informazio gehiago"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Elikadura osasuntsuagoaren jarraipena",
+      "h1": "Elikadura osasuntsuagoaren jarraipena",
+      "description": "Elikadura osasuntsuagoaren jarraipena: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Elikadura osasuntsuagoaren jarraipena",
+      "summary": "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+      "bullets": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ]
+      ],
+      "workflowTitle": "Elikadura osasuntsuagoaren jarraipena",
+      "workflow": [
+        "Ez duzu osagai bakoitza eskuz bilatu beharrik. Atera janariari argazkia, egiaztatu AI estimazioa eta gorde elikadura-egunkarian.",
+        "Jarraitu proteinak, gantzak eta karbohidratoak kaloriekin batera, otorduz otordu zer aldatzen den argiago ikusteko."
+      ],
+      "note": "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen.",
+      "bestFor": [
+        "Argazki bidezko kaloria-kontagailua",
+        "Barra-kodeen eskanerra",
+        "Makroak",
+        "Elikadura-egunkaria"
+      ],
+      "workflowKicker": "Elikadura osasuntsuagoaren jarraipena",
+      "noteTitle": "Informazio gehiago"
+    },
+    "/blog/": {
+      "title": "Kaloriak zenbatzeko eta AI bidez janaria erregistratzeko gidak",
+      "h1": "Kaloriak zenbatzeko eta AI bidez janaria erregistratzeko gidak",
+      "description": "Kaloriak zenbatzeko eta AI bidez janaria erregistratzeko gidak: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Kaloriak zenbatzeko eta AI bidez janaria erregistratzeko gidak"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Nola zenbatu kaloriak argazki batetik",
+      "h1": "Nola zenbatu kaloriak argazki batetik",
+      "description": "Nola zenbatu kaloriak argazki batetik: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "category": "Nola zenbatu kaloriak argazki batetik",
+      "readTime": "Nola zenbatu kaloriak argazki batetik",
+      "intro": "Nola zenbatu kaloriak argazki batetik",
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ],
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ]
+      ],
+      "takeaway": "Nola zenbatu kaloriak argazki batetik"
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Zein zehatzak dira AI kaloria-kontagailuak?",
+      "h1": "Zein zehatzak dira AI kaloria-kontagailuak?",
+      "description": "Zein zehatzak dira AI kaloria-kontagailuak?: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "category": "Zein zehatzak dira AI kaloria-kontagailuak?",
+      "readTime": "Zein zehatzak dira AI kaloria-kontagailuak?",
+      "intro": "Zein zehatzak dira AI kaloria-kontagailuak?",
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ],
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ]
+      ],
+      "takeaway": "Zein zehatzak dira AI kaloria-kontagailuak?"
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "AI bidezko janari-erregistroa eta eskuzko erregistroa",
+      "h1": "AI bidezko janari-erregistroa eta eskuzko erregistroa",
+      "description": "AI bidezko janari-erregistroa eta eskuzko erregistroa: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "category": "AI bidezko janari-erregistroa eta eskuzko erregistroa",
+      "readTime": "AI bidezko janari-erregistroa eta eskuzko erregistroa",
+      "intro": "AI bidezko janari-erregistroa eta eskuzko erregistroa",
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ],
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ]
+      ],
+      "takeaway": "AI bidezko janari-erregistroa eta eskuzko erregistroa"
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Zer da janari-eskaner bat?",
+      "h1": "Zer da janari-eskaner bat?",
+      "description": "Zer da janari-eskaner bat?: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "category": "Zer da janari-eskaner bat?",
+      "readTime": "Zer da janari-eskaner bat?",
+      "intro": "Zer da janari-eskaner bat?",
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ],
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ]
+      ],
+      "takeaway": "Zer da janari-eskaner bat?"
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Nola hasi makroak jarraitzen",
+      "h1": "Nola hasi makroak jarraitzen",
+      "description": "Nola hasi makroak jarraitzen: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "category": "Nola hasi makroak jarraitzen",
+      "readTime": "Nola hasi makroak jarraitzen",
+      "intro": "Nola hasi makroak jarraitzen",
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ],
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ]
+      ],
+      "takeaway": "Nola hasi makroak jarraitzen"
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Kaloriak eta makroak",
+      "h1": "Kaloriak eta makroak",
+      "description": "Kaloriak eta makroak: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "category": "Kaloriak eta makroak",
+      "readTime": "Kaloriak eta makroak",
+      "intro": "Kaloriak eta makroak",
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ],
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ]
+      ],
+      "takeaway": "Kaloriak eta makroak"
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Nola zenbatu kaloriak etxeko janarian",
+      "h1": "Nola zenbatu kaloriak etxeko janarian",
+      "description": "Nola zenbatu kaloriak etxeko janarian: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "category": "Nola zenbatu kaloriak etxeko janarian",
+      "readTime": "Nola zenbatu kaloriak etxeko janarian",
+      "intro": "Nola zenbatu kaloriak etxeko janarian",
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ],
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ]
+      ],
+      "takeaway": "Nola zenbatu kaloriak etxeko janarian"
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Nola estimatu errazioaren tamaina",
+      "h1": "Nola estimatu errazioaren tamaina",
+      "description": "Nola estimatu errazioaren tamaina: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "category": "Nola estimatu errazioaren tamaina",
+      "readTime": "Nola estimatu errazioaren tamaina",
+      "intro": "Nola estimatu errazioaren tamaina",
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ],
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ]
+      ],
+      "takeaway": "Nola estimatu errazioaren tamaina"
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Zenbat kaloria jan behar ditut egunean?",
+      "h1": "Zenbat kaloria jan behar ditut egunean?",
+      "description": "Zenbat kaloria jan behar ditut egunean?: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "category": "Zenbat kaloria jan behar ditut egunean?",
+      "readTime": "Zenbat kaloria jan behar ditut egunean?",
+      "intro": "Zenbat kaloria jan behar ditut egunean?",
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ],
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ]
+      ],
+      "takeaway": "Zenbat kaloria jan behar ditut egunean?"
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Zer da kaloria-defizita?",
+      "h1": "Zer da kaloria-defizita?",
+      "description": "Zer da kaloria-defizita?: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "category": "Zer da kaloria-defizita?",
+      "readTime": "Zer da kaloria-defizita?",
+      "intro": "Zer da kaloria-defizita?",
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ],
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ]
+      ],
+      "takeaway": "Zer da kaloria-defizita?"
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Kaloriak zenbatzean ohiko akatsak",
+      "h1": "Kaloriak zenbatzean ohiko akatsak",
+      "description": "Kaloriak zenbatzean ohiko akatsak: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "category": "Kaloriak zenbatzean ohiko akatsak",
+      "readTime": "Kaloriak zenbatzean ohiko akatsak",
+      "intro": "Kaloriak zenbatzean ohiko akatsak",
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ],
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ]
+      ],
+      "takeaway": "Kaloriak zenbatzean ohiko akatsak"
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Nola erregistratu jatetxeko janaria",
+      "h1": "Nola erregistratu jatetxeko janaria",
+      "description": "Nola erregistratu jatetxeko janaria: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "category": "Nola erregistratu jatetxeko janaria",
+      "readTime": "Nola erregistratu jatetxeko janaria",
+      "intro": "Nola erregistratu jatetxeko janaria",
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ],
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ]
+      ],
+      "takeaway": "Nola erregistratu jatetxeko janaria"
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Nola jarraitu proteinak",
+      "h1": "Nola jarraitu proteinak",
+      "description": "Nola jarraitu proteinak: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "category": "Nola jarraitu proteinak",
+      "readTime": "Nola jarraitu proteinak",
+      "intro": "Nola jarraitu proteinak",
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ],
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ]
+      ],
+      "takeaway": "Nola jarraitu proteinak"
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Zer da elikadura-egunkaria?",
+      "h1": "Zer da elikadura-egunkaria?",
+      "description": "Zer da elikadura-egunkaria?: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "category": "Zer da elikadura-egunkaria?",
+      "readTime": "Zer da elikadura-egunkaria?",
+      "intro": "Zer da elikadura-egunkaria?",
+      "sections": [
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ],
+        [
+          "Informazio gehiago",
+          "Estimazioak informaziorako dira eta aldatu egin daitezke markaren, errezetaren, prestatzeko moduaren eta errazioaren tamainaren arabera. Ez dute aholku mediko edo dietetikorik ordezkatzen."
+        ],
+        [
+          "Deskargatu",
+          "Deskargatu Calorie Counter AI iPhone edo Android-erako, eta bihurtu otorduen argazkiak nutrizio-sarrera erabilgarri."
+        ],
+        [
+          "Funtzioak",
+          "Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa."
+        ]
+      ],
+      "takeaway": "Zer da elikadura-egunkaria?"
+    },
+    "/download/": {
+      "title": "Deskargatu Calorie Counter AI",
+      "h1": "Deskargatu Calorie Counter AI",
+      "description": "Deskargatu Calorie Counter AI: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Deskargatu Calorie Counter AI"
+    },
+    "/faq/": {
+      "title": "Galderak",
+      "h1": "Galderak",
+      "description": "Galderak: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Galderak"
+    },
+    "/pricing/": {
+      "title": "Prezioak",
+      "h1": "Prezioak",
+      "description": "Prezioak: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Prezioak"
+    },
+    "/support/": {
+      "title": "Laguntza",
+      "h1": "Laguntza",
+      "description": "Laguntza: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Laguntza"
+    },
+    "/contact/": {
+      "title": "Kontaktua",
+      "h1": "Kontaktua",
+      "description": "Kontaktua: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Kontaktua"
+    },
+    "/privacy-policy/": {
+      "title": "Pribatutasuna",
+      "h1": "Pribatutasuna",
+      "description": "Pribatutasuna: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Pribatutasuna"
+    },
+    "/terms/": {
+      "title": "Baldintzak",
+      "h1": "Baldintzak",
+      "description": "Baldintzak: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Baldintzak"
+    },
+    "/health-disclaimer/": {
+      "title": "Osasun-oharra",
+      "h1": "Osasun-oharra",
+      "description": "Osasun-oharra: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Osasun-oharra"
+    },
+    "/delete-account/": {
+      "title": "Kontua eta datuak ezabatzea",
+      "h1": "Kontua eta datuak ezabatzea",
+      "description": "Kontua eta datuak ezabatzea: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Kontua eta datuak ezabatzea"
+    },
+    "/press/": {
+      "title": "Prentsa-materialak",
+      "h1": "Prentsa-materialak",
+      "description": "Prentsa-materialak: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Prentsa-materialak"
+    },
+    "/how-many-calories-in/": {
+      "title": "Elikagaien kaloriak",
+      "h1": "Elikagaien kaloriak",
+      "description": "Elikagaien kaloriak: Atera bazkariari argazkia eta segundo gutxitan jaso kalorien, proteinen, gantzen, karbohidratoen eta errazioaren tamainaren estimazioa.",
+      "kicker": "Elikagaien kaloriak"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Cookieen aukerak",
+    "text": "Webgunea funtzionatzeko beharrezko cookieak erabiltzen ditugu eta, baimena emanez gero, analitika edukia hobetzeko.",
+    "accept": "Onartu",
+    "decline": "Baztertu analitika"
+  }
+}

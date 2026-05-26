@@ -1,0 +1,2619 @@
+{
+  "localeName": "Magyar",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "AI kalóriaszámláló fotó alapján"
+  },
+  "nav": {
+    "features": "Funkciók",
+    "useCases": "Felhasználási területek",
+    "blog": "Útmutatók",
+    "faq": "GYIK",
+    "download": "Letöltés",
+    "language": "Nyelv",
+    "openMenu": "Menü megnyitása",
+    "caloriesInFoods": "Kalória az ételekben",
+    "all": "Összes",
+    "allFeatures": "Összes funkciók",
+    "allUseCases": "Összes felhasználási területek",
+    "allLearn": "Összes útmutatók",
+    "openHub": "Szekció megnyitása →",
+    "home": "Kezdőlap"
+  },
+  "cta": {
+    "appStore": "Letöltés az App Store-ból",
+    "googlePlay": "Letöltés a Google Playről",
+    "downloadNow": "Letöltés most",
+    "tryFree": "Próbáld ki ingyen",
+    "learnMore": "Tudj meg többet",
+    "learnMoreArrow": "Tudj meg többet →",
+    "readGuide": "Útmutató olvasása"
+  },
+  "home": {
+    "title": "AI kalóriaszámláló ételfotóból",
+    "description": "Fotózd le az ételt, és pár másodperc alatt szerkeszthető becslést kapsz a kalóriáról, fehérjéről, zsírról, szénhidrátról és az adagméretről.",
+    "heroNote": "Kezdd ingyen napi AI ételanalízisekkel. Elérhető iPhone-ra és Androidra.",
+    "photoEyebrow": "Fő funkció",
+    "photoTitle": "Kalóriaszámítás fotó alapján",
+    "photoText": "Nem kell kézzel kikeresned minden összetevőt. Készíts ételfotót, ellenőrizd az AI becslését, majd mentsd az ételt a naplóba.",
+    "photoChecklist": [
+      "Kalóriabecslés ételfotóból",
+      "Fehérje, zsír és szénhidrát egy nézetben",
+      "Szerkeszthető eredmény mentés előtt",
+      "Vizuális étkezési napló"
+    ],
+    "featureCards": [
+      [
+        "camera",
+        "Étkezés hozzáadása fotóval",
+        "Fotózd le az adagot, ellenőrizd a becslést, és mentsd az ételt hosszú keresgélés nélkül."
+      ],
+      [
+        "sparkles",
+        "AI ételbecslés",
+        "Gyors tájékoztató becslés kalóriára, makrókra és adagméretre, ha nincs címke vagy pontos recept."
+      ],
+      [
+        "shield",
+        "Napi ingyenes elemzések",
+        "Próbáld ki az alap AI folyamatot minden nap, és csak akkor válts magasabb limitekre, ha tényleg szükséged van rá."
+      ],
+      [
+        "barcode",
+        "Csomagolt élelmiszerek",
+        "Olvasd be joghurtok, italok, snackek és készételek vonalkódját."
+      ],
+      [
+        "macro",
+        "Makrók egy helyen",
+        "Kövesd a fehérjét, zsírt és szénhidrátot a napi kalóriakerettel együtt."
+      ],
+      [
+        "diary",
+        "Vizuális étkezési napló",
+        "Térj vissza bármelyik naphoz, nézd meg az ételeket fotóként, és vedd észre a visszatérő mintákat."
+      ]
+    ],
+    "foodPreviewTitle": "Mennyi kalória van a gyakori ételekben?",
+    "foodPreviewText": "Gyors kalória- és makróbecslések népszerű ételekhez, snackekhez és italokhoz.",
+    "foodPreviewLink": "Teljes kalóriaútmutató megnyitása →",
+    "goalEyebrow": "Cél kézben tartva",
+    "counterTitle": "Egyszerű kalóriaszámláló mindennapokra",
+    "counterText": "Használj fotót, vonalkódot, kedvenc ételeket és áttekinthető naplót, hogy a kalóriaszámolás ne legyen plusz teher.",
+    "goalPills": [
+      "Fogyás",
+      "Testsúlytartás",
+      "Izomtömeg-növelés",
+      "Rohanós napok"
+    ],
+    "magicEyebrow": "Miért egyszerűbb",
+    "magicTitle": "Adj hozzá ételt három lépésben",
+    "magicText": "Fotózz, ellenőrizd a becslést, majd mentsd a bejegyzést. Minél kevesebb a gépelés, annál könnyebb rendszeresen naplózni.",
+    "magicSteps": [
+      "Fotózás",
+      "Ellenőrzés",
+      "Mentés"
+    ],
+    "barcodeEyebrow": "Csomagolt termékek",
+    "barcodeTitle": "Élelmiszer-vonalkódolvasó",
+    "barcodeText": "Ha a terméken van vonalkód, olvasd be a csomagolást, erősítsd meg a terméket, és pár másodperc alatt add hozzá a kalóriát és makrókat a naplóhoz.",
+    "barcodeLink": "További részletek a vonalkódolvasóról →",
+    "progressEyebrow": "Áttekinthető követés",
+    "macroTitle": "Kövesd a kalóriát és a makrókat",
+    "macroText": "Lásd egy helyen a kalóriát, fehérjét, zsírt és szénhidrátot, és hasonlíts össze napokat, heteket, hónapokat.",
+    "macroLink": "Makrókövetés oldal megnyitása →",
+    "useCasesEyebrow": "Miért használd a Calorie Counter AI-t",
+    "useCasesTitle": "Táplálkozási célok valódi hétköznapokra",
+    "useCasesText": "Akár fogyni szeretnél, tartani a súlyod, izmot építeni vagy jobban érteni az étrendedet, az alkalmazás világos napi visszajelzést ad az étkezéseidről.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Fogyás",
+        "Látod, mennyi kalória maradt a napi célból."
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Házi étel",
+        "Becsüld meg az összetett ételeket és recepteket címke nélkül."
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Éttermi étel",
+        "Fotóalapú becsléssel gyorsabban naplózhatsz étteremben."
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Izomtömeg-növelés",
+        "Tartsd szem előtt a fehérjét és kalóriát energiatöbblet mellett."
+      ]
+    ],
+    "downloadTitle": "Kezdd el ma az AI-alapú kalóriaszámolást",
+    "downloadText": "Töltsd le az alkalmazást iPhone-ra vagy Androidra, és alakítsd a következő ételfotót naplóbejegyzéssé.",
+    "faqEyebrow": "GYIK",
+    "faqTitle": "Kérdésed van letöltés előtt?",
+    "faq": [
+      [
+        "Ingyenes a Calorie Counter AI?",
+        "Ingyenesen elkezdheted napi AI ételanalízisekkel. A fizetős verzió magasabb limiteket és prémium funkciókat kínálhat."
+      ],
+      [
+        "Lehet fotó alapján kalóriát számolni?",
+        "Igen. Fotózd le a tányért, és az alkalmazás megbecsüli a látható ételt, a kalóriát, a makrókat és az adagméretet."
+      ],
+      [
+        "Mennyire pontos az AI kalóriabecslés?",
+        "Tájékoztató becslés. A pontosságot befolyásolja a fotó minősége, a látható adag, a rejtett összetevők, szószok és a kézi javítások."
+      ],
+      [
+        "Követi az alkalmazás a makrókat?",
+        "Igen. A naplóban a fehérje, zsír és szénhidrát a kalóriával együtt jelenik meg."
+      ],
+      [
+        "Elérhető iPhone-ra és Androidra?",
+        "Igen. Az alkalmazás elérhető az App Store-ban és a Google Playen."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "AI kalóriaszámláló fotó alapján | Calorie Counter AI",
+    "homeOgTitle": "AI kalóriaszámláló fotó alapján",
+    "homeDescription": "Fotózd le az ételt, és pár másodperc alatt szerkeszthető becslést kapsz a kalóriáról, fehérjéről, zsírról, szénhidrátról és az adagméretről."
+  },
+  "footer": {
+    "disclaimer": "A tápértékek tájékoztató jellegűek, és nem helyettesítik orvos, dietetikus vagy más egészségügyi szakember tanácsát.",
+    "copyright": "© 2026 Calorie Counter AI. Minden jog fenntartva."
+  },
+  "foodIndex": {
+    "findTitle": "Kalóriák, makrók és gyakorlati adagtippek",
+    "findText": "A gyűjtemény tájékoztató értékeket ad népszerű ételekhez, valamint tippeket az adag, elkészítés, szószok, olaj és feltétek figyelembevételéhez.",
+    "categoryIntro": "Népszerű kalória- és makrókeresések ebben a kategóriában."
+  },
+  "foodPage": {
+    "eyebrow": "Kalóriaútmutató",
+    "trackInApp": "Naplózás az alkalmazásban",
+    "browseFoods": "Ételek böngészése",
+    "typicalEstimate": "Tipikus becslés",
+    "caloriesMacros": "Kalória és makrók",
+    "whenFits": "Mikor illik jól a naplóba",
+    "whatToWatch": "Mire figyelj",
+    "howToLog": "Hogyan naplózd pontosabban",
+    "helpfulContext": "Hasznos háttér",
+    "faq": "Gyakori kérdések",
+    "weightLossQuestion": "Beilleszthető fogyókúrás étrendbe?",
+    "variabilityQuestion": "Mi változtatja meg leginkább a kalóriát?",
+    "logFasterTitle": "Naplózd gyorsabban fotóval",
+    "logFasterText": "Fotózd le az ételt, ellenőrizd az AI becslését, majd szükség esetén módosítsd az adagot vagy az összetevőket.",
+    "photoTrackingLink": "Fotóalapú kalóriaszámlálás megnyitása →",
+    "macros": {
+      "protein": "Fehérje",
+      "fat": "Zsír",
+      "carbs": "Szénhidrát"
+    },
+    "titleTemplate": "{namePrep}: kalória és makrók",
+    "h1Template": "{namePrep}: kalória, fehérje, zsír és szénhidrát",
+    "descriptionTemplate": "{name}: kalória, fehérje, zsír és szénhidrát a(z) „{serving}” adaghoz, valamint tippek az étkezési naplóhoz.",
+    "heroIntroTemplate": "Becslés szerint {calories} {kcal} adagonként: {servingLower}. Kiindulási értékként használd, majd pontosítsd márka, recept, elkészítés és adagméret szerint.",
+    "macroParagraphTemplate": "{name}: körülbelül {calories} {kcal} a(z) „{servingLower}” adagban. Ez az adag nagyjából {protein} {gram} fehérjét, {fat} {gram} zsírt és {carbs} {gram} szénhidrátot tartalmaz{fiberText}.",
+    "per100Template": "Összehasonlításként 100 {gram}-ra vetítve: kb. {calories} {kcal}, {protein} {gram} fehérje, {fat} {gram} zsír és {carbs} {gram} szénhidrát.",
+    "calorieLevelTemplate": "Az adagot vedd alapul: itt körülbelül {calories} {kcal} szerepel a(z) „{servingLower}” mennyiségre."
+  },
+  "foodCategories": {
+    "Fruit": "Gyümölcsök",
+    "Protein foods": "Fehérjeforrások",
+    "Fruits and fats": "Gyümölcsök és zsírok",
+    "Grains and starches": "Gabonák és keményítők",
+    "Nuts and spreads": "Diófélék és krémek",
+    "Breakfast foods": "Reggelik",
+    "Dairy": "Tejtermékek",
+    "Restaurant meals": "Éttermi ételek",
+    "Fast food": "Gyorsétel",
+    "Legumes and plant protein": "Hüvelyesek és növényi fehérjék",
+    "Desserts": "Desszertek",
+    "Snacks": "Snackek",
+    "Drinks": "Italok",
+    "Vegetables": "Zöldségek",
+    "Sauces and condiments": "Szószok és ízesítők",
+    "Mixed dishes": "Vegyes ételek"
+  },
+  "foods": {
+    "banana": {
+      "name": "Banán",
+      "namePrep": "banán",
+      "serving": "1 közepes banán"
+    },
+    "apple": {
+      "name": "Alma",
+      "namePrep": "alma",
+      "serving": "1 közepes alma"
+    },
+    "egg": {
+      "name": "Tojás",
+      "namePrep": "tojás",
+      "serving": "1 nagy tojás"
+    },
+    "avocado": {
+      "name": "Avokádó",
+      "namePrep": "avokádó",
+      "serving": "1/2 közepes avokádó"
+    },
+    "chicken-breast": {
+      "name": "Csirkemell",
+      "namePrep": "csirkemell",
+      "serving": "100 g főtt csirkemell"
+    },
+    "salmon": {
+      "name": "Lazac",
+      "namePrep": "lazac",
+      "serving": "100 g sült lazac"
+    },
+    "white-rice": {
+      "name": "Fehér rizs",
+      "namePrep": "fehér rizs",
+      "serving": "1 csésze főtt fehér rizs"
+    },
+    "brown-rice": {
+      "name": "Barna rizs",
+      "namePrep": "barna rizs",
+      "serving": "1 csésze főtt barna rizs"
+    },
+    "pasta": {
+      "name": "Tészta",
+      "namePrep": "tészta",
+      "serving": "1 csésze főtt tészta"
+    },
+    "potato": {
+      "name": "Burgonya",
+      "namePrep": "burgonya",
+      "serving": "1 közepes burgonya"
+    },
+    "sweet-potato": {
+      "name": "Édesburgonya",
+      "namePrep": "édesburgonya",
+      "serving": "1 közepes édesburgonya"
+    },
+    "bread": {
+      "name": "Kenyér",
+      "namePrep": "kenyér",
+      "serving": "1 szelet kenyér"
+    },
+    "peanut-butter": {
+      "name": "Mogyoróvaj",
+      "namePrep": "mogyoróvaj",
+      "serving": "2 evőkanál mogyoróvaj"
+    },
+    "oatmeal": {
+      "name": "Zabkása",
+      "namePrep": "zabkása",
+      "serving": "1 tál főtt zabkása"
+    },
+    "greek-yogurt": {
+      "name": "Görög joghurt",
+      "namePrep": "görög joghurt",
+      "serving": "170 g görög joghurt"
+    },
+    "yogurt": {
+      "name": "Joghurt",
+      "namePrep": "joghurt",
+      "serving": "1 pohár joghurt"
+    },
+    "milk": {
+      "name": "Tej",
+      "namePrep": "tej",
+      "serving": "1 pohár tej"
+    },
+    "cheddar-cheese": {
+      "name": "Cheddar sajt",
+      "namePrep": "cheddar sajt",
+      "serving": "1 szelet cheddar sajt"
+    },
+    "pizza": {
+      "name": "Pizza",
+      "namePrep": "pizza",
+      "serving": "1 szelet pizza"
+    },
+    "burger": {
+      "name": "Burger",
+      "namePrep": "burger",
+      "serving": "1 átlagos burger"
+    },
+    "french-fries": {
+      "name": "Sült krumpli",
+      "namePrep": "sült krumpli",
+      "serving": "1 közepes adag sült krumpli"
+    },
+    "sushi-roll": {
+      "name": "Sushi tekercs",
+      "namePrep": "sushi tekercs",
+      "serving": "1 sushi tekercs"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "taco",
+      "serving": "1 taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "burrito",
+      "serving": "1 burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Csirkefalatok",
+      "namePrep": "csirkefalatok",
+      "serving": "6 csirkefalat"
+    },
+    "hot-dog": {
+      "name": "Hot dog",
+      "namePrep": "hot dog",
+      "serving": "1 hot dog"
+    },
+    "steak": {
+      "name": "Steak",
+      "namePrep": "steak",
+      "serving": "100 g steak"
+    },
+    "bacon": {
+      "name": "Bacon",
+      "namePrep": "bacon",
+      "serving": "2 szelet bacon"
+    },
+    "tuna": {
+      "name": "Tonhal",
+      "namePrep": "tonhal",
+      "serving": "100 g tonhal"
+    },
+    "shrimp": {
+      "name": "Garnéla",
+      "namePrep": "garnéla",
+      "serving": "100 g garnéla"
+    },
+    "tofu": {
+      "name": "Tofu",
+      "namePrep": "tofu",
+      "serving": "100 g tofu"
+    },
+    "lentils": {
+      "name": "Lencse",
+      "namePrep": "lencse",
+      "serving": "1 csésze főtt lencse"
+    },
+    "black-beans": {
+      "name": "Fekete bab",
+      "namePrep": "fekete bab",
+      "serving": "1 csésze főtt fekete bab"
+    },
+    "chickpeas": {
+      "name": "Csicseriborsó",
+      "namePrep": "csicseriborsó",
+      "serving": "1 csésze főtt csicseriborsó"
+    },
+    "hummus": {
+      "name": "Humusz",
+      "namePrep": "humusz",
+      "serving": "2 evőkanál humusz"
+    },
+    "quinoa": {
+      "name": "Quinoa",
+      "namePrep": "quinoa",
+      "serving": "1 csésze főtt quinoa"
+    },
+    "tortilla": {
+      "name": "Tortilla",
+      "namePrep": "tortilla",
+      "serving": "1 búzatortilla"
+    },
+    "bagel": {
+      "name": "Bagel",
+      "namePrep": "bagel",
+      "serving": "1 bagel"
+    },
+    "croissant": {
+      "name": "Croissant",
+      "namePrep": "croissant",
+      "serving": "1 croissant"
+    },
+    "pancake": {
+      "name": "Palacsinta",
+      "namePrep": "palacsinta",
+      "serving": "2 palacsinta"
+    },
+    "waffle": {
+      "name": "Gofri",
+      "namePrep": "gofri",
+      "serving": "1 gofri"
+    },
+    "cereal": {
+      "name": "Reggeli gabonapehely",
+      "namePrep": "reggeli gabonapehely",
+      "serving": "1 tál gabonapehely"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granola",
+      "serving": "1/2 csésze granola"
+    },
+    "almonds": {
+      "name": "Mandula",
+      "namePrep": "mandula",
+      "serving": "28 g mandula"
+    },
+    "walnuts": {
+      "name": "Dió",
+      "namePrep": "dió",
+      "serving": "28 g dió"
+    },
+    "cashews": {
+      "name": "Kesudió",
+      "namePrep": "kesudió",
+      "serving": "28 g kesudió"
+    },
+    "chocolate": {
+      "name": "Csokoládé",
+      "namePrep": "csokoládé",
+      "serving": "1 adag csokoládé"
+    },
+    "ice-cream": {
+      "name": "Fagylalt",
+      "namePrep": "fagylalt",
+      "serving": "1 gombóc fagylalt"
+    },
+    "cookie": {
+      "name": "Keksz",
+      "namePrep": "keksz",
+      "serving": "1 keksz"
+    },
+    "donut": {
+      "name": "Fánk",
+      "namePrep": "fánk",
+      "serving": "1 fánk"
+    },
+    "muffin": {
+      "name": "Muffin",
+      "namePrep": "muffin",
+      "serving": "1 muffin"
+    },
+    "cake": {
+      "name": "Torta",
+      "namePrep": "torta",
+      "serving": "1 szelet torta"
+    },
+    "brownie": {
+      "name": "Brownie",
+      "namePrep": "brownie",
+      "serving": "1 kocka brownie"
+    },
+    "popcorn": {
+      "name": "Popcorn",
+      "namePrep": "popcorn",
+      "serving": "3 csésze popcorn"
+    },
+    "potato-chips": {
+      "name": "Burgonyachips",
+      "namePrep": "burgonyachips",
+      "serving": "1 kis zacskó chips"
+    },
+    "pretzels": {
+      "name": "Perec",
+      "namePrep": "perec",
+      "serving": "1 adag perec"
+    },
+    "smoothie": {
+      "name": "Smoothie",
+      "namePrep": "smoothie",
+      "serving": "1 pohár smoothie"
+    },
+    "orange-juice": {
+      "name": "Narancslé",
+      "namePrep": "narancslé",
+      "serving": "1 pohár narancslé"
+    },
+    "soda": {
+      "name": "Szénsavas üdítő",
+      "namePrep": "szénsavas üdítő",
+      "serving": "1 doboz üdítő"
+    },
+    "latte": {
+      "name": "Latte",
+      "namePrep": "latte",
+      "serving": "1 közepes latte"
+    },
+    "protein-shake": {
+      "name": "Fehérjeturmix",
+      "namePrep": "fehérjeturmix",
+      "serving": "1 fehérjeturmix"
+    },
+    "spaghetti-bolognese": {
+      "name": "Bolognai spagetti",
+      "namePrep": "bolognai spagetti",
+      "serving": "1 tányér bolognai spagetti"
+    },
+    "ramen": {
+      "name": "Ramen",
+      "namePrep": "ramen",
+      "serving": "1 tál ramen"
+    },
+    "pho": {
+      "name": "Pho",
+      "namePrep": "pho",
+      "serving": "1 tál pho"
+    },
+    "chicken-soup": {
+      "name": "Csirkeleves",
+      "namePrep": "csirkeleves",
+      "serving": "1 tál csirkeleves"
+    },
+    "caesar-salad": {
+      "name": "Cézár saláta",
+      "namePrep": "cézár saláta",
+      "serving": "1 adag Cézár saláta"
+    },
+    "green-salad": {
+      "name": "Zöldsaláta",
+      "namePrep": "zöldsaláta",
+      "serving": "1 tál zöldsaláta"
+    },
+    "broccoli": {
+      "name": "Brokkoli",
+      "namePrep": "brokkoli",
+      "serving": "1 csésze főtt brokkoli"
+    },
+    "spinach": {
+      "name": "Spenót",
+      "namePrep": "spenót",
+      "serving": "1 csésze spenót"
+    },
+    "carrots": {
+      "name": "Sárgarépa",
+      "namePrep": "sárgarépa",
+      "serving": "1 csésze sárgarépa"
+    },
+    "corn": {
+      "name": "Kukorica",
+      "namePrep": "kukorica",
+      "serving": "1 csésze kukorica"
+    },
+    "tomato": {
+      "name": "Paradicsom",
+      "namePrep": "paradicsom",
+      "serving": "1 közepes paradicsom"
+    },
+    "cucumber": {
+      "name": "Uborka",
+      "namePrep": "uborka",
+      "serving": "1 csésze uborka"
+    },
+    "cheesecake": {
+      "name": "Sajttorta",
+      "namePrep": "sajttorta",
+      "serving": "1 szelet sajttorta"
+    },
+    "lasagna": {
+      "name": "Lasagne",
+      "namePrep": "lasagne",
+      "serving": "1 adag lasagne"
+    },
+    "grilled-cheese": {
+      "name": "Sajtos melegszendvics",
+      "namePrep": "sajtos melegszendvics",
+      "serving": "1 sajtos melegszendvics"
+    },
+    "peanut-butter-jelly": {
+      "name": "Mogyoróvajas-lekváros szendvics",
+      "namePrep": "mogyoróvajas-lekváros szendvics",
+      "serving": "1 mogyoróvajas-lekváros szendvics"
+    },
+    "omelette": {
+      "name": "Omlett",
+      "namePrep": "omlett",
+      "serving": "1 kéttojásos omlett"
+    },
+    "fried-egg": {
+      "name": "Tükörtojás",
+      "namePrep": "tükörtojás",
+      "serving": "1 tükörtojás"
+    },
+    "boiled-egg": {
+      "name": "Főtt tojás",
+      "namePrep": "főtt tojás",
+      "serving": "1 főtt tojás"
+    },
+    "toast": {
+      "name": "Pirítós",
+      "namePrep": "pirítós",
+      "serving": "1 szelet pirítós"
+    },
+    "avocado-toast": {
+      "name": "Avokádós pirítós",
+      "namePrep": "avokádós pirítós",
+      "serving": "1 avokádós pirítós"
+    },
+    "chicken-salad": {
+      "name": "Csirkesaláta",
+      "namePrep": "csirkesaláta",
+      "serving": "1 adag csirkesaláta"
+    },
+    "tuna-salad": {
+      "name": "Tonhalsaláta",
+      "namePrep": "tonhalsaláta",
+      "serving": "1 adag tonhalsaláta"
+    },
+    "egg-salad": {
+      "name": "Tojássaláta",
+      "namePrep": "tojássaláta",
+      "serving": "1 adag tojássaláta"
+    },
+    "cottage-cheese": {
+      "name": "Túró",
+      "namePrep": "túró",
+      "serving": "1/2 csésze túró"
+    },
+    "cream-cheese": {
+      "name": "Krémsajt",
+      "namePrep": "krémsajt",
+      "serving": "2 evőkanál krémsajt"
+    },
+    "butter": {
+      "name": "Vaj",
+      "namePrep": "vaj",
+      "serving": "1 evőkanál vaj"
+    },
+    "olive-oil": {
+      "name": "Olívaolaj",
+      "namePrep": "olívaolaj",
+      "serving": "1 evőkanál olívaolaj"
+    },
+    "mayonnaise": {
+      "name": "Majonéz",
+      "namePrep": "majonéz",
+      "serving": "1 evőkanál majonéz"
+    },
+    "ketchup": {
+      "name": "Ketchup",
+      "namePrep": "ketchup",
+      "serving": "1 evőkanál ketchup"
+    },
+    "honey": {
+      "name": "Méz",
+      "namePrep": "méz",
+      "serving": "1 evőkanál méz"
+    },
+    "jam": {
+      "name": "Lekvár",
+      "namePrep": "lekvár",
+      "serving": "1 evőkanál lekvár"
+    },
+    "protein-bar": {
+      "name": "Fehérjeszelet",
+      "namePrep": "fehérjeszelet",
+      "serving": "1 fehérjeszelet"
+    },
+    "energy-drink": {
+      "name": "Energiaital",
+      "namePrep": "energiaital",
+      "serving": "1 doboz energiaital"
+    },
+    "matcha-latte": {
+      "name": "Matcha latte",
+      "namePrep": "matcha latte",
+      "serving": "1 matcha latte"
+    },
+    "trail-mix": {
+      "name": "Magkeverék aszalt gyümölccsel",
+      "namePrep": "magkeverék aszalt gyümölccsel",
+      "serving": "1 adag magkeverék"
+    },
+    "blueberries": {
+      "name": "Áfonya",
+      "namePrep": "áfonya",
+      "serving": "1 csésze áfonya"
+    },
+    "strawberries": {
+      "name": "Eper",
+      "namePrep": "eper",
+      "serving": "1 csésze eper"
+    },
+    "grapes": {
+      "name": "Szőlő",
+      "namePrep": "szőlő",
+      "serving": "1 csésze szőlő"
+    },
+    "orange": {
+      "name": "Narancs",
+      "namePrep": "narancs",
+      "serving": "1 közepes narancs"
+    },
+    "pear": {
+      "name": "Körte",
+      "namePrep": "körte",
+      "serving": "1 közepes körte"
+    },
+    "peach": {
+      "name": "Őszibarack",
+      "namePrep": "őszibarack",
+      "serving": "1 közepes őszibarack"
+    },
+    "watermelon": {
+      "name": "Görögdinnye",
+      "namePrep": "görögdinnye",
+      "serving": "1 szelet görögdinnye"
+    },
+    "pineapple": {
+      "name": "Ananász",
+      "namePrep": "ananász",
+      "serving": "1 csésze ananász"
+    },
+    "mango": {
+      "name": "Mangó",
+      "namePrep": "mangó",
+      "serving": "1 közepes mangó"
+    },
+    "kiwi": {
+      "name": "Kivi",
+      "namePrep": "kivi",
+      "serving": "1 kivi"
+    },
+    "raspberries": {
+      "name": "Málna",
+      "namePrep": "málna",
+      "serving": "1 csésze málna"
+    },
+    "blackberries": {
+      "name": "Szeder",
+      "namePrep": "szeder",
+      "serving": "1 csésze szeder"
+    },
+    "cherries": {
+      "name": "Cseresznye",
+      "namePrep": "cseresznye",
+      "serving": "1 csésze cseresznye"
+    },
+    "grapefruit": {
+      "name": "Grapefruit",
+      "namePrep": "grapefruit",
+      "serving": "1/2 grapefruit"
+    },
+    "lettuce": {
+      "name": "Saláta",
+      "namePrep": "saláta",
+      "serving": "1 csésze saláta"
+    },
+    "cabbage": {
+      "name": "Káposzta",
+      "namePrep": "káposzta",
+      "serving": "1 csésze káposzta"
+    },
+    "cauliflower": {
+      "name": "Karfiol",
+      "namePrep": "karfiol",
+      "serving": "1 csésze karfiol"
+    },
+    "asparagus": {
+      "name": "Spárga",
+      "namePrep": "spárga",
+      "serving": "1 csésze spárga"
+    },
+    "zucchini": {
+      "name": "Cukkini",
+      "namePrep": "cukkini",
+      "serving": "1 csésze cukkini"
+    },
+    "eggplant": {
+      "name": "Padlizsán",
+      "namePrep": "padlizsán",
+      "serving": "1 csésze padlizsán"
+    },
+    "bell-pepper": {
+      "name": "Kaliforniai paprika",
+      "namePrep": "kaliforniai paprika",
+      "serving": "1 közepes paprika"
+    },
+    "onion": {
+      "name": "Hagyma",
+      "namePrep": "hagyma",
+      "serving": "1 közepes hagyma"
+    },
+    "mushrooms": {
+      "name": "Gomba",
+      "namePrep": "gomba",
+      "serving": "1 csésze gomba"
+    },
+    "green-beans": {
+      "name": "Zöldbab",
+      "namePrep": "zöldbab",
+      "serving": "1 csésze zöldbab"
+    },
+    "kale": {
+      "name": "Fodros kel",
+      "namePrep": "fodros kel",
+      "serving": "1 csésze fodros kel"
+    },
+    "beets": {
+      "name": "Cékla",
+      "namePrep": "cékla",
+      "serving": "1 csésze cékla"
+    },
+    "turkey-breast": {
+      "name": "Pulykamell",
+      "namePrep": "pulykamell",
+      "serving": "100 g pulykamell"
+    },
+    "chicken-thigh": {
+      "name": "Csirkecomb",
+      "namePrep": "csirkecomb",
+      "serving": "1 csirkecomb"
+    },
+    "pork-chop": {
+      "name": "Sertéskaraj",
+      "namePrep": "sertéskaraj",
+      "serving": "1 szelet sertéskaraj"
+    },
+    "ground-beef": {
+      "name": "Darált marhahús",
+      "namePrep": "darált marhahús",
+      "serving": "100 g darált marhahús"
+    },
+    "meatballs": {
+      "name": "Húsgombóc",
+      "namePrep": "húsgombóc",
+      "serving": "4 húsgombóc"
+    },
+    "sausage": {
+      "name": "Kolbász",
+      "namePrep": "kolbász",
+      "serving": "1 kolbász"
+    },
+    "cod": {
+      "name": "Tőkehal",
+      "namePrep": "tőkehal",
+      "serving": "100 g tőkehal"
+    },
+    "tilapia": {
+      "name": "Tilápia",
+      "namePrep": "tilápia",
+      "serving": "100 g tilápia"
+    },
+    "sardines": {
+      "name": "Szardínia",
+      "namePrep": "szardínia",
+      "serving": "1 kis konzerv szardínia"
+    },
+    "crab": {
+      "name": "Rákhús",
+      "namePrep": "rákhús",
+      "serving": "100 g rákhús"
+    },
+    "scallops": {
+      "name": "Fésűkagyló",
+      "namePrep": "fésűkagyló",
+      "serving": "100 g fésűkagyló"
+    },
+    "smoked-salmon": {
+      "name": "Füstölt lazac",
+      "namePrep": "füstölt lazac",
+      "serving": "85 g füstölt lazac"
+    },
+    "skim-milk": {
+      "name": "Zsírszegény tej",
+      "namePrep": "zsírszegény tej",
+      "serving": "1 pohár zsírszegény tej"
+    },
+    "soy-milk": {
+      "name": "Szójatej",
+      "namePrep": "szójatej",
+      "serving": "1 pohár szójatej"
+    },
+    "almond-milk": {
+      "name": "Mandulatej",
+      "namePrep": "mandulatej",
+      "serving": "1 pohár mandulatej"
+    },
+    "oat-milk": {
+      "name": "Zabtej",
+      "namePrep": "zabtej",
+      "serving": "1 pohár zabtej"
+    },
+    "kefir": {
+      "name": "Kefir",
+      "namePrep": "kefir",
+      "serving": "1 pohár kefir"
+    },
+    "sour-cream": {
+      "name": "Tejföl",
+      "namePrep": "tejföl",
+      "serving": "2 evőkanál tejföl"
+    },
+    "feta-cheese": {
+      "name": "Feta sajt",
+      "namePrep": "feta sajt",
+      "serving": "30 g feta sajt"
+    },
+    "mozzarella": {
+      "name": "Mozzarella",
+      "namePrep": "mozzarella",
+      "serving": "30 g mozzarella"
+    },
+    "parmesan": {
+      "name": "Parmezán",
+      "namePrep": "parmezán",
+      "serving": "2 evőkanál parmezán"
+    },
+    "couscous": {
+      "name": "Kuszkusz",
+      "namePrep": "kuszkusz",
+      "serving": "1 csésze főtt kuszkusz"
+    },
+    "barley": {
+      "name": "Árpa",
+      "namePrep": "árpa",
+      "serving": "1 csésze főtt árpa"
+    },
+    "buckwheat": {
+      "name": "Hajdina",
+      "namePrep": "hajdina",
+      "serving": "1 csésze főtt hajdina"
+    },
+    "bulgur": {
+      "name": "Bulgur",
+      "namePrep": "bulgur",
+      "serving": "1 csésze főtt bulgur"
+    },
+    "naan": {
+      "name": "Naan kenyér",
+      "namePrep": "naan kenyér",
+      "serving": "1 darab naan"
+    },
+    "pita-bread": {
+      "name": "Pita kenyér",
+      "namePrep": "pita kenyér",
+      "serving": "1 pita"
+    },
+    "english-muffin": {
+      "name": "Angol muffin",
+      "namePrep": "angol muffin",
+      "serving": "1 angol muffin"
+    },
+    "rice-cake": {
+      "name": "Rizsszelet",
+      "namePrep": "rizsszelet",
+      "serving": "1 rizsszelet"
+    },
+    "crackers": {
+      "name": "Kréker",
+      "namePrep": "kréker",
+      "serving": "1 adag kréker"
+    },
+    "mashed-potatoes": {
+      "name": "Krumplipüré",
+      "namePrep": "krumplipüré",
+      "serving": "1 csésze krumplipüré"
+    },
+    "scrambled-eggs": {
+      "name": "Rántotta",
+      "namePrep": "rántotta",
+      "serving": "2 tojásból készült rántotta"
+    },
+    "french-toast": {
+      "name": "Bundás kenyér",
+      "namePrep": "bundás kenyér",
+      "serving": "1 szelet bundás kenyér"
+    },
+    "breakfast-burrito": {
+      "name": "Reggeli burrito",
+      "namePrep": "reggeli burrito",
+      "serving": "1 reggeli burrito"
+    },
+    "hash-browns": {
+      "name": "Reszelt sült burgonya",
+      "namePrep": "reszelt sült burgonya",
+      "serving": "1 adag reszelt sült burgonya"
+    },
+    "chia-pudding": {
+      "name": "Chiapuding",
+      "namePrep": "chiapuding",
+      "serving": "1 pohár chiapuding"
+    },
+    "overnight-oats": {
+      "name": "Éjszakai zabkása",
+      "namePrep": "éjszakai zabkása",
+      "serving": "1 pohár éjszakai zabkása"
+    },
+    "breakfast-sandwich": {
+      "name": "Reggeli szendvics",
+      "namePrep": "reggeli szendvics",
+      "serving": "1 reggeli szendvics"
+    },
+    "edamame": {
+      "name": "Edamame",
+      "namePrep": "edamame",
+      "serving": "1 csésze edamame"
+    },
+    "kidney-beans": {
+      "name": "Vörösbab",
+      "namePrep": "vörösbab",
+      "serving": "1 csésze főtt vörösbab"
+    },
+    "pinto-beans": {
+      "name": "Pinto bab",
+      "namePrep": "pinto bab",
+      "serving": "1 csésze főtt pinto bab"
+    },
+    "split-peas": {
+      "name": "Sárgaborsó",
+      "namePrep": "sárgaborsó",
+      "serving": "1 csésze főtt sárgaborsó"
+    },
+    "baked-beans": {
+      "name": "Sült bab",
+      "namePrep": "sült bab",
+      "serving": "1/2 csésze sült bab"
+    },
+    "fried-rice": {
+      "name": "Pirított rizs",
+      "namePrep": "pirított rizs",
+      "serving": "1 adag pirított rizs"
+    },
+    "pad-thai": {
+      "name": "Pad thai",
+      "namePrep": "pad thai",
+      "serving": "1 adag pad thai"
+    },
+    "chicken-curry": {
+      "name": "Csirkecurry",
+      "namePrep": "csirkecurry",
+      "serving": "1 adag csirkecurry"
+    },
+    "chicken-tikka-masala": {
+      "name": "Csirke tikka masala",
+      "namePrep": "csirke tikka masala",
+      "serving": "1 adag csirke tikka masala"
+    },
+    "beef-chili": {
+      "name": "Marhás chili",
+      "namePrep": "marhás chili",
+      "serving": "1 tál marhás chili"
+    },
+    "falafel": {
+      "name": "Falafel",
+      "namePrep": "falafel",
+      "serving": "3 falafelgolyó"
+    },
+    "dumplings": {
+      "name": "Gombóc",
+      "namePrep": "gombóc",
+      "serving": "1 adag gombóc"
+    },
+    "spring-rolls": {
+      "name": "Tavaszi tekercs",
+      "namePrep": "tavaszi tekercs",
+      "serving": "2 tavaszi tekercs"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "quesadilla",
+      "serving": "1 quesadilla"
+    },
+    "nachos": {
+      "name": "Nachos",
+      "namePrep": "nachos",
+      "serving": "1 adag nachos"
+    },
+    "mac-and-cheese": {
+      "name": "Sajtos makaróni",
+      "namePrep": "sajtos makaróni",
+      "serving": "1 adag sajtos makaróni"
+    },
+    "chicken-wings": {
+      "name": "Csirkeszárny",
+      "namePrep": "csirkeszárny",
+      "serving": "6 csirkeszárny"
+    },
+    "fish-and-chips": {
+      "name": "Fish and chips",
+      "namePrep": "fish and chips",
+      "serving": "1 adag fish and chips"
+    },
+    "risotto": {
+      "name": "Rizottó",
+      "namePrep": "rizottó",
+      "serving": "1 tányér rizottó"
+    },
+    "tortilla-chips": {
+      "name": "Tortillachips",
+      "namePrep": "tortillachips",
+      "serving": "1 adag tortillachips"
+    },
+    "granola-bar": {
+      "name": "Granolaszelet",
+      "namePrep": "granolaszelet",
+      "serving": "1 granolaszelet"
+    },
+    "chocolate-bar": {
+      "name": "Csokoládészelet",
+      "namePrep": "csokoládészelet",
+      "serving": "1 csokoládészelet"
+    },
+    "candy": {
+      "name": "Cukorka",
+      "namePrep": "cukorka",
+      "serving": "1 adag cukorka"
+    },
+    "cinnamon-roll": {
+      "name": "Fahéjas csiga",
+      "namePrep": "fahéjas csiga",
+      "serving": "1 fahéjas csiga"
+    },
+    "marshmallows": {
+      "name": "Pillecukor",
+      "namePrep": "pillecukor",
+      "serving": "1 adag pillecukor"
+    },
+    "fruit-snacks": {
+      "name": "Gyümölcsös snack",
+      "namePrep": "gyümölcsös snack",
+      "serving": "1 adag gyümölcsös snack"
+    },
+    "black-coffee": {
+      "name": "Feketekávé",
+      "namePrep": "feketekávé",
+      "serving": "1 csésze feketekávé"
+    },
+    "cappuccino": {
+      "name": "Cappuccino",
+      "namePrep": "cappuccino",
+      "serving": "1 cappuccino"
+    },
+    "milk-tea": {
+      "name": "Tejes tea",
+      "namePrep": "tejes tea",
+      "serving": "1 pohár tejes tea"
+    },
+    "bubble-tea": {
+      "name": "Bubble tea",
+      "namePrep": "bubble tea",
+      "serving": "1 bubble tea"
+    },
+    "lemonade": {
+      "name": "Limonádé",
+      "namePrep": "limonádé",
+      "serving": "1 pohár limonádé"
+    },
+    "iced-tea": {
+      "name": "Jeges tea",
+      "namePrep": "jeges tea",
+      "serving": "1 palack jeges tea"
+    },
+    "apple-juice": {
+      "name": "Almalé",
+      "namePrep": "almalé",
+      "serving": "1 pohár almalé"
+    },
+    "coconut-water": {
+      "name": "Kókuszvíz",
+      "namePrep": "kókuszvíz",
+      "serving": "1 pohár kókuszvíz"
+    },
+    "sports-drink": {
+      "name": "Sportital",
+      "namePrep": "sportital",
+      "serving": "1 palack sportital"
+    },
+    "ranch-dressing": {
+      "name": "Ranch öntet",
+      "namePrep": "ranch öntet",
+      "serving": "2 evőkanál ranch öntet"
+    },
+    "bbq-sauce": {
+      "name": "BBQ szósz",
+      "namePrep": "bbq szósz",
+      "serving": "2 evőkanál BBQ szósz"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "salsa",
+      "serving": "2 evőkanál salsa"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "guacamole",
+      "serving": "2 evőkanál guacamole"
+    }
+  },
+  "utility": {
+    "pricing": "Árak",
+    "support": "Támogatás",
+    "privacy": "Adatvédelem",
+    "terms": "Feltételek",
+    "press": "Sajtócsomag",
+    "deleteExtra": "Törlési kérelemhez írj a fiókhoz kapcsolt e-mail-címről, és a tárgyban szerepeljen: “Delete account”."
+  },
+  "store": {
+    "appStoreSmall": "Letöltés az",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Elérhető a",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Funkció",
+    "useCase": "Felhasználási eset",
+    "openPage": "Oldal megnyitása →",
+    "openArrow": "Megnyitás →",
+    "practicalWorkflow": "Gyakorlati folyamat",
+    "workflowTitle": "Hogyan segít a napi naplózásban",
+    "goodToKnow": "Jó tudni",
+    "defaultNote": "A tápértékek becslések. A legjobban adagellenőrzéssel, józan ésszel és kézi javításokkal működnek.",
+    "relatedPages": "Kapcsolódó oldalak",
+    "quickTakeaway": "Rövid lényeg:",
+    "defaultTakeaway": "A Calorie Counter AI gyorsabbá teszi az étkezési naplót: használd együtt a fotós becslést, a vonalkódot és a kézi javítást.",
+    "information": "Információ",
+    "bestFor": "Erre jó"
+  },
+  "internalCta": {
+    "title": "Alakítsd a következő étkezést naplóbejegyzéssé",
+    "text": "Töltsd le a Calorie Counter AI-t, és próbáld ki a gyors, fotóalapú kalóriaszámolást.",
+    "button": "Alkalmazás letöltése"
+  },
+  "download": {
+    "availableTitle": "Elérhető iPhone-ra és Androidra",
+    "availableText": "Kezdd fotóval, vonalkóddal vagy egyszerű naplóbejegyzéssel. Gyors kalória- és makrókövetés az első naptól."
+  },
+  "faq": {
+    "items": [
+      [
+        "Ingyenes a Calorie Counter AI?",
+        "Ingyenesen elkezdheted napi AI elemzésekkel. Prémium funkciók magasabb limitekhez és extra eszközökhöz lehetnek elérhetők."
+      ],
+      [
+        "Lehet fotó alapján kalóriát számolni?",
+        "Igen. Az alkalmazás ételfotó alapján megbecsüli a kalóriát, makrókat és adagméretet."
+      ],
+      [
+        "Van vonalkódolvasó?",
+        "Igen. Segít gyorsan hozzáadni csomagolt termékeket."
+      ],
+      [
+        "Számolja az alkalmazás a makrókat?",
+        "Igen. A fehérje, zsír és szénhidrát a kalóriák mellett jelenik meg."
+      ],
+      [
+        "Jó házi ételekhez?",
+        "Igen. A fotós becslés különösen hasznos házi ételeknél, de az adagot, olajat, szószokat és rejtett összetevőket érdemes ellenőrizni."
+      ],
+      [
+        "Ez orvosi tanács?",
+        "Nem. Az alkalmazás tájékoztató becsléseket ad, és nem helyettesít orvost vagy dietetikust."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Ingyenesen elkezdheted napi AI ételanalízisekkel. A prémium funkciók akkor lehetnek hasznosak, ha magasabb limitekre, fejlettebb eszközökre vagy több kényelemre van szükséged.",
+      "Az árak, próbaidőszakok és előfizetések elérhetősége országonként és platformonként eltérhet. A vásárlás előtti aktuális ár mindig az App Store-ban vagy a Google Playen látható."
+    ],
+    "support": [
+      "Segítségre van szükséged? Írj a támogatásnak, és add meg az eszközt, platformot, alkalmazásverziót és a probléma rövid leírását.",
+      "Fizetéssel, visszatérítéssel és előfizetéskezeléssel kapcsolatos kérdéseket általában az App Store vagy a Google Play beállításaiban lehet intézni, mert a vásárlás az áruházon keresztül történik."
+    ],
+    "contact": [
+      "Támogatási e-mail: support@caloriecounterai.app",
+      "Partnerségekhez, médiaszerepléshez és visszajelzéshez adj egyértelmű tárgyat az e-mailnek, hogy gyorsabban feldolgozhassuk."
+    ],
+    "privacy": [
+      "A Calorie Counter AI étkezési naplóhoz és tudatos étrendkövetéshez készült. Az adatok tartalmazhatnak ételbejegyzéseket, fotókat, beállításokat és a szolgáltatás működéséhez szükséges technikai információkat.",
+      "Csak olyan egészségügyi és aktivitási adatokhoz adj hozzáférést, amelyeket valóban kényelmesen használsz. Az engedélyeket az eszköz beállításaiban kezelheted."
+    ],
+    "terms": [
+      "A Calorie Counter AI használatával elfogadod, hogy az alkalmazást tájékoztató étkezéskövető eszközként használod, és a becsléseket ellenőrzöd, mielőtt támaszkodnál rájuk.",
+      "A funkciók, ingyenes limitek és prémium lehetőségek változhatnak. Az App Store-on és Google Playen keresztüli vásárlásokra az adott áruház szabályai is vonatkoznak."
+    ],
+    "disclaimer": [
+      "A Calorie Counter AI oktatási és tájékoztatási céllal ad megközelítő tápértékbecsléseket. Ez nem orvosi tanács, diagnózis vagy kezelés.",
+      "A fotóalapú becslés függ az adagtól, rejtett összetevőktől, recepttől, fotóminőségtől és kézi javításoktól. Egészségügyi állapot, várandósság, korábbi evészavar vagy klinikai táplálkozási cél esetén kérj szakembertől tanácsot."
+    ],
+    "delete": [
+      "Fióktörléshez írj a támogatásnak a fiókhoz kapcsolt e-mail-címről.",
+      "A kérelem feldolgozása után töröljük vagy anonimizáljuk azokat az adatokat, amelyeket jogi, biztonsági vagy működési okból nem kell megőriznünk."
+    ]
+  },
+  "press": {
+    "iconAlt": "Alkalmazásikon",
+    "iconTitle": "Alkalmazásikon",
+    "downloadIcon": "Ikon letöltése",
+    "screenshotAlt": "Alkalmazás képernyőkép",
+    "screenshotTitle": "Képernyőkép",
+    "downloadScreenshot": "Képernyőkép letöltése",
+    "shortDescriptionTitle": "Rövid leírás",
+    "shortDescriptionText": "A Calorie Counter AI olyan AI kalóriaszámláló, amely ételfotó alapján becsli a kalóriát, makrókat és adagméretet, támogatja a vonalkódolvasást és a vizuális étkezési naplót."
+  },
+  "notFound": {
+    "title": "Az oldal nem található",
+    "text": "Lehet, hogy a link elavult, vagy az oldal átkerült.",
+    "home": "Vissza a kezdőlapra"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Funkciók",
+      "h1": "Eszközök a gyorsabb étkezéskövetéshez",
+      "description": "Fotó, vonalkód, napló, makrók, célok, statisztikák és Health Connect — minden, ami egyszerűbbé teszi az étrend követését.",
+      "kicker": "Termékáttekintés",
+      "summary": "A(z) funkciók lényege, hogy az étkezés rögzítése gyors, ellenőrizhető és a hétköznapokban is tartható legyen.",
+      "bullets": [
+        "Fotóalapú ételfelismerés",
+        "Vonalkódolvasó csomagolt ételekhez",
+        "Szerkeszthető kalória- és makróbecslések",
+        "Napló, célok és haladási grafikonok"
+      ],
+      "sections": [
+        [
+          "Gyorsabb kezdés",
+          "A(z) funkciók akkor hasznos, amikor nincs idő minden összetevőt kézzel keresni, de mégis szeretnél használható bejegyzést."
+        ],
+        [
+          "Ellenőrizhető becslés",
+          "Az AI jó kiindulópontot ad, de az adagméretet, olajat, szószokat és rejtett összetevőket érdemes mentés előtt átnézni."
+        ],
+        [
+          "Fenntartható szokás",
+          "A cél nem egyetlen tökéletes szám, hanem egy napló, amely elég egyszerű ahhoz, hogy rendszeresen használd."
+        ]
+      ],
+      "workflowTitle": "Hogyan használd a mindennapi naplózásban",
+      "workflow": [
+        "Kezdd azzal a módszerrel, amelyik a helyzethez illik: fotó, vonalkód vagy kézi javítás. A(z) funkciók akkor működik jól, ha a gyors rögzítést rövid ellenőrzéssel egészíted ki.",
+        "Nézd meg a kalóriát és a makrókat, majd javítsd az adagot, ha a becslés eltér attól, amit ténylegesen ettél. Így a napló gyors marad, de nem lesz vakon automatikus."
+      ],
+      "note": "A tápértékbecslés tájékoztató jellegű. A pontosságot az adag, a recept, a márka és az elkészítés is befolyásolja.",
+      "bestFor": [
+        "gyors rögzítés",
+        "különböző ételtípusok",
+        "szerkeszthető becslések",
+        "napi szokás"
+      ],
+      "workflowKicker": "Gyakorlati használat",
+      "noteTitle": "Fontos tudni"
+    },
+    "/food-recognition-ai/": {
+      "title": "AI ételfelismerés",
+      "h1": "AI ételfelismerés fotó alapján",
+      "description": "Fotózd le az ételt, és kapj szerkeszthető becslést a látható összetevőkről és tápértékekről.",
+      "kicker": "Fotóelemzés",
+      "summary": "A(z) fotóalapú ételfelismerés lényege, hogy az étkezés rögzítése gyors, ellenőrizhető és a hétköznapokban is tartható legyen.",
+      "bullets": [
+        "Látható ételek felismerése",
+        "Adag- és makróbecslés",
+        "Szerkeszthető eredmény",
+        "Jó tányérokhoz, salátákhoz és éttermi ételekhez"
+      ],
+      "sections": [
+        [
+          "Gyorsabb kezdés",
+          "A(z) fotóalapú ételfelismerés akkor hasznos, amikor nincs idő minden összetevőt kézzel keresni, de mégis szeretnél használható bejegyzést."
+        ],
+        [
+          "Ellenőrizhető becslés",
+          "Az AI jó kiindulópontot ad, de az adagméretet, olajat, szószokat és rejtett összetevőket érdemes mentés előtt átnézni."
+        ],
+        [
+          "Fenntartható szokás",
+          "A cél nem egyetlen tökéletes szám, hanem egy napló, amely elég egyszerű ahhoz, hogy rendszeresen használd."
+        ]
+      ],
+      "workflowTitle": "Hogyan használd a mindennapi naplózásban",
+      "workflow": [
+        "Kezdd azzal a módszerrel, amelyik a helyzethez illik: fotó, vonalkód vagy kézi javítás. A(z) fotóalapú ételfelismerés akkor működik jól, ha a gyors rögzítést rövid ellenőrzéssel egészíted ki.",
+        "Nézd meg a kalóriát és a makrókat, majd javítsd az adagot, ha a becslés eltér attól, amit ténylegesen ettél. Így a napló gyors marad, de nem lesz vakon automatikus."
+      ],
+      "note": "A tápértékbecslés tájékoztató jellegű. A pontosságot az adag, a recept, a márka és az elkészítés is befolyásolja.",
+      "bestFor": [
+        "házi ételek",
+        "saláták és bowlok",
+        "éttermi étel",
+        "gyors vázlat"
+      ],
+      "workflowKicker": "Gyakorlati használat",
+      "noteTitle": "Fontos tudni"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Vonalkódos kalóriaszkenner",
+      "h1": "Élelmiszer-vonalkódolvasó gyors naplózáshoz",
+      "description": "Olvasd be a csomagolt termékeket, és add hozzá a kalóriát és makrókat a naplóhoz.",
+      "kicker": "Vonalkódolvasó",
+      "summary": "A(z) vonalkódolvasás lényege, hogy az étkezés rögzítése gyors, ellenőrizhető és a hétköznapokban is tartható legyen.",
+      "bullets": [
+        "Gyors csomagolt termékbevitel",
+        "Kalória és makrók naplóba mentése",
+        "Kevesebb kézi gépelés",
+        "Hasznos italokhoz és snackekhez"
+      ],
+      "sections": [
+        [
+          "Gyorsabb kezdés",
+          "A(z) vonalkódolvasás akkor hasznos, amikor nincs idő minden összetevőt kézzel keresni, de mégis szeretnél használható bejegyzést."
+        ],
+        [
+          "Ellenőrizhető becslés",
+          "Az AI jó kiindulópontot ad, de az adagméretet, olajat, szószokat és rejtett összetevőket érdemes mentés előtt átnézni."
+        ],
+        [
+          "Fenntartható szokás",
+          "A cél nem egyetlen tökéletes szám, hanem egy napló, amely elég egyszerű ahhoz, hogy rendszeresen használd."
+        ]
+      ],
+      "workflowTitle": "Hogyan használd a mindennapi naplózásban",
+      "workflow": [
+        "Kezdd azzal a módszerrel, amelyik a helyzethez illik: fotó, vonalkód vagy kézi javítás. A(z) vonalkódolvasás akkor működik jól, ha a gyors rögzítést rövid ellenőrzéssel egészíted ki.",
+        "Nézd meg a kalóriát és a makrókat, majd javítsd az adagot, ha a becslés eltér attól, amit ténylegesen ettél. Így a napló gyors marad, de nem lesz vakon automatikus."
+      ],
+      "note": "A tápértékbecslés tájékoztató jellegű. A pontosságot az adag, a recept, a márka és az elkészítés is befolyásolja.",
+      "bestFor": [
+        "csomagolt ételek",
+        "bolti snackek",
+        "italok",
+        "gyors ellenőrzés"
+      ],
+      "workflowKicker": "Gyakorlati használat",
+      "noteTitle": "Fontos tudni"
+    },
+    "/macro-tracker/": {
+      "title": "Makrókövető",
+      "h1": "Kövesd a fehérjét, zsírt és szénhidrátot",
+      "description": "Lásd a makrókat a kalóriák mellett, és igazítsd az étkezést a célodhoz.",
+      "kicker": "Makrók",
+      "summary": "A(z) makrókövetés lényege, hogy az étkezés rögzítése gyors, ellenőrizhető és a hétköznapokban is tartható legyen.",
+      "bullets": [
+        "Fehérje, zsír és szénhidrát",
+        "Napi célok áttekintése",
+        "Hasznos fogyáshoz és izomépítéshez",
+        "Egyszerű összehasonlítás napok között"
+      ],
+      "sections": [
+        [
+          "Gyorsabb kezdés",
+          "A(z) makrókövetés akkor hasznos, amikor nincs idő minden összetevőt kézzel keresni, de mégis szeretnél használható bejegyzést."
+        ],
+        [
+          "Ellenőrizhető becslés",
+          "Az AI jó kiindulópontot ad, de az adagméretet, olajat, szószokat és rejtett összetevőket érdemes mentés előtt átnézni."
+        ],
+        [
+          "Fenntartható szokás",
+          "A cél nem egyetlen tökéletes szám, hanem egy napló, amely elég egyszerű ahhoz, hogy rendszeresen használd."
+        ]
+      ],
+      "workflowTitle": "Hogyan használd a mindennapi naplózásban",
+      "workflow": [
+        "Kezdd azzal a módszerrel, amelyik a helyzethez illik: fotó, vonalkód vagy kézi javítás. A(z) makrókövetés akkor működik jól, ha a gyors rögzítést rövid ellenőrzéssel egészíted ki.",
+        "Nézd meg a kalóriát és a makrókat, majd javítsd az adagot, ha a becslés eltér attól, amit ténylegesen ettél. Így a napló gyors marad, de nem lesz vakon automatikus."
+      ],
+      "note": "A tápértékbecslés tájékoztató jellegű. A pontosságot az adag, a recept, a márka és az elkészítés is befolyásolja.",
+      "bestFor": [
+        "fehérjecél",
+        "makróegyensúly",
+        "sportos célok",
+        "étrendi visszajelzés"
+      ],
+      "workflowKicker": "Gyakorlati használat",
+      "noteTitle": "Fontos tudni"
+    },
+    "/food-diary-app/": {
+      "title": "Étkezési napló alkalmazás",
+      "h1": "Vizuális étkezési napló fotókkal és makrókkal",
+      "description": "Mentsd az étkezéseket fotóval, vonalkóddal vagy kézi javítással, és nézd át a napjaidat.",
+      "kicker": "Napló",
+      "summary": "A(z) étkezési napló lényege, hogy az étkezés rögzítése gyors, ellenőrizhető és a hétköznapokban is tartható legyen.",
+      "bullets": [
+        "Fotós bejegyzések",
+        "Napi összegzés",
+        "Kedvenc ételek",
+        "Egyszerű visszatekintés"
+      ],
+      "sections": [
+        [
+          "Gyorsabb kezdés",
+          "A(z) étkezési napló akkor hasznos, amikor nincs idő minden összetevőt kézzel keresni, de mégis szeretnél használható bejegyzést."
+        ],
+        [
+          "Ellenőrizhető becslés",
+          "Az AI jó kiindulópontot ad, de az adagméretet, olajat, szószokat és rejtett összetevőket érdemes mentés előtt átnézni."
+        ],
+        [
+          "Fenntartható szokás",
+          "A cél nem egyetlen tökéletes szám, hanem egy napló, amely elég egyszerű ahhoz, hogy rendszeresen használd."
+        ]
+      ],
+      "workflowTitle": "Hogyan használd a mindennapi naplózásban",
+      "workflow": [
+        "Kezdd azzal a módszerrel, amelyik a helyzethez illik: fotó, vonalkód vagy kézi javítás. A(z) étkezési napló akkor működik jól, ha a gyors rögzítést rövid ellenőrzéssel egészíted ki.",
+        "Nézd meg a kalóriát és a makrókat, majd javítsd az adagot, ha a becslés eltér attól, amit ténylegesen ettél. Így a napló gyors marad, de nem lesz vakon automatikus."
+      ],
+      "note": "A tápértékbecslés tájékoztató jellegű. A pontosságot az adag, a recept, a márka és az elkészítés is befolyásolja.",
+      "bestFor": [
+        "napi naplózás",
+        "visszatérő szokások",
+        "vizuális áttekintés",
+        "rugalmas bevitel"
+      ],
+      "workflowKicker": "Gyakorlati használat",
+      "noteTitle": "Fontos tudni"
+    },
+    "/nutrition-tracker/": {
+      "title": "Tápanyagkövető",
+      "h1": "Kalória- és tápanyagkövetés egy helyen",
+      "description": "Kövesd a kalóriát, makrókat és étkezési mintákat gyors, szerkeszthető bejegyzésekkel.",
+      "kicker": "Tápanyagok",
+      "summary": "A(z) tápanyagkövetés lényege, hogy az étkezés rögzítése gyors, ellenőrizhető és a hétköznapokban is tartható legyen.",
+      "bullets": [
+        "Kalória és makrók",
+        "Étkezési minták",
+        "Szerkeszthető adatok",
+        "Áttekinthető napló"
+      ],
+      "sections": [
+        [
+          "Gyorsabb kezdés",
+          "A(z) tápanyagkövetés akkor hasznos, amikor nincs idő minden összetevőt kézzel keresni, de mégis szeretnél használható bejegyzést."
+        ],
+        [
+          "Ellenőrizhető becslés",
+          "Az AI jó kiindulópontot ad, de az adagméretet, olajat, szószokat és rejtett összetevőket érdemes mentés előtt átnézni."
+        ],
+        [
+          "Fenntartható szokás",
+          "A cél nem egyetlen tökéletes szám, hanem egy napló, amely elég egyszerű ahhoz, hogy rendszeresen használd."
+        ]
+      ],
+      "workflowTitle": "Hogyan használd a mindennapi naplózásban",
+      "workflow": [
+        "Kezdd azzal a módszerrel, amelyik a helyzethez illik: fotó, vonalkód vagy kézi javítás. A(z) tápanyagkövetés akkor működik jól, ha a gyors rögzítést rövid ellenőrzéssel egészíted ki.",
+        "Nézd meg a kalóriát és a makrókat, majd javítsd az adagot, ha a becslés eltér attól, amit ténylegesen ettél. Így a napló gyors marad, de nem lesz vakon automatikus."
+      ],
+      "note": "A tápértékbecslés tájékoztató jellegű. A pontosságot az adag, a recept, a márka és az elkészítés is befolyásolja.",
+      "bestFor": [
+        "tudatos étrend",
+        "napi visszajelzés",
+        "adagellenőrzés",
+        "szokásépítés"
+      ],
+      "workflowKicker": "Gyakorlati használat",
+      "noteTitle": "Fontos tudni"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Adagméret-becslő",
+      "h1": "Étkezés súlyának becslése fotó alapján",
+      "description": "Kapj kiinduló becslést az adagméretre, majd javítsd, ha jobban tudod a mennyiséget.",
+      "kicker": "Adagbecslés",
+      "summary": "A(z) adagméret-becslés lényege, hogy az étkezés rögzítése gyors, ellenőrizhető és a hétköznapokban is tartható legyen.",
+      "bullets": [
+        "Súlybecslés fotóból",
+        "Szerkeszthető adag",
+        "Hasznos címke nélküli ételeknél",
+        "Jobb kalóriabecslés"
+      ],
+      "sections": [
+        [
+          "Gyorsabb kezdés",
+          "A(z) adagméret-becslés akkor hasznos, amikor nincs idő minden összetevőt kézzel keresni, de mégis szeretnél használható bejegyzést."
+        ],
+        [
+          "Ellenőrizhető becslés",
+          "Az AI jó kiindulópontot ad, de az adagméretet, olajat, szószokat és rejtett összetevőket érdemes mentés előtt átnézni."
+        ],
+        [
+          "Fenntartható szokás",
+          "A cél nem egyetlen tökéletes szám, hanem egy napló, amely elég egyszerű ahhoz, hogy rendszeresen használd."
+        ]
+      ],
+      "workflowTitle": "Hogyan használd a mindennapi naplózásban",
+      "workflow": [
+        "Kezdd azzal a módszerrel, amelyik a helyzethez illik: fotó, vonalkód vagy kézi javítás. A(z) adagméret-becslés akkor működik jól, ha a gyors rögzítést rövid ellenőrzéssel egészíted ki.",
+        "Nézd meg a kalóriát és a makrókat, majd javítsd az adagot, ha a becslés eltér attól, amit ténylegesen ettél. Így a napló gyors marad, de nem lesz vakon automatikus."
+      ],
+      "note": "A tápértékbecslés tájékoztató jellegű. A pontosságot az adag, a recept, a márka és az elkészítés is befolyásolja.",
+      "bestFor": [
+        "adagellenőrzés",
+        "házi ételek",
+        "éttermi ételek",
+        "gyors becslés"
+      ],
+      "workflowKicker": "Gyakorlati használat",
+      "noteTitle": "Fontos tudni"
+    },
+    "/progress-statistics/": {
+      "title": "Haladási statisztikák",
+      "h1": "Lásd az étrendi trendeket napok és hetek szerint",
+      "description": "Kövesd a kalória- és makrótrendeket, hogy ne csak egyetlen napot láss.",
+      "kicker": "Statisztikák",
+      "summary": "A(z) haladási statisztikák lényege, hogy az étkezés rögzítése gyors, ellenőrizhető és a hétköznapokban is tartható legyen.",
+      "bullets": [
+        "Napi és heti nézetek",
+        "Kalória- és makrótrendek",
+        "Szokások felismerése",
+        "Tisztább visszajelzés"
+      ],
+      "sections": [
+        [
+          "Gyorsabb kezdés",
+          "A(z) haladási statisztikák akkor hasznos, amikor nincs idő minden összetevőt kézzel keresni, de mégis szeretnél használható bejegyzést."
+        ],
+        [
+          "Ellenőrizhető becslés",
+          "Az AI jó kiindulópontot ad, de az adagméretet, olajat, szószokat és rejtett összetevőket érdemes mentés előtt átnézni."
+        ],
+        [
+          "Fenntartható szokás",
+          "A cél nem egyetlen tökéletes szám, hanem egy napló, amely elég egyszerű ahhoz, hogy rendszeresen használd."
+        ]
+      ],
+      "workflowTitle": "Hogyan használd a mindennapi naplózásban",
+      "workflow": [
+        "Kezdd azzal a módszerrel, amelyik a helyzethez illik: fotó, vonalkód vagy kézi javítás. A(z) haladási statisztikák akkor működik jól, ha a gyors rögzítést rövid ellenőrzéssel egészíted ki.",
+        "Nézd meg a kalóriát és a makrókat, majd javítsd az adagot, ha a becslés eltér attól, amit ténylegesen ettél. Így a napló gyors marad, de nem lesz vakon automatikus."
+      ],
+      "note": "A tápértékbecslés tájékoztató jellegű. A pontosságot az adag, a recept, a márka és az elkészítés is befolyásolja.",
+      "bestFor": [
+        "trendkövetés",
+        "heti átlag",
+        "szokások",
+        "célok"
+      ],
+      "workflowKicker": "Gyakorlati használat",
+      "noteTitle": "Fontos tudni"
+    },
+    "/meal-reminders/": {
+      "title": "Étkezési emlékeztetők",
+      "h1": "Emlékeztetők, hogy ne maradjon ki a naplózás",
+      "description": "Állíts be finom emlékeztetőket, hogy az étkezés rögzítése szokássá váljon.",
+      "kicker": "Emlékeztetők",
+      "summary": "A(z) étkezési emlékeztetők lényege, hogy az étkezés rögzítése gyors, ellenőrizhető és a hétköznapokban is tartható legyen.",
+      "bullets": [
+        "Finom jelzések",
+        "Rendszeres naplózás",
+        "Kevesebb elfelejtett bejegyzés",
+        "Jobb napi összkép"
+      ],
+      "sections": [
+        [
+          "Gyorsabb kezdés",
+          "A(z) étkezési emlékeztetők akkor hasznos, amikor nincs idő minden összetevőt kézzel keresni, de mégis szeretnél használható bejegyzést."
+        ],
+        [
+          "Ellenőrizhető becslés",
+          "Az AI jó kiindulópontot ad, de az adagméretet, olajat, szószokat és rejtett összetevőket érdemes mentés előtt átnézni."
+        ],
+        [
+          "Fenntartható szokás",
+          "A cél nem egyetlen tökéletes szám, hanem egy napló, amely elég egyszerű ahhoz, hogy rendszeresen használd."
+        ]
+      ],
+      "workflowTitle": "Hogyan használd a mindennapi naplózásban",
+      "workflow": [
+        "Kezdd azzal a módszerrel, amelyik a helyzethez illik: fotó, vonalkód vagy kézi javítás. A(z) étkezési emlékeztetők akkor működik jól, ha a gyors rögzítést rövid ellenőrzéssel egészíted ki.",
+        "Nézd meg a kalóriát és a makrókat, majd javítsd az adagot, ha a becslés eltér attól, amit ténylegesen ettél. Így a napló gyors marad, de nem lesz vakon automatikus."
+      ],
+      "note": "A tápértékbecslés tájékoztató jellegű. A pontosságot az adag, a recept, a márka és az elkészítés is befolyásolja.",
+      "bestFor": [
+        "szokásépítés",
+        "elfoglalt napok",
+        "következetesség",
+        "napi rutin"
+      ],
+      "workflowKicker": "Gyakorlati használat",
+      "noteTitle": "Fontos tudni"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Kapcsolat egészségügyi adatokkal Androidon",
+      "description": "Kapcsold össze a támogatott egészségügyi adatokat, ha kényelmesen szeretnéd egy helyen látni a kontextust.",
+      "kicker": "Integráció",
+      "summary": "A(z) Health Connect integráció lényege, hogy az étkezés rögzítése gyors, ellenőrizhető és a hétköznapokban is tartható legyen.",
+      "bullets": [
+        "Android egészségügyi kontextus",
+        "Engedélyek kézben tartása",
+        "Kiegészítő adatok",
+        "Adatvédelem figyelése"
+      ],
+      "sections": [
+        [
+          "Gyorsabb kezdés",
+          "A(z) Health Connect integráció akkor hasznos, amikor nincs idő minden összetevőt kézzel keresni, de mégis szeretnél használható bejegyzést."
+        ],
+        [
+          "Ellenőrizhető becslés",
+          "Az AI jó kiindulópontot ad, de az adagméretet, olajat, szószokat és rejtett összetevőket érdemes mentés előtt átnézni."
+        ],
+        [
+          "Fenntartható szokás",
+          "A cél nem egyetlen tökéletes szám, hanem egy napló, amely elég egyszerű ahhoz, hogy rendszeresen használd."
+        ]
+      ],
+      "workflowTitle": "Hogyan használd a mindennapi naplózásban",
+      "workflow": [
+        "Kezdd azzal a módszerrel, amelyik a helyzethez illik: fotó, vonalkód vagy kézi javítás. A(z) Health Connect integráció akkor működik jól, ha a gyors rögzítést rövid ellenőrzéssel egészíted ki.",
+        "Nézd meg a kalóriát és a makrókat, majd javítsd az adagot, ha a becslés eltér attól, amit ténylegesen ettél. Így a napló gyors marad, de nem lesz vakon automatikus."
+      ],
+      "note": "A tápértékbecslés tájékoztató jellegű. A pontosságot az adag, a recept, a márka és az elkészítés is befolyásolja.",
+      "bestFor": [
+        "Android felhasználók",
+        "egészségügyi kontextus",
+        "engedélykezelés",
+        "áttekintés"
+      ],
+      "workflowKicker": "Gyakorlati használat",
+      "noteTitle": "Fontos tudni"
+    },
+    "/data-export/": {
+      "title": "Adatok exportálása",
+      "h1": "Exportáld az étkezési adatokat",
+      "description": "Mentsd ki az étkezési napló adatait, ha elemzéshez vagy saját nyilvántartáshoz szükséged van rájuk.",
+      "kicker": "Export",
+      "summary": "A(z) adat exportálás lényege, hogy az étkezés rögzítése gyors, ellenőrizhető és a hétköznapokban is tartható legyen.",
+      "bullets": [
+        "Saját adatok mentése",
+        "Áttekinthető export",
+        "Hasznos hosszabb trendekhez",
+        "Rugalmasabb elemzés"
+      ],
+      "sections": [
+        [
+          "Gyorsabb kezdés",
+          "A(z) adat exportálás akkor hasznos, amikor nincs idő minden összetevőt kézzel keresni, de mégis szeretnél használható bejegyzést."
+        ],
+        [
+          "Ellenőrizhető becslés",
+          "Az AI jó kiindulópontot ad, de az adagméretet, olajat, szószokat és rejtett összetevőket érdemes mentés előtt átnézni."
+        ],
+        [
+          "Fenntartható szokás",
+          "A cél nem egyetlen tökéletes szám, hanem egy napló, amely elég egyszerű ahhoz, hogy rendszeresen használd."
+        ]
+      ],
+      "workflowTitle": "Hogyan használd a mindennapi naplózásban",
+      "workflow": [
+        "Kezdd azzal a módszerrel, amelyik a helyzethez illik: fotó, vonalkód vagy kézi javítás. A(z) adat exportálás akkor működik jól, ha a gyors rögzítést rövid ellenőrzéssel egészíted ki.",
+        "Nézd meg a kalóriát és a makrókat, majd javítsd az adagot, ha a becslés eltér attól, amit ténylegesen ettél. Így a napló gyors marad, de nem lesz vakon automatikus."
+      ],
+      "note": "A tápértékbecslés tájékoztató jellegű. A pontosságot az adag, a recept, a márka és az elkészítés is befolyásolja.",
+      "bestFor": [
+        "saját nyilvántartás",
+        "hosszú távú trendek",
+        "adatmentés",
+        "áttekintés"
+      ],
+      "workflowKicker": "Gyakorlati használat",
+      "noteTitle": "Fontos tudni"
+    },
+    "/use-cases/": {
+      "title": "Felhasználási területek",
+      "h1": "Mire használható a Calorie Counter AI?",
+      "description": "Fogyás, izomépítés, testsúlytartás, házi ételek, éttermi étkezés és mindennapi naplózás.",
+      "kicker": "Célok"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Kalóriaszámláló fogyáshoz",
+      "h1": "Kalóriakövetés fogyáshoz",
+      "description": "Lásd a napi kalóriakeretet, naplózd az ételeket gyorsabban, és tartsd kézben a deficitet.",
+      "kicker": "Fogyás",
+      "summary": "A(z) fogyási kalóriakövetés lényege, hogy az étkezés rögzítése gyors, ellenőrizhető és a hétköznapokban is tartható legyen.",
+      "bullets": [
+        "Napi kalóriakeret",
+        "Gyors fotós naplózás",
+        "Makrók fogyás mellett",
+        "Trendek hetek szerint"
+      ],
+      "sections": [
+        [
+          "Gyorsabb kezdés",
+          "A(z) fogyási kalóriakövetés akkor hasznos, amikor nincs idő minden összetevőt kézzel keresni, de mégis szeretnél használható bejegyzést."
+        ],
+        [
+          "Ellenőrizhető becslés",
+          "Az AI jó kiindulópontot ad, de az adagméretet, olajat, szószokat és rejtett összetevőket érdemes mentés előtt átnézni."
+        ],
+        [
+          "Fenntartható szokás",
+          "A cél nem egyetlen tökéletes szám, hanem egy napló, amely elég egyszerű ahhoz, hogy rendszeresen használd."
+        ]
+      ],
+      "workflowTitle": "Hogyan használd a mindennapi naplózásban",
+      "workflow": [
+        "Kezdd azzal a módszerrel, amelyik a helyzethez illik: fotó, vonalkód vagy kézi javítás. A(z) fogyási kalóriakövetés akkor működik jól, ha a gyors rögzítést rövid ellenőrzéssel egészíted ki.",
+        "Nézd meg a kalóriát és a makrókat, majd javítsd az adagot, ha a becslés eltér attól, amit ténylegesen ettél. Így a napló gyors marad, de nem lesz vakon automatikus."
+      ],
+      "note": "A tápértékbecslés tájékoztató jellegű. A pontosságot az adag, a recept, a márka és az elkészítés is befolyásolja.",
+      "bestFor": [
+        "kalóriadeficit",
+        "adagkontroll",
+        "napi cél",
+        "rendszeres napló"
+      ],
+      "workflowKicker": "Gyakorlati használat",
+      "noteTitle": "Fontos tudni"
+    },
+    "/calorie-deficit-app/": {
+      "title": "Kalóriadeficit alkalmazás",
+      "h1": "Kövesd a kalóriadeficitet egyszerűbben",
+      "description": "Értsd meg, mennyi kalória fér bele a napba, és rögzítsd az étkezéseket gyorsan.",
+      "kicker": "Deficit",
+      "summary": "A(z) kalóriadeficit követése lényege, hogy az étkezés rögzítése gyors, ellenőrizhető és a hétköznapokban is tartható legyen.",
+      "bullets": [
+        "Napi cél",
+        "Maradék kalória",
+        "Adagellenőrzés",
+        "Heti trendek"
+      ],
+      "sections": [
+        [
+          "Gyorsabb kezdés",
+          "A(z) kalóriadeficit követése akkor hasznos, amikor nincs idő minden összetevőt kézzel keresni, de mégis szeretnél használható bejegyzést."
+        ],
+        [
+          "Ellenőrizhető becslés",
+          "Az AI jó kiindulópontot ad, de az adagméretet, olajat, szószokat és rejtett összetevőket érdemes mentés előtt átnézni."
+        ],
+        [
+          "Fenntartható szokás",
+          "A cél nem egyetlen tökéletes szám, hanem egy napló, amely elég egyszerű ahhoz, hogy rendszeresen használd."
+        ]
+      ],
+      "workflowTitle": "Hogyan használd a mindennapi naplózásban",
+      "workflow": [
+        "Kezdd azzal a módszerrel, amelyik a helyzethez illik: fotó, vonalkód vagy kézi javítás. A(z) kalóriadeficit követése akkor működik jól, ha a gyors rögzítést rövid ellenőrzéssel egészíted ki.",
+        "Nézd meg a kalóriát és a makrókat, majd javítsd az adagot, ha a becslés eltér attól, amit ténylegesen ettél. Így a napló gyors marad, de nem lesz vakon automatikus."
+      ],
+      "note": "A tápértékbecslés tájékoztató jellegű. A pontosságot az adag, a recept, a márka és az elkészítés is befolyásolja.",
+      "bestFor": [
+        "fogyási cél",
+        "kalóriakeret",
+        "átlagok",
+        "tudatos döntés"
+      ],
+      "workflowKicker": "Gyakorlati használat",
+      "noteTitle": "Fontos tudni"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Kalóriakövető izomépítéshez",
+      "h1": "Kalória és fehérje izomtömeg-növeléshez",
+      "description": "Kövesd a kalóriát és fehérjét, amikor energiatöbbletben szeretnél enni.",
+      "kicker": "Izomépítés",
+      "summary": "A(z) izomtömeg-növelés lényege, hogy az étkezés rögzítése gyors, ellenőrizhető és a hétköznapokban is tartható legyen.",
+      "bullets": [
+        "Fehérjecél",
+        "Kalóriatöbblet",
+        "Makrók követése",
+        "Étkezések gyors naplózása"
+      ],
+      "sections": [
+        [
+          "Gyorsabb kezdés",
+          "A(z) izomtömeg-növelés akkor hasznos, amikor nincs idő minden összetevőt kézzel keresni, de mégis szeretnél használható bejegyzést."
+        ],
+        [
+          "Ellenőrizhető becslés",
+          "Az AI jó kiindulópontot ad, de az adagméretet, olajat, szószokat és rejtett összetevőket érdemes mentés előtt átnézni."
+        ],
+        [
+          "Fenntartható szokás",
+          "A cél nem egyetlen tökéletes szám, hanem egy napló, amely elég egyszerű ahhoz, hogy rendszeresen használd."
+        ]
+      ],
+      "workflowTitle": "Hogyan használd a mindennapi naplózásban",
+      "workflow": [
+        "Kezdd azzal a módszerrel, amelyik a helyzethez illik: fotó, vonalkód vagy kézi javítás. A(z) izomtömeg-növelés akkor működik jól, ha a gyors rögzítést rövid ellenőrzéssel egészíted ki.",
+        "Nézd meg a kalóriát és a makrókat, majd javítsd az adagot, ha a becslés eltér attól, amit ténylegesen ettél. Így a napló gyors marad, de nem lesz vakon automatikus."
+      ],
+      "note": "A tápértékbecslés tájékoztató jellegű. A pontosságot az adag, a recept, a márka és az elkészítés is befolyásolja.",
+      "bestFor": [
+        "fehérjekövetés",
+        "tömegnövelés",
+        "edzés melletti étrend",
+        "napi makrók"
+      ],
+      "workflowKicker": "Gyakorlati használat",
+      "noteTitle": "Fontos tudni"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Testsúlytartó kalóriakövető",
+      "h1": "Kalóriakövetés testsúlytartáshoz",
+      "description": "Tartsd stabilan a rutint, és figyeld a trendeket anélkül, hogy túlbonyolítanád a naplózást.",
+      "kicker": "Testsúlytartás",
+      "summary": "A(z) testsúlytartó követés lényege, hogy az étkezés rögzítése gyors, ellenőrizhető és a hétköznapokban is tartható legyen.",
+      "bullets": [
+        "Rugalmas naplózás",
+        "Heti átlagok",
+        "Makrók áttekintése",
+        "Szokások felismerése"
+      ],
+      "sections": [
+        [
+          "Gyorsabb kezdés",
+          "A(z) testsúlytartó követés akkor hasznos, amikor nincs idő minden összetevőt kézzel keresni, de mégis szeretnél használható bejegyzést."
+        ],
+        [
+          "Ellenőrizhető becslés",
+          "Az AI jó kiindulópontot ad, de az adagméretet, olajat, szószokat és rejtett összetevőket érdemes mentés előtt átnézni."
+        ],
+        [
+          "Fenntartható szokás",
+          "A cél nem egyetlen tökéletes szám, hanem egy napló, amely elég egyszerű ahhoz, hogy rendszeresen használd."
+        ]
+      ],
+      "workflowTitle": "Hogyan használd a mindennapi naplózásban",
+      "workflow": [
+        "Kezdd azzal a módszerrel, amelyik a helyzethez illik: fotó, vonalkód vagy kézi javítás. A(z) testsúlytartó követés akkor működik jól, ha a gyors rögzítést rövid ellenőrzéssel egészíted ki.",
+        "Nézd meg a kalóriát és a makrókat, majd javítsd az adagot, ha a becslés eltér attól, amit ténylegesen ettél. Így a napló gyors marad, de nem lesz vakon automatikus."
+      ],
+      "note": "A tápértékbecslés tájékoztató jellegű. A pontosságot az adag, a recept, a márka és az elkészítés is befolyásolja.",
+      "bestFor": [
+        "stabil rutin",
+        "heti trend",
+        "tudatos étkezés",
+        "rugalmas cél"
+      ],
+      "workflowKicker": "Gyakorlati használat",
+      "noteTitle": "Fontos tudni"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Kalóriaszámláló házi ételekhez",
+      "h1": "Házi ételek kalóriáinak becslése",
+      "description": "Fotózd le a főtt ételt, ellenőrizd az adagot és a rejtett összetevőket, majd mentsd a naplóba.",
+      "kicker": "Házi étel",
+      "summary": "A(z) házi étel naplózása lényege, hogy az étkezés rögzítése gyors, ellenőrizhető és a hétköznapokban is tartható legyen.",
+      "bullets": [
+        "Receptek címke nélkül",
+        "Olaj és szósz ellenőrzése",
+        "Adag módosítása",
+        "Gyors becslés"
+      ],
+      "sections": [
+        [
+          "Gyorsabb kezdés",
+          "A(z) házi étel naplózása akkor hasznos, amikor nincs idő minden összetevőt kézzel keresni, de mégis szeretnél használható bejegyzést."
+        ],
+        [
+          "Ellenőrizhető becslés",
+          "Az AI jó kiindulópontot ad, de az adagméretet, olajat, szószokat és rejtett összetevőket érdemes mentés előtt átnézni."
+        ],
+        [
+          "Fenntartható szokás",
+          "A cél nem egyetlen tökéletes szám, hanem egy napló, amely elég egyszerű ahhoz, hogy rendszeresen használd."
+        ]
+      ],
+      "workflowTitle": "Hogyan használd a mindennapi naplózásban",
+      "workflow": [
+        "Kezdd azzal a módszerrel, amelyik a helyzethez illik: fotó, vonalkód vagy kézi javítás. A(z) házi étel naplózása akkor működik jól, ha a gyors rögzítést rövid ellenőrzéssel egészíted ki.",
+        "Nézd meg a kalóriát és a makrókat, majd javítsd az adagot, ha a becslés eltér attól, amit ténylegesen ettél. Így a napló gyors marad, de nem lesz vakon automatikus."
+      ],
+      "note": "A tápértékbecslés tájékoztató jellegű. A pontosságot az adag, a recept, a márka és az elkészítés is befolyásolja.",
+      "bestFor": [
+        "főtt ételek",
+        "családi receptek",
+        "maradékok",
+        "adagbecslés"
+      ],
+      "workflowKicker": "Gyakorlati használat",
+      "noteTitle": "Fontos tudni"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Éttermi kalóriakövető",
+      "h1": "Éttermi ételek gyorsabb naplózása",
+      "description": "Használj fotóalapú becslést, amikor nincs pontos recept vagy tápértékcímke.",
+      "kicker": "Étterem",
+      "summary": "A(z) éttermi étel naplózása lényege, hogy az étkezés rögzítése gyors, ellenőrizhető és a hétköznapokban is tartható legyen.",
+      "bullets": [
+        "Gyors becslés fotóból",
+        "Rejtett szószok figyelése",
+        "Adag módosítása",
+        "Hasznos útközben"
+      ],
+      "sections": [
+        [
+          "Gyorsabb kezdés",
+          "A(z) éttermi étel naplózása akkor hasznos, amikor nincs idő minden összetevőt kézzel keresni, de mégis szeretnél használható bejegyzést."
+        ],
+        [
+          "Ellenőrizhető becslés",
+          "Az AI jó kiindulópontot ad, de az adagméretet, olajat, szószokat és rejtett összetevőket érdemes mentés előtt átnézni."
+        ],
+        [
+          "Fenntartható szokás",
+          "A cél nem egyetlen tökéletes szám, hanem egy napló, amely elég egyszerű ahhoz, hogy rendszeresen használd."
+        ]
+      ],
+      "workflowTitle": "Hogyan használd a mindennapi naplózásban",
+      "workflow": [
+        "Kezdd azzal a módszerrel, amelyik a helyzethez illik: fotó, vonalkód vagy kézi javítás. A(z) éttermi étel naplózása akkor működik jól, ha a gyors rögzítést rövid ellenőrzéssel egészíted ki.",
+        "Nézd meg a kalóriát és a makrókat, majd javítsd az adagot, ha a becslés eltér attól, amit ténylegesen ettél. Így a napló gyors marad, de nem lesz vakon automatikus."
+      ],
+      "note": "A tápértékbecslés tájékoztató jellegű. A pontosságot az adag, a recept, a márka és az elkészítés is befolyásolja.",
+      "bestFor": [
+        "éttermi étkezés",
+        "utazás",
+        "gyors naplózás",
+        "becslés címke nélkül"
+      ],
+      "workflowKicker": "Gyakorlati használat",
+      "noteTitle": "Fontos tudni"
+    },
+    "/meal-tracker/": {
+      "title": "Étkezéskövető",
+      "h1": "Étkezések követése fotóval és naplóval",
+      "description": "Rögzítsd a reggelit, ebédet, vacsorát és snackeket gyorsan, majd nézd át a napi összképet.",
+      "kicker": "Étkezések",
+      "summary": "A(z) étkezéskövetés lényege, hogy az étkezés rögzítése gyors, ellenőrizhető és a hétköznapokban is tartható legyen.",
+      "bullets": [
+        "Étkezések gyors rögzítése",
+        "Napi összesítés",
+        "Fotó és vonalkód",
+        "Makrók követése"
+      ],
+      "sections": [
+        [
+          "Gyorsabb kezdés",
+          "A(z) étkezéskövetés akkor hasznos, amikor nincs idő minden összetevőt kézzel keresni, de mégis szeretnél használható bejegyzést."
+        ],
+        [
+          "Ellenőrizhető becslés",
+          "Az AI jó kiindulópontot ad, de az adagméretet, olajat, szószokat és rejtett összetevőket érdemes mentés előtt átnézni."
+        ],
+        [
+          "Fenntartható szokás",
+          "A cél nem egyetlen tökéletes szám, hanem egy napló, amely elég egyszerű ahhoz, hogy rendszeresen használd."
+        ]
+      ],
+      "workflowTitle": "Hogyan használd a mindennapi naplózásban",
+      "workflow": [
+        "Kezdd azzal a módszerrel, amelyik a helyzethez illik: fotó, vonalkód vagy kézi javítás. A(z) étkezéskövetés akkor működik jól, ha a gyors rögzítést rövid ellenőrzéssel egészíted ki.",
+        "Nézd meg a kalóriát és a makrókat, majd javítsd az adagot, ha a becslés eltér attól, amit ténylegesen ettél. Így a napló gyors marad, de nem lesz vakon automatikus."
+      ],
+      "note": "A tápértékbecslés tájékoztató jellegű. A pontosságot az adag, a recept, a márka és az elkészítés is befolyásolja.",
+      "bestFor": [
+        "reggeli",
+        "ebéd",
+        "vacsora",
+        "snackek"
+      ],
+      "workflowKicker": "Gyakorlati használat",
+      "noteTitle": "Fontos tudni"
+    },
+    "/photo-food-journal/": {
+      "title": "Fotós étkezési napló",
+      "h1": "Étkezési napló fotókkal",
+      "description": "A fotók segítenek emlékezni arra, mit ettél, és könnyebb észrevenni a visszatérő szokásokat.",
+      "kicker": "Fotónapló",
+      "summary": "A(z) fotós étkezési napló lényege, hogy az étkezés rögzítése gyors, ellenőrizhető és a hétköznapokban is tartható legyen.",
+      "bullets": [
+        "Vizuális bejegyzések",
+        "Gyors visszatekintés",
+        "Szokások felismerése",
+        "Kevesebb gépelés"
+      ],
+      "sections": [
+        [
+          "Gyorsabb kezdés",
+          "A(z) fotós étkezési napló akkor hasznos, amikor nincs idő minden összetevőt kézzel keresni, de mégis szeretnél használható bejegyzést."
+        ],
+        [
+          "Ellenőrizhető becslés",
+          "Az AI jó kiindulópontot ad, de az adagméretet, olajat, szószokat és rejtett összetevőket érdemes mentés előtt átnézni."
+        ],
+        [
+          "Fenntartható szokás",
+          "A cél nem egyetlen tökéletes szám, hanem egy napló, amely elég egyszerű ahhoz, hogy rendszeresen használd."
+        ]
+      ],
+      "workflowTitle": "Hogyan használd a mindennapi naplózásban",
+      "workflow": [
+        "Kezdd azzal a módszerrel, amelyik a helyzethez illik: fotó, vonalkód vagy kézi javítás. A(z) fotós étkezési napló akkor működik jól, ha a gyors rögzítést rövid ellenőrzéssel egészíted ki.",
+        "Nézd meg a kalóriát és a makrókat, majd javítsd az adagot, ha a becslés eltér attól, amit ténylegesen ettél. Így a napló gyors marad, de nem lesz vakon automatikus."
+      ],
+      "note": "A tápértékbecslés tájékoztató jellegű. A pontosságot az adag, a recept, a márka és az elkészítés is befolyásolja.",
+      "bestFor": [
+        "vizuális napló",
+        "szokások",
+        "gyors ellenőrzés",
+        "mindennapi használat"
+      ],
+      "workflowKicker": "Gyakorlati használat",
+      "noteTitle": "Fontos tudni"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Egészséges étkezéskövető",
+      "h1": "Tudatosabb étkezés kalóriával és makrókkal",
+      "description": "Használd a naplót visszajelzésként, nem ítéletként: lásd, mi támogatja a céljaidat.",
+      "kicker": "Egészséges étkezés",
+      "summary": "A(z) egészséges étkezés követése lényege, hogy az étkezés rögzítése gyors, ellenőrizhető és a hétköznapokban is tartható legyen.",
+      "bullets": [
+        "Tudatos döntések",
+        "Makrók áttekintése",
+        "Rendszeres visszajelzés",
+        "Rugalmas naplózás"
+      ],
+      "sections": [
+        [
+          "Gyorsabb kezdés",
+          "A(z) egészséges étkezés követése akkor hasznos, amikor nincs idő minden összetevőt kézzel keresni, de mégis szeretnél használható bejegyzést."
+        ],
+        [
+          "Ellenőrizhető becslés",
+          "Az AI jó kiindulópontot ad, de az adagméretet, olajat, szószokat és rejtett összetevőket érdemes mentés előtt átnézni."
+        ],
+        [
+          "Fenntartható szokás",
+          "A cél nem egyetlen tökéletes szám, hanem egy napló, amely elég egyszerű ahhoz, hogy rendszeresen használd."
+        ]
+      ],
+      "workflowTitle": "Hogyan használd a mindennapi naplózásban",
+      "workflow": [
+        "Kezdd azzal a módszerrel, amelyik a helyzethez illik: fotó, vonalkód vagy kézi javítás. A(z) egészséges étkezés követése akkor működik jól, ha a gyors rögzítést rövid ellenőrzéssel egészíted ki.",
+        "Nézd meg a kalóriát és a makrókat, majd javítsd az adagot, ha a becslés eltér attól, amit ténylegesen ettél. Így a napló gyors marad, de nem lesz vakon automatikus."
+      ],
+      "note": "A tápértékbecslés tájékoztató jellegű. A pontosságot az adag, a recept, a márka és az elkészítés is befolyásolja.",
+      "bestFor": [
+        "tudatos étkezés",
+        "jobb rutin",
+        "adagkontroll",
+        "hosszabb trendek"
+      ],
+      "workflowKicker": "Gyakorlati használat",
+      "noteTitle": "Fontos tudni"
+    },
+    "/blog/": {
+      "title": "Útmutatók",
+      "h1": "Kalóriaszámolási és étkezéskövetési útmutatók",
+      "description": "Gyakorlati cikkek fotós naplózásról, makrókról, adagokról és kalóriadeficitről.",
+      "kicker": "Tanulás"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Hogyan számolj kalóriát fotó alapján",
+      "h1": "Hogyan számolj kalóriát fotó alapján",
+      "description": "Hogyan számolj kalóriát fotó alapján: gyakorlati útmutató étkezési naplózáshoz, adagellenőrzéshez és tudatosabb kalóriakövetéshez.",
+      "category": "Útmutató",
+      "readTime": "4 perc olvasás",
+      "intro": "A jó kalóriakövetés nem a tökéletes számokról szól, hanem arról, hogy elég pontos és rendszeres visszajelzést adjon a mindennapi döntésekhez.",
+      "sections": [
+        [
+          "Kezdd egyszerűen",
+          "Először a legfontosabb értékeket figyeld: kalória, adagméret, és a célodtól függően fehérje vagy más makrók."
+        ],
+        [
+          "Ellenőrizd az adagot",
+          "Az adag gyakran többet változtat az eredményen, mint az, hogy pontosan melyik adatbázis-bejegyzést választod."
+        ],
+        [
+          "Add hozzá a kontextust",
+          "Az olaj, szósz, ital, márka és elkészítési mód jelentősen módosíthatja a becslést."
+        ],
+        [
+          "Nézd a trendet",
+          "Egy többnapos átlag hasznosabb, mint egyetlen túlprecíz bejegyzés."
+        ]
+      ],
+      "takeaway": "A rendszeres, ésszerűen pontos napló hasznosabb, mint a ritka, tökéletes mérés."
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Mennyire pontosak az AI kalóriaszámlálók?",
+      "h1": "Mennyire pontosak az AI kalóriaszámlálók?",
+      "description": "Mennyire pontosak az AI kalóriaszámlálók?: gyakorlati útmutató étkezési naplózáshoz, adagellenőrzéshez és tudatosabb kalóriakövetéshez.",
+      "category": "Útmutató",
+      "readTime": "4 perc olvasás",
+      "intro": "A jó kalóriakövetés nem a tökéletes számokról szól, hanem arról, hogy elég pontos és rendszeres visszajelzést adjon a mindennapi döntésekhez.",
+      "sections": [
+        [
+          "Kezdd egyszerűen",
+          "Először a legfontosabb értékeket figyeld: kalória, adagméret, és a célodtól függően fehérje vagy más makrók."
+        ],
+        [
+          "Ellenőrizd az adagot",
+          "Az adag gyakran többet változtat az eredményen, mint az, hogy pontosan melyik adatbázis-bejegyzést választod."
+        ],
+        [
+          "Add hozzá a kontextust",
+          "Az olaj, szósz, ital, márka és elkészítési mód jelentősen módosíthatja a becslést."
+        ],
+        [
+          "Nézd a trendet",
+          "Egy többnapos átlag hasznosabb, mint egyetlen túlprecíz bejegyzés."
+        ]
+      ],
+      "takeaway": "A rendszeres, ésszerűen pontos napló hasznosabb, mint a ritka, tökéletes mérés."
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "AI kalóriaszámláló vagy kézi naplózás?",
+      "h1": "AI kalóriaszámláló vagy kézi naplózás?",
+      "description": "AI kalóriaszámláló vagy kézi naplózás?: gyakorlati útmutató étkezési naplózáshoz, adagellenőrzéshez és tudatosabb kalóriakövetéshez.",
+      "category": "Útmutató",
+      "readTime": "4 perc olvasás",
+      "intro": "A jó kalóriakövetés nem a tökéletes számokról szól, hanem arról, hogy elég pontos és rendszeres visszajelzést adjon a mindennapi döntésekhez.",
+      "sections": [
+        [
+          "Kezdd egyszerűen",
+          "Először a legfontosabb értékeket figyeld: kalória, adagméret, és a célodtól függően fehérje vagy más makrók."
+        ],
+        [
+          "Ellenőrizd az adagot",
+          "Az adag gyakran többet változtat az eredményen, mint az, hogy pontosan melyik adatbázis-bejegyzést választod."
+        ],
+        [
+          "Add hozzá a kontextust",
+          "Az olaj, szósz, ital, márka és elkészítési mód jelentősen módosíthatja a becslést."
+        ],
+        [
+          "Nézd a trendet",
+          "Egy többnapos átlag hasznosabb, mint egyetlen túlprecíz bejegyzés."
+        ]
+      ],
+      "takeaway": "A rendszeres, ésszerűen pontos napló hasznosabb, mint a ritka, tökéletes mérés."
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Ételkalória-szkenner",
+      "h1": "Ételkalória-szkenner",
+      "description": "Ételkalória-szkenner: gyakorlati útmutató étkezési naplózáshoz, adagellenőrzéshez és tudatosabb kalóriakövetéshez.",
+      "category": "Útmutató",
+      "readTime": "4 perc olvasás",
+      "intro": "A jó kalóriakövetés nem a tökéletes számokról szól, hanem arról, hogy elég pontos és rendszeres visszajelzést adjon a mindennapi döntésekhez.",
+      "sections": [
+        [
+          "Kezdd egyszerűen",
+          "Először a legfontosabb értékeket figyeld: kalória, adagméret, és a célodtól függően fehérje vagy más makrók."
+        ],
+        [
+          "Ellenőrizd az adagot",
+          "Az adag gyakran többet változtat az eredményen, mint az, hogy pontosan melyik adatbázis-bejegyzést választod."
+        ],
+        [
+          "Add hozzá a kontextust",
+          "Az olaj, szósz, ital, márka és elkészítési mód jelentősen módosíthatja a becslést."
+        ],
+        [
+          "Nézd a trendet",
+          "Egy többnapos átlag hasznosabb, mint egyetlen túlprecíz bejegyzés."
+        ]
+      ],
+      "takeaway": "A rendszeres, ésszerűen pontos napló hasznosabb, mint a ritka, tökéletes mérés."
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Makrókövetés kezdőknek",
+      "h1": "Makrókövetés kezdőknek",
+      "description": "Makrókövetés kezdőknek: gyakorlati útmutató étkezési naplózáshoz, adagellenőrzéshez és tudatosabb kalóriakövetéshez.",
+      "category": "Útmutató",
+      "readTime": "4 perc olvasás",
+      "intro": "A jó kalóriakövetés nem a tökéletes számokról szól, hanem arról, hogy elég pontos és rendszeres visszajelzést adjon a mindennapi döntésekhez.",
+      "sections": [
+        [
+          "Kezdd egyszerűen",
+          "Először a legfontosabb értékeket figyeld: kalória, adagméret, és a célodtól függően fehérje vagy más makrók."
+        ],
+        [
+          "Ellenőrizd az adagot",
+          "Az adag gyakran többet változtat az eredményen, mint az, hogy pontosan melyik adatbázis-bejegyzést választod."
+        ],
+        [
+          "Add hozzá a kontextust",
+          "Az olaj, szósz, ital, márka és elkészítési mód jelentősen módosíthatja a becslést."
+        ],
+        [
+          "Nézd a trendet",
+          "Egy többnapos átlag hasznosabb, mint egyetlen túlprecíz bejegyzés."
+        ]
+      ],
+      "takeaway": "A rendszeres, ésszerűen pontos napló hasznosabb, mint a ritka, tökéletes mérés."
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Kalória és makrók: mi a különbség?",
+      "h1": "Kalória és makrók: mi a különbség?",
+      "description": "Kalória és makrók: mi a különbség?: gyakorlati útmutató étkezési naplózáshoz, adagellenőrzéshez és tudatosabb kalóriakövetéshez.",
+      "category": "Útmutató",
+      "readTime": "4 perc olvasás",
+      "intro": "A jó kalóriakövetés nem a tökéletes számokról szól, hanem arról, hogy elég pontos és rendszeres visszajelzést adjon a mindennapi döntésekhez.",
+      "sections": [
+        [
+          "Kezdd egyszerűen",
+          "Először a legfontosabb értékeket figyeld: kalória, adagméret, és a célodtól függően fehérje vagy más makrók."
+        ],
+        [
+          "Ellenőrizd az adagot",
+          "Az adag gyakran többet változtat az eredményen, mint az, hogy pontosan melyik adatbázis-bejegyzést választod."
+        ],
+        [
+          "Add hozzá a kontextust",
+          "Az olaj, szósz, ital, márka és elkészítési mód jelentősen módosíthatja a becslést."
+        ],
+        [
+          "Nézd a trendet",
+          "Egy többnapos átlag hasznosabb, mint egyetlen túlprecíz bejegyzés."
+        ]
+      ],
+      "takeaway": "A rendszeres, ésszerűen pontos napló hasznosabb, mint a ritka, tökéletes mérés."
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Hogyan számolj kalóriát házi ételben",
+      "h1": "Hogyan számolj kalóriát házi ételben",
+      "description": "Hogyan számolj kalóriát házi ételben: gyakorlati útmutató étkezési naplózáshoz, adagellenőrzéshez és tudatosabb kalóriakövetéshez.",
+      "category": "Útmutató",
+      "readTime": "4 perc olvasás",
+      "intro": "A jó kalóriakövetés nem a tökéletes számokról szól, hanem arról, hogy elég pontos és rendszeres visszajelzést adjon a mindennapi döntésekhez.",
+      "sections": [
+        [
+          "Kezdd egyszerűen",
+          "Először a legfontosabb értékeket figyeld: kalória, adagméret, és a célodtól függően fehérje vagy más makrók."
+        ],
+        [
+          "Ellenőrizd az adagot",
+          "Az adag gyakran többet változtat az eredményen, mint az, hogy pontosan melyik adatbázis-bejegyzést választod."
+        ],
+        [
+          "Add hozzá a kontextust",
+          "Az olaj, szósz, ital, márka és elkészítési mód jelentősen módosíthatja a becslést."
+        ],
+        [
+          "Nézd a trendet",
+          "Egy többnapos átlag hasznosabb, mint egyetlen túlprecíz bejegyzés."
+        ]
+      ],
+      "takeaway": "A rendszeres, ésszerűen pontos napló hasznosabb, mint a ritka, tökéletes mérés."
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Hogyan becsüld meg az adagméretet",
+      "h1": "Hogyan becsüld meg az adagméretet",
+      "description": "Hogyan becsüld meg az adagméretet: gyakorlati útmutató étkezési naplózáshoz, adagellenőrzéshez és tudatosabb kalóriakövetéshez.",
+      "category": "Útmutató",
+      "readTime": "4 perc olvasás",
+      "intro": "A jó kalóriakövetés nem a tökéletes számokról szól, hanem arról, hogy elég pontos és rendszeres visszajelzést adjon a mindennapi döntésekhez.",
+      "sections": [
+        [
+          "Kezdd egyszerűen",
+          "Először a legfontosabb értékeket figyeld: kalória, adagméret, és a célodtól függően fehérje vagy más makrók."
+        ],
+        [
+          "Ellenőrizd az adagot",
+          "Az adag gyakran többet változtat az eredményen, mint az, hogy pontosan melyik adatbázis-bejegyzést választod."
+        ],
+        [
+          "Add hozzá a kontextust",
+          "Az olaj, szósz, ital, márka és elkészítési mód jelentősen módosíthatja a becslést."
+        ],
+        [
+          "Nézd a trendet",
+          "Egy többnapos átlag hasznosabb, mint egyetlen túlprecíz bejegyzés."
+        ]
+      ],
+      "takeaway": "A rendszeres, ésszerűen pontos napló hasznosabb, mint a ritka, tökéletes mérés."
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Mennyi kalóriát egyek naponta?",
+      "h1": "Mennyi kalóriát egyek naponta?",
+      "description": "Mennyi kalóriát egyek naponta?: gyakorlati útmutató étkezési naplózáshoz, adagellenőrzéshez és tudatosabb kalóriakövetéshez.",
+      "category": "Útmutató",
+      "readTime": "4 perc olvasás",
+      "intro": "A jó kalóriakövetés nem a tökéletes számokról szól, hanem arról, hogy elég pontos és rendszeres visszajelzést adjon a mindennapi döntésekhez.",
+      "sections": [
+        [
+          "Kezdd egyszerűen",
+          "Először a legfontosabb értékeket figyeld: kalória, adagméret, és a célodtól függően fehérje vagy más makrók."
+        ],
+        [
+          "Ellenőrizd az adagot",
+          "Az adag gyakran többet változtat az eredményen, mint az, hogy pontosan melyik adatbázis-bejegyzést választod."
+        ],
+        [
+          "Add hozzá a kontextust",
+          "Az olaj, szósz, ital, márka és elkészítési mód jelentősen módosíthatja a becslést."
+        ],
+        [
+          "Nézd a trendet",
+          "Egy többnapos átlag hasznosabb, mint egyetlen túlprecíz bejegyzés."
+        ]
+      ],
+      "takeaway": "A rendszeres, ésszerűen pontos napló hasznosabb, mint a ritka, tökéletes mérés."
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Mi az a kalóriadeficit?",
+      "h1": "Mi az a kalóriadeficit?",
+      "description": "Mi az a kalóriadeficit?: gyakorlati útmutató étkezési naplózáshoz, adagellenőrzéshez és tudatosabb kalóriakövetéshez.",
+      "category": "Útmutató",
+      "readTime": "4 perc olvasás",
+      "intro": "A jó kalóriakövetés nem a tökéletes számokról szól, hanem arról, hogy elég pontos és rendszeres visszajelzést adjon a mindennapi döntésekhez.",
+      "sections": [
+        [
+          "Kezdd egyszerűen",
+          "Először a legfontosabb értékeket figyeld: kalória, adagméret, és a célodtól függően fehérje vagy más makrók."
+        ],
+        [
+          "Ellenőrizd az adagot",
+          "Az adag gyakran többet változtat az eredményen, mint az, hogy pontosan melyik adatbázis-bejegyzést választod."
+        ],
+        [
+          "Add hozzá a kontextust",
+          "Az olaj, szósz, ital, márka és elkészítési mód jelentősen módosíthatja a becslést."
+        ],
+        [
+          "Nézd a trendet",
+          "Egy többnapos átlag hasznosabb, mint egyetlen túlprecíz bejegyzés."
+        ]
+      ],
+      "takeaway": "A rendszeres, ésszerűen pontos napló hasznosabb, mint a ritka, tökéletes mérés."
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Gyakori hibák kalóriaszámoláskor",
+      "h1": "Gyakori hibák kalóriaszámoláskor",
+      "description": "Gyakori hibák kalóriaszámoláskor: gyakorlati útmutató étkezési naplózáshoz, adagellenőrzéshez és tudatosabb kalóriakövetéshez.",
+      "category": "Útmutató",
+      "readTime": "4 perc olvasás",
+      "intro": "A jó kalóriakövetés nem a tökéletes számokról szól, hanem arról, hogy elég pontos és rendszeres visszajelzést adjon a mindennapi döntésekhez.",
+      "sections": [
+        [
+          "Kezdd egyszerűen",
+          "Először a legfontosabb értékeket figyeld: kalória, adagméret, és a célodtól függően fehérje vagy más makrók."
+        ],
+        [
+          "Ellenőrizd az adagot",
+          "Az adag gyakran többet változtat az eredményen, mint az, hogy pontosan melyik adatbázis-bejegyzést választod."
+        ],
+        [
+          "Add hozzá a kontextust",
+          "Az olaj, szósz, ital, márka és elkészítési mód jelentősen módosíthatja a becslést."
+        ],
+        [
+          "Nézd a trendet",
+          "Egy többnapos átlag hasznosabb, mint egyetlen túlprecíz bejegyzés."
+        ]
+      ],
+      "takeaway": "A rendszeres, ésszerűen pontos napló hasznosabb, mint a ritka, tökéletes mérés."
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Éttermi étel naplózása",
+      "h1": "Éttermi étel naplózása",
+      "description": "Éttermi étel naplózása: gyakorlati útmutató étkezési naplózáshoz, adagellenőrzéshez és tudatosabb kalóriakövetéshez.",
+      "category": "Útmutató",
+      "readTime": "4 perc olvasás",
+      "intro": "A jó kalóriakövetés nem a tökéletes számokról szól, hanem arról, hogy elég pontos és rendszeres visszajelzést adjon a mindennapi döntésekhez.",
+      "sections": [
+        [
+          "Kezdd egyszerűen",
+          "Először a legfontosabb értékeket figyeld: kalória, adagméret, és a célodtól függően fehérje vagy más makrók."
+        ],
+        [
+          "Ellenőrizd az adagot",
+          "Az adag gyakran többet változtat az eredményen, mint az, hogy pontosan melyik adatbázis-bejegyzést választod."
+        ],
+        [
+          "Add hozzá a kontextust",
+          "Az olaj, szósz, ital, márka és elkészítési mód jelentősen módosíthatja a becslést."
+        ],
+        [
+          "Nézd a trendet",
+          "Egy többnapos átlag hasznosabb, mint egyetlen túlprecíz bejegyzés."
+        ]
+      ],
+      "takeaway": "A rendszeres, ésszerűen pontos napló hasznosabb, mint a ritka, tökéletes mérés."
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Fehérje követése",
+      "h1": "Fehérje követése",
+      "description": "Fehérje követése: gyakorlati útmutató étkezési naplózáshoz, adagellenőrzéshez és tudatosabb kalóriakövetéshez.",
+      "category": "Útmutató",
+      "readTime": "4 perc olvasás",
+      "intro": "A jó kalóriakövetés nem a tökéletes számokról szól, hanem arról, hogy elég pontos és rendszeres visszajelzést adjon a mindennapi döntésekhez.",
+      "sections": [
+        [
+          "Kezdd egyszerűen",
+          "Először a legfontosabb értékeket figyeld: kalória, adagméret, és a célodtól függően fehérje vagy más makrók."
+        ],
+        [
+          "Ellenőrizd az adagot",
+          "Az adag gyakran többet változtat az eredményen, mint az, hogy pontosan melyik adatbázis-bejegyzést választod."
+        ],
+        [
+          "Add hozzá a kontextust",
+          "Az olaj, szósz, ital, márka és elkészítési mód jelentősen módosíthatja a becslést."
+        ],
+        [
+          "Nézd a trendet",
+          "Egy többnapos átlag hasznosabb, mint egyetlen túlprecíz bejegyzés."
+        ]
+      ],
+      "takeaway": "A rendszeres, ésszerűen pontos napló hasznosabb, mint a ritka, tökéletes mérés."
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Mi az étkezési napló?",
+      "h1": "Mi az étkezési napló?",
+      "description": "Mi az étkezési napló?: gyakorlati útmutató étkezési naplózáshoz, adagellenőrzéshez és tudatosabb kalóriakövetéshez.",
+      "category": "Útmutató",
+      "readTime": "4 perc olvasás",
+      "intro": "A jó kalóriakövetés nem a tökéletes számokról szól, hanem arról, hogy elég pontos és rendszeres visszajelzést adjon a mindennapi döntésekhez.",
+      "sections": [
+        [
+          "Kezdd egyszerűen",
+          "Először a legfontosabb értékeket figyeld: kalória, adagméret, és a célodtól függően fehérje vagy más makrók."
+        ],
+        [
+          "Ellenőrizd az adagot",
+          "Az adag gyakran többet változtat az eredményen, mint az, hogy pontosan melyik adatbázis-bejegyzést választod."
+        ],
+        [
+          "Add hozzá a kontextust",
+          "Az olaj, szósz, ital, márka és elkészítési mód jelentősen módosíthatja a becslést."
+        ],
+        [
+          "Nézd a trendet",
+          "Egy többnapos átlag hasznosabb, mint egyetlen túlprecíz bejegyzés."
+        ]
+      ],
+      "takeaway": "A rendszeres, ésszerűen pontos napló hasznosabb, mint a ritka, tökéletes mérés."
+    },
+    "/download/": {
+      "title": "Alkalmazás letöltése",
+      "h1": "Calorie Counter AI letöltése",
+      "description": "Töltsd le az AI kalóriaszámlálót iPhone-ra vagy Androidra, és kezdd el fotóval naplózni az ételeket.",
+      "kicker": "Letöltés"
+    },
+    "/faq/": {
+      "title": "GYIK",
+      "h1": "Gyakori kérdések",
+      "description": "Válaszok a fotóalapú kalóriaszámolásról, pontosságról, makrókról, vonalkódokról és adatvédelemről.",
+      "kicker": "GYIK"
+    },
+    "/pricing/": {
+      "title": "Árak",
+      "h1": "Árak és alkalmazáslehetőségek",
+      "description": "Kezdd ingyen, és az alkalmazásban nézd meg az aktuális prémium lehetőségeket, limiteket és vásárlásokat.",
+      "kicker": "Árak"
+    },
+    "/support/": {
+      "title": "Támogatás",
+      "h1": "Calorie Counter AI támogatás",
+      "description": "Segítségre van szükséged? Készítsd elő az alkalmazásverziót, az eszközt és a probléma rövid leírását.",
+      "kicker": "Támogatás"
+    },
+    "/contact/": {
+      "title": "Kapcsolat",
+      "h1": "Kapcsolat a Calorie Counter AI-val",
+      "description": "Kapcsolat támogatáshoz, médiához, partnerséghez és visszajelzéshez.",
+      "kicker": "Kapcsolat"
+    },
+    "/privacy-policy/": {
+      "title": "Adatvédelmi irányelvek",
+      "h1": "Adatvédelmi irányelvek",
+      "description": "Áttekintés arról, hogyan kezeli a Calorie Counter AI az étkezési naplóhoz és a szolgáltatáshoz szükséges adatokat.",
+      "kicker": "Adatvédelem"
+    },
+    "/terms/": {
+      "title": "Feltételek",
+      "h1": "Felhasználási feltételek",
+      "description": "A Calorie Counter AI alkalmazás és a tájékoztató tápértékbecslések használatának szabályai.",
+      "kicker": "Feltételek"
+    },
+    "/health-disclaimer/": {
+      "title": "Egészségügyi nyilatkozat",
+      "h1": "Egészségügyi nyilatkozat",
+      "description": "A tápértékbecslések tájékoztató jellegűek, és nem helyettesítenek szakmai egészségügyi vagy dietetikai tanácsot.",
+      "kicker": "Nyilatkozat"
+    },
+    "/delete-account/": {
+      "title": "Fiók törlése",
+      "h1": "Fióktörlési kérelem benyújtása",
+      "description": "Lépések a Calorie Counter AI fiók és a kapcsolódó adatok törlésének kéréséhez.",
+      "kicker": "Fiók"
+    },
+    "/press/": {
+      "title": "Sajtócsomag",
+      "h1": "Calorie Counter AI sajtócsomag",
+      "description": "Rövid leírás, ikon és alkalmazásképek médiának és partnereknek.",
+      "kicker": "Sajtó"
+    },
+    "/how-many-calories-in/": {
+      "title": "Kalória az ételekben",
+      "h1": "Mennyi kalória van az ételekben?",
+      "description": "Böngéssz tájékoztató kalóriákat, makrókat és gyakori adagokat népszerű ételekhez, fogásokhoz és italokhoz.",
+      "kicker": "Kalória"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Cookie-beállítások",
+    "text": "Szükséges cookie-kat és localStorage-t használunk a nyelv és a cookie-választás mentéséhez. Beleegyezés esetén analitikai cookie-kat is használunk a webhely javításához.",
+    "accept": "Elfogadás",
+    "decline": "Analitika elutasítása"
+  }
+}

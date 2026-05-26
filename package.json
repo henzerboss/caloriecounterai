@@ -1,0 +1,20 @@
+{
+  "name": "caloriecounterai-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "SEO landing website for Calorie Counter AI built with React and Vite.",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run generate:sitemap && vite build && node scripts/postbuild-static-pages.mjs",
+    "preview": "vite preview",
+    "generate:sitemap": "node scripts/generate-sitemap.mjs"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "4.3.4",
+    "vite": "5.4.11",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {}
+}

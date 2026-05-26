@@ -1,0 +1,2619 @@
+{
+  "localeName": "Türkçe",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "Fotoğrafla çalışan yapay zekâ kalori sayacı"
+  },
+  "nav": {
+    "features": "Özellikler",
+    "useCases": "Kullanım alanları",
+    "blog": "Rehberler",
+    "faq": "SSS",
+    "download": "İndir",
+    "language": "Dil seç",
+    "openMenu": "Menüyü aç",
+    "caloriesInFoods": "Yiyeceklerde kalori",
+    "all": "Tümü",
+    "allFeatures": "Tüm özellikler",
+    "allUseCases": "Tüm kullanım alanları",
+    "allLearn": "Tüm rehberler",
+    "openHub": "Bölümü aç →",
+    "home": "Ana sayfa"
+  },
+  "cta": {
+    "appStore": "App Store’dan indir",
+    "googlePlay": "Google Play’den indir",
+    "downloadNow": "İndir",
+    "tryFree": "Ücretsiz dene",
+    "learnMore": "Daha fazla bilgi",
+    "learnMoreArrow": "Daha fazla bilgi →",
+    "readGuide": "Rehberi oku"
+  },
+  "home": {
+    "title": "Fotoğrafla çalışan yapay zekâ kalori sayacı",
+    "description": "Yemeğin fotoğrafını çekin; kalori, protein, yağ, karbonhidrat ve porsiyon büyüklüğü için saniyeler içinde düzenlenebilir bir tahmin alın.",
+    "heroNote": "Her gün ücretsiz yapay zekâ yemek analizleriyle başlayın. iPhone ve Android için kullanılabilir.",
+    "photoEyebrow": "Ana özellik",
+    "photoTitle": "Fotoğrafla kalori sayacı",
+    "photoText": "Her malzemeyi tek tek aramanız gerekmez. Yemeğin fotoğrafını çekin, yapay zekâ tahminini kontrol edin ve öğünü beslenme günlüğünüze kaydedin.",
+    "photoChecklist": [
+      "Yemek fotoğrafından kalori tahmini alın",
+      "Protein, yağ ve karbonhidratı görün",
+      "Kaydetmeden önce sonucu kontrol edip düzenleyin",
+      "Görsel bir beslenme günlüğü tutun"
+    ],
+    "featureCards": [
+      [
+        "camera",
+        "Fotoğrafla kayıt",
+        "Öğününüzün fotoğrafını çekin, tahmini kontrol edin ve uzun ürün aramaları yapmadan kaydedin."
+      ],
+      [
+        "sparkles",
+        "Yapay zekâ yemek tahmini",
+        "Etiket veya net tarif olmadığında kalori, makro ve porsiyon için hızlı bir başlangıç değeri alın."
+      ],
+      [
+        "shield",
+        "Ücretsiz günlük analizler",
+        "Ana yapay zekâ akışını her gün deneyin; daha yüksek limitlere yalnızca ihtiyaç duyduğunuzda geçin."
+      ],
+      [
+        "barcode",
+        "Paketli ürünler",
+        "Yoğurt, içecek, atıştırmalık, hazır yemek ve diğer paketli ürünlerin barkodlarını tarayın."
+      ],
+      [
+        "macro",
+        "Makrolar elinizin altında",
+        "Günlük kalori hedefinin yanında protein, yağ ve karbonhidratı takip edin."
+      ],
+      [
+        "diary",
+        "Görsel günlük",
+        "Her güne geri dönün, öğünleri fotoğraf olarak görün ve tekrarlayan beslenme alışkanlıklarını fark edin."
+      ]
+    ],
+    "foodPreviewTitle": "Popüler yiyeceklerde kaç kalori var?",
+    "foodPreviewText": "Günlük yemekler, atıştırmalıklar ve içecekler için kalori ve makro değerlerine hızlı bakış.",
+    "foodPreviewLink": "Tam kalori rehberini aç →",
+    "goalEyebrow": "Hedef kontrol altında",
+    "counterTitle": "Her gün için sade bir kalori sayacı",
+    "counterText": "Fotoğraflar, barkodlar, favori öğünler ve anlaşılır günlükle beslenmeyi ikinci bir iş gibi hissetmeden takip edin.",
+    "goalPills": [
+      "Kilo verme",
+      "Koruma",
+      "Kas kazanımı",
+      "Yoğun günler"
+    ],
+    "magicEyebrow": "Neden daha kolay hissettirir?",
+    "magicTitle": "Yemeği üç adımda kaydedin",
+    "magicText": "Yemeğin fotoğrafını çekin, tahmini kontrol edin ve kaydedin. Manuel giriş ne kadar azalırsa günlüğü her gün sürdürmek o kadar kolaylaşır.",
+    "magicSteps": [
+      "Fotoğraf çek",
+      "Kontrol et",
+      "Kaydet"
+    ],
+    "barcodeEyebrow": "Paketli ürünler",
+    "barcodeTitle": "Yiyecekler için barkod tarayıcı",
+    "barcodeText": "Barkod var mı? Paketi tarayın, ürünü onaylayın ve kalori, protein, yağ ile karbonhidratı saniyeler içinde günlüğe ekleyin.",
+    "barcodeLink": "Barkod tarayıcı hakkında daha fazla bilgi →",
+    "progressEyebrow": "Anlaşılır ilerleme",
+    "macroTitle": "Kalori ve makroları takip edin",
+    "macroText": "Kalori, protein, yağ ve karbonhidratı tek yerde görün; ardından günleri, haftaları ve ayları karşılaştırın.",
+    "macroLink": "Makro besinler sayfasını aç →",
+    "useCasesEyebrow": "Calorie Counter AI ne için kullanılır?",
+    "useCasesTitle": "Gerçek hayata uyan beslenme hedefleri",
+    "useCasesText": "Kilo vermek, kilonuzu korumak, kas kazanmak veya yalnızca beslenmenizi daha iyi anlamak istiyorsanız uygulama yemeği günlük anlaşılır geri bildirime dönüştürür.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Kilo verme",
+        "Günlük hedefe kaç kalori kaldığını görün."
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Ev yemekleri",
+        "Etiketi olmayan karışık yemekler için tahmin alın."
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Dışarıda yemek",
+        "Restoran yemeklerini hızlı fotoğraf tahminleriyle kaydedin."
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Kas kazanımı",
+        "Protein ve kaloriyi kütle kazanımı döneminde görünür tutun."
+      ]
+    ],
+    "downloadTitle": "Yapay zekâ ile kalori saymaya bugün başlayın",
+    "downloadText": "Calorie Counter AI uygulamasını iPhone veya Android için indirin ve bir sonraki yemek fotoğrafınızı günlük kaydına dönüştürün.",
+    "faqEyebrow": "SSS",
+    "faqTitle": "İndirmeden önce sorularınız mı var?",
+    "faq": [
+      [
+        "Calorie Counter AI ücretsiz mi?",
+        "Her gün ücretsiz yapay zekâ yemek analizleriyle başlayabilirsiniz. Daha yüksek limitler ve gelişmiş özellikler için premium seçenekler sunulabilir."
+      ],
+      [
+        "Fotoğrafla kalori sayabilir miyim?",
+        "Evet. Yemeğin fotoğrafını çekin, yapay zekâ tahminini kontrol edin ve kaydetmeden önce porsiyonu, malzemeleri, sosları veya markayı düzenleyin."
+      ],
+      [
+        "Yapay zekâ kalori tahminleri ne kadar doğru?",
+        "Bu bir laboratuvar analizi değil, pratik bir tahmindir. Porsiyon büyüklüğü, tarif, gizli yağlar, soslar, marka ve fotoğraf kalitesi sonucu etkiler."
+      ],
+      [
+        "Barkod tarayıcı var mı?",
+        "Evet. Paketli ürünlerde barkodu tarayabilir, ürünü onaylayabilir ve kalori ile makroları günlüğe daha hızlı ekleyebilirsiniz."
+      ],
+      [
+        "Kilo vermek için uygun mu?",
+        "Evet, kalori açığını takip etmek ve beslenme alışkanlıklarını daha iyi anlamak için kullanılabilir. Tıbbi hedefler için bir uzmana danışın."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "Fotoğrafla yapay zekâ kalori sayacı | Calorie Counter AI",
+    "homeOgTitle": "Fotoğrafla çalışan yapay zekâ kalori sayacı",
+    "homeDescription": "Yemeğin fotoğrafını çekin; kalori, protein, yağ, karbonhidrat ve porsiyon büyüklüğü için saniyeler içinde düzenlenebilir bir tahmin alın."
+  },
+  "footer": {
+    "disclaimer": "Beslenme tahminleri yalnızca bilgilendirme amaçlıdır; doktor, diyetisyen veya başka bir sağlık uzmanının tavsiyesinin yerine geçmez.",
+    "copyright": "© 2026 Calorie Counter AI. Tüm hakları saklıdır."
+  },
+  "foodIndex": {
+    "findTitle": "Kalori, makrolar ve pratik porsiyon ipuçları",
+    "findText": "Bu rehber popüler yiyecekler için yaklaşık değerleri ve porsiyon, pişirme yöntemi, sos, yağ ve ek malzemeleri hesaba katma ipuçlarını içerir.",
+    "categoryIntro": "Bu kategoride kalori ve makrolarla ilgili popüler aramalar."
+  },
+  "foodPage": {
+    "eyebrow": "Kalori rehberi",
+    "trackInApp": "Uygulamaya ekle",
+    "browseFoods": "Yiyeceklere bak →",
+    "typicalEstimate": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+    "caloriesMacros": "Kalori ve makrolar",
+    "whenFits": "Ne zaman iyi bir seçenek?",
+    "whatToWatch": "Nelere dikkat etmeli?",
+    "howToLog": "Daha doğru nasıl kaydedilir?",
+    "helpfulContext": "Faydalı bağlam",
+    "faq": "SSS",
+    "weightLossQuestion": "Kilo verme için uygun mu?",
+    "variabilityQuestion": "Kaloriyi en çok ne değiştirir?",
+    "logFasterTitle": "Yemeği daha hızlı kaydedin",
+    "logFasterText": "Calorie Counter AI ile yemeğin fotoğrafını çekin, günlük için taslak kayıt alın ve gerekirse porsiyonu, sosu veya markayı düzenleyin.",
+    "photoTrackingLink": "Fotoğrafla kalori hesabı nasıl çalışır →",
+    "macros": {
+      "protein": "Protein",
+      "fat": "Yağ",
+      "carbs": "Karbonhidrat"
+    },
+    "titleTemplate": "{namePrep}: kalori ve makro değerleri",
+    "h1Template": "{namePrep}: kalori ve makro değerleri",
+    "descriptionTemplate": "{name} için «{serving}» porsiyonunda kalori, protein, yağ ve karbonhidrat değerleri; beslenme günlüğüne daha doğru kaydetme ipuçlarıyla birlikte.",
+    "heroIntroTemplate": "Yaklaşık {calories} {kcal}: {servingLower}. Bu değeri başlangıç noktası olarak kullanın; marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre düzeltin.",
+    "macroParagraphTemplate": "{name}: «{servingLower}» porsiyonunda yaklaşık {calories} {kcal}. Bu porsiyonda yaklaşık {protein} {gram} protein, {fat} {gram} yağ ve {carbs} {gram} karbonhidrat bulunur{fiberText}.",
+    "per100Template": "Karşılaştırma için 100 {gram} başına: yaklaşık {calories} {kcal}, {protein} {gram} protein, {fat} {gram} yağ ve {carbs} {gram} karbonhidrat.",
+    "calorieLevelTemplate": "Porsiyonu temel alın: burada «{servingLower}» için yaklaşık {calories} {kcal} gösterilir."
+  },
+  "foodCategories": {
+    "Fruit": "Meyveler",
+    "Protein foods": "Protein kaynakları",
+    "Fruits and fats": "Meyveler ve yağlar",
+    "Grains and starches": "Tahıllar ve nişastalı yiyecekler",
+    "Nuts and spreads": "Kuruyemişler ve ezmeler",
+    "Breakfast foods": "Kahvaltılıklar",
+    "Dairy": "Süt ürünleri",
+    "Restaurant meals": "Restoran yemekleri",
+    "Fast food": "Fast food",
+    "Legumes and plant protein": "Baklagiller ve bitkisel protein",
+    "Desserts": "Tatlılar",
+    "Snacks": "Atıştırmalıklar",
+    "Drinks": "İçecekler",
+    "Vegetables": "Sebzeler",
+    "Sauces and condiments": "Soslar ve çeşniler",
+    "Mixed dishes": "Karışık yemekler"
+  },
+  "foods": {
+    "banana": {
+      "name": "Muz",
+      "namePrep": "muz",
+      "serving": "1 orta boy muz"
+    },
+    "apple": {
+      "name": "Elma",
+      "namePrep": "elma",
+      "serving": "1 orta boy elma"
+    },
+    "egg": {
+      "name": "Yumurta",
+      "namePrep": "yumurta",
+      "serving": "1 büyük yumurta"
+    },
+    "avocado": {
+      "name": "Avokado",
+      "namePrep": "avokado",
+      "serving": "1/2 orta boy avokado"
+    },
+    "chicken-breast": {
+      "name": "Tavuk göğsü",
+      "namePrep": "tavuk göğsü",
+      "serving": "100 g pişmiş tavuk göğsü"
+    },
+    "salmon": {
+      "name": "Somon",
+      "namePrep": "somon",
+      "serving": "100 g pişmiş somon"
+    },
+    "white-rice": {
+      "name": "Beyaz pirinç pilavı",
+      "namePrep": "beyaz pirinç pilavı",
+      "serving": "1 su bardağı pişmiş beyaz pirinç"
+    },
+    "brown-rice": {
+      "name": "Esmer pirinç",
+      "namePrep": "esmer pirinç",
+      "serving": "1 su bardağı pişmiş esmer pirinç"
+    },
+    "pasta": {
+      "name": "Makarna",
+      "namePrep": "makarna",
+      "serving": "1 su bardağı pişmiş makarna"
+    },
+    "potato": {
+      "name": "Patates",
+      "namePrep": "patates",
+      "serving": "1 orta boy fırınlanmış patates"
+    },
+    "sweet-potato": {
+      "name": "Tatlı patates",
+      "namePrep": "tatlı patates",
+      "serving": "1 orta boy fırınlanmış tatlı patates"
+    },
+    "bread": {
+      "name": "Ekmek",
+      "namePrep": "ekmek",
+      "serving": "1 dilim ekmek"
+    },
+    "peanut-butter": {
+      "name": "Fıstık ezmesi",
+      "namePrep": "fıstık ezmesi",
+      "serving": "2 yemek kaşığı fıstık ezmesi"
+    },
+    "oatmeal": {
+      "name": "Yulaf lapası",
+      "namePrep": "yulaf lapası",
+      "serving": "1 kase pişmiş yulaf lapası"
+    },
+    "greek-yogurt": {
+      "name": "Süzme yoğurt",
+      "namePrep": "süzme yoğurt",
+      "serving": "170 g sade süzme yoğurt"
+    },
+    "yogurt": {
+      "name": "Yoğurt",
+      "namePrep": "yoğurt",
+      "serving": "170 g sade yoğurt"
+    },
+    "milk": {
+      "name": "Süt",
+      "namePrep": "süt",
+      "serving": "1 bardak yarım yağlı süt"
+    },
+    "cheddar-cheese": {
+      "name": "Çedar peyniri",
+      "namePrep": "çedar peyniri",
+      "serving": "30 g çedar peyniri"
+    },
+    "pizza": {
+      "name": "Pizza",
+      "namePrep": "pizza",
+      "serving": "1 dilim peynirli pizza"
+    },
+    "burger": {
+      "name": "Burger",
+      "namePrep": "burger",
+      "serving": "1 çizburger"
+    },
+    "french-fries": {
+      "name": "Patates kızartması",
+      "namePrep": "patates kızartması",
+      "serving": "1 orta porsiyon patates kızartması"
+    },
+    "sushi-roll": {
+      "name": "Sushi roll",
+      "namePrep": "sushi roll",
+      "serving": "1 California roll"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "taco",
+      "serving": "1 dana etli taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "burrito",
+      "serving": "1 büyük burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Tavuk nugget",
+      "namePrep": "tavuk nugget",
+      "serving": "6 adet tavuk nugget"
+    },
+    "hot-dog": {
+      "name": "Hot dog",
+      "namePrep": "hot dog",
+      "serving": "1 sosisli sandviç"
+    },
+    "steak": {
+      "name": "Biftek",
+      "namePrep": "biftek",
+      "serving": "100 g ızgara biftek"
+    },
+    "bacon": {
+      "name": "Pastırmalı domuz bacon",
+      "namePrep": "pastırmalı domuz bacon",
+      "serving": "2 dilim pişmiş bacon"
+    },
+    "tuna": {
+      "name": "Ton balığı",
+      "namePrep": "ton balığı",
+      "serving": "1 kutu suda ton balığı"
+    },
+    "shrimp": {
+      "name": "Karides",
+      "namePrep": "karides",
+      "serving": "100 g pişmiş karides"
+    },
+    "tofu": {
+      "name": "Tofu",
+      "namePrep": "tofu",
+      "serving": "100 g sert tofu"
+    },
+    "lentils": {
+      "name": "Mercimek",
+      "namePrep": "mercimek",
+      "serving": "1 su bardağı pişmiş mercimek"
+    },
+    "black-beans": {
+      "name": "Siyah fasulye",
+      "namePrep": "siyah fasulye",
+      "serving": "1 su bardağı pişmiş siyah fasulye"
+    },
+    "chickpeas": {
+      "name": "Nohut",
+      "namePrep": "nohut",
+      "serving": "1 su bardağı pişmiş nohut"
+    },
+    "hummus": {
+      "name": "Humus",
+      "namePrep": "humus",
+      "serving": "2 yemek kaşığı humus"
+    },
+    "quinoa": {
+      "name": "Kinoa",
+      "namePrep": "kinoa",
+      "serving": "1 su bardağı pişmiş kinoa"
+    },
+    "tortilla": {
+      "name": "Tortilla",
+      "namePrep": "tortilla",
+      "serving": "1 orta boy buğday tortilla"
+    },
+    "bagel": {
+      "name": "Bagel",
+      "namePrep": "bagel",
+      "serving": "1 sade bagel"
+    },
+    "croissant": {
+      "name": "Kruvasan",
+      "namePrep": "kruvasan",
+      "serving": "1 orta boy kruvasan"
+    },
+    "pancake": {
+      "name": "Pankek",
+      "namePrep": "pankek",
+      "serving": "2 orta boy pankek"
+    },
+    "waffle": {
+      "name": "Waffle",
+      "namePrep": "waffle",
+      "serving": "1 Belçika waffle"
+    },
+    "cereal": {
+      "name": "Kahvaltılık gevrek",
+      "namePrep": "kahvaltılık gevrek",
+      "serving": "1 kase kahvaltılık gevrek"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granola",
+      "serving": "1/2 su bardağı granola"
+    },
+    "almonds": {
+      "name": "Badem",
+      "namePrep": "badem",
+      "serving": "30 g badem"
+    },
+    "walnuts": {
+      "name": "Ceviz",
+      "namePrep": "ceviz",
+      "serving": "30 g ceviz"
+    },
+    "cashews": {
+      "name": "Kaju",
+      "namePrep": "kaju",
+      "serving": "30 g kaju"
+    },
+    "chocolate": {
+      "name": "Çikolata",
+      "namePrep": "çikolata",
+      "serving": "30 g bitter çikolata"
+    },
+    "ice-cream": {
+      "name": "Dondurma",
+      "namePrep": "dondurma",
+      "serving": "1/2 su bardağı vanilyalı dondurma"
+    },
+    "cookie": {
+      "name": "Kurabiye",
+      "namePrep": "kurabiye",
+      "serving": "1 orta boy damla çikolatalı kurabiye"
+    },
+    "donut": {
+      "name": "Donut",
+      "namePrep": "donut",
+      "serving": "1 sırlı donut"
+    },
+    "muffin": {
+      "name": "Muffin",
+      "namePrep": "muffin",
+      "serving": "1 orta boy yaban mersinli muffin"
+    },
+    "cake": {
+      "name": "Pasta",
+      "namePrep": "pasta",
+      "serving": "1 dilim pasta"
+    },
+    "brownie": {
+      "name": "Brownie",
+      "namePrep": "brownie",
+      "serving": "1 orta boy brownie"
+    },
+    "popcorn": {
+      "name": "Patlamış mısır",
+      "namePrep": "patlamış mısır",
+      "serving": "3 su bardağı havayla patlatılmış mısır"
+    },
+    "potato-chips": {
+      "name": "Patates cipsi",
+      "namePrep": "patates cipsi",
+      "serving": "30 g patates cipsi"
+    },
+    "pretzels": {
+      "name": "Pretzel kraker",
+      "namePrep": "pretzel kraker",
+      "serving": "30 g pretzel kraker"
+    },
+    "smoothie": {
+      "name": "Smoothie",
+      "namePrep": "smoothie",
+      "serving": "1 orta boy meyveli smoothie"
+    },
+    "orange-juice": {
+      "name": "Portakal suyu",
+      "namePrep": "portakal suyu",
+      "serving": "1 bardak portakal suyu"
+    },
+    "soda": {
+      "name": "Gazlı içecek",
+      "namePrep": "gazlı içecek",
+      "serving": "1 kutu şekerli gazlı içecek"
+    },
+    "latte": {
+      "name": "Latte",
+      "namePrep": "latte",
+      "serving": "350 ml yarım yağlı sütle latte"
+    },
+    "protein-shake": {
+      "name": "Protein shake",
+      "namePrep": "protein shake",
+      "serving": "1 protein shake"
+    },
+    "spaghetti-bolognese": {
+      "name": "Spagetti bolonez",
+      "namePrep": "spagetti bolonez",
+      "serving": "1 tabak spagetti bolonez"
+    },
+    "ramen": {
+      "name": "Ramen",
+      "namePrep": "ramen",
+      "serving": "1 kase ramen"
+    },
+    "pho": {
+      "name": "Pho",
+      "namePrep": "pho",
+      "serving": "1 kase dana etli pho"
+    },
+    "chicken-soup": {
+      "name": "Tavuk çorbası",
+      "namePrep": "tavuk çorbası",
+      "serving": "1 kase tavuk çorbası"
+    },
+    "caesar-salad": {
+      "name": "Sezar salata",
+      "namePrep": "sezar salata",
+      "serving": "1 porsiyon Sezar salata"
+    },
+    "green-salad": {
+      "name": "Yeşil salata",
+      "namePrep": "yeşil salata",
+      "serving": "1 kase yeşil salata"
+    },
+    "broccoli": {
+      "name": "Brokoli",
+      "namePrep": "brokoli",
+      "serving": "1 su bardağı pişmiş brokoli"
+    },
+    "spinach": {
+      "name": "Ispanak",
+      "namePrep": "ispanak",
+      "serving": "1 su bardağı pişmiş ıspanak"
+    },
+    "carrots": {
+      "name": "Havuç",
+      "namePrep": "havuç",
+      "serving": "1 su bardağı havuç"
+    },
+    "corn": {
+      "name": "Mısır",
+      "namePrep": "mısır",
+      "serving": "1 su bardağı mısır"
+    },
+    "tomato": {
+      "name": "Domates",
+      "namePrep": "domates",
+      "serving": "1 orta boy domates"
+    },
+    "cucumber": {
+      "name": "Salatalık",
+      "namePrep": "salatalık",
+      "serving": "1 su bardağı salatalık"
+    },
+    "cheesecake": {
+      "name": "Cheesecake",
+      "namePrep": "cheesecake",
+      "serving": "1 dilim cheesecake"
+    },
+    "lasagna": {
+      "name": "Lazanya",
+      "namePrep": "lazanya",
+      "serving": "1 dilim lazanya"
+    },
+    "grilled-cheese": {
+      "name": "Izgara peynirli sandviç",
+      "namePrep": "izgara peynirli sandviç",
+      "serving": "1 ızgara peynirli sandviç"
+    },
+    "peanut-butter-jelly": {
+      "name": "Fıstık ezmeli reçelli sandviç",
+      "namePrep": "fıstık ezmeli reçelli sandviç",
+      "serving": "1 fıstık ezmeli reçelli sandviç"
+    },
+    "omelette": {
+      "name": "Omlet",
+      "namePrep": "omlet",
+      "serving": "2 yumurtalı omlet"
+    },
+    "fried-egg": {
+      "name": "Sahanda yumurta",
+      "namePrep": "sahanda yumurta",
+      "serving": "1 sahanda yumurta"
+    },
+    "boiled-egg": {
+      "name": "Haşlanmış yumurta",
+      "namePrep": "haşlanmış yumurta",
+      "serving": "1 haşlanmış yumurta"
+    },
+    "toast": {
+      "name": "Tost ekmeği",
+      "namePrep": "tost ekmeği",
+      "serving": "1 dilim tost ekmeği"
+    },
+    "avocado-toast": {
+      "name": "Avokadolu tost",
+      "namePrep": "avokadolu tost",
+      "serving": "1 dilim avokadolu tost"
+    },
+    "chicken-salad": {
+      "name": "Tavuk salatası",
+      "namePrep": "tavuk salatası",
+      "serving": "1 kase tavuk salatası"
+    },
+    "tuna-salad": {
+      "name": "Ton balıklı salata",
+      "namePrep": "ton balıklı salata",
+      "serving": "1 kase ton balıklı salata"
+    },
+    "egg-salad": {
+      "name": "Yumurta salatası",
+      "namePrep": "yumurta salatası",
+      "serving": "1 kase yumurta salatası"
+    },
+    "cottage-cheese": {
+      "name": "Lor peyniri",
+      "namePrep": "lor peyniri",
+      "serving": "1/2 su bardağı lor peyniri"
+    },
+    "cream-cheese": {
+      "name": "Krem peynir",
+      "namePrep": "krem peynir",
+      "serving": "2 yemek kaşığı krem peynir"
+    },
+    "butter": {
+      "name": "Tereyağı",
+      "namePrep": "tereyağı",
+      "serving": "1 yemek kaşığı tereyağı"
+    },
+    "olive-oil": {
+      "name": "Zeytinyağı",
+      "namePrep": "zeytinyağı",
+      "serving": "1 yemek kaşığı zeytinyağı"
+    },
+    "mayonnaise": {
+      "name": "Mayonez",
+      "namePrep": "mayonez",
+      "serving": "1 yemek kaşığı mayonez"
+    },
+    "ketchup": {
+      "name": "Ketçap",
+      "namePrep": "ketçap",
+      "serving": "1 yemek kaşığı ketçap"
+    },
+    "honey": {
+      "name": "Bal",
+      "namePrep": "bal",
+      "serving": "1 yemek kaşığı bal"
+    },
+    "jam": {
+      "name": "Reçel",
+      "namePrep": "reçel",
+      "serving": "1 yemek kaşığı reçel"
+    },
+    "protein-bar": {
+      "name": "Protein bar",
+      "namePrep": "protein bar",
+      "serving": "1 protein bar"
+    },
+    "energy-drink": {
+      "name": "Enerji içeceği",
+      "namePrep": "enerji içeceği",
+      "serving": "1 kutu enerji içeceği"
+    },
+    "matcha-latte": {
+      "name": "Matcha latte",
+      "namePrep": "matcha latte",
+      "serving": "350 ml matcha latte"
+    },
+    "trail-mix": {
+      "name": "Kuruyemiş ve kuru meyve karışımı",
+      "namePrep": "kuruyemiş ve kuru meyve karışımı",
+      "serving": "1/4 su bardağı kuruyemiş ve kuru meyve karışımı"
+    },
+    "blueberries": {
+      "name": "Yaban mersini",
+      "namePrep": "yaban mersini",
+      "serving": "1 su bardağı yaban mersini"
+    },
+    "strawberries": {
+      "name": "Çilek",
+      "namePrep": "çilek",
+      "serving": "1 su bardağı çilek"
+    },
+    "grapes": {
+      "name": "Üzüm",
+      "namePrep": "üzüm",
+      "serving": "1 su bardağı üzüm"
+    },
+    "orange": {
+      "name": "Portakal",
+      "namePrep": "portakal",
+      "serving": "1 orta boy portakal"
+    },
+    "pear": {
+      "name": "Armut",
+      "namePrep": "armut",
+      "serving": "1 orta boy armut"
+    },
+    "peach": {
+      "name": "Şeftali",
+      "namePrep": "şeftali",
+      "serving": "1 orta boy şeftali"
+    },
+    "watermelon": {
+      "name": "Karpuz",
+      "namePrep": "karpuz",
+      "serving": "1 su bardağı doğranmış karpuz"
+    },
+    "pineapple": {
+      "name": "Ananas",
+      "namePrep": "ananas",
+      "serving": "1 su bardağı ananas parçaları"
+    },
+    "mango": {
+      "name": "Mango",
+      "namePrep": "mango",
+      "serving": "1 su bardağı doğranmış mango"
+    },
+    "kiwi": {
+      "name": "Kivi",
+      "namePrep": "kivi",
+      "serving": "1 orta boy kivi"
+    },
+    "raspberries": {
+      "name": "Ahududu",
+      "namePrep": "ahududu",
+      "serving": "1 su bardağı ahududu"
+    },
+    "blackberries": {
+      "name": "Böğürtlen",
+      "namePrep": "böğürtlen",
+      "serving": "1 su bardağı böğürtlen"
+    },
+    "cherries": {
+      "name": "Kiraz",
+      "namePrep": "kiraz",
+      "serving": "1 su bardağı kiraz"
+    },
+    "grapefruit": {
+      "name": "Greyfurt",
+      "namePrep": "greyfurt",
+      "serving": "1/2 orta boy greyfurt"
+    },
+    "lettuce": {
+      "name": "Marul",
+      "namePrep": "marul",
+      "serving": "2 su bardağı doğranmış marul"
+    },
+    "cabbage": {
+      "name": "Lahana",
+      "namePrep": "lahana",
+      "serving": "1 su bardağı doğranmış lahana"
+    },
+    "cauliflower": {
+      "name": "Karnabahar",
+      "namePrep": "karnabahar",
+      "serving": "1 su bardağı doğranmış karnabahar"
+    },
+    "asparagus": {
+      "name": "Kuşkonmaz",
+      "namePrep": "kuşkonmaz",
+      "serving": "1 su bardağı kuşkonmaz"
+    },
+    "zucchini": {
+      "name": "Kabak",
+      "namePrep": "kabak",
+      "serving": "1 su bardağı doğranmış kabak"
+    },
+    "eggplant": {
+      "name": "Patlıcan",
+      "namePrep": "patlıcan",
+      "serving": "1 su bardağı doğranmış patlıcan"
+    },
+    "bell-pepper": {
+      "name": "Dolmalık biber",
+      "namePrep": "dolmalık biber",
+      "serving": "1 orta boy dolmalık biber"
+    },
+    "onion": {
+      "name": "Soğan",
+      "namePrep": "soğan",
+      "serving": "1 orta boy soğan"
+    },
+    "mushrooms": {
+      "name": "Mantar",
+      "namePrep": "mantar",
+      "serving": "1 su bardağı dilimlenmiş mantar"
+    },
+    "green-beans": {
+      "name": "Taze fasulye",
+      "namePrep": "taze fasulye",
+      "serving": "1 su bardağı pişmiş taze fasulye"
+    },
+    "kale": {
+      "name": "Kale",
+      "namePrep": "kale",
+      "serving": "1 su bardağı doğranmış kale"
+    },
+    "beets": {
+      "name": "Pancar",
+      "namePrep": "pancar",
+      "serving": "1 su bardağı pişmiş pancar"
+    },
+    "turkey-breast": {
+      "name": "Hindi göğsü",
+      "namePrep": "hindi göğsü",
+      "serving": "100 g pişmiş hindi göğsü"
+    },
+    "chicken-thigh": {
+      "name": "Tavuk but",
+      "namePrep": "tavuk but",
+      "serving": "100 g pişmiş tavuk but"
+    },
+    "pork-chop": {
+      "name": "Domuz pirzolası",
+      "namePrep": "domuz pirzolası",
+      "serving": "100 g pişmiş domuz pirzolası"
+    },
+    "ground-beef": {
+      "name": "Dana kıyma",
+      "namePrep": "dana kıyma",
+      "serving": "100 g pişmiş dana kıyma"
+    },
+    "meatballs": {
+      "name": "Köfte",
+      "namePrep": "köfte",
+      "serving": "3 orta boy köfte"
+    },
+    "sausage": {
+      "name": "Sosis",
+      "namePrep": "sosis",
+      "serving": "1 pişmiş sosis"
+    },
+    "cod": {
+      "name": "Morina balığı",
+      "namePrep": "morina balığı",
+      "serving": "100 g pişmiş morina balığı"
+    },
+    "tilapia": {
+      "name": "Tilapia",
+      "namePrep": "tilapia",
+      "serving": "100 g pişmiş tilapia"
+    },
+    "sardines": {
+      "name": "Sardalya",
+      "namePrep": "sardalya",
+      "serving": "1 kutu sardalya"
+    },
+    "crab": {
+      "name": "Yengeç",
+      "namePrep": "yengeç",
+      "serving": "100 g pişmiş yengeç"
+    },
+    "scallops": {
+      "name": "Deniz tarağı",
+      "namePrep": "deniz tarağı",
+      "serving": "100 g pişmiş deniz tarağı"
+    },
+    "smoked-salmon": {
+      "name": "Füme somon",
+      "namePrep": "füme somon",
+      "serving": "60 g füme somon"
+    },
+    "skim-milk": {
+      "name": "Yağsız süt",
+      "namePrep": "yağsız süt",
+      "serving": "1 bardak yağsız süt"
+    },
+    "soy-milk": {
+      "name": "Soya sütü",
+      "namePrep": "soya sütü",
+      "serving": "1 bardak şekersiz soya sütü"
+    },
+    "almond-milk": {
+      "name": "Badem sütü",
+      "namePrep": "badem sütü",
+      "serving": "1 bardak şekersiz badem sütü"
+    },
+    "oat-milk": {
+      "name": "Yulaf sütü",
+      "namePrep": "yulaf sütü",
+      "serving": "1 bardak yulaf sütü"
+    },
+    "kefir": {
+      "name": "Kefir",
+      "namePrep": "kefir",
+      "serving": "1 bardak sade kefir"
+    },
+    "sour-cream": {
+      "name": "Ekşi krema",
+      "namePrep": "ekşi krema",
+      "serving": "2 yemek kaşığı ekşi krema"
+    },
+    "feta-cheese": {
+      "name": "Beyaz peynir",
+      "namePrep": "beyaz peynir",
+      "serving": "30 g beyaz peynir"
+    },
+    "mozzarella": {
+      "name": "Mozzarella",
+      "namePrep": "mozzarella",
+      "serving": "30 g mozzarella"
+    },
+    "parmesan": {
+      "name": "Parmesan",
+      "namePrep": "parmesan",
+      "serving": "1 yemek kaşığı rendelenmiş parmesan"
+    },
+    "couscous": {
+      "name": "Kuskus",
+      "namePrep": "kuskus",
+      "serving": "1 su bardağı pişmiş kuskus"
+    },
+    "barley": {
+      "name": "Arpa",
+      "namePrep": "arpa",
+      "serving": "1 su bardağı pişmiş arpa"
+    },
+    "buckwheat": {
+      "name": "Karabuğday",
+      "namePrep": "karabuğday",
+      "serving": "1 su bardağı pişmiş karabuğday"
+    },
+    "bulgur": {
+      "name": "Bulgur",
+      "namePrep": "bulgur",
+      "serving": "1 su bardağı pişmiş bulgur"
+    },
+    "naan": {
+      "name": "Naan",
+      "namePrep": "naan",
+      "serving": "1 adet naan ekmeği"
+    },
+    "pita-bread": {
+      "name": "Pita ekmeği",
+      "namePrep": "pita ekmeği",
+      "serving": "1 orta boy pita ekmeği"
+    },
+    "english-muffin": {
+      "name": "English muffin",
+      "namePrep": "english muffin",
+      "serving": "1 adet English muffin"
+    },
+    "rice-cake": {
+      "name": "Pirinç patlağı",
+      "namePrep": "pirinç patlağı",
+      "serving": "1 sade pirinç patlağı"
+    },
+    "crackers": {
+      "name": "Kraker",
+      "namePrep": "kraker",
+      "serving": "5 sade kraker"
+    },
+    "mashed-potatoes": {
+      "name": "Patates püresi",
+      "namePrep": "patates püresi",
+      "serving": "1 su bardağı patates püresi"
+    },
+    "scrambled-eggs": {
+      "name": "Çırpılmış yumurta",
+      "namePrep": "çırpılmış yumurta",
+      "serving": "2 yumurtadan çırpılmış yumurta"
+    },
+    "french-toast": {
+      "name": "French toast",
+      "namePrep": "french toast",
+      "serving": "2 dilim French toast"
+    },
+    "breakfast-burrito": {
+      "name": "Kahvaltı burritosu",
+      "namePrep": "kahvaltı burritosu",
+      "serving": "1 kahvaltı burritosu"
+    },
+    "hash-browns": {
+      "name": "Hash brown",
+      "namePrep": "hash brown",
+      "serving": "1 porsiyon hash brown"
+    },
+    "chia-pudding": {
+      "name": "Chia pudingi",
+      "namePrep": "chia pudingi",
+      "serving": "1 kase chia pudingi"
+    },
+    "overnight-oats": {
+      "name": "Geceden bekletilmiş yulaf",
+      "namePrep": "geceden bekletilmiş yulaf",
+      "serving": "1 kavanoz overnight oats"
+    },
+    "breakfast-sandwich": {
+      "name": "Kahvaltı sandviçi",
+      "namePrep": "kahvaltı sandviçi",
+      "serving": "1 kahvaltı sandviçi"
+    },
+    "edamame": {
+      "name": "Edamame",
+      "namePrep": "edamame",
+      "serving": "1 su bardağı edamame"
+    },
+    "kidney-beans": {
+      "name": "Barbunya fasulyesi",
+      "namePrep": "barbunya fasulyesi",
+      "serving": "1 su bardağı pişmiş barbunya"
+    },
+    "pinto-beans": {
+      "name": "Pinto fasulyesi",
+      "namePrep": "pinto fasulyesi",
+      "serving": "1 su bardağı pişmiş pinto fasulyesi"
+    },
+    "split-peas": {
+      "name": "Kırık bezelye",
+      "namePrep": "kırık bezelye",
+      "serving": "1 su bardağı pişmiş kırık bezelye"
+    },
+    "baked-beans": {
+      "name": "Fırınlanmış fasulye",
+      "namePrep": "fırınlanmış fasulye",
+      "serving": "1 su bardağı fırınlanmış fasulye"
+    },
+    "fried-rice": {
+      "name": "Kızarmış pilav",
+      "namePrep": "kızarmış pilav",
+      "serving": "1 tabak kızarmış pilav"
+    },
+    "pad-thai": {
+      "name": "Pad Thai",
+      "namePrep": "pad thai",
+      "serving": "1 tabak Pad Thai"
+    },
+    "chicken-curry": {
+      "name": "Tavuk köri",
+      "namePrep": "tavuk köri",
+      "serving": "1 tabak tavuk köri"
+    },
+    "chicken-tikka-masala": {
+      "name": "Tavuk tikka masala",
+      "namePrep": "tavuk tikka masala",
+      "serving": "1 tabak tavuk tikka masala"
+    },
+    "beef-chili": {
+      "name": "Dana etli chili",
+      "namePrep": "dana etli chili",
+      "serving": "1 kase dana etli chili"
+    },
+    "falafel": {
+      "name": "Falafel",
+      "namePrep": "falafel",
+      "serving": "3 adet falafel"
+    },
+    "dumplings": {
+      "name": "Mantı/dumpling",
+      "namePrep": "mantı/dumpling",
+      "serving": "6 adet dumpling"
+    },
+    "spring-rolls": {
+      "name": "Spring roll",
+      "namePrep": "spring roll",
+      "serving": "2 adet spring roll"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "quesadilla",
+      "serving": "1 peynirli quesadilla"
+    },
+    "nachos": {
+      "name": "Nachos",
+      "namePrep": "nachos",
+      "serving": "1 porsiyon nachos"
+    },
+    "mac-and-cheese": {
+      "name": "Mac and cheese",
+      "namePrep": "mac and cheese",
+      "serving": "1 kase mac and cheese"
+    },
+    "chicken-wings": {
+      "name": "Tavuk kanat",
+      "namePrep": "tavuk kanat",
+      "serving": "6 adet tavuk kanat"
+    },
+    "fish-and-chips": {
+      "name": "Fish and chips",
+      "namePrep": "fish and chips",
+      "serving": "1 porsiyon fish and chips"
+    },
+    "risotto": {
+      "name": "Risotto",
+      "namePrep": "risotto",
+      "serving": "1 tabak risotto"
+    },
+    "tortilla-chips": {
+      "name": "Tortilla cipsi",
+      "namePrep": "tortilla cipsi",
+      "serving": "30 g tortilla cipsi"
+    },
+    "granola-bar": {
+      "name": "Granola bar",
+      "namePrep": "granola bar",
+      "serving": "1 granola bar"
+    },
+    "chocolate-bar": {
+      "name": "Çikolata bar",
+      "namePrep": "çikolata bar",
+      "serving": "1 çikolata bar"
+    },
+    "candy": {
+      "name": "Şekerleme",
+      "namePrep": "şekerleme",
+      "serving": "1 küçük porsiyon şekerleme"
+    },
+    "cinnamon-roll": {
+      "name": "Tarçınlı çörek",
+      "namePrep": "tarçınlı çörek",
+      "serving": "1 tarçınlı çörek"
+    },
+    "marshmallows": {
+      "name": "Marshmallow",
+      "namePrep": "marshmallow",
+      "serving": "4 büyük marshmallow"
+    },
+    "fruit-snacks": {
+      "name": "Meyveli atıştırmalık",
+      "namePrep": "meyveli atıştırmalık",
+      "serving": "1 paket meyveli atıştırmalık"
+    },
+    "black-coffee": {
+      "name": "Sade kahve",
+      "namePrep": "sade kahve",
+      "serving": "1 fincan sade kahve"
+    },
+    "cappuccino": {
+      "name": "Cappuccino",
+      "namePrep": "cappuccino",
+      "serving": "1 orta boy cappuccino"
+    },
+    "milk-tea": {
+      "name": "Sütlü çay",
+      "namePrep": "sütlü çay",
+      "serving": "1 bardak sütlü çay"
+    },
+    "bubble-tea": {
+      "name": "Bubble tea",
+      "namePrep": "bubble tea",
+      "serving": "1 bardak bubble tea"
+    },
+    "lemonade": {
+      "name": "Limonata",
+      "namePrep": "limonata",
+      "serving": "1 bardak limonata"
+    },
+    "iced-tea": {
+      "name": "Soğuk çay",
+      "namePrep": "soğuk çay",
+      "serving": "350 ml şekerli soğuk çay"
+    },
+    "apple-juice": {
+      "name": "Elma suyu",
+      "namePrep": "elma suyu",
+      "serving": "1 bardak elma suyu"
+    },
+    "coconut-water": {
+      "name": "Hindistan cevizi suyu",
+      "namePrep": "hindistan cevizi suyu",
+      "serving": "1 bardak Hindistan cevizi suyu"
+    },
+    "sports-drink": {
+      "name": "Sporcu içeceği",
+      "namePrep": "sporcu içeceği",
+      "serving": "590 ml sporcu içeceği"
+    },
+    "ranch-dressing": {
+      "name": "Ranch sos",
+      "namePrep": "ranch sos",
+      "serving": "2 yemek kaşığı ranch sos"
+    },
+    "bbq-sauce": {
+      "name": "Barbekü sos",
+      "namePrep": "barbekü sos",
+      "serving": "2 yemek kaşığı barbekü sos"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "salsa",
+      "serving": "1/4 su bardağı salsa"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "guacamole",
+      "serving": "1/4 su bardağı guacamole"
+    }
+  },
+  "utility": {
+    "pricing": "Fiyatlandırma",
+    "support": "Destek",
+    "privacy": "Gizlilik",
+    "terms": "Kullanım koşulları",
+    "press": "Basın kiti",
+    "deleteExtra": "Hesabınızı veya verilerinizi silmek için hesapla ilişkili e-posta adresinden yazın ve konu satırına “Delete account” yazın."
+  },
+  "store": {
+    "appStoreSmall": "Şuradan indirin",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Şuradan alın",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Özellik",
+    "useCase": "Kullanım alanı",
+    "openPage": "Sayfayı aç",
+    "openArrow": "Aç →",
+    "practicalWorkflow": "Pratik akış",
+    "workflowTitle": "Günlük kullanım",
+    "goodToKnow": "Bilmekte fayda var",
+    "defaultNote": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+    "relatedPages": "İlgili sayfalar",
+    "quickTakeaway": "Kısa özet",
+    "defaultTakeaway": "Fotoğraf, porsiyon kontrolü ve manuel düzeltmeler beslenme günlüğünü daha sürdürülebilir kılar.",
+    "information": "Bilgi",
+    "bestFor": "En uygun olduğu durumlar"
+  },
+  "internalCta": {
+    "title": "Fotoğrafla çalışan yapay zekâ kalori sayacını deneyin",
+    "text": "Sonraki öğününüzün fotoğrafını çekin, kalori ve makro tahminini kontrol edin, ardından beslenme günlüğünüze kaydedin.",
+    "button": "Uygulamayı indir"
+  },
+  "download": {
+    "availableTitle": "iPhone ve Android için kullanılabilir",
+    "availableText": "Calorie Counter AI uygulamasını iPhone veya Android için indirin ve bir sonraki yemek fotoğrafınızı günlük kaydına dönüştürün."
+  },
+  "faq": {
+    "items": [
+      [
+        "Calorie Counter AI ücretsiz mi?",
+        "Her gün ücretsiz yapay zekâ yemek analizleriyle başlayabilirsiniz. Daha yüksek limitler ve gelişmiş özellikler için premium seçenekler sunulabilir."
+      ],
+      [
+        "Fotoğrafla kalori sayabilir miyim?",
+        "Evet. Yemeğin fotoğrafını çekin, yapay zekâ tahminini kontrol edin ve kaydetmeden önce porsiyonu, malzemeleri, sosları veya markayı düzenleyin."
+      ],
+      [
+        "Yapay zekâ kalori tahminleri ne kadar doğru?",
+        "Bu bir laboratuvar analizi değil, pratik bir tahmindir. Porsiyon büyüklüğü, tarif, gizli yağlar, soslar, marka ve fotoğraf kalitesi sonucu etkiler."
+      ],
+      [
+        "Barkod tarayıcı var mı?",
+        "Evet. Paketli ürünlerde barkodu tarayabilir, ürünü onaylayabilir ve kalori ile makroları günlüğe daha hızlı ekleyebilirsiniz."
+      ],
+      [
+        "Kilo vermek için uygun mu?",
+        "Evet, kalori açığını takip etmek ve beslenme alışkanlıklarını daha iyi anlamak için kullanılabilir. Tıbbi hedefler için bir uzmana danışın."
+      ],
+      [
+        "Protein, yağ ve karbonhidrat takibi yapılabilir mi?",
+        "Evet. Kayıtlarda kaloriyle birlikte protein, yağ ve karbonhidrat görünür; böylece gün içinde makroları takip etmek kolaylaşır."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Her gün ücretsiz yapay zekâ yemek analizleriyle başlayabilirsiniz. Daha yüksek limitler, gelişmiş araçlar ve ek kolaylıklar için premium özellikler sunulabilir.",
+      "Fiyatlar, deneme süreleri ve abonelik seçenekleri ülkeye ve platforma göre değişebilir. Satın almadan önce güncel fiyat App Store veya Google Play içinde gösterilir."
+    ],
+    "support": [
+      "Yardıma mı ihtiyacınız var? Destek ekibine yazarken cihazınızı, platformu, uygulama sürümünü ve sorunu kısa bir şekilde belirtin.",
+      "Ödeme, iade ve abonelik yönetimi genellikle App Store veya Google Play ayarlarından yapılır; çünkü satın alma işlemi mağaza üzerinden gerçekleşir."
+    ],
+    "contact": [
+      "Destek e-postası: support@caloriecounterai.app",
+      "İş birlikleri, medya talepleri ve ürün geri bildirimi için e-postanın konu satırını açık yazmanız talebin daha hızlı işlenmesine yardımcı olur."
+    ],
+    "privacy": [
+      "Calorie Counter AI günlük beslenme kaydı ve beslenme farkındalığı için tasarlanmıştır. Veriler yemek kayıtlarını, fotoğrafları, tercihleri ve hizmetin çalışması için gerekli teknik bilgileri içerebilir.",
+      "Yalnızca kullanmakta rahat olduğunuz sağlık ve aktivite verilerine izin verin. İzinleri cihaz ayarlarından değiştirebilirsiniz."
+    ],
+    "terms": [
+      "Calorie Counter AI kullanırken uygulamanın beslenme kaydı için bilgilendirici bir araç olduğunu ve tahminleri kullanmadan önce kontrol etmeniz gerektiğini kabul edersiniz.",
+      "Özellikler, ücretsiz limitler ve premium seçenekler değişebilir. App Store ve Google Play üzerinden yapılan satın almalarda ilgili mağazanın kuralları da geçerlidir."
+    ],
+    "disclaimer": [
+      "Beslenme tahminleri yalnızca bilgilendirme amaçlıdır; doktor, diyetisyen veya başka bir sağlık uzmanının tavsiyesinin yerine geçmez.",
+      "Fotoğrafa dayalı tahminler porsiyon, gizli malzemeler, tarif, fotoğraf kalitesi ve manuel düzeltmelere bağlıdır. Tıbbi durumlar, hamilelik, yeme bozukluğu geçmişi veya klinik beslenme hedefleri varsa bir uzmana danışın."
+    ],
+    "delete": [
+      "Hesabınızı veya verilerinizi silmek için hesapla ilişkili e-posta adresinden yazın ve konu satırına “Delete account” yazın.",
+      "Destek ekibi talebi doğrulamak ve doğru hesabı bulmak için ek bilgi isteyebilir."
+    ]
+  },
+  "press": {
+    "iconAlt": "Uygulama ikonu",
+    "iconTitle": "Uygulama ikonu",
+    "downloadIcon": "İkonu indir",
+    "screenshotAlt": "Uygulama ekran görüntüsü",
+    "screenshotTitle": "Ekran görüntüsü",
+    "downloadScreenshot": "Ekran görüntüsünü indir",
+    "shortDescriptionTitle": "Kısa açıklama",
+    "shortDescriptionText": "Calorie Counter AI, yemek fotoğrafından kalori, makro besin ve porsiyon büyüklüğü tahmini yapan; barkod tarayıcı ve görsel beslenme günlüğü sunan yapay zekâ destekli bir kalori sayacıdır."
+  },
+  "notFound": {
+    "title": "Sayfa bulunamadı",
+    "text": "Bağlantı eskimiş olabilir veya sayfa taşınmış olabilir.",
+    "home": "Ana sayfaya dön"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Özellikler",
+      "h1": "Özellikler",
+      "description": "Özellikler: fotoğraf, barkod, günlük ve porsiyon düzeltmeleriyle beslenmeyi daha hızlı ve düzenli kaydedin.",
+      "kicker": "Özellik",
+      "summary": "Odak noktası pratik kayıttır: daha az manuel arama, daha çok kontrol edilebilir ve düzenlenebilir tahmin.",
+      "bullets": [
+        "Daha az manuel girişle hızlı kayıt",
+        "Kaydetmeden önce düzenlenebilir tahminler",
+        "Kalori ve makro besinler tek yerde",
+        "Günlük kullanım alışkanlığına uygun"
+      ],
+      "sections": [
+        [
+          "Ne zaman en işe yarar?",
+          "Hızlı bir başlangıç tahmini gerektiğinde ama porsiyon ve malzemeleri yine de kontrol etmek istediğinizde kullanın."
+        ],
+        [
+          "Daha iyi sonuç nasıl alınır?",
+          "İyi ışıkta fotoğraf çekin; sosları, yağları ve gizli malzemeleri kontrol edip kaydı düzeltin."
+        ],
+        [
+          "Mükemmel doğruluktan çok sürdürülebilirlik",
+          "Düzenli kayıt ve makul düzeltmeler, nadiren yapılan kusursuz hesaptan genellikle daha faydalıdır."
+        ]
+      ],
+      "workflowTitle": "Günlük kayıtta nasıl kullanılır?",
+      "workflow": [
+        "Uygun olduğunda fotoğraf çekin veya barkod kullanın.",
+        "Porsiyonu, sosları, içecekleri ve gizli malzemeleri kontrol edin."
+      ],
+      "note": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+      "bestFor": [
+        "Hızlı günlük kayıt",
+        "Etiketi olmayan yemekler",
+        "Kalori ve makroları birlikte görmek isteyenler",
+        "Aşırı rutin olmadan sürdürülebilir alışkanlık kurmak"
+      ],
+      "workflowKicker": "Pratik yaklaşım",
+      "noteTitle": "Bilmekte fayda var"
+    },
+    "/food-recognition-ai/": {
+      "title": "Yapay zekâ ile yemek tanıma",
+      "h1": "Yapay zekâ ile yemek tanıma",
+      "description": "Yapay zekâ ile yemek tanıma: fotoğraf, barkod, günlük ve porsiyon düzeltmeleriyle beslenmeyi daha hızlı ve düzenli kaydedin.",
+      "kicker": "Özellik",
+      "summary": "Odak noktası pratik kayıttır: daha az manuel arama, daha çok kontrol edilebilir ve düzenlenebilir tahmin.",
+      "bullets": [
+        "Daha az manuel girişle hızlı kayıt",
+        "Kaydetmeden önce düzenlenebilir tahminler",
+        "Kalori ve makro besinler tek yerde",
+        "Günlük kullanım alışkanlığına uygun"
+      ],
+      "sections": [
+        [
+          "Ne zaman en işe yarar?",
+          "Hızlı bir başlangıç tahmini gerektiğinde ama porsiyon ve malzemeleri yine de kontrol etmek istediğinizde kullanın."
+        ],
+        [
+          "Daha iyi sonuç nasıl alınır?",
+          "İyi ışıkta fotoğraf çekin; sosları, yağları ve gizli malzemeleri kontrol edip kaydı düzeltin."
+        ],
+        [
+          "Mükemmel doğruluktan çok sürdürülebilirlik",
+          "Düzenli kayıt ve makul düzeltmeler, nadiren yapılan kusursuz hesaptan genellikle daha faydalıdır."
+        ]
+      ],
+      "workflowTitle": "Günlük kayıtta nasıl kullanılır?",
+      "workflow": [
+        "Uygun olduğunda fotoğraf çekin veya barkod kullanın.",
+        "Porsiyonu, sosları, içecekleri ve gizli malzemeleri kontrol edin."
+      ],
+      "note": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+      "bestFor": [
+        "Hızlı günlük kayıt",
+        "Etiketi olmayan yemekler",
+        "Kalori ve makroları birlikte görmek isteyenler",
+        "Aşırı rutin olmadan sürdürülebilir alışkanlık kurmak"
+      ],
+      "workflowKicker": "Pratik yaklaşım",
+      "noteTitle": "Bilmekte fayda var"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Barkod kalori tarayıcı",
+      "h1": "Barkod kalori tarayıcı",
+      "description": "Barkod kalori tarayıcı: fotoğraf, barkod, günlük ve porsiyon düzeltmeleriyle beslenmeyi daha hızlı ve düzenli kaydedin.",
+      "kicker": "Özellik",
+      "summary": "Odak noktası pratik kayıttır: daha az manuel arama, daha çok kontrol edilebilir ve düzenlenebilir tahmin.",
+      "bullets": [
+        "Daha az manuel girişle hızlı kayıt",
+        "Kaydetmeden önce düzenlenebilir tahminler",
+        "Kalori ve makro besinler tek yerde",
+        "Günlük kullanım alışkanlığına uygun"
+      ],
+      "sections": [
+        [
+          "Ne zaman en işe yarar?",
+          "Hızlı bir başlangıç tahmini gerektiğinde ama porsiyon ve malzemeleri yine de kontrol etmek istediğinizde kullanın."
+        ],
+        [
+          "Daha iyi sonuç nasıl alınır?",
+          "İyi ışıkta fotoğraf çekin; sosları, yağları ve gizli malzemeleri kontrol edip kaydı düzeltin."
+        ],
+        [
+          "Mükemmel doğruluktan çok sürdürülebilirlik",
+          "Düzenli kayıt ve makul düzeltmeler, nadiren yapılan kusursuz hesaptan genellikle daha faydalıdır."
+        ]
+      ],
+      "workflowTitle": "Günlük kayıtta nasıl kullanılır?",
+      "workflow": [
+        "Uygun olduğunda fotoğraf çekin veya barkod kullanın.",
+        "Porsiyonu, sosları, içecekleri ve gizli malzemeleri kontrol edin."
+      ],
+      "note": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+      "bestFor": [
+        "Hızlı günlük kayıt",
+        "Etiketi olmayan yemekler",
+        "Kalori ve makroları birlikte görmek isteyenler",
+        "Aşırı rutin olmadan sürdürülebilir alışkanlık kurmak"
+      ],
+      "workflowKicker": "Pratik yaklaşım",
+      "noteTitle": "Bilmekte fayda var"
+    },
+    "/macro-tracker/": {
+      "title": "Makro besin takibi",
+      "h1": "Makro besin takibi",
+      "description": "Makro besin takibi: fotoğraf, barkod, günlük ve porsiyon düzeltmeleriyle beslenmeyi daha hızlı ve düzenli kaydedin.",
+      "kicker": "Özellik",
+      "summary": "Odak noktası pratik kayıttır: daha az manuel arama, daha çok kontrol edilebilir ve düzenlenebilir tahmin.",
+      "bullets": [
+        "Daha az manuel girişle hızlı kayıt",
+        "Kaydetmeden önce düzenlenebilir tahminler",
+        "Kalori ve makro besinler tek yerde",
+        "Günlük kullanım alışkanlığına uygun"
+      ],
+      "sections": [
+        [
+          "Ne zaman en işe yarar?",
+          "Hızlı bir başlangıç tahmini gerektiğinde ama porsiyon ve malzemeleri yine de kontrol etmek istediğinizde kullanın."
+        ],
+        [
+          "Daha iyi sonuç nasıl alınır?",
+          "İyi ışıkta fotoğraf çekin; sosları, yağları ve gizli malzemeleri kontrol edip kaydı düzeltin."
+        ],
+        [
+          "Mükemmel doğruluktan çok sürdürülebilirlik",
+          "Düzenli kayıt ve makul düzeltmeler, nadiren yapılan kusursuz hesaptan genellikle daha faydalıdır."
+        ]
+      ],
+      "workflowTitle": "Günlük kayıtta nasıl kullanılır?",
+      "workflow": [
+        "Uygun olduğunda fotoğraf çekin veya barkod kullanın.",
+        "Porsiyonu, sosları, içecekleri ve gizli malzemeleri kontrol edin."
+      ],
+      "note": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+      "bestFor": [
+        "Hızlı günlük kayıt",
+        "Etiketi olmayan yemekler",
+        "Kalori ve makroları birlikte görmek isteyenler",
+        "Aşırı rutin olmadan sürdürülebilir alışkanlık kurmak"
+      ],
+      "workflowKicker": "Pratik yaklaşım",
+      "noteTitle": "Bilmekte fayda var"
+    },
+    "/food-diary-app/": {
+      "title": "Beslenme günlüğü uygulaması",
+      "h1": "Beslenme günlüğü uygulaması",
+      "description": "Beslenme günlüğü uygulaması: fotoğraf, barkod, günlük ve porsiyon düzeltmeleriyle beslenmeyi daha hızlı ve düzenli kaydedin.",
+      "kicker": "Özellik",
+      "summary": "Odak noktası pratik kayıttır: daha az manuel arama, daha çok kontrol edilebilir ve düzenlenebilir tahmin.",
+      "bullets": [
+        "Daha az manuel girişle hızlı kayıt",
+        "Kaydetmeden önce düzenlenebilir tahminler",
+        "Kalori ve makro besinler tek yerde",
+        "Günlük kullanım alışkanlığına uygun"
+      ],
+      "sections": [
+        [
+          "Ne zaman en işe yarar?",
+          "Hızlı bir başlangıç tahmini gerektiğinde ama porsiyon ve malzemeleri yine de kontrol etmek istediğinizde kullanın."
+        ],
+        [
+          "Daha iyi sonuç nasıl alınır?",
+          "İyi ışıkta fotoğraf çekin; sosları, yağları ve gizli malzemeleri kontrol edip kaydı düzeltin."
+        ],
+        [
+          "Mükemmel doğruluktan çok sürdürülebilirlik",
+          "Düzenli kayıt ve makul düzeltmeler, nadiren yapılan kusursuz hesaptan genellikle daha faydalıdır."
+        ]
+      ],
+      "workflowTitle": "Günlük kayıtta nasıl kullanılır?",
+      "workflow": [
+        "Uygun olduğunda fotoğraf çekin veya barkod kullanın.",
+        "Porsiyonu, sosları, içecekleri ve gizli malzemeleri kontrol edin."
+      ],
+      "note": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+      "bestFor": [
+        "Hızlı günlük kayıt",
+        "Etiketi olmayan yemekler",
+        "Kalori ve makroları birlikte görmek isteyenler",
+        "Aşırı rutin olmadan sürdürülebilir alışkanlık kurmak"
+      ],
+      "workflowKicker": "Pratik yaklaşım",
+      "noteTitle": "Bilmekte fayda var"
+    },
+    "/nutrition-tracker/": {
+      "title": "Beslenme takip uygulaması",
+      "h1": "Beslenme takip uygulaması",
+      "description": "Beslenme takip uygulaması: fotoğraf, barkod, günlük ve porsiyon düzeltmeleriyle beslenmeyi daha hızlı ve düzenli kaydedin.",
+      "kicker": "Özellik",
+      "summary": "Odak noktası pratik kayıttır: daha az manuel arama, daha çok kontrol edilebilir ve düzenlenebilir tahmin.",
+      "bullets": [
+        "Daha az manuel girişle hızlı kayıt",
+        "Kaydetmeden önce düzenlenebilir tahminler",
+        "Kalori ve makro besinler tek yerde",
+        "Günlük kullanım alışkanlığına uygun"
+      ],
+      "sections": [
+        [
+          "Ne zaman en işe yarar?",
+          "Hızlı bir başlangıç tahmini gerektiğinde ama porsiyon ve malzemeleri yine de kontrol etmek istediğinizde kullanın."
+        ],
+        [
+          "Daha iyi sonuç nasıl alınır?",
+          "İyi ışıkta fotoğraf çekin; sosları, yağları ve gizli malzemeleri kontrol edip kaydı düzeltin."
+        ],
+        [
+          "Mükemmel doğruluktan çok sürdürülebilirlik",
+          "Düzenli kayıt ve makul düzeltmeler, nadiren yapılan kusursuz hesaptan genellikle daha faydalıdır."
+        ]
+      ],
+      "workflowTitle": "Günlük kayıtta nasıl kullanılır?",
+      "workflow": [
+        "Uygun olduğunda fotoğraf çekin veya barkod kullanın.",
+        "Porsiyonu, sosları, içecekleri ve gizli malzemeleri kontrol edin."
+      ],
+      "note": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+      "bestFor": [
+        "Hızlı günlük kayıt",
+        "Etiketi olmayan yemekler",
+        "Kalori ve makroları birlikte görmek isteyenler",
+        "Aşırı rutin olmadan sürdürülebilir alışkanlık kurmak"
+      ],
+      "workflowKicker": "Pratik yaklaşım",
+      "noteTitle": "Bilmekte fayda var"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Porsiyon ağırlığı tahmini",
+      "h1": "Porsiyon ağırlığı tahmini",
+      "description": "Porsiyon ağırlığı tahmini: fotoğraf, barkod, günlük ve porsiyon düzeltmeleriyle beslenmeyi daha hızlı ve düzenli kaydedin.",
+      "kicker": "Özellik",
+      "summary": "Odak noktası pratik kayıttır: daha az manuel arama, daha çok kontrol edilebilir ve düzenlenebilir tahmin.",
+      "bullets": [
+        "Daha az manuel girişle hızlı kayıt",
+        "Kaydetmeden önce düzenlenebilir tahminler",
+        "Kalori ve makro besinler tek yerde",
+        "Günlük kullanım alışkanlığına uygun"
+      ],
+      "sections": [
+        [
+          "Ne zaman en işe yarar?",
+          "Hızlı bir başlangıç tahmini gerektiğinde ama porsiyon ve malzemeleri yine de kontrol etmek istediğinizde kullanın."
+        ],
+        [
+          "Daha iyi sonuç nasıl alınır?",
+          "İyi ışıkta fotoğraf çekin; sosları, yağları ve gizli malzemeleri kontrol edip kaydı düzeltin."
+        ],
+        [
+          "Mükemmel doğruluktan çok sürdürülebilirlik",
+          "Düzenli kayıt ve makul düzeltmeler, nadiren yapılan kusursuz hesaptan genellikle daha faydalıdır."
+        ]
+      ],
+      "workflowTitle": "Günlük kayıtta nasıl kullanılır?",
+      "workflow": [
+        "Uygun olduğunda fotoğraf çekin veya barkod kullanın.",
+        "Porsiyonu, sosları, içecekleri ve gizli malzemeleri kontrol edin."
+      ],
+      "note": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+      "bestFor": [
+        "Hızlı günlük kayıt",
+        "Etiketi olmayan yemekler",
+        "Kalori ve makroları birlikte görmek isteyenler",
+        "Aşırı rutin olmadan sürdürülebilir alışkanlık kurmak"
+      ],
+      "workflowKicker": "Pratik yaklaşım",
+      "noteTitle": "Bilmekte fayda var"
+    },
+    "/progress-statistics/": {
+      "title": "İlerleme istatistikleri",
+      "h1": "İlerleme istatistikleri",
+      "description": "İlerleme istatistikleri: fotoğraf, barkod, günlük ve porsiyon düzeltmeleriyle beslenmeyi daha hızlı ve düzenli kaydedin.",
+      "kicker": "Özellik",
+      "summary": "Odak noktası pratik kayıttır: daha az manuel arama, daha çok kontrol edilebilir ve düzenlenebilir tahmin.",
+      "bullets": [
+        "Daha az manuel girişle hızlı kayıt",
+        "Kaydetmeden önce düzenlenebilir tahminler",
+        "Kalori ve makro besinler tek yerde",
+        "Günlük kullanım alışkanlığına uygun"
+      ],
+      "sections": [
+        [
+          "Ne zaman en işe yarar?",
+          "Hızlı bir başlangıç tahmini gerektiğinde ama porsiyon ve malzemeleri yine de kontrol etmek istediğinizde kullanın."
+        ],
+        [
+          "Daha iyi sonuç nasıl alınır?",
+          "İyi ışıkta fotoğraf çekin; sosları, yağları ve gizli malzemeleri kontrol edip kaydı düzeltin."
+        ],
+        [
+          "Mükemmel doğruluktan çok sürdürülebilirlik",
+          "Düzenli kayıt ve makul düzeltmeler, nadiren yapılan kusursuz hesaptan genellikle daha faydalıdır."
+        ]
+      ],
+      "workflowTitle": "Günlük kayıtta nasıl kullanılır?",
+      "workflow": [
+        "Uygun olduğunda fotoğraf çekin veya barkod kullanın.",
+        "Porsiyonu, sosları, içecekleri ve gizli malzemeleri kontrol edin."
+      ],
+      "note": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+      "bestFor": [
+        "Hızlı günlük kayıt",
+        "Etiketi olmayan yemekler",
+        "Kalori ve makroları birlikte görmek isteyenler",
+        "Aşırı rutin olmadan sürdürülebilir alışkanlık kurmak"
+      ],
+      "workflowKicker": "Pratik yaklaşım",
+      "noteTitle": "Bilmekte fayda var"
+    },
+    "/meal-reminders/": {
+      "title": "Öğün hatırlatıcıları",
+      "h1": "Öğün hatırlatıcıları",
+      "description": "Öğün hatırlatıcıları: fotoğraf, barkod, günlük ve porsiyon düzeltmeleriyle beslenmeyi daha hızlı ve düzenli kaydedin.",
+      "kicker": "Özellik",
+      "summary": "Odak noktası pratik kayıttır: daha az manuel arama, daha çok kontrol edilebilir ve düzenlenebilir tahmin.",
+      "bullets": [
+        "Daha az manuel girişle hızlı kayıt",
+        "Kaydetmeden önce düzenlenebilir tahminler",
+        "Kalori ve makro besinler tek yerde",
+        "Günlük kullanım alışkanlığına uygun"
+      ],
+      "sections": [
+        [
+          "Ne zaman en işe yarar?",
+          "Hızlı bir başlangıç tahmini gerektiğinde ama porsiyon ve malzemeleri yine de kontrol etmek istediğinizde kullanın."
+        ],
+        [
+          "Daha iyi sonuç nasıl alınır?",
+          "İyi ışıkta fotoğraf çekin; sosları, yağları ve gizli malzemeleri kontrol edip kaydı düzeltin."
+        ],
+        [
+          "Mükemmel doğruluktan çok sürdürülebilirlik",
+          "Düzenli kayıt ve makul düzeltmeler, nadiren yapılan kusursuz hesaptan genellikle daha faydalıdır."
+        ]
+      ],
+      "workflowTitle": "Günlük kayıtta nasıl kullanılır?",
+      "workflow": [
+        "Uygun olduğunda fotoğraf çekin veya barkod kullanın.",
+        "Porsiyonu, sosları, içecekleri ve gizli malzemeleri kontrol edin."
+      ],
+      "note": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+      "bestFor": [
+        "Hızlı günlük kayıt",
+        "Etiketi olmayan yemekler",
+        "Kalori ve makroları birlikte görmek isteyenler",
+        "Aşırı rutin olmadan sürdürülebilir alışkanlık kurmak"
+      ],
+      "workflowKicker": "Pratik yaklaşım",
+      "noteTitle": "Bilmekte fayda var"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Google Health Connect",
+      "description": "Google Health Connect: fotoğraf, barkod, günlük ve porsiyon düzeltmeleriyle beslenmeyi daha hızlı ve düzenli kaydedin.",
+      "kicker": "Özellik",
+      "summary": "Odak noktası pratik kayıttır: daha az manuel arama, daha çok kontrol edilebilir ve düzenlenebilir tahmin.",
+      "bullets": [
+        "Daha az manuel girişle hızlı kayıt",
+        "Kaydetmeden önce düzenlenebilir tahminler",
+        "Kalori ve makro besinler tek yerde",
+        "Günlük kullanım alışkanlığına uygun"
+      ],
+      "sections": [
+        [
+          "Ne zaman en işe yarar?",
+          "Hızlı bir başlangıç tahmini gerektiğinde ama porsiyon ve malzemeleri yine de kontrol etmek istediğinizde kullanın."
+        ],
+        [
+          "Daha iyi sonuç nasıl alınır?",
+          "İyi ışıkta fotoğraf çekin; sosları, yağları ve gizli malzemeleri kontrol edip kaydı düzeltin."
+        ],
+        [
+          "Mükemmel doğruluktan çok sürdürülebilirlik",
+          "Düzenli kayıt ve makul düzeltmeler, nadiren yapılan kusursuz hesaptan genellikle daha faydalıdır."
+        ]
+      ],
+      "workflowTitle": "Günlük kayıtta nasıl kullanılır?",
+      "workflow": [
+        "Uygun olduğunda fotoğraf çekin veya barkod kullanın.",
+        "Porsiyonu, sosları, içecekleri ve gizli malzemeleri kontrol edin."
+      ],
+      "note": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+      "bestFor": [
+        "Hızlı günlük kayıt",
+        "Etiketi olmayan yemekler",
+        "Kalori ve makroları birlikte görmek isteyenler",
+        "Aşırı rutin olmadan sürdürülebilir alışkanlık kurmak"
+      ],
+      "workflowKicker": "Pratik yaklaşım",
+      "noteTitle": "Bilmekte fayda var"
+    },
+    "/data-export/": {
+      "title": "Veri dışa aktarma",
+      "h1": "Veri dışa aktarma",
+      "description": "Veri dışa aktarma: fotoğraf, barkod, günlük ve porsiyon düzeltmeleriyle beslenmeyi daha hızlı ve düzenli kaydedin.",
+      "kicker": "Özellik",
+      "summary": "Odak noktası pratik kayıttır: daha az manuel arama, daha çok kontrol edilebilir ve düzenlenebilir tahmin.",
+      "bullets": [
+        "Daha az manuel girişle hızlı kayıt",
+        "Kaydetmeden önce düzenlenebilir tahminler",
+        "Kalori ve makro besinler tek yerde",
+        "Günlük kullanım alışkanlığına uygun"
+      ],
+      "sections": [
+        [
+          "Ne zaman en işe yarar?",
+          "Hızlı bir başlangıç tahmini gerektiğinde ama porsiyon ve malzemeleri yine de kontrol etmek istediğinizde kullanın."
+        ],
+        [
+          "Daha iyi sonuç nasıl alınır?",
+          "İyi ışıkta fotoğraf çekin; sosları, yağları ve gizli malzemeleri kontrol edip kaydı düzeltin."
+        ],
+        [
+          "Mükemmel doğruluktan çok sürdürülebilirlik",
+          "Düzenli kayıt ve makul düzeltmeler, nadiren yapılan kusursuz hesaptan genellikle daha faydalıdır."
+        ]
+      ],
+      "workflowTitle": "Günlük kayıtta nasıl kullanılır?",
+      "workflow": [
+        "Uygun olduğunda fotoğraf çekin veya barkod kullanın.",
+        "Porsiyonu, sosları, içecekleri ve gizli malzemeleri kontrol edin."
+      ],
+      "note": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+      "bestFor": [
+        "Hızlı günlük kayıt",
+        "Etiketi olmayan yemekler",
+        "Kalori ve makroları birlikte görmek isteyenler",
+        "Aşırı rutin olmadan sürdürülebilir alışkanlık kurmak"
+      ],
+      "workflowKicker": "Pratik yaklaşım",
+      "noteTitle": "Bilmekte fayda var"
+    },
+    "/use-cases/": {
+      "title": "Kullanım alanları",
+      "h1": "Kullanım alanları",
+      "description": "Kullanım alanları: kalori, makro besin ve porsiyonları gerçek öğünlere, ev yemeklerine ve dışarıda yenilen günlere uygun şekilde takip edin.",
+      "kicker": "Kullanım alanı"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Kilo verme için kalori sayacı",
+      "h1": "Kilo verme için kalori sayacı",
+      "description": "Kilo verme için kalori sayacı: kalori, makro besin ve porsiyonları gerçek öğünlere, ev yemeklerine ve dışarıda yenilen günlere uygun şekilde takip edin.",
+      "kicker": "Kullanım alanı",
+      "summary": "Bu kullanım alanı, katı kurallara gerek kalmadan yemeği anlaşılır geri bildirime dönüştürür.",
+      "bullets": [
+        "Günlük kalori hedefi",
+        "Her öğünde protein, yağ ve karbonhidrat",
+        "Karmaşık yemekler için fotoğraf tahmini",
+        "Alışkanlıklara göre geçmiş ve düzeltmeler"
+      ],
+      "sections": [
+        [
+          "Gözlemle başlayın",
+          "Birkaç günlük kayıt, her şeyi bir anda değiştirme çabasından daha çok içgörü sağlayabilir."
+        ],
+        [
+          "Porsiyonları kontrol edin",
+          "Porsiyon büyüklüğü, yağ, sos ve içecekler sonucu en çok değiştiren unsurlar olabilir."
+        ],
+        [
+          "Veriyi sakin kullanın",
+          "Amaç her sapma için kendinizi suçlamak değil, beslenmeyi daha iyi anlamaktır."
+        ]
+      ],
+      "workflowTitle": "Günlük kayıtta nasıl kullanılır?",
+      "workflow": [
+        "Uygun olduğunda fotoğraf çekin veya barkod kullanın.",
+        "Porsiyonu, sosları, içecekleri ve gizli malzemeleri kontrol edin."
+      ],
+      "note": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+      "bestFor": [
+        "Hızlı günlük kayıt",
+        "Etiketi olmayan yemekler",
+        "Kalori ve makroları birlikte görmek isteyenler",
+        "Aşırı rutin olmadan sürdürülebilir alışkanlık kurmak"
+      ],
+      "workflowKicker": "Pratik yaklaşım",
+      "noteTitle": "Bilmekte fayda var"
+    },
+    "/calorie-deficit-app/": {
+      "title": "Kalori açığı uygulaması",
+      "h1": "Kalori açığı uygulaması",
+      "description": "Kalori açığı uygulaması: kalori, makro besin ve porsiyonları gerçek öğünlere, ev yemeklerine ve dışarıda yenilen günlere uygun şekilde takip edin.",
+      "kicker": "Kullanım alanı",
+      "summary": "Bu kullanım alanı, katı kurallara gerek kalmadan yemeği anlaşılır geri bildirime dönüştürür.",
+      "bullets": [
+        "Günlük kalori hedefi",
+        "Her öğünde protein, yağ ve karbonhidrat",
+        "Karmaşık yemekler için fotoğraf tahmini",
+        "Alışkanlıklara göre geçmiş ve düzeltmeler"
+      ],
+      "sections": [
+        [
+          "Gözlemle başlayın",
+          "Birkaç günlük kayıt, her şeyi bir anda değiştirme çabasından daha çok içgörü sağlayabilir."
+        ],
+        [
+          "Porsiyonları kontrol edin",
+          "Porsiyon büyüklüğü, yağ, sos ve içecekler sonucu en çok değiştiren unsurlar olabilir."
+        ],
+        [
+          "Veriyi sakin kullanın",
+          "Amaç her sapma için kendinizi suçlamak değil, beslenmeyi daha iyi anlamaktır."
+        ]
+      ],
+      "workflowTitle": "Günlük kayıtta nasıl kullanılır?",
+      "workflow": [
+        "Uygun olduğunda fotoğraf çekin veya barkod kullanın.",
+        "Porsiyonu, sosları, içecekleri ve gizli malzemeleri kontrol edin."
+      ],
+      "note": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+      "bestFor": [
+        "Hızlı günlük kayıt",
+        "Etiketi olmayan yemekler",
+        "Kalori ve makroları birlikte görmek isteyenler",
+        "Aşırı rutin olmadan sürdürülebilir alışkanlık kurmak"
+      ],
+      "workflowKicker": "Pratik yaklaşım",
+      "noteTitle": "Bilmekte fayda var"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Kas kazanımı için beslenme takibi",
+      "h1": "Kas kazanımı için beslenme takibi",
+      "description": "Kas kazanımı için beslenme takibi: kalori, makro besin ve porsiyonları gerçek öğünlere, ev yemeklerine ve dışarıda yenilen günlere uygun şekilde takip edin.",
+      "kicker": "Kullanım alanı",
+      "summary": "Bu kullanım alanı, katı kurallara gerek kalmadan yemeği anlaşılır geri bildirime dönüştürür.",
+      "bullets": [
+        "Günlük kalori hedefi",
+        "Her öğünde protein, yağ ve karbonhidrat",
+        "Karmaşık yemekler için fotoğraf tahmini",
+        "Alışkanlıklara göre geçmiş ve düzeltmeler"
+      ],
+      "sections": [
+        [
+          "Gözlemle başlayın",
+          "Birkaç günlük kayıt, her şeyi bir anda değiştirme çabasından daha çok içgörü sağlayabilir."
+        ],
+        [
+          "Porsiyonları kontrol edin",
+          "Porsiyon büyüklüğü, yağ, sos ve içecekler sonucu en çok değiştiren unsurlar olabilir."
+        ],
+        [
+          "Veriyi sakin kullanın",
+          "Amaç her sapma için kendinizi suçlamak değil, beslenmeyi daha iyi anlamaktır."
+        ]
+      ],
+      "workflowTitle": "Günlük kayıtta nasıl kullanılır?",
+      "workflow": [
+        "Uygun olduğunda fotoğraf çekin veya barkod kullanın.",
+        "Porsiyonu, sosları, içecekleri ve gizli malzemeleri kontrol edin."
+      ],
+      "note": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+      "bestFor": [
+        "Hızlı günlük kayıt",
+        "Etiketi olmayan yemekler",
+        "Kalori ve makroları birlikte görmek isteyenler",
+        "Aşırı rutin olmadan sürdürülebilir alışkanlık kurmak"
+      ],
+      "workflowKicker": "Pratik yaklaşım",
+      "noteTitle": "Bilmekte fayda var"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Kilo koruma takibi",
+      "h1": "Kilo koruma takibi",
+      "description": "Kilo koruma takibi: kalori, makro besin ve porsiyonları gerçek öğünlere, ev yemeklerine ve dışarıda yenilen günlere uygun şekilde takip edin.",
+      "kicker": "Kullanım alanı",
+      "summary": "Bu kullanım alanı, katı kurallara gerek kalmadan yemeği anlaşılır geri bildirime dönüştürür.",
+      "bullets": [
+        "Günlük kalori hedefi",
+        "Her öğünde protein, yağ ve karbonhidrat",
+        "Karmaşık yemekler için fotoğraf tahmini",
+        "Alışkanlıklara göre geçmiş ve düzeltmeler"
+      ],
+      "sections": [
+        [
+          "Gözlemle başlayın",
+          "Birkaç günlük kayıt, her şeyi bir anda değiştirme çabasından daha çok içgörü sağlayabilir."
+        ],
+        [
+          "Porsiyonları kontrol edin",
+          "Porsiyon büyüklüğü, yağ, sos ve içecekler sonucu en çok değiştiren unsurlar olabilir."
+        ],
+        [
+          "Veriyi sakin kullanın",
+          "Amaç her sapma için kendinizi suçlamak değil, beslenmeyi daha iyi anlamaktır."
+        ]
+      ],
+      "workflowTitle": "Günlük kayıtta nasıl kullanılır?",
+      "workflow": [
+        "Uygun olduğunda fotoğraf çekin veya barkod kullanın.",
+        "Porsiyonu, sosları, içecekleri ve gizli malzemeleri kontrol edin."
+      ],
+      "note": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+      "bestFor": [
+        "Hızlı günlük kayıt",
+        "Etiketi olmayan yemekler",
+        "Kalori ve makroları birlikte görmek isteyenler",
+        "Aşırı rutin olmadan sürdürülebilir alışkanlık kurmak"
+      ],
+      "workflowKicker": "Pratik yaklaşım",
+      "noteTitle": "Bilmekte fayda var"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Ev yemeklerinde kalori hesabı",
+      "h1": "Ev yemeklerinde kalori hesabı",
+      "description": "Ev yemeklerinde kalori hesabı: kalori, makro besin ve porsiyonları gerçek öğünlere, ev yemeklerine ve dışarıda yenilen günlere uygun şekilde takip edin.",
+      "kicker": "Kullanım alanı",
+      "summary": "Bu kullanım alanı, katı kurallara gerek kalmadan yemeği anlaşılır geri bildirime dönüştürür.",
+      "bullets": [
+        "Günlük kalori hedefi",
+        "Her öğünde protein, yağ ve karbonhidrat",
+        "Karmaşık yemekler için fotoğraf tahmini",
+        "Alışkanlıklara göre geçmiş ve düzeltmeler"
+      ],
+      "sections": [
+        [
+          "Gözlemle başlayın",
+          "Birkaç günlük kayıt, her şeyi bir anda değiştirme çabasından daha çok içgörü sağlayabilir."
+        ],
+        [
+          "Porsiyonları kontrol edin",
+          "Porsiyon büyüklüğü, yağ, sos ve içecekler sonucu en çok değiştiren unsurlar olabilir."
+        ],
+        [
+          "Veriyi sakin kullanın",
+          "Amaç her sapma için kendinizi suçlamak değil, beslenmeyi daha iyi anlamaktır."
+        ]
+      ],
+      "workflowTitle": "Günlük kayıtta nasıl kullanılır?",
+      "workflow": [
+        "Uygun olduğunda fotoğraf çekin veya barkod kullanın.",
+        "Porsiyonu, sosları, içecekleri ve gizli malzemeleri kontrol edin."
+      ],
+      "note": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+      "bestFor": [
+        "Hızlı günlük kayıt",
+        "Etiketi olmayan yemekler",
+        "Kalori ve makroları birlikte görmek isteyenler",
+        "Aşırı rutin olmadan sürdürülebilir alışkanlık kurmak"
+      ],
+      "workflowKicker": "Pratik yaklaşım",
+      "noteTitle": "Bilmekte fayda var"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Restoran yemeği kalori takibi",
+      "h1": "Restoran yemeği kalori takibi",
+      "description": "Restoran yemeği kalori takibi: kalori, makro besin ve porsiyonları gerçek öğünlere, ev yemeklerine ve dışarıda yenilen günlere uygun şekilde takip edin.",
+      "kicker": "Kullanım alanı",
+      "summary": "Bu kullanım alanı, katı kurallara gerek kalmadan yemeği anlaşılır geri bildirime dönüştürür.",
+      "bullets": [
+        "Günlük kalori hedefi",
+        "Her öğünde protein, yağ ve karbonhidrat",
+        "Karmaşık yemekler için fotoğraf tahmini",
+        "Alışkanlıklara göre geçmiş ve düzeltmeler"
+      ],
+      "sections": [
+        [
+          "Gözlemle başlayın",
+          "Birkaç günlük kayıt, her şeyi bir anda değiştirme çabasından daha çok içgörü sağlayabilir."
+        ],
+        [
+          "Porsiyonları kontrol edin",
+          "Porsiyon büyüklüğü, yağ, sos ve içecekler sonucu en çok değiştiren unsurlar olabilir."
+        ],
+        [
+          "Veriyi sakin kullanın",
+          "Amaç her sapma için kendinizi suçlamak değil, beslenmeyi daha iyi anlamaktır."
+        ]
+      ],
+      "workflowTitle": "Günlük kayıtta nasıl kullanılır?",
+      "workflow": [
+        "Uygun olduğunda fotoğraf çekin veya barkod kullanın.",
+        "Porsiyonu, sosları, içecekleri ve gizli malzemeleri kontrol edin."
+      ],
+      "note": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+      "bestFor": [
+        "Hızlı günlük kayıt",
+        "Etiketi olmayan yemekler",
+        "Kalori ve makroları birlikte görmek isteyenler",
+        "Aşırı rutin olmadan sürdürülebilir alışkanlık kurmak"
+      ],
+      "workflowKicker": "Pratik yaklaşım",
+      "noteTitle": "Bilmekte fayda var"
+    },
+    "/meal-tracker/": {
+      "title": "Öğün takip uygulaması",
+      "h1": "Öğün takip uygulaması",
+      "description": "Öğün takip uygulaması: kalori, makro besin ve porsiyonları gerçek öğünlere, ev yemeklerine ve dışarıda yenilen günlere uygun şekilde takip edin.",
+      "kicker": "Kullanım alanı",
+      "summary": "Bu kullanım alanı, katı kurallara gerek kalmadan yemeği anlaşılır geri bildirime dönüştürür.",
+      "bullets": [
+        "Günlük kalori hedefi",
+        "Her öğünde protein, yağ ve karbonhidrat",
+        "Karmaşık yemekler için fotoğraf tahmini",
+        "Alışkanlıklara göre geçmiş ve düzeltmeler"
+      ],
+      "sections": [
+        [
+          "Gözlemle başlayın",
+          "Birkaç günlük kayıt, her şeyi bir anda değiştirme çabasından daha çok içgörü sağlayabilir."
+        ],
+        [
+          "Porsiyonları kontrol edin",
+          "Porsiyon büyüklüğü, yağ, sos ve içecekler sonucu en çok değiştiren unsurlar olabilir."
+        ],
+        [
+          "Veriyi sakin kullanın",
+          "Amaç her sapma için kendinizi suçlamak değil, beslenmeyi daha iyi anlamaktır."
+        ]
+      ],
+      "workflowTitle": "Günlük kayıtta nasıl kullanılır?",
+      "workflow": [
+        "Uygun olduğunda fotoğraf çekin veya barkod kullanın.",
+        "Porsiyonu, sosları, içecekleri ve gizli malzemeleri kontrol edin."
+      ],
+      "note": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+      "bestFor": [
+        "Hızlı günlük kayıt",
+        "Etiketi olmayan yemekler",
+        "Kalori ve makroları birlikte görmek isteyenler",
+        "Aşırı rutin olmadan sürdürülebilir alışkanlık kurmak"
+      ],
+      "workflowKicker": "Pratik yaklaşım",
+      "noteTitle": "Bilmekte fayda var"
+    },
+    "/photo-food-journal/": {
+      "title": "Fotoğraflı beslenme günlüğü",
+      "h1": "Fotoğraflı beslenme günlüğü",
+      "description": "Fotoğraflı beslenme günlüğü: kalori, makro besin ve porsiyonları gerçek öğünlere, ev yemeklerine ve dışarıda yenilen günlere uygun şekilde takip edin.",
+      "kicker": "Kullanım alanı",
+      "summary": "Bu kullanım alanı, katı kurallara gerek kalmadan yemeği anlaşılır geri bildirime dönüştürür.",
+      "bullets": [
+        "Günlük kalori hedefi",
+        "Her öğünde protein, yağ ve karbonhidrat",
+        "Karmaşık yemekler için fotoğraf tahmini",
+        "Alışkanlıklara göre geçmiş ve düzeltmeler"
+      ],
+      "sections": [
+        [
+          "Gözlemle başlayın",
+          "Birkaç günlük kayıt, her şeyi bir anda değiştirme çabasından daha çok içgörü sağlayabilir."
+        ],
+        [
+          "Porsiyonları kontrol edin",
+          "Porsiyon büyüklüğü, yağ, sos ve içecekler sonucu en çok değiştiren unsurlar olabilir."
+        ],
+        [
+          "Veriyi sakin kullanın",
+          "Amaç her sapma için kendinizi suçlamak değil, beslenmeyi daha iyi anlamaktır."
+        ]
+      ],
+      "workflowTitle": "Günlük kayıtta nasıl kullanılır?",
+      "workflow": [
+        "Uygun olduğunda fotoğraf çekin veya barkod kullanın.",
+        "Porsiyonu, sosları, içecekleri ve gizli malzemeleri kontrol edin."
+      ],
+      "note": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+      "bestFor": [
+        "Hızlı günlük kayıt",
+        "Etiketi olmayan yemekler",
+        "Kalori ve makroları birlikte görmek isteyenler",
+        "Aşırı rutin olmadan sürdürülebilir alışkanlık kurmak"
+      ],
+      "workflowKicker": "Pratik yaklaşım",
+      "noteTitle": "Bilmekte fayda var"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Sağlıklı beslenme takibi",
+      "h1": "Sağlıklı beslenme takibi",
+      "description": "Sağlıklı beslenme takibi: kalori, makro besin ve porsiyonları gerçek öğünlere, ev yemeklerine ve dışarıda yenilen günlere uygun şekilde takip edin.",
+      "kicker": "Kullanım alanı",
+      "summary": "Bu kullanım alanı, katı kurallara gerek kalmadan yemeği anlaşılır geri bildirime dönüştürür.",
+      "bullets": [
+        "Günlük kalori hedefi",
+        "Her öğünde protein, yağ ve karbonhidrat",
+        "Karmaşık yemekler için fotoğraf tahmini",
+        "Alışkanlıklara göre geçmiş ve düzeltmeler"
+      ],
+      "sections": [
+        [
+          "Gözlemle başlayın",
+          "Birkaç günlük kayıt, her şeyi bir anda değiştirme çabasından daha çok içgörü sağlayabilir."
+        ],
+        [
+          "Porsiyonları kontrol edin",
+          "Porsiyon büyüklüğü, yağ, sos ve içecekler sonucu en çok değiştiren unsurlar olabilir."
+        ],
+        [
+          "Veriyi sakin kullanın",
+          "Amaç her sapma için kendinizi suçlamak değil, beslenmeyi daha iyi anlamaktır."
+        ]
+      ],
+      "workflowTitle": "Günlük kayıtta nasıl kullanılır?",
+      "workflow": [
+        "Uygun olduğunda fotoğraf çekin veya barkod kullanın.",
+        "Porsiyonu, sosları, içecekleri ve gizli malzemeleri kontrol edin."
+      ],
+      "note": "Besin değerleri yaklaşık tahmindir. Gerçek değer marka, tarif, pişirme yöntemi ve porsiyon büyüklüğüne göre değişir.",
+      "bestFor": [
+        "Hızlı günlük kayıt",
+        "Etiketi olmayan yemekler",
+        "Kalori ve makroları birlikte görmek isteyenler",
+        "Aşırı rutin olmadan sürdürülebilir alışkanlık kurmak"
+      ],
+      "workflowKicker": "Pratik yaklaşım",
+      "noteTitle": "Bilmekte fayda var"
+    },
+    "/blog/": {
+      "title": "Kalori ve yapay zekâ beslenme takibi rehberleri",
+      "h1": "Kalori ve yapay zekâ beslenme takibi rehberleri",
+      "description": "Kalori ve yapay zekâ beslenme takibi rehberleri: kalori, makro besinler, porsiyonlar ve beslenme günlüğüne daha doğru kayıt için pratik rehber.",
+      "kicker": "Rehber"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Fotoğraftan kalori nasıl sayılır?",
+      "h1": "Fotoğraftan kalori nasıl sayılır?",
+      "description": "Fotoğraftan kalori nasıl sayılır?: kalori, makro besinler, porsiyonlar ve beslenme günlüğüne daha doğru kayıt için pratik rehber.",
+      "category": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "readTime": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "intro": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "sections": [
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ],
+        [
+          "Bağlam ekleyin",
+          "Marka, tarif, pişirme yöntemi ve gizli yağlar değerleri değiştirebilir."
+        ],
+        [
+          "Eğilimlere bakın",
+          "Tek bir kayıt tüm tabloyu göstermez. Haftalık örüntülere bakmak daha faydalıdır."
+        ],
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ]
+      ],
+      "takeaway": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar."
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Yapay zekâ kalori sayaçları ne kadar doğru?",
+      "h1": "Yapay zekâ kalori sayaçları ne kadar doğru?",
+      "description": "Yapay zekâ kalori sayaçları ne kadar doğru?: kalori, makro besinler, porsiyonlar ve beslenme günlüğüne daha doğru kayıt için pratik rehber.",
+      "category": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "readTime": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "intro": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "sections": [
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ],
+        [
+          "Bağlam ekleyin",
+          "Marka, tarif, pişirme yöntemi ve gizli yağlar değerleri değiştirebilir."
+        ],
+        [
+          "Eğilimlere bakın",
+          "Tek bir kayıt tüm tabloyu göstermez. Haftalık örüntülere bakmak daha faydalıdır."
+        ],
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ]
+      ],
+      "takeaway": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar."
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "Yapay zekâ ile takip mi, manuel kayıt mı?",
+      "h1": "Yapay zekâ ile takip mi, manuel kayıt mı?",
+      "description": "Yapay zekâ ile takip mi, manuel kayıt mı?: kalori, makro besinler, porsiyonlar ve beslenme günlüğüne daha doğru kayıt için pratik rehber.",
+      "category": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "readTime": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "intro": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "sections": [
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ],
+        [
+          "Bağlam ekleyin",
+          "Marka, tarif, pişirme yöntemi ve gizli yağlar değerleri değiştirebilir."
+        ],
+        [
+          "Eğilimlere bakın",
+          "Tek bir kayıt tüm tabloyu göstermez. Haftalık örüntülere bakmak daha faydalıdır."
+        ],
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ]
+      ],
+      "takeaway": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar."
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Yemek kalori tarayıcı nedir?",
+      "h1": "Yemek kalori tarayıcı nedir?",
+      "description": "Yemek kalori tarayıcı nedir?: kalori, makro besinler, porsiyonlar ve beslenme günlüğüne daha doğru kayıt için pratik rehber.",
+      "category": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "readTime": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "intro": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "sections": [
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ],
+        [
+          "Bağlam ekleyin",
+          "Marka, tarif, pişirme yöntemi ve gizli yağlar değerleri değiştirebilir."
+        ],
+        [
+          "Eğilimlere bakın",
+          "Tek bir kayıt tüm tabloyu göstermez. Haftalık örüntülere bakmak daha faydalıdır."
+        ],
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ]
+      ],
+      "takeaway": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar."
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Yeni başlayanlar için makro takibi",
+      "h1": "Yeni başlayanlar için makro takibi",
+      "description": "Yeni başlayanlar için makro takibi: kalori, makro besinler, porsiyonlar ve beslenme günlüğüne daha doğru kayıt için pratik rehber.",
+      "category": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "readTime": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "intro": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "sections": [
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ],
+        [
+          "Bağlam ekleyin",
+          "Marka, tarif, pişirme yöntemi ve gizli yağlar değerleri değiştirebilir."
+        ],
+        [
+          "Eğilimlere bakın",
+          "Tek bir kayıt tüm tabloyu göstermez. Haftalık örüntülere bakmak daha faydalıdır."
+        ],
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ]
+      ],
+      "takeaway": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar."
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Kalori ve makrolar: hangisi daha önemli?",
+      "h1": "Kalori ve makrolar: hangisi daha önemli?",
+      "description": "Kalori ve makrolar: hangisi daha önemli?: kalori, makro besinler, porsiyonlar ve beslenme günlüğüne daha doğru kayıt için pratik rehber.",
+      "category": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "readTime": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "intro": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "sections": [
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ],
+        [
+          "Bağlam ekleyin",
+          "Marka, tarif, pişirme yöntemi ve gizli yağlar değerleri değiştirebilir."
+        ],
+        [
+          "Eğilimlere bakın",
+          "Tek bir kayıt tüm tabloyu göstermez. Haftalık örüntülere bakmak daha faydalıdır."
+        ],
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ]
+      ],
+      "takeaway": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar."
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Ev yemeklerinde kalori nasıl hesaplanır?",
+      "h1": "Ev yemeklerinde kalori nasıl hesaplanır?",
+      "description": "Ev yemeklerinde kalori nasıl hesaplanır?: kalori, makro besinler, porsiyonlar ve beslenme günlüğüne daha doğru kayıt için pratik rehber.",
+      "category": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "readTime": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "intro": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "sections": [
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ],
+        [
+          "Bağlam ekleyin",
+          "Marka, tarif, pişirme yöntemi ve gizli yağlar değerleri değiştirebilir."
+        ],
+        [
+          "Eğilimlere bakın",
+          "Tek bir kayıt tüm tabloyu göstermez. Haftalık örüntülere bakmak daha faydalıdır."
+        ],
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ]
+      ],
+      "takeaway": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar."
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Terazi olmadan porsiyon nasıl tahmin edilir?",
+      "h1": "Terazi olmadan porsiyon nasıl tahmin edilir?",
+      "description": "Terazi olmadan porsiyon nasıl tahmin edilir?: kalori, makro besinler, porsiyonlar ve beslenme günlüğüne daha doğru kayıt için pratik rehber.",
+      "category": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "readTime": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "intro": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "sections": [
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ],
+        [
+          "Bağlam ekleyin",
+          "Marka, tarif, pişirme yöntemi ve gizli yağlar değerleri değiştirebilir."
+        ],
+        [
+          "Eğilimlere bakın",
+          "Tek bir kayıt tüm tabloyu göstermez. Haftalık örüntülere bakmak daha faydalıdır."
+        ],
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ]
+      ],
+      "takeaway": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar."
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Günde kaç kalori almalıyım?",
+      "h1": "Günde kaç kalori almalıyım?",
+      "description": "Günde kaç kalori almalıyım?: kalori, makro besinler, porsiyonlar ve beslenme günlüğüne daha doğru kayıt için pratik rehber.",
+      "category": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "readTime": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "intro": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "sections": [
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ],
+        [
+          "Bağlam ekleyin",
+          "Marka, tarif, pişirme yöntemi ve gizli yağlar değerleri değiştirebilir."
+        ],
+        [
+          "Eğilimlere bakın",
+          "Tek bir kayıt tüm tabloyu göstermez. Haftalık örüntülere bakmak daha faydalıdır."
+        ],
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ]
+      ],
+      "takeaway": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar."
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Kalori açığı nedir?",
+      "h1": "Kalori açığı nedir?",
+      "description": "Kalori açığı nedir?: kalori, makro besinler, porsiyonlar ve beslenme günlüğüne daha doğru kayıt için pratik rehber.",
+      "category": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "readTime": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "intro": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "sections": [
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ],
+        [
+          "Bağlam ekleyin",
+          "Marka, tarif, pişirme yöntemi ve gizli yağlar değerleri değiştirebilir."
+        ],
+        [
+          "Eğilimlere bakın",
+          "Tek bir kayıt tüm tabloyu göstermez. Haftalık örüntülere bakmak daha faydalıdır."
+        ],
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ]
+      ],
+      "takeaway": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar."
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Kalori sayarken yapılan yaygın hatalar",
+      "h1": "Kalori sayarken yapılan yaygın hatalar",
+      "description": "Kalori sayarken yapılan yaygın hatalar: kalori, makro besinler, porsiyonlar ve beslenme günlüğüne daha doğru kayıt için pratik rehber.",
+      "category": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "readTime": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "intro": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "sections": [
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ],
+        [
+          "Bağlam ekleyin",
+          "Marka, tarif, pişirme yöntemi ve gizli yağlar değerleri değiştirebilir."
+        ],
+        [
+          "Eğilimlere bakın",
+          "Tek bir kayıt tüm tabloyu göstermez. Haftalık örüntülere bakmak daha faydalıdır."
+        ],
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ]
+      ],
+      "takeaway": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar."
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Restoran yemeği nasıl kaydedilir?",
+      "h1": "Restoran yemeği nasıl kaydedilir?",
+      "description": "Restoran yemeği nasıl kaydedilir?: kalori, makro besinler, porsiyonlar ve beslenme günlüğüne daha doğru kayıt için pratik rehber.",
+      "category": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "readTime": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "intro": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "sections": [
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ],
+        [
+          "Bağlam ekleyin",
+          "Marka, tarif, pişirme yöntemi ve gizli yağlar değerleri değiştirebilir."
+        ],
+        [
+          "Eğilimlere bakın",
+          "Tek bir kayıt tüm tabloyu göstermez. Haftalık örüntülere bakmak daha faydalıdır."
+        ],
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ]
+      ],
+      "takeaway": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar."
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Protein nasıl takip edilir?",
+      "h1": "Protein nasıl takip edilir?",
+      "description": "Protein nasıl takip edilir?: kalori, makro besinler, porsiyonlar ve beslenme günlüğüne daha doğru kayıt için pratik rehber.",
+      "category": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "readTime": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "intro": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "sections": [
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ],
+        [
+          "Bağlam ekleyin",
+          "Marka, tarif, pişirme yöntemi ve gizli yağlar değerleri değiştirebilir."
+        ],
+        [
+          "Eğilimlere bakın",
+          "Tek bir kayıt tüm tabloyu göstermez. Haftalık örüntülere bakmak daha faydalıdır."
+        ],
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ]
+      ],
+      "takeaway": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar."
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Beslenme günlüğü nedir?",
+      "h1": "Beslenme günlüğü nedir?",
+      "description": "Beslenme günlüğü nedir?: kalori, makro besinler, porsiyonlar ve beslenme günlüğüne daha doğru kayıt için pratik rehber.",
+      "category": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "readTime": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "intro": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar.",
+      "sections": [
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ],
+        [
+          "Bağlam ekleyin",
+          "Marka, tarif, pişirme yöntemi ve gizli yağlar değerleri değiştirebilir."
+        ],
+        [
+          "Eğilimlere bakın",
+          "Tek bir kayıt tüm tabloyu göstermez. Haftalık örüntülere bakmak daha faydalıdır."
+        ],
+        [
+          "Basit yöntemle başlayın",
+          "Fotoğraf, özellikle karışık yemekler ve etiketsiz tabaklar için iyi bir başlangıç noktasıdır."
+        ]
+      ],
+      "takeaway": "Rehber, yapay zekâ tahminlerini başlangıç noktası olarak kullanmayı ve ne zaman düzeltmek gerektiğini açıklar."
+    },
+    "/download/": {
+      "title": "Calorie Counter AI indir",
+      "h1": "Calorie Counter AI indir",
+      "description": "Calorie Counter AI indir: Calorie Counter AI, kullanım koşulları, destek ve uygulama hakkında bilgiler.",
+      "kicker": "Bilgi"
+    },
+    "/faq/": {
+      "title": "SSS",
+      "h1": "SSS",
+      "description": "SSS: Calorie Counter AI, kullanım koşulları, destek ve uygulama hakkında bilgiler.",
+      "kicker": "Bilgi"
+    },
+    "/pricing/": {
+      "title": "Fiyatlandırma",
+      "h1": "Fiyatlandırma",
+      "description": "Fiyatlandırma: Calorie Counter AI, kullanım koşulları, destek ve uygulama hakkında bilgiler.",
+      "kicker": "Bilgi"
+    },
+    "/support/": {
+      "title": "Destek",
+      "h1": "Destek",
+      "description": "Destek: Calorie Counter AI, kullanım koşulları, destek ve uygulama hakkında bilgiler.",
+      "kicker": "Bilgi"
+    },
+    "/contact/": {
+      "title": "İletişim",
+      "h1": "İletişim",
+      "description": "İletişim: Calorie Counter AI, kullanım koşulları, destek ve uygulama hakkında bilgiler.",
+      "kicker": "Bilgi"
+    },
+    "/privacy-policy/": {
+      "title": "Gizlilik politikası",
+      "h1": "Gizlilik politikası",
+      "description": "Gizlilik politikası: Calorie Counter AI, kullanım koşulları, destek ve uygulama hakkında bilgiler.",
+      "kicker": "Bilgi"
+    },
+    "/terms/": {
+      "title": "Kullanım koşulları",
+      "h1": "Kullanım koşulları",
+      "description": "Kullanım koşulları: Calorie Counter AI, kullanım koşulları, destek ve uygulama hakkında bilgiler.",
+      "kicker": "Bilgi"
+    },
+    "/health-disclaimer/": {
+      "title": "Sağlık uyarısı",
+      "h1": "Sağlık uyarısı",
+      "description": "Sağlık uyarısı: Calorie Counter AI, kullanım koşulları, destek ve uygulama hakkında bilgiler.",
+      "kicker": "Bilgi"
+    },
+    "/delete-account/": {
+      "title": "Hesap silme",
+      "h1": "Hesap silme",
+      "description": "Hesap silme: Calorie Counter AI, kullanım koşulları, destek ve uygulama hakkında bilgiler.",
+      "kicker": "Bilgi"
+    },
+    "/press/": {
+      "title": "Basın kiti",
+      "h1": "Basın kiti",
+      "description": "Basın kiti: Calorie Counter AI, kullanım koşulları, destek ve uygulama hakkında bilgiler.",
+      "kicker": "Bilgi"
+    },
+    "/how-many-calories-in/": {
+      "title": "Yiyeceklerde kaç kalori var?",
+      "h1": "Yiyeceklerde kaç kalori var?",
+      "description": "Yiyeceklerde kaç kalori var?: Calorie Counter AI, kullanım koşulları, destek ve uygulama hakkında bilgiler.",
+      "kicker": "Bilgi"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Çerez tercihleri",
+    "text": "Dil seçiminizi ve çerez tercihlerinizi hatırlamak için gerekli çerezleri ve localStorage kullanıyoruz. Onay verirseniz siteyi geliştirmek için analitik çerezler de kullanırız.",
+    "accept": "Kabul et",
+    "decline": "Analitiği reddet"
+  }
+}

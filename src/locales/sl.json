@@ -1,0 +1,2619 @@
+{
+  "localeName": "Slovenščina",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "AI števec kalorij iz fotografije hrane"
+  },
+  "nav": {
+    "features": "Funkcije",
+    "useCases": "Primeri uporabe",
+    "blog": "Vodniki",
+    "faq": "Pogosta vprašanja",
+    "download": "Prenesi",
+    "language": "Jezik",
+    "openMenu": "Odpri meni",
+    "caloriesInFoods": "Kalorije v hrani",
+    "all": "Vse",
+    "allFeatures": "Vse funkcije",
+    "allUseCases": "Vse primeri uporabe",
+    "allLearn": "Vse vodniki",
+    "openHub": "Odpri razdelek →",
+    "home": "Domov"
+  },
+  "cta": {
+    "appStore": "Prenesi v App Store",
+    "googlePlay": "Prenesi v Google Play",
+    "downloadNow": "Prenesi zdaj",
+    "tryFree": "Preizkusi brezplačno",
+    "learnMore": "Izvedi več",
+    "learnMoreArrow": "Izvedi več →",
+    "readGuide": "Preberi vodnik"
+  },
+  "home": {
+    "title": "AI števec kalorij iz fotografije hrane",
+    "description": "Fotografiraj obrok in v nekaj sekundah dobi uredljivo oceno kalorij, beljakovin, maščob, ogljikovih hidratov in velikosti porcije.",
+    "heroNote": "Začni brezplačno z dnevnimi AI analizami hrane. Na voljo za iPhone in Android.",
+    "photoEyebrow": "Glavna funkcija",
+    "photoTitle": "Štetje kalorij iz fotografije",
+    "photoText": "Ni treba ročno iskati vsake sestavine. Fotografiraj hrano, preveri AI oceno in obrok shrani v dnevnik.",
+    "photoChecklist": [
+      "Ocena kalorij iz fotografije hrane",
+      "Beljakovine, maščobe in ogljikovi hidrati v enem pogledu",
+      "Uredljiv rezultat pred shranjevanjem",
+      "Vizualni prehranski dnevnik"
+    ],
+    "featureCards": [
+      [
+        "camera",
+        "Dodaj obrok s fotografijo",
+        "Fotografiraj porcijo, preveri oceno in shrani obrok brez dolgega iskanja."
+      ],
+      [
+        "sparkles",
+        "AI ocena obroka",
+        "Hitra informativna ocena kalorij, makrohranil in porcije, kadar nimaš deklaracije ali natančnega recepta."
+      ],
+      [
+        "shield",
+        "Dnevne brezplačne analize",
+        "Vsak dan preizkusi osnovni AI potek in na višje omejitve preidi samo, ko jih res potrebuješ."
+      ],
+      [
+        "barcode",
+        "Pakirana hrana",
+        "Skeniraj črtne kode jogurtov, pijač, prigrizkov in pripravljenih jedi."
+      ],
+      [
+        "macro",
+        "Makrohranila na enem mestu",
+        "Spremljaj beljakovine, maščobe in ogljikove hidrate ob dnevnem kalorijskem cilju."
+      ],
+      [
+        "diary",
+        "Vizualni prehranski dnevnik",
+        "Vrni se na katerikoli dan, obroke si oglej kot fotografije in opazi ponavljajoče se navade."
+      ]
+    ],
+    "foodPreviewTitle": "Koliko kalorij ima običajna hrana?",
+    "foodPreviewText": "Hitre ocene kalorij in makrohranil za priljubljena živila, prigrizke in pijače.",
+    "foodPreviewLink": "Odpri celoten vodnik po kalorijah →",
+    "goalEyebrow": "Cilj pod nadzorom",
+    "counterTitle": "Preprost števec kalorij za vsak dan",
+    "counterText": "Uporabi fotografijo, črtno kodo, priljubljena živila in pregleden dnevnik, da štetje kalorij ne postane dodatno breme.",
+    "goalPills": [
+      "Hujšanje",
+      "Vzdrževanje teže",
+      "Pridobivanje mišične mase",
+      "Zasedeni dnevi"
+    ],
+    "magicEyebrow": "Zakaj je preprosteje",
+    "magicTitle": "Dodaj obrok v treh korakih",
+    "magicText": "Fotografiraj, preveri oceno in shrani vnos. Manj ko je tipkanja, lažje je redno voditi dnevnik.",
+    "magicSteps": [
+      "Fotografija",
+      "Preverjanje",
+      "Shranjevanje"
+    ],
+    "barcodeEyebrow": "Pakirani izdelki",
+    "barcodeTitle": "Skener črtnih kod za hrano",
+    "barcodeText": "Če ima izdelek črtno kodo, skeniraj embalažo, potrdi izdelek in v nekaj sekundah dodaj kalorije ter makrohranila v dnevnik.",
+    "barcodeLink": "Več o skenerju črtnih kod →",
+    "progressEyebrow": "Jasen pregled",
+    "macroTitle": "Spremljaj kalorije in makrohranila",
+    "macroText": "Kalorije, beljakovine, maščobe in ogljikove hidrate vidiš na enem mestu ter primerjaš dneve, tedne in mesece.",
+    "macroLink": "Odpri stran o makrohranilih →",
+    "useCasesEyebrow": "Zakaj uporabiti Calorie Counter AI",
+    "useCasesTitle": "Prehranski cilji za resnično življenje",
+    "useCasesText": "Če želiš shujšati, vzdrževati težo, pridobiti mišično maso ali bolje razumeti prehrano, aplikacija poda jasno dnevno povratno informacijo o obrokih.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Hujšanje",
+        "Vidiš, koliko kalorij še ostane v dnevnem cilju."
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Domača hrana",
+        "Oceni sestavljene jedi in recepte brez deklaracije."
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Restavracijska hrana",
+        "V restavraciji hitreje beleži z oceno iz fotografije."
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Pridobivanje mišične mase",
+        "Spremljaj beljakovine in kalorije, ko ješ v presežku."
+      ]
+    ],
+    "downloadTitle": "Začni danes z AI štetjem kalorij",
+    "downloadText": "Prenesi aplikacijo za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku.",
+    "faqEyebrow": "Pogosta vprašanja",
+    "faqTitle": "Imaš vprašanja pred prenosom?",
+    "faq": [
+      [
+        "Je Calorie Counter AI brezplačen?",
+        "Začneš lahko brezplačno z dnevnimi AI analizami hrane. Premium možnosti so lahko na voljo za višje omejitve in dodatna orodja."
+      ],
+      [
+        "Lahko štejem kalorije iz fotografije?",
+        "Da. Aplikacija iz fotografije hrane oceni kalorije, makrohranila in velikost porcije."
+      ],
+      [
+        "Ali ima skener črtnih kod?",
+        "Da. Pomaga hitro dodati pakirane izdelke."
+      ],
+      [
+        "Ali aplikacija spremlja makrohranila?",
+        "Da. Beljakovine, maščobe in ogljikovi hidrati so prikazani poleg kalorij."
+      ],
+      [
+        "Je primerna za domačo hrano?",
+        "Da. Ocena iz fotografije je posebno uporabna pri domačih jedeh, vendar je dobro preveriti porcijo, olje, omake in skrite sestavine."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "AI števec kalorij iz fotografije hrane",
+    "homeOgTitle": "AI števec kalorij iz fotografije hrane",
+    "homeDescription": "Fotografiraj obrok in v nekaj sekundah dobi uredljivo oceno kalorij, beljakovin, maščob, ogljikovih hidratov in velikosti porcije."
+  },
+  "footer": {
+    "disclaimer": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+    "copyright": "© 2026 Calorie Counter AI. Vse pravice pridržane."
+  },
+  "foodIndex": {
+    "findTitle": "Poišči kalorije v hrani",
+    "findText": "Preišči priljubljena živila, jedi in pijače z ocenami kalorij, makrohranil in običajnih porcij.",
+    "categoryIntro": "Izberi kategorijo živil in primerjaj običajne porcije."
+  },
+  "foodPage": {
+    "eyebrow": "Vodnik po kalorijah",
+    "trackInApp": "Zabeleži v aplikaciji",
+    "browseFoods": "Preglej živila",
+    "typicalEstimate": "Tipična ocena",
+    "caloriesMacros": "Kalorije in makrohranila",
+    "whenFits": "Kdaj se prilega v dnevnik",
+    "whatToWatch": "Na kaj bodi pozoren",
+    "howToLog": "Kako beležiti natančneje",
+    "helpfulContext": "Koristen kontekst",
+    "faq": "Pogosta vprašanja",
+    "weightLossQuestion": "Ali je primerno za načrt hujšanja?",
+    "variabilityQuestion": "Kaj najbolj spremeni kalorije?",
+    "logFasterTitle": "Hitreje beleži obroke s fotografijo",
+    "logFasterText": "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+    "photoTrackingLink": "Odpri štetje kalorij iz fotografije →",
+    "macros": {
+      "protein": "Beljakovine",
+      "fat": "Maščobe",
+      "carbs": "Ogljikovi hidrati"
+    },
+    "titleTemplate": "{namePrep}: kalorije in makrohranila",
+    "h1Template": "{namePrep}: kalorije, beljakovine, maščobe in ogljikovi hidrati",
+    "descriptionTemplate": "{name}: kalorije, beljakovine, maščobe in ogljikovi hidrati za porcijo „{serving}“, z nasveti za zapis v prehranski dnevnik.",
+    "heroIntroTemplate": "Približno {calories} {kcal} na porcijo: {servingLower}. To uporabi kot izhodišče in prilagodi glede na znamko, recept, pripravo in velikost porcije.",
+    "macroParagraphTemplate": "{name}: približno {calories} {kcal} na porcijo „{servingLower}“. Ta porcija vsebuje približno {protein} {gram} beljakovin, {fat} {gram} maščob in {carbs} {gram} ogljikovih hidratov{fiberText}.",
+    "per100Template": "Za primerjavo, na 100 {gram}: približno {calories} {kcal}, {protein} {gram} beljakovin, {fat} {gram} maščob in {carbs} {gram} ogljikovih hidratov.",
+    "calorieLevelTemplate": "Za orientacijo uporabi porcijo: tukaj je navedenih približno {calories} {kcal} za „{servingLower}“."
+  },
+  "foodCategories": {
+    "Fruit": "Sadje",
+    "Protein foods": "Beljakovinska živila",
+    "Fruits and fats": "Sadje in maščobe",
+    "Grains and starches": "Žita in škrobna živila",
+    "Nuts and spreads": "Oreščki in namazi",
+    "Breakfast foods": "Živila za zajtrk",
+    "Dairy": "Mlečni izdelki",
+    "Restaurant meals": "Restavracijske jedi",
+    "Fast food": "Hitra hrana",
+    "Legumes and plant protein": "Stročnice in rastlinske beljakovine",
+    "Desserts": "Sladice",
+    "Snacks": "Prigrizki",
+    "Drinks": "Pijače",
+    "Vegetables": "Zelenjava",
+    "Sauces and condiments": "Omake in dodatki",
+    "Mixed dishes": "Mešane jedi"
+  },
+  "foods": {
+    "banana": {
+      "name": "Banana",
+      "namePrep": "banana",
+      "serving": "1 srednja banana"
+    },
+    "apple": {
+      "name": "Jabolko",
+      "namePrep": "jabolko",
+      "serving": "1 srednje jabolko"
+    },
+    "egg": {
+      "name": "Jajce",
+      "namePrep": "jajce",
+      "serving": "1 veliko jajce"
+    },
+    "avocado": {
+      "name": "Avokado",
+      "namePrep": "avokado",
+      "serving": "1/2 srednjega avokada"
+    },
+    "chicken-breast": {
+      "name": "Piščančje prsi",
+      "namePrep": "piščančje prsi",
+      "serving": "100 g kuhanih piščančjih prsi"
+    },
+    "salmon": {
+      "name": "Losos",
+      "namePrep": "losos",
+      "serving": "100 g pečenega lososa"
+    },
+    "white-rice": {
+      "name": "Beli riž",
+      "namePrep": "beli riž",
+      "serving": "1 skodelica kuhanega belega riža"
+    },
+    "brown-rice": {
+      "name": "Rjavi riž",
+      "namePrep": "rjavi riž",
+      "serving": "1 skodelica kuhanega rjavega riža"
+    },
+    "pasta": {
+      "name": "Testenine",
+      "namePrep": "testenine",
+      "serving": "1 skodelica kuhanih testenin"
+    },
+    "potato": {
+      "name": "Krompir",
+      "namePrep": "krompir",
+      "serving": "1 srednji krompir"
+    },
+    "sweet-potato": {
+      "name": "Sladki krompir",
+      "namePrep": "sladki krompir",
+      "serving": "1 srednji sladki krompir"
+    },
+    "bread": {
+      "name": "Kruh",
+      "namePrep": "kruh",
+      "serving": "1 rezina kruha"
+    },
+    "peanut-butter": {
+      "name": "Arašidovo maslo",
+      "namePrep": "arašidovo maslo",
+      "serving": "2 žlici arašidovega masla"
+    },
+    "oatmeal": {
+      "name": "Ovsena kaša",
+      "namePrep": "ovsena kaša",
+      "serving": "1 skleda kuhane ovsene kaše"
+    },
+    "greek-yogurt": {
+      "name": "Grški jogurt",
+      "namePrep": "grški jogurt",
+      "serving": "170 g grškega jogurta"
+    },
+    "yogurt": {
+      "name": "Jogurt",
+      "namePrep": "jogurt",
+      "serving": "1 lonček jogurta"
+    },
+    "milk": {
+      "name": "Mleko",
+      "namePrep": "mleko",
+      "serving": "1 kozarec mleka"
+    },
+    "cheddar-cheese": {
+      "name": "Sir cheddar",
+      "namePrep": "sir cheddar",
+      "serving": "1 rezina sira cheddar"
+    },
+    "pizza": {
+      "name": "Pica",
+      "namePrep": "pica",
+      "serving": "1 kos pice"
+    },
+    "burger": {
+      "name": "Burger",
+      "namePrep": "burger",
+      "serving": "1 običajen burger"
+    },
+    "french-fries": {
+      "name": "Pomfri",
+      "namePrep": "pomfri",
+      "serving": "1 srednja porcija pomfrija"
+    },
+    "sushi-roll": {
+      "name": "Suši zvitek",
+      "namePrep": "suši zvitek",
+      "serving": "1 suši zvitek"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "taco",
+      "serving": "1 taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "burrito",
+      "serving": "1 burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Piščančji medaljoni",
+      "namePrep": "piščančji medaljoni",
+      "serving": "6 piščančjih medaljonov"
+    },
+    "hot-dog": {
+      "name": "Hot dog",
+      "namePrep": "hot dog",
+      "serving": "1 hot dog"
+    },
+    "steak": {
+      "name": "Zrezek",
+      "namePrep": "zrezek",
+      "serving": "100 g zrezka"
+    },
+    "bacon": {
+      "name": "Slanina",
+      "namePrep": "slanina",
+      "serving": "2 rezini slanine"
+    },
+    "tuna": {
+      "name": "Tuna",
+      "namePrep": "tuna",
+      "serving": "100 g tune"
+    },
+    "shrimp": {
+      "name": "Kozice",
+      "namePrep": "kozice",
+      "serving": "100 g kozic"
+    },
+    "tofu": {
+      "name": "Tofu",
+      "namePrep": "tofu",
+      "serving": "100 g tofuja"
+    },
+    "lentils": {
+      "name": "Leča",
+      "namePrep": "leča",
+      "serving": "1 skodelica kuhane leče"
+    },
+    "black-beans": {
+      "name": "Črni fižol",
+      "namePrep": "črni fižol",
+      "serving": "1 skodelica kuhanega črnega fižola"
+    },
+    "chickpeas": {
+      "name": "Čičerika",
+      "namePrep": "čičerika",
+      "serving": "1 skodelica kuhane čičerike"
+    },
+    "hummus": {
+      "name": "Humus",
+      "namePrep": "humus",
+      "serving": "2 žlici humusa"
+    },
+    "quinoa": {
+      "name": "Kvinoja",
+      "namePrep": "kvinoja",
+      "serving": "1 skodelica kuhane kvinoje"
+    },
+    "tortilla": {
+      "name": "Tortilja",
+      "namePrep": "tortilja",
+      "serving": "1 pšenična tortilja"
+    },
+    "bagel": {
+      "name": "Bagel",
+      "namePrep": "bagel",
+      "serving": "1 bagel"
+    },
+    "croissant": {
+      "name": "Rogljiček",
+      "namePrep": "rogljiček",
+      "serving": "1 rogljiček"
+    },
+    "pancake": {
+      "name": "Palačinka",
+      "namePrep": "palačinka",
+      "serving": "2 palačinki"
+    },
+    "waffle": {
+      "name": "Vafelj",
+      "namePrep": "vafelj",
+      "serving": "1 vafelj"
+    },
+    "cereal": {
+      "name": "Kosmiči za zajtrk",
+      "namePrep": "kosmiči za zajtrk",
+      "serving": "1 skleda kosmičev"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granola",
+      "serving": "1/2 skodelice granole"
+    },
+    "almonds": {
+      "name": "Mandlji",
+      "namePrep": "mandlji",
+      "serving": "28 g mandljev"
+    },
+    "walnuts": {
+      "name": "Orehi",
+      "namePrep": "orehi",
+      "serving": "28 g orehov"
+    },
+    "cashews": {
+      "name": "Indijski oreščki",
+      "namePrep": "indijski oreščki",
+      "serving": "28 g indijskih oreščkov"
+    },
+    "chocolate": {
+      "name": "Čokolada",
+      "namePrep": "čokolada",
+      "serving": "1 porcija čokolade"
+    },
+    "ice-cream": {
+      "name": "Sladoled",
+      "namePrep": "sladoled",
+      "serving": "1 kepica sladoleda"
+    },
+    "cookie": {
+      "name": "Piškot",
+      "namePrep": "piškot",
+      "serving": "1 piškot"
+    },
+    "donut": {
+      "name": "Krof",
+      "namePrep": "krof",
+      "serving": "1 krof"
+    },
+    "muffin": {
+      "name": "Mafin",
+      "namePrep": "mafin",
+      "serving": "1 mafin"
+    },
+    "cake": {
+      "name": "Torta",
+      "namePrep": "torta",
+      "serving": "1 kos torte"
+    },
+    "brownie": {
+      "name": "Brownie",
+      "namePrep": "brownie",
+      "serving": "1 kos brownieja"
+    },
+    "popcorn": {
+      "name": "Pokovka",
+      "namePrep": "pokovka",
+      "serving": "3 skodelice pokovke"
+    },
+    "potato-chips": {
+      "name": "Krompirjev čips",
+      "namePrep": "krompirjev čips",
+      "serving": "1 majhna vrečka čipsa"
+    },
+    "pretzels": {
+      "name": "Prestice",
+      "namePrep": "prestice",
+      "serving": "1 porcija prestic"
+    },
+    "smoothie": {
+      "name": "Smoothie",
+      "namePrep": "smoothie",
+      "serving": "1 kozarec smoothija"
+    },
+    "orange-juice": {
+      "name": "Pomarančni sok",
+      "namePrep": "pomarančni sok",
+      "serving": "1 kozarec pomarančnega soka"
+    },
+    "soda": {
+      "name": "Gazirana pijača",
+      "namePrep": "gazirana pijača",
+      "serving": "1 pločevinka gazirane pijače"
+    },
+    "latte": {
+      "name": "Latte",
+      "namePrep": "latte",
+      "serving": "1 srednji latte"
+    },
+    "protein-shake": {
+      "name": "Proteinski napitek",
+      "namePrep": "proteinski napitek",
+      "serving": "1 proteinski napitek"
+    },
+    "spaghetti-bolognese": {
+      "name": "Špageti bolognese",
+      "namePrep": "špageti bolognese",
+      "serving": "1 krožnik špagetov bolognese"
+    },
+    "ramen": {
+      "name": "Ramen",
+      "namePrep": "ramen",
+      "serving": "1 skleda ramena"
+    },
+    "pho": {
+      "name": "Pho",
+      "namePrep": "pho",
+      "serving": "1 skleda pho juhe"
+    },
+    "chicken-soup": {
+      "name": "Piščančja juha",
+      "namePrep": "piščančja juha",
+      "serving": "1 skleda piščančje juhe"
+    },
+    "caesar-salad": {
+      "name": "Cezarjeva solata",
+      "namePrep": "cezarjeva solata",
+      "serving": "1 porcija Cezarjeve solate"
+    },
+    "green-salad": {
+      "name": "Zelena solata",
+      "namePrep": "zelena solata",
+      "serving": "1 skleda zelene solate"
+    },
+    "broccoli": {
+      "name": "Brokoli",
+      "namePrep": "brokoli",
+      "serving": "1 skodelica kuhanega brokolija"
+    },
+    "spinach": {
+      "name": "Špinača",
+      "namePrep": "špinača",
+      "serving": "1 skodelica špinače"
+    },
+    "carrots": {
+      "name": "Korenje",
+      "namePrep": "korenje",
+      "serving": "1 skodelica korenja"
+    },
+    "corn": {
+      "name": "Koruza",
+      "namePrep": "koruza",
+      "serving": "1 skodelica koruze"
+    },
+    "tomato": {
+      "name": "Paradižnik",
+      "namePrep": "paradižnik",
+      "serving": "1 srednji paradižnik"
+    },
+    "cucumber": {
+      "name": "Kumara",
+      "namePrep": "kumara",
+      "serving": "1 skodelica kumare"
+    },
+    "cheesecake": {
+      "name": "Cheesecake",
+      "namePrep": "cheesecake",
+      "serving": "1 kos cheesecakea"
+    },
+    "lasagna": {
+      "name": "Lazanja",
+      "namePrep": "lazanja",
+      "serving": "1 porcija lazanje"
+    },
+    "grilled-cheese": {
+      "name": "Sendvič s sirom z žara",
+      "namePrep": "sendvič s sirom z žara",
+      "serving": "1 sendvič s sirom z žara"
+    },
+    "peanut-butter-jelly": {
+      "name": "Sendvič z arašidovim maslom in marmelado",
+      "namePrep": "sendvič z arašidovim maslom in marmelado",
+      "serving": "1 sendvič z arašidovim maslom in marmelado"
+    },
+    "omelette": {
+      "name": "Omleta",
+      "namePrep": "omleta",
+      "serving": "1 omleta iz dveh jajc"
+    },
+    "fried-egg": {
+      "name": "Ocvrto jajce",
+      "namePrep": "ocvrto jajce",
+      "serving": "1 ocvrto jajce"
+    },
+    "boiled-egg": {
+      "name": "Kuhano jajce",
+      "namePrep": "kuhano jajce",
+      "serving": "1 kuhano jajce"
+    },
+    "toast": {
+      "name": "Toast",
+      "namePrep": "toast",
+      "serving": "1 rezina toasta"
+    },
+    "avocado-toast": {
+      "name": "Toast z avokadom",
+      "namePrep": "toast z avokadom",
+      "serving": "1 toast z avokadom"
+    },
+    "chicken-salad": {
+      "name": "Piščančja solata",
+      "namePrep": "piščančja solata",
+      "serving": "1 porcija piščančje solate"
+    },
+    "tuna-salad": {
+      "name": "Tunina solata",
+      "namePrep": "tunina solata",
+      "serving": "1 porcija tunine solate"
+    },
+    "egg-salad": {
+      "name": "Jajčna solata",
+      "namePrep": "jajčna solata",
+      "serving": "1 porcija jajčne solate"
+    },
+    "cottage-cheese": {
+      "name": "Skuta",
+      "namePrep": "skuta",
+      "serving": "1/2 skodelice skute"
+    },
+    "cream-cheese": {
+      "name": "Kremni sir",
+      "namePrep": "kremni sir",
+      "serving": "2 žlici kremnega sira"
+    },
+    "butter": {
+      "name": "Maslo",
+      "namePrep": "maslo",
+      "serving": "1 žlica masla"
+    },
+    "olive-oil": {
+      "name": "Olivno olje",
+      "namePrep": "olivno olje",
+      "serving": "1 žlica olivnega olja"
+    },
+    "mayonnaise": {
+      "name": "Majoneza",
+      "namePrep": "majoneza",
+      "serving": "1 žlica majoneze"
+    },
+    "ketchup": {
+      "name": "Kečap",
+      "namePrep": "kečap",
+      "serving": "1 žlica kečapa"
+    },
+    "honey": {
+      "name": "Med",
+      "namePrep": "med",
+      "serving": "1 žlica medu"
+    },
+    "jam": {
+      "name": "Marmelada",
+      "namePrep": "marmelada",
+      "serving": "1 žlica marmelade"
+    },
+    "protein-bar": {
+      "name": "Proteinska ploščica",
+      "namePrep": "proteinska ploščica",
+      "serving": "1 proteinska ploščica"
+    },
+    "energy-drink": {
+      "name": "Energijska pijača",
+      "namePrep": "energijska pijača",
+      "serving": "1 pločevinka energijske pijače"
+    },
+    "matcha-latte": {
+      "name": "Matcha latte",
+      "namePrep": "matcha latte",
+      "serving": "1 matcha latte"
+    },
+    "trail-mix": {
+      "name": "Študentska hrana",
+      "namePrep": "študentska hrana",
+      "serving": "1 porcija študentske hrane"
+    },
+    "blueberries": {
+      "name": "Borovnice",
+      "namePrep": "borovnice",
+      "serving": "1 skodelica borovnic"
+    },
+    "strawberries": {
+      "name": "Jagode",
+      "namePrep": "jagode",
+      "serving": "1 skodelica jagod"
+    },
+    "grapes": {
+      "name": "Grozdje",
+      "namePrep": "grozdje",
+      "serving": "1 skodelica grozdja"
+    },
+    "orange": {
+      "name": "Pomaranča",
+      "namePrep": "pomaranča",
+      "serving": "1 srednja pomaranča"
+    },
+    "pear": {
+      "name": "Hruška",
+      "namePrep": "hruška",
+      "serving": "1 srednja hruška"
+    },
+    "peach": {
+      "name": "Breskev",
+      "namePrep": "breskev",
+      "serving": "1 srednja breskev"
+    },
+    "watermelon": {
+      "name": "Lubenica",
+      "namePrep": "lubenica",
+      "serving": "1 rezina lubenice"
+    },
+    "pineapple": {
+      "name": "Ananas",
+      "namePrep": "ananas",
+      "serving": "1 skodelica ananasa"
+    },
+    "mango": {
+      "name": "Mango",
+      "namePrep": "mango",
+      "serving": "1 srednji mango"
+    },
+    "kiwi": {
+      "name": "Kivi",
+      "namePrep": "kivi",
+      "serving": "1 kivi"
+    },
+    "raspberries": {
+      "name": "Maline",
+      "namePrep": "maline",
+      "serving": "1 skodelica malin"
+    },
+    "blackberries": {
+      "name": "Robide",
+      "namePrep": "robide",
+      "serving": "1 skodelica robid"
+    },
+    "cherries": {
+      "name": "Češnje",
+      "namePrep": "češnje",
+      "serving": "1 skodelica češenj"
+    },
+    "grapefruit": {
+      "name": "Grenivka",
+      "namePrep": "grenivka",
+      "serving": "1/2 grenivke"
+    },
+    "lettuce": {
+      "name": "Solata",
+      "namePrep": "solata",
+      "serving": "1 skodelica solate"
+    },
+    "cabbage": {
+      "name": "Zelje",
+      "namePrep": "zelje",
+      "serving": "1 skodelica zelja"
+    },
+    "cauliflower": {
+      "name": "Cvetača",
+      "namePrep": "cvetača",
+      "serving": "1 skodelica cvetače"
+    },
+    "asparagus": {
+      "name": "Šparglji",
+      "namePrep": "šparglji",
+      "serving": "1 skodelica špargljev"
+    },
+    "zucchini": {
+      "name": "Bučka",
+      "namePrep": "bučka",
+      "serving": "1 skodelica bučk"
+    },
+    "eggplant": {
+      "name": "Jajčevec",
+      "namePrep": "jajčevec",
+      "serving": "1 skodelica jajčevca"
+    },
+    "bell-pepper": {
+      "name": "Paprika",
+      "namePrep": "paprika",
+      "serving": "1 srednja paprika"
+    },
+    "onion": {
+      "name": "Čebula",
+      "namePrep": "čebula",
+      "serving": "1 srednja čebula"
+    },
+    "mushrooms": {
+      "name": "Gobe",
+      "namePrep": "gobe",
+      "serving": "1 skodelica gob"
+    },
+    "green-beans": {
+      "name": "Stročji fižol",
+      "namePrep": "stročji fižol",
+      "serving": "1 skodelica stročjega fižola"
+    },
+    "kale": {
+      "name": "Kodrolistni ohrovt",
+      "namePrep": "kodrolistni ohrovt",
+      "serving": "1 skodelica kodrolistnega ohrovta"
+    },
+    "beets": {
+      "name": "Rdeča pesa",
+      "namePrep": "rdeča pesa",
+      "serving": "1 skodelica rdeče pese"
+    },
+    "turkey-breast": {
+      "name": "Puranje prsi",
+      "namePrep": "puranje prsi",
+      "serving": "100 g puranjih prsi"
+    },
+    "chicken-thigh": {
+      "name": "Piščančje bedro",
+      "namePrep": "piščančje bedro",
+      "serving": "1 piščančje bedro"
+    },
+    "pork-chop": {
+      "name": "Svinjski kotlet",
+      "namePrep": "svinjski kotlet",
+      "serving": "1 svinjski kotlet"
+    },
+    "ground-beef": {
+      "name": "Mleto goveje meso",
+      "namePrep": "mleto goveje meso",
+      "serving": "100 g mlete govedine"
+    },
+    "meatballs": {
+      "name": "Mesne kroglice",
+      "namePrep": "mesne kroglice",
+      "serving": "4 mesne kroglice"
+    },
+    "sausage": {
+      "name": "Klobasa",
+      "namePrep": "klobasa",
+      "serving": "1 klobasa"
+    },
+    "cod": {
+      "name": "Trska",
+      "namePrep": "trska",
+      "serving": "100 g trske"
+    },
+    "tilapia": {
+      "name": "Tilapija",
+      "namePrep": "tilapija",
+      "serving": "100 g tilapije"
+    },
+    "sardines": {
+      "name": "Sardine",
+      "namePrep": "sardine",
+      "serving": "1 majhna konzerva sardin"
+    },
+    "crab": {
+      "name": "Rakovo meso",
+      "namePrep": "rakovo meso",
+      "serving": "100 g rakovega mesa"
+    },
+    "scallops": {
+      "name": "Pokrovače",
+      "namePrep": "pokrovače",
+      "serving": "100 g pokrovač"
+    },
+    "smoked-salmon": {
+      "name": "Dimljeni losos",
+      "namePrep": "dimljeni losos",
+      "serving": "85 g dimljenega lososa"
+    },
+    "skim-milk": {
+      "name": "Posneto mleko",
+      "namePrep": "posneto mleko",
+      "serving": "1 kozarec posnetega mleka"
+    },
+    "soy-milk": {
+      "name": "Sojino mleko",
+      "namePrep": "sojino mleko",
+      "serving": "1 kozarec sojinega mleka"
+    },
+    "almond-milk": {
+      "name": "Mandljevo mleko",
+      "namePrep": "mandljevo mleko",
+      "serving": "1 kozarec mandljevega mleka"
+    },
+    "oat-milk": {
+      "name": "Ovseno mleko",
+      "namePrep": "ovseno mleko",
+      "serving": "1 kozarec ovsenega mleka"
+    },
+    "kefir": {
+      "name": "Kefir",
+      "namePrep": "kefir",
+      "serving": "1 kozarec kefirja"
+    },
+    "sour-cream": {
+      "name": "Kisla smetana",
+      "namePrep": "kisla smetana",
+      "serving": "2 žlici kisle smetane"
+    },
+    "feta-cheese": {
+      "name": "Sir feta",
+      "namePrep": "sir feta",
+      "serving": "30 g sira feta"
+    },
+    "mozzarella": {
+      "name": "Mocarela",
+      "namePrep": "mocarela",
+      "serving": "30 g mocarele"
+    },
+    "parmesan": {
+      "name": "Parmezan",
+      "namePrep": "parmezan",
+      "serving": "2 žlici parmezana"
+    },
+    "couscous": {
+      "name": "Kuskus",
+      "namePrep": "kuskus",
+      "serving": "1 skodelica kuhanega kuskusa"
+    },
+    "barley": {
+      "name": "Ješprenj",
+      "namePrep": "ješprenj",
+      "serving": "1 skodelica kuhanega ješprenja"
+    },
+    "buckwheat": {
+      "name": "Ajda",
+      "namePrep": "ajda",
+      "serving": "1 skodelica kuhane ajde"
+    },
+    "bulgur": {
+      "name": "Bulgur",
+      "namePrep": "bulgur",
+      "serving": "1 skodelica kuhanega bulgurja"
+    },
+    "naan": {
+      "name": "Naan",
+      "namePrep": "naan",
+      "serving": "1 kos naana"
+    },
+    "pita-bread": {
+      "name": "Pita kruh",
+      "namePrep": "pita kruh",
+      "serving": "1 pita kruh"
+    },
+    "english-muffin": {
+      "name": "Angleški mafin",
+      "namePrep": "angleški mafin",
+      "serving": "1 angleški mafin"
+    },
+    "rice-cake": {
+      "name": "Rižev vafelj",
+      "namePrep": "rižev vafelj",
+      "serving": "1 rižev vafelj"
+    },
+    "crackers": {
+      "name": "Krekerji",
+      "namePrep": "krekerji",
+      "serving": "1 porcija krekerjev"
+    },
+    "mashed-potatoes": {
+      "name": "Pire krompir",
+      "namePrep": "pire krompir",
+      "serving": "1 skodelica pire krompirja"
+    },
+    "scrambled-eggs": {
+      "name": "Umešana jajca",
+      "namePrep": "umešana jajca",
+      "serving": "umešana jajca iz 2 jajc"
+    },
+    "french-toast": {
+      "name": "Francoski toast",
+      "namePrep": "francoski toast",
+      "serving": "1 rezina francoskega toasta"
+    },
+    "breakfast-burrito": {
+      "name": "Burrito za zajtrk",
+      "namePrep": "burrito za zajtrk",
+      "serving": "1 burrito za zajtrk"
+    },
+    "hash-browns": {
+      "name": "Hash browns",
+      "namePrep": "hash browns",
+      "serving": "1 porcija hash browns"
+    },
+    "chia-pudding": {
+      "name": "Chia puding",
+      "namePrep": "chia puding",
+      "serving": "1 kozarec chia pudinga"
+    },
+    "overnight-oats": {
+      "name": "Ovseni kosmiči čez noč",
+      "namePrep": "ovseni kosmiči čez noč",
+      "serving": "1 kozarec ovsenih kosmičev čez noč"
+    },
+    "breakfast-sandwich": {
+      "name": "Sendvič za zajtrk",
+      "namePrep": "sendvič za zajtrk",
+      "serving": "1 sendvič za zajtrk"
+    },
+    "edamame": {
+      "name": "Edamame",
+      "namePrep": "edamame",
+      "serving": "1 skodelica edamama"
+    },
+    "kidney-beans": {
+      "name": "Rdeči fižol",
+      "namePrep": "rdeči fižol",
+      "serving": "1 skodelica kuhanega rdečega fižola"
+    },
+    "pinto-beans": {
+      "name": "Pinto fižol",
+      "namePrep": "pinto fižol",
+      "serving": "1 skodelica kuhanega pinto fižola"
+    },
+    "split-peas": {
+      "name": "Luščeni grah",
+      "namePrep": "luščeni grah",
+      "serving": "1 skodelica kuhanega luščenega graha"
+    },
+    "baked-beans": {
+      "name": "Pečen fižol v omaki",
+      "namePrep": "pečen fižol v omaki",
+      "serving": "1/2 skodelice pečenega fižola"
+    },
+    "fried-rice": {
+      "name": "Pražen riž",
+      "namePrep": "pražen riž",
+      "serving": "1 porcija praženega riža"
+    },
+    "pad-thai": {
+      "name": "Pad thai",
+      "namePrep": "pad thai",
+      "serving": "1 porcija pad thaija"
+    },
+    "chicken-curry": {
+      "name": "Piščančji kari",
+      "namePrep": "piščančji kari",
+      "serving": "1 porcija piščančjega karija"
+    },
+    "chicken-tikka-masala": {
+      "name": "Piščanec tikka masala",
+      "namePrep": "piščanec tikka masala",
+      "serving": "1 porcija piščanca tikka masala"
+    },
+    "beef-chili": {
+      "name": "Goveji čili",
+      "namePrep": "goveji čili",
+      "serving": "1 skleda govejega čilija"
+    },
+    "falafel": {
+      "name": "Falafel",
+      "namePrep": "falafel",
+      "serving": "3 kroglice falafla"
+    },
+    "dumplings": {
+      "name": "Cmoki",
+      "namePrep": "cmoki",
+      "serving": "1 porcija cmokov"
+    },
+    "spring-rolls": {
+      "name": "Spomladanski zavitki",
+      "namePrep": "spomladanski zavitki",
+      "serving": "2 spomladanska zavitka"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "quesadilla",
+      "serving": "1 quesadilla"
+    },
+    "nachos": {
+      "name": "Nachosi",
+      "namePrep": "nachosi",
+      "serving": "1 porcija nachosov"
+    },
+    "mac-and-cheese": {
+      "name": "Makaroni s sirom",
+      "namePrep": "makaroni s sirom",
+      "serving": "1 porcija makaronov s sirom"
+    },
+    "chicken-wings": {
+      "name": "Piščančja krilca",
+      "namePrep": "piščančja krilca",
+      "serving": "6 piščančjih krilc"
+    },
+    "fish-and-chips": {
+      "name": "Riba in krompirček",
+      "namePrep": "riba in krompirček",
+      "serving": "1 porcija ribe in krompirčka"
+    },
+    "risotto": {
+      "name": "Rižota",
+      "namePrep": "rižota",
+      "serving": "1 krožnik rižote"
+    },
+    "tortilla-chips": {
+      "name": "Tortilja čips",
+      "namePrep": "tortilja čips",
+      "serving": "1 porcija tortilja čipsa"
+    },
+    "granola-bar": {
+      "name": "Granola ploščica",
+      "namePrep": "granola ploščica",
+      "serving": "1 granola ploščica"
+    },
+    "chocolate-bar": {
+      "name": "Čokoladna ploščica",
+      "namePrep": "čokoladna ploščica",
+      "serving": "1 čokoladna ploščica"
+    },
+    "candy": {
+      "name": "Bonboni",
+      "namePrep": "bonboni",
+      "serving": "1 porcija bonbonov"
+    },
+    "cinnamon-roll": {
+      "name": "Cimetov zavitek",
+      "namePrep": "cimetov zavitek",
+      "serving": "1 cimetov zavitek"
+    },
+    "marshmallows": {
+      "name": "Penice",
+      "namePrep": "penice",
+      "serving": "1 porcija penic"
+    },
+    "fruit-snacks": {
+      "name": "Sadni prigrizki",
+      "namePrep": "sadni prigrizki",
+      "serving": "1 porcija sadnih prigrizkov"
+    },
+    "black-coffee": {
+      "name": "Črna kava",
+      "namePrep": "črna kava",
+      "serving": "1 skodelica črne kave"
+    },
+    "cappuccino": {
+      "name": "Kapučino",
+      "namePrep": "kapučino",
+      "serving": "1 kapučino"
+    },
+    "milk-tea": {
+      "name": "Čaj z mlekom",
+      "namePrep": "čaj z mlekom",
+      "serving": "1 kozarec čaja z mlekom"
+    },
+    "bubble-tea": {
+      "name": "Bubble tea",
+      "namePrep": "bubble tea",
+      "serving": "1 bubble tea"
+    },
+    "lemonade": {
+      "name": "Limonada",
+      "namePrep": "limonada",
+      "serving": "1 kozarec limonade"
+    },
+    "iced-tea": {
+      "name": "Ledeni čaj",
+      "namePrep": "ledeni čaj",
+      "serving": "1 kozarec ledenega čaja"
+    },
+    "apple-juice": {
+      "name": "Jabolčni sok",
+      "namePrep": "jabolčni sok",
+      "serving": "1 kozarec jabolčnega soka"
+    },
+    "coconut-water": {
+      "name": "Kokosova voda",
+      "namePrep": "kokosova voda",
+      "serving": "1 kozarec kokosove vode"
+    },
+    "sports-drink": {
+      "name": "Športna pijača",
+      "namePrep": "športna pijača",
+      "serving": "1 steklenica športne pijače"
+    },
+    "ranch-dressing": {
+      "name": "Ranch preliv",
+      "namePrep": "ranch preliv",
+      "serving": "2 žlici ranch preliva"
+    },
+    "bbq-sauce": {
+      "name": "BBQ omaka",
+      "namePrep": "bbq omaka",
+      "serving": "2 žlici BBQ omake"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "salsa",
+      "serving": "2 žlici salse"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "guacamole",
+      "serving": "2 žlici guacamola"
+    }
+  },
+  "utility": {
+    "pricing": "Cene",
+    "support": "Podpora",
+    "privacy": "Zasebnost",
+    "terms": "Pogoji",
+    "press": "Gradivo za medije",
+    "deleteExtra": "Za izbris pišite z e-pošte, povezane z računom, in v zadevo dodajte “Delete account”."
+  },
+  "store": {
+    "appStoreSmall": "Prenesi v",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Na voljo v",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Funkcija",
+    "useCase": "Primer uporabe",
+    "openPage": "Odpri stran →",
+    "openArrow": "Odpri →",
+    "practicalWorkflow": "Praktičen potek",
+    "workflowTitle": "Kako pomaga pri dnevnem beleženju",
+    "goodToKnow": "Dobro je vedeti",
+    "defaultNote": "Prehranske vrednosti so ocene. Najbolje delujejo skupaj s preverjanjem porcije, zdravo presojo in ročnimi popravki.",
+    "relatedPages": "Sorodne strani",
+    "quickTakeaway": "Na kratko:",
+    "defaultTakeaway": "Calorie Counter AI pospeši prehranski dnevnik: skupaj uporabi ocene iz fotografije, črtne kode in ročne popravke.",
+    "information": "Informacije",
+    "bestFor": "Najboljše za"
+  },
+  "internalCta": {
+    "title": "Naslednji obrok spremeni v vnos v dnevniku",
+    "text": "Prenesi Calorie Counter AI in preizkusi hitro štetje kalorij iz fotografije.",
+    "button": "Prenesi aplikacijo"
+  },
+  "download": {
+    "availableTitle": "Na voljo za iPhone in Android",
+    "availableText": "Začni s fotografijo, črtno kodo ali preprostim vnosom v dnevnik. Kalorije in makrohranila spremljaj hitro že od prvega dne."
+  },
+  "faq": {
+    "items": [
+      [
+        "Je Calorie Counter AI brezplačen?",
+        "Začneš lahko brezplačno z dnevnimi AI analizami hrane. Premium možnosti so lahko na voljo za višje omejitve in dodatna orodja."
+      ],
+      [
+        "Lahko štejem kalorije iz fotografije?",
+        "Da. Aplikacija iz fotografije hrane oceni kalorije, makrohranila in velikost porcije."
+      ],
+      [
+        "Ali ima skener črtnih kod?",
+        "Da. Pomaga hitro dodati pakirane izdelke."
+      ],
+      [
+        "Ali aplikacija spremlja makrohranila?",
+        "Da. Beljakovine, maščobe in ogljikovi hidrati so prikazani poleg kalorij."
+      ],
+      [
+        "Je primerna za domačo hrano?",
+        "Da. Ocena iz fotografije je posebno uporabna pri domačih jedeh, vendar je dobro preveriti porcijo, olje, omake in skrite sestavine."
+      ],
+      [
+        "Je to medicinski nasvet?",
+        "Ne. Aplikacija daje informativne ocene in ne nadomešča zdravnika ali dietetika."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Začneš lahko brezplačno z dnevnimi AI analizami hrane. Premium funkcije so lahko uporabne, če potrebuješ višje omejitve in dodatna orodja.",
+      "Aktualne cene, preizkusna obdobja in naročnine vedno preveri v aplikaciji ali trgovini z aplikacijami."
+    ],
+    "support": [
+      "Potrebuješ pomoč? Obrni se na podporo in dodaj napravo, platformo, različico aplikacije ter kratek opis težave.",
+      "Za vprašanja o ocenah hrane pošlji primer fotografije, pričakovano porcijo in kaj si poskusil popraviti."
+    ],
+    "contact": [
+      "E-pošta za podporo: support@caloriecounterai.app",
+      "Za partnerstva, medije in povratne informacije uporabi jasen naslov sporočila."
+    ],
+    "privacy": [
+      "Calorie Counter AI je namenjen beleženju hrane in bolj zavestnemu spremljanju prehrane. Podatki lahko vključujejo obroke, fotografije, nastavitve in tehnične informacije, potrebne za delovanje storitve.",
+      "Uporabljaj samo podatke, ki jih želiš shraniti v dnevnik, in redno preverjaj nastavitve zasebnosti v aplikaciji."
+    ],
+    "terms": [
+      "Z uporabo Calorie Counter AI se strinjaš, da gre za informativno prehransko orodje in da je ocene treba preveriti, preden se nanje zaneseš.",
+      "Aplikacije ne uporabljaj za nujne zdravstvene odločitve ali kot nadomestilo za strokovni nasvet."
+    ],
+    "disclaimer": [
+      "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "Če imaš zdravstveno stanje, motnjo hranjenja, nosečnost ali posebne prehranske potrebe, se posvetuj s strokovnjakom."
+    ],
+    "delete": [
+      "Za zahtevo za izbris računa ali podatkov piši z e-pošte, povezane z računom, in v zadevo dodaj “Delete account”.",
+      "V sporočilu dodaj dovolj informacij za prepoznavo računa, ne pošiljaj pa občutljivih zdravstvenih podatkov."
+    ]
+  },
+  "press": {
+    "iconAlt": "Ikona aplikacije Calorie Counter AI",
+    "iconTitle": "Ikona aplikacije",
+    "downloadIcon": "Prenesi ikono",
+    "screenshotAlt": "Posnetek zaslona aplikacije Calorie Counter AI",
+    "screenshotTitle": "Posnetek zaslona aplikacije",
+    "downloadScreenshot": "Prenesi posnetek zaslona",
+    "shortDescriptionTitle": "Kratek opis",
+    "shortDescriptionText": "Calorie Counter AI uporabnikom pomaga oceniti kalorije, makrohranila in velikost porcije iz fotografije hrane ter voditi preprost prehranski dnevnik."
+  },
+  "notFound": {
+    "title": "Stran ni najdena",
+    "text": "Povezava je morda stara ali je stran premaknjena.",
+    "home": "Nazaj domov"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Funkcije",
+      "h1": "Orodja za hitrejše spremljanje prehrane",
+      "description": "Fotografije, črtne kode, dnevnik, makrohranila, cilji, statistika in Health Connect — vse za preprostejše spremljanje prehrane.",
+      "kicker": "Pregled izdelka",
+      "summary": "Fotografije, črtne kode, dnevnik, makrohranila, cilji, statistika in Health Connect — vse za preprostejše spremljanje prehrane.",
+      "bullets": [
+        "AI analiza fotografije hrane",
+        "Skener črtnih kod za pakirane izdelke",
+        "Uredljive ocene kalorij in makrohranil",
+        "Dnevnik, cilji in grafi napredka"
+      ],
+      "sections": [
+        [
+          "Pregled izdelka",
+          "Fotografije, črtne kode, dnevnik, makrohranila, cilji, statistika in Health Connect — vse za preprostejše spremljanje prehrane."
+        ],
+        [
+          "Na kaj bodi pozoren",
+          "Prehranske vrednosti so ocene. Dejanski rezultat je odvisen od znamke, recepta, priprave in velikosti porcije."
+        ],
+        [
+          "Prenesi",
+          "Prenesi Calorie Counter AI za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku."
+        ]
+      ],
+      "workflowTitle": "Orodja za hitrejše spremljanje prehrane",
+      "workflow": [
+        "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+        "Spremljaj kalorije, beljakovine, maščobe in ogljikove hidrate ob svojem dnevnem cilju."
+      ],
+      "note": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "bestFor": [
+        "hitro beleženje",
+        "različne vrste obrokov",
+        "uredljive ocene",
+        "dnevna rutina"
+      ],
+      "workflowKicker": "Praktičen potek",
+      "noteTitle": "Dobro je vedeti"
+    },
+    "/food-recognition-ai/": {
+      "title": "AI prepoznavanje hrane",
+      "h1": "AI prepoznavanje hrane iz fotografije",
+      "description": "Fotografiraj obrok in dobi uredljivo oceno vidnih živil ter prehranskih vrednosti.",
+      "kicker": "Analiza fotografije",
+      "summary": "Fotografiraj obrok in dobi uredljivo oceno vidnih živil ter prehranskih vrednosti.",
+      "bullets": [
+        "Prepozna vidna živila",
+        "Oceni porcijo in makrohranila",
+        "Rezultat lahko urediš",
+        "Uporabno za krožnike, solate in restavracije"
+      ],
+      "sections": [
+        [
+          "Analiza fotografije",
+          "Fotografiraj obrok in dobi uredljivo oceno vidnih živil ter prehranskih vrednosti."
+        ],
+        [
+          "Na kaj bodi pozoren",
+          "Prehranske vrednosti so ocene. Dejanski rezultat je odvisen od znamke, recepta, priprave in velikosti porcije."
+        ],
+        [
+          "Prenesi",
+          "Prenesi Calorie Counter AI za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku."
+        ]
+      ],
+      "workflowTitle": "AI prepoznavanje hrane iz fotografije",
+      "workflow": [
+        "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+        "Spremljaj kalorije, beljakovine, maščobe in ogljikove hidrate ob svojem dnevnem cilju."
+      ],
+      "note": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "bestFor": [
+        "domača hrana",
+        "solate in sklede",
+        "restavracija",
+        "hiter vnos"
+      ],
+      "workflowKicker": "Praktičen potek",
+      "noteTitle": "Dobro je vedeti"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Skener kalorij s črtno kodo",
+      "h1": "Skener črtnih kod za hrano",
+      "description": "Skeniraj pakirane izdelke in hitro dodaj kalorije ter makrohranila v dnevnik.",
+      "kicker": "Črtna koda",
+      "summary": "Skeniraj pakirane izdelke in hitro dodaj kalorije ter makrohranila v dnevnik.",
+      "bullets": [
+        "Hiter vnos pakiranih izdelkov",
+        "Kalorije in makrohranila v dnevniku",
+        "Manj ročnega tipkanja",
+        "Uporabno za pijače in prigrizke"
+      ],
+      "sections": [
+        [
+          "Črtna koda",
+          "Skeniraj pakirane izdelke in hitro dodaj kalorije ter makrohranila v dnevnik."
+        ],
+        [
+          "Na kaj bodi pozoren",
+          "Prehranske vrednosti so ocene. Dejanski rezultat je odvisen od znamke, recepta, priprave in velikosti porcije."
+        ],
+        [
+          "Prenesi",
+          "Prenesi Calorie Counter AI za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku."
+        ]
+      ],
+      "workflowTitle": "Skener črtnih kod za hrano",
+      "workflow": [
+        "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+        "Spremljaj kalorije, beljakovine, maščobe in ogljikove hidrate ob svojem dnevnem cilju."
+      ],
+      "note": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "bestFor": [
+        "pakirani izdelki",
+        "prigrizki",
+        "pijače",
+        "hitra preverba"
+      ],
+      "workflowKicker": "Praktičen potek",
+      "noteTitle": "Dobro je vedeti"
+    },
+    "/macro-tracker/": {
+      "title": "Sledenje makrohranilom",
+      "h1": "Spremljaj beljakovine, maščobe in ogljikove hidrate",
+      "description": "Makrohranila vidiš ob kalorijah in obroke prilagodiš svojemu cilju.",
+      "kicker": "Makrohranila",
+      "summary": "Makrohranila vidiš ob kalorijah in obroke prilagodiš svojemu cilju.",
+      "bullets": [
+        "Beljakovine, maščobe in ogljikovi hidrati",
+        "Jasni dnevni cilji",
+        "Uporabno za hujšanje in mišično maso",
+        "Preprosta primerjava dni"
+      ],
+      "sections": [
+        [
+          "Makrohranila",
+          "Makrohranila vidiš ob kalorijah in obroke prilagodiš svojemu cilju."
+        ],
+        [
+          "Na kaj bodi pozoren",
+          "Prehranske vrednosti so ocene. Dejanski rezultat je odvisen od znamke, recepta, priprave in velikosti porcije."
+        ],
+        [
+          "Prenesi",
+          "Prenesi Calorie Counter AI za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku."
+        ]
+      ],
+      "workflowTitle": "Spremljaj beljakovine, maščobe in ogljikove hidrate",
+      "workflow": [
+        "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+        "Spremljaj kalorije, beljakovine, maščobe in ogljikove hidrate ob svojem dnevnem cilju."
+      ],
+      "note": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "bestFor": [
+        "beljakovinski cilj",
+        "ravnotežje makrohranil",
+        "trening",
+        "prehranska povratna informacija"
+      ],
+      "workflowKicker": "Praktičen potek",
+      "noteTitle": "Dobro je vedeti"
+    },
+    "/food-diary-app/": {
+      "title": "Aplikacija za prehranski dnevnik",
+      "h1": "Vizualni prehranski dnevnik s fotografijami in makrohranili",
+      "description": "Shrani obroke s fotografijo, črtno kodo ali ročnim popravkom ter lažje pregleduj svoje dni.",
+      "kicker": "Dnevnik",
+      "summary": "Shrani obroke s fotografijo, črtno kodo ali ročnim popravkom ter lažje pregleduj svoje dni.",
+      "bullets": [
+        "Vnosi s fotografijami",
+        "Dnevni povzetek",
+        "Priljubljena živila",
+        "Preprost pregled"
+      ],
+      "sections": [
+        [
+          "Dnevnik",
+          "Shrani obroke s fotografijo, črtno kodo ali ročnim popravkom ter lažje pregleduj svoje dni."
+        ],
+        [
+          "Na kaj bodi pozoren",
+          "Prehranske vrednosti so ocene. Dejanski rezultat je odvisen od znamke, recepta, priprave in velikosti porcije."
+        ],
+        [
+          "Prenesi",
+          "Prenesi Calorie Counter AI za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku."
+        ]
+      ],
+      "workflowTitle": "Vizualni prehranski dnevnik s fotografijami in makrohranili",
+      "workflow": [
+        "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+        "Spremljaj kalorije, beljakovine, maščobe in ogljikove hidrate ob svojem dnevnem cilju."
+      ],
+      "note": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "bestFor": [
+        "dnevni dnevnik",
+        "ponavljajoče se navade",
+        "vizualni pregled",
+        "prilagodljiv vnos"
+      ],
+      "workflowKicker": "Praktičen potek",
+      "noteTitle": "Dobro je vedeti"
+    },
+    "/nutrition-tracker/": {
+      "title": "Sledenje prehrani",
+      "h1": "Kalorije in hranila na enem mestu",
+      "description": "Spremljaj kalorije, makrohranila in prehranske vzorce s hitrimi, uredljivimi vnosi.",
+      "kicker": "Prehrana",
+      "summary": "Spremljaj kalorije, makrohranila in prehranske vzorce s hitrimi, uredljivimi vnosi.",
+      "bullets": [
+        "Kalorije in makrohranila",
+        "Prehranski vzorci",
+        "Uredljivi podatki",
+        "Jasen dnevnik"
+      ],
+      "sections": [
+        [
+          "Prehrana",
+          "Spremljaj kalorije, makrohranila in prehranske vzorce s hitrimi, uredljivimi vnosi."
+        ],
+        [
+          "Na kaj bodi pozoren",
+          "Prehranske vrednosti so ocene. Dejanski rezultat je odvisen od znamke, recepta, priprave in velikosti porcije."
+        ],
+        [
+          "Prenesi",
+          "Prenesi Calorie Counter AI za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku."
+        ]
+      ],
+      "workflowTitle": "Kalorije in hranila na enem mestu",
+      "workflow": [
+        "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+        "Spremljaj kalorije, beljakovine, maščobe in ogljikove hidrate ob svojem dnevnem cilju."
+      ],
+      "note": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "bestFor": [
+        "zavestnejša prehrana",
+        "dnevna povratna informacija",
+        "preverjanje porcije",
+        "ustvarjanje navade"
+      ],
+      "workflowKicker": "Praktičen potek",
+      "noteTitle": "Dobro je vedeti"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Ocena teže obroka",
+      "h1": "Ocena teže porcije iz fotografije",
+      "description": "Dobi začetno oceno porcije in jo prilagodi, če količino poznaš bolje.",
+      "kicker": "Porcija",
+      "summary": "Dobi začetno oceno porcije in jo prilagodi, če količino poznaš bolje.",
+      "bullets": [
+        "Ocena teže iz fotografije",
+        "Uredljiva porcija",
+        "Uporabno brez deklaracije",
+        "Boljša ocena kalorij"
+      ],
+      "sections": [
+        [
+          "Porcija",
+          "Dobi začetno oceno porcije in jo prilagodi, če količino poznaš bolje."
+        ],
+        [
+          "Na kaj bodi pozoren",
+          "Prehranske vrednosti so ocene. Dejanski rezultat je odvisen od znamke, recepta, priprave in velikosti porcije."
+        ],
+        [
+          "Prenesi",
+          "Prenesi Calorie Counter AI za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku."
+        ]
+      ],
+      "workflowTitle": "Ocena teže porcije iz fotografije",
+      "workflow": [
+        "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+        "Spremljaj kalorije, beljakovine, maščobe in ogljikove hidrate ob svojem dnevnem cilju."
+      ],
+      "note": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "bestFor": [
+        "preverjanje porcije",
+        "domača hrana",
+        "restavracija",
+        "hitra ocena"
+      ],
+      "workflowKicker": "Praktičen potek",
+      "noteTitle": "Dobro je vedeti"
+    },
+    "/progress-statistics/": {
+      "title": "Statistika napredka",
+      "h1": "Spremljaj prehranske trende po dnevih in tednih",
+      "description": "Glej trende kalorij in makrohranil, ne samo enega izoliranega dne.",
+      "kicker": "Statistika",
+      "summary": "Glej trende kalorij in makrohranil, ne samo enega izoliranega dne.",
+      "bullets": [
+        "Dnevni in tedenski prikazi",
+        "Trendi kalorij in makrohranil",
+        "Vidne navade",
+        "Jasnejša povratna informacija"
+      ],
+      "sections": [
+        [
+          "Statistika",
+          "Glej trende kalorij in makrohranil, ne samo enega izoliranega dne."
+        ],
+        [
+          "Na kaj bodi pozoren",
+          "Prehranske vrednosti so ocene. Dejanski rezultat je odvisen od znamke, recepta, priprave in velikosti porcije."
+        ],
+        [
+          "Prenesi",
+          "Prenesi Calorie Counter AI za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku."
+        ]
+      ],
+      "workflowTitle": "Spremljaj prehranske trende po dnevih in tednih",
+      "workflow": [
+        "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+        "Spremljaj kalorije, beljakovine, maščobe in ogljikove hidrate ob svojem dnevnem cilju."
+      ],
+      "note": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "bestFor": [
+        "trendi",
+        "tedensko povprečje",
+        "navade",
+        "cilji"
+      ],
+      "workflowKicker": "Praktičen potek",
+      "noteTitle": "Dobro je vedeti"
+    },
+    "/meal-reminders/": {
+      "title": "Opomniki za obroke",
+      "h1": "Opomniki, da ne pozabiš dnevnika",
+      "description": "Nastavi diskretne opomnike, da beleženje obrokov postane navada.",
+      "kicker": "Opomniki",
+      "summary": "Nastavi diskretne opomnike, da beleženje obrokov postane navada.",
+      "bullets": [
+        "Diskretna obvestila",
+        "Doslednejši dnevnik",
+        "Manj pozabljenih obrokov",
+        "Boljši dnevni pregled"
+      ],
+      "sections": [
+        [
+          "Opomniki",
+          "Nastavi diskretne opomnike, da beleženje obrokov postane navada."
+        ],
+        [
+          "Na kaj bodi pozoren",
+          "Prehranske vrednosti so ocene. Dejanski rezultat je odvisen od znamke, recepta, priprave in velikosti porcije."
+        ],
+        [
+          "Prenesi",
+          "Prenesi Calorie Counter AI za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku."
+        ]
+      ],
+      "workflowTitle": "Opomniki, da ne pozabiš dnevnika",
+      "workflow": [
+        "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+        "Spremljaj kalorije, beljakovine, maščobe in ogljikove hidrate ob svojem dnevnem cilju."
+      ],
+      "note": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "bestFor": [
+        "navada",
+        "zasedeni dnevi",
+        "doslednost",
+        "dnevna rutina"
+      ],
+      "workflowKicker": "Praktičen potek",
+      "noteTitle": "Dobro je vedeti"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Poveži zdravstvene podatke na Androidu",
+      "description": "Poveži združljive zdravstvene podatke, če želiš več konteksta na enem mestu.",
+      "kicker": "Integracija",
+      "summary": "Poveži združljive zdravstvene podatke, če želiš več konteksta na enem mestu.",
+      "bullets": [
+        "Zdravstveni kontekst na Androidu",
+        "Dovoljenja pod nadzorom",
+        "Dodatni podatki",
+        "Pozornost na zasebnost"
+      ],
+      "sections": [
+        [
+          "Integracija",
+          "Poveži združljive zdravstvene podatke, če želiš več konteksta na enem mestu."
+        ],
+        [
+          "Na kaj bodi pozoren",
+          "Prehranske vrednosti so ocene. Dejanski rezultat je odvisen od znamke, recepta, priprave in velikosti porcije."
+        ],
+        [
+          "Prenesi",
+          "Prenesi Calorie Counter AI za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku."
+        ]
+      ],
+      "workflowTitle": "Poveži zdravstvene podatke na Androidu",
+      "workflow": [
+        "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+        "Spremljaj kalorije, beljakovine, maščobe in ogljikove hidrate ob svojem dnevnem cilju."
+      ],
+      "note": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "bestFor": [
+        "Android",
+        "zdravstveni kontekst",
+        "dovoljenja",
+        "širši pregled"
+      ],
+      "workflowKicker": "Praktičen potek",
+      "noteTitle": "Dobro je vedeti"
+    },
+    "/data-export/": {
+      "title": "Izvoz podatkov",
+      "h1": "Izvozi podatke iz prehranskega dnevnika",
+      "description": "Shrani podatke dnevnika za osebno analizo ali evidenco.",
+      "kicker": "Izvoz",
+      "summary": "Shrani podatke dnevnika za osebno analizo ali evidenco.",
+      "bullets": [
+        "Shranjevanje lastnih podatkov",
+        "Jasen izvoz",
+        "Uporabno za dolge trende",
+        "Prilagodljivejša analiza"
+      ],
+      "sections": [
+        [
+          "Izvoz",
+          "Shrani podatke dnevnika za osebno analizo ali evidenco."
+        ],
+        [
+          "Na kaj bodi pozoren",
+          "Prehranske vrednosti so ocene. Dejanski rezultat je odvisen od znamke, recepta, priprave in velikosti porcije."
+        ],
+        [
+          "Prenesi",
+          "Prenesi Calorie Counter AI za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku."
+        ]
+      ],
+      "workflowTitle": "Izvozi podatke iz prehranskega dnevnika",
+      "workflow": [
+        "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+        "Spremljaj kalorije, beljakovine, maščobe in ogljikove hidrate ob svojem dnevnem cilju."
+      ],
+      "note": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "bestFor": [
+        "osebna evidenca",
+        "dolgi trendi",
+        "varnostna kopija",
+        "analiza"
+      ],
+      "workflowKicker": "Praktičen potek",
+      "noteTitle": "Dobro je vedeti"
+    },
+    "/use-cases/": {
+      "title": "Primeri uporabe",
+      "h1": "Za kaj lahko uporabiš Calorie Counter AI?",
+      "description": "Hujšanje, pridobivanje mišične mase, vzdrževanje, domača hrana, restavracije in vsakodnevni dnevnik.",
+      "kicker": "Cilji"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Števec kalorij za hujšanje",
+      "h1": "Spremljanje kalorij za hujšanje",
+      "description": "Oglej si dnevni kalorijski proračun, hitreje beleži obroke in ohrani primanjkljaj pod nadzorom.",
+      "kicker": "Hujšanje",
+      "summary": "Oglej si dnevni kalorijski proračun, hitreje beleži obroke in ohrani primanjkljaj pod nadzorom.",
+      "bullets": [
+        "Dnevni kalorijski proračun",
+        "Hiter vnos s fotografijo",
+        "Makrohranila za hujšanje",
+        "Tedenski trendi"
+      ],
+      "sections": [
+        [
+          "Hujšanje",
+          "Oglej si dnevni kalorijski proračun, hitreje beleži obroke in ohrani primanjkljaj pod nadzorom."
+        ],
+        [
+          "Na kaj bodi pozoren",
+          "Prehranske vrednosti so ocene. Dejanski rezultat je odvisen od znamke, recepta, priprave in velikosti porcije."
+        ],
+        [
+          "Prenesi",
+          "Prenesi Calorie Counter AI za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku."
+        ]
+      ],
+      "workflowTitle": "Spremljanje kalorij za hujšanje",
+      "workflow": [
+        "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+        "Spremljaj kalorije, beljakovine, maščobe in ogljikove hidrate ob svojem dnevnem cilju."
+      ],
+      "note": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "bestFor": [
+        "kalorijski primanjkljaj",
+        "nadzor porcije",
+        "dnevni cilj",
+        "dosleden dnevnik"
+      ],
+      "workflowKicker": "Praktičen potek",
+      "noteTitle": "Dobro je vedeti"
+    },
+    "/calorie-deficit-app/": {
+      "title": "Aplikacija za kalorijski primanjkljaj",
+      "h1": "Preprosteje spremljaj kalorijski primanjkljaj",
+      "description": "Razumi, koliko kalorij sodi v dan, in hitro beleži obroke.",
+      "kicker": "Primanjkljaj",
+      "summary": "Razumi, koliko kalorij sodi v dan, in hitro beleži obroke.",
+      "bullets": [
+        "Dnevni cilj",
+        "Preostale kalorije",
+        "Preverjanje porcije",
+        "Tedenski trendi"
+      ],
+      "sections": [
+        [
+          "Primanjkljaj",
+          "Razumi, koliko kalorij sodi v dan, in hitro beleži obroke."
+        ],
+        [
+          "Na kaj bodi pozoren",
+          "Prehranske vrednosti so ocene. Dejanski rezultat je odvisen od znamke, recepta, priprave in velikosti porcije."
+        ],
+        [
+          "Prenesi",
+          "Prenesi Calorie Counter AI za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku."
+        ]
+      ],
+      "workflowTitle": "Preprosteje spremljaj kalorijski primanjkljaj",
+      "workflow": [
+        "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+        "Spremljaj kalorije, beljakovine, maščobe in ogljikove hidrate ob svojem dnevnem cilju."
+      ],
+      "note": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "bestFor": [
+        "hujšanje",
+        "kalorijski proračun",
+        "povprečja",
+        "zavestnejše odločitve"
+      ],
+      "workflowKicker": "Praktičen potek",
+      "noteTitle": "Dobro je vedeti"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Sledenje kalorijam za mišično maso",
+      "h1": "Kalorije in beljakovine za pridobivanje mišične mase",
+      "description": "Spremljaj kalorije in beljakovine, ko želiš jesti v energijskem presežku.",
+      "kicker": "Mišična masa",
+      "summary": "Spremljaj kalorije in beljakovine, ko želiš jesti v energijskem presežku.",
+      "bullets": [
+        "Beljakovinski cilj",
+        "Kalorijski presežek",
+        "Sledenje makrohranilom",
+        "Hiter vnos obrokov"
+      ],
+      "sections": [
+        [
+          "Mišična masa",
+          "Spremljaj kalorije in beljakovine, ko želiš jesti v energijskem presežku."
+        ],
+        [
+          "Na kaj bodi pozoren",
+          "Prehranske vrednosti so ocene. Dejanski rezultat je odvisen od znamke, recepta, priprave in velikosti porcije."
+        ],
+        [
+          "Prenesi",
+          "Prenesi Calorie Counter AI za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku."
+        ]
+      ],
+      "workflowTitle": "Kalorije in beljakovine za pridobivanje mišične mase",
+      "workflow": [
+        "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+        "Spremljaj kalorije, beljakovine, maščobe in ogljikove hidrate ob svojem dnevnem cilju."
+      ],
+      "note": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "bestFor": [
+        "beljakovine",
+        "presežek",
+        "prehrana ob treningu",
+        "dnevna makrohranila"
+      ],
+      "workflowKicker": "Praktičen potek",
+      "noteTitle": "Dobro je vedeti"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Sledenje kalorijam za vzdrževanje",
+      "h1": "Spremljanje kalorij za vzdrževanje teže",
+      "description": "Ohrani stabilno rutino in spremljaj trende brez zapletanja dnevnika.",
+      "kicker": "Vzdrževanje",
+      "summary": "Ohrani stabilno rutino in spremljaj trende brez zapletanja dnevnika.",
+      "bullets": [
+        "Prilagodljiv dnevnik",
+        "Tedenska povprečja",
+        "Jasna makrohranila",
+        "Vidne navade"
+      ],
+      "sections": [
+        [
+          "Vzdrževanje",
+          "Ohrani stabilno rutino in spremljaj trende brez zapletanja dnevnika."
+        ],
+        [
+          "Na kaj bodi pozoren",
+          "Prehranske vrednosti so ocene. Dejanski rezultat je odvisen od znamke, recepta, priprave in velikosti porcije."
+        ],
+        [
+          "Prenesi",
+          "Prenesi Calorie Counter AI za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku."
+        ]
+      ],
+      "workflowTitle": "Spremljanje kalorij za vzdrževanje teže",
+      "workflow": [
+        "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+        "Spremljaj kalorije, beljakovine, maščobe in ogljikove hidrate ob svojem dnevnem cilju."
+      ],
+      "note": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "bestFor": [
+        "stabilna rutina",
+        "tedenski trend",
+        "zavestna prehrana",
+        "prilagodljiv cilj"
+      ],
+      "workflowKicker": "Praktičen potek",
+      "noteTitle": "Dobro je vedeti"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Števec kalorij za domačo hrano",
+      "h1": "Ocena kalorij v domačih jedeh",
+      "description": "Fotografiraj jed, preveri porcijo in skrite sestavine, nato vnos shrani v dnevnik.",
+      "kicker": "Domača hrana",
+      "summary": "Fotografiraj jed, preveri porcijo in skrite sestavine, nato vnos shrani v dnevnik.",
+      "bullets": [
+        "Recepti brez deklaracije",
+        "Preverjanje olja in omak",
+        "Prilagoditev porcije",
+        "Hitra ocena"
+      ],
+      "sections": [
+        [
+          "Domača hrana",
+          "Fotografiraj jed, preveri porcijo in skrite sestavine, nato vnos shrani v dnevnik."
+        ],
+        [
+          "Na kaj bodi pozoren",
+          "Prehranske vrednosti so ocene. Dejanski rezultat je odvisen od znamke, recepta, priprave in velikosti porcije."
+        ],
+        [
+          "Prenesi",
+          "Prenesi Calorie Counter AI za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku."
+        ]
+      ],
+      "workflowTitle": "Ocena kalorij v domačih jedeh",
+      "workflow": [
+        "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+        "Spremljaj kalorije, beljakovine, maščobe in ogljikove hidrate ob svojem dnevnem cilju."
+      ],
+      "note": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "bestFor": [
+        "domače jedi",
+        "družinski recepti",
+        "ostanki hrane",
+        "porcije"
+      ],
+      "workflowKicker": "Praktičen potek",
+      "noteTitle": "Dobro je vedeti"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Sledenje kalorijam v restavraciji",
+      "h1": "Lažje beleži restavracijske obroke",
+      "description": "Uporabi oceno iz fotografije, ko nimaš natančnega recepta ali prehranske deklaracije.",
+      "kicker": "Restavracija",
+      "summary": "Uporabi oceno iz fotografije, ko nimaš natančnega recepta ali prehranske deklaracije.",
+      "bullets": [
+        "Hitra ocena s fotografijo",
+        "Pozornost na skrite omake",
+        "Uredljiva porcija",
+        "Uporabno na poti"
+      ],
+      "sections": [
+        [
+          "Restavracija",
+          "Uporabi oceno iz fotografije, ko nimaš natančnega recepta ali prehranske deklaracije."
+        ],
+        [
+          "Na kaj bodi pozoren",
+          "Prehranske vrednosti so ocene. Dejanski rezultat je odvisen od znamke, recepta, priprave in velikosti porcije."
+        ],
+        [
+          "Prenesi",
+          "Prenesi Calorie Counter AI za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku."
+        ]
+      ],
+      "workflowTitle": "Lažje beleži restavracijske obroke",
+      "workflow": [
+        "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+        "Spremljaj kalorije, beljakovine, maščobe in ogljikove hidrate ob svojem dnevnem cilju."
+      ],
+      "note": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "bestFor": [
+        "restavracija",
+        "potovanja",
+        "hiter dnevnik",
+        "ocena brez deklaracije"
+      ],
+      "workflowKicker": "Praktičen potek",
+      "noteTitle": "Dobro je vedeti"
+    },
+    "/meal-tracker/": {
+      "title": "Sledenje obrokom",
+      "h1": "Spremljaj obroke s fotografijami in dnevnikom",
+      "description": "Hitro zabeleži zajtrk, kosilo, večerjo in prigrizke, nato preglej celoten dan.",
+      "kicker": "Obroki",
+      "summary": "Hitro zabeleži zajtrk, kosilo, večerjo in prigrizke, nato preglej celoten dan.",
+      "bullets": [
+        "Hiter vnos obrokov",
+        "Dnevni povzetek",
+        "Fotografija in črtna koda",
+        "Makrohranila"
+      ],
+      "sections": [
+        [
+          "Obroki",
+          "Hitro zabeleži zajtrk, kosilo, večerjo in prigrizke, nato preglej celoten dan."
+        ],
+        [
+          "Na kaj bodi pozoren",
+          "Prehranske vrednosti so ocene. Dejanski rezultat je odvisen od znamke, recepta, priprave in velikosti porcije."
+        ],
+        [
+          "Prenesi",
+          "Prenesi Calorie Counter AI za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku."
+        ]
+      ],
+      "workflowTitle": "Spremljaj obroke s fotografijami in dnevnikom",
+      "workflow": [
+        "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+        "Spremljaj kalorije, beljakovine, maščobe in ogljikove hidrate ob svojem dnevnem cilju."
+      ],
+      "note": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "bestFor": [
+        "zajtrk",
+        "kosilo",
+        "večerja",
+        "prigrizki"
+      ],
+      "workflowKicker": "Praktičen potek",
+      "noteTitle": "Dobro je vedeti"
+    },
+    "/photo-food-journal/": {
+      "title": "Foto prehranski dnevnik",
+      "h1": "Dnevnik obrokov s fotografijami",
+      "description": "Fotografije pomagajo, da si zapomniš, kaj si jedel, in lažje opaziš ponavljajoče se navade.",
+      "kicker": "Foto dnevnik",
+      "summary": "Fotografije pomagajo, da si zapomniš, kaj si jedel, in lažje opaziš ponavljajoče se navade.",
+      "bullets": [
+        "Vizualni vnosi",
+        "Hiter pregled",
+        "Vidne navade",
+        "Manj tipkanja"
+      ],
+      "sections": [
+        [
+          "Foto dnevnik",
+          "Fotografije pomagajo, da si zapomniš, kaj si jedel, in lažje opaziš ponavljajoče se navade."
+        ],
+        [
+          "Na kaj bodi pozoren",
+          "Prehranske vrednosti so ocene. Dejanski rezultat je odvisen od znamke, recepta, priprave in velikosti porcije."
+        ],
+        [
+          "Prenesi",
+          "Prenesi Calorie Counter AI za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku."
+        ]
+      ],
+      "workflowTitle": "Dnevnik obrokov s fotografijami",
+      "workflow": [
+        "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+        "Spremljaj kalorije, beljakovine, maščobe in ogljikove hidrate ob svojem dnevnem cilju."
+      ],
+      "note": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "bestFor": [
+        "vizualni dnevnik",
+        "navade",
+        "hitra preverba",
+        "dnevna uporaba"
+      ],
+      "workflowKicker": "Praktičen potek",
+      "noteTitle": "Dobro je vedeti"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Sledenje zdravi prehrani",
+      "h1": "Zavestnejša prehrana s kalorijami in makrohranili",
+      "description": "Dnevnik uporabljaj kot povratno informacijo, ne kot obsodbo: vidiš, kaj podpira tvoje cilje.",
+      "kicker": "Zdrava prehrana",
+      "summary": "Dnevnik uporabljaj kot povratno informacijo, ne kot obsodbo: vidiš, kaj podpira tvoje cilje.",
+      "bullets": [
+        "Zavestnejše odločitve",
+        "Jasna makrohranila",
+        "Stalna povratna informacija",
+        "Prilagodljiv dnevnik"
+      ],
+      "sections": [
+        [
+          "Zdrava prehrana",
+          "Dnevnik uporabljaj kot povratno informacijo, ne kot obsodbo: vidiš, kaj podpira tvoje cilje."
+        ],
+        [
+          "Na kaj bodi pozoren",
+          "Prehranske vrednosti so ocene. Dejanski rezultat je odvisen od znamke, recepta, priprave in velikosti porcije."
+        ],
+        [
+          "Prenesi",
+          "Prenesi Calorie Counter AI za iPhone ali Android in naslednjo fotografijo hrane spremeni v vnos v dnevniku."
+        ]
+      ],
+      "workflowTitle": "Zavestnejša prehrana s kalorijami in makrohranili",
+      "workflow": [
+        "Fotografiraj obrok, preveri AI oceno in po potrebi prilagodi porcijo ali sestavine.",
+        "Spremljaj kalorije, beljakovine, maščobe in ogljikove hidrate ob svojem dnevnem cilju."
+      ],
+      "note": "Prehranske ocene so informativne in ne nadomeščajo nasveta zdravnika, dietetika ali drugega zdravstvenega strokovnjaka.",
+      "bestFor": [
+        "zavestna prehrana",
+        "boljša rutina",
+        "nadzor porcije",
+        "dolgoročni trendi"
+      ],
+      "workflowKicker": "Praktičen potek",
+      "noteTitle": "Dobro je vedeti"
+    },
+    "/blog/": {
+      "title": "Vodniki",
+      "h1": "Vodniki za kalorije in prehranski dnevnik",
+      "description": "Praktični članki o fotografijah, makrohranilih, porcijah in kalorijskem primanjkljaju.",
+      "kicker": "Učenje"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Kako šteti kalorije iz fotografije",
+      "h1": "Kako šteti kalorije iz fotografije",
+      "description": "Kako šteti kalorije iz fotografije: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "category": "Vodnik",
+      "readTime": "4 min branja",
+      "intro": "Kako šteti kalorije iz fotografije: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "sections": [
+        [
+          "Zakaj je pomembno",
+          "Dober prehranski dnevnik ne rabi biti popoln. Pomembna je dosledna, preverljiva ocena, ki jo lahko urediš."
+        ],
+        [
+          "Kako uporabiti fotografijo",
+          "Fotografiraj obrok pri dobri svetlobi, preveri prepoznana živila in prilagodi porcijo, če poznaš količino."
+        ],
+        [
+          "Kalorije in makrohranila",
+          "Kalorije glej skupaj z beljakovinami, maščobami in ogljikovimi hidrati, zlasti pri hujšanju, vzdrževanju ali pridobivanju mišične mase."
+        ],
+        [
+          "Omejitve",
+          "AI ocene so informativne. Skrite sestavine, olje, omake in način priprave lahko spremenijo rezultat."
+        ]
+      ],
+      "takeaway": "Najboljši rezultat nastane s kombinacijo fotografije, preverjanja porcije in ročnih popravkov."
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Kako natančni so AI števci kalorij?",
+      "h1": "Kako natančni so AI števci kalorij?",
+      "description": "Kako natančni so AI števci kalorij?: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "category": "Vodnik",
+      "readTime": "4 min branja",
+      "intro": "Kako natančni so AI števci kalorij?: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "sections": [
+        [
+          "Zakaj je pomembno",
+          "Dober prehranski dnevnik ne rabi biti popoln. Pomembna je dosledna, preverljiva ocena, ki jo lahko urediš."
+        ],
+        [
+          "Kako uporabiti fotografijo",
+          "Fotografiraj obrok pri dobri svetlobi, preveri prepoznana živila in prilagodi porcijo, če poznaš količino."
+        ],
+        [
+          "Kalorije in makrohranila",
+          "Kalorije glej skupaj z beljakovinami, maščobami in ogljikovimi hidrati, zlasti pri hujšanju, vzdrževanju ali pridobivanju mišične mase."
+        ],
+        [
+          "Omejitve",
+          "AI ocene so informativne. Skrite sestavine, olje, omake in način priprave lahko spremenijo rezultat."
+        ]
+      ],
+      "takeaway": "Najboljši rezultat nastane s kombinacijo fotografije, preverjanja porcije in ročnih popravkov."
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "AI števec kalorij ali ročno beleženje?",
+      "h1": "AI števec kalorij ali ročno beleženje?",
+      "description": "AI števec kalorij ali ročno beleženje?: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "category": "Vodnik",
+      "readTime": "4 min branja",
+      "intro": "AI števec kalorij ali ročno beleženje?: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "sections": [
+        [
+          "Zakaj je pomembno",
+          "Dober prehranski dnevnik ne rabi biti popoln. Pomembna je dosledna, preverljiva ocena, ki jo lahko urediš."
+        ],
+        [
+          "Kako uporabiti fotografijo",
+          "Fotografiraj obrok pri dobri svetlobi, preveri prepoznana živila in prilagodi porcijo, če poznaš količino."
+        ],
+        [
+          "Kalorije in makrohranila",
+          "Kalorije glej skupaj z beljakovinami, maščobami in ogljikovimi hidrati, zlasti pri hujšanju, vzdrževanju ali pridobivanju mišične mase."
+        ],
+        [
+          "Omejitve",
+          "AI ocene so informativne. Skrite sestavine, olje, omake in način priprave lahko spremenijo rezultat."
+        ]
+      ],
+      "takeaway": "Najboljši rezultat nastane s kombinacijo fotografije, preverjanja porcije in ročnih popravkov."
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Skener kalorij v hrani",
+      "h1": "Skener kalorij v hrani",
+      "description": "Skener kalorij v hrani: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "category": "Vodnik",
+      "readTime": "4 min branja",
+      "intro": "Skener kalorij v hrani: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "sections": [
+        [
+          "Zakaj je pomembno",
+          "Dober prehranski dnevnik ne rabi biti popoln. Pomembna je dosledna, preverljiva ocena, ki jo lahko urediš."
+        ],
+        [
+          "Kako uporabiti fotografijo",
+          "Fotografiraj obrok pri dobri svetlobi, preveri prepoznana živila in prilagodi porcijo, če poznaš količino."
+        ],
+        [
+          "Kalorije in makrohranila",
+          "Kalorije glej skupaj z beljakovinami, maščobami in ogljikovimi hidrati, zlasti pri hujšanju, vzdrževanju ali pridobivanju mišične mase."
+        ],
+        [
+          "Omejitve",
+          "AI ocene so informativne. Skrite sestavine, olje, omake in način priprave lahko spremenijo rezultat."
+        ]
+      ],
+      "takeaway": "Najboljši rezultat nastane s kombinacijo fotografije, preverjanja porcije in ročnih popravkov."
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Kako spremljati makrohranila za začetnike",
+      "h1": "Kako spremljati makrohranila za začetnike",
+      "description": "Kako spremljati makrohranila za začetnike: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "category": "Vodnik",
+      "readTime": "4 min branja",
+      "intro": "Kako spremljati makrohranila za začetnike: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "sections": [
+        [
+          "Zakaj je pomembno",
+          "Dober prehranski dnevnik ne rabi biti popoln. Pomembna je dosledna, preverljiva ocena, ki jo lahko urediš."
+        ],
+        [
+          "Kako uporabiti fotografijo",
+          "Fotografiraj obrok pri dobri svetlobi, preveri prepoznana živila in prilagodi porcijo, če poznaš količino."
+        ],
+        [
+          "Kalorije in makrohranila",
+          "Kalorije glej skupaj z beljakovinami, maščobami in ogljikovimi hidrati, zlasti pri hujšanju, vzdrževanju ali pridobivanju mišične mase."
+        ],
+        [
+          "Omejitve",
+          "AI ocene so informativne. Skrite sestavine, olje, omake in način priprave lahko spremenijo rezultat."
+        ]
+      ],
+      "takeaway": "Najboljši rezultat nastane s kombinacijo fotografije, preverjanja porcije in ročnih popravkov."
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Kalorije in makrohranila: kakšna je razlika?",
+      "h1": "Kalorije in makrohranila: kakšna je razlika?",
+      "description": "Kalorije in makrohranila: kakšna je razlika?: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "category": "Vodnik",
+      "readTime": "4 min branja",
+      "intro": "Kalorije in makrohranila: kakšna je razlika?: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "sections": [
+        [
+          "Zakaj je pomembno",
+          "Dober prehranski dnevnik ne rabi biti popoln. Pomembna je dosledna, preverljiva ocena, ki jo lahko urediš."
+        ],
+        [
+          "Kako uporabiti fotografijo",
+          "Fotografiraj obrok pri dobri svetlobi, preveri prepoznana živila in prilagodi porcijo, če poznaš količino."
+        ],
+        [
+          "Kalorije in makrohranila",
+          "Kalorije glej skupaj z beljakovinami, maščobami in ogljikovimi hidrati, zlasti pri hujšanju, vzdrževanju ali pridobivanju mišične mase."
+        ],
+        [
+          "Omejitve",
+          "AI ocene so informativne. Skrite sestavine, olje, omake in način priprave lahko spremenijo rezultat."
+        ]
+      ],
+      "takeaway": "Najboljši rezultat nastane s kombinacijo fotografije, preverjanja porcije in ročnih popravkov."
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Kako šteti kalorije v domači hrani",
+      "h1": "Kako šteti kalorije v domači hrani",
+      "description": "Kako šteti kalorije v domači hrani: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "category": "Vodnik",
+      "readTime": "4 min branja",
+      "intro": "Kako šteti kalorije v domači hrani: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "sections": [
+        [
+          "Zakaj je pomembno",
+          "Dober prehranski dnevnik ne rabi biti popoln. Pomembna je dosledna, preverljiva ocena, ki jo lahko urediš."
+        ],
+        [
+          "Kako uporabiti fotografijo",
+          "Fotografiraj obrok pri dobri svetlobi, preveri prepoznana živila in prilagodi porcijo, če poznaš količino."
+        ],
+        [
+          "Kalorije in makrohranila",
+          "Kalorije glej skupaj z beljakovinami, maščobami in ogljikovimi hidrati, zlasti pri hujšanju, vzdrževanju ali pridobivanju mišične mase."
+        ],
+        [
+          "Omejitve",
+          "AI ocene so informativne. Skrite sestavine, olje, omake in način priprave lahko spremenijo rezultat."
+        ]
+      ],
+      "takeaway": "Najboljši rezultat nastane s kombinacijo fotografije, preverjanja porcije in ročnih popravkov."
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Kako oceniti velikost porcije",
+      "h1": "Kako oceniti velikost porcije",
+      "description": "Kako oceniti velikost porcije: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "category": "Vodnik",
+      "readTime": "4 min branja",
+      "intro": "Kako oceniti velikost porcije: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "sections": [
+        [
+          "Zakaj je pomembno",
+          "Dober prehranski dnevnik ne rabi biti popoln. Pomembna je dosledna, preverljiva ocena, ki jo lahko urediš."
+        ],
+        [
+          "Kako uporabiti fotografijo",
+          "Fotografiraj obrok pri dobri svetlobi, preveri prepoznana živila in prilagodi porcijo, če poznaš količino."
+        ],
+        [
+          "Kalorije in makrohranila",
+          "Kalorije glej skupaj z beljakovinami, maščobami in ogljikovimi hidrati, zlasti pri hujšanju, vzdrževanju ali pridobivanju mišične mase."
+        ],
+        [
+          "Omejitve",
+          "AI ocene so informativne. Skrite sestavine, olje, omake in način priprave lahko spremenijo rezultat."
+        ]
+      ],
+      "takeaway": "Najboljši rezultat nastane s kombinacijo fotografije, preverjanja porcije in ročnih popravkov."
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Koliko kalorij naj pojem na dan?",
+      "h1": "Koliko kalorij naj pojem na dan?",
+      "description": "Koliko kalorij naj pojem na dan?: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "category": "Vodnik",
+      "readTime": "4 min branja",
+      "intro": "Koliko kalorij naj pojem na dan?: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "sections": [
+        [
+          "Zakaj je pomembno",
+          "Dober prehranski dnevnik ne rabi biti popoln. Pomembna je dosledna, preverljiva ocena, ki jo lahko urediš."
+        ],
+        [
+          "Kako uporabiti fotografijo",
+          "Fotografiraj obrok pri dobri svetlobi, preveri prepoznana živila in prilagodi porcijo, če poznaš količino."
+        ],
+        [
+          "Kalorije in makrohranila",
+          "Kalorije glej skupaj z beljakovinami, maščobami in ogljikovimi hidrati, zlasti pri hujšanju, vzdrževanju ali pridobivanju mišične mase."
+        ],
+        [
+          "Omejitve",
+          "AI ocene so informativne. Skrite sestavine, olje, omake in način priprave lahko spremenijo rezultat."
+        ]
+      ],
+      "takeaway": "Najboljši rezultat nastane s kombinacijo fotografije, preverjanja porcije in ročnih popravkov."
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Kaj je kalorijski primanjkljaj?",
+      "h1": "Kaj je kalorijski primanjkljaj?",
+      "description": "Kaj je kalorijski primanjkljaj?: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "category": "Vodnik",
+      "readTime": "4 min branja",
+      "intro": "Kaj je kalorijski primanjkljaj?: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "sections": [
+        [
+          "Zakaj je pomembno",
+          "Dober prehranski dnevnik ne rabi biti popoln. Pomembna je dosledna, preverljiva ocena, ki jo lahko urediš."
+        ],
+        [
+          "Kako uporabiti fotografijo",
+          "Fotografiraj obrok pri dobri svetlobi, preveri prepoznana živila in prilagodi porcijo, če poznaš količino."
+        ],
+        [
+          "Kalorije in makrohranila",
+          "Kalorije glej skupaj z beljakovinami, maščobami in ogljikovimi hidrati, zlasti pri hujšanju, vzdrževanju ali pridobivanju mišične mase."
+        ],
+        [
+          "Omejitve",
+          "AI ocene so informativne. Skrite sestavine, olje, omake in način priprave lahko spremenijo rezultat."
+        ]
+      ],
+      "takeaway": "Najboljši rezultat nastane s kombinacijo fotografije, preverjanja porcije in ročnih popravkov."
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Pogoste napake pri štetju kalorij",
+      "h1": "Pogoste napake pri štetju kalorij",
+      "description": "Pogoste napake pri štetju kalorij: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "category": "Vodnik",
+      "readTime": "4 min branja",
+      "intro": "Pogoste napake pri štetju kalorij: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "sections": [
+        [
+          "Zakaj je pomembno",
+          "Dober prehranski dnevnik ne rabi biti popoln. Pomembna je dosledna, preverljiva ocena, ki jo lahko urediš."
+        ],
+        [
+          "Kako uporabiti fotografijo",
+          "Fotografiraj obrok pri dobri svetlobi, preveri prepoznana živila in prilagodi porcijo, če poznaš količino."
+        ],
+        [
+          "Kalorije in makrohranila",
+          "Kalorije glej skupaj z beljakovinami, maščobami in ogljikovimi hidrati, zlasti pri hujšanju, vzdrževanju ali pridobivanju mišične mase."
+        ],
+        [
+          "Omejitve",
+          "AI ocene so informativne. Skrite sestavine, olje, omake in način priprave lahko spremenijo rezultat."
+        ]
+      ],
+      "takeaway": "Najboljši rezultat nastane s kombinacijo fotografije, preverjanja porcije in ročnih popravkov."
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Kako beležiti hrano iz restavracije",
+      "h1": "Kako beležiti hrano iz restavracije",
+      "description": "Kako beležiti hrano iz restavracije: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "category": "Vodnik",
+      "readTime": "4 min branja",
+      "intro": "Kako beležiti hrano iz restavracije: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "sections": [
+        [
+          "Zakaj je pomembno",
+          "Dober prehranski dnevnik ne rabi biti popoln. Pomembna je dosledna, preverljiva ocena, ki jo lahko urediš."
+        ],
+        [
+          "Kako uporabiti fotografijo",
+          "Fotografiraj obrok pri dobri svetlobi, preveri prepoznana živila in prilagodi porcijo, če poznaš količino."
+        ],
+        [
+          "Kalorije in makrohranila",
+          "Kalorije glej skupaj z beljakovinami, maščobami in ogljikovimi hidrati, zlasti pri hujšanju, vzdrževanju ali pridobivanju mišične mase."
+        ],
+        [
+          "Omejitve",
+          "AI ocene so informativne. Skrite sestavine, olje, omake in način priprave lahko spremenijo rezultat."
+        ]
+      ],
+      "takeaway": "Najboljši rezultat nastane s kombinacijo fotografije, preverjanja porcije in ročnih popravkov."
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Kako spremljati beljakovine",
+      "h1": "Kako spremljati beljakovine",
+      "description": "Kako spremljati beljakovine: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "category": "Vodnik",
+      "readTime": "4 min branja",
+      "intro": "Kako spremljati beljakovine: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "sections": [
+        [
+          "Zakaj je pomembno",
+          "Dober prehranski dnevnik ne rabi biti popoln. Pomembna je dosledna, preverljiva ocena, ki jo lahko urediš."
+        ],
+        [
+          "Kako uporabiti fotografijo",
+          "Fotografiraj obrok pri dobri svetlobi, preveri prepoznana živila in prilagodi porcijo, če poznaš količino."
+        ],
+        [
+          "Kalorije in makrohranila",
+          "Kalorije glej skupaj z beljakovinami, maščobami in ogljikovimi hidrati, zlasti pri hujšanju, vzdrževanju ali pridobivanju mišične mase."
+        ],
+        [
+          "Omejitve",
+          "AI ocene so informativne. Skrite sestavine, olje, omake in način priprave lahko spremenijo rezultat."
+        ]
+      ],
+      "takeaway": "Najboljši rezultat nastane s kombinacijo fotografije, preverjanja porcije in ročnih popravkov."
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Kaj je prehranski dnevnik?",
+      "h1": "Kaj je prehranski dnevnik?",
+      "description": "Kaj je prehranski dnevnik?: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "category": "Vodnik",
+      "readTime": "4 min branja",
+      "intro": "Kaj je prehranski dnevnik?: praktičen vodnik za oceno kalorij, makrohranil in porcij brez zapletanja prehranskega dnevnika.",
+      "sections": [
+        [
+          "Zakaj je pomembno",
+          "Dober prehranski dnevnik ne rabi biti popoln. Pomembna je dosledna, preverljiva ocena, ki jo lahko urediš."
+        ],
+        [
+          "Kako uporabiti fotografijo",
+          "Fotografiraj obrok pri dobri svetlobi, preveri prepoznana živila in prilagodi porcijo, če poznaš količino."
+        ],
+        [
+          "Kalorije in makrohranila",
+          "Kalorije glej skupaj z beljakovinami, maščobami in ogljikovimi hidrati, zlasti pri hujšanju, vzdrževanju ali pridobivanju mišične mase."
+        ],
+        [
+          "Omejitve",
+          "AI ocene so informativne. Skrite sestavine, olje, omake in način priprave lahko spremenijo rezultat."
+        ]
+      ],
+      "takeaway": "Najboljši rezultat nastane s kombinacijo fotografije, preverjanja porcije in ročnih popravkov."
+    },
+    "/download/": {
+      "title": "Prenesi aplikacijo",
+      "h1": "Prenesi Calorie Counter AI",
+      "description": "Prenesi AI števec kalorij za iPhone ali Android in začni beležiti obroke s fotografijo.",
+      "kicker": "Prenos"
+    },
+    "/faq/": {
+      "title": "Pogosta vprašanja",
+      "h1": "Pogosta vprašanja",
+      "description": "Odgovori o štetju kalorij iz fotografije, natančnosti, makrohranilih, črtnih kodah in zasebnosti.",
+      "kicker": "Pogosta vprašanja"
+    },
+    "/pricing/": {
+      "title": "Cene",
+      "h1": "Cene in možnosti aplikacije",
+      "description": "Začni brezplačno in v aplikaciji preveri trenutne premium možnosti, omejitve in nakupe.",
+      "kicker": "Cene"
+    },
+    "/support/": {
+      "title": "Podpora",
+      "h1": "Podpora za Calorie Counter AI",
+      "description": "Potrebuješ pomoč? Pripravi različico aplikacije, napravo in kratek opis težave.",
+      "kicker": "Podpora"
+    },
+    "/contact/": {
+      "title": "Kontakt",
+      "h1": "Kontaktiraj Calorie Counter AI",
+      "description": "Kontakt za podporo, medije, partnerstva in povratne informacije o aplikaciji.",
+      "kicker": "Kontakt"
+    },
+    "/privacy-policy/": {
+      "title": "Pravilnik o zasebnosti",
+      "h1": "Pravilnik o zasebnosti",
+      "description": "Pregled, kako Calorie Counter AI obdeluje podatke, potrebne za prehranski dnevnik in delovanje storitve.",
+      "kicker": "Zasebnost"
+    },
+    "/terms/": {
+      "title": "Pogoji",
+      "h1": "Pogoji uporabe",
+      "description": "Pravila za uporabo aplikacije Calorie Counter AI in informativnih prehranskih ocen.",
+      "kicker": "Pogoji"
+    },
+    "/health-disclaimer/": {
+      "title": "Zdravstveno opozorilo",
+      "h1": "Zdravstveno opozorilo",
+      "description": "Prehranske ocene so informativne in ne nadomeščajo strokovnega zdravstvenega ali dietetičnega nasveta.",
+      "kicker": "Opozorilo"
+    },
+    "/delete-account/": {
+      "title": "Izbris računa",
+      "h1": "Kako zahtevati izbris računa",
+      "description": "Koraki za zahtevo izbrisa računa in povezanih podatkov v Calorie Counter AI.",
+      "kicker": "Račun"
+    },
+    "/press/": {
+      "title": "Gradivo za medije",
+      "h1": "Gradivo za medije Calorie Counter AI",
+      "description": "Kratek opis, ikona in posnetki aplikacije za medije in partnerje.",
+      "kicker": "Mediji"
+    },
+    "/how-many-calories-in/": {
+      "title": "Kalorije v hrani",
+      "h1": "Koliko kalorij ima hrana?",
+      "description": "Preglej informativne kalorije, makrohranila in običajne porcije za priljubljena živila, jedi in pijače.",
+      "kicker": "Kalorije"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Nastavitve piškotkov",
+    "text": "Uporabljamo nujne piškotke in localStorage za shranjevanje jezika ter izbire piškotkov. Z vašim soglasjem uporabljamo tudi analitične piškotke za izboljšanje strani.",
+    "accept": "Sprejmi",
+    "decline": "Zavrni analitiko"
+  }
+}

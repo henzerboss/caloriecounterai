@@ -1,0 +1,2619 @@
+{
+  "localeName": "Suomi",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "AI-kalorilaskuri ruokakuvasta"
+  },
+  "nav": {
+    "features": "Ominaisuudet",
+    "useCases": "Käyttötapaukset",
+    "blog": "Oppaat",
+    "faq": "UKK",
+    "download": "Lataa",
+    "language": "Valitse kieli",
+    "openMenu": "Avaa valikko",
+    "caloriesInFoods": "Ruokien kalorit",
+    "all": "Kaikki",
+    "allFeatures": "Kaikki ominaisuudet",
+    "allUseCases": "Kaikki käyttötapaukset",
+    "allLearn": "Kaikki oppaat",
+    "openHub": "Avaa osio →",
+    "home": "Etusivu"
+  },
+  "cta": {
+    "appStore": "Lataa App Storesta",
+    "googlePlay": "Lataa Google Playsta",
+    "downloadNow": "Lataa nyt",
+    "tryFree": "Kokeile ilmaiseksi",
+    "learnMore": "Lue lisää",
+    "learnMoreArrow": "Lue lisää →",
+    "readGuide": "Lue opas"
+  },
+  "home": {
+    "title": "Laske kalorit tekoälyllä ruokakuvasta",
+    "description": "Ota kuva ateriasta ja saat muokattavan arvion kaloreista, proteiinista, rasvasta, hiilihydraateista ja annoskoosta muutamassa sekunnissa.",
+    "heroNote": "Aloita maksutta päivittäisillä AI-ruoka-analyyseillä. Saatavilla iPhonelle ja Androidille.",
+    "photoEyebrow": "Pääominaisuus",
+    "photoTitle": "Kalorilaskuri kuvasta",
+    "photoText": "Jokaista raaka-ainetta ei tarvitse etsiä käsin. Ota kuva ruoasta, tarkista AI-arvio ja tallenna ateria ruokapäiväkirjaan.",
+    "photoChecklist": [
+      "Arvioi kalorit ruokakuvasta",
+      "Näe proteiini, rasva ja hiilihydraatit",
+      "Tarkista ja korjaa tulos ennen tallennusta",
+      "Pidä visuaalista ruokapäiväkirjaa"
+    ],
+    "featureCards": [
+      [
+        "camera",
+        "Kirjaa ateria kuvalla",
+        "Kuvaa ateria, tarkista arvio ja tallenna se ilman, että etsit jokaista ruokaa erikseen."
+      ],
+      [
+        "sparkles",
+        "AI-arvio aterioille",
+        "Saat nopeasti suuntaa antavan arvion kaloreista, makroista ja annoskoosta, kun etikettiä tai tarkkaa reseptiä ei ole."
+      ],
+      [
+        "shield",
+        "Maksuttomia analyysejä joka päivä",
+        "Kokeile tärkeintä AI-työnkulkua päivittäin ja nosta rajoja vain, jos tarvitset enemmän."
+      ],
+      [
+        "barcode",
+        "Pakatut tuotteet",
+        "Skannaa jogurtit, juomat, välipalat, valmisruoat ja muut kaupan tuotteet viivakoodilla."
+      ],
+      [
+        "macro",
+        "Makrot näkyvissä",
+        "Seuraa proteiinia, rasvaa ja hiilihydraatteja päivittäisen kalorimäärän rinnalla."
+      ],
+      [
+        "diary",
+        "Visuaalinen päiväkirja",
+        "Palaa mihin tahansa päivään, katso aterioita kuvina ja huomaa toistuvat ruokailutottumukset."
+      ]
+    ],
+    "foodPreviewTitle": "Kuinka paljon kaloreita tavallisissa ruoissa on?",
+    "foodPreviewText": "Nopeat kalori- ja makroarviot arjen aterioille, välipaloille ja juomille.",
+    "foodPreviewLink": "Avaa koko kaloriopas →",
+    "goalEyebrow": "Tavoite hallinnassa",
+    "counterTitle": "Yksinkertainen kalorilaskuri arkeen",
+    "counterText": "Hyödynnä kuvia, viivakoodeja, suosikkiaterioita ja selkeää päiväkirjaa, jotta ruoan seuranta ei tunnu ylimääräiseltä työltä.",
+    "goalPills": [
+      "Painonpudotus",
+      "Painon ylläpito",
+      "Lihasmassan kasvatus",
+      "Kiireiset päivät"
+    ],
+    "magicEyebrow": "Miksi se tuntuu helpommalta",
+    "magicTitle": "Kirjaa ruoka kolmessa vaiheessa",
+    "magicText": "Ota kuva, tarkista arvio ja tallenna merkintä. Mitä vähemmän käsinsyöttöä tarvitaan, sitä helpompi päiväkirjaa on jatkaa joka päivä.",
+    "magicSteps": [
+      "Ota kuva",
+      "Tarkista",
+      "Tallenna"
+    ],
+    "barcodeEyebrow": "Pakatut elintarvikkeet",
+    "barcodeTitle": "Ruokien viivakoodinlukija",
+    "barcodeText": "Onko tuotteessa viivakoodi? Skannaa pakkaus, vahvista tuote ja lisää kalorit, proteiini, rasva ja hiilihydraatit päiväkirjaan muutamassa sekunnissa.",
+    "barcodeLink": "Lue lisää viivakoodinlukijasta →",
+    "progressEyebrow": "Selkeää seurantaa",
+    "macroTitle": "Seuraa kaloreita ja makroja",
+    "macroText": "Näe kalorit, proteiini, rasva ja hiilihydraatit samassa näkymässä ja vertaile päiviä, viikkoja ja kuukausia.",
+    "macroLink": "Avaa makroseurannan sivu →",
+    "useCasesEyebrow": "Miksi käyttää Calorie Counter AI:ta",
+    "useCasesTitle": "Ravitsemustavoitteet todelliseen arkeen",
+    "useCasesText": "Halusitpa pudottaa painoa, ylläpitää nykyistä tasoa, kasvattaa lihasta tai ymmärtää ruokailua paremmin, sovellus muuttaa ateriat selkeäksi päivittäiseksi palautteeksi.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Painonpudotus",
+        "Näe, kuinka paljon kaloreita sinulla on jäljellä suhteessa päivittäiseen tavoitteeseen."
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Kotiruoka",
+        "Arvioi sekaruoat ja reseptit, joilla ei ole ravintoarvomerkintää."
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Ravintolaruoka",
+        "Kirjaa ravintola-annokset nopealla kuva-arviolla."
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Lihasmassan kasvatus",
+        "Pidä proteiini ja kalorit näkyvissä, kun syöt energiaylijäämällä."
+      ]
+    ],
+    "downloadTitle": "Aloita kalorien laskeminen AI:n avulla jo tänään",
+    "downloadText": "Lataa sovellus iPhonelle tai Androidille ja muuta seuraava ruokakuva päiväkirjamerkinnäksi.",
+    "faqEyebrow": "UKK",
+    "faqTitle": "Kysymyksiä ennen lataamista?",
+    "faq": [
+      [
+        "Onko Calorie Counter AI ilmainen?",
+        "Voit aloittaa ilmaiseksi päivittäisillä AI-aterianalyyseillä. Premium-ominaisuuksia ja korkeampia rajoja voi olla saatavilla maksullisessa versiossa."
+      ],
+      [
+        "Voinko laskea kalorit kuvasta?",
+        "Kyllä. Ota kuva lautasesta, niin sovellus arvioi näkyvien ruokien kalorit, makrot ja annospainon."
+      ],
+      [
+        "Kuinka tarkka AI-kalorilaskuri on?",
+        "Se on suuntaa antava arvio. Tarkkuuteen vaikuttavat kuvan laatu, näkyvä annos, piilossa olevat ainesosat, kastikkeet ja omat korjauksesi."
+      ],
+      [
+        "Seuraako sovellus makroja?",
+        "Kyllä. Päiväkirjassa näet proteiinin, rasvan ja hiilihydraatit kalorien rinnalla."
+      ],
+      [
+        "Onko sovellus saatavilla iPhonelle ja Androidille?",
+        "Kyllä. Sovellus on saatavilla App Storessa ja Google Playssa."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "AI-kalorilaskuri ruokakuvasta | Calorie Counter AI",
+    "homeOgTitle": "Laske kalorit tekoälyllä ruokakuvasta",
+    "homeDescription": "Laske kalorit AI:n avulla: arvioi kalorit, makrot ja annoskoot ruokakuvasta, skannaa viivakoodeja ja pidä ruokapäiväkirjaa."
+  },
+  "footer": {
+    "disclaimer": "Ravintoarvioita tulee pitää suuntaa antavina. Ne eivät korvaa lääkärin, ravitsemusterapeutin tai muun terveydenhuollon ammattilaisen neuvoja.",
+    "copyright": "© 2026 Calorie Counter AI. Kaikki oikeudet pidätetään."
+  },
+  "foodIndex": {
+    "findTitle": "Kalorit, makrot ja realistiset annokset",
+    "findText": "Katso suuntaa antavia arvoja tavallisille ruoille ja vinkkejä niiden kirjaamiseen järkevillä annoksilla.",
+    "categoryIntro": "Suosittuja kalori- ja makrohakuja tässä kategoriassa."
+  },
+  "foodPage": {
+    "eyebrow": "Kaloriopas",
+    "trackInApp": "Lisää sovelluksessa",
+    "browseFoods": "Selaa ruokia →",
+    "typicalEstimate": "Suuntaa antava arvio. Todelliset arvot riippuvat merkistä, reseptistä ja annoskoosta.",
+    "caloriesMacros": "Kalorit ja makrot",
+    "whenFits": "Milloin se sopii?",
+    "whatToWatch": "Mitä kannattaa huomioida?",
+    "howToLog": "Näin kirjaat tarkemmin",
+    "helpfulContext": "Hyvä tietää",
+    "faq": "UKK",
+    "weightLossQuestion": "Sopiiko tämä painonpudotukseen?",
+    "variabilityQuestion": "Mikä vaikuttaa kaloreihin eniten?",
+    "logFasterTitle": "Kirjaa ateriat nopeammin",
+    "logFasterText": "Käytä Calorie Counter AI:ta: ota kuva ruoasta, saat luonnoksen ja voit tarvittaessa korjata annosta, kastiketta tai tuotemerkkiä.",
+    "photoTrackingLink": "Näin kalorilaskenta kuvasta toimii →",
+    "macros": {
+      "protein": "Proteiini",
+      "fat": "Rasva",
+      "carbs": "Hiilihydraatit"
+    },
+    "titleTemplate": "Kuinka paljon kaloreita on ruoassa {namePrep}?",
+    "h1Template": "Kuinka paljon kaloreita on ruoassa {namePrep}?",
+    "descriptionTemplate": "{name}: kalorit, proteiini, rasva ja hiilihydraatit annokselle ”{serving}” sekä vinkit sen kirjaamiseen ruokapäiväkirjaan.",
+    "heroIntroTemplate": "Noin {calories} {kcal} per annos: {servingLower}. Käytä arvoa lähtökohtana ja säädä sitä tuotemerkin, reseptin, valmistustavan ja annoskoon mukaan.",
+    "macroParagraphTemplate": "{name}: noin {calories} {kcal} annoksessa ”{servingLower}”. Tämä annos sisältää arviolta {protein} {gram} proteiinia, {fat} {gram} rasvaa ja {carbs} {gram} hiilihydraatteja{fiberText}.",
+    "per100Template": "Vertailun vuoksi per 100 {gram}: noin {calories} {kcal}, {protein} {gram} proteiinia, {fat} {gram} rasvaa ja {carbs} {gram} hiilihydraatteja.",
+    "calorieLevelTemplate": "Käytä annosta ohjearvona: noin {calories} {kcal} annokselle ”{servingLower}”."
+  },
+  "foodCategories": {
+    "Fruit": "Hedelmät",
+    "Protein foods": "Proteiinipitoiset ruoat",
+    "Fruits and fats": "Hedelmät ja rasvat",
+    "Grains and starches": "Viljat ja tärkkelyspitoiset ruoat",
+    "Nuts and spreads": "Pähkinät ja levitteet",
+    "Breakfast foods": "Aamiaisruoat",
+    "Dairy": "Maitotuotteet",
+    "Restaurant meals": "Ravintola-ateriat",
+    "Fast food": "Pikaruoka",
+    "Legumes and plant protein": "Palkokasvit ja kasviproteiini",
+    "Desserts": "Jälkiruoat",
+    "Snacks": "Välipalat",
+    "Drinks": "Juomat",
+    "Vegetables": "Vihannekset",
+    "Sauces and condiments": "Kastikkeet ja mausteet",
+    "Mixed dishes": "Sekoitetut ruoat"
+  },
+  "foods": {
+    "banana": {
+      "name": "Banaani",
+      "namePrep": "banaanissa",
+      "serving": "1 keskikokoinen banaani"
+    },
+    "apple": {
+      "name": "Omena",
+      "namePrep": "omenassa",
+      "serving": "1 keskikokoinen omena"
+    },
+    "egg": {
+      "name": "Kananmuna",
+      "namePrep": "kananmunassa",
+      "serving": "1 iso kananmuna"
+    },
+    "avocado": {
+      "name": "Avokado",
+      "namePrep": "avokadossa",
+      "serving": "1/2 keskikokoinen avokado"
+    },
+    "chicken-breast": {
+      "name": "Broilerin rintafilee",
+      "namePrep": "broilerin rintafileessä",
+      "serving": "100 g kypsää broilerin rintafileetä"
+    },
+    "salmon": {
+      "name": "Lohi",
+      "namePrep": "lohessa",
+      "serving": "100 g kypsää lohta"
+    },
+    "white-rice": {
+      "name": "Valkoinen riisi",
+      "namePrep": "valkoisessa riisissä",
+      "serving": "1 kupillinen kypsää valkoista riisiä"
+    },
+    "brown-rice": {
+      "name": "Tumma riisi",
+      "namePrep": "tummassa riisissä",
+      "serving": "1 kupillinen kypsää tummaa riisiä"
+    },
+    "pasta": {
+      "name": "Pasta",
+      "namePrep": "pastassa",
+      "serving": "1 kupillinen keitettyä pastaa"
+    },
+    "potato": {
+      "name": "Peruna",
+      "namePrep": "perunassa",
+      "serving": "1 keskikokoinen uuniperuna"
+    },
+    "sweet-potato": {
+      "name": "Bataatti",
+      "namePrep": "bataatissa",
+      "serving": "1 keskikokoinen uunibataatti"
+    },
+    "bread": {
+      "name": "Leipä",
+      "namePrep": "leivässä",
+      "serving": "1 viipale leipää"
+    },
+    "peanut-butter": {
+      "name": "Maapähkinävoi",
+      "namePrep": "maapähkinävoissa",
+      "serving": "2 rkl maapähkinävoita"
+    },
+    "oatmeal": {
+      "name": "Kaurapuuro",
+      "namePrep": "kaurapuurossa",
+      "serving": "1 kulhollinen keitettyä kaurapuuroa"
+    },
+    "greek-yogurt": {
+      "name": "Kreikkalainen jogurtti",
+      "namePrep": "kreikkalaisessa jogurtissa",
+      "serving": "1 annos kreikkalaista jogurttia"
+    },
+    "yogurt": {
+      "name": "Jogurtti",
+      "namePrep": "jogurtissa",
+      "serving": "1 annos jogurttia"
+    },
+    "milk": {
+      "name": "Maito",
+      "namePrep": "maidossa",
+      "serving": "1 lasi maitoa"
+    },
+    "cheddar-cheese": {
+      "name": "Cheddarjuusto",
+      "namePrep": "cheddarjuustossa",
+      "serving": "1 viipale cheddarjuustoa"
+    },
+    "pizza": {
+      "name": "Pizza",
+      "namePrep": "pizzassa",
+      "serving": "1 pizzapala"
+    },
+    "burger": {
+      "name": "Burgeri",
+      "namePrep": "burgerissa",
+      "serving": "1 burgeri"
+    },
+    "french-fries": {
+      "name": "Ranskalaiset perunat",
+      "namePrep": "ranskalaisissa perunoissa",
+      "serving": "1 annos ranskalaisia"
+    },
+    "sushi-roll": {
+      "name": "Sushirulla",
+      "namePrep": "sushirullassa",
+      "serving": "1 sushirulla"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "tacossa",
+      "serving": "1 taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "burritossa",
+      "serving": "1 burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Kananugetit",
+      "namePrep": "kananugeteissa",
+      "serving": "6 kananugettia"
+    },
+    "hot-dog": {
+      "name": "Hot dog",
+      "namePrep": "hot dogissa",
+      "serving": "1 hot dog"
+    },
+    "steak": {
+      "name": "Pihvi",
+      "namePrep": "pihvissä",
+      "serving": "100 g kypsää pihviä"
+    },
+    "bacon": {
+      "name": "Pekoni",
+      "namePrep": "pekonissa",
+      "serving": "2 viipaletta pekonia"
+    },
+    "tuna": {
+      "name": "Tonnikala",
+      "namePrep": "tonnikalassa",
+      "serving": "100 g tonnikalaa"
+    },
+    "shrimp": {
+      "name": "Katkaravut",
+      "namePrep": "katkaravuissa",
+      "serving": "100 g katkarapuja"
+    },
+    "tofu": {
+      "name": "Tofu",
+      "namePrep": "tofussa",
+      "serving": "100 g tofua"
+    },
+    "lentils": {
+      "name": "Linssit",
+      "namePrep": "linsseissä",
+      "serving": "1 kupillinen keitettyjä linssejä"
+    },
+    "black-beans": {
+      "name": "Mustapavut",
+      "namePrep": "mustapavuissa",
+      "serving": "1 kupillinen keitettyjä mustapapuja"
+    },
+    "chickpeas": {
+      "name": "Kikherneet",
+      "namePrep": "kikherneissä",
+      "serving": "1 kupillinen keitettyjä kikherneitä"
+    },
+    "hummus": {
+      "name": "Hummus",
+      "namePrep": "hummuksessa",
+      "serving": "2 rkl hummusta"
+    },
+    "quinoa": {
+      "name": "Kvinoa",
+      "namePrep": "kvinoassa",
+      "serving": "1 kupillinen kypsää kvinoaa"
+    },
+    "tortilla": {
+      "name": "Tortilla",
+      "namePrep": "tortillassa",
+      "serving": "1 keskikokoinen tortilla"
+    },
+    "bagel": {
+      "name": "Bagel",
+      "namePrep": "bagelissa",
+      "serving": "1 bagel"
+    },
+    "croissant": {
+      "name": "Croissant",
+      "namePrep": "croissantissa",
+      "serving": "1 croissant"
+    },
+    "pancake": {
+      "name": "Pannukakut",
+      "namePrep": "pannukakuissa",
+      "serving": "2 pannukakkua"
+    },
+    "waffle": {
+      "name": "Vohveli",
+      "namePrep": "vohvelissa",
+      "serving": "1 vohveli"
+    },
+    "cereal": {
+      "name": "Aamiaismurot",
+      "namePrep": "aamiaismuroissa",
+      "serving": "1 kulhollinen muroja"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granolassa",
+      "serving": "1 annos granolaa"
+    },
+    "almonds": {
+      "name": "Mantelit",
+      "namePrep": "manteleissa",
+      "serving": "1 kourallinen manteleita"
+    },
+    "walnuts": {
+      "name": "Saksanpähkinät",
+      "namePrep": "saksanpähkinöissä",
+      "serving": "1 kourallinen saksanpähkinöitä"
+    },
+    "cashews": {
+      "name": "Cashewpähkinät",
+      "namePrep": "cashewpähkinöissä",
+      "serving": "1 kourallinen cashewpähkinöitä"
+    },
+    "chocolate": {
+      "name": "Suklaa",
+      "namePrep": "suklaassa",
+      "serving": "1 annos suklaata"
+    },
+    "ice-cream": {
+      "name": "Jäätelö",
+      "namePrep": "jäätelössä",
+      "serving": "1 pallo jäätelöä"
+    },
+    "cookie": {
+      "name": "Suklaahippukeksi",
+      "namePrep": "suklaahippukeksissä",
+      "serving": "1 suklaahippukeksi"
+    },
+    "donut": {
+      "name": "Kuorrutettu donitsi",
+      "namePrep": "kuorrutetussa donitsissa",
+      "serving": "1 kuorrutettu donitsi"
+    },
+    "muffin": {
+      "name": "Mustikkamuffinssi",
+      "namePrep": "mustikkamuffinssissa",
+      "serving": "1 mustikkamuffinssi"
+    },
+    "cake": {
+      "name": "Kakku",
+      "namePrep": "kakussa",
+      "serving": "1 pala kakkua"
+    },
+    "brownie": {
+      "name": "Brownie",
+      "namePrep": "browniessa",
+      "serving": "1 brownie"
+    },
+    "popcorn": {
+      "name": "Popcorn",
+      "namePrep": "popcornissa",
+      "serving": "1 kulhollinen popcornia"
+    },
+    "potato-chips": {
+      "name": "Perunalastut",
+      "namePrep": "perunalastuissa",
+      "serving": "1 annos perunalastuja"
+    },
+    "pretzels": {
+      "name": "Pretzelit",
+      "namePrep": "pretzeleissä",
+      "serving": "1 annos pretzeleitä"
+    },
+    "smoothie": {
+      "name": "Hedelmäsmoothie",
+      "namePrep": "hedelmäsmoothiessa",
+      "serving": "1 lasi hedelmäsmoothieta"
+    },
+    "orange-juice": {
+      "name": "Appelsiinimehu",
+      "namePrep": "appelsiinimehussa",
+      "serving": "1 lasi appelsiinimehua"
+    },
+    "soda": {
+      "name": "Virvoitusjuoma",
+      "namePrep": "virvoitusjuomassa",
+      "serving": "1 tölkki virvoitusjuomaa"
+    },
+    "latte": {
+      "name": "Latte",
+      "namePrep": "lattessa",
+      "serving": "1 latte"
+    },
+    "protein-shake": {
+      "name": "Proteiinijuoma",
+      "namePrep": "proteiinijuomassa",
+      "serving": "1 annos proteiinijuomaa"
+    },
+    "spaghetti-bolognese": {
+      "name": "Spaghetti bolognese",
+      "namePrep": "spaghetti bolognesessa",
+      "serving": "1 annos spaghetti bolognesea"
+    },
+    "ramen": {
+      "name": "Ramen",
+      "namePrep": "ramenissa",
+      "serving": "1 kulhollinen ramenia"
+    },
+    "pho": {
+      "name": "Pho-keitto",
+      "namePrep": "pho-keitossa",
+      "serving": "1 kulhollinen pho-keittoa"
+    },
+    "chicken-soup": {
+      "name": "Kanakeitto",
+      "namePrep": "kanakeitossa",
+      "serving": "1 kulhollinen kanakeittoa"
+    },
+    "caesar-salad": {
+      "name": "Caesarsalaatti",
+      "namePrep": "caesarsalaatissa",
+      "serving": "1 annos caesarsalaattia"
+    },
+    "green-salad": {
+      "name": "Vihersalaatti",
+      "namePrep": "vihersalaatissa",
+      "serving": "1 annos vihersalaattia"
+    },
+    "broccoli": {
+      "name": "Parsakaali",
+      "namePrep": "parsakaalissa",
+      "serving": "1 annos parsakaalia"
+    },
+    "spinach": {
+      "name": "Pinaatti",
+      "namePrep": "pinaatissa",
+      "serving": "1 annos pinaattia"
+    },
+    "carrots": {
+      "name": "Porkkanat",
+      "namePrep": "porkkanoissa",
+      "serving": "1 annos porkkanoita"
+    },
+    "corn": {
+      "name": "Maissi",
+      "namePrep": "maississa",
+      "serving": "1 annos maissia"
+    },
+    "tomato": {
+      "name": "Tomaatti",
+      "namePrep": "tomaatissa",
+      "serving": "1 keskikokoinen tomaatti"
+    },
+    "cucumber": {
+      "name": "Kurkku",
+      "namePrep": "kurkussa",
+      "serving": "1 annos kurkkua"
+    },
+    "cheesecake": {
+      "name": "Juustokakku",
+      "namePrep": "juustokakussa",
+      "serving": "1 pala juustokakkua"
+    },
+    "lasagna": {
+      "name": "Lasagne",
+      "namePrep": "lasagnessa",
+      "serving": "1 annos lasagnea"
+    },
+    "grilled-cheese": {
+      "name": "Lämmin juustoleipä",
+      "namePrep": "lämpimässä juustoleivässä",
+      "serving": "1 lämmin juustoleipä"
+    },
+    "peanut-butter-jelly": {
+      "name": "Maapähkinävoi-hilloleipä",
+      "namePrep": "maapähkinävoi-hilloleivässä",
+      "serving": "1 maapähkinävoi-hilloleipä"
+    },
+    "omelette": {
+      "name": "Munakas",
+      "namePrep": "munakkaassa",
+      "serving": "1 munakas"
+    },
+    "fried-egg": {
+      "name": "Paistettu kananmuna",
+      "namePrep": "paistetussa kananmunassa",
+      "serving": "1 paistettu kananmuna"
+    },
+    "boiled-egg": {
+      "name": "Keitetty kananmuna",
+      "namePrep": "keitetyssä kananmunassa",
+      "serving": "1 keitetty kananmuna"
+    },
+    "toast": {
+      "name": "Paahtoleipä",
+      "namePrep": "paahtoleivässä",
+      "serving": "1 viipale paahtoleipää"
+    },
+    "avocado-toast": {
+      "name": "Avokadopaahtoleipä",
+      "namePrep": "avokadopaahtoleivässä",
+      "serving": "1 avokadopaahtoleipä"
+    },
+    "chicken-salad": {
+      "name": "Kanasalaatti",
+      "namePrep": "kanasalaatissa",
+      "serving": "1 annos kanasalaattia"
+    },
+    "tuna-salad": {
+      "name": "Tonnikalasalaatti",
+      "namePrep": "tonnikalasalaatissa",
+      "serving": "1 annos tonnikalasalaattia"
+    },
+    "egg-salad": {
+      "name": "Kananmunasalaatti",
+      "namePrep": "kananmunasalaatissa",
+      "serving": "1 annos kananmunasalaattia"
+    },
+    "cottage-cheese": {
+      "name": "Raejuusto",
+      "namePrep": "raejuustossa",
+      "serving": "1 annos raejuustoa"
+    },
+    "cream-cheese": {
+      "name": "Tuorejuusto",
+      "namePrep": "tuorejuustossa",
+      "serving": "1 annos tuorejuustoa"
+    },
+    "butter": {
+      "name": "Voi",
+      "namePrep": "voissa",
+      "serving": "1 rkl voita"
+    },
+    "olive-oil": {
+      "name": "Oliiviöljy",
+      "namePrep": "oliiviöljyssä",
+      "serving": "1 rkl oliiviöljyä"
+    },
+    "mayonnaise": {
+      "name": "Majoneesi",
+      "namePrep": "majoneesissa",
+      "serving": "1 rkl majoneesia"
+    },
+    "ketchup": {
+      "name": "Ketsuppi",
+      "namePrep": "ketsupissa",
+      "serving": "1 rkl ketsuppia"
+    },
+    "honey": {
+      "name": "Hunaja",
+      "namePrep": "hunajassa",
+      "serving": "1 rkl hunajaa"
+    },
+    "jam": {
+      "name": "Hillo",
+      "namePrep": "hillossa",
+      "serving": "1 rkl hilloa"
+    },
+    "protein-bar": {
+      "name": "Proteiinipatukka",
+      "namePrep": "proteiinipatukassa",
+      "serving": "1 proteiinipatukka"
+    },
+    "energy-drink": {
+      "name": "Energiajuoma",
+      "namePrep": "energiajuomassa",
+      "serving": "1 tölkki energiajuomaa"
+    },
+    "matcha-latte": {
+      "name": "Matcha latte",
+      "namePrep": "matcha lattessa",
+      "serving": "1 matcha latte"
+    },
+    "trail-mix": {
+      "name": "Pähkinä-hedelmäsekoitus",
+      "namePrep": "pähkinä-hedelmäsekoituksessa",
+      "serving": "1 kourallinen pähkinä-hedelmäsekoitusta"
+    },
+    "blueberries": {
+      "name": "Mustikat",
+      "namePrep": "mustikoissa",
+      "serving": "1 annos mustikoita"
+    },
+    "strawberries": {
+      "name": "Mansikat",
+      "namePrep": "mansikoissa",
+      "serving": "1 annos mansikoita"
+    },
+    "grapes": {
+      "name": "Viinirypäleet",
+      "namePrep": "viinirypäleissä",
+      "serving": "1 annos viinirypäleitä"
+    },
+    "orange": {
+      "name": "Appelsiini",
+      "namePrep": "appelsiinissa",
+      "serving": "1 keskikokoinen appelsiini"
+    },
+    "pear": {
+      "name": "Päärynä",
+      "namePrep": "päärynässä",
+      "serving": "1 keskikokoinen päärynä"
+    },
+    "peach": {
+      "name": "Persikka",
+      "namePrep": "persikassa",
+      "serving": "1 keskikokoinen persikka"
+    },
+    "watermelon": {
+      "name": "Vesimeloni",
+      "namePrep": "vesimelonissa",
+      "serving": "1 viipale vesimelonia"
+    },
+    "pineapple": {
+      "name": "Ananas",
+      "namePrep": "ananaksessa",
+      "serving": "1 annos ananasta"
+    },
+    "mango": {
+      "name": "Mango",
+      "namePrep": "mangossa",
+      "serving": "1 annos mangoa"
+    },
+    "kiwi": {
+      "name": "Kiivi",
+      "namePrep": "kiivissä",
+      "serving": "1 kiivi"
+    },
+    "raspberries": {
+      "name": "Vadelmat",
+      "namePrep": "vadelmissa",
+      "serving": "1 annos vadelmia"
+    },
+    "blackberries": {
+      "name": "Karhunvatukat",
+      "namePrep": "karhunvatukoissa",
+      "serving": "1 annos karhunvatukoita"
+    },
+    "cherries": {
+      "name": "Kirsikat",
+      "namePrep": "kirsikoissa",
+      "serving": "1 annos kirsikoita"
+    },
+    "grapefruit": {
+      "name": "Greippi",
+      "namePrep": "greipissä",
+      "serving": "1/2 greippi"
+    },
+    "lettuce": {
+      "name": "Salaatti",
+      "namePrep": "salaatissa",
+      "serving": "1 annos salaattia"
+    },
+    "cabbage": {
+      "name": "Kaali",
+      "namePrep": "kaalissa",
+      "serving": "1 annos kaalia"
+    },
+    "cauliflower": {
+      "name": "Kukkakaali",
+      "namePrep": "kukkakaalissa",
+      "serving": "1 annos kukkakaalia"
+    },
+    "asparagus": {
+      "name": "Parsa",
+      "namePrep": "parsassa",
+      "serving": "1 annos parsaa"
+    },
+    "zucchini": {
+      "name": "Kesäkurpitsa",
+      "namePrep": "kesäkurpitsassa",
+      "serving": "1 annos kesäkurpitsaa"
+    },
+    "eggplant": {
+      "name": "Munakoiso",
+      "namePrep": "munakoisossa",
+      "serving": "1 annos munakoisoa"
+    },
+    "bell-pepper": {
+      "name": "Paprika",
+      "namePrep": "paprikassa",
+      "serving": "1 keskikokoinen paprika"
+    },
+    "onion": {
+      "name": "Sipuli",
+      "namePrep": "sipulissa",
+      "serving": "1 keskikokoinen sipuli"
+    },
+    "mushrooms": {
+      "name": "Sienet",
+      "namePrep": "sienissä",
+      "serving": "1 annos sieniä"
+    },
+    "green-beans": {
+      "name": "Vihreät pavut",
+      "namePrep": "vihreissä pavuissa",
+      "serving": "1 annos vihreitä papuja"
+    },
+    "kale": {
+      "name": "Lehtikaali",
+      "namePrep": "lehtikaalissa",
+      "serving": "1 annos lehtikaalia"
+    },
+    "beets": {
+      "name": "Punajuuret",
+      "namePrep": "punajuurissa",
+      "serving": "1 annos punajuuria"
+    },
+    "turkey-breast": {
+      "name": "Kalkkunan rintafilee",
+      "namePrep": "kalkkunan rintafileessä",
+      "serving": "100 g kypsää kalkkunan rintafileetä"
+    },
+    "chicken-thigh": {
+      "name": "Broilerin koipi-reisipala",
+      "namePrep": "broilerin koipi-reisipalassa",
+      "serving": "100 g kypsää broilerin koipi-reisipalaa"
+    },
+    "pork-chop": {
+      "name": "Porsaankyljys",
+      "namePrep": "porsaankyljyksessä",
+      "serving": "1 porsaankyljys"
+    },
+    "ground-beef": {
+      "name": "Naudan jauheliha",
+      "namePrep": "naudan jauhelihassa",
+      "serving": "100 g kypsää naudan jauhelihaa"
+    },
+    "meatballs": {
+      "name": "Lihapullat",
+      "namePrep": "lihapullissa",
+      "serving": "1 annos lihapullia"
+    },
+    "sausage": {
+      "name": "Makkara",
+      "namePrep": "makkarassa",
+      "serving": "1 makkara"
+    },
+    "cod": {
+      "name": "Turska",
+      "namePrep": "turskassa",
+      "serving": "100 g kypsää turskaa"
+    },
+    "tilapia": {
+      "name": "Tilapia",
+      "namePrep": "tilapiassa",
+      "serving": "100 g kypsää tilapiaa"
+    },
+    "sardines": {
+      "name": "Sardiinit",
+      "namePrep": "sardiineissa",
+      "serving": "1 annos sardiineja"
+    },
+    "crab": {
+      "name": "Rapu",
+      "namePrep": "ravussa",
+      "serving": "1 annos rapua"
+    },
+    "scallops": {
+      "name": "Kampasimpukat",
+      "namePrep": "kampasimpukoissa",
+      "serving": "1 annos kampasimpukoita"
+    },
+    "smoked-salmon": {
+      "name": "Kylmäsavulohi",
+      "namePrep": "kylmäsavulohessa",
+      "serving": "100 g kylmäsavulohta"
+    },
+    "skim-milk": {
+      "name": "Rasvaton maito",
+      "namePrep": "rasvattomassa maidossa",
+      "serving": "1 lasi rasvatonta maitoa"
+    },
+    "soy-milk": {
+      "name": "Soijamaito",
+      "namePrep": "soijamaidossa",
+      "serving": "1 lasi soijamaitoa"
+    },
+    "almond-milk": {
+      "name": "Mantelimaito",
+      "namePrep": "mantelimaidossa",
+      "serving": "1 lasi mantelimaitoa"
+    },
+    "oat-milk": {
+      "name": "Kauramaito",
+      "namePrep": "kauramaidossa",
+      "serving": "1 lasi kauramaitoa"
+    },
+    "kefir": {
+      "name": "Kefiiri",
+      "namePrep": "kefiirissä",
+      "serving": "1 lasi kefiiriä"
+    },
+    "sour-cream": {
+      "name": "Smetana",
+      "namePrep": "smetanassa",
+      "serving": "1 annos smetanaa"
+    },
+    "feta-cheese": {
+      "name": "Feta",
+      "namePrep": "fetassa",
+      "serving": "1 annos fetaa"
+    },
+    "mozzarella": {
+      "name": "Mozzarella",
+      "namePrep": "mozzarellassa",
+      "serving": "1 annos mozzarellaa"
+    },
+    "parmesan": {
+      "name": "Parmesaani",
+      "namePrep": "parmesaanissa",
+      "serving": "1 annos parmesaania"
+    },
+    "couscous": {
+      "name": "Kuskus",
+      "namePrep": "kuskusissa",
+      "serving": "1 kupillinen kypsää kuskusia"
+    },
+    "barley": {
+      "name": "Ohra",
+      "namePrep": "ohrassa",
+      "serving": "1 kupillinen kypsää ohraa"
+    },
+    "buckwheat": {
+      "name": "Tattari",
+      "namePrep": "tattarissa",
+      "serving": "1 kupillinen kypsää tattaria"
+    },
+    "bulgur": {
+      "name": "Bulgur",
+      "namePrep": "bulgurissa",
+      "serving": "1 kupillinen kypsää bulguria"
+    },
+    "naan": {
+      "name": "Naan-leipä",
+      "namePrep": "naan-leivässä",
+      "serving": "1 naan-leipä"
+    },
+    "pita-bread": {
+      "name": "Pitaleipä",
+      "namePrep": "pitaleivässä",
+      "serving": "1 pitaleipä"
+    },
+    "english-muffin": {
+      "name": "Englantilainen muffinssi",
+      "namePrep": "englantilaisessa muffinssissa",
+      "serving": "1 englantilainen muffinssi"
+    },
+    "rice-cake": {
+      "name": "Riisikakku",
+      "namePrep": "riisikakussa",
+      "serving": "1 riisikakku"
+    },
+    "crackers": {
+      "name": "Suolakeksit",
+      "namePrep": "suolakekseissä",
+      "serving": "1 annos suolakeksejä"
+    },
+    "mashed-potatoes": {
+      "name": "Perunamuusi",
+      "namePrep": "perunamuusissa",
+      "serving": "1 annos perunamuusia"
+    },
+    "scrambled-eggs": {
+      "name": "Munakokkeli",
+      "namePrep": "munakokkelissa",
+      "serving": "1 annos munakokkelia"
+    },
+    "french-toast": {
+      "name": "Köyhät ritarit",
+      "namePrep": "köyhissä ritareissa",
+      "serving": "1 annos köyhiä ritareita"
+    },
+    "breakfast-burrito": {
+      "name": "Aamiaisburrito",
+      "namePrep": "aamiaisburritossa",
+      "serving": "1 aamiaisburrito"
+    },
+    "hash-browns": {
+      "name": "Paistetut perunaraastepihvit",
+      "namePrep": "paistetuissa perunaraastepihveissä",
+      "serving": "1 annos perunaraastepihvejä"
+    },
+    "chia-pudding": {
+      "name": "Chia-vanukas",
+      "namePrep": "chia-vanukkaassa",
+      "serving": "1 annos chia-vanukasta"
+    },
+    "overnight-oats": {
+      "name": "Tuorepuuro",
+      "namePrep": "tuorepuurossa",
+      "serving": "1 annos tuorepuuroa"
+    },
+    "breakfast-sandwich": {
+      "name": "Aamiaisleipä",
+      "namePrep": "aamiaisleivässä",
+      "serving": "1 aamiaisleipä"
+    },
+    "edamame": {
+      "name": "Edamame",
+      "namePrep": "edamamessa",
+      "serving": "1 annos edamamea"
+    },
+    "kidney-beans": {
+      "name": "Kidneypavut",
+      "namePrep": "kidneypavuissa",
+      "serving": "1 kupillinen kidneypapuja"
+    },
+    "pinto-beans": {
+      "name": "Pintopavut",
+      "namePrep": "pintopavuissa",
+      "serving": "1 kupillinen pintopapuja"
+    },
+    "split-peas": {
+      "name": "Halkaistut herneet",
+      "namePrep": "halkaistuissa herneissä",
+      "serving": "1 kupillinen keitettyjä halkaistuja herneitä"
+    },
+    "baked-beans": {
+      "name": "Tomaattikastikkeessa haudutetut pavut",
+      "namePrep": "haudutetuissa pavuissa",
+      "serving": "1 annos haudutettuja papuja"
+    },
+    "fried-rice": {
+      "name": "Paistettu riisi",
+      "namePrep": "paistetussa riisissä",
+      "serving": "1 annos paistettua riisiä"
+    },
+    "pad-thai": {
+      "name": "Pad thai",
+      "namePrep": "pad thaissa",
+      "serving": "1 annos pad thaita"
+    },
+    "chicken-curry": {
+      "name": "Kanacurry",
+      "namePrep": "kanacurryssa",
+      "serving": "1 annos kanacurrya"
+    },
+    "chicken-tikka-masala": {
+      "name": "Chicken tikka masala",
+      "namePrep": "chicken tikka masalassa",
+      "serving": "1 annos chicken tikka masalaa"
+    },
+    "beef-chili": {
+      "name": "Naudanlihachili",
+      "namePrep": "naudanlihachilissä",
+      "serving": "1 annos naudanlihachiliä"
+    },
+    "falafel": {
+      "name": "Falafel",
+      "namePrep": "falafelissa",
+      "serving": "1 annos falafelia"
+    },
+    "dumplings": {
+      "name": "Dumplingit",
+      "namePrep": "dumplingeissa",
+      "serving": "1 annos dumplingeja"
+    },
+    "spring-rolls": {
+      "name": "Kevätkääryleet",
+      "namePrep": "kevätkääryleissä",
+      "serving": "1 annos kevätkääryleitä"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "quesadillassa",
+      "serving": "1 quesadilla"
+    },
+    "nachos": {
+      "name": "Nachot",
+      "namePrep": "nachoissa",
+      "serving": "1 annos nachoja"
+    },
+    "mac-and-cheese": {
+      "name": "Makaroni-juustovuoka",
+      "namePrep": "makaroni-juustovuoassa",
+      "serving": "1 annos makaroni-juustovuokaa"
+    },
+    "chicken-wings": {
+      "name": "Kanansiivet",
+      "namePrep": "kanansiivissä",
+      "serving": "1 annos kanansiipiä"
+    },
+    "fish-and-chips": {
+      "name": "Fish and chips",
+      "namePrep": "fish and chips -annoksessa",
+      "serving": "1 annos fish and chipsiä"
+    },
+    "risotto": {
+      "name": "Risotto",
+      "namePrep": "risotossa",
+      "serving": "1 annos risottoa"
+    },
+    "tortilla-chips": {
+      "name": "Tortillasipsit",
+      "namePrep": "tortillasipseissä",
+      "serving": "1 annos tortillasipsejä"
+    },
+    "granola-bar": {
+      "name": "Granolapatukka",
+      "namePrep": "granolapatukassa",
+      "serving": "1 granolapatukka"
+    },
+    "chocolate-bar": {
+      "name": "Suklaapatukka",
+      "namePrep": "suklaapatukassa",
+      "serving": "1 suklaapatukka"
+    },
+    "candy": {
+      "name": "Makeiset",
+      "namePrep": "makeisissa",
+      "serving": "1 annos makeisia"
+    },
+    "cinnamon-roll": {
+      "name": "Korvapuusti",
+      "namePrep": "korvapuustissa",
+      "serving": "1 korvapuusti"
+    },
+    "marshmallows": {
+      "name": "Vaahtokarkit",
+      "namePrep": "vaahtokarkeissa",
+      "serving": "1 annos vaahtokarkkeja"
+    },
+    "fruit-snacks": {
+      "name": "Hedelmävälipalat",
+      "namePrep": "hedelmävälipaloissa",
+      "serving": "1 annos hedelmävälipaloja"
+    },
+    "black-coffee": {
+      "name": "Musta kahvi",
+      "namePrep": "mustassa kahvissa",
+      "serving": "1 kuppi mustaa kahvia"
+    },
+    "cappuccino": {
+      "name": "Cappuccino",
+      "namePrep": "cappuccinossa",
+      "serving": "1 cappuccino"
+    },
+    "milk-tea": {
+      "name": "Maitotee",
+      "namePrep": "maitoteessä",
+      "serving": "1 lasi maitoteetä"
+    },
+    "bubble-tea": {
+      "name": "Bubble tea",
+      "namePrep": "bubble teassa",
+      "serving": "1 bubble tea"
+    },
+    "lemonade": {
+      "name": "Limonadi",
+      "namePrep": "limonadissa",
+      "serving": "1 lasi limonadia"
+    },
+    "iced-tea": {
+      "name": "Jäätee",
+      "namePrep": "jääteessä",
+      "serving": "1 lasi jääteetä"
+    },
+    "apple-juice": {
+      "name": "Omenamehu",
+      "namePrep": "omenamehussa",
+      "serving": "1 lasi omenamehua"
+    },
+    "coconut-water": {
+      "name": "Kookosvesi",
+      "namePrep": "kookosvedessä",
+      "serving": "1 lasi kookosvettä"
+    },
+    "sports-drink": {
+      "name": "Urheilujuoma",
+      "namePrep": "urheilujuomassa",
+      "serving": "1 pullo urheilujuomaa"
+    },
+    "ranch-dressing": {
+      "name": "Ranch-kastike",
+      "namePrep": "ranch-kastikkeessa",
+      "serving": "1 rkl ranch-kastiketta"
+    },
+    "bbq-sauce": {
+      "name": "BBQ-kastike",
+      "namePrep": "BBQ-kastikkeessa",
+      "serving": "1 rkl BBQ-kastiketta"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "salsassa",
+      "serving": "1 annos salsaa"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "guacamolessa",
+      "serving": "1 annos guacamolea"
+    }
+  },
+  "utility": {
+    "pricing": "Hinnoittelu",
+    "support": "Tuki",
+    "privacy": "Tietosuoja",
+    "terms": "Käyttöehdot",
+    "press": "Lehdistömateriaali",
+    "deleteExtra": "Haluatko poistaa tilisi tai tietosi? Kirjoita tilin sähköpostiosoitteesta ja käytä aiheriviä ”Delete account”."
+  },
+  "store": {
+    "appStoreSmall": "Lataa",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Saatavilla",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Ominaisuus",
+    "useCase": "Käyttötapaus",
+    "openPage": "Avaa sivu →",
+    "openArrow": "Avaa →",
+    "practicalWorkflow": "Käytännön työnkulku",
+    "workflowTitle": "Näin se auttaa päivittäisessä ruokapäiväkirjassa",
+    "goodToKnow": "Hyvä tietää",
+    "defaultNote": "Ravintoarvot ovat suuntaa antavia: tarkista erityisesti annos, tuotemerkki, resepti ja piilossa olevat ainesosat.",
+    "relatedPages": "Aiheeseen liittyvät sivut",
+    "quickTakeaway": "Lyhyesti:",
+    "defaultTakeaway": "Calorie Counter AI auttaa kirjaamaan ruoan nopeammin kuva-arvioilla, viivakoodeilla ja käsin tehtävillä korjauksilla.",
+    "information": "Tietoa",
+    "bestFor": "Sopii erityisesti"
+  },
+  "internalCta": {
+    "title": "Muuta seuraava ateria päiväkirjamerkinnäksi",
+    "text": "Lataa sovellus ja kokeile nopeaa kalorilaskentaa ruokakuvasta.",
+    "button": "Lataa sovellus"
+  },
+  "download": {
+    "availableTitle": "Saatavilla iPhonelle ja Androidille",
+    "availableText": "Aloita kuvalla, viivakoodilla tai yksinkertaisella manuaalisella merkinnällä. Kalorit ja makrot ovat selkeitä heti ensimmäisestä päivästä."
+  },
+  "faq": {
+    "items": [
+      [
+        "Onko Calorie Counter AI ilmainen?",
+        "Voit aloittaa ilmaiseksi päivittäisillä AI-analyyseillä. Premium-ominaisuuksia voi olla saatavilla korkeampia rajoja ja lisätyökaluja varten."
+      ],
+      [
+        "Voinko laskea kalorit kuvasta?",
+        "Kyllä. Sovellus arvioi kalorit, makrot ja annospainon aterian kuvasta."
+      ],
+      [
+        "Onko sovelluksessa viivakoodinlukija?",
+        "Kyllä. Sen avulla voit lisätä pakattuja tuotteita nopeasti."
+      ],
+      [
+        "Laskeeko sovellus makrot?",
+        "Kyllä. Proteiini, rasva ja hiilihydraatit näkyvät kalorien rinnalla."
+      ],
+      [
+        "Toimiiko se kotiruoalle?",
+        "Kyllä. Kuva-arviot ovat hyödyllisiä kotiruoille, mutta tarkista annos, öljy, kastikkeet ja piilossa olevat ainesosat."
+      ],
+      [
+        "Onko tämä lääketieteellistä neuvontaa?",
+        "Ei. Sovellus antaa informatiivisia arvioita eikä korvaa lääkäriä, ravitsemusterapeuttia tai muuta terveydenhuollon ammattilaista."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Hinnoittelu ja maksuton aloitus",
+      "Voit aloittaa maksutta. Mahdolliset tilaukset, kokeilujaksot ja ajantasaiset hinnat käsitellään App Storessa tai Google Playssa ja voivat vaihdella maittain."
+    ],
+    "support": [
+      "Tuki",
+      "Tarvitsetko apua, haluatko antaa palautetta tai ilmoittaa ongelmasta? Kerro laite, käyttöjärjestelmä ja lyhyt kuvaus tilanteesta."
+    ],
+    "contact": [
+      "Yhteydenotto",
+      "Calorie Counter AI:ta, kumppanuuksia tai lehdistöasioita koskevissa kysymyksissä voit tavoittaa tiimin verkkosivuston tai sovelluskaupan yhteystiedoista."
+    ],
+    "privacy": [
+      "Tietosuoja",
+      "Keräämme ja käsittelemme tietoja, joita tarvitaan sovelluksen ja verkkosivuston toimintaan. Lue koko tietosuojakäytäntö, jossa kerrotaan tarkoituksista, säilytysajoista ja oikeuksista."
+    ],
+    "terms": [
+      "Käyttöehdot",
+      "Käyttämällä sovellusta hyväksyt, että ravintoarviot ovat suuntaa antavia ja palvelua käytetään julkaistujen ehtojen mukaisesti."
+    ],
+    "disclaimer": [
+      "Terveysvastuuvapaus",
+      "Calorie Counter AI ei tee diagnooseja, anna hoitoa eikä laadi lääketieteellistä ruokavaliota. Ota yhteyttä pätevään terveydenhuollon ammattilaiseen, jos sinulla on lääketieteellisiä tarpeita tai erityistilanteita."
+    ],
+    "delete": [
+      "Tilin poistaminen",
+      "Haluatko poistaa tilisi? Kirjoita profiiliin liitetystä sähköpostiosoitteesta ja lisää aiheriville ”Delete account”."
+    ]
+  },
+  "press": {
+    "iconAlt": "Sovelluskuvake",
+    "iconTitle": "Sovelluskuvake",
+    "downloadIcon": "Lataa kuvake",
+    "screenshotAlt": "Kuvakaappaus sovelluksesta",
+    "screenshotTitle": "Kuvakaappaus",
+    "downloadScreenshot": "Lataa kuvakaappaus",
+    "shortDescriptionTitle": "Lyhyt kuvaus",
+    "shortDescriptionText": "Calorie Counter AI on AI-kalorilaskuri, joka arvioi kalorit, makrot ja annoskoon ateriakuvasta. Mukana ovat ruokapäiväkirja ja viivakoodinlukija."
+  },
+  "notFound": {
+    "title": "Sivua ei löytynyt",
+    "text": "Tätä sivua ei vielä ole tai osoitteessa on kirjoitusvirhe.",
+    "home": "Takaisin etusivulle"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Ominaisuudet",
+      "h1": "Calorie Counter AI:n ominaisuudet",
+      "description": "Kalorilaskuri kuvasta, viivakoodinlukija, makroseuranta ja visuaalinen ruokapäiväkirja samassa sovelluksessa.",
+      "kicker": "Ominaisuudet",
+      "summary": "Sovellus on suunniteltu nopeaan arjen seurantaan: kuvaa ateria, skannaa pakattu tuote tai korjaa arviota käsin.",
+      "bullets": [
+        "Kalorilaskuri kuvasta",
+        "Viivakoodinlukija",
+        "Makrot",
+        "Ruokapäiväkirja"
+      ],
+      "sections": [
+        [
+          "Kuvasta arvioksi",
+          "Ota ruokakuva ja saat luonnoksen kaloreista, makroista ja annoskoosta."
+        ],
+        [
+          "Pakatut tuotteet",
+          "Viivakoodinlukija nopeuttaa tuotteita, joilla on etiketti ja viivakoodi."
+        ],
+        [
+          "Päivittäinen seuranta",
+          "Päiväkirja näyttää, mitä söit ja miten kalorit sekä makrot kertyvät."
+        ]
+      ],
+      "workflowTitle": "Näin ominaisuudet toimivat yhdessä",
+      "workflow": [
+        "Ota kuva ruoasta, tarkista AI-arvio ja korjaa annos, kastike tai tuotemerkki tarvittaessa ennen tallennusta.",
+        "Skannaa pakatut tuotteet ja käytä manuaalisia korjauksia, kun tiedät annoksen tai reseptin paremmin."
+      ],
+      "note": "Ravintoarviot ovat suuntaa antavia eivätkä korvaa lääkärin, ravitsemusterapeutin tai muun terveydenhuollon ammattilaisen neuvoja.",
+      "bestFor": [
+        "kuva-arviot",
+        "viivakoodit",
+        "makroseuranta",
+        "päiväkirja"
+      ],
+      "workflowKicker": "Ominaisuudet",
+      "noteTitle": "Huomio"
+    },
+    "/food-recognition-ai/": {
+      "title": "AI-ruoantunnistus",
+      "h1": "Tunnista ruoka kuvasta",
+      "description": "Arvioi aterian ruokalajit, annoskoko, kalorit ja makrot ruokakuvan perusteella.",
+      "kicker": "Kuva-analyysi",
+      "summary": "Kuva-arvio on hyödyllinen, kun ruoka on kotona tehtyä, ravintolassa syötyä tai muuten ilman ravintoarvomerkintää.",
+      "bullets": [
+        "Ruokakuvan analyysi",
+        "Kalorit ja makrot",
+        "Muokattavat annokset",
+        "Nopea tallennus"
+      ],
+      "sections": [
+        [
+          "Miten se toimii",
+          "Ota selkeä kuva lautasesta, tarkista tunnistetut ruoat ja tallenna merkintä."
+        ],
+        [
+          "Mitä kannattaa tarkistaa",
+          "Öljy, kastike, juusto, sokeri ja piilossa olevat ainesosat voivat muuttaa arviota paljon."
+        ],
+        [
+          "Paras tulos",
+          "AI antaa luonnoksen, mutta oma nopea tarkistus tekee merkinnästä hyödyllisemmän."
+        ]
+      ],
+      "workflowTitle": "Kirjaa ruoka kuvasta",
+      "workflow": [
+        "Ota kuva ruoasta, tarkista AI-arvio ja korjaa annos, kastike tai tuotemerkki tarvittaessa ennen tallennusta.",
+        "Jos jokin ainesosa ei näy kuvassa, lisää se käsin ennen tallennusta."
+      ],
+      "note": "Kuvat toimivat hyvin näkyville ruoille, mutta eivät aina paljasta reseptin kaikkia ainesosia.",
+      "bestFor": [
+        "kotiruoka",
+        "salaatit ja bowlit",
+        "ravintola",
+        "nopea luonnos"
+      ],
+      "workflowKicker": "Kuva-analyysi",
+      "noteTitle": "Muista"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Kalorien viivakoodinlukija",
+      "h1": "Viivakoodinlukija pakatuille ruoille",
+      "description": "Skannaa pakatut tuotteet ja lisää kalorit sekä makrot nopeasti ruokapäiväkirjaan.",
+      "kicker": "Pakatut tuotteet",
+      "summary": "Viivakoodi on nopein tapa kirjata ruoka silloin, kun tuotteella on pakkaus ja etiketti.",
+      "bullets": [
+        "Jogurtit, välipalat ja juomat",
+        "Valmisruoat ja pakasteet",
+        "Annoksen korjaus käsin",
+        "Nopeampi päiväkirja"
+      ],
+      "sections": [
+        [
+          "Milloin sitä kannattaa käyttää",
+          "Käytä lukijaa pakattuihin ruokiin, välipaloihin, juomiin ja kaupan tuotteisiin."
+        ],
+        [
+          "Tarkista annos",
+          "Tuote voi olla oikea, mutta syömäsi määrä määrittää kalorit."
+        ],
+        [
+          "Yhdistä kuvaan",
+          "Sekaruoassa voit skannata yhden tuotteen ja lisätä loput kuvalla tai käsin."
+        ]
+      ],
+      "workflowTitle": "Näin kirjaat pakatun tuotteen",
+      "workflow": [
+        "Skannaa koodi, tarkista että tuote on oikea ja valitse annos, jonka todella söit.",
+        "Jos söit vain osan pakkauksesta tai lisäsit muuta ruokaa, korjaa merkintä ennen tallennusta."
+      ],
+      "note": "Tuotetietokannat vaihtelevat maittain ja tuotemerkeittäin. Viivakoodi nopeuttaa syöttöä, mutta annos pitää silti tarkistaa.",
+      "bestFor": [
+        "pakatut tuotteet",
+        "välipalat",
+        "juomat",
+        "kaupparuoat"
+      ],
+      "workflowKicker": "Skanneri",
+      "noteTitle": "Tärkeä huomio"
+    },
+    "/macro-tracker/": {
+      "title": "Makroseuranta",
+      "h1": "Seuraa proteiinia, rasvaa ja hiilihydraatteja",
+      "description": "Pidä kalorit ja makrot yhdessä näkymässä, jotta päivän ravintosisältö on helpompi ymmärtää.",
+      "kicker": "Makrot",
+      "summary": "Kalorit kertovat energian määrän; makrot kertovat, mistä energia tulee.",
+      "bullets": [
+        "Proteiini",
+        "Rasva",
+        "Hiilihydraatit",
+        "Päivittäiset tavoitteet"
+      ],
+      "sections": [
+        [
+          "Miksi makroilla on merkitystä",
+          "Kaksi saman kalorimäärän päivää voi koostua täysin eri tavalla."
+        ],
+        [
+          "Proteiini näkyviin",
+          "Lihasmassan kasvattaja tai kylläisyyttä hakeva seuraa usein ensin proteiinia."
+        ],
+        [
+          "Helppo lukea",
+          "Makrot kalorien rinnalla helpottavat loppupäivän valintoja."
+        ]
+      ],
+      "workflowTitle": "Käytä makroja päiväkirjassa",
+      "workflow": [
+        "Kirjaa ateriat kuvalla, viivakoodilla tai käsin. Katso sitten päivän kokonaismäärä proteiinille, rasvalle ja hiilihydraateille.",
+        "Käytä lukuja suuntana: täydelliset arvot yksittäisessä ateriassa ovat vähemmän tärkeitä kuin johdonmukainen kokonaisuus."
+      ],
+      "note": "Makrot eivät ole diagnoosi tai ruokavaliosuunnitelma. Kysy asiantuntijalta, jos sinulla on erityistavoitteita tai terveydellisiä tarpeita.",
+      "bestFor": [
+        "proteiini",
+        "painonpudotus",
+        "lihaskasvu",
+        "ruoan laatu"
+      ],
+      "workflowKicker": "Makrot",
+      "noteTitle": "Hyvä tietää"
+    },
+    "/food-diary-app/": {
+      "title": "Ruokapäiväkirja",
+      "h1": "Nopea ja visuaalinen ruokapäiväkirja",
+      "description": "Kirjaa ateriat, annokset ja ravintoarviot päiväkirjaan, johon on helppo palata myöhemmin.",
+      "kicker": "Päiväkirja",
+      "summary": "Hyvän ruokapäiväkirjan ei tarvitse olla täydellinen; sen pitää olla tarpeeksi helppo jatkaa.",
+      "bullets": [
+        "Kirjaus kuvalla",
+        "Ateriahistoria",
+        "Käsin tehtävät korjaukset",
+        "Toistuvat tavat"
+      ],
+      "sections": [
+        [
+          "Matalampi kynnys",
+          "Kuva vähentää aikaa, joka tarvitaan merkinnän aloittamiseen."
+        ],
+        [
+          "Enemmän hallintaa",
+          "Jokaisen arvion voi korjata ennen tallennusta."
+        ],
+        [
+          "Lisää tietoisuutta",
+          "Päivien selaaminen auttaa huomaamaan tapoja, joita on vaikea muistaa."
+        ]
+      ],
+      "workflowTitle": "Pidä päiväkirjaa ilman stressiä",
+      "workflow": [
+        "Tallenna ensin luonnos ja korjaa sitten vain asiat, joilla on oikeasti merkitystä: annos, kastikkeet, öljy, juomat ja pääraaka-aineet.",
+        "Päiväkirjan tarkoitus on näyttää trendejä ja tapoja, ei arvostella jokaista ateriaa."
+      ],
+      "note": "Ravintoarviot ovat suuntaa antavia eivätkä korvaa lääkärin, ravitsemusterapeutin tai muun terveydenhuollon ammattilaisen neuvoja.",
+      "bestFor": [
+        "päivittäinen päiväkirja",
+        "tavat",
+        "toistuvat ateriat",
+        "helppo seuranta"
+      ],
+      "workflowKicker": "Päiväkirja",
+      "noteTitle": "Periaate"
+    },
+    "/nutrition-tracker/": {
+      "title": "Ravintoseuranta",
+      "h1": "Seuraa ravintoa selkeillä luvuilla",
+      "description": "Näe kalorit, proteiini, rasva ja hiilihydraatit ilman, että syötät kaiken alusta asti käsin.",
+      "kicker": "Ravitsemus",
+      "summary": "Ravintoseuranta yhdistää kuvat, viivakoodit ja käsin tehtävät korjaukset selkeäksi näkymäksi aterioistasi.",
+      "bullets": [
+        "Kalorit",
+        "Makrot",
+        "Annokset",
+        "Trendit ajan yli"
+      ],
+      "sections": [
+        [
+          "Kokonaiskuva",
+          "Jokainen ateria lisää kontekstia päivääsi."
+        ],
+        [
+          "Korjaa järkevästi",
+          "Muokkaa annosta, ainesosia tai tuotemerkkiä, kun arvio ei riitä."
+        ],
+        [
+          "Helpommat valinnat",
+          "Kun tiedät, mitä olet jo syönyt, seuraava ateria on helpompi valita."
+        ]
+      ],
+      "workflowTitle": "Näin käytät ravintoseurantaa",
+      "workflow": [
+        "Kirjaa tärkeimmät ateriat ja katso päivän kokonaisuus. Yksittäiset arviot ovat suuntaa antavia, mutta jatkuvuus tekee näkymästä hyödyllisen.",
+        "Tarkista piilossa olevat ainesosat ja annokset ennen tallennusta."
+      ],
+      "note": "Ravintoarviot ovat suuntaa antavia eivätkä korvaa lääkärin, ravitsemusterapeutin tai muun terveydenhuollon ammattilaisen neuvoja.",
+      "bestFor": [
+        "päivittäinen ravinto",
+        "makrot",
+        "annokset",
+        "kokonaiskuva"
+      ],
+      "workflowKicker": "Ravitsemus",
+      "noteTitle": "Käytännössä"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Annoskoon arviointi",
+      "h1": "Arvioi aterian paino kuvasta",
+      "description": "Käytä kuva-arviota lähtökohtana, kun et tiedä annoksen tarkkaa painoa.",
+      "kicker": "Annokset",
+      "summary": "Kalorilaskennassa annoskoko on usein suurin epävarmuus.",
+      "bullets": [
+        "Paino suuntaa antavana",
+        "Muokattavat annokset",
+        "Käytännöllinen ilman vaakaa",
+        "Paremmat päiväkirjamerkinnät"
+      ],
+      "sections": [
+        [
+          "Milloin se auttaa",
+          "Ravintolassa, kotona ja jaetuissa annoksissa tarkkaa painoa ei usein tiedä."
+        ],
+        [
+          "Mitä tarkistaa",
+          "Lautasen koko, kastike, öljy ja ruoan tiheys voivat vaikuttaa paljon."
+        ],
+        [
+          "Milloin vaaka on parempi",
+          "Jos tarvitset suurta tarkkuutta, keittiövaaka on edelleen parempi."
+        ]
+      ],
+      "workflowTitle": "Tee arviosta hyödyllisempi",
+      "workflow": [
+        "Aloita kuvasta, tarkista annos ja muuta painoa, jos tiedät reseptistä tai määrästä enemmän.",
+        "Toistuville aterioille voit tallentaa korjatun version, jotta seuraava kirjaus käy nopeammin."
+      ],
+      "note": "Painoarvio on apu, ei tarkka mittaus. Käytä sitä järkevänä ensimmäisenä arvona.",
+      "bestFor": [
+        "ravintolaruoka",
+        "kotiruoka",
+        "ilman vaakaa",
+        "nopea kirjaus"
+      ],
+      "workflowKicker": "Annokset",
+      "noteTitle": "Tarkkuus"
+    },
+    "/progress-statistics/": {
+      "title": "Edistyminen ja tilastot",
+      "h1": "Näe kalorien, makrojen ja tapojen trendit",
+      "description": "Vertaile päiviä, viikkoja ja kuukausia, jotta ymmärrät ruokapäiväkirjan kehitystä ajan myötä.",
+      "kicker": "Edistyminen",
+      "summary": "Yksittäiset päivät voivat vaihdella paljon. Trendit tekevät kokonaiskuvasta selkeämmän.",
+      "bullets": [
+        "Päivänäkymä",
+        "Viikko- ja kuukausitrendit",
+        "Kalorit ja makrot",
+        "Toistuvat tavat"
+      ],
+      "sections": [
+        [
+          "Miksi trendit auttavat",
+          "Painoon, nälkään ja energiaan vaikuttavat useat päivät, eivät vain yksi ateria."
+        ],
+        [
+          "Vertaa ilman stressiä",
+          "Tilastojen tehtävä on antaa suunta, ei luoda perfektionismia."
+        ],
+        [
+          "Huomaa kuviot",
+          "Toistuvat välipalat, juomat tai myöhäiset ateriat näkyvät helpommin."
+        ]
+      ],
+      "workflowTitle": "Näin luet edistymistä",
+      "workflow": [
+        "Katso ensin kokonaisuutta: keskiarvoja, toistuvia tapoja ja sitä, kuinka usein kirjaat ruokaa.",
+        "Käytä yksityiskohtia seuraavan viikon säätämiseen sen sijaan, että reagoisit liikaa yhteen päivään."
+      ],
+      "note": "Tilastot ovat hyödyllisimpiä, kun ne perustuvat rehellisiin ja johdonmukaisiin päiväkirjamerkintöihin.",
+      "bestFor": [
+        "viikkotrendit",
+        "tavat",
+        "kaloritavoite",
+        "makrot"
+      ],
+      "workflowKicker": "Tilastot",
+      "noteTitle": "Tulkinta"
+    },
+    "/meal-reminders/": {
+      "title": "Ateriamuistutukset",
+      "h1": "Muista kirjata ruoat",
+      "description": "Muistutukset auttavat kirjaamaan ateriat silloin, kun yksityiskohdat ovat vielä tuoreessa muistissa.",
+      "kicker": "Muistutukset",
+      "summary": "Hyvä päiväkirja syntyy helpommin, kun merkintä tehdään lähellä ateriaa.",
+      "bullets": [
+        "Vähemmän unohtamista",
+        "Parempi annosmuisti",
+        "Päivittäinen rutiini",
+        "Joustava tapa"
+      ],
+      "sections": [
+        [
+          "Milloin niistä on hyötyä",
+          "Muistutukset auttavat, jos kirjaat kaiken illalla ja unohdat yksityiskohdat."
+        ],
+        [
+          "Pidä ne lempeinä",
+          "Hyvä muistutus tukee tapaa eikä häiritse päivää."
+        ],
+        [
+          "Yhdistä kuvaan",
+          "Ota kuva nopeasti ja korjaa merkintä myöhemmin, jos sinulla on kiire."
+        ]
+      ],
+      "workflowTitle": "Rakenna helppo rutiini",
+      "workflow": [
+        "Valitse ajat, jotka sopivat tavallisiin aterioihisi. Kun muistutus tulee, ota kuva tai luo yksinkertainen merkintä.",
+        "Korjaa tiedot, kun ehdit. Tärkeintä on saada ateria talteen, kun muistat sen."
+      ],
+      "note": "Muistutukset toimivat parhaiten, kun ne sopivat arkeesi eivätkä muutu uudeksi häiriöksi.",
+      "bestFor": [
+        "unohtaminen",
+        "rutiinit",
+        "kiireiset päivät",
+        "illalla kirjaaminen"
+      ],
+      "workflowKicker": "Tapa",
+      "noteTitle": "Käytännössä"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Yhdistä ravintotiedot Health Connectiin",
+      "description": "Synkronoi tuetut tiedot ja pidä terveys- ja ravintodata paremmin samassa kokonaisuudessa.",
+      "kicker": "Integraatio",
+      "summary": "Health Connect voi helpottaa ravintotapojen tarkastelua yhdessä muun terveysdatan kanssa.",
+      "bullets": [
+        "Ravintodata tuetuissa kohdissa",
+        "Android-integraatio",
+        "Yhteinen kokonaiskuva",
+        "Oikeuksien hallinta"
+      ],
+      "sections": [
+        [
+          "Mitä integraatio tekee",
+          "Kun se on käytössä, sovellus voi jakaa tuettuja tietoja Health Connectiin antamiesi oikeuksien mukaisesti."
+        ],
+        [
+          "Oikeudet ratkaisevat",
+          "Valitset itse, mitä tietotyyppejä saa jakaa, ja voit muuttaa valintaa Android-asetuksissa."
+        ],
+        [
+          "Kaikki ei ole automaattista",
+          "Osa tiedoista vaatii silti oikeaa kirjaamista sovelluksessa."
+        ]
+      ],
+      "workflowTitle": "Käytä integraatiota hallitusti",
+      "workflow": [
+        "Ota Health Connect käyttöön, jos haluat kerätä dataa useista sovelluksista. Tarkista oikeudet ja poista käytöstä se, mitä et halua jakaa.",
+        "Pidä integraatiota kätevänä synkronointina, ei kalorilaskennan vaatimuksena."
+      ],
+      "note": "Saatavuus ja ominaisuudet voivat vaihdella Android-version, maan ja sovellusasetusten mukaan.",
+      "bestFor": [
+        "Android",
+        "Health Connect",
+        "datan hallinta",
+        "yhteinen näkymä"
+      ],
+      "workflowKicker": "Integraatio",
+      "noteTitle": "Tietosuoja"
+    },
+    "/data-export/": {
+      "title": "Tietojen vienti",
+      "h1": "Vie ruokapäiväkirjan tiedot",
+      "description": "Vie dataa, kun haluat analysoida, varmuuskopioida tai jakaa historiaasi.",
+      "kicker": "Data",
+      "summary": "Tietojen vienti tekee päiväkirjasta joustavamman, jos haluat käsitellä tietoja myöhemmin itse.",
+      "bullets": [
+        "Historia sovelluksen ulkopuolelle",
+        "Oma analyysi",
+        "Varmuuskopio",
+        "Jakaminen tarvittaessa"
+      ],
+      "sections": [
+        [
+          "Milloin vienti auttaa",
+          "Vienti on hyödyllinen, jos haluat vertailla jaksoja, tehdä omaa analyysiä tai säilyttää kopion."
+        ],
+        [
+          "Mitä hallitset",
+          "Tarkista, mitä tietoja viet ennen kuin jaat niitä."
+        ],
+        [
+          "Tulkinta",
+          "Raakadata on hyödyllisempää, kun tiedät, miten merkinnät syntyivät."
+        ]
+      ],
+      "workflowTitle": "Vie tiedot harkiten",
+      "workflow": [
+        "Valitse ajanjakso ja tietotyyppi, joka on sinulle olennainen. Tarkista tiedosto ennen jakamista.",
+        "Muista, että päiväkirjan arviot ovat edelleen suuntaa antavia myös viennin jälkeen."
+      ],
+      "note": "Vienti ei korvaa ammattilaisen analyysiä, mutta antaa sinulle enemmän hallintaa omaan historiaasi.",
+      "bestFor": [
+        "oma analyysi",
+        "varmuuskopio",
+        "jakaminen",
+        "historia"
+      ],
+      "workflowKicker": "Vienti",
+      "noteTitle": "Datan hallinta"
+    },
+    "/use-cases/": {
+      "title": "Käyttötapaukset",
+      "h1": "Käytä Calorie Counter AI:ta arjessa",
+      "description": "Katso, miten kuva-analyysi, viivakoodit ja ruokapäiväkirja auttavat painonpudotuksessa, ylläpidossa, lihaskasvussa, kotiruoassa ja ravintola-aterioissa.",
+      "kicker": "Käyttötapaukset"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Kalorilaskuri painonpudotukseen",
+      "h1": "Seuraa kaloreita painonpudotuksen tukena",
+      "description": "Näe päivän kalorit, jäljellä oleva tavoite ja aterioiden rakenne ilman raskasta käsinsyöttöä.",
+      "kicker": "Painonpudotus",
+      "summary": "Painonpudotus toimii arjessa paremmin, kun kaloritavoite on näkyvissä ja kirjaaminen on riittävän helppoa.",
+      "bullets": [
+        "Päivittäinen kaloritavoite",
+        "Kuva-arviot aterioille",
+        "Makrot kylläisyyden tueksi",
+        "Trendit ajan myötä"
+      ],
+      "sections": [
+        [
+          "Kalorivaje näkyväksi",
+          "Päiväkirja auttaa hahmottamaan, miten ateriat suhteutuvat päivän tavoitteeseen."
+        ],
+        [
+          "Vähemmän kitkaa",
+          "Kuva tekee aloittamisesta nopeaa myös kiireessä."
+        ],
+        [
+          "Tarkista lisät",
+          "Öljy, kastikkeet, juomat ja naposteltavat vaikuttavat usein eniten."
+        ]
+      ],
+      "workflowTitle": "Käytä sovellusta painonpudotuksessa",
+      "workflow": [
+        "Kirjaa ateriat mahdollisimman pian. Tarkista annoskoko ja lisää piilossa olevat kalorit, kuten kastikkeet ja juomat.",
+        "Katso mieluummin viikon trendiä kuin yksittäistä päivää."
+      ],
+      "note": "Ravintoarviot ovat suuntaa antavia eivätkä korvaa lääkärin, ravitsemusterapeutin tai muun terveydenhuollon ammattilaisen neuvoja.",
+      "bestFor": [
+        "kalorivaje",
+        "päivittäinen tavoite",
+        "annokset",
+        "trendit"
+      ],
+      "workflowKicker": "Painonpudotus",
+      "noteTitle": "Turvallisuus"
+    },
+    "/calorie-deficit-app/": {
+      "title": "Kalorivajesovellus",
+      "h1": "Tee kalorivajeesta näkyvämpi",
+      "description": "Seuraa syötyjä kaloreita ja päivän jäljellä olevaa tavoitetta selkeässä päiväkirjassa.",
+      "kicker": "Kalorivaje",
+      "summary": "Kalorivaje ei vaadi täydellistä kirjaamista, mutta se vaatii riittävän luotettavan kokonaiskuvan.",
+      "bullets": [
+        "Päivän tavoite",
+        "Aterioiden kirjaus",
+        "Makrot",
+        "Viikkojen trendit"
+      ],
+      "sections": [
+        [
+          "Mitä kalorivaje tarkoittaa",
+          "Syöt pitkällä aikavälillä vähemmän energiaa kuin kulutat."
+        ],
+        [
+          "Miksi kirjaaminen auttaa",
+          "Päiväkirja tekee arvailusta konkreettisempaa."
+        ],
+        [
+          "Mitä ei kannata unohtaa",
+          "Juomat, öljy, kastikkeet ja pienet lisät voivat muuttaa kokonaisuutta."
+        ]
+      ],
+      "workflowTitle": "Seuraa vajetta käytännössä",
+      "workflow": [
+        "Aseta järkevä tavoite ja kirjaa ateriat kuvalla, viivakoodilla tai käsin. Tarkista päiväkirjasta, mihin päivän kalorit kuluvat.",
+        "Älä tee liian suurta vajetta ilman ammattilaisen tukea."
+      ],
+      "note": "Ravintoarviot ovat suuntaa antavia eivätkä korvaa lääkärin, ravitsemusterapeutin tai muun terveydenhuollon ammattilaisen neuvoja.",
+      "bestFor": [
+        "painonpudotus",
+        "kaloritavoite",
+        "annoshallinta",
+        "viikkotrendit"
+      ],
+      "workflowKicker": "Kalorivaje",
+      "noteTitle": "Hyvä tietää"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Kalorilaskuri lihasmassan kasvatukseen",
+      "h1": "Seuraa kaloreita ja proteiinia lihaskasvun tueksi",
+      "description": "Pidä energiansaanti ja proteiini näkyvissä, kun tavoitteena on kasvattaa lihasmassaa.",
+      "kicker": "Lihaskasvu",
+      "summary": "Lihasmassan kasvatus vaatii usein riittävästi energiaa, proteiinia ja johdonmukaisuutta.",
+      "bullets": [
+        "Proteiini näkyvissä",
+        "Kaloritavoite",
+        "Ateriakirjaus",
+        "Trendit"
+      ],
+      "sections": [
+        [
+          "Miksi proteiini korostuu",
+          "Proteiinin seuraaminen auttaa varmistamaan, ettei päivän kokonaisuus jää liian matalaksi."
+        ],
+        [
+          "Energiaa riittävästi",
+          "Lihaskasvussa liian pieni energiansaanti voi hidastaa kehitystä."
+        ],
+        [
+          "Käytännön seuranta",
+          "Kuva- ja viivakoodikirjaus helpottaa arjen ruokien tallentamista."
+        ]
+      ],
+      "workflowTitle": "Kirjaa lihaskasvun kannalta olennaiset asiat",
+      "workflow": [
+        "Seuraa proteiinia ja päivän kokonaiskaloreita. Korjaa annokset, jos tiedät määrät tai reseptin paremmin kuin AI.",
+        "Katso useamman päivän keskiarvoja yksittäisten aterioiden sijaan."
+      ],
+      "note": "Ravintoarviot ovat suuntaa antavia eivätkä korvaa lääkärin, ravitsemusterapeutin tai muun terveydenhuollon ammattilaisen neuvoja.",
+      "bestFor": [
+        "proteiini",
+        "energiaylijäämä",
+        "voimaharjoittelu",
+        "ateriarytmi"
+      ],
+      "workflowKicker": "Lihaskasvu",
+      "noteTitle": "Huomio"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Kalorilaskuri painon ylläpitoon",
+      "h1": "Pidä ruokailu tasaisena ilman ylikontrollia",
+      "description": "Seuraa kaloreita ja makroja kevyesti, kun tavoitteena on pitää nykyinen paino ja rutiinit vakaina.",
+      "kicker": "Ylläpito",
+      "summary": "Ylläpidossa tärkeintä on tunnistaa tavalliset annokset ja toistuvat tavat.",
+      "bullets": [
+        "Kevyt seuranta",
+        "Toistuvat ateriat",
+        "Makrot",
+        "Viikkotrendit"
+      ],
+      "sections": [
+        [
+          "Miksi seurata ylläpidossa",
+          "Päiväkirja auttaa huomaamaan muutokset ennen kuin ne kasvavat isoiksi."
+        ],
+        [
+          "Ei täydellisyyttä",
+          "Kaikkea ei tarvitse punnita, jos tavoitteena on arjen kokonaiskuva."
+        ],
+        [
+          "Käytä trendejä",
+          "Katso viikkoja ja kuukausia, älä yksittäisiä poikkeuksia."
+        ]
+      ],
+      "workflowTitle": "Pidä seuranta kevyenä",
+      "workflow": [
+        "Kirjaa tärkeimmät ateriat ja korjaa vain olennaiset annosmuutokset. Tallenna usein toistuvat ruoat nopeaa käyttöä varten.",
+        "Käytä sovellusta työkaluna, ei sääntökirjana."
+      ],
+      "note": "Ravintoarviot ovat suuntaa antavia eivätkä korvaa lääkärin, ravitsemusterapeutin tai muun terveydenhuollon ammattilaisen neuvoja.",
+      "bestFor": [
+        "painon ylläpito",
+        "rutiinit",
+        "viikkotrendit",
+        "kevyt kirjaus"
+      ],
+      "workflowKicker": "Ylläpito",
+      "noteTitle": "Hyvä tietää"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Kalorilaskuri kotiruoalle",
+      "h1": "Arvioi kotiruoan kalorit helpommin",
+      "description": "Kirjaa keitot, pastat, padat, salaatit ja muut kotiruoat myös ilman valmista ravintoarvomerkintää.",
+      "kicker": "Kotiruoka",
+      "summary": "Kotiruoka on usein sekoitus useita ainesosia, joten kuva-arvio ja oma korjaus toimivat parhaiten yhdessä.",
+      "bullets": [
+        "Sekaruoat",
+        "Reseptit",
+        "Annoksen korjaus",
+        "Piilossa olevat rasvat"
+      ],
+      "sections": [
+        [
+          "Miksi kotiruoka on haastavaa",
+          "Öljy, kastikkeet, juusto ja eri annoskoot voivat muuttaa kaloreita paljon."
+        ],
+        [
+          "Kuva auttaa aloittamaan",
+          "Saat nopeasti luonnoksen sen sijaan, että rakentaisit aterian alusta asti."
+        ],
+        [
+          "Korjaa tärkeimmät tiedot",
+          "Lisää reseptistä tiedetyt asiat, kuten käytetty öljy tai annoksen koko."
+        ]
+      ],
+      "workflowTitle": "Kirjaa kotiruoka järkevästi",
+      "workflow": [
+        "Ota kuva annoksesta ja tarkista pääraaka-aineet. Lisää käsin sellaiset ainesosat, joita kuva ei näytä kunnolla.",
+        "Jos teet samaa ruokaa usein, tallenna korjattu versio myöhempää käyttöä varten."
+      ],
+      "note": "Ravintoarviot ovat suuntaa antavia eivätkä korvaa lääkärin, ravitsemusterapeutin tai muun terveydenhuollon ammattilaisen neuvoja.",
+      "bestFor": [
+        "keitot",
+        "padat",
+        "pasta",
+        "salaatit"
+      ],
+      "workflowKicker": "Kotiruoka",
+      "noteTitle": "Käytännön vinkki"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Ravintolaruoan kaloriseuranta",
+      "h1": "Kirjaa ravintola-annokset kuvalla",
+      "description": "Arvioi ravintolaruoan kalorit ja makrot, vaikka tarkkaa reseptiä tai ravintoarvoja ei olisi saatavilla.",
+      "kicker": "Ravintolat",
+      "summary": "Ravintola-annoksissa annoskoko, öljy, kastike ja lisukkeet voivat vaikuttaa paljon.",
+      "bullets": [
+        "Kuva-arvio",
+        "Annoskoon tarkistus",
+        "Kastikkeet ja lisukkeet",
+        "Päiväkirja mukaan"
+      ],
+      "sections": [
+        [
+          "Miksi ravintolaruoka vaihtelee",
+          "Sama ruokalaji voi erota ravintolan, kokin ja annoskoon mukaan."
+        ],
+        [
+          "Kuva antaa lähtökohdan",
+          "Saat nopeasti järkevän arvion, jota voi muokata."
+        ],
+        [
+          "Tarkista lisät",
+          "Leipä, juomat, kastikkeet ja jälkiruoka kannattaa kirjata erikseen."
+        ]
+      ],
+      "workflowTitle": "Kirjaa ravintola-annos",
+      "workflow": [
+        "Ota kuva ennen syömistä. Tarkista arvio ja lisää näkyvän annoksen ulkopuoliset lisät.",
+        "Käytä arviota suuntana, älä absoluuttisena totuutena."
+      ],
+      "note": "Ravintoarviot ovat suuntaa antavia eivätkä korvaa lääkärin, ravitsemusterapeutin tai muun terveydenhuollon ammattilaisen neuvoja.",
+      "bestFor": [
+        "ravintolat",
+        "noutoruoka",
+        "matkustaminen",
+        "sosiaaliset ateriat"
+      ],
+      "workflowKicker": "Ravintolaruoka",
+      "noteTitle": "Tarkkuus"
+    },
+    "/meal-tracker/": {
+      "title": "Ateriaseuranta",
+      "h1": "Seuraa aterioita päivän aikana",
+      "description": "Pidä aamupala, lounas, päivällinen ja välipalat yhdessä selkeässä näkymässä.",
+      "kicker": "Ateriat",
+      "summary": "Ateriaseuranta auttaa ymmärtämään, mihin päivän kalorit kertyvät.",
+      "bullets": [
+        "Ateriat päivän mukaan",
+        "Kuva- ja viivakoodikirjaus",
+        "Makrot",
+        "Historia"
+      ],
+      "sections": [
+        [
+          "Miksi ateriat kannattaa erotella",
+          "Päivän kokonaisuus on helpompi hahmottaa, kun ateriat ovat omissa kohdissaan."
+        ],
+        [
+          "Nopea aloitus",
+          "Kuva tai viivakoodi riittää usein luonnoksen luomiseen."
+        ],
+        [
+          "Parempi muistijälki",
+          "Kirjaa lähellä ateriaa, jotta annos ja lisät ovat vielä mielessä."
+        ]
+      ],
+      "workflowTitle": "Kirjaa ateriat yksinkertaisesti",
+      "workflow": [
+        "Lisää jokainen pääateria tai ainakin päivän suurimmat ateriat. Korjaa annos ja piilossa olevat lisät ennen tallennusta.",
+        "Säännöllisyys on hyödyllisempää kuin täydellinen tarkkuus jokaisessa merkinnässä."
+      ],
+      "note": "Ravintoarviot ovat suuntaa antavia eivätkä korvaa lääkärin, ravitsemusterapeutin tai muun terveydenhuollon ammattilaisen neuvoja.",
+      "bestFor": [
+        "aamupala",
+        "lounas",
+        "päivällinen",
+        "välipalat"
+      ],
+      "workflowKicker": "Ateriat",
+      "noteTitle": "Rutiini"
+    },
+    "/photo-food-journal/": {
+      "title": "Ruokapäiväkirja kuvilla",
+      "h1": "Pidä visuaalista ruokapäiväkirjaa",
+      "description": "Tallenna ateriat kuvina ja lisää niihin kalori- sekä makroarviot.",
+      "kicker": "Kuvapäiväkirja",
+      "summary": "Kuvat tekevät päiväkirjasta konkreettisen ja auttavat muistamaan, mitä oikeasti söit.",
+      "bullets": [
+        "Ateriakuvat",
+        "AI-arviot",
+        "Muokattavat merkinnät",
+        "Päivähistoria"
+      ],
+      "sections": [
+        [
+          "Miksi kuvat auttavat",
+          "Kuva näyttää annoksen ja kontekstin paremmin kuin pelkkä tekstirivi."
+        ],
+        [
+          "Nopea tapa aloittaa",
+          "Avaa kamera, ota kuva ja täydennä tiedot myöhemmin."
+        ],
+        [
+          "Tavat näkyviin",
+          "Selaamalla kuvia huomaat toistuvat annokset, välipalat ja juomat."
+        ]
+      ],
+      "workflowTitle": "Käytä kuvapäiväkirjaa",
+      "workflow": [
+        "Ota kuva ateriasta aina kun mahdollista. Tarkista AI-arvio ja lisää puuttuvat tiedot ennen tallennusta.",
+        "Palaa viikon lopussa kuviin ja katso, mitkä tavat toistuvat."
+      ],
+      "note": "Ravintoarviot ovat suuntaa antavia eivätkä korvaa lääkärin, ravitsemusterapeutin tai muun terveydenhuollon ammattilaisen neuvoja.",
+      "bestFor": [
+        "visuaalinen seuranta",
+        "ateriamuisti",
+        "tavat",
+        "nopea kirjaus"
+      ],
+      "workflowKicker": "Kuvapäiväkirja",
+      "noteTitle": "Hyvä tietää"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Terveellisen syömisen seuranta",
+      "h1": "Seuraa ruokailutapoja selkeämmin",
+      "description": "Ymmärrä aterioiden rakennetta, proteiinia, kasviksia, välipaloja ja energiamäärää ilman monimutkaista järjestelmää.",
+      "kicker": "Terveellinen syöminen",
+      "summary": "Terveellinen syöminen ei ole vain yksittäinen luku, vaan toistuvia valintoja ja kokonaisuutta.",
+      "bullets": [
+        "Ateriarytmi",
+        "Proteiini ja makrot",
+        "Kasvikset ja lisukkeet",
+        "Trendit"
+      ],
+      "sections": [
+        [
+          "Katso kokonaisuutta",
+          "Päiväkirja auttaa näkemään, millaiset ateriat toistuvat."
+        ],
+        [
+          "Älä keskity vain kaloreihin",
+          "Makrot, annoskoko ja ruoan laatu vaikuttavat myös käytännön arkeen."
+        ],
+        [
+          "Tee pieniä korjauksia",
+          "Selkeät tiedot helpottavat seuraavaa ruokavalintaa."
+        ]
+      ],
+      "workflowTitle": "Rakenna parempi kokonaiskuva",
+      "workflow": [
+        "Kirjaa aterioita useampana päivänä ja katso, mitä toistuu. Lisää erityisesti juomat, välipalat ja kastikkeet, jos ne vaikuttavat päivään.",
+        "Käytä tietoja apuna, ei syyllistämiseen."
+      ],
+      "note": "Ravintoarviot ovat suuntaa antavia eivätkä korvaa lääkärin, ravitsemusterapeutin tai muun terveydenhuollon ammattilaisen neuvoja.",
+      "bestFor": [
+        "ruokailutavat",
+        "makrot",
+        "kasvikset",
+        "päivittäinen rytmi"
+      ],
+      "workflowKicker": "Terveellinen syöminen",
+      "noteTitle": "Periaate"
+    },
+    "/blog/": {
+      "title": "Oppaat",
+      "h1": "Kalorien, makrojen ja ruokapäiväkirjan oppaat",
+      "description": "Käytännön oppaita kalorien laskemiseen kuvasta, makrojen seuraamiseen, annoskoon arviointiin ja ravintola-aterioiden kirjaamiseen.",
+      "kicker": "Oppaat"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Kuinka laskea kalorit kuvasta",
+      "h1": "Kuinka laskea kalorit kuvasta",
+      "description": "Ota kuva ateriasta, tarkista AI-arvio ja tallenna kalorit sekä makrot ruokapäiväkirjaan.",
+      "category": "Kuvaopas",
+      "readTime": "5 min lukuaika",
+      "intro": "Kalorien laskeminen kuvasta toimii parhaiten, kun AI antaa luonnoksen ja sinä tarkistat annoksen sekä piilossa olevat lisät.",
+      "sections": [
+        [
+          "Aloita kuvalla",
+          "Ota selkeä kuva koko annoksesta ennen syömistä. Hyvä valo ja näkyvä lautanen parantavat arviota."
+        ],
+        [
+          "Tarkista tulos",
+          "Varmista, että pääraaka-aineet, annoskoko ja mahdolliset kastikkeet ovat mukana."
+        ],
+        [
+          "Korjaa tärkeimmät asiat",
+          "Muuta annosta tai lisää piilossa olevat ainesosat, kuten öljy, juusto, sokeri ja juomat."
+        ],
+        [
+          "Tallenna päiväkirjaan",
+          "Kun arvio näyttää järkevältä, tallenna se ja seuraa päivän kokonaisuutta."
+        ]
+      ],
+      "takeaway": "Kuva nopeuttaa kirjaamista, mutta paras tulos syntyy, kun tarkistat annoksen ja lisäät puuttuvat ainesosat."
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Kuinka tarkkoja AI-kalorilaskurit ovat?",
+      "h1": "Kuinka tarkkoja AI-kalorilaskurit ovat?",
+      "description": "AI-kalorilaskuri antaa suuntaa antavan arvion, jonka tarkkuus riippuu kuvasta, annoksesta ja reseptistä.",
+      "category": "Tarkkuus",
+      "readTime": "5 min lukuaika",
+      "intro": "AI-arvio on hyödyllinen lähtökohta, mutta sitä ei pidä käsitellä laboratoriomittauksena.",
+      "sections": [
+        [
+          "Mikä parantaa tarkkuutta",
+          "Selkeä kuva, näkyvä annos ja yksinkertainen ruokalaji tekevät arviosta luotettavamman."
+        ],
+        [
+          "Mikä heikentää tarkkuutta",
+          "Piilossa oleva öljy, kastikkeet, täytteet ja suuret annoskoot voivat muuttaa tulosta."
+        ],
+        [
+          "Miksi korjaus on tärkeää",
+          "Jos tiedät annoksen tai reseptin paremmin, muokkaa arviota ennen tallennusta."
+        ],
+        [
+          "Milloin tarvitaan asiantuntija",
+          "Lääketieteelliset tavoitteet ja erityisruokavaliot kannattaa suunnitella ammattilaisen kanssa."
+        ]
+      ],
+      "takeaway": "AI-kalorilaskuri on käytännöllinen arjen työkalu, ei terveydenhuollon mittauslaite."
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "AI-kalorilaskuri vai manuaalinen kirjaus",
+      "h1": "AI-kalorilaskuri vai manuaalinen kirjaus",
+      "description": "Vertaa kuva-arvioita, viivakoodeja ja käsin kirjaamista arjen ruokapäiväkirjassa.",
+      "category": "Vertailu",
+      "readTime": "5 min lukuaika",
+      "intro": "Paras tapa ei ole aina sama: kuvat nopeuttavat, viivakoodit sopivat pakkauksille ja käsin kirjaus on hyödyllinen, kun tiedät tarkan reseptin.",
+      "sections": [
+        [
+          "AI nopeuttaa aloitusta",
+          "Kuva antaa nopeasti luonnoksen ateriasta ilman pitkää hakua."
+        ],
+        [
+          "Manuaalinen kirjaus antaa kontrollia",
+          "Tarkka resepti, punnittu annos tai oma ruoka kannattaa korjata käsin."
+        ],
+        [
+          "Viivakoodit sopivat pakkauksille",
+          "Pakatut tuotteet löytyvät usein nopeimmin skannaamalla."
+        ],
+        [
+          "Yhdistä menetelmät",
+          "Arjen paras tarkkuus tulee usein siitä, että käytät kaikkia kolmea tilanteen mukaan."
+        ]
+      ],
+      "takeaway": "Käytä AI:ta luonnoksena ja manuaalista korjausta silloin, kun tiedät enemmän kuin kuva näyttää."
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Ruokien kaloriskanneri",
+      "h1": "Ruokien kaloriskanneri",
+      "description": "Näin käytät kuvaa ja viivakoodia ruokien kalorien arviointiin nopeasti.",
+      "category": "Skanneri",
+      "readTime": "5 min lukuaika",
+      "intro": "Kaloriskanneri voi tarkoittaa sekä ruokakuvan AI-analyysiä että pakatun tuotteen viivakoodinlukijaa.",
+      "sections": [
+        [
+          "Kuva sekaruoille",
+          "Käytä kuvaa, kun ruoalla ei ole etikettiä tai annos on ravintolasta."
+        ],
+        [
+          "Viivakoodi tuotteille",
+          "Skannaa pakkaus, kun tuotteella on viivakoodi."
+        ],
+        [
+          "Tarkista annos",
+          "Sekä kuva että viivakoodi tarvitsevat oikean syödyn määrän."
+        ],
+        [
+          "Tallenna kokonaisuus",
+          "Lisää tarvittaessa kastikkeet, juomat ja lisukkeet erikseen."
+        ]
+      ],
+      "takeaway": "Skanneri nopeuttaa kirjaamista, mutta annos on aina sinun tarkistettava."
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Makrojen seuranta aloittelijalle",
+      "h1": "Makrojen seuranta aloittelijalle",
+      "description": "Opi seuraamaan proteiinia, rasvaa ja hiilihydraatteja ilman monimutkaista laskentaa.",
+      "category": "Makrot",
+      "readTime": "5 min lukuaika",
+      "intro": "Makrojen seuraaminen auttaa ymmärtämään, mistä päivän energia tulee.",
+      "sections": [
+        [
+          "Proteiini",
+          "Proteiini on tärkeä kylläisyyden ja lihasmassan kannalta."
+        ],
+        [
+          "Rasva",
+          "Rasva on energiatiheää, joten pienetkin määrät voivat vaikuttaa kaloreihin paljon."
+        ],
+        [
+          "Hiilihydraatit",
+          "Hiilihydraatit tulevat esimerkiksi viljoista, hedelmistä, perunasta, riisistä ja makeista juomista."
+        ],
+        [
+          "Katso kokonaisuutta",
+          "Yksittäinen ateria voi vaihdella; tärkeämpää on päivän ja viikon kokonaisuus."
+        ]
+      ],
+      "takeaway": "Aloita seuraamalla vain kokonaiskaloreita ja proteiinia, jos kaikki makrot tuntuvat aluksi liialta."
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Kalorit vai makrot",
+      "h1": "Kalorit vai makrot",
+      "description": "Kalorit kertovat energian määrän, makrot kertovat energian lähteen. Molempia kannattaa katsoa yhdessä.",
+      "category": "Perusteet",
+      "readTime": "5 min lukuaika",
+      "intro": "Kalorit ja makrot vastaavat eri kysymyksiin, joten ne eivät korvaa toisiaan.",
+      "sections": [
+        [
+          "Kalorit",
+          "Kalorit kuvaavat ruoan energiamäärää."
+        ],
+        [
+          "Makrot",
+          "Proteiini, rasva ja hiilihydraatit kertovat, mistä energia muodostuu."
+        ],
+        [
+          "Miksi molemmat auttavat",
+          "Sama kalorimäärä voi tuntua kehossa erilaiselta, jos makrojakauma on eri."
+        ],
+        [
+          "Käytännön käyttö",
+          "Seuraa ensin kokonaisuutta ja tee pieniä muutoksia tavoitteesi mukaan."
+        ]
+      ],
+      "takeaway": "Kalorit antavat rajan, makrot auttavat rakentamaan päivän laadukkaammin."
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Kuinka laskea kotiruoan kalorit",
+      "h1": "Kuinka laskea kotiruoan kalorit",
+      "description": "Kotiruoan kalorit arvioidaan parhaiten yhdistämällä kuva, reseptitieto ja annoskoon tarkistus.",
+      "category": "Kotiruoka",
+      "readTime": "5 min lukuaika",
+      "intro": "Kotiruoka on usein haastavampaa kuin pakattu tuote, koska resepti ja annoskoko vaihtelevat.",
+      "sections": [
+        [
+          "Aloita annoksesta",
+          "Ota kuva siitä määrästä, jonka aiot syödä."
+        ],
+        [
+          "Lisää reseptin tärkeät kohdat",
+          "Öljy, voi, juusto, kerma ja kastikkeet muuttavat kokonaisuutta paljon."
+        ],
+        [
+          "Korjaa annos",
+          "Jos tiedät, kuinka monta annosta reseptistä tuli, käytä sitä arvion säätämiseen."
+        ],
+        [
+          "Tallenna toistuvat ruoat",
+          "Sama kotiruoka on seuraavalla kerralla nopeampi kirjata."
+        ]
+      ],
+      "takeaway": "Kotiruoassa tärkeintä on korjata annoskoko ja energiatiheät lisät."
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Kuinka arvioida annoskoko",
+      "h1": "Kuinka arvioida annoskoko",
+      "description": "Annoskoko on usein suurin kaloriarvion epävarmuus. Näin teet arviosta hyödyllisemmän.",
+      "category": "Annokset",
+      "readTime": "5 min lukuaika",
+      "intro": "Kalorit voivat muuttua paljon, vaikka ruokalaji olisi sama, jos annos on eri kokoinen.",
+      "sections": [
+        [
+          "Käytä lautasta vertailuna",
+          "Kuva koko lautasesta auttaa arvioimaan määrää."
+        ],
+        [
+          "Huomioi tiheät ruoat",
+          "Pähkinät, öljyt, juustot ja kastikkeet sisältävät paljon energiaa pienessä määrässä."
+        ],
+        [
+          "Korjaa, jos tiedät enemmän",
+          "Jos punnitsit annoksen tai tiedät pakkauskoon, käytä tarkempaa tietoa."
+        ],
+        [
+          "Tallenna usein toistuvat annokset",
+          "Omat vakiokoot nopeuttavat myöhempää kirjaamista."
+        ]
+      ],
+      "takeaway": "Annoskoon arvio ei ole täydellinen mittaus, mutta se voi olla riittävän hyvä arjen seurantaan."
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Kuinka monta kaloria minun pitäisi syödä päivässä?",
+      "h1": "Kuinka monta kaloria minun pitäisi syödä päivässä?",
+      "description": "Päivittäinen kaloritarve riippuu kehosta, aktiivisuudesta, tavoitteesta ja terveydentilasta.",
+      "category": "Kaloritavoite",
+      "readTime": "5 min lukuaika",
+      "intro": "Yleinen sovellus voi auttaa seuraamaan syömistä, mutta henkilökohtainen tarve vaihtelee.",
+      "sections": [
+        [
+          "Tarve on yksilöllinen",
+          "Ikä, koko, aktiivisuus ja tavoite vaikuttavat energiamäärään."
+        ],
+        [
+          "Tavoite muuttaa määrää",
+          "Painonpudotus, ylläpito ja lihaskasvu vaativat eri lähestymistavan."
+        ],
+        [
+          "Seuraa trendiä",
+          "Paino, vireys ja nälkä kertovat usein enemmän kuin yhden päivän luku."
+        ],
+        [
+          "Kysy ammattilaiselta",
+          "Terveydelliset tilanteet ja erityisruokavaliot kannattaa käydä läpi asiantuntijan kanssa."
+        ]
+      ],
+      "takeaway": "Käytä kalorimäärää lähtökohtana ja seuraa, miten kehosi ja arjen trendit reagoivat."
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Mikä on kalorivaje?",
+      "h1": "Mikä on kalorivaje?",
+      "description": "Kalorivaje tarkoittaa, että saat pitkällä aikavälillä vähemmän energiaa kuin kulutat.",
+      "category": "Painonpudotus",
+      "readTime": "5 min lukuaika",
+      "intro": "Kalorivaje on painonpudotuksen perusperiaate, mutta sen toteutustapa vaikuttaa jaksamiseen.",
+      "sections": [
+        [
+          "Perusidea",
+          "Kun energiansaanti on kulutusta pienempi riittävän pitkään, paino voi laskea."
+        ],
+        [
+          "Liian suuri vaje voi olla ongelma",
+          "Hyvin matala energiansaanti voi heikentää jaksamista ja ruokailun hallintaa."
+        ],
+        [
+          "Proteiini ja rutiinit auttavat",
+          "Kylläisyys, proteiini ja säännöllisyys tekevät vajeesta käytännöllisemmän."
+        ],
+        [
+          "Seuraa useita päiviä",
+          "Yksittäinen päivä ei ratkaise, vaan pidempi keskiarvo."
+        ]
+      ],
+      "takeaway": "Kalorivajeen pitäisi olla realistinen, seurattava ja omaan tilanteeseen sopiva."
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Yleisimmät kalorilaskennan virheet",
+      "h1": "Yleisimmät kalorilaskennan virheet",
+      "description": "Vältä yleisiä virheitä, jotka tekevät ruokapäiväkirjasta vähemmän hyödyllisen.",
+      "category": "Virheet",
+      "readTime": "5 min lukuaika",
+      "intro": "Kalorilaskenta toimii parhaiten, kun keskityt suurimpiin vaikutuksiin etkä täydellisyyteen.",
+      "sections": [
+        [
+          "Unohdetut lisät",
+          "Öljy, kastikkeet, juomat ja pienet naposteltavat jäävät helposti kirjaamatta."
+        ],
+        [
+          "Väärä annoskoko",
+          "Sama ruoka voi sisältää hyvin eri määrän kaloreita annoksen koosta riippuen."
+        ],
+        [
+          "Liika tarkkuusstressi",
+          "Jokaisen gramman täydellinen seuraaminen voi tehdä tavasta raskaan."
+        ],
+        [
+          "Ei katsota trendejä",
+          "Yhden päivän sijaan kannattaa katsoa viikon kokonaisuutta."
+        ]
+      ],
+      "takeaway": "Korjaa ensin isot asiat: annos, öljy, kastikkeet, juomat ja toistuvat välipalat."
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Kuinka kirjata ravintolaruoka",
+      "h1": "Kuinka kirjata ravintolaruoka",
+      "description": "Ravintola-annoksen kalorit arvioidaan paremmin, kun kuva, annoskoko ja lisukkeet huomioidaan yhdessä.",
+      "category": "Ravintolat",
+      "readTime": "5 min lukuaika",
+      "intro": "Ravintolaruoassa tarkka resepti ei yleensä ole tiedossa, joten tavoitteena on järkevä arvio.",
+      "sections": [
+        [
+          "Ota kuva ennen syömistä",
+          "Kuva antaa lähtökohdan annoksen arviointiin."
+        ],
+        [
+          "Lisää lisukkeet",
+          "Leipä, kastikkeet, juomat ja jälkiruoat voivat muuttaa päivän kokonaisuutta."
+        ],
+        [
+          "Säädä annosta",
+          "Jos annos oli poikkeuksellisen suuri tai pieni, korjaa arviota."
+        ],
+        [
+          "Älä hae täydellisyyttä",
+          "Ravintolassa suuntaa antava arvio on usein käytännöllisin vaihtoehto."
+        ]
+      ],
+      "takeaway": "Ravintolaruoassa paras tavoite on rehellinen ja johdonmukainen arvio, ei täydellinen luku."
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Kuinka seurata proteiinia",
+      "h1": "Kuinka seurata proteiinia",
+      "description": "Proteiinin seuranta auttaa kylläisyydessä, lihasmassan ylläpidossa ja päivän ruokarakenteen hahmottamisessa.",
+      "category": "Proteiini",
+      "readTime": "5 min lukuaika",
+      "intro": "Proteiini on monelle ensimmäinen makro, jota kannattaa seurata kalorien rinnalla.",
+      "sections": [
+        [
+          "Katso päivän kokonaisuutta",
+          "Yksittäisen aterian sijaan tärkeää on usein päivän kokonaismäärä."
+        ],
+        [
+          "Tunnista proteiinilähteet",
+          "Kana, kala, kananmunat, maitotuotteet, tofu, palkokasvit ja proteiinijuomat ovat tavallisia lähteitä."
+        ],
+        [
+          "Käytä päiväkirjaa",
+          "Sovellus näyttää proteiinin kalorien rinnalla, jolloin puutteet on helpompi huomata."
+        ],
+        [
+          "Säädä tavoitteen mukaan",
+          "Tarve riippuu tavoitteesta, kehosta, harjoittelusta ja terveydentilasta."
+        ]
+      ],
+      "takeaway": "Proteiinia kannattaa seurata yksinkertaisesti: kirjaa ateriat ja katso päivän kokonaismäärä."
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Mikä on ruokapäiväkirja?",
+      "h1": "Mikä on ruokapäiväkirja?",
+      "description": "Ruokapäiväkirja on tapa tallentaa ateriat, annokset ja ravintoarviot, jotta ruokailutottumukset näkyvät selvemmin.",
+      "category": "Päiväkirja",
+      "readTime": "5 min lukuaika",
+      "intro": "Ruokapäiväkirjan arvo syntyy siitä, että se tekee arjen valinnoista näkyviä.",
+      "sections": [
+        [
+          "Mitä siihen kirjataan",
+          "Ateriat, välipalat, juomat, annokset ja tarvittaessa kalorit sekä makrot."
+        ],
+        [
+          "Miksi se auttaa",
+          "Muisti ei aina kerro tarkasti, mitä ja kuinka paljon söimme."
+        ],
+        [
+          "Kuvan hyöty",
+          "Ateriakuva nopeuttaa merkinnän aloittamista ja auttaa muistamaan annoksen."
+        ],
+        [
+          "Pidä se kestävänä",
+          "Paras päiväkirja on sellainen, jota jaksat käyttää myös tavallisina päivinä."
+        ]
+      ],
+      "takeaway": "Ruokapäiväkirjan ei tarvitse olla täydellinen; sen pitää olla riittävän helppo ja rehellinen."
+    },
+    "/download/": {
+      "title": "Lataa Calorie Counter AI",
+      "h1": "Lataa Calorie Counter AI",
+      "description": "Lataa AI-kalorilaskuri iPhonelle tai Androidille ja aloita ruokien kirjaaminen kuvalla, viivakoodilla tai käsin.",
+      "kicker": "Lataa"
+    },
+    "/faq/": {
+      "title": "Usein kysytyt kysymykset",
+      "h1": "Usein kysytyt kysymykset",
+      "description": "Vastauksia Calorie Counter AI:n käyttöön, kuva-arvioihin, makroihin, viivakoodeihin ja tietosuojaan.",
+      "kicker": "UKK"
+    },
+    "/pricing/": {
+      "title": "Hinnoittelu",
+      "h1": "Hinnoittelu",
+      "description": "Aloita maksutta ja tarkista mahdolliset tilaukset, kokeilut ja hinnat App Storesta tai Google Playsta.",
+      "kicker": "Hinnoittelu"
+    },
+    "/support/": {
+      "title": "Tuki",
+      "h1": "Tuki",
+      "description": "Tarvitsetko apua Calorie Counter AI:n kanssa? Löydä tuki, palaute ja ongelmanraportointi.",
+      "kicker": "Tuki"
+    },
+    "/contact/": {
+      "title": "Yhteydenotto",
+      "h1": "Yhteydenotto",
+      "description": "Ota yhteyttä Calorie Counter AI -tiimiin sovellusta, yhteistyötä tai lehdistöä koskevissa asioissa.",
+      "kicker": "Yhteys"
+    },
+    "/privacy-policy/": {
+      "title": "Tietosuojakäytäntö",
+      "h1": "Tietosuojakäytäntö",
+      "description": "Lue, miten Calorie Counter AI käsittelee sovelluksen ja verkkosivuston toimintaan tarvittavia tietoja.",
+      "kicker": "Tietosuoja"
+    },
+    "/terms/": {
+      "title": "Käyttöehdot",
+      "h1": "Käyttöehdot",
+      "description": "Calorie Counter AI:n käyttöehdot ja palvelun käytön periaatteet.",
+      "kicker": "Ehdot"
+    },
+    "/health-disclaimer/": {
+      "title": "Terveysvastuuvapaus",
+      "h1": "Terveysvastuuvapaus",
+      "description": "Calorie Counter AI antaa ravintoarvioita tiedoksi eikä korvaa lääketieteellistä tai ravitsemuksellista neuvontaa.",
+      "kicker": "Vastuuvapaus"
+    },
+    "/delete-account/": {
+      "title": "Tilin poistaminen",
+      "h1": "Tilin poistaminen",
+      "description": "Ohjeet Calorie Counter AI -tilin ja siihen liittyvien tietojen poistopyynnön tekemiseen.",
+      "kicker": "Tili"
+    },
+    "/press/": {
+      "title": "Lehdistö",
+      "h1": "Lehdistö",
+      "description": "Calorie Counter AI:n lyhyt kuvaus, kuvake ja kuvakaappaus lehdistöä ja yhteistyökumppaneita varten.",
+      "kicker": "Lehdistö"
+    },
+    "/how-many-calories-in/": {
+      "title": "Ruokien kalorit",
+      "h1": "Ruokien kalorit",
+      "description": "Selaa tavallisten ruokien kaloreita, proteiinia, rasvaa, hiilihydraatteja ja annosvinkkejä.",
+      "kicker": "Kaloriopas"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Evästeasetukset",
+    "text": "Käytämme välttämättömiä evästeitä ja localStoragea kielen ja evästevalintojen muistamiseen. Suostumuksellasi käytämme myös analytiikkaevästeitä sivuston parantamiseen.",
+    "accept": "Hyväksy",
+    "decline": "Hylkää analytiikkaevästeet"
+  }
+}

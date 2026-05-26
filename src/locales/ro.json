@@ -1,0 +1,2619 @@
+{
+  "localeName": "Română",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "Calculator de calorii cu AI din fotografie"
+  },
+  "nav": {
+    "features": "Funcții",
+    "useCases": "Cazuri de utilizare",
+    "blog": "Ghiduri",
+    "faq": "Întrebări frecvente",
+    "download": "Descarcă",
+    "language": "Limbă",
+    "openMenu": "Deschide meniul",
+    "caloriesInFoods": "Calorii în alimente",
+    "all": "Toate",
+    "allFeatures": "Toate funcții",
+    "allUseCases": "Toate cazuri de utilizare",
+    "allLearn": "Toate ghiduri",
+    "openHub": "Deschide secțiunea →",
+    "home": "Acasă"
+  },
+  "cta": {
+    "appStore": "Descarcă din App Store",
+    "googlePlay": "Descarcă de pe Google Play",
+    "downloadNow": "Descarcă acum",
+    "tryFree": "Încearcă gratuit",
+    "learnMore": "Află mai multe",
+    "learnMoreArrow": "Află mai multe →",
+    "readGuide": "Citește ghidul"
+  },
+  "home": {
+    "title": "Calculator de calorii cu AI din fotografia mâncării",
+    "description": "Fotografiază masa și primești în câteva secunde o estimare editabilă pentru calorii, proteine, grăsimi, carbohidrați și mărimea porției.",
+    "heroNote": "Începe gratuit cu analize AI zilnice ale meselor. Disponibil pentru iPhone și Android.",
+    "photoEyebrow": "Funcția principală",
+    "photoTitle": "Numărare calorii din fotografie",
+    "photoText": "Nu trebuie să cauți manual fiecare ingredient. Faci o fotografie, verifici estimarea AI și salvezi masa în jurnal.",
+    "photoChecklist": [
+      "Estimare de calorii din fotografia mâncării",
+      "Proteine, grăsimi și carbohidrați într-o singură vedere",
+      "Rezultat editabil înainte de salvare",
+      "Jurnal alimentar vizual"
+    ],
+    "featureCards": [
+      [
+        "camera",
+        "Adaugă masa prin fotografie",
+        "Fotografiază porția, verifică estimarea și salvează masa fără căutări lungi."
+      ],
+      [
+        "sparkles",
+        "Estimare AI pentru mese",
+        "O estimare rapidă și orientativă pentru calorii, macronutrienți și porție când nu ai etichetă sau rețetă exactă."
+      ],
+      [
+        "shield",
+        "Analize zilnice gratuite",
+        "Testează fluxul AI de bază în fiecare zi și treci la limite mai mari doar când ai nevoie."
+      ],
+      [
+        "barcode",
+        "Alimente ambalate",
+        "Scanează coduri de bare pentru iaurturi, băuturi, gustări, semipreparate și alte produse."
+      ],
+      [
+        "macro",
+        "Macronutrienți într-un singur loc",
+        "Urmărește proteinele, grăsimile și carbohidrații alături de caloriile zilnice."
+      ],
+      [
+        "diary",
+        "Jurnal alimentar vizual",
+        "Revino la orice zi, vezi mesele ca fotografii și observă obiceiurile care se repetă."
+      ]
+    ],
+    "foodPreviewTitle": "Câte calorii au alimentele obișnuite?",
+    "foodPreviewText": "Estimări rapide de calorii și macronutrienți pentru mâncăruri, gustări și băuturi populare.",
+    "foodPreviewLink": "Deschide ghidul complet de calorii →",
+    "goalEyebrow": "Obiectiv sub control",
+    "counterTitle": "Calculator simplu de calorii pentru fiecare zi",
+    "counterText": "Folosește fotografii, coduri de bare, alimente favorite și un jurnal clar, ca numărarea caloriilor să nu pară încă o sarcină.",
+    "goalPills": [
+      "Slăbire",
+      "Menținere",
+      "Creștere musculară",
+      "Zile aglomerate"
+    ],
+    "magicEyebrow": "De ce este mai simplu",
+    "magicTitle": "Adaugă o masă în trei pași",
+    "magicText": "Fotografiezi, verifici estimarea și salvezi înregistrarea. Cu cât scrii mai puțin manual, cu atât este mai ușor să ții jurnalul constant.",
+    "magicSteps": [
+      "Fotografie",
+      "Verificare",
+      "Salvare"
+    ],
+    "barcodeEyebrow": "Produse ambalate",
+    "barcodeTitle": "Scanner de coduri de bare pentru alimente",
+    "barcodeText": "Dacă produsul are cod de bare, scanează ambalajul, confirmă produsul și adaugă rapid caloriile, proteinele, grăsimile și carbohidrații în jurnal.",
+    "barcodeLink": "Mai multe despre scannerul de coduri de bare →",
+    "progressEyebrow": "Monitorizare clară",
+    "macroTitle": "Urmărește caloriile și macronutrienții",
+    "macroText": "Vezi caloriile, proteinele, grăsimile și carbohidrații într-un singur loc și compară zile, săptămâni și luni.",
+    "macroLink": "Deschide pagina de urmărire a macronutrienților →",
+    "useCasesEyebrow": "De ce să folosești Calorie Counter AI",
+    "useCasesTitle": "Obiective nutriționale pentru viața reală",
+    "useCasesText": "Fie că vrei să slăbești, să menții greutatea, să crești masa musculară sau să înțelegi mai bine alimentația, aplicația transformă mesele în feedback zilnic clar.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Slăbire",
+        "Vezi câte calorii ți-au rămas din obiectivul zilnic."
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Mâncare gătită acasă",
+        "Estimează preparate combinate și rețete fără etichetă nutrițională."
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Mâncare la restaurant",
+        "Adaugă mesele de la restaurant mai rapid prin estimare din fotografie."
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Creștere musculară",
+        "Ține proteinele și caloriile la îndemână când mănânci în surplus energetic."
+      ]
+    ],
+    "downloadTitle": "Începe astăzi să numeri caloriile cu AI",
+    "downloadText": "Descarcă aplicația pentru iPhone sau Android și transformă următoarea fotografie cu mâncare într-o înregistrare de jurnal.",
+    "faqEyebrow": "Întrebări frecvente",
+    "faqTitle": "Ai întrebări înainte de descărcare?",
+    "faq": [
+      [
+        "Calorie Counter AI este gratuită?",
+        "Poți începe gratuit cu analize AI zilnice ale meselor. Versiunea plătită poate oferi funcții premium și limite mai mari."
+      ],
+      [
+        "Pot număra caloriile dintr-o fotografie?",
+        "Da. Fotografiază farfuria, iar aplicația estimează alimentele vizibile, caloriile, macronutrienții și porția."
+      ],
+      [
+        "Cât de exactă este estimarea AI?",
+        "Este o estimare orientativă. Precizia depinde de calitatea fotografiei, porția vizibilă, ingredientele ascunse, sosuri și corecturile tale."
+      ],
+      [
+        "Aplicația urmărește macronutrienții?",
+        "Da. În jurnal vezi proteinele, grăsimile și carbohidrații alături de calorii."
+      ],
+      [
+        "Este disponibilă pentru iPhone și Android?",
+        "Da. Aplicația este disponibilă în App Store și Google Play."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "Calculator de calorii cu AI din fotografie | Calorie Counter AI",
+    "homeOgTitle": "Calculator de calorii cu AI din fotografie",
+    "homeDescription": "Fotografiază masa și primești în câteva secunde o estimare editabilă pentru calorii, proteine, grăsimi, carbohidrați și mărimea porției."
+  },
+  "footer": {
+    "disclaimer": "Valorile nutriționale sunt orientative și nu înlocuiesc sfatul unui medic, dietetician sau alt profesionist medical.",
+    "copyright": "© 2026 Calorie Counter AI. Toate drepturile rezervate."
+  },
+  "foodIndex": {
+    "findTitle": "Calorii, macronutrienți și sfaturi practice pentru porții",
+    "findText": "Ghidul include valori orientative pentru alimente populare și sfaturi pentru porție, preparare, sosuri, ulei și adaosuri.",
+    "categoryIntro": "Căutări populare de calorii și macronutrienți în această categorie."
+  },
+  "foodPage": {
+    "eyebrow": "Ghid de calorii",
+    "trackInApp": "Înregistrează în aplicație",
+    "browseFoods": "Răsfoiește alimente",
+    "typicalEstimate": "Estimare tipică",
+    "caloriesMacros": "Calorii și macronutrienți",
+    "whenFits": "Când se potrivește în jurnal",
+    "whatToWatch": "La ce să fii atent",
+    "howToLog": "Cum să înregistrezi mai precis",
+    "helpfulContext": "Context util",
+    "faq": "Întrebări frecvente",
+    "weightLossQuestion": "Se potrivește într-un plan de slăbire?",
+    "variabilityQuestion": "Ce schimbă cel mai mult caloriile?",
+    "logFasterTitle": "Înregistrează mai repede prin fotografie",
+    "logFasterText": "Fotografiază masa, verifică estimarea AI și ajustează porția sau ingredientele dacă este nevoie.",
+    "photoTrackingLink": "Deschide numărarea caloriilor din fotografie →",
+    "macros": {
+      "protein": "Proteine",
+      "fat": "Grăsimi",
+      "carbs": "Carbohidrați"
+    },
+    "titleTemplate": "{namePrep}: calorii și macronutrienți",
+    "h1Template": "{namePrep}: calorii, proteine, grăsimi și carbohidrați",
+    "descriptionTemplate": "{name}: calorii, proteine, grăsimi și carbohidrați pentru porția „{serving}”, plus sfaturi pentru înregistrarea în jurnalul alimentar.",
+    "heroIntroTemplate": "Estimativ, {calories} {kcal} pe porție: {servingLower}. Folosește valoarea ca punct de pornire și ajustează după marcă, rețetă, preparare și mărimea porției.",
+    "macroParagraphTemplate": "{name}: aproximativ {calories} {kcal} pentru porția „{servingLower}”. Această porție are cam {protein} {gram} proteine, {fat} {gram} grăsimi și {carbs} {gram} carbohidrați{fiberText}.",
+    "per100Template": "Pentru comparație, la 100 {gram}: aproximativ {calories} {kcal}, {protein} {gram} proteine, {fat} {gram} grăsimi și {carbs} {gram} carbohidrați.",
+    "calorieLevelTemplate": "Folosește porția ca reper: aici sunt indicate aproximativ {calories} {kcal} pentru „{servingLower}”."
+  },
+  "foodCategories": {
+    "Fruit": "Fructe",
+    "Protein foods": "Alimente bogate în proteine",
+    "Fruits and fats": "Fructe și grăsimi",
+    "Grains and starches": "Cereale și amidonoase",
+    "Nuts and spreads": "Nuci și creme tartinabile",
+    "Breakfast foods": "Alimente pentru mic dejun",
+    "Dairy": "Lactate",
+    "Restaurant meals": "Mese la restaurant",
+    "Fast food": "Fast-food",
+    "Legumes and plant protein": "Leguminoase și proteine vegetale",
+    "Desserts": "Deserturi",
+    "Snacks": "Gustări",
+    "Drinks": "Băuturi",
+    "Vegetables": "Legume",
+    "Sauces and condiments": "Sosuri și condimente",
+    "Mixed dishes": "Feluri combinate"
+  },
+  "foods": {
+    "banana": {
+      "name": "Banană",
+      "namePrep": "banană",
+      "serving": "1 banană medie"
+    },
+    "apple": {
+      "name": "Măr",
+      "namePrep": "măr",
+      "serving": "1 măr mediu"
+    },
+    "egg": {
+      "name": "Ou",
+      "namePrep": "ou",
+      "serving": "1 ou mare"
+    },
+    "avocado": {
+      "name": "Avocado",
+      "namePrep": "avocado",
+      "serving": "1/2 avocado mediu"
+    },
+    "chicken-breast": {
+      "name": "Piept de pui",
+      "namePrep": "piept de pui",
+      "serving": "100 g piept de pui gătit"
+    },
+    "salmon": {
+      "name": "Somon",
+      "namePrep": "somon",
+      "serving": "100 g somon la cuptor"
+    },
+    "white-rice": {
+      "name": "Orez alb",
+      "namePrep": "orez alb",
+      "serving": "1 cană de orez alb fiert"
+    },
+    "brown-rice": {
+      "name": "Orez brun",
+      "namePrep": "orez brun",
+      "serving": "1 cană de orez brun fiert"
+    },
+    "pasta": {
+      "name": "Paste",
+      "namePrep": "paste",
+      "serving": "1 cană de paste fierte"
+    },
+    "potato": {
+      "name": "Cartof",
+      "namePrep": "cartof",
+      "serving": "1 cartof mediu"
+    },
+    "sweet-potato": {
+      "name": "Cartof dulce",
+      "namePrep": "cartof dulce",
+      "serving": "1 cartof dulce mediu"
+    },
+    "bread": {
+      "name": "Pâine",
+      "namePrep": "pâine",
+      "serving": "1 felie de pâine"
+    },
+    "peanut-butter": {
+      "name": "Unt de arahide",
+      "namePrep": "unt de arahide",
+      "serving": "2 linguri de unt de arahide"
+    },
+    "oatmeal": {
+      "name": "Terci de ovăz",
+      "namePrep": "terci de ovăz",
+      "serving": "1 bol de terci de ovăz gătit"
+    },
+    "greek-yogurt": {
+      "name": "Iaurt grecesc",
+      "namePrep": "iaurt grecesc",
+      "serving": "170 g iaurt grecesc"
+    },
+    "yogurt": {
+      "name": "Iaurt",
+      "namePrep": "iaurt",
+      "serving": "1 pahar de iaurt"
+    },
+    "milk": {
+      "name": "Lapte",
+      "namePrep": "lapte",
+      "serving": "1 pahar de lapte"
+    },
+    "cheddar-cheese": {
+      "name": "Brânză cheddar",
+      "namePrep": "brânză cheddar",
+      "serving": "1 felie de brânză cheddar"
+    },
+    "pizza": {
+      "name": "Pizza",
+      "namePrep": "pizza",
+      "serving": "1 felie de pizza"
+    },
+    "burger": {
+      "name": "Burger",
+      "namePrep": "burger",
+      "serving": "1 burger obișnuit"
+    },
+    "french-fries": {
+      "name": "Cartofi prăjiți",
+      "namePrep": "cartofi prăjiți",
+      "serving": "1 porție medie de cartofi prăjiți"
+    },
+    "sushi-roll": {
+      "name": "Ruladă sushi",
+      "namePrep": "ruladă sushi",
+      "serving": "1 ruladă sushi"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "taco",
+      "serving": "1 taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "burrito",
+      "serving": "1 burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Nuggets de pui",
+      "namePrep": "nuggets de pui",
+      "serving": "6 nuggets de pui"
+    },
+    "hot-dog": {
+      "name": "Hot dog",
+      "namePrep": "hot dog",
+      "serving": "1 hot dog"
+    },
+    "steak": {
+      "name": "Friptură de vită",
+      "namePrep": "friptură de vită",
+      "serving": "100 g friptură de vită"
+    },
+    "bacon": {
+      "name": "Bacon",
+      "namePrep": "bacon",
+      "serving": "2 felii de bacon"
+    },
+    "tuna": {
+      "name": "Ton",
+      "namePrep": "ton",
+      "serving": "100 g ton"
+    },
+    "shrimp": {
+      "name": "Creveți",
+      "namePrep": "creveți",
+      "serving": "100 g creveți"
+    },
+    "tofu": {
+      "name": "Tofu",
+      "namePrep": "tofu",
+      "serving": "100 g tofu"
+    },
+    "lentils": {
+      "name": "Linte",
+      "namePrep": "linte",
+      "serving": "1 cană de linte fiartă"
+    },
+    "black-beans": {
+      "name": "Fasole neagră",
+      "namePrep": "fasole neagră",
+      "serving": "1 cană de fasole neagră fiartă"
+    },
+    "chickpeas": {
+      "name": "Năut",
+      "namePrep": "năut",
+      "serving": "1 cană de năut fiert"
+    },
+    "hummus": {
+      "name": "Hummus",
+      "namePrep": "hummus",
+      "serving": "2 linguri de hummus"
+    },
+    "quinoa": {
+      "name": "Quinoa",
+      "namePrep": "quinoa",
+      "serving": "1 cană de quinoa fiartă"
+    },
+    "tortilla": {
+      "name": "Tortilla",
+      "namePrep": "tortilla",
+      "serving": "1 tortilla de grâu"
+    },
+    "bagel": {
+      "name": "Bagel",
+      "namePrep": "bagel",
+      "serving": "1 bagel"
+    },
+    "croissant": {
+      "name": "Croissant",
+      "namePrep": "croissant",
+      "serving": "1 croissant"
+    },
+    "pancake": {
+      "name": "Clătită",
+      "namePrep": "clătită",
+      "serving": "2 clătite"
+    },
+    "waffle": {
+      "name": "Vafă",
+      "namePrep": "vafă",
+      "serving": "1 vafă"
+    },
+    "cereal": {
+      "name": "Cereale",
+      "namePrep": "cereale",
+      "serving": "1 bol de cereale"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granola",
+      "serving": "1/2 cană de granola"
+    },
+    "almonds": {
+      "name": "Migdale",
+      "namePrep": "migdale",
+      "serving": "28 g migdale"
+    },
+    "walnuts": {
+      "name": "Nuci",
+      "namePrep": "nuci",
+      "serving": "28 g nuci"
+    },
+    "cashews": {
+      "name": "Caju",
+      "namePrep": "caju",
+      "serving": "28 g caju"
+    },
+    "chocolate": {
+      "name": "Ciocolată",
+      "namePrep": "ciocolată",
+      "serving": "1 porție de ciocolată"
+    },
+    "ice-cream": {
+      "name": "Înghețată",
+      "namePrep": "înghețată",
+      "serving": "1 cupă de înghețată"
+    },
+    "cookie": {
+      "name": "Fursec",
+      "namePrep": "fursec",
+      "serving": "1 fursec"
+    },
+    "donut": {
+      "name": "Gogoașă",
+      "namePrep": "gogoașă",
+      "serving": "1 gogoașă"
+    },
+    "muffin": {
+      "name": "Muffin",
+      "namePrep": "muffin",
+      "serving": "1 muffin"
+    },
+    "cake": {
+      "name": "Tort",
+      "namePrep": "tort",
+      "serving": "1 felie de tort"
+    },
+    "brownie": {
+      "name": "Brownie",
+      "namePrep": "brownie",
+      "serving": "1 bucată de brownie"
+    },
+    "popcorn": {
+      "name": "Popcorn",
+      "namePrep": "popcorn",
+      "serving": "3 căni de popcorn"
+    },
+    "potato-chips": {
+      "name": "Chipsuri de cartofi",
+      "namePrep": "chipsuri de cartofi",
+      "serving": "1 pungă mică de chipsuri"
+    },
+    "pretzels": {
+      "name": "Covrigei",
+      "namePrep": "covrigei",
+      "serving": "1 porție de covrigei"
+    },
+    "smoothie": {
+      "name": "Smoothie",
+      "namePrep": "smoothie",
+      "serving": "1 pahar de smoothie"
+    },
+    "orange-juice": {
+      "name": "Suc de portocale",
+      "namePrep": "suc de portocale",
+      "serving": "1 pahar de suc de portocale"
+    },
+    "soda": {
+      "name": "Băutură carbogazoasă",
+      "namePrep": "băutură carbogazoasă",
+      "serving": "1 doză de băutură carbogazoasă"
+    },
+    "latte": {
+      "name": "Latte",
+      "namePrep": "latte",
+      "serving": "1 latte mediu"
+    },
+    "protein-shake": {
+      "name": "Shake proteic",
+      "namePrep": "shake proteic",
+      "serving": "1 shake proteic"
+    },
+    "spaghetti-bolognese": {
+      "name": "Spaghete bolognese",
+      "namePrep": "spaghete bolognese",
+      "serving": "1 farfurie de spaghete bolognese"
+    },
+    "ramen": {
+      "name": "Ramen",
+      "namePrep": "ramen",
+      "serving": "1 bol de ramen"
+    },
+    "pho": {
+      "name": "Pho",
+      "namePrep": "pho",
+      "serving": "1 bol de pho"
+    },
+    "chicken-soup": {
+      "name": "Supă de pui",
+      "namePrep": "supă de pui",
+      "serving": "1 bol de supă de pui"
+    },
+    "caesar-salad": {
+      "name": "Salată Caesar",
+      "namePrep": "salată caesar",
+      "serving": "1 porție de salată Caesar"
+    },
+    "green-salad": {
+      "name": "Salată verde",
+      "namePrep": "salată verde",
+      "serving": "1 bol de salată verde"
+    },
+    "broccoli": {
+      "name": "Broccoli",
+      "namePrep": "broccoli",
+      "serving": "1 cană de broccoli gătit"
+    },
+    "spinach": {
+      "name": "Spanac",
+      "namePrep": "spanac",
+      "serving": "1 cană de spanac"
+    },
+    "carrots": {
+      "name": "Morcovi",
+      "namePrep": "morcovi",
+      "serving": "1 cană de morcovi"
+    },
+    "corn": {
+      "name": "Porumb",
+      "namePrep": "porumb",
+      "serving": "1 cană de porumb"
+    },
+    "tomato": {
+      "name": "Roșie",
+      "namePrep": "roșie",
+      "serving": "1 roșie medie"
+    },
+    "cucumber": {
+      "name": "Castravete",
+      "namePrep": "castravete",
+      "serving": "1 cană de castravete"
+    },
+    "cheesecake": {
+      "name": "Cheesecake",
+      "namePrep": "cheesecake",
+      "serving": "1 felie de cheesecake"
+    },
+    "lasagna": {
+      "name": "Lasagna",
+      "namePrep": "lasagna",
+      "serving": "1 porție de lasagna"
+    },
+    "grilled-cheese": {
+      "name": "Sandviș cu brânză la grătar",
+      "namePrep": "sandviș cu brânză la grătar",
+      "serving": "1 sandviș cu brânză la grătar"
+    },
+    "peanut-butter-jelly": {
+      "name": "Sandviș cu unt de arahide și gem",
+      "namePrep": "sandviș cu unt de arahide și gem",
+      "serving": "1 sandviș cu unt de arahide și gem"
+    },
+    "omelette": {
+      "name": "Omletă",
+      "namePrep": "omletă",
+      "serving": "1 omletă din 2 ouă"
+    },
+    "fried-egg": {
+      "name": "Ou prăjit",
+      "namePrep": "ou prăjit",
+      "serving": "1 ou prăjit"
+    },
+    "boiled-egg": {
+      "name": "Ou fiert",
+      "namePrep": "ou fiert",
+      "serving": "1 ou fiert"
+    },
+    "toast": {
+      "name": "Pâine prăjită",
+      "namePrep": "pâine prăjită",
+      "serving": "1 felie de pâine prăjită"
+    },
+    "avocado-toast": {
+      "name": "Toast cu avocado",
+      "namePrep": "toast cu avocado",
+      "serving": "1 toast cu avocado"
+    },
+    "chicken-salad": {
+      "name": "Salată cu pui",
+      "namePrep": "salată cu pui",
+      "serving": "1 porție de salată cu pui"
+    },
+    "tuna-salad": {
+      "name": "Salată cu ton",
+      "namePrep": "salată cu ton",
+      "serving": "1 porție de salată cu ton"
+    },
+    "egg-salad": {
+      "name": "Salată de ouă",
+      "namePrep": "salată de ouă",
+      "serving": "1 porție de salată de ouă"
+    },
+    "cottage-cheese": {
+      "name": "Brânză cottage",
+      "namePrep": "brânză cottage",
+      "serving": "1/2 cană de brânză cottage"
+    },
+    "cream-cheese": {
+      "name": "Cremă de brânză",
+      "namePrep": "cremă de brânză",
+      "serving": "2 linguri de cremă de brânză"
+    },
+    "butter": {
+      "name": "Unt",
+      "namePrep": "unt",
+      "serving": "1 lingură de unt"
+    },
+    "olive-oil": {
+      "name": "Ulei de măsline",
+      "namePrep": "ulei de măsline",
+      "serving": "1 lingură de ulei de măsline"
+    },
+    "mayonnaise": {
+      "name": "Maioneză",
+      "namePrep": "maioneză",
+      "serving": "1 lingură de maioneză"
+    },
+    "ketchup": {
+      "name": "Ketchup",
+      "namePrep": "ketchup",
+      "serving": "1 lingură de ketchup"
+    },
+    "honey": {
+      "name": "Miere",
+      "namePrep": "miere",
+      "serving": "1 lingură de miere"
+    },
+    "jam": {
+      "name": "Gem",
+      "namePrep": "gem",
+      "serving": "1 lingură de gem"
+    },
+    "protein-bar": {
+      "name": "Baton proteic",
+      "namePrep": "baton proteic",
+      "serving": "1 baton proteic"
+    },
+    "energy-drink": {
+      "name": "Băutură energizantă",
+      "namePrep": "băutură energizantă",
+      "serving": "1 doză de băutură energizantă"
+    },
+    "matcha-latte": {
+      "name": "Matcha latte",
+      "namePrep": "matcha latte",
+      "serving": "1 matcha latte"
+    },
+    "trail-mix": {
+      "name": "Mix de nuci și fructe uscate",
+      "namePrep": "mix de nuci și fructe uscate",
+      "serving": "1 porție de mix de nuci și fructe uscate"
+    },
+    "blueberries": {
+      "name": "Afine",
+      "namePrep": "afine",
+      "serving": "1 cană de afine"
+    },
+    "strawberries": {
+      "name": "Căpșuni",
+      "namePrep": "căpșuni",
+      "serving": "1 cană de căpșuni"
+    },
+    "grapes": {
+      "name": "Struguri",
+      "namePrep": "struguri",
+      "serving": "1 cană de struguri"
+    },
+    "orange": {
+      "name": "Portocală",
+      "namePrep": "portocală",
+      "serving": "1 portocală medie"
+    },
+    "pear": {
+      "name": "Pară",
+      "namePrep": "pară",
+      "serving": "1 pară medie"
+    },
+    "peach": {
+      "name": "Piersică",
+      "namePrep": "piersică",
+      "serving": "1 piersică medie"
+    },
+    "watermelon": {
+      "name": "Pepene roșu",
+      "namePrep": "pepene roșu",
+      "serving": "1 felie de pepene roșu"
+    },
+    "pineapple": {
+      "name": "Ananas",
+      "namePrep": "ananas",
+      "serving": "1 cană de ananas"
+    },
+    "mango": {
+      "name": "Mango",
+      "namePrep": "mango",
+      "serving": "1 mango mediu"
+    },
+    "kiwi": {
+      "name": "Kiwi",
+      "namePrep": "kiwi",
+      "serving": "1 kiwi"
+    },
+    "raspberries": {
+      "name": "Zmeură",
+      "namePrep": "zmeură",
+      "serving": "1 cană de zmeură"
+    },
+    "blackberries": {
+      "name": "Mure",
+      "namePrep": "mure",
+      "serving": "1 cană de mure"
+    },
+    "cherries": {
+      "name": "Cireșe",
+      "namePrep": "cireșe",
+      "serving": "1 cană de cireșe"
+    },
+    "grapefruit": {
+      "name": "Grepfrut",
+      "namePrep": "grepfrut",
+      "serving": "1/2 grepfrut"
+    },
+    "lettuce": {
+      "name": "Salată verde",
+      "namePrep": "salată verde",
+      "serving": "1 cană de salată verde"
+    },
+    "cabbage": {
+      "name": "Varză",
+      "namePrep": "varză",
+      "serving": "1 cană de varză"
+    },
+    "cauliflower": {
+      "name": "Conopidă",
+      "namePrep": "conopidă",
+      "serving": "1 cană de conopidă"
+    },
+    "asparagus": {
+      "name": "Sparanghel",
+      "namePrep": "sparanghel",
+      "serving": "1 cană de sparanghel"
+    },
+    "zucchini": {
+      "name": "Dovlecel",
+      "namePrep": "dovlecel",
+      "serving": "1 cană de dovlecel"
+    },
+    "eggplant": {
+      "name": "Vânătă",
+      "namePrep": "vânătă",
+      "serving": "1 cană de vânătă"
+    },
+    "bell-pepper": {
+      "name": "Ardei gras",
+      "namePrep": "ardei gras",
+      "serving": "1 ardei gras mediu"
+    },
+    "onion": {
+      "name": "Ceapă",
+      "namePrep": "ceapă",
+      "serving": "1 ceapă medie"
+    },
+    "mushrooms": {
+      "name": "Ciuperci",
+      "namePrep": "ciuperci",
+      "serving": "1 cană de ciuperci"
+    },
+    "green-beans": {
+      "name": "Fasole verde",
+      "namePrep": "fasole verde",
+      "serving": "1 cană de fasole verde"
+    },
+    "kale": {
+      "name": "Kale",
+      "namePrep": "kale",
+      "serving": "1 cană de kale"
+    },
+    "beets": {
+      "name": "Sfeclă roșie",
+      "namePrep": "sfeclă roșie",
+      "serving": "1 cană de sfeclă roșie"
+    },
+    "turkey-breast": {
+      "name": "Piept de curcan",
+      "namePrep": "piept de curcan",
+      "serving": "100 g piept de curcan"
+    },
+    "chicken-thigh": {
+      "name": "Pulpă de pui",
+      "namePrep": "pulpă de pui",
+      "serving": "1 pulpă de pui"
+    },
+    "pork-chop": {
+      "name": "Cotlet de porc",
+      "namePrep": "cotlet de porc",
+      "serving": "1 cotlet de porc"
+    },
+    "ground-beef": {
+      "name": "Carne tocată de vită",
+      "namePrep": "carne tocată de vită",
+      "serving": "100 g carne tocată de vită"
+    },
+    "meatballs": {
+      "name": "Chiftele",
+      "namePrep": "chiftele",
+      "serving": "4 chiftele"
+    },
+    "sausage": {
+      "name": "Cârnat",
+      "namePrep": "cârnat",
+      "serving": "1 cârnat"
+    },
+    "cod": {
+      "name": "Cod",
+      "namePrep": "cod",
+      "serving": "100 g cod"
+    },
+    "tilapia": {
+      "name": "Tilapia",
+      "namePrep": "tilapia",
+      "serving": "100 g tilapia"
+    },
+    "sardines": {
+      "name": "Sardine",
+      "namePrep": "sardine",
+      "serving": "1 conservă mică de sardine"
+    },
+    "crab": {
+      "name": "Crab",
+      "namePrep": "crab",
+      "serving": "100 g carne de crab"
+    },
+    "scallops": {
+      "name": "Scoici Saint-Jacques",
+      "namePrep": "scoici saint-jacques",
+      "serving": "100 g scoici Saint-Jacques"
+    },
+    "smoked-salmon": {
+      "name": "Somon afumat",
+      "namePrep": "somon afumat",
+      "serving": "85 g somon afumat"
+    },
+    "skim-milk": {
+      "name": "Lapte degresat",
+      "namePrep": "lapte degresat",
+      "serving": "1 pahar de lapte degresat"
+    },
+    "soy-milk": {
+      "name": "Lapte de soia",
+      "namePrep": "lapte de soia",
+      "serving": "1 pahar de lapte de soia"
+    },
+    "almond-milk": {
+      "name": "Lapte de migdale",
+      "namePrep": "lapte de migdale",
+      "serving": "1 pahar de lapte de migdale"
+    },
+    "oat-milk": {
+      "name": "Lapte de ovăz",
+      "namePrep": "lapte de ovăz",
+      "serving": "1 pahar de lapte de ovăz"
+    },
+    "kefir": {
+      "name": "Kefir",
+      "namePrep": "kefir",
+      "serving": "1 pahar de kefir"
+    },
+    "sour-cream": {
+      "name": "Smântână",
+      "namePrep": "smântână",
+      "serving": "2 linguri de smântână"
+    },
+    "feta-cheese": {
+      "name": "Brânză feta",
+      "namePrep": "brânză feta",
+      "serving": "30 g brânză feta"
+    },
+    "mozzarella": {
+      "name": "Mozzarella",
+      "namePrep": "mozzarella",
+      "serving": "30 g mozzarella"
+    },
+    "parmesan": {
+      "name": "Parmezan",
+      "namePrep": "parmezan",
+      "serving": "2 linguri de parmezan"
+    },
+    "couscous": {
+      "name": "Cușcuș",
+      "namePrep": "cușcuș",
+      "serving": "1 cană de cușcuș gătit"
+    },
+    "barley": {
+      "name": "Orz",
+      "namePrep": "orz",
+      "serving": "1 cană de orz fiert"
+    },
+    "buckwheat": {
+      "name": "Hrișcă",
+      "namePrep": "hrișcă",
+      "serving": "1 cană de hrișcă fiartă"
+    },
+    "bulgur": {
+      "name": "Bulgur",
+      "namePrep": "bulgur",
+      "serving": "1 cană de bulgur fiert"
+    },
+    "naan": {
+      "name": "Naan",
+      "namePrep": "naan",
+      "serving": "1 bucată de naan"
+    },
+    "pita-bread": {
+      "name": "Pâine pita",
+      "namePrep": "pâine pita",
+      "serving": "1 pâine pita"
+    },
+    "english-muffin": {
+      "name": "English muffin",
+      "namePrep": "english muffin",
+      "serving": "1 english muffin"
+    },
+    "rice-cake": {
+      "name": "Rondea de orez",
+      "namePrep": "rondea de orez",
+      "serving": "1 rondea de orez"
+    },
+    "crackers": {
+      "name": "Crackers",
+      "namePrep": "crackers",
+      "serving": "1 porție de crackers"
+    },
+    "mashed-potatoes": {
+      "name": "Piure de cartofi",
+      "namePrep": "piure de cartofi",
+      "serving": "1 cană de piure de cartofi"
+    },
+    "scrambled-eggs": {
+      "name": "Ouă jumări",
+      "namePrep": "ouă jumări",
+      "serving": "2 ouă jumări"
+    },
+    "french-toast": {
+      "name": "Frigănele",
+      "namePrep": "frigănele",
+      "serving": "1 felie de frigănea"
+    },
+    "breakfast-burrito": {
+      "name": "Burrito de mic dejun",
+      "namePrep": "burrito de mic dejun",
+      "serving": "1 burrito de mic dejun"
+    },
+    "hash-browns": {
+      "name": "Hash browns",
+      "namePrep": "hash browns",
+      "serving": "1 porție de hash browns"
+    },
+    "chia-pudding": {
+      "name": "Budincă de chia",
+      "namePrep": "budincă de chia",
+      "serving": "1 pahar de budincă de chia"
+    },
+    "overnight-oats": {
+      "name": "Ovăz lăsat peste noapte",
+      "namePrep": "ovăz lăsat peste noapte",
+      "serving": "1 borcan de ovăz lăsat peste noapte"
+    },
+    "breakfast-sandwich": {
+      "name": "Sandviș de mic dejun",
+      "namePrep": "sandviș de mic dejun",
+      "serving": "1 sandviș de mic dejun"
+    },
+    "edamame": {
+      "name": "Edamame",
+      "namePrep": "edamame",
+      "serving": "1 cană de edamame"
+    },
+    "kidney-beans": {
+      "name": "Fasole roșie",
+      "namePrep": "fasole roșie",
+      "serving": "1 cană de fasole roșie fiartă"
+    },
+    "pinto-beans": {
+      "name": "Fasole pinto",
+      "namePrep": "fasole pinto",
+      "serving": "1 cană de fasole pinto fiartă"
+    },
+    "split-peas": {
+      "name": "Mazăre despicată",
+      "namePrep": "mazăre despicată",
+      "serving": "1 cană de mazăre fiartă"
+    },
+    "baked-beans": {
+      "name": "Fasole în sos",
+      "namePrep": "fasole în sos",
+      "serving": "1/2 cană de fasole în sos"
+    },
+    "fried-rice": {
+      "name": "Orez prăjit",
+      "namePrep": "orez prăjit",
+      "serving": "1 porție de orez prăjit"
+    },
+    "pad-thai": {
+      "name": "Pad thai",
+      "namePrep": "pad thai",
+      "serving": "1 porție de pad thai"
+    },
+    "chicken-curry": {
+      "name": "Curry de pui",
+      "namePrep": "curry de pui",
+      "serving": "1 porție de curry de pui"
+    },
+    "chicken-tikka-masala": {
+      "name": "Pui tikka masala",
+      "namePrep": "pui tikka masala",
+      "serving": "1 porție de pui tikka masala"
+    },
+    "beef-chili": {
+      "name": "Chili cu vită",
+      "namePrep": "chili cu vită",
+      "serving": "1 bol de chili cu vită"
+    },
+    "falafel": {
+      "name": "Falafel",
+      "namePrep": "falafel",
+      "serving": "3 chiftele falafel"
+    },
+    "dumplings": {
+      "name": "Găluște",
+      "namePrep": "găluște",
+      "serving": "1 porție de găluște"
+    },
+    "spring-rolls": {
+      "name": "Pachețele de primăvară",
+      "namePrep": "pachețele de primăvară",
+      "serving": "2 pachețele de primăvară"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "quesadilla",
+      "serving": "1 quesadilla"
+    },
+    "nachos": {
+      "name": "Nachos",
+      "namePrep": "nachos",
+      "serving": "1 porție de nachos"
+    },
+    "mac-and-cheese": {
+      "name": "Macaroane cu brânză",
+      "namePrep": "macaroane cu brânză",
+      "serving": "1 porție de macaroane cu brânză"
+    },
+    "chicken-wings": {
+      "name": "Aripioare de pui",
+      "namePrep": "aripioare de pui",
+      "serving": "6 aripioare de pui"
+    },
+    "fish-and-chips": {
+      "name": "Pește cu cartofi prăjiți",
+      "namePrep": "pește cu cartofi prăjiți",
+      "serving": "1 porție de pește cu cartofi prăjiți"
+    },
+    "risotto": {
+      "name": "Risotto",
+      "namePrep": "risotto",
+      "serving": "1 farfurie de risotto"
+    },
+    "tortilla-chips": {
+      "name": "Chipsuri tortilla",
+      "namePrep": "chipsuri tortilla",
+      "serving": "1 porție de chipsuri tortilla"
+    },
+    "granola-bar": {
+      "name": "Baton de granola",
+      "namePrep": "baton de granola",
+      "serving": "1 baton de granola"
+    },
+    "chocolate-bar": {
+      "name": "Baton de ciocolată",
+      "namePrep": "baton de ciocolată",
+      "serving": "1 baton de ciocolată"
+    },
+    "candy": {
+      "name": "Bomboane",
+      "namePrep": "bomboane",
+      "serving": "1 porție de bomboane"
+    },
+    "cinnamon-roll": {
+      "name": "Rulou cu scorțișoară",
+      "namePrep": "rulou cu scorțișoară",
+      "serving": "1 rulou cu scorțișoară"
+    },
+    "marshmallows": {
+      "name": "Marshmallows",
+      "namePrep": "marshmallows",
+      "serving": "1 porție de marshmallows"
+    },
+    "fruit-snacks": {
+      "name": "Gustări cu fructe",
+      "namePrep": "gustări cu fructe",
+      "serving": "1 porție de gustări cu fructe"
+    },
+    "black-coffee": {
+      "name": "Cafea neagră",
+      "namePrep": "cafea neagră",
+      "serving": "1 ceașcă de cafea neagră"
+    },
+    "cappuccino": {
+      "name": "Cappuccino",
+      "namePrep": "cappuccino",
+      "serving": "1 cappuccino"
+    },
+    "milk-tea": {
+      "name": "Ceai cu lapte",
+      "namePrep": "ceai cu lapte",
+      "serving": "1 pahar de ceai cu lapte"
+    },
+    "bubble-tea": {
+      "name": "Bubble tea",
+      "namePrep": "bubble tea",
+      "serving": "1 bubble tea"
+    },
+    "lemonade": {
+      "name": "Limonadă",
+      "namePrep": "limonadă",
+      "serving": "1 pahar de limonadă"
+    },
+    "iced-tea": {
+      "name": "Ceai rece",
+      "namePrep": "ceai rece",
+      "serving": "1 sticlă de ceai rece"
+    },
+    "apple-juice": {
+      "name": "Suc de mere",
+      "namePrep": "suc de mere",
+      "serving": "1 pahar de suc de mere"
+    },
+    "coconut-water": {
+      "name": "Apă de cocos",
+      "namePrep": "apă de cocos",
+      "serving": "1 pahar de apă de cocos"
+    },
+    "sports-drink": {
+      "name": "Băutură sportivă",
+      "namePrep": "băutură sportivă",
+      "serving": "1 sticlă de băutură sportivă"
+    },
+    "ranch-dressing": {
+      "name": "Dressing ranch",
+      "namePrep": "dressing ranch",
+      "serving": "2 linguri de dressing ranch"
+    },
+    "bbq-sauce": {
+      "name": "Sos BBQ",
+      "namePrep": "sos bbq",
+      "serving": "2 linguri de sos BBQ"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "salsa",
+      "serving": "2 linguri de salsa"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "guacamole",
+      "serving": "2 linguri de guacamole"
+    }
+  },
+  "utility": {
+    "pricing": "Prețuri",
+    "support": "Asistență",
+    "privacy": "Confidențialitate",
+    "terms": "Termeni",
+    "press": "Kit de presă",
+    "deleteExtra": "Pentru ștergere, scrie de pe e-mailul asociat contului și include în subiect “Delete account”."
+  },
+  "store": {
+    "appStoreSmall": "Descarcă din",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Disponibil pe",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Funcție",
+    "useCase": "Caz de utilizare",
+    "openPage": "Deschide pagina →",
+    "openArrow": "Deschide →",
+    "practicalWorkflow": "Flux practic",
+    "workflowTitle": "Cum ajută în jurnalul zilnic",
+    "goodToKnow": "Bine de știut",
+    "defaultNote": "Valorile nutriționale sunt estimative. Funcționează cel mai bine împreună cu verificarea porției, bun-simț și corecturi manuale.",
+    "relatedPages": "Pagini asociate",
+    "quickTakeaway": "Pe scurt:",
+    "defaultTakeaway": "Calorie Counter AI te ajută să ții jurnalul mai rapid: folosește estimări din fotografie, coduri de bare și corecturi manuale împreună.",
+    "information": "Informații",
+    "bestFor": "Potrivit pentru"
+  },
+  "internalCta": {
+    "title": "Transformă următoarea masă într-o înregistrare de jurnal",
+    "text": "Descarcă Calorie Counter AI și încearcă numărarea rapidă a caloriilor din fotografie.",
+    "button": "Descarcă aplicația"
+  },
+  "download": {
+    "availableTitle": "Disponibilă pentru iPhone și Android",
+    "availableText": "Începe cu o fotografie, un cod de bare sau o notare simplă în jurnal. Urmărire rapidă a caloriilor și macronutrienților din prima zi."
+  },
+  "faq": {
+    "items": [
+      [
+        "Calorie Counter AI este gratuită?",
+        "Poți începe gratuit cu analize AI zilnice. Funcțiile premium pot fi disponibile pentru limite mai mari și instrumente suplimentare."
+      ],
+      [
+        "Pot număra caloriile dintr-o fotografie?",
+        "Da. Aplicația estimează caloriile, macronutrienții și greutatea porției din fotografia mâncării."
+      ],
+      [
+        "Există scanner de coduri de bare?",
+        "Da. Te ajută să adaugi rapid produse ambalate."
+      ],
+      [
+        "Aplicația calculează macronutrienții?",
+        "Da. Proteinele, grăsimile și carbohidrații apar lângă calorii."
+      ],
+      [
+        "Este potrivită pentru mâncare gătită acasă?",
+        "Da. Estimările din fotografie sunt utile mai ales pentru mâncăruri gătite acasă, dar porția, uleiul, sosurile și ingredientele ascunse trebuie verificate."
+      ],
+      [
+        "Este sfat medical?",
+        "Nu. Aplicația oferă estimări informative și nu înlocuiește medicul, dieteticianul sau alt specialist."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Poți începe gratuit cu analize AI zilnice ale meselor. Funcțiile premium pot fi utile dacă ai nevoie de limite mai mari, instrumente avansate și mai mult confort.",
+      "Prețurile, perioadele de probă și disponibilitatea abonamentelor pot varia în funcție de țară și platformă. Prețul actual este afișat întotdeauna în App Store sau Google Play înainte de cumpărare."
+    ],
+    "support": [
+      "Ai nevoie de ajutor? Scrie la asistență și include dispozitivul, platforma, versiunea aplicației și o descriere scurtă a problemei.",
+      "Întrebările despre plată, rambursări și gestionarea abonamentului se rezolvă de obicei în setările App Store sau Google Play, deoarece achiziția se face prin magazin."
+    ],
+    "contact": [
+      "E-mail asistență: support@caloriecounterai.app",
+      "Pentru parteneriate, solicitări media și feedback, folosește un subiect clar al e-mailului, ca mesajul să fie procesat mai rapid."
+    ],
+    "privacy": [
+      "Calorie Counter AI este creată pentru jurnal alimentar și control conștient al alimentației. Datele pot include înregistrări de mese, fotografii, setări și informații tehnice necesare funcționării serviciului.",
+      "Acordă acces doar la datele de sănătate și activitate pe care te simți confortabil să le folosești. Permisiunile pot fi gestionate din setările dispozitivului."
+    ],
+    "terms": [
+      "Prin utilizarea Calorie Counter AI, accepți să folosești aplicația ca instrument informativ de monitorizare a alimentației și să verifici estimările înainte de a te baza pe ele.",
+      "Funcțiile, limitele gratuite și opțiunile premium se pot schimba. Pentru achizițiile prin App Store și Google Play se aplică și regulile magazinului respectiv."
+    ],
+    "disclaimer": [
+      "Calorie Counter AI oferă estimări nutriționale orientative în scop educațional și informativ. Nu este consultație medicală, diagnostic sau tratament.",
+      "Estimările din fotografie depind de porție, ingrediente ascunse, rețetă, calitatea fotografiei și corecturi manuale. Pentru afecțiuni medicale, sarcină, istoric de tulburări alimentare sau obiective clinice, cere sfatul unui specialist."
+    ],
+    "delete": [
+      "Pentru ștergerea contului, scrie la asistență de pe e-mailul asociat contului.",
+      "După procesarea cererii, ștergem sau anonimizăm datele care nu trebuie păstrate din motive legale, de securitate sau operaționale."
+    ]
+  },
+  "press": {
+    "iconAlt": "Pictograma aplicației",
+    "iconTitle": "Pictograma aplicației",
+    "downloadIcon": "Descarcă pictograma",
+    "screenshotAlt": "Captură de ecran a aplicației",
+    "screenshotTitle": "Captură de ecran",
+    "downloadScreenshot": "Descarcă captura",
+    "shortDescriptionTitle": "Descriere scurtă",
+    "shortDescriptionText": "Calorie Counter AI este un calculator de calorii cu AI care estimează caloriile, macronutrienții și porția din fotografia mâncării, cu scanner de coduri de bare și jurnal alimentar vizual."
+  },
+  "notFound": {
+    "title": "Pagina nu a fost găsită",
+    "text": "Linkul poate fi vechi sau pagina a fost mutată.",
+    "home": "Înapoi acasă"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Funcții",
+      "h1": "Instrumente pentru urmărirea mai rapidă a alimentației",
+      "description": "Fotografii, coduri de bare, jurnal, macronutrienți, obiective, statistici și Health Connect — tot ce ajută la urmărirea mai simplă a alimentației.",
+      "kicker": "Prezentare produs",
+      "summary": "Ideea principală pentru funcțiile este ca înregistrarea meselor să fie rapidă, verificabilă și ușor de menținut în viața de zi cu zi.",
+      "bullets": [
+        "Analiză foto pentru mâncare fără etichetă",
+        "Scanner de coduri de bare pentru produse ambalate",
+        "Estimări editabile de calorii și macronutrienți",
+        "Jurnal, obiective și grafice de progres"
+      ],
+      "sections": [
+        [
+          "Început mai rapid",
+          "Funcțiile este util atunci când nu ai timp să cauți manual fiecare ingredient, dar vrei totuși o înregistrare folositoare."
+        ],
+        [
+          "Estimare verificabilă",
+          "AI oferă un punct bun de plecare, însă porția, uleiul, sosurile și ingredientele ascunse trebuie verificate înainte de salvare."
+        ],
+        [
+          "Obicei sustenabil",
+          "Scopul nu este un număr perfect izolat, ci un jurnal suficient de simplu pentru a fi folosit constant."
+        ]
+      ],
+      "workflowTitle": "Cum să folosești în jurnalul zilnic",
+      "workflow": [
+        "Începe cu metoda potrivită pentru situație: fotografie, cod de bare sau corectare manuală. Funcțiile funcționează bine când combini înregistrarea rapidă cu o verificare scurtă.",
+        "Verifică apoi caloriile și macronutrienții și ajustează porția dacă estimarea nu reflectă ce ai mâncat. Așa jurnalul rămâne rapid, dar nu devine complet automat."
+      ],
+      "note": "Estimarea nutrițională este orientativă. Precizia depinde de porție, rețetă, marcă și modul de preparare.",
+      "bestFor": [
+        "înregistrare rapidă",
+        "tipuri diferite de mese",
+        "estimări editabile",
+        "obicei zilnic"
+      ],
+      "workflowKicker": "Utilizare practică",
+      "noteTitle": "Important de reținut"
+    },
+    "/food-recognition-ai/": {
+      "title": "Recunoaștere alimentară AI",
+      "h1": "Recunoaștere alimentară cu AI din fotografie",
+      "description": "Fotografiază masa și primești o estimare editabilă pentru alimentele vizibile și valorile nutriționale.",
+      "kicker": "Analiză foto",
+      "summary": "Ideea principală pentru recunoașterea alimentară din fotografie este ca înregistrarea meselor să fie rapidă, verificabilă și ușor de menținut în viața de zi cu zi.",
+      "bullets": [
+        "Recunoaște alimente vizibile",
+        "Estimează porția și macronutrienții",
+        "Rezultat editabil",
+        "Potrivit pentru farfurii, salate și restaurant"
+      ],
+      "sections": [
+        [
+          "Început mai rapid",
+          "Recunoașterea alimentară din fotografie este util atunci când nu ai timp să cauți manual fiecare ingredient, dar vrei totuși o înregistrare folositoare."
+        ],
+        [
+          "Estimare verificabilă",
+          "AI oferă un punct bun de plecare, însă porția, uleiul, sosurile și ingredientele ascunse trebuie verificate înainte de salvare."
+        ],
+        [
+          "Obicei sustenabil",
+          "Scopul nu este un număr perfect izolat, ci un jurnal suficient de simplu pentru a fi folosit constant."
+        ]
+      ],
+      "workflowTitle": "Cum să folosești în jurnalul zilnic",
+      "workflow": [
+        "Începe cu metoda potrivită pentru situație: fotografie, cod de bare sau corectare manuală. Recunoașterea alimentară din fotografie funcționează bine când combini înregistrarea rapidă cu o verificare scurtă.",
+        "Verifică apoi caloriile și macronutrienții și ajustează porția dacă estimarea nu reflectă ce ai mâncat. Așa jurnalul rămâne rapid, dar nu devine complet automat."
+      ],
+      "note": "Estimarea nutrițională este orientativă. Precizia depinde de porție, rețetă, marcă și modul de preparare.",
+      "bestFor": [
+        "mâncare gătită acasă",
+        "salate și boluri",
+        "restaurant",
+        "înregistrare rapidă"
+      ],
+      "workflowKicker": "Utilizare practică",
+      "noteTitle": "Important de reținut"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Scanner de calorii cu cod de bare",
+      "h1": "Scanner de coduri de bare pentru alimente",
+      "description": "Scanează produse ambalate și adaugă rapid caloriile și macronutrienții în jurnal.",
+      "kicker": "Coduri de bare",
+      "summary": "Ideea principală pentru scanarea codurilor de bare este ca înregistrarea meselor să fie rapidă, verificabilă și ușor de menținut în viața de zi cu zi.",
+      "bullets": [
+        "Adăugare rapidă produse ambalate",
+        "Calorii și macronutrienți în jurnal",
+        "Mai puțină tastare manuală",
+        "Util pentru băuturi și gustări"
+      ],
+      "sections": [
+        [
+          "Început mai rapid",
+          "Scanarea codurilor de bare este util atunci când nu ai timp să cauți manual fiecare ingredient, dar vrei totuși o înregistrare folositoare."
+        ],
+        [
+          "Estimare verificabilă",
+          "AI oferă un punct bun de plecare, însă porția, uleiul, sosurile și ingredientele ascunse trebuie verificate înainte de salvare."
+        ],
+        [
+          "Obicei sustenabil",
+          "Scopul nu este un număr perfect izolat, ci un jurnal suficient de simplu pentru a fi folosit constant."
+        ]
+      ],
+      "workflowTitle": "Cum să folosești în jurnalul zilnic",
+      "workflow": [
+        "Începe cu metoda potrivită pentru situație: fotografie, cod de bare sau corectare manuală. Scanarea codurilor de bare funcționează bine când combini înregistrarea rapidă cu o verificare scurtă.",
+        "Verifică apoi caloriile și macronutrienții și ajustează porția dacă estimarea nu reflectă ce ai mâncat. Așa jurnalul rămâne rapid, dar nu devine complet automat."
+      ],
+      "note": "Estimarea nutrițională este orientativă. Precizia depinde de porție, rețetă, marcă și modul de preparare.",
+      "bestFor": [
+        "produse ambalate",
+        "gustări",
+        "băuturi",
+        "verificare rapidă"
+      ],
+      "workflowKicker": "Utilizare practică",
+      "noteTitle": "Important de reținut"
+    },
+    "/macro-tracker/": {
+      "title": "Monitor de macronutrienți",
+      "h1": "Urmărește proteinele, grăsimile și carbohidrații",
+      "description": "Vezi macronutrienții lângă calorii și adaptează mesele la obiectivul tău.",
+      "kicker": "Macronutrienți",
+      "summary": "Ideea principală pentru urmărirea macronutrienților este ca înregistrarea meselor să fie rapidă, verificabilă și ușor de menținut în viața de zi cu zi.",
+      "bullets": [
+        "Proteine, grăsimi și carbohidrați",
+        "Obiective zilnice clare",
+        "Util pentru slăbire și masă musculară",
+        "Comparații simple între zile"
+      ],
+      "sections": [
+        [
+          "Început mai rapid",
+          "Urmărirea macronutrienților este util atunci când nu ai timp să cauți manual fiecare ingredient, dar vrei totuși o înregistrare folositoare."
+        ],
+        [
+          "Estimare verificabilă",
+          "AI oferă un punct bun de plecare, însă porția, uleiul, sosurile și ingredientele ascunse trebuie verificate înainte de salvare."
+        ],
+        [
+          "Obicei sustenabil",
+          "Scopul nu este un număr perfect izolat, ci un jurnal suficient de simplu pentru a fi folosit constant."
+        ]
+      ],
+      "workflowTitle": "Cum să folosești în jurnalul zilnic",
+      "workflow": [
+        "Începe cu metoda potrivită pentru situație: fotografie, cod de bare sau corectare manuală. Urmărirea macronutrienților funcționează bine când combini înregistrarea rapidă cu o verificare scurtă.",
+        "Verifică apoi caloriile și macronutrienții și ajustează porția dacă estimarea nu reflectă ce ai mâncat. Așa jurnalul rămâne rapid, dar nu devine complet automat."
+      ],
+      "note": "Estimarea nutrițională este orientativă. Precizia depinde de porție, rețetă, marcă și modul de preparare.",
+      "bestFor": [
+        "obiectiv de proteine",
+        "echilibru macro",
+        "sport",
+        "feedback alimentar"
+      ],
+      "workflowKicker": "Utilizare practică",
+      "noteTitle": "Important de reținut"
+    },
+    "/food-diary-app/": {
+      "title": "Aplicație jurnal alimentar",
+      "h1": "Jurnal alimentar vizual cu fotografii și macronutrienți",
+      "description": "Salvează mesele prin fotografie, cod de bare sau corectare manuală și revizuiește-ți zilele.",
+      "kicker": "Jurnal",
+      "summary": "Ideea principală pentru jurnalul alimentar este ca înregistrarea meselor să fie rapidă, verificabilă și ușor de menținut în viața de zi cu zi.",
+      "bullets": [
+        "Înregistrări cu fotografii",
+        "Rezumat zilnic",
+        "Alimente favorite",
+        "Revizuire simplă"
+      ],
+      "sections": [
+        [
+          "Început mai rapid",
+          "Jurnalul alimentar este util atunci când nu ai timp să cauți manual fiecare ingredient, dar vrei totuși o înregistrare folositoare."
+        ],
+        [
+          "Estimare verificabilă",
+          "AI oferă un punct bun de plecare, însă porția, uleiul, sosurile și ingredientele ascunse trebuie verificate înainte de salvare."
+        ],
+        [
+          "Obicei sustenabil",
+          "Scopul nu este un număr perfect izolat, ci un jurnal suficient de simplu pentru a fi folosit constant."
+        ]
+      ],
+      "workflowTitle": "Cum să folosești în jurnalul zilnic",
+      "workflow": [
+        "Începe cu metoda potrivită pentru situație: fotografie, cod de bare sau corectare manuală. Jurnalul alimentar funcționează bine când combini înregistrarea rapidă cu o verificare scurtă.",
+        "Verifică apoi caloriile și macronutrienții și ajustează porția dacă estimarea nu reflectă ce ai mâncat. Așa jurnalul rămâne rapid, dar nu devine complet automat."
+      ],
+      "note": "Estimarea nutrițională este orientativă. Precizia depinde de porție, rețetă, marcă și modul de preparare.",
+      "bestFor": [
+        "jurnal zilnic",
+        "obiceiuri recurente",
+        "vedere vizuală",
+        "introducere flexibilă"
+      ],
+      "workflowKicker": "Utilizare practică",
+      "noteTitle": "Important de reținut"
+    },
+    "/nutrition-tracker/": {
+      "title": "Monitor nutrițional",
+      "h1": "Calorii și nutrienți într-un singur loc",
+      "description": "Urmărește caloriile, macronutrienții și tiparele alimentare cu înregistrări rapide și editabile.",
+      "kicker": "Nutriție",
+      "summary": "Ideea principală pentru monitorizarea nutrițională este ca înregistrarea meselor să fie rapidă, verificabilă și ușor de menținut în viața de zi cu zi.",
+      "bullets": [
+        "Calorii și macronutrienți",
+        "Tipare alimentare",
+        "Date editabile",
+        "Jurnal clar"
+      ],
+      "sections": [
+        [
+          "Început mai rapid",
+          "Monitorizarea nutrițională este util atunci când nu ai timp să cauți manual fiecare ingredient, dar vrei totuși o înregistrare folositoare."
+        ],
+        [
+          "Estimare verificabilă",
+          "AI oferă un punct bun de plecare, însă porția, uleiul, sosurile și ingredientele ascunse trebuie verificate înainte de salvare."
+        ],
+        [
+          "Obicei sustenabil",
+          "Scopul nu este un număr perfect izolat, ci un jurnal suficient de simplu pentru a fi folosit constant."
+        ]
+      ],
+      "workflowTitle": "Cum să folosești în jurnalul zilnic",
+      "workflow": [
+        "Începe cu metoda potrivită pentru situație: fotografie, cod de bare sau corectare manuală. Monitorizarea nutrițională funcționează bine când combini înregistrarea rapidă cu o verificare scurtă.",
+        "Verifică apoi caloriile și macronutrienții și ajustează porția dacă estimarea nu reflectă ce ai mâncat. Așa jurnalul rămâne rapid, dar nu devine complet automat."
+      ],
+      "note": "Estimarea nutrițională este orientativă. Precizia depinde de porție, rețetă, marcă și modul de preparare.",
+      "bestFor": [
+        "alimentație conștientă",
+        "feedback zilnic",
+        "verificarea porției",
+        "formarea obiceiurilor"
+      ],
+      "workflowKicker": "Utilizare practică",
+      "noteTitle": "Important de reținut"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Estimator greutate porție",
+      "h1": "Estimarea greutății mesei din fotografie",
+      "description": "Primește o estimare inițială a porției și ajustează dacă știi cantitatea mai bine.",
+      "kicker": "Porție",
+      "summary": "Ideea principală pentru estimarea porției este ca înregistrarea meselor să fie rapidă, verificabilă și ușor de menținut în viața de zi cu zi.",
+      "bullets": [
+        "Estimare greutate din fotografie",
+        "Porție editabilă",
+        "Util fără etichetă",
+        "Estimare mai bună a caloriilor"
+      ],
+      "sections": [
+        [
+          "Început mai rapid",
+          "Estimarea porției este util atunci când nu ai timp să cauți manual fiecare ingredient, dar vrei totuși o înregistrare folositoare."
+        ],
+        [
+          "Estimare verificabilă",
+          "AI oferă un punct bun de plecare, însă porția, uleiul, sosurile și ingredientele ascunse trebuie verificate înainte de salvare."
+        ],
+        [
+          "Obicei sustenabil",
+          "Scopul nu este un număr perfect izolat, ci un jurnal suficient de simplu pentru a fi folosit constant."
+        ]
+      ],
+      "workflowTitle": "Cum să folosești în jurnalul zilnic",
+      "workflow": [
+        "Începe cu metoda potrivită pentru situație: fotografie, cod de bare sau corectare manuală. Estimarea porției funcționează bine când combini înregistrarea rapidă cu o verificare scurtă.",
+        "Verifică apoi caloriile și macronutrienții și ajustează porția dacă estimarea nu reflectă ce ai mâncat. Așa jurnalul rămâne rapid, dar nu devine complet automat."
+      ],
+      "note": "Estimarea nutrițională este orientativă. Precizia depinde de porție, rețetă, marcă și modul de preparare.",
+      "bestFor": [
+        "verificarea porției",
+        "mâncare gătită",
+        "restaurant",
+        "estimare rapidă"
+      ],
+      "workflowKicker": "Utilizare practică",
+      "noteTitle": "Important de reținut"
+    },
+    "/progress-statistics/": {
+      "title": "Statistici de progres",
+      "h1": "Vezi tendințele alimentare pe zile și săptămâni",
+      "description": "Urmărește tendințele de calorii și macronutrienți ca să nu te uiți doar la o singură zi.",
+      "kicker": "Statistici",
+      "summary": "Ideea principală pentru statisticile de progres este ca înregistrarea meselor să fie rapidă, verificabilă și ușor de menținut în viața de zi cu zi.",
+      "bullets": [
+        "Vederi zilnice și săptămânale",
+        "Tendințe calorii și macronutrienți",
+        "Obiceiuri vizibile",
+        "Feedback mai clar"
+      ],
+      "sections": [
+        [
+          "Început mai rapid",
+          "Statisticile de progres este util atunci când nu ai timp să cauți manual fiecare ingredient, dar vrei totuși o înregistrare folositoare."
+        ],
+        [
+          "Estimare verificabilă",
+          "AI oferă un punct bun de plecare, însă porția, uleiul, sosurile și ingredientele ascunse trebuie verificate înainte de salvare."
+        ],
+        [
+          "Obicei sustenabil",
+          "Scopul nu este un număr perfect izolat, ci un jurnal suficient de simplu pentru a fi folosit constant."
+        ]
+      ],
+      "workflowTitle": "Cum să folosești în jurnalul zilnic",
+      "workflow": [
+        "Începe cu metoda potrivită pentru situație: fotografie, cod de bare sau corectare manuală. Statisticile de progres funcționează bine când combini înregistrarea rapidă cu o verificare scurtă.",
+        "Verifică apoi caloriile și macronutrienții și ajustează porția dacă estimarea nu reflectă ce ai mâncat. Așa jurnalul rămâne rapid, dar nu devine complet automat."
+      ],
+      "note": "Estimarea nutrițională este orientativă. Precizia depinde de porție, rețetă, marcă și modul de preparare.",
+      "bestFor": [
+        "tendințe",
+        "medie săptămânală",
+        "obiceiuri",
+        "obiective"
+      ],
+      "workflowKicker": "Utilizare practică",
+      "noteTitle": "Important de reținut"
+    },
+    "/meal-reminders/": {
+      "title": "Mementouri pentru mese",
+      "h1": "Mementouri ca să nu uiți jurnalul",
+      "description": "Setează mementouri discrete pentru ca înregistrarea meselor să devină obicei.",
+      "kicker": "Mementouri",
+      "summary": "Ideea principală pentru mementourile pentru mese este ca înregistrarea meselor să fie rapidă, verificabilă și ușor de menținut în viața de zi cu zi.",
+      "bullets": [
+        "Notificări discrete",
+        "Jurnal constant",
+        "Mai puține mese uitate",
+        "Imagine zilnică mai bună"
+      ],
+      "sections": [
+        [
+          "Început mai rapid",
+          "Mementourile pentru mese este util atunci când nu ai timp să cauți manual fiecare ingredient, dar vrei totuși o înregistrare folositoare."
+        ],
+        [
+          "Estimare verificabilă",
+          "AI oferă un punct bun de plecare, însă porția, uleiul, sosurile și ingredientele ascunse trebuie verificate înainte de salvare."
+        ],
+        [
+          "Obicei sustenabil",
+          "Scopul nu este un număr perfect izolat, ci un jurnal suficient de simplu pentru a fi folosit constant."
+        ]
+      ],
+      "workflowTitle": "Cum să folosești în jurnalul zilnic",
+      "workflow": [
+        "Începe cu metoda potrivită pentru situație: fotografie, cod de bare sau corectare manuală. Mementourile pentru mese funcționează bine când combini înregistrarea rapidă cu o verificare scurtă.",
+        "Verifică apoi caloriile și macronutrienții și ajustează porția dacă estimarea nu reflectă ce ai mâncat. Așa jurnalul rămâne rapid, dar nu devine complet automat."
+      ],
+      "note": "Estimarea nutrițională este orientativă. Precizia depinde de porție, rețetă, marcă și modul de preparare.",
+      "bestFor": [
+        "obicei",
+        "zile aglomerate",
+        "consecvență",
+        "rutină zilnică"
+      ],
+      "workflowKicker": "Utilizare practică",
+      "noteTitle": "Important de reținut"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Conectare cu date de sănătate pe Android",
+      "description": "Conectează datele de sănătate compatibile dacă vrei mai mult context într-un singur loc.",
+      "kicker": "Integrare",
+      "summary": "Ideea principală pentru integrarea Health Connect este ca înregistrarea meselor să fie rapidă, verificabilă și ușor de menținut în viața de zi cu zi.",
+      "bullets": [
+        "Context de sănătate pe Android",
+        "Permisiuni sub control",
+        "Date suplimentare",
+        "Atenție la confidențialitate"
+      ],
+      "sections": [
+        [
+          "Început mai rapid",
+          "Integrarea health connect este util atunci când nu ai timp să cauți manual fiecare ingredient, dar vrei totuși o înregistrare folositoare."
+        ],
+        [
+          "Estimare verificabilă",
+          "AI oferă un punct bun de plecare, însă porția, uleiul, sosurile și ingredientele ascunse trebuie verificate înainte de salvare."
+        ],
+        [
+          "Obicei sustenabil",
+          "Scopul nu este un număr perfect izolat, ci un jurnal suficient de simplu pentru a fi folosit constant."
+        ]
+      ],
+      "workflowTitle": "Cum să folosești în jurnalul zilnic",
+      "workflow": [
+        "Începe cu metoda potrivită pentru situație: fotografie, cod de bare sau corectare manuală. Integrarea health connect funcționează bine când combini înregistrarea rapidă cu o verificare scurtă.",
+        "Verifică apoi caloriile și macronutrienții și ajustează porția dacă estimarea nu reflectă ce ai mâncat. Așa jurnalul rămâne rapid, dar nu devine complet automat."
+      ],
+      "note": "Estimarea nutrițională este orientativă. Precizia depinde de porție, rețetă, marcă și modul de preparare.",
+      "bestFor": [
+        "Android",
+        "context sănătate",
+        "permisiuni",
+        "vedere de ansamblu"
+      ],
+      "workflowKicker": "Utilizare practică",
+      "noteTitle": "Important de reținut"
+    },
+    "/data-export/": {
+      "title": "Export de date",
+      "h1": "Exportă datele din jurnalul alimentar",
+      "description": "Salvează datele din jurnal pentru analiză sau evidență personală.",
+      "kicker": "Export",
+      "summary": "Ideea principală pentru exportul de date este ca înregistrarea meselor să fie rapidă, verificabilă și ușor de menținut în viața de zi cu zi.",
+      "bullets": [
+        "Salvarea datelor proprii",
+        "Export clar",
+        "Util pentru tendințe lungi",
+        "Analiză mai flexibilă"
+      ],
+      "sections": [
+        [
+          "Început mai rapid",
+          "Exportul de date este util atunci când nu ai timp să cauți manual fiecare ingredient, dar vrei totuși o înregistrare folositoare."
+        ],
+        [
+          "Estimare verificabilă",
+          "AI oferă un punct bun de plecare, însă porția, uleiul, sosurile și ingredientele ascunse trebuie verificate înainte de salvare."
+        ],
+        [
+          "Obicei sustenabil",
+          "Scopul nu este un număr perfect izolat, ci un jurnal suficient de simplu pentru a fi folosit constant."
+        ]
+      ],
+      "workflowTitle": "Cum să folosești în jurnalul zilnic",
+      "workflow": [
+        "Începe cu metoda potrivită pentru situație: fotografie, cod de bare sau corectare manuală. Exportul de date funcționează bine când combini înregistrarea rapidă cu o verificare scurtă.",
+        "Verifică apoi caloriile și macronutrienții și ajustează porția dacă estimarea nu reflectă ce ai mâncat. Așa jurnalul rămâne rapid, dar nu devine complet automat."
+      ],
+      "note": "Estimarea nutrițională este orientativă. Precizia depinde de porție, rețetă, marcă și modul de preparare.",
+      "bestFor": [
+        "evidență personală",
+        "tendințe lungi",
+        "backup",
+        "analiză"
+      ],
+      "workflowKicker": "Utilizare practică",
+      "noteTitle": "Important de reținut"
+    },
+    "/use-cases/": {
+      "title": "Cazuri de utilizare",
+      "h1": "La ce poți folosi Calorie Counter AI?",
+      "description": "Slăbire, masă musculară, menținere, mâncare gătită acasă, restaurant și jurnal zilnic.",
+      "kicker": "Obiective"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Calculator de calorii pentru slăbire",
+      "h1": "Urmărirea caloriilor pentru slăbire",
+      "description": "Vezi bugetul caloric zilnic, înregistrează mesele mai repede și ține deficitul sub control.",
+      "kicker": "Slăbire",
+      "summary": "Ideea principală pentru urmărirea caloriilor pentru slăbire este ca înregistrarea meselor să fie rapidă, verificabilă și ușor de menținut în viața de zi cu zi.",
+      "bullets": [
+        "Buget caloric zilnic",
+        "Jurnal rapid din fotografie",
+        "Macronutrienți în slăbire",
+        "Tendințe pe săptămâni"
+      ],
+      "sections": [
+        [
+          "Început mai rapid",
+          "Urmărirea caloriilor pentru slăbire este util atunci când nu ai timp să cauți manual fiecare ingredient, dar vrei totuși o înregistrare folositoare."
+        ],
+        [
+          "Estimare verificabilă",
+          "AI oferă un punct bun de plecare, însă porția, uleiul, sosurile și ingredientele ascunse trebuie verificate înainte de salvare."
+        ],
+        [
+          "Obicei sustenabil",
+          "Scopul nu este un număr perfect izolat, ci un jurnal suficient de simplu pentru a fi folosit constant."
+        ]
+      ],
+      "workflowTitle": "Cum să folosești în jurnalul zilnic",
+      "workflow": [
+        "Începe cu metoda potrivită pentru situație: fotografie, cod de bare sau corectare manuală. Urmărirea caloriilor pentru slăbire funcționează bine când combini înregistrarea rapidă cu o verificare scurtă.",
+        "Verifică apoi caloriile și macronutrienții și ajustează porția dacă estimarea nu reflectă ce ai mâncat. Așa jurnalul rămâne rapid, dar nu devine complet automat."
+      ],
+      "note": "Estimarea nutrițională este orientativă. Precizia depinde de porție, rețetă, marcă și modul de preparare.",
+      "bestFor": [
+        "deficit caloric",
+        "controlul porției",
+        "obiectiv zilnic",
+        "jurnal constant"
+      ],
+      "workflowKicker": "Utilizare practică",
+      "noteTitle": "Important de reținut"
+    },
+    "/calorie-deficit-app/": {
+      "title": "Aplicație pentru deficit caloric",
+      "h1": "Urmărește deficitul caloric mai simplu",
+      "description": "Înțelege câte calorii îți încap în zi și înregistrează rapid mesele.",
+      "kicker": "Deficit",
+      "summary": "Ideea principală pentru urmărirea deficitului caloric este ca înregistrarea meselor să fie rapidă, verificabilă și ușor de menținut în viața de zi cu zi.",
+      "bullets": [
+        "Obiectiv zilnic",
+        "Calorii rămase",
+        "Verificarea porției",
+        "Tendințe săptămânale"
+      ],
+      "sections": [
+        [
+          "Început mai rapid",
+          "Urmărirea deficitului caloric este util atunci când nu ai timp să cauți manual fiecare ingredient, dar vrei totuși o înregistrare folositoare."
+        ],
+        [
+          "Estimare verificabilă",
+          "AI oferă un punct bun de plecare, însă porția, uleiul, sosurile și ingredientele ascunse trebuie verificate înainte de salvare."
+        ],
+        [
+          "Obicei sustenabil",
+          "Scopul nu este un număr perfect izolat, ci un jurnal suficient de simplu pentru a fi folosit constant."
+        ]
+      ],
+      "workflowTitle": "Cum să folosești în jurnalul zilnic",
+      "workflow": [
+        "Începe cu metoda potrivită pentru situație: fotografie, cod de bare sau corectare manuală. Urmărirea deficitului caloric funcționează bine când combini înregistrarea rapidă cu o verificare scurtă.",
+        "Verifică apoi caloriile și macronutrienții și ajustează porția dacă estimarea nu reflectă ce ai mâncat. Așa jurnalul rămâne rapid, dar nu devine complet automat."
+      ],
+      "note": "Estimarea nutrițională este orientativă. Precizia depinde de porție, rețetă, marcă și modul de preparare.",
+      "bestFor": [
+        "slăbire",
+        "buget caloric",
+        "medii",
+        "decizii conștiente"
+      ],
+      "workflowKicker": "Utilizare practică",
+      "noteTitle": "Important de reținut"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Monitor calorii pentru masă musculară",
+      "h1": "Calorii și proteine pentru creștere musculară",
+      "description": "Urmărește caloriile și proteinele când vrei să mănânci în surplus energetic.",
+      "kicker": "Masă musculară",
+      "summary": "Ideea principală pentru creșterea musculară este ca înregistrarea meselor să fie rapidă, verificabilă și ușor de menținut în viața de zi cu zi.",
+      "bullets": [
+        "Obiectiv de proteine",
+        "Surplus caloric",
+        "Urmărire macro",
+        "Mese înregistrate rapid"
+      ],
+      "sections": [
+        [
+          "Început mai rapid",
+          "Creșterea musculară este util atunci când nu ai timp să cauți manual fiecare ingredient, dar vrei totuși o înregistrare folositoare."
+        ],
+        [
+          "Estimare verificabilă",
+          "AI oferă un punct bun de plecare, însă porția, uleiul, sosurile și ingredientele ascunse trebuie verificate înainte de salvare."
+        ],
+        [
+          "Obicei sustenabil",
+          "Scopul nu este un număr perfect izolat, ci un jurnal suficient de simplu pentru a fi folosit constant."
+        ]
+      ],
+      "workflowTitle": "Cum să folosești în jurnalul zilnic",
+      "workflow": [
+        "Începe cu metoda potrivită pentru situație: fotografie, cod de bare sau corectare manuală. Creșterea musculară funcționează bine când combini înregistrarea rapidă cu o verificare scurtă.",
+        "Verifică apoi caloriile și macronutrienții și ajustează porția dacă estimarea nu reflectă ce ai mâncat. Așa jurnalul rămâne rapid, dar nu devine complet automat."
+      ],
+      "note": "Estimarea nutrițională este orientativă. Precizia depinde de porție, rețetă, marcă și modul de preparare.",
+      "bestFor": [
+        "proteine",
+        "surplus",
+        "nutriție pentru antrenament",
+        "macro zilnice"
+      ],
+      "workflowKicker": "Utilizare practică",
+      "noteTitle": "Important de reținut"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Monitor calorii pentru menținere",
+      "h1": "Urmărirea caloriilor pentru menținerea greutății",
+      "description": "Păstrează rutina stabilă și urmărește tendințele fără să complici jurnalul.",
+      "kicker": "Menținere",
+      "summary": "Ideea principală pentru menținerea greutății este ca înregistrarea meselor să fie rapidă, verificabilă și ușor de menținut în viața de zi cu zi.",
+      "bullets": [
+        "Jurnal flexibil",
+        "Medii săptămânale",
+        "Macronutrienți clari",
+        "Obiceiuri vizibile"
+      ],
+      "sections": [
+        [
+          "Început mai rapid",
+          "Menținerea greutății este util atunci când nu ai timp să cauți manual fiecare ingredient, dar vrei totuși o înregistrare folositoare."
+        ],
+        [
+          "Estimare verificabilă",
+          "AI oferă un punct bun de plecare, însă porția, uleiul, sosurile și ingredientele ascunse trebuie verificate înainte de salvare."
+        ],
+        [
+          "Obicei sustenabil",
+          "Scopul nu este un număr perfect izolat, ci un jurnal suficient de simplu pentru a fi folosit constant."
+        ]
+      ],
+      "workflowTitle": "Cum să folosești în jurnalul zilnic",
+      "workflow": [
+        "Începe cu metoda potrivită pentru situație: fotografie, cod de bare sau corectare manuală. Menținerea greutății funcționează bine când combini înregistrarea rapidă cu o verificare scurtă.",
+        "Verifică apoi caloriile și macronutrienții și ajustează porția dacă estimarea nu reflectă ce ai mâncat. Așa jurnalul rămâne rapid, dar nu devine complet automat."
+      ],
+      "note": "Estimarea nutrițională este orientativă. Precizia depinde de porție, rețetă, marcă și modul de preparare.",
+      "bestFor": [
+        "rutină stabilă",
+        "tendință săptămânală",
+        "alimentație conștientă",
+        "obiectiv flexibil"
+      ],
+      "workflowKicker": "Utilizare practică",
+      "noteTitle": "Important de reținut"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Calculator de calorii pentru mâncare gătită",
+      "h1": "Estimarea caloriilor în mâncarea gătită acasă",
+      "description": "Fotografiază preparatul, verifică porția și ingredientele ascunse, apoi salvează în jurnal.",
+      "kicker": "Acasă",
+      "summary": "Ideea principală pentru înregistrarea mâncării gătite este ca înregistrarea meselor să fie rapidă, verificabilă și ușor de menținut în viața de zi cu zi.",
+      "bullets": [
+        "Rețete fără etichetă",
+        "Verificare ulei și sosuri",
+        "Ajustarea porției",
+        "Estimare rapidă"
+      ],
+      "sections": [
+        [
+          "Început mai rapid",
+          "Înregistrarea mâncării gătite este util atunci când nu ai timp să cauți manual fiecare ingredient, dar vrei totuși o înregistrare folositoare."
+        ],
+        [
+          "Estimare verificabilă",
+          "AI oferă un punct bun de plecare, însă porția, uleiul, sosurile și ingredientele ascunse trebuie verificate înainte de salvare."
+        ],
+        [
+          "Obicei sustenabil",
+          "Scopul nu este un număr perfect izolat, ci un jurnal suficient de simplu pentru a fi folosit constant."
+        ]
+      ],
+      "workflowTitle": "Cum să folosești în jurnalul zilnic",
+      "workflow": [
+        "Începe cu metoda potrivită pentru situație: fotografie, cod de bare sau corectare manuală. Înregistrarea mâncării gătite funcționează bine când combini înregistrarea rapidă cu o verificare scurtă.",
+        "Verifică apoi caloriile și macronutrienții și ajustează porția dacă estimarea nu reflectă ce ai mâncat. Așa jurnalul rămâne rapid, dar nu devine complet automat."
+      ],
+      "note": "Estimarea nutrițională este orientativă. Precizia depinde de porție, rețetă, marcă și modul de preparare.",
+      "bestFor": [
+        "mâncare gătită",
+        "rețete de familie",
+        "resturi",
+        "porții"
+      ],
+      "workflowKicker": "Utilizare practică",
+      "noteTitle": "Important de reținut"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Monitor calorii la restaurant",
+      "h1": "Înregistrează mai ușor mesele la restaurant",
+      "description": "Folosește estimarea din fotografie când nu ai rețeta exactă sau eticheta nutrițională.",
+      "kicker": "Restaurant",
+      "summary": "Ideea principală pentru înregistrarea mâncării la restaurant este ca înregistrarea meselor să fie rapidă, verificabilă și ușor de menținut în viața de zi cu zi.",
+      "bullets": [
+        "Estimare rapidă din fotografie",
+        "Atenție la sosuri ascunse",
+        "Porție ajustabilă",
+        "Util în deplasare"
+      ],
+      "sections": [
+        [
+          "Început mai rapid",
+          "Înregistrarea mâncării la restaurant este util atunci când nu ai timp să cauți manual fiecare ingredient, dar vrei totuși o înregistrare folositoare."
+        ],
+        [
+          "Estimare verificabilă",
+          "AI oferă un punct bun de plecare, însă porția, uleiul, sosurile și ingredientele ascunse trebuie verificate înainte de salvare."
+        ],
+        [
+          "Obicei sustenabil",
+          "Scopul nu este un număr perfect izolat, ci un jurnal suficient de simplu pentru a fi folosit constant."
+        ]
+      ],
+      "workflowTitle": "Cum să folosești în jurnalul zilnic",
+      "workflow": [
+        "Începe cu metoda potrivită pentru situație: fotografie, cod de bare sau corectare manuală. Înregistrarea mâncării la restaurant funcționează bine când combini înregistrarea rapidă cu o verificare scurtă.",
+        "Verifică apoi caloriile și macronutrienții și ajustează porția dacă estimarea nu reflectă ce ai mâncat. Așa jurnalul rămâne rapid, dar nu devine complet automat."
+      ],
+      "note": "Estimarea nutrițională este orientativă. Precizia depinde de porție, rețetă, marcă și modul de preparare.",
+      "bestFor": [
+        "restaurant",
+        "călătorii",
+        "jurnal rapid",
+        "estimare fără etichetă"
+      ],
+      "workflowKicker": "Utilizare practică",
+      "noteTitle": "Important de reținut"
+    },
+    "/meal-tracker/": {
+      "title": "Monitor de mese",
+      "h1": "Urmărește mesele cu fotografii și jurnal",
+      "description": "Înregistrează rapid micul dejun, prânzul, cina și gustările, apoi vezi imaginea zilei.",
+      "kicker": "Mese",
+      "summary": "Ideea principală pentru monitorizarea meselor este ca înregistrarea meselor să fie rapidă, verificabilă și ușor de menținut în viața de zi cu zi.",
+      "bullets": [
+        "Înregistrare rapidă",
+        "Rezumat zilnic",
+        "Fotografie și cod de bare",
+        "Macronutrienți"
+      ],
+      "sections": [
+        [
+          "Început mai rapid",
+          "Monitorizarea meselor este util atunci când nu ai timp să cauți manual fiecare ingredient, dar vrei totuși o înregistrare folositoare."
+        ],
+        [
+          "Estimare verificabilă",
+          "AI oferă un punct bun de plecare, însă porția, uleiul, sosurile și ingredientele ascunse trebuie verificate înainte de salvare."
+        ],
+        [
+          "Obicei sustenabil",
+          "Scopul nu este un număr perfect izolat, ci un jurnal suficient de simplu pentru a fi folosit constant."
+        ]
+      ],
+      "workflowTitle": "Cum să folosești în jurnalul zilnic",
+      "workflow": [
+        "Începe cu metoda potrivită pentru situație: fotografie, cod de bare sau corectare manuală. Monitorizarea meselor funcționează bine când combini înregistrarea rapidă cu o verificare scurtă.",
+        "Verifică apoi caloriile și macronutrienții și ajustează porția dacă estimarea nu reflectă ce ai mâncat. Așa jurnalul rămâne rapid, dar nu devine complet automat."
+      ],
+      "note": "Estimarea nutrițională este orientativă. Precizia depinde de porție, rețetă, marcă și modul de preparare.",
+      "bestFor": [
+        "mic dejun",
+        "prânz",
+        "cină",
+        "gustări"
+      ],
+      "workflowKicker": "Utilizare practică",
+      "noteTitle": "Important de reținut"
+    },
+    "/photo-food-journal/": {
+      "title": "Jurnal alimentar foto",
+      "h1": "Jurnal de mese cu fotografii",
+      "description": "Fotografiile te ajută să îți amintești ce ai mâncat și să observi obiceiurile recurente.",
+      "kicker": "Jurnal foto",
+      "summary": "Ideea principală pentru jurnalul alimentar foto este ca înregistrarea meselor să fie rapidă, verificabilă și ușor de menținut în viața de zi cu zi.",
+      "bullets": [
+        "Înregistrări vizuale",
+        "Revizuire rapidă",
+        "Obiceiuri vizibile",
+        "Mai puțină tastare"
+      ],
+      "sections": [
+        [
+          "Început mai rapid",
+          "Jurnalul alimentar foto este util atunci când nu ai timp să cauți manual fiecare ingredient, dar vrei totuși o înregistrare folositoare."
+        ],
+        [
+          "Estimare verificabilă",
+          "AI oferă un punct bun de plecare, însă porția, uleiul, sosurile și ingredientele ascunse trebuie verificate înainte de salvare."
+        ],
+        [
+          "Obicei sustenabil",
+          "Scopul nu este un număr perfect izolat, ci un jurnal suficient de simplu pentru a fi folosit constant."
+        ]
+      ],
+      "workflowTitle": "Cum să folosești în jurnalul zilnic",
+      "workflow": [
+        "Începe cu metoda potrivită pentru situație: fotografie, cod de bare sau corectare manuală. Jurnalul alimentar foto funcționează bine când combini înregistrarea rapidă cu o verificare scurtă.",
+        "Verifică apoi caloriile și macronutrienții și ajustează porția dacă estimarea nu reflectă ce ai mâncat. Așa jurnalul rămâne rapid, dar nu devine complet automat."
+      ],
+      "note": "Estimarea nutrițională este orientativă. Precizia depinde de porție, rețetă, marcă și modul de preparare.",
+      "bestFor": [
+        "jurnal vizual",
+        "obiceiuri",
+        "verificare rapidă",
+        "utilizare zilnică"
+      ],
+      "workflowKicker": "Utilizare practică",
+      "noteTitle": "Important de reținut"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Monitor pentru alimentație sănătoasă",
+      "h1": "Alimentație mai conștientă cu calorii și macronutrienți",
+      "description": "Folosește jurnalul ca feedback, nu ca judecată: vezi ce îți susține obiectivele.",
+      "kicker": "Alimentație sănătoasă",
+      "summary": "Ideea principală pentru urmărirea alimentației sănătoase este ca înregistrarea meselor să fie rapidă, verificabilă și ușor de menținut în viața de zi cu zi.",
+      "bullets": [
+        "Decizii conștiente",
+        "Macronutrienți clari",
+        "Feedback constant",
+        "Jurnal flexibil"
+      ],
+      "sections": [
+        [
+          "Început mai rapid",
+          "Urmărirea alimentației sănătoase este util atunci când nu ai timp să cauți manual fiecare ingredient, dar vrei totuși o înregistrare folositoare."
+        ],
+        [
+          "Estimare verificabilă",
+          "AI oferă un punct bun de plecare, însă porția, uleiul, sosurile și ingredientele ascunse trebuie verificate înainte de salvare."
+        ],
+        [
+          "Obicei sustenabil",
+          "Scopul nu este un număr perfect izolat, ci un jurnal suficient de simplu pentru a fi folosit constant."
+        ]
+      ],
+      "workflowTitle": "Cum să folosești în jurnalul zilnic",
+      "workflow": [
+        "Începe cu metoda potrivită pentru situație: fotografie, cod de bare sau corectare manuală. Urmărirea alimentației sănătoase funcționează bine când combini înregistrarea rapidă cu o verificare scurtă.",
+        "Verifică apoi caloriile și macronutrienții și ajustează porția dacă estimarea nu reflectă ce ai mâncat. Așa jurnalul rămâne rapid, dar nu devine complet automat."
+      ],
+      "note": "Estimarea nutrițională este orientativă. Precizia depinde de porție, rețetă, marcă și modul de preparare.",
+      "bestFor": [
+        "alimentație conștientă",
+        "rutină mai bună",
+        "controlul porției",
+        "tendințe lungi"
+      ],
+      "workflowKicker": "Utilizare practică",
+      "noteTitle": "Important de reținut"
+    },
+    "/blog/": {
+      "title": "Ghiduri",
+      "h1": "Ghiduri despre calorii și jurnal alimentar",
+      "description": "Articole practice despre fotografii, macronutrienți, porții și deficit caloric.",
+      "kicker": "Învățare"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Cum numeri caloriile dintr-o fotografie",
+      "h1": "Cum numeri caloriile dintr-o fotografie",
+      "description": "Cum numeri caloriile dintr-o fotografie: ghid practic pentru jurnal alimentar, verificarea porțiilor și urmărirea mai conștientă a caloriilor.",
+      "category": "Ghid",
+      "readTime": "4 min de citit",
+      "intro": "O urmărire bună a caloriilor nu înseamnă numere perfecte, ci feedback suficient de clar și constant pentru deciziile zilnice.",
+      "sections": [
+        [
+          "Începe simplu",
+          "Urmărește mai întâi valorile principale: calorii, porție și, în funcție de obiectiv, proteine sau alți macronutrienți."
+        ],
+        [
+          "Verifică porția",
+          "Porția schimbă adesea rezultatul mai mult decât alegerea unei intrări perfecte din bază."
+        ],
+        [
+          "Adaugă context",
+          "Uleiul, sosurile, băuturile, marca și modul de preparare pot modifica semnificativ estimarea."
+        ],
+        [
+          "Urmărește tendința",
+          "Media pe câteva zile este mai utilă decât o singură înregistrare excesiv de precisă."
+        ]
+      ],
+      "takeaway": "Un jurnal constant și rezonabil de precis este mai practic decât cântărirea perfectă făcută rar."
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Cât de exacte sunt calculatoarele de calorii cu AI?",
+      "h1": "Cât de exacte sunt calculatoarele de calorii cu AI?",
+      "description": "Cât de exacte sunt calculatoarele de calorii cu AI?: ghid practic pentru jurnal alimentar, verificarea porțiilor și urmărirea mai conștientă a caloriilor.",
+      "category": "Ghid",
+      "readTime": "4 min de citit",
+      "intro": "O urmărire bună a caloriilor nu înseamnă numere perfecte, ci feedback suficient de clar și constant pentru deciziile zilnice.",
+      "sections": [
+        [
+          "Începe simplu",
+          "Urmărește mai întâi valorile principale: calorii, porție și, în funcție de obiectiv, proteine sau alți macronutrienți."
+        ],
+        [
+          "Verifică porția",
+          "Porția schimbă adesea rezultatul mai mult decât alegerea unei intrări perfecte din bază."
+        ],
+        [
+          "Adaugă context",
+          "Uleiul, sosurile, băuturile, marca și modul de preparare pot modifica semnificativ estimarea."
+        ],
+        [
+          "Urmărește tendința",
+          "Media pe câteva zile este mai utilă decât o singură înregistrare excesiv de precisă."
+        ]
+      ],
+      "takeaway": "Un jurnal constant și rezonabil de precis este mai practic decât cântărirea perfectă făcută rar."
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "Calculator de calorii cu AI sau jurnal manual?",
+      "h1": "Calculator de calorii cu AI sau jurnal manual?",
+      "description": "Calculator de calorii cu AI sau jurnal manual?: ghid practic pentru jurnal alimentar, verificarea porțiilor și urmărirea mai conștientă a caloriilor.",
+      "category": "Ghid",
+      "readTime": "4 min de citit",
+      "intro": "O urmărire bună a caloriilor nu înseamnă numere perfecte, ci feedback suficient de clar și constant pentru deciziile zilnice.",
+      "sections": [
+        [
+          "Începe simplu",
+          "Urmărește mai întâi valorile principale: calorii, porție și, în funcție de obiectiv, proteine sau alți macronutrienți."
+        ],
+        [
+          "Verifică porția",
+          "Porția schimbă adesea rezultatul mai mult decât alegerea unei intrări perfecte din bază."
+        ],
+        [
+          "Adaugă context",
+          "Uleiul, sosurile, băuturile, marca și modul de preparare pot modifica semnificativ estimarea."
+        ],
+        [
+          "Urmărește tendința",
+          "Media pe câteva zile este mai utilă decât o singură înregistrare excesiv de precisă."
+        ]
+      ],
+      "takeaway": "Un jurnal constant și rezonabil de precis este mai practic decât cântărirea perfectă făcută rar."
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Scanner de calorii pentru alimente",
+      "h1": "Scanner de calorii pentru alimente",
+      "description": "Scanner de calorii pentru alimente: ghid practic pentru jurnal alimentar, verificarea porțiilor și urmărirea mai conștientă a caloriilor.",
+      "category": "Ghid",
+      "readTime": "4 min de citit",
+      "intro": "O urmărire bună a caloriilor nu înseamnă numere perfecte, ci feedback suficient de clar și constant pentru deciziile zilnice.",
+      "sections": [
+        [
+          "Începe simplu",
+          "Urmărește mai întâi valorile principale: calorii, porție și, în funcție de obiectiv, proteine sau alți macronutrienți."
+        ],
+        [
+          "Verifică porția",
+          "Porția schimbă adesea rezultatul mai mult decât alegerea unei intrări perfecte din bază."
+        ],
+        [
+          "Adaugă context",
+          "Uleiul, sosurile, băuturile, marca și modul de preparare pot modifica semnificativ estimarea."
+        ],
+        [
+          "Urmărește tendința",
+          "Media pe câteva zile este mai utilă decât o singură înregistrare excesiv de precisă."
+        ]
+      ],
+      "takeaway": "Un jurnal constant și rezonabil de precis este mai practic decât cântărirea perfectă făcută rar."
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Cum urmărești macronutrienții ca începător",
+      "h1": "Cum urmărești macronutrienții ca începător",
+      "description": "Cum urmărești macronutrienții ca începător: ghid practic pentru jurnal alimentar, verificarea porțiilor și urmărirea mai conștientă a caloriilor.",
+      "category": "Ghid",
+      "readTime": "4 min de citit",
+      "intro": "O urmărire bună a caloriilor nu înseamnă numere perfecte, ci feedback suficient de clar și constant pentru deciziile zilnice.",
+      "sections": [
+        [
+          "Începe simplu",
+          "Urmărește mai întâi valorile principale: calorii, porție și, în funcție de obiectiv, proteine sau alți macronutrienți."
+        ],
+        [
+          "Verifică porția",
+          "Porția schimbă adesea rezultatul mai mult decât alegerea unei intrări perfecte din bază."
+        ],
+        [
+          "Adaugă context",
+          "Uleiul, sosurile, băuturile, marca și modul de preparare pot modifica semnificativ estimarea."
+        ],
+        [
+          "Urmărește tendința",
+          "Media pe câteva zile este mai utilă decât o singură înregistrare excesiv de precisă."
+        ]
+      ],
+      "takeaway": "Un jurnal constant și rezonabil de precis este mai practic decât cântărirea perfectă făcută rar."
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Calorii vs. macronutrienți",
+      "h1": "Calorii vs. macronutrienți",
+      "description": "Calorii vs. macronutrienți: ghid practic pentru jurnal alimentar, verificarea porțiilor și urmărirea mai conștientă a caloriilor.",
+      "category": "Ghid",
+      "readTime": "4 min de citit",
+      "intro": "O urmărire bună a caloriilor nu înseamnă numere perfecte, ci feedback suficient de clar și constant pentru deciziile zilnice.",
+      "sections": [
+        [
+          "Începe simplu",
+          "Urmărește mai întâi valorile principale: calorii, porție și, în funcție de obiectiv, proteine sau alți macronutrienți."
+        ],
+        [
+          "Verifică porția",
+          "Porția schimbă adesea rezultatul mai mult decât alegerea unei intrări perfecte din bază."
+        ],
+        [
+          "Adaugă context",
+          "Uleiul, sosurile, băuturile, marca și modul de preparare pot modifica semnificativ estimarea."
+        ],
+        [
+          "Urmărește tendința",
+          "Media pe câteva zile este mai utilă decât o singură înregistrare excesiv de precisă."
+        ]
+      ],
+      "takeaway": "Un jurnal constant și rezonabil de precis este mai practic decât cântărirea perfectă făcută rar."
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Cum numeri caloriile în mâncarea gătită acasă",
+      "h1": "Cum numeri caloriile în mâncarea gătită acasă",
+      "description": "Cum numeri caloriile în mâncarea gătită acasă: ghid practic pentru jurnal alimentar, verificarea porțiilor și urmărirea mai conștientă a caloriilor.",
+      "category": "Ghid",
+      "readTime": "4 min de citit",
+      "intro": "O urmărire bună a caloriilor nu înseamnă numere perfecte, ci feedback suficient de clar și constant pentru deciziile zilnice.",
+      "sections": [
+        [
+          "Începe simplu",
+          "Urmărește mai întâi valorile principale: calorii, porție și, în funcție de obiectiv, proteine sau alți macronutrienți."
+        ],
+        [
+          "Verifică porția",
+          "Porția schimbă adesea rezultatul mai mult decât alegerea unei intrări perfecte din bază."
+        ],
+        [
+          "Adaugă context",
+          "Uleiul, sosurile, băuturile, marca și modul de preparare pot modifica semnificativ estimarea."
+        ],
+        [
+          "Urmărește tendința",
+          "Media pe câteva zile este mai utilă decât o singură înregistrare excesiv de precisă."
+        ]
+      ],
+      "takeaway": "Un jurnal constant și rezonabil de precis este mai practic decât cântărirea perfectă făcută rar."
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Cum estimezi mărimea porției",
+      "h1": "Cum estimezi mărimea porției",
+      "description": "Cum estimezi mărimea porției: ghid practic pentru jurnal alimentar, verificarea porțiilor și urmărirea mai conștientă a caloriilor.",
+      "category": "Ghid",
+      "readTime": "4 min de citit",
+      "intro": "O urmărire bună a caloriilor nu înseamnă numere perfecte, ci feedback suficient de clar și constant pentru deciziile zilnice.",
+      "sections": [
+        [
+          "Începe simplu",
+          "Urmărește mai întâi valorile principale: calorii, porție și, în funcție de obiectiv, proteine sau alți macronutrienți."
+        ],
+        [
+          "Verifică porția",
+          "Porția schimbă adesea rezultatul mai mult decât alegerea unei intrări perfecte din bază."
+        ],
+        [
+          "Adaugă context",
+          "Uleiul, sosurile, băuturile, marca și modul de preparare pot modifica semnificativ estimarea."
+        ],
+        [
+          "Urmărește tendința",
+          "Media pe câteva zile este mai utilă decât o singură înregistrare excesiv de precisă."
+        ]
+      ],
+      "takeaway": "Un jurnal constant și rezonabil de precis este mai practic decât cântărirea perfectă făcută rar."
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Câte calorii ar trebui să mănânc pe zi?",
+      "h1": "Câte calorii ar trebui să mănânc pe zi?",
+      "description": "Câte calorii ar trebui să mănânc pe zi?: ghid practic pentru jurnal alimentar, verificarea porțiilor și urmărirea mai conștientă a caloriilor.",
+      "category": "Ghid",
+      "readTime": "4 min de citit",
+      "intro": "O urmărire bună a caloriilor nu înseamnă numere perfecte, ci feedback suficient de clar și constant pentru deciziile zilnice.",
+      "sections": [
+        [
+          "Începe simplu",
+          "Urmărește mai întâi valorile principale: calorii, porție și, în funcție de obiectiv, proteine sau alți macronutrienți."
+        ],
+        [
+          "Verifică porția",
+          "Porția schimbă adesea rezultatul mai mult decât alegerea unei intrări perfecte din bază."
+        ],
+        [
+          "Adaugă context",
+          "Uleiul, sosurile, băuturile, marca și modul de preparare pot modifica semnificativ estimarea."
+        ],
+        [
+          "Urmărește tendința",
+          "Media pe câteva zile este mai utilă decât o singură înregistrare excesiv de precisă."
+        ]
+      ],
+      "takeaway": "Un jurnal constant și rezonabil de precis este mai practic decât cântărirea perfectă făcută rar."
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Ce este deficitul caloric?",
+      "h1": "Ce este deficitul caloric?",
+      "description": "Ce este deficitul caloric?: ghid practic pentru jurnal alimentar, verificarea porțiilor și urmărirea mai conștientă a caloriilor.",
+      "category": "Ghid",
+      "readTime": "4 min de citit",
+      "intro": "O urmărire bună a caloriilor nu înseamnă numere perfecte, ci feedback suficient de clar și constant pentru deciziile zilnice.",
+      "sections": [
+        [
+          "Începe simplu",
+          "Urmărește mai întâi valorile principale: calorii, porție și, în funcție de obiectiv, proteine sau alți macronutrienți."
+        ],
+        [
+          "Verifică porția",
+          "Porția schimbă adesea rezultatul mai mult decât alegerea unei intrări perfecte din bază."
+        ],
+        [
+          "Adaugă context",
+          "Uleiul, sosurile, băuturile, marca și modul de preparare pot modifica semnificativ estimarea."
+        ],
+        [
+          "Urmărește tendința",
+          "Media pe câteva zile este mai utilă decât o singură înregistrare excesiv de precisă."
+        ]
+      ],
+      "takeaway": "Un jurnal constant și rezonabil de precis este mai practic decât cântărirea perfectă făcută rar."
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Greșeli frecvente la numărarea caloriilor",
+      "h1": "Greșeli frecvente la numărarea caloriilor",
+      "description": "Greșeli frecvente la numărarea caloriilor: ghid practic pentru jurnal alimentar, verificarea porțiilor și urmărirea mai conștientă a caloriilor.",
+      "category": "Ghid",
+      "readTime": "4 min de citit",
+      "intro": "O urmărire bună a caloriilor nu înseamnă numere perfecte, ci feedback suficient de clar și constant pentru deciziile zilnice.",
+      "sections": [
+        [
+          "Începe simplu",
+          "Urmărește mai întâi valorile principale: calorii, porție și, în funcție de obiectiv, proteine sau alți macronutrienți."
+        ],
+        [
+          "Verifică porția",
+          "Porția schimbă adesea rezultatul mai mult decât alegerea unei intrări perfecte din bază."
+        ],
+        [
+          "Adaugă context",
+          "Uleiul, sosurile, băuturile, marca și modul de preparare pot modifica semnificativ estimarea."
+        ],
+        [
+          "Urmărește tendința",
+          "Media pe câteva zile este mai utilă decât o singură înregistrare excesiv de precisă."
+        ]
+      ],
+      "takeaway": "Un jurnal constant și rezonabil de precis este mai practic decât cântărirea perfectă făcută rar."
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Cum înregistrezi mâncarea de la restaurant",
+      "h1": "Cum înregistrezi mâncarea de la restaurant",
+      "description": "Cum înregistrezi mâncarea de la restaurant: ghid practic pentru jurnal alimentar, verificarea porțiilor și urmărirea mai conștientă a caloriilor.",
+      "category": "Ghid",
+      "readTime": "4 min de citit",
+      "intro": "O urmărire bună a caloriilor nu înseamnă numere perfecte, ci feedback suficient de clar și constant pentru deciziile zilnice.",
+      "sections": [
+        [
+          "Începe simplu",
+          "Urmărește mai întâi valorile principale: calorii, porție și, în funcție de obiectiv, proteine sau alți macronutrienți."
+        ],
+        [
+          "Verifică porția",
+          "Porția schimbă adesea rezultatul mai mult decât alegerea unei intrări perfecte din bază."
+        ],
+        [
+          "Adaugă context",
+          "Uleiul, sosurile, băuturile, marca și modul de preparare pot modifica semnificativ estimarea."
+        ],
+        [
+          "Urmărește tendința",
+          "Media pe câteva zile este mai utilă decât o singură înregistrare excesiv de precisă."
+        ]
+      ],
+      "takeaway": "Un jurnal constant și rezonabil de precis este mai practic decât cântărirea perfectă făcută rar."
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Cum urmărești proteinele",
+      "h1": "Cum urmărești proteinele",
+      "description": "Cum urmărești proteinele: ghid practic pentru jurnal alimentar, verificarea porțiilor și urmărirea mai conștientă a caloriilor.",
+      "category": "Ghid",
+      "readTime": "4 min de citit",
+      "intro": "O urmărire bună a caloriilor nu înseamnă numere perfecte, ci feedback suficient de clar și constant pentru deciziile zilnice.",
+      "sections": [
+        [
+          "Începe simplu",
+          "Urmărește mai întâi valorile principale: calorii, porție și, în funcție de obiectiv, proteine sau alți macronutrienți."
+        ],
+        [
+          "Verifică porția",
+          "Porția schimbă adesea rezultatul mai mult decât alegerea unei intrări perfecte din bază."
+        ],
+        [
+          "Adaugă context",
+          "Uleiul, sosurile, băuturile, marca și modul de preparare pot modifica semnificativ estimarea."
+        ],
+        [
+          "Urmărește tendința",
+          "Media pe câteva zile este mai utilă decât o singură înregistrare excesiv de precisă."
+        ]
+      ],
+      "takeaway": "Un jurnal constant și rezonabil de precis este mai practic decât cântărirea perfectă făcută rar."
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Ce este un jurnal alimentar?",
+      "h1": "Ce este un jurnal alimentar?",
+      "description": "Ce este un jurnal alimentar?: ghid practic pentru jurnal alimentar, verificarea porțiilor și urmărirea mai conștientă a caloriilor.",
+      "category": "Ghid",
+      "readTime": "4 min de citit",
+      "intro": "O urmărire bună a caloriilor nu înseamnă numere perfecte, ci feedback suficient de clar și constant pentru deciziile zilnice.",
+      "sections": [
+        [
+          "Începe simplu",
+          "Urmărește mai întâi valorile principale: calorii, porție și, în funcție de obiectiv, proteine sau alți macronutrienți."
+        ],
+        [
+          "Verifică porția",
+          "Porția schimbă adesea rezultatul mai mult decât alegerea unei intrări perfecte din bază."
+        ],
+        [
+          "Adaugă context",
+          "Uleiul, sosurile, băuturile, marca și modul de preparare pot modifica semnificativ estimarea."
+        ],
+        [
+          "Urmărește tendința",
+          "Media pe câteva zile este mai utilă decât o singură înregistrare excesiv de precisă."
+        ]
+      ],
+      "takeaway": "Un jurnal constant și rezonabil de precis este mai practic decât cântărirea perfectă făcută rar."
+    },
+    "/download/": {
+      "title": "Descarcă aplicația",
+      "h1": "Descarcă Calorie Counter AI",
+      "description": "Descarcă calculatorul de calorii cu AI pentru iPhone sau Android și începe să înregistrezi mesele prin fotografie.",
+      "kicker": "Descărcare"
+    },
+    "/faq/": {
+      "title": "Întrebări frecvente",
+      "h1": "Întrebări frecvente",
+      "description": "Răspunsuri despre numărarea caloriilor din fotografie, precizie, macronutrienți, coduri de bare și confidențialitate.",
+      "kicker": "FAQ"
+    },
+    "/pricing/": {
+      "title": "Prețuri",
+      "h1": "Prețuri și opțiuni ale aplicației",
+      "description": "Începe gratuit și verifică în aplicație opțiunile premium, limitele și achizițiile disponibile.",
+      "kicker": "Prețuri"
+    },
+    "/support/": {
+      "title": "Asistență",
+      "h1": "Asistență Calorie Counter AI",
+      "description": "Ai nevoie de ajutor? Pregătește versiunea aplicației, dispozitivul și o descriere scurtă a problemei.",
+      "kicker": "Asistență"
+    },
+    "/contact/": {
+      "title": "Contact",
+      "h1": "Contactează Calorie Counter AI",
+      "description": "Contact pentru asistență, presă, parteneriate și feedback despre aplicație.",
+      "kicker": "Contact"
+    },
+    "/privacy-policy/": {
+      "title": "Politica de confidențialitate",
+      "h1": "Politica de confidențialitate",
+      "description": "Prezentare a modului în care Calorie Counter AI gestionează datele necesare jurnalului alimentar și serviciului.",
+      "kicker": "Confidențialitate"
+    },
+    "/terms/": {
+      "title": "Termeni",
+      "h1": "Termeni de utilizare",
+      "description": "Reguli pentru utilizarea aplicației Calorie Counter AI și a estimărilor nutriționale informative.",
+      "kicker": "Termeni"
+    },
+    "/health-disclaimer/": {
+      "title": "Declinare medicală",
+      "h1": "Declinare medicală",
+      "description": "Estimările nutriționale sunt informative și nu înlocuiesc sfatul medical sau dietetic profesionist.",
+      "kicker": "Declinare"
+    },
+    "/delete-account/": {
+      "title": "Ștergerea contului",
+      "h1": "Cum soliciți ștergerea contului",
+      "description": "Pași pentru a solicita ștergerea contului și a datelor asociate în Calorie Counter AI.",
+      "kicker": "Cont"
+    },
+    "/press/": {
+      "title": "Kit de presă",
+      "h1": "Kit de presă Calorie Counter AI",
+      "description": "Descriere scurtă, pictogramă și capturi ale aplicației pentru media și parteneri.",
+      "kicker": "Presă"
+    },
+    "/how-many-calories-in/": {
+      "title": "Calorii în alimente",
+      "h1": "Câte calorii sunt în alimente?",
+      "description": "Răsfoiește calorii, macronutrienți și porții orientative pentru alimente, feluri de mâncare și băuturi populare.",
+      "kicker": "Calorii"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Setări cookie",
+    "text": "Folosim cookie-uri necesare și localStorage pentru a salva limba și alegerea privind cookie-urile. Cu acordul tău, folosim și cookie-uri analitice pentru a îmbunătăți site-ul.",
+    "accept": "Acceptă",
+    "decline": "Refuză analiza"
+  }
+}

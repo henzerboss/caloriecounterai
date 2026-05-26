@@ -1,0 +1,2619 @@
+{
+  "localeName": "Norsk",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "AI-kaloriteller fra bilde"
+  },
+  "nav": {
+    "features": "Funksjoner",
+    "useCases": "Bruksområder",
+    "blog": "Guider",
+    "faq": "FAQ",
+    "download": "Last ned",
+    "language": "Velg språk",
+    "openMenu": "Åpne meny",
+    "caloriesInFoods": "Kalorier i mat",
+    "all": "Alle",
+    "allFeatures": "Alle funksjoner",
+    "allUseCases": "Alle bruksområder",
+    "allLearn": "Alle guider",
+    "openHub": "Åpne seksjonen →",
+    "home": "Hjem"
+  },
+  "cta": {
+    "appStore": "Last ned i App Store",
+    "googlePlay": "Last ned på Google Play",
+    "downloadNow": "Last ned nå",
+    "tryFree": "Prøv gratis",
+    "learnMore": "Les mer",
+    "learnMoreArrow": "Les mer →",
+    "readGuide": "Les guiden"
+  },
+  "home": {
+    "title": "Tell kalorier med AI fra et bilde",
+    "description": "Ta et bilde av måltidet og få et redigerbart estimat av kalorier, protein, fett, karbohydrater og porsjonsstørrelse på få sekunder.",
+    "heroNote": "Kom i gang gratis med daglige AI-analyser av mat. Tilgjengelig for iPhone og Android.",
+    "photoEyebrow": "Hovedfunksjonen",
+    "photoTitle": "Kaloritelling fra bilde",
+    "photoText": "Du trenger ikke søke opp hver ingrediens manuelt. Ta et bilde av maten, sjekk AI-estimatet og lagre måltidet i kostholdsdagboken.",
+    "photoChecklist": [
+      "Estimer kalorier fra et matbilde",
+      "Se protein, fett og karbohydrater",
+      "Sjekk og juster resultatet før du lagrer",
+      "Før en visuell kostholdsdagbok"
+    ],
+    "featureCards": [
+      [
+        "camera",
+        "Logg med bilde",
+        "Ta bilde av måltidet, sjekk estimatet og lagre det uten å slå opp hver enkelt matvare."
+      ],
+      [
+        "sparkles",
+        "AI-estimat av måltider",
+        "Få raskt et realistisk anslag for kalorier, makroer og porsjonsstørrelse når du mangler næringsdeklarasjon eller nøyaktig oppskrift."
+      ],
+      [
+        "shield",
+        "Gratis analyser hver dag",
+        "Prøv det viktigste AI-løpet daglig, og øk grensene bare når du trenger mer."
+      ],
+      [
+        "barcode",
+        "Pakkede produkter",
+        "Skann strekkoder på yoghurt, drikke, snacks, ferdigretter og andre varer fra butikken."
+      ],
+      [
+        "macro",
+        "Makroer lett tilgjengelig",
+        "Følg protein, fett og karbohydrater ved siden av det daglige kalorimålet."
+      ],
+      [
+        "diary",
+        "Visuell dagbok",
+        "Åpne en hvilken som helst dag, se tilbake på måltidene og oppdag mønstre i kostholdet."
+      ]
+    ],
+    "foodPreviewTitle": "Hvor mange kalorier er det i vanlig mat?",
+    "foodPreviewText": "Raske oversikter over kalorier og makroer for hverdagsmåltider, snacks og drikke.",
+    "foodPreviewLink": "Åpne hele kalorieguiden →",
+    "goalEyebrow": "Målet under kontroll",
+    "counterTitle": "En enkel kaloriteller for hverdagen",
+    "counterText": "Bruk bilder, strekkoder, favoritter og en tydelig dagbok til å følge maten uten at det føles som ekstra arbeid.",
+    "goalPills": [
+      "Vektnedgang",
+      "Vektvedlikehold",
+      "Muskelbygging",
+      "Travle dager"
+    ],
+    "magicEyebrow": "Derfor føles det enklere",
+    "magicTitle": "Logg mat i tre trinn",
+    "magicText": "Ta et bilde, sjekk estimatet og lagre posten. Jo mindre manuell inntasting, desto lettere er det å holde dagboken i gang hver dag.",
+    "magicSteps": [
+      "Ta bilde",
+      "Sjekk",
+      "Lagre"
+    ],
+    "barcodeEyebrow": "Pakket mat",
+    "barcodeTitle": "Strekkodeskanner for mat",
+    "barcodeText": "Har produktet en strekkode? Skann emballasjen, bekreft produktet og legg kalorier, protein, fett og karbohydrater inn i dagboken på få sekunder.",
+    "barcodeLink": "Les mer om strekkodeskanneren →",
+    "progressEyebrow": "Tydelig fremgang",
+    "macroTitle": "Følg kalorier og makroer",
+    "macroText": "Se kalorier, protein, fett og karbohydrater på ett sted, og sammenlign dag, uke og måned.",
+    "macroLink": "Åpne siden om makroer →",
+    "useCasesEyebrow": "Hvorfor bruke Calorie Counter AI",
+    "useCasesTitle": "Ernæringsmål som passer virkeligheten",
+    "useCasesText": "Enten du vil ned i vekt, holde vekten, bygge muskler eller forstå maten bedre, gjør appen måltidene om til tydelig daglig tilbakemelding.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Vektnedgang",
+        "Se hvor mange kalorier du har igjen mot det daglige målet."
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Hjemmelaget mat",
+        "Estimer blandede retter og oppskrifter uten næringsdeklarasjon."
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Restaurantmat",
+        "Logg restaurantretter med et raskt bildeestimat."
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Muskelbygging",
+        "Hold protein og kalorier synlige i en periode med energioverskudd."
+      ]
+    ],
+    "downloadTitle": "Begynn å telle kalorier med AI i dag",
+    "downloadText": "Last ned appen for iPhone eller Android, og gjør neste matbilde om til en post i dagboken.",
+    "faqEyebrow": "FAQ",
+    "faqTitle": "Spørsmål før du laster ned?",
+    "faq": [
+      [
+        "Er Calorie Counter AI gratis?",
+        "Du kan starte gratis med daglige AI-analyser av måltider. Avanserte funksjoner og høyere grenser kan være en del av premiumversjonen."
+      ],
+      [
+        "Kan jeg telle kalorier fra et bilde?",
+        "Ja. Ta et bilde av tallerkenen, så estimerer appen kalorier, makroer og vekt på synlige matvarer."
+      ],
+      [
+        "Hvor nøyaktig er AI-kaloritelleren?",
+        "Det er et estimat. Nøyaktigheten avhenger av bildekvalitet, synlig porsjon, skjulte ingredienser, sauser og manuelle rettelser."
+      ],
+      [
+        "Følger appen makroer?",
+        "Ja. I dagboken ser du protein, fett og karbohydrater ved siden av kaloriene."
+      ],
+      [
+        "Finnes appen for iPhone og Android?",
+        "Ja. Appen finnes i App Store og på Google Play."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "AI-kaloriteller fra bilde | Calorie Counter AI",
+    "homeOgTitle": "Tell kalorier med AI fra et bilde",
+    "homeDescription": "Tell kalorier med AI: estimer kalorier, makroer og porsjoner fra et matbilde, skann strekkoder og før kostholdsdagbok."
+  },
+  "footer": {
+    "disclaimer": "Ernæringsestimater er kun veiledende og erstatter ikke råd fra lege, klinisk ernæringsfysiolog eller annet helsepersonell.",
+    "copyright": "© 2026 Calorie Counter AI. Alle rettigheter forbeholdt."
+  },
+  "foodIndex": {
+    "findTitle": "Kalorier, makroer og realistiske porsjoner",
+    "findText": "Se veiledende verdier for vanlig mat og tips for å logge den med rimelige porsjoner.",
+    "categoryIntro": "Populære søk etter kalorier og makroer i denne kategorien."
+  },
+  "foodPage": {
+    "eyebrow": "Kaloriguide",
+    "trackInApp": "Legg til i appen",
+    "browseFoods": "Bla gjennom matvarer →",
+    "typicalEstimate": "Veiledende estimat. Faktiske verdier avhenger av merke, oppskrift og porsjonsstørrelse.",
+    "caloriesMacros": "Kalorier og makroer",
+    "whenFits": "Når passer det?",
+    "whatToWatch": "Hva bør du være oppmerksom på?",
+    "howToLog": "Slik logger du bedre",
+    "helpfulContext": "Nyttig kontekst",
+    "faq": "FAQ",
+    "weightLossQuestion": "Passer det ved vektnedgang?",
+    "variabilityQuestion": "Hva påvirker kaloriene mest?",
+    "logFasterTitle": "Logg måltider raskere",
+    "logFasterText": "Bruk Calorie Counter AI: ta et bilde av maten, få et utkast og juster porsjon, saus eller merke ved behov.",
+    "photoTrackingLink": "Slik fungerer kaloritelling med bilde →",
+    "macros": {
+      "protein": "Protein",
+      "fat": "Fett",
+      "carbs": "Karbohydrater"
+    },
+    "titleTemplate": "Hvor mange kalorier er det i {namePrep}?",
+    "h1Template": "Hvor mange kalorier er det i {namePrep}?",
+    "descriptionTemplate": "{name}: kalorier, protein, fett og karbohydrater for porsjonen «{serving}», pluss tips for å logge den i kostholdsdagboken.",
+    "heroIntroTemplate": "Cirka {calories} {kcal} per porsjon: {servingLower}. Bruk det som utgangspunkt, og juster etter merke, oppskrift, tilberedning og porsjonsstørrelse.",
+    "macroParagraphTemplate": "{name}: cirka {calories} {kcal} per «{servingLower}». Denne porsjonen inneholder omtrent {protein} {gram} protein, {fat} {gram} fett og {carbs} {gram} karbohydrater{fiberText}.",
+    "per100Template": "Til sammenligning per 100 {gram}: cirka {calories} {kcal}, {protein} {gram} protein, {fat} {gram} fett og {carbs} {gram} karbohydrater.",
+    "calorieLevelTemplate": "Bruk porsjonen som rettesnor: cirka {calories} {kcal} for «{servingLower}»."
+  },
+  "foodCategories": {
+    "Fruit": "Frukt",
+    "Protein foods": "Proteinrik mat",
+    "Fruits and fats": "Frukt og fett",
+    "Grains and starches": "Korn og stivelsesrik mat",
+    "Nuts and spreads": "Nøtter og pålegg",
+    "Breakfast foods": "Frokostmat",
+    "Dairy": "Meieriprodukter",
+    "Restaurant meals": "Restaurantmåltider",
+    "Fast food": "Hurtigmat",
+    "Legumes and plant protein": "Belgvekster og planteprotein",
+    "Desserts": "Desserter",
+    "Snacks": "Snacks",
+    "Drinks": "Drikke",
+    "Vegetables": "Grønnsaker",
+    "Sauces and condiments": "Sauser og smakstilsetninger",
+    "Mixed dishes": "Blandede retter"
+  },
+  "foods": {
+    "banana": {
+      "name": "Banan",
+      "namePrep": "banan",
+      "serving": "1 middels stor banan"
+    },
+    "apple": {
+      "name": "Eple",
+      "namePrep": "eple",
+      "serving": "1 middels stort eple"
+    },
+    "egg": {
+      "name": "Egg",
+      "namePrep": "egg",
+      "serving": "1 stort egg"
+    },
+    "avocado": {
+      "name": "Avokado",
+      "namePrep": "avokado",
+      "serving": "1/2 middels stor avokado"
+    },
+    "chicken-breast": {
+      "name": "Kyllingbryst",
+      "namePrep": "kyllingbryst",
+      "serving": "100 g tilberedt kyllingbryst"
+    },
+    "salmon": {
+      "name": "Laks",
+      "namePrep": "laks",
+      "serving": "100 g tilberedt laks"
+    },
+    "white-rice": {
+      "name": "Hvit ris",
+      "namePrep": "hvit ris",
+      "serving": "1 kopp kokt hvit ris"
+    },
+    "brown-rice": {
+      "name": "Brun ris",
+      "namePrep": "brun ris",
+      "serving": "1 kopp kokt brun ris"
+    },
+    "pasta": {
+      "name": "Pasta",
+      "namePrep": "pasta",
+      "serving": "1 kopp kokt pasta"
+    },
+    "potato": {
+      "name": "Potet",
+      "namePrep": "potet",
+      "serving": "1 middels stor bakt potet"
+    },
+    "sweet-potato": {
+      "name": "Søtpotet",
+      "namePrep": "søtpotet",
+      "serving": "1 middels stor bakt søtpotet"
+    },
+    "bread": {
+      "name": "Brød",
+      "namePrep": "brød",
+      "serving": "1 brødskive"
+    },
+    "peanut-butter": {
+      "name": "Peanøttsmør",
+      "namePrep": "peanøttsmør",
+      "serving": "2 ss peanøttsmør"
+    },
+    "oatmeal": {
+      "name": "Havregrøt",
+      "namePrep": "havregrøt",
+      "serving": "1 kopp ferdig havregrøt"
+    },
+    "greek-yogurt": {
+      "name": "Gresk yoghurt",
+      "namePrep": "gresk yoghurt",
+      "serving": "1 porsjon gresk yoghurt"
+    },
+    "yogurt": {
+      "name": "Yoghurt",
+      "namePrep": "yoghurt",
+      "serving": "1 porsjon yoghurt"
+    },
+    "milk": {
+      "name": "Melk",
+      "namePrep": "melk",
+      "serving": "1 glass melk"
+    },
+    "cheddar-cheese": {
+      "name": "Cheddarost",
+      "namePrep": "cheddarost",
+      "serving": "1 skive cheddarost"
+    },
+    "pizza": {
+      "name": "Pizza",
+      "namePrep": "pizza",
+      "serving": "1 pizzastykke"
+    },
+    "burger": {
+      "name": "Burger",
+      "namePrep": "burger",
+      "serving": "1 burger"
+    },
+    "french-fries": {
+      "name": "Pommes frites",
+      "namePrep": "pommes frites",
+      "serving": "1 porsjon pommes frites"
+    },
+    "sushi-roll": {
+      "name": "Sushirull",
+      "namePrep": "sushirull",
+      "serving": "1 sushirull"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "taco",
+      "serving": "1 taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "burrito",
+      "serving": "1 burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Kyllingnuggets",
+      "namePrep": "kyllingnuggets",
+      "serving": "1 porsjon kyllingnuggets"
+    },
+    "hot-dog": {
+      "name": "Pølse i brød",
+      "namePrep": "pølse i brød",
+      "serving": "1 pølse i brød"
+    },
+    "steak": {
+      "name": "Biff",
+      "namePrep": "biff",
+      "serving": "1 biff"
+    },
+    "bacon": {
+      "name": "Bacon",
+      "namePrep": "bacon",
+      "serving": "2 skiver bacon"
+    },
+    "tuna": {
+      "name": "Tunfisk",
+      "namePrep": "tunfisk",
+      "serving": "100 g tunfisk"
+    },
+    "shrimp": {
+      "name": "Reker",
+      "namePrep": "reker",
+      "serving": "100 g reker"
+    },
+    "tofu": {
+      "name": "Tofu",
+      "namePrep": "tofu",
+      "serving": "100 g tofu"
+    },
+    "lentils": {
+      "name": "Linser",
+      "namePrep": "linser",
+      "serving": "1 kopp kokte linser"
+    },
+    "black-beans": {
+      "name": "Svarte bønner",
+      "namePrep": "svarte bønner",
+      "serving": "1 kopp kokte svarte bønner"
+    },
+    "chickpeas": {
+      "name": "Kikerter",
+      "namePrep": "kikerter",
+      "serving": "1 kopp kokte kikerter"
+    },
+    "hummus": {
+      "name": "Hummus",
+      "namePrep": "hummus",
+      "serving": "2 ss hummus"
+    },
+    "quinoa": {
+      "name": "Quinoa",
+      "namePrep": "quinoa",
+      "serving": "1 kopp kokt quinoa"
+    },
+    "tortilla": {
+      "name": "Tortilla",
+      "namePrep": "tortilla",
+      "serving": "1 tortilla"
+    },
+    "bagel": {
+      "name": "Bagel",
+      "namePrep": "bagel",
+      "serving": "1 bagel"
+    },
+    "croissant": {
+      "name": "Croissant",
+      "namePrep": "croissant",
+      "serving": "1 croissant"
+    },
+    "pancake": {
+      "name": "Pannekaker",
+      "namePrep": "pannekaker",
+      "serving": "2 pannekaker"
+    },
+    "waffle": {
+      "name": "Vaffel",
+      "namePrep": "vaffel",
+      "serving": "1 vaffel"
+    },
+    "cereal": {
+      "name": "Frokostblanding",
+      "namePrep": "frokostblanding",
+      "serving": "1 bolle frokostblanding"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granola",
+      "serving": "1 porsjon granola"
+    },
+    "almonds": {
+      "name": "Mandler",
+      "namePrep": "mandler",
+      "serving": "1 håndfull mandler"
+    },
+    "walnuts": {
+      "name": "Valnøtter",
+      "namePrep": "valnøtter",
+      "serving": "1 håndfull valnøtter"
+    },
+    "cashews": {
+      "name": "Cashewnøtter",
+      "namePrep": "cashewnøtter",
+      "serving": "1 håndfull cashewnøtter"
+    },
+    "chocolate": {
+      "name": "Sjokolade",
+      "namePrep": "sjokolade",
+      "serving": "1 porsjon sjokolade"
+    },
+    "ice-cream": {
+      "name": "Iskrem",
+      "namePrep": "iskrem",
+      "serving": "1 kule iskrem"
+    },
+    "cookie": {
+      "name": "Sjokoladekjeks",
+      "namePrep": "sjokoladekjeks",
+      "serving": "1 sjokoladekjeks"
+    },
+    "donut": {
+      "name": "Glasert donut",
+      "namePrep": "glasert donut",
+      "serving": "1 glasert donut"
+    },
+    "muffin": {
+      "name": "Blåbærmuffins",
+      "namePrep": "blåbærmuffins",
+      "serving": "1 blåbærmuffins"
+    },
+    "cake": {
+      "name": "Kake",
+      "namePrep": "kake",
+      "serving": "1 kakestykke"
+    },
+    "brownie": {
+      "name": "Brownie",
+      "namePrep": "brownie",
+      "serving": "1 brownie"
+    },
+    "popcorn": {
+      "name": "Popcorn",
+      "namePrep": "popcorn",
+      "serving": "1 porsjon popcorn"
+    },
+    "potato-chips": {
+      "name": "Potetgull",
+      "namePrep": "potetgull",
+      "serving": "1 porsjon potetgull"
+    },
+    "pretzels": {
+      "name": "Saltkringler",
+      "namePrep": "saltkringler",
+      "serving": "1 porsjon saltkringler"
+    },
+    "smoothie": {
+      "name": "Fruktsmoothie",
+      "namePrep": "fruktsmoothie",
+      "serving": "1 glass fruktsmoothie"
+    },
+    "orange-juice": {
+      "name": "Appelsinjuice",
+      "namePrep": "appelsinjuice",
+      "serving": "1 glass appelsinjuice"
+    },
+    "soda": {
+      "name": "Brus",
+      "namePrep": "brus",
+      "serving": "1 glass brus"
+    },
+    "latte": {
+      "name": "Latte",
+      "namePrep": "latte",
+      "serving": "1 latte"
+    },
+    "protein-shake": {
+      "name": "Proteinshake",
+      "namePrep": "proteinshake",
+      "serving": "1 proteinshake"
+    },
+    "spaghetti-bolognese": {
+      "name": "Spaghetti bolognese",
+      "namePrep": "spaghetti bolognese",
+      "serving": "1 porsjon spaghetti bolognese"
+    },
+    "ramen": {
+      "name": "Ramen",
+      "namePrep": "ramen",
+      "serving": "1 bolle ramen"
+    },
+    "pho": {
+      "name": "Pho",
+      "namePrep": "pho",
+      "serving": "1 bolle pho"
+    },
+    "chicken-soup": {
+      "name": "Kyllingsuppe",
+      "namePrep": "kyllingsuppe",
+      "serving": "1 bolle kyllingsuppe"
+    },
+    "caesar-salad": {
+      "name": "Cæsarsalat",
+      "namePrep": "cæsarsalat",
+      "serving": "1 porsjon cæsarsalat"
+    },
+    "green-salad": {
+      "name": "Grønn salat",
+      "namePrep": "grønn salat",
+      "serving": "1 porsjon grønn salat"
+    },
+    "broccoli": {
+      "name": "Brokkoli",
+      "namePrep": "brokkoli",
+      "serving": "1 porsjon brokkoli"
+    },
+    "spinach": {
+      "name": "Spinat",
+      "namePrep": "spinat",
+      "serving": "1 porsjon spinat"
+    },
+    "carrots": {
+      "name": "Gulrøtter",
+      "namePrep": "gulrøtter",
+      "serving": "1 porsjon gulrøtter"
+    },
+    "corn": {
+      "name": "Mais",
+      "namePrep": "mais",
+      "serving": "1 porsjon mais"
+    },
+    "tomato": {
+      "name": "Tomat",
+      "namePrep": "tomat",
+      "serving": "1 middels stor tomat"
+    },
+    "cucumber": {
+      "name": "Agurk",
+      "namePrep": "agurk",
+      "serving": "1/2 agurk"
+    },
+    "cheesecake": {
+      "name": "Ostekake",
+      "namePrep": "ostekake",
+      "serving": "1 ostekakestykke"
+    },
+    "lasagna": {
+      "name": "Lasagne",
+      "namePrep": "lasagne",
+      "serving": "1 porsjon lasagne"
+    },
+    "grilled-cheese": {
+      "name": "Grillet ostesmørbrød",
+      "namePrep": "grillet ostesmørbrød",
+      "serving": "1 grillet ostesmørbrød"
+    },
+    "peanut-butter-jelly": {
+      "name": "Peanøttsmør- og syltetøysmørbrød",
+      "namePrep": "peanøttsmør- og syltetøysmørbrød",
+      "serving": "1 peanøttsmør- og syltetøysmørbrød"
+    },
+    "omelette": {
+      "name": "Omelett",
+      "namePrep": "omelett",
+      "serving": "1 omelett"
+    },
+    "fried-egg": {
+      "name": "Speilegg",
+      "namePrep": "speilegg",
+      "serving": "1 speilegg"
+    },
+    "boiled-egg": {
+      "name": "Kokt egg",
+      "namePrep": "kokt egg",
+      "serving": "1 kokt egg"
+    },
+    "toast": {
+      "name": "Toast",
+      "namePrep": "toast",
+      "serving": "1 toastskive"
+    },
+    "avocado-toast": {
+      "name": "Avokadotoast",
+      "namePrep": "avokadotoast",
+      "serving": "1 avokadotoast"
+    },
+    "chicken-salad": {
+      "name": "Kyllingsalat",
+      "namePrep": "kyllingsalat",
+      "serving": "1 porsjon kyllingsalat"
+    },
+    "tuna-salad": {
+      "name": "Tunfisksalat",
+      "namePrep": "tunfisksalat",
+      "serving": "1 porsjon tunfisksalat"
+    },
+    "egg-salad": {
+      "name": "Eggesalat",
+      "namePrep": "eggesalat",
+      "serving": "1 porsjon eggesalat"
+    },
+    "cottage-cheese": {
+      "name": "Cottage cheese",
+      "namePrep": "cottage cheese",
+      "serving": "1 porsjon cottage cheese"
+    },
+    "cream-cheese": {
+      "name": "Kremost",
+      "namePrep": "kremost",
+      "serving": "1 porsjon kremost"
+    },
+    "butter": {
+      "name": "Smør",
+      "namePrep": "smør",
+      "serving": "1 ss smør"
+    },
+    "olive-oil": {
+      "name": "Olivenolje",
+      "namePrep": "olivenolje",
+      "serving": "1 ss olivenolje"
+    },
+    "mayonnaise": {
+      "name": "Majones",
+      "namePrep": "majones",
+      "serving": "1 ss majones"
+    },
+    "ketchup": {
+      "name": "Ketchup",
+      "namePrep": "ketchup",
+      "serving": "1 ss ketchup"
+    },
+    "honey": {
+      "name": "Honning",
+      "namePrep": "honning",
+      "serving": "1 ss honning"
+    },
+    "jam": {
+      "name": "Syltetøy",
+      "namePrep": "syltetøy",
+      "serving": "1 ss syltetøy"
+    },
+    "protein-bar": {
+      "name": "Proteinbar",
+      "namePrep": "proteinbar",
+      "serving": "1 proteinbar"
+    },
+    "energy-drink": {
+      "name": "Energidrikk",
+      "namePrep": "energidrikk",
+      "serving": "1 boks energidrikk"
+    },
+    "matcha-latte": {
+      "name": "Matcha latte",
+      "namePrep": "matcha latte",
+      "serving": "1 matcha latte"
+    },
+    "trail-mix": {
+      "name": "Nøtte- og fruktblanding",
+      "namePrep": "nøtte- og fruktblanding",
+      "serving": "1 håndfull nøtte- og fruktblanding"
+    },
+    "blueberries": {
+      "name": "Blåbær",
+      "namePrep": "blåbær",
+      "serving": "1 kopp blåbær"
+    },
+    "strawberries": {
+      "name": "Jordbær",
+      "namePrep": "jordbær",
+      "serving": "1 kopp jordbær"
+    },
+    "grapes": {
+      "name": "Druer",
+      "namePrep": "druer",
+      "serving": "1 kopp druer"
+    },
+    "orange": {
+      "name": "Appelsin",
+      "namePrep": "appelsin",
+      "serving": "1 middels stor appelsin"
+    },
+    "pear": {
+      "name": "Pære",
+      "namePrep": "pære",
+      "serving": "1 middels stor pære"
+    },
+    "peach": {
+      "name": "Fersken",
+      "namePrep": "fersken",
+      "serving": "1 middels stor fersken"
+    },
+    "watermelon": {
+      "name": "Vannmelon",
+      "namePrep": "vannmelon",
+      "serving": "1 skive vannmelon"
+    },
+    "pineapple": {
+      "name": "Ananas",
+      "namePrep": "ananas",
+      "serving": "1 kopp ananas"
+    },
+    "mango": {
+      "name": "Mango",
+      "namePrep": "mango",
+      "serving": "1 kopp mango"
+    },
+    "kiwi": {
+      "name": "Kiwi",
+      "namePrep": "kiwi",
+      "serving": "1 kiwi"
+    },
+    "raspberries": {
+      "name": "Bringebær",
+      "namePrep": "bringebær",
+      "serving": "1 kopp bringebær"
+    },
+    "blackberries": {
+      "name": "Bjørnebær",
+      "namePrep": "bjørnebær",
+      "serving": "1 kopp bjørnebær"
+    },
+    "cherries": {
+      "name": "Kirsebær",
+      "namePrep": "kirsebær",
+      "serving": "1 kopp kirsebær"
+    },
+    "grapefruit": {
+      "name": "Grapefrukt",
+      "namePrep": "grapefrukt",
+      "serving": "1/2 grapefrukt"
+    },
+    "lettuce": {
+      "name": "Salat",
+      "namePrep": "salat",
+      "serving": "1 porsjon salat"
+    },
+    "cabbage": {
+      "name": "Kål",
+      "namePrep": "kål",
+      "serving": "1 porsjon kål"
+    },
+    "cauliflower": {
+      "name": "Blomkål",
+      "namePrep": "blomkål",
+      "serving": "1 porsjon blomkål"
+    },
+    "asparagus": {
+      "name": "Asparges",
+      "namePrep": "asparges",
+      "serving": "1 porsjon asparges"
+    },
+    "zucchini": {
+      "name": "Squash",
+      "namePrep": "squash",
+      "serving": "1 porsjon squash"
+    },
+    "eggplant": {
+      "name": "Aubergine",
+      "namePrep": "aubergine",
+      "serving": "1 porsjon aubergine"
+    },
+    "bell-pepper": {
+      "name": "Paprika",
+      "namePrep": "paprika",
+      "serving": "1 paprika"
+    },
+    "onion": {
+      "name": "Løk",
+      "namePrep": "løk",
+      "serving": "1 middels stor løk"
+    },
+    "mushrooms": {
+      "name": "Sopp",
+      "namePrep": "sopp",
+      "serving": "1 porsjon sopp"
+    },
+    "green-beans": {
+      "name": "Grønne bønner",
+      "namePrep": "grønne bønner",
+      "serving": "1 porsjon grønne bønner"
+    },
+    "kale": {
+      "name": "Grønnkål",
+      "namePrep": "grønnkål",
+      "serving": "1 porsjon grønnkål"
+    },
+    "beets": {
+      "name": "Rødbeter",
+      "namePrep": "rødbeter",
+      "serving": "1 porsjon rødbeter"
+    },
+    "turkey-breast": {
+      "name": "Kalkunbryst",
+      "namePrep": "kalkunbryst",
+      "serving": "100 g tilberedt kalkunbryst"
+    },
+    "chicken-thigh": {
+      "name": "Kyllinglår",
+      "namePrep": "kyllinglår",
+      "serving": "1 tilberedt kyllinglår"
+    },
+    "pork-chop": {
+      "name": "Svinekotelett",
+      "namePrep": "svinekotelett",
+      "serving": "1 svinekotelett"
+    },
+    "ground-beef": {
+      "name": "Kjøttdeig av storfe",
+      "namePrep": "kjøttdeig av storfe",
+      "serving": "100 g tilberedt kjøttdeig"
+    },
+    "meatballs": {
+      "name": "Kjøttboller",
+      "namePrep": "kjøttboller",
+      "serving": "1 porsjon kjøttboller"
+    },
+    "sausage": {
+      "name": "Pølse",
+      "namePrep": "pølse",
+      "serving": "1 pølse"
+    },
+    "cod": {
+      "name": "Torsk",
+      "namePrep": "torsk",
+      "serving": "100 g tilberedt torsk"
+    },
+    "tilapia": {
+      "name": "Tilapia",
+      "namePrep": "tilapia",
+      "serving": "100 g tilberedt tilapia"
+    },
+    "sardines": {
+      "name": "Sardiner",
+      "namePrep": "sardiner",
+      "serving": "1 porsjon sardiner"
+    },
+    "crab": {
+      "name": "Krabbe",
+      "namePrep": "krabbe",
+      "serving": "1 porsjon krabbe"
+    },
+    "scallops": {
+      "name": "Kamskjell",
+      "namePrep": "kamskjell",
+      "serving": "1 porsjon kamskjell"
+    },
+    "smoked-salmon": {
+      "name": "Røkt laks",
+      "namePrep": "røkt laks",
+      "serving": "100 g røkt laks"
+    },
+    "skim-milk": {
+      "name": "Skummet melk",
+      "namePrep": "skummet melk",
+      "serving": "1 glass skummet melk"
+    },
+    "soy-milk": {
+      "name": "Soyamelk",
+      "namePrep": "soyamelk",
+      "serving": "1 glass soyamelk"
+    },
+    "almond-milk": {
+      "name": "Mandelmelk",
+      "namePrep": "mandelmelk",
+      "serving": "1 glass mandelmelk"
+    },
+    "oat-milk": {
+      "name": "Havremelk",
+      "namePrep": "havremelk",
+      "serving": "1 glass havremelk"
+    },
+    "kefir": {
+      "name": "Kefir",
+      "namePrep": "kefir",
+      "serving": "1 glass kefir"
+    },
+    "sour-cream": {
+      "name": "Rømme",
+      "namePrep": "rømme",
+      "serving": "1 porsjon rømme"
+    },
+    "feta-cheese": {
+      "name": "Feta",
+      "namePrep": "feta",
+      "serving": "1 porsjon feta"
+    },
+    "mozzarella": {
+      "name": "Mozzarella",
+      "namePrep": "mozzarella",
+      "serving": "1 porsjon mozzarella"
+    },
+    "parmesan": {
+      "name": "Parmesan",
+      "namePrep": "parmesan",
+      "serving": "1 porsjon parmesan"
+    },
+    "couscous": {
+      "name": "Couscous",
+      "namePrep": "couscous",
+      "serving": "1 kopp kokt couscous"
+    },
+    "barley": {
+      "name": "Bygg",
+      "namePrep": "bygg",
+      "serving": "1 kopp kokt bygg"
+    },
+    "buckwheat": {
+      "name": "Bokhvete",
+      "namePrep": "bokhvete",
+      "serving": "1 kopp kokt bokhvete"
+    },
+    "bulgur": {
+      "name": "Bulgur",
+      "namePrep": "bulgur",
+      "serving": "1 kopp kokt bulgur"
+    },
+    "naan": {
+      "name": "Naan",
+      "namePrep": "naan",
+      "serving": "1 naanbrød"
+    },
+    "pita-bread": {
+      "name": "Pitabrød",
+      "namePrep": "pitabrød",
+      "serving": "1 pitabrød"
+    },
+    "english-muffin": {
+      "name": "Engelsk muffin",
+      "namePrep": "engelsk muffin",
+      "serving": "1 engelsk muffin"
+    },
+    "rice-cake": {
+      "name": "Riskake",
+      "namePrep": "riskake",
+      "serving": "1 riskake"
+    },
+    "crackers": {
+      "name": "Kjeks",
+      "namePrep": "kjeks",
+      "serving": "1 porsjon kjeks"
+    },
+    "mashed-potatoes": {
+      "name": "Potetmos",
+      "namePrep": "potetmos",
+      "serving": "1 porsjon potetmos"
+    },
+    "scrambled-eggs": {
+      "name": "Eggerøre",
+      "namePrep": "eggerøre",
+      "serving": "1 porsjon eggerøre"
+    },
+    "french-toast": {
+      "name": "Arme riddere",
+      "namePrep": "arme riddere",
+      "serving": "1 porsjon arme riddere"
+    },
+    "breakfast-burrito": {
+      "name": "Frokostburrito",
+      "namePrep": "frokostburrito",
+      "serving": "1 frokostburrito"
+    },
+    "hash-browns": {
+      "name": "Hash browns",
+      "namePrep": "hash browns",
+      "serving": "1 porsjon hash browns"
+    },
+    "chia-pudding": {
+      "name": "Chiagrøt",
+      "namePrep": "chiagrøt",
+      "serving": "1 porsjon chiagrøt"
+    },
+    "overnight-oats": {
+      "name": "Kjøleskapsgrøt",
+      "namePrep": "kjøleskapsgrøt",
+      "serving": "1 porsjon kjøleskapsgrøt"
+    },
+    "breakfast-sandwich": {
+      "name": "Frokostsandwich",
+      "namePrep": "frokostsandwich",
+      "serving": "1 frokostsandwich"
+    },
+    "edamame": {
+      "name": "Edamame",
+      "namePrep": "edamame",
+      "serving": "1 porsjon edamame"
+    },
+    "kidney-beans": {
+      "name": "Kidneybønner",
+      "namePrep": "kidneybønner",
+      "serving": "1 kopp kokte kidneybønner"
+    },
+    "pinto-beans": {
+      "name": "Pintobønner",
+      "namePrep": "pintobønner",
+      "serving": "1 kopp kokte pintobønner"
+    },
+    "split-peas": {
+      "name": "Gule erter",
+      "namePrep": "gule erter",
+      "serving": "1 kopp kokte gule erter"
+    },
+    "baked-beans": {
+      "name": "Bakte bønner",
+      "namePrep": "bakte bønner",
+      "serving": "1 porsjon bakte bønner"
+    },
+    "fried-rice": {
+      "name": "Stekt ris",
+      "namePrep": "stekt ris",
+      "serving": "1 porsjon stekt ris"
+    },
+    "pad-thai": {
+      "name": "Pad thai",
+      "namePrep": "pad thai",
+      "serving": "1 porsjon pad thai"
+    },
+    "chicken-curry": {
+      "name": "Kyllingcurry",
+      "namePrep": "kyllingcurry",
+      "serving": "1 porsjon kyllingcurry"
+    },
+    "chicken-tikka-masala": {
+      "name": "Chicken tikka masala",
+      "namePrep": "chicken tikka masala",
+      "serving": "1 porsjon chicken tikka masala"
+    },
+    "beef-chili": {
+      "name": "Chili con carne",
+      "namePrep": "chili con carne",
+      "serving": "1 porsjon chili con carne"
+    },
+    "falafel": {
+      "name": "Falafel",
+      "namePrep": "falafel",
+      "serving": "1 porsjon falafel"
+    },
+    "dumplings": {
+      "name": "Dumplings",
+      "namePrep": "dumplings",
+      "serving": "1 porsjon dumplings"
+    },
+    "spring-rolls": {
+      "name": "Vårruller",
+      "namePrep": "vårruller",
+      "serving": "1 porsjon vårruller"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "quesadilla",
+      "serving": "1 quesadilla"
+    },
+    "nachos": {
+      "name": "Nachos",
+      "namePrep": "nachos",
+      "serving": "1 porsjon nachos"
+    },
+    "mac-and-cheese": {
+      "name": "Mac and cheese",
+      "namePrep": "mac and cheese",
+      "serving": "1 porsjon mac and cheese"
+    },
+    "chicken-wings": {
+      "name": "Kyllingvinger",
+      "namePrep": "kyllingvinger",
+      "serving": "1 porsjon kyllingvinger"
+    },
+    "fish-and-chips": {
+      "name": "Fish and chips",
+      "namePrep": "fish and chips",
+      "serving": "1 porsjon fish and chips"
+    },
+    "risotto": {
+      "name": "Risotto",
+      "namePrep": "risotto",
+      "serving": "1 porsjon risotto"
+    },
+    "tortilla-chips": {
+      "name": "Tortillachips",
+      "namePrep": "tortillachips",
+      "serving": "1 porsjon tortillachips"
+    },
+    "granola-bar": {
+      "name": "Müslibar",
+      "namePrep": "müslibar",
+      "serving": "1 müslibar"
+    },
+    "chocolate-bar": {
+      "name": "Sjokoladebar",
+      "namePrep": "sjokoladebar",
+      "serving": "1 sjokoladebar"
+    },
+    "candy": {
+      "name": "Godteri",
+      "namePrep": "godteri",
+      "serving": "1 porsjon godteri"
+    },
+    "cinnamon-roll": {
+      "name": "Kanelbolle",
+      "namePrep": "kanelbolle",
+      "serving": "1 kanelbolle"
+    },
+    "marshmallows": {
+      "name": "Marshmallows",
+      "namePrep": "marshmallows",
+      "serving": "1 porsjon marshmallows"
+    },
+    "fruit-snacks": {
+      "name": "Fruktsnacks",
+      "namePrep": "fruktsnacks",
+      "serving": "1 porsjon fruktsnacks"
+    },
+    "black-coffee": {
+      "name": "Svart kaffe",
+      "namePrep": "svart kaffe",
+      "serving": "1 kopp svart kaffe"
+    },
+    "cappuccino": {
+      "name": "Cappuccino",
+      "namePrep": "cappuccino",
+      "serving": "1 cappuccino"
+    },
+    "milk-tea": {
+      "name": "Melkete",
+      "namePrep": "melkete",
+      "serving": "1 glass melkete"
+    },
+    "bubble-tea": {
+      "name": "Bubble tea",
+      "namePrep": "bubble tea",
+      "serving": "1 bubble tea"
+    },
+    "lemonade": {
+      "name": "Limonade",
+      "namePrep": "limonade",
+      "serving": "1 glass limonade"
+    },
+    "iced-tea": {
+      "name": "Iste",
+      "namePrep": "iste",
+      "serving": "1 glass iste"
+    },
+    "apple-juice": {
+      "name": "Eplejuice",
+      "namePrep": "eplejuice",
+      "serving": "1 glass eplejuice"
+    },
+    "coconut-water": {
+      "name": "Kokosvann",
+      "namePrep": "kokosvann",
+      "serving": "1 glass kokosvann"
+    },
+    "sports-drink": {
+      "name": "Sportsdrikk",
+      "namePrep": "sportsdrikk",
+      "serving": "1 flaske sportsdrikk"
+    },
+    "ranch-dressing": {
+      "name": "Ranchdressing",
+      "namePrep": "ranchdressing",
+      "serving": "1 porsjon ranchdressing"
+    },
+    "bbq-sauce": {
+      "name": "BBQ-saus",
+      "namePrep": "BBQ-saus",
+      "serving": "1 porsjon BBQ-saus"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "salsa",
+      "serving": "1 porsjon salsa"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "guacamole",
+      "serving": "1 porsjon guacamole"
+    }
+  },
+  "utility": {
+    "pricing": "Priser",
+    "support": "Support",
+    "privacy": "Personvern",
+    "terms": "Vilkår",
+    "press": "Pressekit",
+    "deleteExtra": "For å be om sletting, skriv fra e-postadressen som er knyttet til kontoen, og skriv «Delete account» i emnefeltet."
+  },
+  "store": {
+    "appStoreSmall": "Last ned i",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Tilgjengelig på",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Funksjon",
+    "useCase": "Bruksområde",
+    "openPage": "Åpne side →",
+    "openArrow": "Åpne →",
+    "practicalWorkflow": "Praktisk arbeidsflyt",
+    "workflowTitle": "Slik hjelper det i daglig logging",
+    "goodToKnow": "Greit å vite",
+    "defaultNote": "Ernæringsverdier er veiledende. De fungerer best sammen med porsjonskontroll, sunn fornuft og manuelle rettelser.",
+    "relatedPages": "Relaterte sider",
+    "quickTakeaway": "Kort oppsummert:",
+    "defaultTakeaway": "Calorie Counter AI gjør dagboken raskere: bruk bildeestimater, strekkoder og manuelle rettelser sammen.",
+    "information": "Informasjon",
+    "bestFor": "Best for"
+  },
+  "internalCta": {
+    "title": "Begynn å telle kalorier med AI i dag",
+    "text": "Last ned appen for iPhone eller Android, og gjør neste matbilde om til en post i dagboken.",
+    "button": "Last ned nå"
+  },
+  "download": {
+    "availableTitle": "Tilgjengelig for iPhone og Android",
+    "availableText": "Start med et bilde, en strekkode eller en enkel dagbokpost. Rask logging av kalorier og makroer fra første dag."
+  },
+  "faq": {
+    "items": [
+      [
+        "Er Calorie Counter AI gratis?",
+        "Du kan starte gratis med daglige AI-analyser av mat. Premiumfunksjoner kan være nyttige hvis du trenger høyere grenser og flere verktøy."
+      ],
+      [
+        "Kan jeg telle kalorier fra et bilde?",
+        "Ja. Ta et bilde av måltidet og få et estimat av kalorier, protein, fett, karbohydrater og porsjonsstørrelse."
+      ],
+      [
+        "Finnes det en strekkodeskanner?",
+        "Ja. Skann pakket mat, bekreft produktet og legg kalorier og makroer inn i dagboken på få sekunder."
+      ],
+      [
+        "Følger appen makroer?",
+        "Ja. Du kan følge kalorier, protein, fett og karbohydrater samlet."
+      ],
+      [
+        "Fungerer den for hjemmelaget mat?",
+        "Ja. Bildeestimater er nyttige for hjemmelagde retter, men sjekk porsjon, olje, sauser og skjulte ingredienser."
+      ],
+      [
+        "Er dette medisinsk rådgivning?",
+        "Nei. Appen gir informative estimater og erstatter ikke lege, klinisk ernæringsfysiolog eller annet helsepersonell."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Priser og gratis start",
+      "Du kan begynne gratis. Eventuelle abonnementer, prøveperioder og gjeldende priser håndteres av App Store eller Google Play og kan variere mellom land."
+    ],
+    "support": [
+      "Support",
+      "Trenger du hjelp, vil gi tilbakemelding eller rapportere et problem? Oppgi enhet, operativsystem og en kort beskrivelse av problemet."
+    ],
+    "contact": [
+      "Kontakt",
+      "For spørsmål om Calorie Counter AI, samarbeid eller presse kan du nå teamet via kontaktinformasjonen på nettstedet eller i appbutikken."
+    ],
+    "privacy": [
+      "Personvern",
+      "Vi samler inn og behandler data som trengs for at appen og nettstedet skal fungere. Les hele personvernerklæringen for detaljer om formål, lagringstid og rettigheter."
+    ],
+    "terms": [
+      "Brukervilkår",
+      "Ved å bruke appen godtar du at ernæringsestimater er veiledende, og at tjenesten brukes i henhold til publiserte vilkår."
+    ],
+    "disclaimer": [
+      "Helseforbehold",
+      "Calorie Counter AI stiller ikke diagnoser, gir ikke behandling og lager ikke en medisinsk kostholdsplan. Kontakt kvalifisert helsepersonell ved medisinske behov eller spesifikke tilstander."
+    ],
+    "delete": [
+      "Slett konto",
+      "Vil du slette kontoen din? Skriv fra e-postadressen som er knyttet til profilen, og skriv «Delete account» i emnefeltet."
+    ]
+  },
+  "press": {
+    "iconAlt": "Appikon",
+    "iconTitle": "Appikon",
+    "downloadIcon": "Last ned ikon",
+    "screenshotAlt": "Skjermbilde fra appen",
+    "screenshotTitle": "Skjermbilde",
+    "downloadScreenshot": "Last ned skjermbilde",
+    "shortDescriptionTitle": "Kort beskrivelse",
+    "shortDescriptionText": "Calorie Counter AI er en AI-kaloriteller som estimerer kalorier, makroer og porsjonsstørrelse fra et bilde av måltidet ditt, med kostholdsdagbok og strekkodeskanner."
+  },
+  "notFound": {
+    "title": "Siden ble ikke funnet",
+    "text": "Denne siden finnes ikke ennå, eller adressen er skrevet feil.",
+    "home": "Tilbake til forsiden"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Funksjoner",
+      "h1": "Verktøy for å følge maten raskere",
+      "description": "Bilder, strekkoder, dagbok, makroer, mål, statistikk og Health Connect: alt som gjør det lettere å følge maten konsekvent.",
+      "kicker": "Produktoversikt",
+      "summary": "Kjernen i appen er å gjøre måltidslogging så enkel at den fungerer i hverdagen.",
+      "bullets": [
+        "Bildeestimat av måltider uten merking",
+        "Strekkodeskanner for pakkede produkter",
+        "Redigerbare estimater av kalorier og makroer",
+        "Dagbok, mål og fremgangsoversikt"
+      ],
+      "sections": [
+        [
+          "Velg raskeste metode",
+          "En hjemmelaget tallerken, en yoghurt fra butikken og en restaurantburger logges ikke på samme måte. Bruk bilde, strekkode eller manuell inntasting etter situasjonen."
+        ],
+        [
+          "Sjekk estimatet",
+          "AI lager et praktisk utkast. Sauser, olje og porsjonsstørrelse bør bekreftes før du lagrer."
+        ],
+        [
+          "Bygg vanen",
+          "Verdien ligger ikke i én skanning, men i en gjentatt dagbok som viser trender."
+        ]
+      ],
+      "workflowTitle": "Velg riktig metode for hvert måltid",
+      "workflow": [
+        "Mangler retten merking, starter du med et bilde. Er produktet pakket, skanner du strekkoden. Kjenner du oppskriften bedre, retter du porsjon eller ingredienser manuelt.",
+        "Slik blir dagboken rask uten å være blind: appen starter posten, og du bekrefter detaljene som påvirker nøyaktigheten."
+      ],
+      "note": "Automatisering senker terskelen, men fjerner ikke behovet for kontroll: porsjon, oppskrift og skjulte ingredienser betyr fortsatt mye.",
+      "bestFor": [
+        "rask start",
+        "ulike typer mat",
+        "redigerbare estimater",
+        "daglig vane"
+      ],
+      "workflowKicker": "Slik fungerer det",
+      "noteTitle": "Greit å vite"
+    },
+    "/food-recognition-ai/": {
+      "title": "Matgjenkjenning med AI",
+      "h1": "Matgjenkjenning med AI fra et bilde",
+      "description": "Ta et bilde av tallerkenen, få identifiserte matvarer og et redigerbart ernæringsestimat.",
+      "kicker": "Bildeanalyse",
+      "summary": "Matgjenkjenning sparer tid når det tar for lang tid å slå opp flere ingredienser manuelt.",
+      "bullets": [
+        "Gjenkjenner synlig mat",
+        "Estimerer porsjon og makroer",
+        "Lar deg justere resultatet",
+        "Praktisk for blandede retter, salater og restaurantmat"
+      ],
+      "sections": [
+        [
+          "Der det hjelper mest",
+          "Bildeanalyse hjelper ved hjemmelagde retter, bowls, salater, rester og mat uten merking."
+        ],
+        [
+          "Det kameraet ikke ser",
+          "Olje, sukker, fløte og sauser kan være skjult. Derfor må resultatet kontrolleres."
+        ],
+        [
+          "Forbedre estimatet",
+          "Fotografer hele tallerkenen i godt lys, og legg til usynlige ingredienser manuelt."
+        ]
+      ],
+      "workflowTitle": "Slik får du et nyttig estimat fra et bilde",
+      "workflow": [
+        "Ta bilde av hele tallerkenen i normalt lys uten ekstrem vinkel. Sjekk navn, porsjon og makroer etter gjenkjenningen før du lagrer.",
+        "Er det olje, saus, ost, sukker eller drikke med? Legg det til manuelt. Best resultat får du med AI pluss en rask kontroll."
+      ],
+      "note": "Bilder fungerer godt for synlig mat, men kan overse skjulte ingredienser. Resultatet bør alltid kunne redigeres.",
+      "bestFor": [
+        "hjemmelaget mat",
+        "salater og bowls",
+        "restaurant",
+        "raskt utkast"
+      ],
+      "workflowKicker": "Bildeanalyse",
+      "noteTitle": "Husk"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Strekkodeskanner for kalorier",
+      "h1": "Strekkodeskanner for pakket mat",
+      "description": "Skann pakkede produkter og legg raskt kalorier og makroer inn i dagboken.",
+      "kicker": "Pakkede produkter",
+      "summary": "Skanneren er raskeste metode når produktet allerede har strekkode på emballasjen.",
+      "bullets": [
+        "Yoghurt, snacks og drikke",
+        "Ferdigretter og frysevarer",
+        "Manuell porsjonsjustering",
+        "Raskere dagbok"
+      ],
+      "sections": [
+        [
+          "Når du bruker den",
+          "Bruk den for pakket mat, snacks, drikke og produkter fra matbutikken."
+        ],
+        [
+          "Sjekk porsjonen",
+          "Produktet kan være riktig, men mengden du spiser bestemmer du selv."
+        ],
+        [
+          "Kombiner med bilde",
+          "I et blandet måltid kan du skanne ett produkt og legge til resten med bilde eller manuelt."
+        ]
+      ],
+      "workflowTitle": "Slik logger du et pakket produkt",
+      "workflow": [
+        "Skann koden, sjekk at produktet er riktig, og velg porsjonen du faktisk spiste.",
+        "Spiste du bare halve pakken eller la til andre ingredienser, justerer du posten før du lagrer."
+      ],
+      "note": "Produktdatabaser varierer mellom land og merker. Strekkoden gjør inntastingen raskere, men porsjonen må fortsatt sjekkes.",
+      "bestFor": [
+        "pakkede produkter",
+        "snacks",
+        "drikke",
+        "innkjøp"
+      ],
+      "workflowKicker": "Skanner",
+      "noteTitle": "Viktig merknad"
+    },
+    "/macro-tracker/": {
+      "title": "Makrotracker",
+      "h1": "Følg protein, fett og karbohydrater",
+      "description": "Hold oversikt over kalorier og makroer samlet for å forstå dagens sammensetning bedre.",
+      "kicker": "Makroer",
+      "summary": "Kalorier viser hvor mye energi du spiser; makroer viser hvor energien kommer fra.",
+      "bullets": [
+        "Protein",
+        "Fett",
+        "Karbohydrater",
+        "Daglige mål"
+      ],
+      "sections": [
+        [
+          "Hvorfor de betyr noe",
+          "To dager med samme kalorier kan være satt sammen helt forskjellig."
+        ],
+        [
+          "Protein synlig",
+          "Vil du bygge muskler eller styre metthet, ser du ofte først på protein."
+        ],
+        [
+          "Lett å lese",
+          "Makroer ved siden av kalorier gjør resten av dagen lettere å justere."
+        ]
+      ],
+      "workflowTitle": "Bruk makroer i dagboken",
+      "workflow": [
+        "Logg måltider med bilde, strekkode eller manuell inntasting. Se deretter dagens total for protein, fett og karbohydrater.",
+        "Bruk tallene som retning: perfekte verdier per måltid er mindre viktig enn en stabil trend."
+      ],
+      "note": "Makroer er ikke en diagnose eller kostholdsplan. Kontakt en ekspert ved spesifikke mål eller medisinske behov.",
+      "bestFor": [
+        "protein",
+        "vektnedgang",
+        "muskelbygging",
+        "matkvalitet"
+      ],
+      "workflowKicker": "Makroer",
+      "noteTitle": "Greit å vite"
+    },
+    "/food-diary-app/": {
+      "title": "Kostholdsdagbok",
+      "h1": "Rask og visuell kostholdsdagbok",
+      "description": "Registrer måltider, porsjoner og ernæringsestimater i en dagbok som er lett å gå tilbake til.",
+      "kicker": "Dagbok",
+      "summary": "En god dagbok trenger ikke være perfekt; den må være enkel nok til å fortsette med.",
+      "bullets": [
+        "Logging med bilde",
+        "Måltidshistorikk",
+        "Manuelle rettelser",
+        "Gjentatte vaner"
+      ],
+      "sections": [
+        [
+          "Hvorfor det hjelper",
+          "En god dagbok trenger ikke være perfekt; den må være enkel nok til å fortsette med."
+        ],
+        [
+          "Hva du kontrollerer",
+          "Sjekk porsjon, ingredienser og kontekst, slik at dagboken gjenspeiler det du faktisk spiste."
+        ],
+        [
+          "Bruk det i hverdagen",
+          "Det viktigste er en løsning som er rask nok til å brukes igjen og igjen."
+        ]
+      ],
+      "workflowTitle": "Før dagbok uten stress",
+      "workflow": [
+        "Lagre først utkastet, og rett deretter bare det som faktisk gjør en forskjell: porsjon, sauser, olje, drikke og hovedingredienser.",
+        "Dagboken skal vise trender og vaner, ikke bedømme hvert måltid."
+      ],
+      "note": "Automatisering senker terskelen, men fjerner ikke behovet for kontroll: porsjon, oppskrift og skjulte ingredienser betyr fortsatt mye.",
+      "bestFor": [
+        "daglig dagbok",
+        "vaner",
+        "tilbakevendende måltider",
+        "enkel kontroll"
+      ],
+      "workflowKicker": "Slik fungerer det",
+      "noteTitle": "Greit å vite"
+    },
+    "/nutrition-tracker/": {
+      "title": "Ernæringstracker",
+      "h1": "Følg ernæringen med tydelige tall",
+      "description": "Se kalorier, protein, fett og karbohydrater uten å legge inn alt fra bunnen.",
+      "kicker": "Ernæring",
+      "summary": "Ernæringstrackeren kombinerer bilder, strekkoder og manuelle rettelser til et tydelig bilde av måltidene.",
+      "bullets": [
+        "Kalorier",
+        "Makroer",
+        "Porsjoner",
+        "Trender over tid"
+      ],
+      "sections": [
+        [
+          "Hvorfor det hjelper",
+          "Ernæringstrackeren kombinerer bilder, strekkoder og manuelle rettelser til et tydelig bilde av måltidene."
+        ],
+        [
+          "Hva du kontrollerer",
+          "Sjekk porsjon, ingredienser og kontekst, slik at dagboken gjenspeiler det du faktisk spiste."
+        ],
+        [
+          "Bruk det i hverdagen",
+          "Det viktigste er en løsning som er rask nok til å brukes igjen og igjen."
+        ]
+      ],
+      "workflowTitle": "Slik bruker du ernæringstrackeren",
+      "workflow": [
+        "Logg de viktigste måltidene og se dagens total. Enkeltestimater er veiledende, men med kontinuitet blir oversikten nyttig.",
+        "Sjekk skjulte ingredienser og porsjoner før du lagrer for bedre resultater."
+      ],
+      "note": "Automatisering senker terskelen, men fjerner ikke behovet for kontroll: porsjon, oppskrift og skjulte ingredienser betyr fortsatt mye.",
+      "bestFor": [
+        "daglig ernæring",
+        "makroer",
+        "porsjoner",
+        "oversikt"
+      ],
+      "workflowKicker": "Slik fungerer det",
+      "noteTitle": "Greit å vite"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Estimer porsjonsvekt",
+      "h1": "Estimer porsjonsvekt fra et måltid",
+      "description": "Bruk et bildeestimat som utgangspunkt når du ikke kjenner nøyaktig vekt.",
+      "kicker": "Porsjoner",
+      "summary": "Ved kaloritelling er porsjonsstørrelsen ofte den største usikkerheten.",
+      "bullets": [
+        "Vekt som rettesnor",
+        "Redigerbare porsjoner",
+        "Praktisk uten vekt",
+        "Bedre dagbokposter"
+      ],
+      "sections": [
+        [
+          "Hvorfor det hjelper",
+          "Ved kaloritelling er porsjonsstørrelsen ofte den største usikkerheten."
+        ],
+        [
+          "Hva du kontrollerer",
+          "Sjekk porsjon, ingredienser og kontekst, slik at dagboken gjenspeiler det du faktisk spiste."
+        ],
+        [
+          "Bruk det i hverdagen",
+          "Det viktigste er en løsning som er rask nok til å brukes igjen og igjen."
+        ]
+      ],
+      "workflowTitle": "Gjør et estimat mer nyttig",
+      "workflow": [
+        "Start med bildet, sjekk porsjonen og endre vekten hvis du vet mer om oppskriften eller mengden.",
+        "For tilbakevendende måltider kan du lagre en korrigert versjon, slik at neste logging går raskere."
+      ],
+      "note": "Automatisering senker terskelen, men fjerner ikke behovet for kontroll: porsjon, oppskrift og skjulte ingredienser betyr fortsatt mye.",
+      "bestFor": [
+        "restaurantmat",
+        "hjemmelaget mat",
+        "uten vekt",
+        "rask logging"
+      ],
+      "workflowKicker": "Slik fungerer det",
+      "noteTitle": "Greit å vite"
+    },
+    "/progress-statistics/": {
+      "title": "Fremgang og statistikk",
+      "h1": "Se trender i kalorier, makroer og vaner",
+      "description": "Sammenlign dager, uker og måneder for å forstå hvordan dagboken utvikler seg over tid.",
+      "kicker": "Fremgang",
+      "summary": "Enkeltdager kan variere mye. Trender gjør bildet tydeligere.",
+      "bullets": [
+        "Daglig oversikt",
+        "Uke- og månedstrender",
+        "Kalorier og makroer",
+        "Gjentatte vaner"
+      ],
+      "sections": [
+        [
+          "Hvorfor det hjelper",
+          "Enkeltdager kan variere mye. Trender gjør bildet tydeligere."
+        ],
+        [
+          "Hva du kontrollerer",
+          "Sjekk porsjon, ingredienser og kontekst, slik at dagboken gjenspeiler det du faktisk spiste."
+        ],
+        [
+          "Bruk det i hverdagen",
+          "Det viktigste er en løsning som er rask nok til å brukes igjen og igjen."
+        ]
+      ],
+      "workflowTitle": "Slik leser du fremgangen",
+      "workflow": [
+        "Se først på helheten: gjennomsnitt, gjentatte mønstre og hvor ofte du logger.",
+        "Bruk detaljene til å justere neste uke i stedet for å overreagere på én dag."
+      ],
+      "note": "Automatisering senker terskelen, men fjerner ikke behovet for kontroll: porsjon, oppskrift og skjulte ingredienser betyr fortsatt mye.",
+      "bestFor": [
+        "uketrender",
+        "vaner",
+        "kalorimål",
+        "makroer"
+      ],
+      "workflowKicker": "Slik fungerer det",
+      "noteTitle": "Greit å vite"
+    },
+    "/meal-reminders/": {
+      "title": "Måltidspåminnelser",
+      "h1": "Husk å logge maten",
+      "description": "Påminnelser hjelper deg å registrere måltider mens detaljene fortsatt er ferske.",
+      "kicker": "Påminnelser",
+      "summary": "Det er lettere å få en god dagbok hvis du logger nær måltidet.",
+      "bullets": [
+        "Mindre glemsel",
+        "Bedre porsjonshukommelse",
+        "Daglig rutine",
+        "Fleksibel vane"
+      ],
+      "sections": [
+        [
+          "Hvorfor det hjelper",
+          "Det er lettere å få en god dagbok hvis du logger nær måltidet."
+        ],
+        [
+          "Hva du kontrollerer",
+          "Sjekk porsjon, ingredienser og kontekst, slik at dagboken gjenspeiler det du faktisk spiste."
+        ],
+        [
+          "Bruk det i hverdagen",
+          "Det viktigste er en løsning som er rask nok til å brukes igjen og igjen."
+        ]
+      ],
+      "workflowTitle": "Bygg en enkel rutine",
+      "workflow": [
+        "Velg tidspunkter som passer vanlige måltider. Når påminnelsen kommer, tar du et bilde eller oppretter en enkel post.",
+        "Rett senere når du har tid. Det viktigste er å fange måltidet mens du husker det."
+      ],
+      "note": "Automatisering senker terskelen, men fjerner ikke behovet for kontroll: porsjon, oppskrift og skjulte ingredienser betyr fortsatt mye.",
+      "bestFor": [
+        "glemsel",
+        "rutiner",
+        "travle dager",
+        "kveldslogging"
+      ],
+      "workflowKicker": "Slik fungerer det",
+      "noteTitle": "Greit å vite"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Koble ernæringsdata til Health Connect",
+      "description": "Synk relevante data der det støttes, og hold helse og ernæring mer samlet.",
+      "kicker": "Integrasjon",
+      "summary": "Health Connect kan gjøre det lettere å se ernæringsvaner sammen med andre helsedata.",
+      "bullets": [
+        "Ernæringsdata der det støttes",
+        "Android-integrasjon",
+        "Samlet oversikt",
+        "Kontroll over tillatelser"
+      ],
+      "sections": [
+        [
+          "Hvorfor det hjelper",
+          "Health Connect kan gjøre det lettere å se ernæringsvaner sammen med andre helsedata."
+        ],
+        [
+          "Hva du kontrollerer",
+          "Sjekk porsjon, ingredienser og kontekst, slik at dagboken gjenspeiler det du faktisk spiste."
+        ],
+        [
+          "Bruk det i hverdagen",
+          "Det viktigste er en løsning som er rask nok til å brukes igjen og igjen."
+        ]
+      ],
+      "workflowTitle": "Bruk integrasjonen med kontroll",
+      "workflow": [
+        "Aktiver Health Connect hvis du vil samle data fra flere apper. Sjekk tillatelsene og slå av det du ikke vil dele.",
+        "Se integrasjonen som praktisk synkronisering, ikke som et krav for kaloritelling."
+      ],
+      "note": "Automatisering senker terskelen, men fjerner ikke behovet for kontroll: porsjon, oppskrift og skjulte ingredienser betyr fortsatt mye.",
+      "bestFor": [
+        "Android",
+        "Health Connect",
+        "datakontroll",
+        "samlet oversikt"
+      ],
+      "workflowKicker": "Slik fungerer det",
+      "noteTitle": "Greit å vite"
+    },
+    "/data-export/": {
+      "title": "Dataeksport",
+      "h1": "Eksporter kostholdsdagboken",
+      "description": "Eksporter data når du vil analysere, sikkerhetskopiere eller dele historikken.",
+      "kicker": "Data",
+      "summary": "Eksport gjør dagboken mer fleksibel for deg som vil jobbe videre med informasjonen.",
+      "bullets": [
+        "Historikk utenfor appen",
+        "Egen analyse",
+        "Sikkerhetskopi",
+        "Deling ved behov"
+      ],
+      "sections": [
+        [
+          "Hvorfor det hjelper",
+          "Eksport gjør dagboken mer fleksibel for deg som vil jobbe videre med informasjonen."
+        ],
+        [
+          "Hva du kontrollerer",
+          "Sjekk porsjon, ingredienser og kontekst, slik at dagboken gjenspeiler det du faktisk spiste."
+        ],
+        [
+          "Bruk det i hverdagen",
+          "Det viktigste er en løsning som er rask nok til å brukes igjen og igjen."
+        ]
+      ],
+      "workflowTitle": "Eksporter med omtanke",
+      "workflow": [
+        "Velg perioden og datatypen som er relevant. Sjekk filen før du deler den med andre.",
+        "Husk at estimater i dagboken fortsatt er veiledende, også når de eksporteres."
+      ],
+      "note": "Automatisering senker terskelen, men fjerner ikke behovet for kontroll: porsjon, oppskrift og skjulte ingredienser betyr fortsatt mye.",
+      "bestFor": [
+        "egen analyse",
+        "sikkerhetskopi",
+        "deling",
+        "historikk"
+      ],
+      "workflowKicker": "Slik fungerer det",
+      "noteTitle": "Greit å vite"
+    },
+    "/use-cases/": {
+      "title": "Bruksområder",
+      "h1": "Bruk Calorie Counter AI i hverdagen",
+      "description": "Se hvordan bildeanalyse, strekkoder og dagbok hjelper ved vektnedgang, vektvedlikehold, muskelbygging, hjemmelaget mat og restaurantmåltider.",
+      "kicker": "Bruksområder"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Kaloriteller for vektnedgang",
+      "h1": "Tell kalorier for vektnedgang uten tung manuell logging",
+      "description": "Bruk bildeestimater, strekkoder og makroer til å følge et kalorimål på en mer praktisk måte.",
+      "kicker": "Vektnedgang",
+      "summary": "Ved vektnedgang handler logging om å gjøre energiinntaket synlig uten å gjøre hverdagen uoverkommelig.",
+      "bullets": [
+        "Daglig kalorimål",
+        "Bilde for blandede retter",
+        "Makroer ved siden av kalorier",
+        "Trender fremfor perfeksjon"
+      ],
+      "sections": [
+        [
+          "Hvorfor det hjelper",
+          "Ved vektnedgang handler logging om å gjøre energiinntaket synlig uten å gjøre hverdagen uoverkommelig."
+        ],
+        [
+          "Det viktigste å sjekke",
+          "Porsjoner, olje, sauser, drikke og snacks påvirker ofte mer enn små detaljer."
+        ],
+        [
+          "Bruk trender",
+          "Se på gjentatte mønstre over flere dager i stedet for å overtolke én måltidslogg."
+        ]
+      ],
+      "workflowTitle": "Slik bruker du den ved vektnedgang",
+      "workflow": [
+        "Logg måltidene som betyr mest i løpet av dagen, og sjekk spesielt porsjon, olje, sauser, snacks og drikke.",
+        "Se på ukens mønster i stedet for å dømme én enkelt dag. Et realistisk estimat er mer nyttig enn ingen logging."
+      ],
+      "note": "Automatisering senker terskelen, men fjerner ikke behovet for kontroll: porsjon, oppskrift og skjulte ingredienser betyr fortsatt mye.",
+      "bestFor": [
+        "kaloriunderskudd",
+        "porsjoner",
+        "snacks",
+        "restaurantmat"
+      ],
+      "workflowKicker": "Slik fungerer det",
+      "noteTitle": "Greit å vite"
+    },
+    "/calorie-deficit-app/": {
+      "title": "App for kaloriunderskudd",
+      "h1": "Følg et kaloriunderskudd tydeligere",
+      "description": "Se hvor mye du spiser over tid, og juster ut fra dagbok, porsjoner og trender.",
+      "kicker": "Kaloriunderskudd",
+      "summary": "Et kaloriunderskudd oppstår over tid, ikke i ett enkelt måltid.",
+      "bullets": [
+        "Daglige mål",
+        "Ukesnitt",
+        "Redigerbare estimater",
+        "Tydelige måltider"
+      ],
+      "sections": [
+        [
+          "Hvorfor det hjelper",
+          "Et kaloriunderskudd oppstår over tid, ikke i ett enkelt måltid."
+        ],
+        [
+          "Det viktigste å sjekke",
+          "Porsjoner, olje, sauser, drikke og snacks påvirker ofte mer enn små detaljer."
+        ],
+        [
+          "Bruk trender",
+          "Se på gjentatte mønstre over flere dager i stedet for å overtolke én måltidslogg."
+        ]
+      ],
+      "workflowTitle": "Følg underskuddet praktisk",
+      "workflow": [
+        "Start med et rimelig mål, logg konsekvent og bruk trender til å justere.",
+        "Unngå å gjøre underskuddet så stort at det blir vanskelig å holde over tid."
+      ],
+      "note": "Automatisering senker terskelen, men fjerner ikke behovet for kontroll: porsjon, oppskrift og skjulte ingredienser betyr fortsatt mye.",
+      "bestFor": [
+        "vektnedgang",
+        "ukentlig trend",
+        "kalorimål",
+        "daglig logging"
+      ],
+      "workflowKicker": "Slik fungerer det",
+      "noteTitle": "Greit å vite"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Kaloritracker for muskelbygging",
+      "h1": "Følg kalorier og protein for muskelbygging",
+      "description": "Hold energi og protein synlig når målet er å spise nok og trene konsekvent.",
+      "kicker": "Muskelbygging",
+      "summary": "Ved muskelbygging er nok energi og protein ofte viktigere enn perfekte enkeltmåltider.",
+      "bullets": [
+        "Protein synlig",
+        "Kalorier over tid",
+        "Måltidshistorikk",
+        "Justerbare porsjoner"
+      ],
+      "sections": [
+        [
+          "Hvorfor det hjelper",
+          "Ved muskelbygging er nok energi og protein ofte viktigere enn perfekte enkeltmåltider."
+        ],
+        [
+          "Det viktigste å sjekke",
+          "Porsjoner, olje, sauser, drikke og snacks påvirker ofte mer enn små detaljer."
+        ],
+        [
+          "Bruk trender",
+          "Se på gjentatte mønstre over flere dager i stedet for å overtolke én måltidslogg."
+        ]
+      ],
+      "workflowTitle": "Logg for å spise nok",
+      "workflow": [
+        "Følg særlig proteinrik mat og dagens totale energi.",
+        "Bruk dagboken til å se om du ofte ligger for lavt på travle dager."
+      ],
+      "note": "Automatisering senker terskelen, men fjerner ikke behovet for kontroll: porsjon, oppskrift og skjulte ingredienser betyr fortsatt mye.",
+      "bestFor": [
+        "protein",
+        "energioverskudd",
+        "styrketrening",
+        "måltidsrytme"
+      ],
+      "workflowKicker": "Slik fungerer det",
+      "noteTitle": "Greit å vite"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Kaloritracker for vektvedlikehold",
+      "h1": "Hold vekten med bedre oversikt",
+      "description": "Bruk dagboken til å forstå normale porsjoner, gjentatte måltider og kalorivariasjon.",
+      "kicker": "Vedlikehold",
+      "summary": "Vektvedlikehold handler om et stabilt gjennomsnitt, ikke like dager.",
+      "bullets": [
+        "Stabile vaner",
+        "Uketrender",
+        "Fleksible porsjoner",
+        "Mindre gjetting"
+      ],
+      "sections": [
+        [
+          "Hvorfor det hjelper",
+          "Vektvedlikehold handler om et stabilt gjennomsnitt, ikke like dager."
+        ],
+        [
+          "Det viktigste å sjekke",
+          "Porsjoner, olje, sauser, drikke og snacks påvirker ofte mer enn små detaljer."
+        ],
+        [
+          "Bruk trender",
+          "Se på gjentatte mønstre over flere dager i stedet for å overtolke én måltidslogg."
+        ]
+      ],
+      "workflowTitle": "Finn ditt normale nivå",
+      "workflow": [
+        "Logg typiske dager og se hva som går igjen.",
+        "Bruk små justeringer fremfor store reaksjoner på én enkelt dag."
+      ],
+      "note": "Automatisering senker terskelen, men fjerner ikke behovet for kontroll: porsjon, oppskrift og skjulte ingredienser betyr fortsatt mye.",
+      "bestFor": [
+        "vektvedlikehold",
+        "hverdag",
+        "trender",
+        "porsjoner"
+      ],
+      "workflowKicker": "Slik fungerer det",
+      "noteTitle": "Greit å vite"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Kaloriteller for hjemmelaget mat",
+      "h1": "Tell kalorier i hjemmelaget mat",
+      "description": "Estimer gryteretter, bowls, salater og oppskrifter uten ferdig næringsdeklarasjon.",
+      "kicker": "Hjemmelaget mat",
+      "summary": "Hjemmelaget mat varierer, så redigerbare estimater er viktigere enn faste tall.",
+      "bullets": [
+        "Bilde av tallerkenen",
+        "Legg til olje og sauser",
+        "Rett porsjoner",
+        "Lagre tilbakevendende retter"
+      ],
+      "sections": [
+        [
+          "Hvorfor det hjelper",
+          "Hjemmelaget mat varierer, så redigerbare estimater er viktigere enn faste tall."
+        ],
+        [
+          "Det viktigste å sjekke",
+          "Porsjoner, olje, sauser, drikke og snacks påvirker ofte mer enn små detaljer."
+        ],
+        [
+          "Bruk trender",
+          "Se på gjentatte mønstre over flere dager i stedet for å overtolke én måltidslogg."
+        ]
+      ],
+      "workflowTitle": "Logg hjemmelaget mat bedre",
+      "workflow": [
+        "Start med et bilde og rett ingrediensene kameraet ikke kan se.",
+        "Hvis du kjenner oppskriften, kan du justere porsjon og mengder mer presist."
+      ],
+      "note": "Automatisering senker terskelen, men fjerner ikke behovet for kontroll: porsjon, oppskrift og skjulte ingredienser betyr fortsatt mye.",
+      "bestFor": [
+        "gryteretter",
+        "salater",
+        "rester",
+        "oppskrifter"
+      ],
+      "workflowKicker": "Slik fungerer det",
+      "noteTitle": "Greit å vite"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Kaloritracker for restaurantmat",
+      "h1": "Logg restaurantmat uten næringsdeklarasjon",
+      "description": "Bruk et bilde og manuelle rettelser for å få et realistisk estimat av mat ute.",
+      "kicker": "Restaurant",
+      "summary": "På restaurant kjenner du sjelden oppskrift eller vekt, men du kan fortsatt logge nyttig.",
+      "bullets": [
+        "Bilde av retten",
+        "Meny som kontekst",
+        "Sauser og olje",
+        "Realistiske intervaller"
+      ],
+      "sections": [
+        [
+          "Hvorfor det hjelper",
+          "På restaurant kjenner du sjelden oppskrift eller vekt, men du kan fortsatt logge nyttig."
+        ],
+        [
+          "Det viktigste å sjekke",
+          "Porsjoner, olje, sauser, drikke og snacks påvirker ofte mer enn små detaljer."
+        ],
+        [
+          "Bruk trender",
+          "Se på gjentatte mønstre over flere dager i stedet for å overtolke én måltidslogg."
+        ]
+      ],
+      "workflowTitle": "Logg mat ute uten falsk presisjon",
+      "workflow": [
+        "Ta bilde av tallerkenen, les menyen og legg til tydelige ekstra ting som saus, brød, olje og drikke.",
+        "Målet er et ærlig estimat, ikke laboratoriepresisjon."
+      ],
+      "note": "Automatisering senker terskelen, men fjerner ikke behovet for kontroll: porsjon, oppskrift og skjulte ingredienser betyr fortsatt mye.",
+      "bestFor": [
+        "restaurant",
+        "takeaway",
+        "ferie",
+        "sosiale måltider"
+      ],
+      "workflowKicker": "Slik fungerer det",
+      "noteTitle": "Greit å vite"
+    },
+    "/meal-tracker/": {
+      "title": "Måltidstracker",
+      "h1": "Følg måltider uten friksjon",
+      "description": "Logg frokost, lunsj, middag og snacks med metoden som passer situasjonen.",
+      "kicker": "Måltider",
+      "summary": "En god måltidstracker gjør det raskt å lagre det viktigste og rette detaljene etterpå.",
+      "bullets": [
+        "Måltider og snacks",
+        "Bilde eller strekkode",
+        "Manuell rettelse",
+        "Daglig oversikt"
+      ],
+      "sections": [
+        [
+          "Hvorfor det hjelper",
+          "En god måltidstracker gjør det raskt å lagre det viktigste og rette detaljene etterpå."
+        ],
+        [
+          "Det viktigste å sjekke",
+          "Porsjoner, olje, sauser, drikke og snacks påvirker ofte mer enn små detaljer."
+        ],
+        [
+          "Bruk trender",
+          "Se på gjentatte mønstre over flere dager i stedet for å overtolke én måltidslogg."
+        ]
+      ],
+      "workflowTitle": "Gjør måltidslogging enklere",
+      "workflow": [
+        "Start med den raskeste metoden, og rett bare detaljene som påvirker kalorier og makroer mest.",
+        "Over tid viser måltidene mønstre som er vanskelige å se fra hukommelsen."
+      ],
+      "note": "Automatisering senker terskelen, men fjerner ikke behovet for kontroll: porsjon, oppskrift og skjulte ingredienser betyr fortsatt mye.",
+      "bestFor": [
+        "frokost",
+        "lunsj",
+        "middag",
+        "snacks"
+      ],
+      "workflowKicker": "Slik fungerer det",
+      "noteTitle": "Greit å vite"
+    },
+    "/photo-food-journal/": {
+      "title": "Matjournal med bilder",
+      "h1": "Før en visuell matjournal",
+      "description": "Bruk bilder til å huske måltider, porsjoner og kontekst bedre enn med tekst alene.",
+      "kicker": "Bildejournal",
+      "summary": "Et bilde gjør det lettere å huske hva og hvor mye du spiste.",
+      "bullets": [
+        "Bilder per måltid",
+        "Visuell historikk",
+        "Raskt utkast",
+        "Bedre porsjonshukommelse"
+      ],
+      "sections": [
+        [
+          "Hvorfor det hjelper",
+          "Et bilde gjør det lettere å huske hva og hvor mye du spiste."
+        ],
+        [
+          "Det viktigste å sjekke",
+          "Porsjoner, olje, sauser, drikke og snacks påvirker ofte mer enn små detaljer."
+        ],
+        [
+          "Bruk trender",
+          "Se på gjentatte mønstre over flere dager i stedet for å overtolke én måltidslogg."
+        ]
+      ],
+      "workflowTitle": "Bruk bilder som hukommelse",
+      "workflow": [
+        "Ta et raskt bilde, også når du ikke har tid til å rette alt med en gang.",
+        "Gå tilbake senere og juster porsjon eller ingredienser mens måltidet fortsatt er tydelig."
+      ],
+      "note": "Automatisering senker terskelen, men fjerner ikke behovet for kontroll: porsjon, oppskrift og skjulte ingredienser betyr fortsatt mye.",
+      "bestFor": [
+        "visuell dagbok",
+        "travle dager",
+        "porsjoner",
+        "vaner"
+      ],
+      "workflowKicker": "Slik fungerer det",
+      "noteTitle": "Greit å vite"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Tracker for sunnere matvaner",
+      "h1": "Følg sunnere matvaner uten perfeksjonisme",
+      "description": "Se måltider, makroer og mønstre, slik at du kan ta bedre valg i hverdagen.",
+      "kicker": "Sunne vaner",
+      "summary": "Sunnere spising handler ofte om gjentatte valg, ikke perfekte dager.",
+      "bullets": [
+        "Måltidsmønstre",
+        "Protein og grønt",
+        "Snacks og drikke",
+        "Trender over tid"
+      ],
+      "sections": [
+        [
+          "Hvorfor det hjelper",
+          "Sunnere spising handler ofte om gjentatte valg, ikke perfekte dager."
+        ],
+        [
+          "Det viktigste å sjekke",
+          "Porsjoner, olje, sauser, drikke og snacks påvirker ofte mer enn små detaljer."
+        ],
+        [
+          "Bruk trender",
+          "Se på gjentatte mønstre over flere dager i stedet for å overtolke én måltidslogg."
+        ]
+      ],
+      "workflowTitle": "Bruk data uten stress",
+      "workflow": [
+        "Logg nok til å se mønstre, og juster én ting om gangen.",
+        "Se på helheten: måltider, metthet, protein, grønnsaker og valgene som gjentar seg."
+      ],
+      "note": "Automatisering senker terskelen, men fjerner ikke behovet for kontroll: porsjon, oppskrift og skjulte ingredienser betyr fortsatt mye.",
+      "bestFor": [
+        "vaner",
+        "oversikt",
+        "matkvalitet",
+        "daglige valg"
+      ],
+      "workflowKicker": "Slik fungerer det",
+      "noteTitle": "Greit å vite"
+    },
+    "/blog/": {
+      "title": "Guides",
+      "h1": "Guider til kalorier, makroer og matlogging",
+      "description": "Praktiske artikler om kaloritelling, AI-estimater, porsjoner, makroer og hverdagsvaner.",
+      "kicker": "Guides"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Tell kalorier fra et bilde",
+      "h1": "Slik teller du kalorier fra et bilde",
+      "description": "Slik bruker du et matbilde til å få et bedre estimat av kalorier, makroer og porsjon.",
+      "category": "Guide",
+      "readTime": "4 min lesing",
+      "intro": "Et bilde kan gjøre logging raskere, men best resultat kommer fra bilde pluss en kort kontroll.",
+      "sections": [
+        [
+          "Ta bilde av hele måltidet",
+          "Sørg for godt lys og vis hele tallerkenen."
+        ],
+        [
+          "Sjekk identifiserte matvarer",
+          "Rett navn hvis AI har misforstått noe."
+        ],
+        [
+          "Juster porsjonen",
+          "Porsjonen er ofte den største kilden til avvik."
+        ],
+        [
+          "Legg til skjulte kalorier",
+          "Olje, saus, sukker og drikke må ofte legges til manuelt."
+        ]
+      ],
+      "takeaway": "Bilde er et sterkt utgangspunkt, men den siste kontrollen bør fortsatt være din."
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Hvor nøyaktige er AI-kaloritellere?",
+      "h1": "Hvor nøyaktige er AI-kaloritellere?",
+      "description": "Forstå hva som påvirker nøyaktigheten, og hvordan du bruker AI-estimater realistisk.",
+      "category": "Guide",
+      "readTime": "4 min lesing",
+      "intro": "AI-estimater er veiledende, ikke laboratoriemålinger.",
+      "sections": [
+        [
+          "Bildekvalitet betyr noe",
+          "Lys, vinkel og synlighet påvirker gjenkjenningen."
+        ],
+        [
+          "Skjulte ingredienser er vanskelige",
+          "Olje, smør, fløte og sauser kan være usynlige."
+        ],
+        [
+          "Porsjoner skaper usikkerhet",
+          "To like tallerkener kan ha forskjellig vekt."
+        ],
+        [
+          "Redigering forbedrer resultatet",
+          "Manuelle rettelser gjør estimatet mer nyttig."
+        ]
+      ],
+      "takeaway": "Bruk AI som et raskt utkast, og korriger detaljene som påvirker mest."
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "AI-kaloriteller eller manuell logging",
+      "h1": "AI-kaloriteller kontra manuell logging",
+      "description": "Fordeler og begrensninger ved bildeanalyse, strekkoder og manuell inntasting.",
+      "category": "Guide",
+      "readTime": "4 min lesing",
+      "intro": "Den beste metoden avhenger av maten og situasjonen.",
+      "sections": [
+        [
+          "Bilde er raskt",
+          "Godt for hjemmelaget mat og restaurantretter."
+        ],
+        [
+          "Strekkode er presist for produkter",
+          "Godt når varen har pålitelig emballasje."
+        ],
+        [
+          "Manuell logging gir kontroll",
+          "Best når du kjenner oppskrift og mengder."
+        ],
+        [
+          "Kombiner metoder",
+          "Ofte gir blandingen den beste dagboken."
+        ]
+      ],
+      "takeaway": "Velg den raskeste metoden, men behold muligheten til å rette resultatet."
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Kaloriskanner for mat",
+      "h1": "Hva er en kaloriskanner for mat?",
+      "description": "Slik hjelper bildeanalyse og strekkoder med å gjøre matlogging raskere.",
+      "category": "Guide",
+      "readTime": "4 min lesing",
+      "intro": "En kaloriskanner starter dagbokposten, slik at du ikke må begynne fra null.",
+      "sections": [
+        [
+          "Bilde for tallerkenen",
+          "Bruk bilde når maten ikke har merking."
+        ],
+        [
+          "Strekkode for emballasje",
+          "Skann pakkede varer for raskere data."
+        ],
+        [
+          "Sjekk porsjonen",
+          "Den faktiske mengden bestemmer kaloriene."
+        ],
+        [
+          "Rett før du lagrer",
+          "Små rettelser kan gjøre estimatet mye bedre."
+        ]
+      ],
+      "takeaway": "En skanner sparer tid, men må fortsatt gi deg kontroll over posten."
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Følg makroer for nybegynnere",
+      "h1": "Slik følger du makroer som nybegynner",
+      "description": "En enkel guide til protein, fett og karbohydrater ved siden av kalorier.",
+      "category": "Guide",
+      "readTime": "4 min lesing",
+      "intro": "Makroer hjelper deg å forstå hva kaloriene består av.",
+      "sections": [
+        [
+          "Start med protein",
+          "Protein er ofte det mest praktiske makromålet å følge."
+        ],
+        [
+          "Se på dagens total",
+          "Ett måltid trenger ikke være perfekt."
+        ],
+        [
+          "Bruk enkle kategorier",
+          "Kjøtt, fisk, egg, meieri, belgvekster og korn betyr mye."
+        ],
+        [
+          "Unngå perfeksjon",
+          "Stabil retning er viktigere enn helt presise tall."
+        ]
+      ],
+      "takeaway": "Makroer er mest nyttige når de gjør valg enklere, ikke mer stressende."
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Kalorier kontra makroer",
+      "h1": "Kalorier kontra makroer",
+      "description": "Forskjellen på energi og næringssammensetning forklart enkelt.",
+      "category": "Guide",
+      "readTime": "4 min lesing",
+      "intro": "Kalorier og makroer forteller to ulike ting om et måltid.",
+      "sections": [
+        [
+          "Kalorier er energi",
+          "De viser den totale mengden energi."
+        ],
+        [
+          "Makroer er sammensetning",
+          "Protein, fett og karbohydrater viser hvor energien kommer fra."
+        ],
+        [
+          "Begge kan være nyttige",
+          "Samme kalorier kan føles forskjellig avhengig av makroer."
+        ],
+        [
+          "Gjør det praktisk",
+          "Følg først det som hjelper målet ditt mest."
+        ]
+      ],
+      "takeaway": "Kalorier gir rammen; makroer gir mer kontekst."
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Tell kalorier i hjemmelaget mat",
+      "h1": "Slik teller du kalorier i hjemmelaget mat",
+      "description": "Praktiske måter å estimere blandede retter, oppskrifter og porsjoner hjemme.",
+      "category": "Guide",
+      "readTime": "4 min lesing",
+      "intro": "Hjemmelaget mat varierer, så målet er et rimelig og redigerbart estimat.",
+      "sections": [
+        [
+          "Ta bilde av tallerkenen",
+          "Det gir et raskt utkast og hjelper deg å huske porsjonen."
+        ],
+        [
+          "Legg til skjulte ingredienser",
+          "Olje, smør, fløte og ost synes ikke alltid."
+        ],
+        [
+          "Bruk oppskriften når du kan",
+          "Kjenner du ingrediensene, kan du rette mer presist."
+        ],
+        [
+          "Lagre tilbakevendende retter",
+          "Favoritter gjør neste logging raskere."
+        ]
+      ],
+      "takeaway": "Hjemmelaget mat logges best med bilde pluss noen smarte rettelser."
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Estimer porsjonsstørrelse",
+      "h1": "Slik estimerer du porsjonsstørrelse",
+      "description": "Tips for å logge porsjoner når du ikke har vekt eller nøyaktig oppskrift.",
+      "category": "Guide",
+      "readTime": "4 min lesing",
+      "intro": "Porsjonen er ofte den største usikkerheten ved kaloritelling.",
+      "sections": [
+        [
+          "Sammenlign med vanlige mål",
+          "Kopp, spiseskje, skive og bit kan gi gode startverdier."
+        ],
+        [
+          "Se på tallerkenen",
+          "Tallerkenstørrelse og rettens tetthet påvirker estimatet."
+        ],
+        [
+          "Rett når du vet mer",
+          "Har du veid eller målt mengden, kan du erstatte estimatet."
+        ],
+        [
+          "Godta marginer",
+          "Utenfor hjemmet er lavere presisjon normalt."
+        ]
+      ],
+      "takeaway": "Et estimert og kontrollert porsjonsmål er ofte nok til en konsekvent dagbok."
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Hvor mange kalorier bør jeg spise om dagen?",
+      "h1": "Hvor mange kalorier bør jeg spise om dagen?",
+      "description": "Hvorfor kaloribehovet avhenger av kropp, aktivitet, mål og trender over tid.",
+      "category": "Guide",
+      "readTime": "4 min lesing",
+      "intro": "Det finnes ikke ett tall som passer alle: behovet påvirkes av flere faktorer.",
+      "sections": [
+        [
+          "Viktige faktorer",
+          "Vekt, høyde, alder, kjønn, aktivitet og mål påvirker rettesnoren."
+        ],
+        [
+          "Start med et utgangspunkt",
+          "Et første mål må sammenlignes med vekt, energi og bærekraft."
+        ],
+        [
+          "Se på trender",
+          "Ukesnitt og utvikling er mer nyttig enn én dag."
+        ],
+        [
+          "Når du bør få hjelp",
+          "Ved medisinske situasjoner eller komplekse mål bør du snakke med fagperson."
+        ]
+      ],
+      "takeaway": "Riktig tall er en rettesnor som testes og justeres, ikke en universell regel."
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Hva er et kaloriunderskudd?",
+      "h1": "Hva er et kaloriunderskudd?",
+      "description": "En enkel forklaring av kaloriunderskudd og hvordan du følger det med en kostholdsdagbok.",
+      "category": "Guide",
+      "readTime": "4 min lesing",
+      "intro": "Kaloriunderskudd betyr at du over tid får i deg mindre energi enn kroppen bruker.",
+      "sections": [
+        [
+          "Grunnideen",
+          "Når energiinntaket er lavere enn forbruket, går vekten vanligvis ned over tid."
+        ],
+        [
+          "Hvorfor dagbok hjelper",
+          "Logging gjør porsjoner, snacks og drikke mer synlig."
+        ],
+        [
+          "Unngå for stort underskudd",
+          "Et veldig stort underskudd er ofte vanskelig å holde."
+        ],
+        [
+          "Mål over tid",
+          "Uketrenden er mer nyttig enn én enkelt dag."
+        ]
+      ],
+      "takeaway": "Et kaloriunderskudd er et prinsipp, men det må være bærekraftig og passe deg."
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Vanlige feil ved kaloritelling",
+      "h1": "Vanlige feil ved kaloritelling",
+      "description": "Typiske feil: undervurderte porsjoner, glemte sauser, drikke og ujevn logging.",
+      "category": "Guide",
+      "readTime": "4 min lesing",
+      "intro": "Kaloritelling blir mer nyttig når du kjenner feilene som forvrenger dagboken.",
+      "sections": [
+        [
+          "Glemme olje og sauser",
+          "Små mengder kan legge til mange kalorier."
+        ],
+        [
+          "Undervurdere porsjoner",
+          "En porsjon på øyemål kan avvike mye fra virkeligheten."
+        ],
+        [
+          "Hoppe over snacks og drikke",
+          "Også små ting påvirker gjennomsnittet."
+        ],
+        [
+          "Jage perfeksjon",
+          "En bærekraftig dagbok er mer verdt enn tre perfekte dager."
+        ]
+      ],
+      "takeaway": "Sjekk først porsjoner, tilbehør og konsekvens: det betyr ofte mer enn små detaljer."
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Logg restaurantmat",
+      "h1": "Slik logger du restaurantmat",
+      "description": "Praktiske strategier for å estimere måltider ute uten næringsdeklarasjon.",
+      "category": "Guide",
+      "readTime": "4 min lesing",
+      "intro": "På restaurant har du ikke alltid oppskrift og vekt, men du kan fortsatt lage et nyttig estimat.",
+      "sections": [
+        [
+          "Ta bilde av tallerkenen",
+          "Det hjelper deg å huske porsjon og deler av måltidet."
+        ],
+        [
+          "Les menyen",
+          "Ingredienser og tilberedning gir verdifull kontekst."
+        ],
+        [
+          "Legg til ekstra",
+          "Sauser, olje, brød og drikke er lett å glemme."
+        ],
+        [
+          "Tenk i marginer",
+          "Ute er et realistisk estimat bedre enn falsk presisjon."
+        ]
+      ],
+      "takeaway": "Sikt på et ærlig, redigerbart estimat for restaurantmåltider, ikke absolutt presisjon."
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Følg protein",
+      "h1": "Slik følger du protein",
+      "description": "Tips for å holde protein synlig ved siden av kalorier og andre makroer.",
+      "category": "Guide",
+      "readTime": "4 min lesing",
+      "intro": "Protein er viktig for mange når det gjelder metthet, muskelmasse og måltidskvalitet.",
+      "sections": [
+        [
+          "Logg hovedkildene",
+          "Kjøtt, fisk, egg, meieri, belgvekster, tofu og proteinpulver betyr mye."
+        ],
+        [
+          "Se på hele dagen",
+          "Dagens total er ofte mer nyttig enn ett enkelt måltid."
+        ],
+        [
+          "Fordel inntaket",
+          "Mange synes protein er lettere å nå når det fordeles over måltider."
+        ],
+        [
+          "Ikke bare tallet",
+          "Generell matkvalitet og målet ditt spiller også inn."
+        ]
+      ],
+      "takeaway": "Å holde protein synlig ved siden av kalorier gjør dagboken mer nyttig for mange mål."
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Hva er en kostholdsdagbok?",
+      "h1": "Hva er en kostholdsdagbok?",
+      "description": "Hva en kostholdsdagbok brukes til, og hvorfor bilder, estimater og rettelser gjør den praktisk.",
+      "category": "Guide",
+      "readTime": "4 min lesing",
+      "intro": "En kostholdsdagbok er en registrering av hva du spiser og drikker over tid.",
+      "sections": [
+        [
+          "Hva den inneholder",
+          "Måltider, snacks, drikke, porsjoner og estimerte næringsverdier."
+        ],
+        [
+          "Hvorfor den hjelper",
+          "Den viser vaner og mønstre som er vanskelige å se fra hukommelsen."
+        ],
+        [
+          "Visuell dagbok",
+          "Bilder hjelper deg å huske kontekst og porsjoner."
+        ],
+        [
+          "Holdbarhet",
+          "Jo enklere inndata er, desto større sjanse for at du fortsetter."
+        ]
+      ],
+      "takeaway": "En god kostholdsdagbok trenger ikke være perfekt; den skal hjelpe deg å forstå de reelle vanene dine."
+    },
+    "/download/": {
+      "title": "Last ned Calorie Counter AI",
+      "h1": "Last ned Calorie Counter AI",
+      "description": "Installer appen for iPhone eller Android, og begynn å telle kalorier fra et bilde av måltidet ditt.",
+      "kicker": "Last ned"
+    },
+    "/faq/": {
+      "title": "FAQ",
+      "h1": "Vanlige spørsmål",
+      "description": "Svar om kaloritelling fra bilder, nøyaktighet, makroer, strekkodeskanner og appens tilgjengelighet.",
+      "kicker": "FAQ"
+    },
+    "/pricing/": {
+      "title": "Priser",
+      "h1": "Priser og gratis start",
+      "description": "Begynn gratis, og se gjeldende abonnementsvilkår i App Store eller på Google Play.",
+      "kicker": "Priser"
+    },
+    "/support/": {
+      "title": "Support",
+      "h1": "Support",
+      "description": "Trenger du hjelp med Calorie Counter AI? Finn informasjon om appen, kontoen og tilbakemelding.",
+      "kicker": "Support"
+    },
+    "/contact/": {
+      "title": "Kontakt",
+      "h1": "Kontakt",
+      "description": "Kontakt teamet bak Calorie Counter AI for support, samarbeid eller presseforespørsler.",
+      "kicker": "Kontakt"
+    },
+    "/privacy-policy/": {
+      "title": "Personvernerklæring",
+      "h1": "Personvernerklæring",
+      "description": "Les hvordan Calorie Counter AI håndterer data, personvern og brukerens valg.",
+      "kicker": "Personvern"
+    },
+    "/terms/": {
+      "title": "Brukervilkår",
+      "h1": "Brukervilkår",
+      "description": "Vilkår for bruk av Calorie Counter AI og nettstedet.",
+      "kicker": "Vilkår"
+    },
+    "/health-disclaimer/": {
+      "title": "Helseforbehold",
+      "h1": "Helseforbehold",
+      "description": "Ernæringsestimater er informative og erstatter ikke profesjonell medisinsk rådgivning eller kostholdsveiledning.",
+      "kicker": "Forbehold"
+    },
+    "/delete-account/": {
+      "title": "Slett konto",
+      "h1": "Be om sletting av konto",
+      "description": "Les hvordan du kan be om sletting av konto og tilknyttede data.",
+      "kicker": "Konto"
+    },
+    "/press/": {
+      "title": "Pressekit",
+      "h1": "Pressekit",
+      "description": "Materiell og kort beskrivelse av Calorie Counter AI for presse, medier og partnere.",
+      "kicker": "Pressekit"
+    },
+    "/how-many-calories-in/": {
+      "title": "Hvor mange kalorier er det i mat?",
+      "h1": "Hvor mange kalorier er det i mat?",
+      "description": "Se kalorier, protein, fett og karbohydrater for vanlig mat og porsjoner.",
+      "kicker": "Kaloriguide"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Innstillinger for informasjonskapsler",
+    "text": "Vi bruker nødvendige informasjonskapsler og localStorage for å huske språk og valg for informasjonskapsler. Med ditt samtykke bruker vi også analyse-informasjonskapsler for å forbedre nettstedet.",
+    "accept": "Godta",
+    "decline": "Avvis analyse-informasjonskapsler"
+  }
+}

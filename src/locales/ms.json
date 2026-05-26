@@ -1,0 +1,2619 @@
+{
+  "localeName": "Bahasa Melayu",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "Pengira kalori AI daripada foto"
+  },
+  "nav": {
+    "features": "Ciri",
+    "useCases": "Kegunaan",
+    "blog": "Panduan",
+    "faq": "Soalan lazim",
+    "download": "Muat turun",
+    "language": "Pilih bahasa",
+    "openMenu": "Buka menu",
+    "caloriesInFoods": "Kalori dalam makanan",
+    "all": "Semua",
+    "allFeatures": "Semua ciri",
+    "allUseCases": "Semua kegunaan",
+    "allLearn": "Semua panduan",
+    "openHub": "Lihat semua →",
+    "home": "Laman utama"
+  },
+  "cta": {
+    "appStore": "Muat turun di App Store",
+    "googlePlay": "Dapatkan di Google Play",
+    "downloadNow": "Muat turun aplikasi",
+    "tryFree": "Cuba percuma",
+    "learnMore": "Ketahui lanjut",
+    "learnMoreArrow": "Ketahui lanjut →",
+    "readGuide": "Baca panduan"
+  },
+  "home": {
+    "title": "Aplikasi pengira kalori AI daripada foto",
+    "description": "Ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta berat hidangan dalam beberapa saat.",
+    "heroNote": "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android.",
+    "photoEyebrow": "Pengira kalori daripada foto",
+    "photoTitle": "Pengira Kalori daripada Foto",
+    "photoText": "Tidak perlu mencari setiap bahan secara manual. Ambil foto makanan, semak hasil AI dan simpan dalam diari makanan.",
+    "photoChecklist": [
+      "Pengira kalori daripada foto",
+      "Pengimbas kod bar",
+      "Makro",
+      "Diari makanan"
+    ],
+    "featureCards": [
+      [
+        "camera",
+        "Pengira kalori daripada foto",
+        "Ambil foto makanan, semak anggaran AI dan simpan dalam diari makanan."
+      ],
+      [
+        "sparkles",
+        "Pengimbas kod bar",
+        "Ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+      ],
+      [
+        "shield",
+        "Makro",
+        "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+      ],
+      [
+        "barcode",
+        "Diari makanan",
+        "Imbas makanan berbungkus, sahkan produk dan tambah kalori serta makro ke dalam diari dalam beberapa saat."
+      ],
+      [
+        "macro",
+        "Pengira kalori daripada foto",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      [
+        "diary",
+        "Pengimbas kod bar",
+        "Muat turun Calorie Counter AI untuk iPhone atau Android dan jadikan foto makanan seterusnya sebagai catatan diari."
+      ]
+    ],
+    "foodPreviewTitle": "Berapa kalori dalam makanan harian?",
+    "foodPreviewText": "Lihat panduan ringkas kalori dan makro untuk makanan, snek dan minuman biasa.",
+    "foodPreviewLink": "Buka panduan penuh kalori makanan →",
+    "goalEyebrow": "Pemakanan",
+    "counterTitle": "Aplikasi pengira kalori yang ringkas untuk jejak harian",
+    "counterText": "Gunakan foto, kod bar, kegemaran dan diari yang kemas supaya anda konsisten tanpa menjadikan kiraan kalori sebagai kerja tambahan.",
+    "goalPills": [
+      "Turun berat badan",
+      "Kekalkan berat badan",
+      "Bina otot",
+      "Hari yang sibuk"
+    ],
+    "magicEyebrow": "Ciri",
+    "magicTitle": "Catat makanan dalam tiga langkah pantas",
+    "magicText": "Ambil foto, semak anggaran dan simpan hidangan. Kurang menaip menjadikan tabiat ini lebih mudah diulang.",
+    "magicSteps": [
+      "Foto",
+      "Semak",
+      "Simpan"
+    ],
+    "barcodeEyebrow": "Pengimbas kod bar",
+    "barcodeTitle": "Pengimbas kod bar",
+    "barcodeText": "Imbas makanan berbungkus, sahkan produk dan tambah kalori serta makro ke dalam diari dalam beberapa saat.",
+    "barcodeLink": "Pengimbas kod bar →",
+    "progressEyebrow": "Makro",
+    "macroTitle": "Jejaki kalori dan makro",
+    "macroText": "Lihat kalori, protein, karbohidrat dan lemak sepintas lalu, kemudian bandingkan kemajuan harian, mingguan dan bulanan.",
+    "macroLink": "Makro →",
+    "useCasesEyebrow": "Kegunaan",
+    "useCasesTitle": "Pemakanan",
+    "useCasesText": "Ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Turun berat badan",
+        "Kalori"
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Makanan di rumah",
+        "Pengira kalori daripada foto"
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Makanan restoran",
+        "Diari makanan"
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Bina otot",
+        "Protein"
+      ]
+    ],
+    "downloadTitle": "Muat turun Calorie Counter AI",
+    "downloadText": "Muat turun Calorie Counter AI untuk iPhone atau Android dan jadikan foto makanan seterusnya sebagai catatan diari.",
+    "faqEyebrow": "Soalan lazim",
+    "faqTitle": "Soalan lazim",
+    "faq": [
+      [
+        "Adakah Calorie Counter AI percuma?",
+        "Anda boleh bermula dengan analisis makanan AI percuma setiap hari. Ciri premium berguna jika anda memerlukan had lebih tinggi dan alat tambahan."
+      ],
+      [
+        "Bolehkah saya mengira kalori daripada foto?",
+        "Ya. Ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+      ],
+      [
+        "Sejauh mana tepat anggaran AI?",
+        "Calorie Counter AI memberi anggaran pemakanan untuk tujuan maklumat dan tidak menggantikan nasihat perubatan atau dietetik."
+      ],
+      [
+        "Adakah aplikasi ini menjejak makro?",
+        "Ya. Anda boleh menjejak kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      [
+        "Adakah tersedia untuk iPhone dan Android?",
+        "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "Calorie Counter AI — Pengira kalori AI daripada foto",
+    "homeOgTitle": "Calorie Counter AI — Pengira kalori AI daripada foto",
+    "homeDescription": "Ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+  },
+  "footer": {
+    "disclaimer": "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan.",
+    "copyright": "© 2026 Calorie Counter AI"
+  },
+  "foodIndex": {
+    "findTitle": "Cari kalori makanan",
+    "findText": "Cari makanan biasa dan lihat anggaran kalori, protein, lemak dan karbohidrat bagi setiap hidangan.",
+    "categoryIntro": "Teroka makanan mengikut kategori dan gunakan nilainya sebagai titik permulaan untuk diari makanan."
+  },
+  "foodPage": {
+    "eyebrow": "Kalori dalam makanan",
+    "trackInApp": "Muat turun",
+    "browseFoods": "Kalori dalam makanan →",
+    "typicalEstimate": "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan.",
+    "caloriesMacros": "Kalori & Makro",
+    "whenFits": "Kegunaan",
+    "whatToWatch": "Ketahui lanjut",
+    "howToLog": "Diari makanan",
+    "helpfulContext": "Panduan",
+    "faq": "Soalan lazim",
+    "weightLossQuestion": "Adakah ini sesuai untuk turun berat badan?",
+    "variabilityQuestion": "Apa yang paling banyak mengubah kalori?",
+    "logFasterTitle": "Pengira kalori daripada foto",
+    "logFasterText": "Tidak perlu mencari setiap bahan secara manual. Ambil foto makanan, semak hasil AI dan simpan dalam diari makanan.",
+    "photoTrackingLink": "Pengira kalori daripada foto →",
+    "macros": {
+      "protein": "Protein",
+      "fat": "Lemak",
+      "carbs": "Karbohidrat"
+    },
+    "titleTemplate": "Berapa kalori dalam {namePrep}?",
+    "h1Template": "Berapa kalori dalam {namePrep}?",
+    "descriptionTemplate": "{name}: kalori, protein, lemak dan karbohidrat untuk hidangan “{serving}”, bersama nota praktikal untuk catatan.",
+    "heroIntroTemplate": "Kira-kira {calories} {kcal} setiap hidangan: {servingLower}. Gunakan sebagai titik permulaan dan laraskan mengikut jenama, resipi, cara memasak serta saiz hidangan.",
+    "macroParagraphTemplate": "{name}: kira-kira {calories} {kcal} setiap hidangan “{servingLower}”. Hidangan ini mempunyai kira-kira {protein} {gram} protein, {fat} {gram} lemak dan {carbs} {gram} karbohidrat{fiberText}.",
+    "per100Template": "Sebagai perbandingan setiap 100 {gram}: kira-kira {calories} {kcal}, {protein} {gram} protein, {fat} {gram} lemak dan {carbs} {gram} karbohidrat.",
+    "calorieLevelTemplate": "Gunakan hidangan sebagai panduan: kira-kira {calories} {kcal} untuk “{servingLower}”."
+  },
+  "foodCategories": {
+    "Fruit": "Buah-buahan",
+    "Protein foods": "Makanan berprotein",
+    "Fruits and fats": "Buah-buahan dan lemak",
+    "Grains and starches": "Bijirin dan kanji",
+    "Nuts and spreads": "Kekacang dan sapuan",
+    "Breakfast foods": "Makanan sarapan",
+    "Dairy": "Produk tenusu",
+    "Restaurant meals": "Makanan restoran",
+    "Fast food": "Makanan segera",
+    "Legumes and plant protein": "Kekacang dan protein tumbuhan",
+    "Desserts": "Pencuci mulut",
+    "Snacks": "Snek",
+    "Drinks": "Minuman",
+    "Vegetables": "Sayur-sayuran",
+    "Sauces and condiments": "Sos dan perasa",
+    "Mixed dishes": "Hidangan campuran"
+  },
+  "foods": {
+    "banana": {
+      "name": "Pisang",
+      "namePrep": "pisang",
+      "serving": "1 hidangan pisang"
+    },
+    "apple": {
+      "name": "Epal",
+      "namePrep": "epal",
+      "serving": "1 hidangan epal"
+    },
+    "egg": {
+      "name": "Telur",
+      "namePrep": "telur",
+      "serving": "1 hidangan telur"
+    },
+    "avocado": {
+      "name": "Avokado",
+      "namePrep": "avokado",
+      "serving": "1 hidangan avokado"
+    },
+    "chicken-breast": {
+      "name": "Dada ayam",
+      "namePrep": "dada ayam",
+      "serving": "1 hidangan dada ayam"
+    },
+    "salmon": {
+      "name": "Salmon",
+      "namePrep": "salmon",
+      "serving": "1 hidangan salmon"
+    },
+    "white-rice": {
+      "name": "Nasi putih",
+      "namePrep": "nasi putih",
+      "serving": "1 hidangan nasi putih"
+    },
+    "brown-rice": {
+      "name": "Beras perang",
+      "namePrep": "beras perang",
+      "serving": "1 hidangan beras perang"
+    },
+    "pasta": {
+      "name": "Pasta",
+      "namePrep": "pasta",
+      "serving": "1 hidangan pasta"
+    },
+    "potato": {
+      "name": "Kentang",
+      "namePrep": "kentang",
+      "serving": "1 hidangan kentang"
+    },
+    "sweet-potato": {
+      "name": "Keledek",
+      "namePrep": "keledek",
+      "serving": "1 hidangan keledek"
+    },
+    "bread": {
+      "name": "Roti",
+      "namePrep": "roti",
+      "serving": "1 hidangan roti"
+    },
+    "peanut-butter": {
+      "name": "Mentega kacang",
+      "namePrep": "mentega kacang",
+      "serving": "1 hidangan mentega kacang"
+    },
+    "oatmeal": {
+      "name": "Oat",
+      "namePrep": "oat",
+      "serving": "1 hidangan oat"
+    },
+    "greek-yogurt": {
+      "name": "Yogurt Greek",
+      "namePrep": "yogurt greek",
+      "serving": "1 hidangan yogurt greek"
+    },
+    "yogurt": {
+      "name": "Yogurt",
+      "namePrep": "yogurt",
+      "serving": "1 hidangan yogurt"
+    },
+    "milk": {
+      "name": "Susu",
+      "namePrep": "susu",
+      "serving": "1 hidangan susu"
+    },
+    "cheddar-cheese": {
+      "name": "Keju cheddar",
+      "namePrep": "keju cheddar",
+      "serving": "1 hidangan keju cheddar"
+    },
+    "pizza": {
+      "name": "Pizza",
+      "namePrep": "pizza",
+      "serving": "1 hidangan pizza"
+    },
+    "burger": {
+      "name": "Burger",
+      "namePrep": "burger",
+      "serving": "1 hidangan burger"
+    },
+    "french-fries": {
+      "name": "Kentang goreng",
+      "namePrep": "kentang goreng",
+      "serving": "1 hidangan kentang goreng"
+    },
+    "sushi-roll": {
+      "name": "Sushi roll",
+      "namePrep": "sushi roll",
+      "serving": "1 hidangan sushi roll"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "taco",
+      "serving": "1 hidangan taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "burrito",
+      "serving": "1 hidangan burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Nuget ayam",
+      "namePrep": "nuget ayam",
+      "serving": "1 hidangan nuget ayam"
+    },
+    "hot-dog": {
+      "name": "Hot dog",
+      "namePrep": "hot dog",
+      "serving": "1 hidangan hot dog"
+    },
+    "steak": {
+      "name": "Stik",
+      "namePrep": "stik",
+      "serving": "1 hidangan stik"
+    },
+    "bacon": {
+      "name": "Bacon",
+      "namePrep": "bacon",
+      "serving": "1 hidangan bacon"
+    },
+    "tuna": {
+      "name": "Tuna",
+      "namePrep": "tuna",
+      "serving": "1 hidangan tuna"
+    },
+    "shrimp": {
+      "name": "Udang",
+      "namePrep": "udang",
+      "serving": "1 hidangan udang"
+    },
+    "tofu": {
+      "name": "Tauhu",
+      "namePrep": "tauhu",
+      "serving": "1 hidangan tauhu"
+    },
+    "lentils": {
+      "name": "Lentil",
+      "namePrep": "lentil",
+      "serving": "1 hidangan lentil"
+    },
+    "black-beans": {
+      "name": "Kacang hitam",
+      "namePrep": "kacang hitam",
+      "serving": "1 hidangan kacang hitam"
+    },
+    "chickpeas": {
+      "name": "Kacang kuda",
+      "namePrep": "kacang kuda",
+      "serving": "1 hidangan kacang kuda"
+    },
+    "hummus": {
+      "name": "Hummus",
+      "namePrep": "hummus",
+      "serving": "1 hidangan hummus"
+    },
+    "quinoa": {
+      "name": "Quinoa",
+      "namePrep": "quinoa",
+      "serving": "1 hidangan quinoa"
+    },
+    "tortilla": {
+      "name": "Tortilla",
+      "namePrep": "tortilla",
+      "serving": "1 hidangan tortilla"
+    },
+    "bagel": {
+      "name": "Bagel",
+      "namePrep": "bagel",
+      "serving": "1 hidangan bagel"
+    },
+    "croissant": {
+      "name": "Croissant",
+      "namePrep": "croissant",
+      "serving": "1 hidangan croissant"
+    },
+    "pancake": {
+      "name": "Pankek",
+      "namePrep": "pankek",
+      "serving": "1 hidangan pankek"
+    },
+    "waffle": {
+      "name": "Wafel",
+      "namePrep": "wafel",
+      "serving": "1 hidangan wafel"
+    },
+    "cereal": {
+      "name": "Bijirin sarapan",
+      "namePrep": "bijirin sarapan",
+      "serving": "1 hidangan bijirin sarapan"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granola",
+      "serving": "1 hidangan granola"
+    },
+    "almonds": {
+      "name": "Badam",
+      "namePrep": "badam",
+      "serving": "1 hidangan badam"
+    },
+    "walnuts": {
+      "name": "Walnut",
+      "namePrep": "walnut",
+      "serving": "1 hidangan walnut"
+    },
+    "cashews": {
+      "name": "Gajus",
+      "namePrep": "gajus",
+      "serving": "1 hidangan gajus"
+    },
+    "chocolate": {
+      "name": "Coklat",
+      "namePrep": "coklat",
+      "serving": "1 hidangan coklat"
+    },
+    "ice-cream": {
+      "name": "Ais krim",
+      "namePrep": "ais krim",
+      "serving": "1 hidangan ais krim"
+    },
+    "cookie": {
+      "name": "Biskut coklat cip",
+      "namePrep": "biskut coklat cip",
+      "serving": "1 hidangan biskut coklat cip"
+    },
+    "donut": {
+      "name": "Donat bergula",
+      "namePrep": "donat bergula",
+      "serving": "1 hidangan donat bergula"
+    },
+    "muffin": {
+      "name": "Mufin beri biru",
+      "namePrep": "mufin beri biru",
+      "serving": "1 hidangan mufin beri biru"
+    },
+    "cake": {
+      "name": "Kek",
+      "namePrep": "kek",
+      "serving": "1 hidangan kek"
+    },
+    "brownie": {
+      "name": "Brownies",
+      "namePrep": "brownies",
+      "serving": "1 hidangan brownies"
+    },
+    "popcorn": {
+      "name": "Bertih jagung",
+      "namePrep": "bertih jagung",
+      "serving": "1 hidangan bertih jagung"
+    },
+    "potato-chips": {
+      "name": "Kerepek kentang",
+      "namePrep": "kerepek kentang",
+      "serving": "1 hidangan kerepek kentang"
+    },
+    "pretzels": {
+      "name": "Pretzel",
+      "namePrep": "pretzel",
+      "serving": "1 hidangan pretzel"
+    },
+    "smoothie": {
+      "name": "Smoothie buah",
+      "namePrep": "smoothie buah",
+      "serving": "1 hidangan smoothie buah"
+    },
+    "orange-juice": {
+      "name": "Jus oren",
+      "namePrep": "jus oren",
+      "serving": "1 hidangan jus oren"
+    },
+    "soda": {
+      "name": "Soda",
+      "namePrep": "soda",
+      "serving": "1 hidangan soda"
+    },
+    "latte": {
+      "name": "Latte",
+      "namePrep": "latte",
+      "serving": "1 hidangan latte"
+    },
+    "protein-shake": {
+      "name": "Minuman protein",
+      "namePrep": "minuman protein",
+      "serving": "1 hidangan minuman protein"
+    },
+    "spaghetti-bolognese": {
+      "name": "Spageti bolognese",
+      "namePrep": "spageti bolognese",
+      "serving": "1 hidangan spageti bolognese"
+    },
+    "ramen": {
+      "name": "Ramen",
+      "namePrep": "ramen",
+      "serving": "1 hidangan ramen"
+    },
+    "pho": {
+      "name": "Pho",
+      "namePrep": "pho",
+      "serving": "1 hidangan pho"
+    },
+    "chicken-soup": {
+      "name": "Sup ayam",
+      "namePrep": "sup ayam",
+      "serving": "1 hidangan sup ayam"
+    },
+    "caesar-salad": {
+      "name": "Salad Caesar",
+      "namePrep": "salad caesar",
+      "serving": "1 hidangan salad caesar"
+    },
+    "green-salad": {
+      "name": "Salad hijau",
+      "namePrep": "salad hijau",
+      "serving": "1 hidangan salad hijau"
+    },
+    "broccoli": {
+      "name": "Brokoli",
+      "namePrep": "brokoli",
+      "serving": "1 hidangan brokoli"
+    },
+    "spinach": {
+      "name": "Bayam",
+      "namePrep": "bayam",
+      "serving": "1 hidangan bayam"
+    },
+    "carrots": {
+      "name": "Lobak merah",
+      "namePrep": "lobak merah",
+      "serving": "1 hidangan lobak merah"
+    },
+    "corn": {
+      "name": "Jagung",
+      "namePrep": "jagung",
+      "serving": "1 hidangan jagung"
+    },
+    "tomato": {
+      "name": "Tomato",
+      "namePrep": "tomato",
+      "serving": "1 hidangan tomato"
+    },
+    "cucumber": {
+      "name": "Timun",
+      "namePrep": "timun",
+      "serving": "1 hidangan timun"
+    },
+    "cheesecake": {
+      "name": "Kek keju",
+      "namePrep": "kek keju",
+      "serving": "1 hidangan kek keju"
+    },
+    "lasagna": {
+      "name": "Lasagna",
+      "namePrep": "lasagna",
+      "serving": "1 hidangan lasagna"
+    },
+    "grilled-cheese": {
+      "name": "Sandwic keju panggang",
+      "namePrep": "sandwic keju panggang",
+      "serving": "1 hidangan sandwic keju panggang"
+    },
+    "peanut-butter-jelly": {
+      "name": "Sandwic mentega kacang dan jem",
+      "namePrep": "sandwic mentega kacang dan jem",
+      "serving": "1 hidangan sandwic mentega kacang dan jem"
+    },
+    "omelette": {
+      "name": "Omelet",
+      "namePrep": "omelet",
+      "serving": "1 hidangan omelet"
+    },
+    "fried-egg": {
+      "name": "Telur goreng",
+      "namePrep": "telur goreng",
+      "serving": "1 hidangan telur goreng"
+    },
+    "boiled-egg": {
+      "name": "Telur rebus",
+      "namePrep": "telur rebus",
+      "serving": "1 hidangan telur rebus"
+    },
+    "toast": {
+      "name": "Roti bakar",
+      "namePrep": "roti bakar",
+      "serving": "1 hidangan roti bakar"
+    },
+    "avocado-toast": {
+      "name": "Roti bakar avokado",
+      "namePrep": "roti bakar avokado",
+      "serving": "1 hidangan roti bakar avokado"
+    },
+    "chicken-salad": {
+      "name": "Salad ayam",
+      "namePrep": "salad ayam",
+      "serving": "1 hidangan salad ayam"
+    },
+    "tuna-salad": {
+      "name": "Salad tuna",
+      "namePrep": "salad tuna",
+      "serving": "1 hidangan salad tuna"
+    },
+    "egg-salad": {
+      "name": "Salad telur",
+      "namePrep": "salad telur",
+      "serving": "1 hidangan salad telur"
+    },
+    "cottage-cheese": {
+      "name": "Keju cottage",
+      "namePrep": "keju cottage",
+      "serving": "1 hidangan keju cottage"
+    },
+    "cream-cheese": {
+      "name": "Keju krim",
+      "namePrep": "keju krim",
+      "serving": "1 hidangan keju krim"
+    },
+    "butter": {
+      "name": "Mentega",
+      "namePrep": "mentega",
+      "serving": "1 hidangan mentega"
+    },
+    "olive-oil": {
+      "name": "Minyak zaitun",
+      "namePrep": "minyak zaitun",
+      "serving": "1 hidangan minyak zaitun"
+    },
+    "mayonnaise": {
+      "name": "Mayonis",
+      "namePrep": "mayonis",
+      "serving": "1 hidangan mayonis"
+    },
+    "ketchup": {
+      "name": "Sos tomato",
+      "namePrep": "sos tomato",
+      "serving": "1 hidangan sos tomato"
+    },
+    "honey": {
+      "name": "Madu",
+      "namePrep": "madu",
+      "serving": "1 hidangan madu"
+    },
+    "jam": {
+      "name": "Jem",
+      "namePrep": "jem",
+      "serving": "1 hidangan jem"
+    },
+    "protein-bar": {
+      "name": "Bar protein",
+      "namePrep": "bar protein",
+      "serving": "1 hidangan bar protein"
+    },
+    "energy-drink": {
+      "name": "Minuman tenaga",
+      "namePrep": "minuman tenaga",
+      "serving": "1 hidangan minuman tenaga"
+    },
+    "matcha-latte": {
+      "name": "Matcha latte",
+      "namePrep": "matcha latte",
+      "serving": "1 hidangan matcha latte"
+    },
+    "trail-mix": {
+      "name": "Campuran kekacang dan buah kering",
+      "namePrep": "campuran kekacang dan buah kering",
+      "serving": "1 hidangan campuran kekacang dan buah kering"
+    },
+    "blueberries": {
+      "name": "Beri biru",
+      "namePrep": "beri biru",
+      "serving": "1 hidangan beri biru"
+    },
+    "strawberries": {
+      "name": "Strawberi",
+      "namePrep": "strawberi",
+      "serving": "1 hidangan strawberi"
+    },
+    "grapes": {
+      "name": "Anggur",
+      "namePrep": "anggur",
+      "serving": "1 hidangan anggur"
+    },
+    "orange": {
+      "name": "Oren",
+      "namePrep": "oren",
+      "serving": "1 hidangan oren"
+    },
+    "pear": {
+      "name": "Pir",
+      "namePrep": "pir",
+      "serving": "1 hidangan pir"
+    },
+    "peach": {
+      "name": "Pic",
+      "namePrep": "pic",
+      "serving": "1 hidangan pic"
+    },
+    "watermelon": {
+      "name": "Tembikai",
+      "namePrep": "tembikai",
+      "serving": "1 hidangan tembikai"
+    },
+    "pineapple": {
+      "name": "Nanas",
+      "namePrep": "nanas",
+      "serving": "1 hidangan nanas"
+    },
+    "mango": {
+      "name": "Mangga",
+      "namePrep": "mangga",
+      "serving": "1 hidangan mangga"
+    },
+    "kiwi": {
+      "name": "Kiwi",
+      "namePrep": "kiwi",
+      "serving": "1 hidangan kiwi"
+    },
+    "raspberries": {
+      "name": "Raspberi",
+      "namePrep": "raspberi",
+      "serving": "1 hidangan raspberi"
+    },
+    "blackberries": {
+      "name": "Blackberi",
+      "namePrep": "blackberi",
+      "serving": "1 hidangan blackberi"
+    },
+    "cherries": {
+      "name": "Ceri",
+      "namePrep": "ceri",
+      "serving": "1 hidangan ceri"
+    },
+    "grapefruit": {
+      "name": "Limau gedang",
+      "namePrep": "limau gedang",
+      "serving": "1 hidangan limau gedang"
+    },
+    "lettuce": {
+      "name": "Salad",
+      "namePrep": "salad",
+      "serving": "1 hidangan salad"
+    },
+    "cabbage": {
+      "name": "Kubis",
+      "namePrep": "kubis",
+      "serving": "1 hidangan kubis"
+    },
+    "cauliflower": {
+      "name": "Kubis bunga",
+      "namePrep": "kubis bunga",
+      "serving": "1 hidangan kubis bunga"
+    },
+    "asparagus": {
+      "name": "Asparagus",
+      "namePrep": "asparagus",
+      "serving": "1 hidangan asparagus"
+    },
+    "zucchini": {
+      "name": "Zukini",
+      "namePrep": "zukini",
+      "serving": "1 hidangan zukini"
+    },
+    "eggplant": {
+      "name": "Terung",
+      "namePrep": "terung",
+      "serving": "1 hidangan terung"
+    },
+    "bell-pepper": {
+      "name": "Lada benggala",
+      "namePrep": "lada benggala",
+      "serving": "1 hidangan lada benggala"
+    },
+    "onion": {
+      "name": "Bawang besar",
+      "namePrep": "bawang besar",
+      "serving": "1 hidangan bawang besar"
+    },
+    "mushrooms": {
+      "name": "Cendawan",
+      "namePrep": "cendawan",
+      "serving": "1 hidangan cendawan"
+    },
+    "green-beans": {
+      "name": "Kacang panjang",
+      "namePrep": "kacang panjang",
+      "serving": "1 hidangan kacang panjang"
+    },
+    "kale": {
+      "name": "Kale",
+      "namePrep": "kale",
+      "serving": "1 hidangan kale"
+    },
+    "beets": {
+      "name": "Ubi bit",
+      "namePrep": "ubi bit",
+      "serving": "1 hidangan ubi bit"
+    },
+    "turkey-breast": {
+      "name": "Dada ayam belanda",
+      "namePrep": "dada ayam belanda",
+      "serving": "1 hidangan dada ayam belanda"
+    },
+    "chicken-thigh": {
+      "name": "Paha ayam",
+      "namePrep": "paha ayam",
+      "serving": "1 hidangan paha ayam"
+    },
+    "pork-chop": {
+      "name": "Potongan daging babi",
+      "namePrep": "potongan daging babi",
+      "serving": "1 hidangan potongan daging babi"
+    },
+    "ground-beef": {
+      "name": "Daging lembu kisar",
+      "namePrep": "daging lembu kisar",
+      "serving": "1 hidangan daging lembu kisar"
+    },
+    "meatballs": {
+      "name": "Bebola daging",
+      "namePrep": "bebola daging",
+      "serving": "1 hidangan bebola daging"
+    },
+    "sausage": {
+      "name": "Sosej",
+      "namePrep": "sosej",
+      "serving": "1 hidangan sosej"
+    },
+    "cod": {
+      "name": "Ikan kod",
+      "namePrep": "ikan kod",
+      "serving": "1 hidangan ikan kod"
+    },
+    "tilapia": {
+      "name": "Tilapia",
+      "namePrep": "tilapia",
+      "serving": "1 hidangan tilapia"
+    },
+    "sardines": {
+      "name": "Sardin",
+      "namePrep": "sardin",
+      "serving": "1 hidangan sardin"
+    },
+    "crab": {
+      "name": "Ketam",
+      "namePrep": "ketam",
+      "serving": "1 hidangan ketam"
+    },
+    "scallops": {
+      "name": "Skallop",
+      "namePrep": "skallop",
+      "serving": "1 hidangan skallop"
+    },
+    "smoked-salmon": {
+      "name": "Salmon salai",
+      "namePrep": "salmon salai",
+      "serving": "1 hidangan salmon salai"
+    },
+    "skim-milk": {
+      "name": "Susu skim",
+      "namePrep": "susu skim",
+      "serving": "1 hidangan susu skim"
+    },
+    "soy-milk": {
+      "name": "Susu soya",
+      "namePrep": "susu soya",
+      "serving": "1 hidangan susu soya"
+    },
+    "almond-milk": {
+      "name": "Susu badam",
+      "namePrep": "susu badam",
+      "serving": "1 hidangan susu badam"
+    },
+    "oat-milk": {
+      "name": "Susu oat",
+      "namePrep": "susu oat",
+      "serving": "1 hidangan susu oat"
+    },
+    "kefir": {
+      "name": "Kefir",
+      "namePrep": "kefir",
+      "serving": "1 hidangan kefir"
+    },
+    "sour-cream": {
+      "name": "Krim masam",
+      "namePrep": "krim masam",
+      "serving": "1 hidangan krim masam"
+    },
+    "feta-cheese": {
+      "name": "Keju feta",
+      "namePrep": "keju feta",
+      "serving": "1 hidangan keju feta"
+    },
+    "mozzarella": {
+      "name": "Mozzarella",
+      "namePrep": "mozzarella",
+      "serving": "1 hidangan mozzarella"
+    },
+    "parmesan": {
+      "name": "Parmesan",
+      "namePrep": "parmesan",
+      "serving": "1 hidangan parmesan"
+    },
+    "couscous": {
+      "name": "Kuskus",
+      "namePrep": "kuskus",
+      "serving": "1 hidangan kuskus"
+    },
+    "barley": {
+      "name": "Barli",
+      "namePrep": "barli",
+      "serving": "1 hidangan barli"
+    },
+    "buckwheat": {
+      "name": "Buckwheat",
+      "namePrep": "buckwheat",
+      "serving": "1 hidangan buckwheat"
+    },
+    "bulgur": {
+      "name": "Bulgur",
+      "namePrep": "bulgur",
+      "serving": "1 hidangan bulgur"
+    },
+    "naan": {
+      "name": "Naan",
+      "namePrep": "naan",
+      "serving": "1 hidangan naan"
+    },
+    "pita-bread": {
+      "name": "Roti pita",
+      "namePrep": "roti pita",
+      "serving": "1 hidangan roti pita"
+    },
+    "english-muffin": {
+      "name": "Mufin Inggeris",
+      "namePrep": "mufin inggeris",
+      "serving": "1 hidangan mufin inggeris"
+    },
+    "rice-cake": {
+      "name": "Kek beras",
+      "namePrep": "kek beras",
+      "serving": "1 hidangan kek beras"
+    },
+    "crackers": {
+      "name": "Keropok kraker",
+      "namePrep": "keropok kraker",
+      "serving": "1 hidangan keropok kraker"
+    },
+    "mashed-potatoes": {
+      "name": "Kentang lenyek",
+      "namePrep": "kentang lenyek",
+      "serving": "1 hidangan kentang lenyek"
+    },
+    "scrambled-eggs": {
+      "name": "Telur hancur",
+      "namePrep": "telur hancur",
+      "serving": "1 hidangan telur hancur"
+    },
+    "french-toast": {
+      "name": "Roti bakar Perancis",
+      "namePrep": "roti bakar perancis",
+      "serving": "1 hidangan roti bakar perancis"
+    },
+    "breakfast-burrito": {
+      "name": "Burrito sarapan",
+      "namePrep": "burrito sarapan",
+      "serving": "1 hidangan burrito sarapan"
+    },
+    "hash-browns": {
+      "name": "Hash brown",
+      "namePrep": "hash brown",
+      "serving": "1 hidangan hash brown"
+    },
+    "chia-pudding": {
+      "name": "Puding chia",
+      "namePrep": "puding chia",
+      "serving": "1 hidangan puding chia"
+    },
+    "overnight-oats": {
+      "name": "Oat semalaman",
+      "namePrep": "oat semalaman",
+      "serving": "1 hidangan oat semalaman"
+    },
+    "breakfast-sandwich": {
+      "name": "Sandwic sarapan",
+      "namePrep": "sandwic sarapan",
+      "serving": "1 hidangan sandwic sarapan"
+    },
+    "edamame": {
+      "name": "Edamame",
+      "namePrep": "edamame",
+      "serving": "1 hidangan edamame"
+    },
+    "kidney-beans": {
+      "name": "Kacang merah",
+      "namePrep": "kacang merah",
+      "serving": "1 hidangan kacang merah"
+    },
+    "pinto-beans": {
+      "name": "Kacang pinto",
+      "namePrep": "kacang pinto",
+      "serving": "1 hidangan kacang pinto"
+    },
+    "split-peas": {
+      "name": "Kacang pea belah",
+      "namePrep": "kacang pea belah",
+      "serving": "1 hidangan kacang pea belah"
+    },
+    "baked-beans": {
+      "name": "Kacang panggang",
+      "namePrep": "kacang panggang",
+      "serving": "1 hidangan kacang panggang"
+    },
+    "fried-rice": {
+      "name": "Nasi goreng",
+      "namePrep": "nasi goreng",
+      "serving": "1 hidangan nasi goreng"
+    },
+    "pad-thai": {
+      "name": "Pad Thai",
+      "namePrep": "pad thai",
+      "serving": "1 hidangan pad thai"
+    },
+    "chicken-curry": {
+      "name": "Kari ayam",
+      "namePrep": "kari ayam",
+      "serving": "1 hidangan kari ayam"
+    },
+    "chicken-tikka-masala": {
+      "name": "Chicken tikka masala",
+      "namePrep": "chicken tikka masala",
+      "serving": "1 hidangan chicken tikka masala"
+    },
+    "beef-chili": {
+      "name": "Cili daging lembu",
+      "namePrep": "cili daging lembu",
+      "serving": "1 hidangan cili daging lembu"
+    },
+    "falafel": {
+      "name": "Falafel",
+      "namePrep": "falafel",
+      "serving": "1 hidangan falafel"
+    },
+    "dumplings": {
+      "name": "Dumpling",
+      "namePrep": "dumpling",
+      "serving": "1 hidangan dumpling"
+    },
+    "spring-rolls": {
+      "name": "Popia",
+      "namePrep": "popia",
+      "serving": "1 hidangan popia"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "quesadilla",
+      "serving": "1 hidangan quesadilla"
+    },
+    "nachos": {
+      "name": "Nachos",
+      "namePrep": "nachos",
+      "serving": "1 hidangan nachos"
+    },
+    "mac-and-cheese": {
+      "name": "Mac and cheese",
+      "namePrep": "mac and cheese",
+      "serving": "1 hidangan mac and cheese"
+    },
+    "chicken-wings": {
+      "name": "Kepak ayam",
+      "namePrep": "kepak ayam",
+      "serving": "1 hidangan kepak ayam"
+    },
+    "fish-and-chips": {
+      "name": "Fish and chips",
+      "namePrep": "fish and chips",
+      "serving": "1 hidangan fish and chips"
+    },
+    "risotto": {
+      "name": "Risotto",
+      "namePrep": "risotto",
+      "serving": "1 hidangan risotto"
+    },
+    "tortilla-chips": {
+      "name": "Kerepek tortilla",
+      "namePrep": "kerepek tortilla",
+      "serving": "1 hidangan kerepek tortilla"
+    },
+    "granola-bar": {
+      "name": "Bar granola",
+      "namePrep": "bar granola",
+      "serving": "1 hidangan bar granola"
+    },
+    "chocolate-bar": {
+      "name": "Bar coklat",
+      "namePrep": "bar coklat",
+      "serving": "1 hidangan bar coklat"
+    },
+    "candy": {
+      "name": "Gula-gula",
+      "namePrep": "gula-gula",
+      "serving": "1 hidangan gula-gula"
+    },
+    "cinnamon-roll": {
+      "name": "Cinnamon roll",
+      "namePrep": "cinnamon roll",
+      "serving": "1 hidangan cinnamon roll"
+    },
+    "marshmallows": {
+      "name": "Marshmallow",
+      "namePrep": "marshmallow",
+      "serving": "1 hidangan marshmallow"
+    },
+    "fruit-snacks": {
+      "name": "Snek buah",
+      "namePrep": "snek buah",
+      "serving": "1 hidangan snek buah"
+    },
+    "black-coffee": {
+      "name": "Kopi hitam",
+      "namePrep": "kopi hitam",
+      "serving": "1 hidangan kopi hitam"
+    },
+    "cappuccino": {
+      "name": "Cappuccino",
+      "namePrep": "cappuccino",
+      "serving": "1 hidangan cappuccino"
+    },
+    "milk-tea": {
+      "name": "Teh susu",
+      "namePrep": "teh susu",
+      "serving": "1 hidangan teh susu"
+    },
+    "bubble-tea": {
+      "name": "Bubble tea",
+      "namePrep": "bubble tea",
+      "serving": "1 hidangan bubble tea"
+    },
+    "lemonade": {
+      "name": "Lemonade",
+      "namePrep": "lemonade",
+      "serving": "1 hidangan lemonade"
+    },
+    "iced-tea": {
+      "name": "Teh ais",
+      "namePrep": "teh ais",
+      "serving": "1 hidangan teh ais"
+    },
+    "apple-juice": {
+      "name": "Jus epal",
+      "namePrep": "jus epal",
+      "serving": "1 hidangan jus epal"
+    },
+    "coconut-water": {
+      "name": "Air kelapa",
+      "namePrep": "air kelapa",
+      "serving": "1 hidangan air kelapa"
+    },
+    "sports-drink": {
+      "name": "Minuman sukan",
+      "namePrep": "minuman sukan",
+      "serving": "1 hidangan minuman sukan"
+    },
+    "ranch-dressing": {
+      "name": "Sos ranch",
+      "namePrep": "sos ranch",
+      "serving": "1 hidangan sos ranch"
+    },
+    "bbq-sauce": {
+      "name": "Sos BBQ",
+      "namePrep": "sos bbq",
+      "serving": "1 hidangan sos bbq"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "salsa",
+      "serving": "1 hidangan salsa"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "guacamole",
+      "serving": "1 hidangan guacamole"
+    }
+  },
+  "utility": {
+    "pricing": "Harga",
+    "support": "Sokongan",
+    "privacy": "Privasi",
+    "terms": "Terma",
+    "press": "Media",
+    "deleteExtra": "Untuk meminta penghapusan akaun atau data, tulis daripada e-mel yang dikaitkan dengan akaun dan gunakan “Delete account” sebagai tajuk subjek."
+  },
+  "store": {
+    "appStoreSmall": "Muat turun di",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Dapatkan di",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Ciri",
+    "useCase": "Kegunaan",
+    "openPage": "Ketahui lanjut →",
+    "openArrow": "Buka →",
+    "practicalWorkflow": "Aliran praktikal",
+    "workflowTitle": "Cara guna harian",
+    "goodToKnow": "Baik untuk diketahui",
+    "defaultNote": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+    "relatedPages": "Halaman berkaitan",
+    "quickTakeaway": "Ringkasan pantas",
+    "defaultTakeaway": "Foto, semakan hidangan dan pembetulan manual menjadikan diari makanan lebih mudah dikekalkan.",
+    "information": "Maklumat",
+    "bestFor": "Sesuai untuk"
+  },
+  "internalCta": {
+    "title": "Jadikan hidangan seterusnya sebagai catatan pemakanan",
+    "text": "Muat turun Calorie Counter AI dan cuba penjejakan kalori daripada foto dengan pantas.",
+    "button": "Muat turun aplikasi"
+  },
+  "download": {
+    "availableTitle": "Tersedia untuk iPhone dan Android",
+    "availableText": "Mulakan dengan foto, kod bar atau catatan diari ringkas. Pastikan jejak kalori dan makro pantas sejak hari pertama."
+  },
+  "faq": {
+    "items": [
+      [
+        "Adakah Calorie Counter AI percuma?",
+        "Anda boleh bermula dengan analisis makanan AI percuma setiap hari. Ciri premium berguna jika anda memerlukan had lebih tinggi dan alat tambahan."
+      ],
+      [
+        "Bolehkah saya mengira kalori daripada foto?",
+        "Ya. Ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+      ],
+      [
+        "Adakah pengimbas kod bar?",
+        "Ya. Imbas makanan berbungkus, sahkan produk dan tambah kalori serta makro ke dalam diari dalam beberapa saat."
+      ],
+      [
+        "Adakah aplikasi ini menjejak makro?",
+        "Ya. Anda boleh menjejak kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      [
+        "Adakah sesuai untuk makanan di rumah?",
+        "Ya. Ambil foto makanan, semak anggaran AI, laraskan hidangan dan simpan dalam diari makanan."
+      ],
+      [
+        "Adakah ini nasihat perubatan?",
+        "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Anda boleh bermula dengan analisis makanan AI percuma setiap hari. Untuk had lebih tinggi, alat lanjutan dan ciri tambahan, pilihan premium mungkin tersedia.",
+      "Harga, tempoh percubaan dan langganan boleh berbeza mengikut negara dan platform. Harga semasa dipaparkan di App Store atau Google Play sebelum pembelian."
+    ],
+    "support": [
+      "Perlukan bantuan? Apabila menghubungi sokongan, sertakan peranti, platform, versi aplikasi dan ringkasan ringkas masalah.",
+      "Bayaran, bayaran balik dan pengurusan langganan biasanya dibuat melalui tetapan App Store atau Google Play kerana pembelian diproses oleh kedai tersebut."
+    ],
+    "contact": [
+      "E-mel sokongan: support@caloriecounterai.app",
+      "Untuk kerjasama, permintaan media atau maklum balas produk, tajuk subjek yang jelas membantu kami membalas dengan lebih cepat."
+    ],
+    "privacy": [
+      "Calorie Counter AI direka untuk membantu mencatat makanan dan memahami pemakanan dengan lebih baik. Data boleh termasuk catatan makanan, foto, pilihan dan maklumat teknikal yang diperlukan untuk menjalankan perkhidmatan.",
+      "Benarkan hanya data kesihatan dan aktiviti yang anda selesa kongsikan. Kebenaran boleh diubah daripada tetapan peranti."
+    ],
+    "terms": [
+      "Dengan menggunakan Calorie Counter AI, anda memahami bahawa aplikasi ini ialah alat maklumat untuk mencatat makanan dan anda perlu menyemak anggaran sebelum menggunakannya.",
+      "Ciri, had percuma dan pilihan premium boleh berubah. Pembelian melalui App Store dan Google Play juga tertakluk pada peraturan setiap kedai."
+    ],
+    "disclaimer": [
+      "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan.",
+      "Anggaran berdasarkan foto dipengaruhi oleh saiz hidangan, bahan tersembunyi, resipi, kualiti foto dan pembetulan manual. Jika anda mempunyai keadaan perubatan, sedang hamil, mempunyai sejarah gangguan pemakanan atau sasaran pemakanan klinikal, dapatkan nasihat profesional."
+    ],
+    "delete": [
+      "Untuk memadam akaun atau data, tulis daripada e-mel yang dikaitkan dengan akaun dan gunakan “Delete account” sebagai tajuk subjek.",
+      "Pasukan sokongan mungkin meminta maklumat tambahan untuk mengesahkan permintaan dan mencari akaun yang betul."
+    ]
+  },
+  "press": {
+    "iconAlt": "Ikon aplikasi",
+    "iconTitle": "Ikon aplikasi",
+    "downloadIcon": "Muat turun",
+    "screenshotAlt": "Tangkapan skrin aplikasi",
+    "screenshotTitle": "Tangkapan skrin",
+    "downloadScreenshot": "Muat turun",
+    "shortDescriptionTitle": "Pengira kalori AI daripada foto",
+    "shortDescriptionText": "Ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta berat hidangan dalam beberapa saat."
+  },
+  "notFound": {
+    "title": "Halaman tidak ditemui",
+    "text": "Halaman yang anda cari tidak tersedia atau telah dipindahkan.",
+    "home": "Laman utama"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Ciri",
+      "h1": "Ciri",
+      "description": "Ciri: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+      "kicker": "Ciri",
+      "summary": "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "sections": [
+        [
+          "Ciri",
+          "Ciri: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+        ],
+        [
+          "Ketahui lanjut",
+          "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+        ],
+        [
+          "Muat turun",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Ciri",
+      "workflow": [
+        "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      "note": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+      "bestFor": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "workflowKicker": "Ciri",
+      "noteTitle": "Baik untuk diketahui"
+    },
+    "/food-recognition-ai/": {
+      "title": "Pengecaman makanan dengan AI",
+      "h1": "Pengecaman makanan dengan AI",
+      "description": "Pengecaman makanan dengan AI: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+      "kicker": "Ciri",
+      "summary": "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "sections": [
+        [
+          "Pengecaman makanan dengan AI",
+          "Pengecaman makanan dengan AI: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+        ],
+        [
+          "Ketahui lanjut",
+          "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+        ],
+        [
+          "Muat turun",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Pengecaman makanan dengan AI",
+      "workflow": [
+        "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      "note": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+      "bestFor": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "workflowKicker": "Ciri",
+      "noteTitle": "Baik untuk diketahui"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Pengimbas kalori dengan kod bar",
+      "h1": "Pengimbas kalori dengan kod bar",
+      "description": "Pengimbas kalori dengan kod bar: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+      "kicker": "Ciri",
+      "summary": "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "sections": [
+        [
+          "Pengimbas kalori dengan kod bar",
+          "Pengimbas kalori dengan kod bar: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+        ],
+        [
+          "Ketahui lanjut",
+          "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+        ],
+        [
+          "Muat turun",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Pengimbas kalori dengan kod bar",
+      "workflow": [
+        "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      "note": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+      "bestFor": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "workflowKicker": "Ciri",
+      "noteTitle": "Baik untuk diketahui"
+    },
+    "/macro-tracker/": {
+      "title": "Penjejak makro",
+      "h1": "Penjejak makro",
+      "description": "Penjejak makro: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+      "kicker": "Ciri",
+      "summary": "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "sections": [
+        [
+          "Penjejak makro",
+          "Penjejak makro: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+        ],
+        [
+          "Ketahui lanjut",
+          "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+        ],
+        [
+          "Muat turun",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Penjejak makro",
+      "workflow": [
+        "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      "note": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+      "bestFor": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "workflowKicker": "Ciri",
+      "noteTitle": "Baik untuk diketahui"
+    },
+    "/food-diary-app/": {
+      "title": "Aplikasi diari makanan",
+      "h1": "Aplikasi diari makanan",
+      "description": "Aplikasi diari makanan: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+      "kicker": "Ciri",
+      "summary": "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "sections": [
+        [
+          "Aplikasi diari makanan",
+          "Aplikasi diari makanan: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+        ],
+        [
+          "Ketahui lanjut",
+          "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+        ],
+        [
+          "Muat turun",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Aplikasi diari makanan",
+      "workflow": [
+        "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      "note": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+      "bestFor": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "workflowKicker": "Ciri",
+      "noteTitle": "Baik untuk diketahui"
+    },
+    "/nutrition-tracker/": {
+      "title": "Penjejak pemakanan",
+      "h1": "Penjejak pemakanan",
+      "description": "Penjejak pemakanan: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+      "kicker": "Ciri",
+      "summary": "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "sections": [
+        [
+          "Penjejak pemakanan",
+          "Penjejak pemakanan: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+        ],
+        [
+          "Ketahui lanjut",
+          "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+        ],
+        [
+          "Muat turun",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Penjejak pemakanan",
+      "workflow": [
+        "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      "note": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+      "bestFor": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "workflowKicker": "Ciri",
+      "noteTitle": "Baik untuk diketahui"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Penganggar berat hidangan",
+      "h1": "Penganggar berat hidangan",
+      "description": "Penganggar berat hidangan: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+      "kicker": "Ciri",
+      "summary": "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "sections": [
+        [
+          "Penganggar berat hidangan",
+          "Penganggar berat hidangan: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+        ],
+        [
+          "Ketahui lanjut",
+          "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+        ],
+        [
+          "Muat turun",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Penganggar berat hidangan",
+      "workflow": [
+        "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      "note": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+      "bestFor": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "workflowKicker": "Ciri",
+      "noteTitle": "Baik untuk diketahui"
+    },
+    "/progress-statistics/": {
+      "title": "Statistik kemajuan",
+      "h1": "Statistik kemajuan",
+      "description": "Statistik kemajuan: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+      "kicker": "Ciri",
+      "summary": "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "sections": [
+        [
+          "Statistik kemajuan",
+          "Statistik kemajuan: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+        ],
+        [
+          "Ketahui lanjut",
+          "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+        ],
+        [
+          "Muat turun",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Statistik kemajuan",
+      "workflow": [
+        "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      "note": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+      "bestFor": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "workflowKicker": "Ciri",
+      "noteTitle": "Baik untuk diketahui"
+    },
+    "/meal-reminders/": {
+      "title": "Peringatan makan",
+      "h1": "Peringatan makan",
+      "description": "Peringatan makan: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+      "kicker": "Ciri",
+      "summary": "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "sections": [
+        [
+          "Peringatan makan",
+          "Peringatan makan: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+        ],
+        [
+          "Ketahui lanjut",
+          "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+        ],
+        [
+          "Muat turun",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Peringatan makan",
+      "workflow": [
+        "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      "note": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+      "bestFor": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "workflowKicker": "Ciri",
+      "noteTitle": "Baik untuk diketahui"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Google Health Connect",
+      "description": "Google Health Connect: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+      "kicker": "Ciri",
+      "summary": "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "sections": [
+        [
+          "Google Health Connect",
+          "Google Health Connect: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+        ],
+        [
+          "Ketahui lanjut",
+          "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+        ],
+        [
+          "Muat turun",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Google Health Connect",
+      "workflow": [
+        "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      "note": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+      "bestFor": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "workflowKicker": "Ciri",
+      "noteTitle": "Baik untuk diketahui"
+    },
+    "/data-export/": {
+      "title": "Eksport data",
+      "h1": "Eksport data",
+      "description": "Eksport data: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+      "kicker": "Ciri",
+      "summary": "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "sections": [
+        [
+          "Eksport data",
+          "Eksport data: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+        ],
+        [
+          "Ketahui lanjut",
+          "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+        ],
+        [
+          "Muat turun",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Eksport data",
+      "workflow": [
+        "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      "note": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+      "bestFor": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "workflowKicker": "Ciri",
+      "noteTitle": "Baik untuk diketahui"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Pengira kalori untuk turun berat badan",
+      "h1": "Pengira kalori untuk turun berat badan",
+      "description": "Pengira kalori untuk turun berat badan: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+      "kicker": "Ciri",
+      "summary": "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "sections": [
+        [
+          "Pengira kalori untuk turun berat badan",
+          "Pengira kalori untuk turun berat badan: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+        ],
+        [
+          "Ketahui lanjut",
+          "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+        ],
+        [
+          "Muat turun",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Pengira kalori untuk turun berat badan",
+      "workflow": [
+        "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      "note": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+      "bestFor": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "workflowKicker": "Ciri",
+      "noteTitle": "Baik untuk diketahui"
+    },
+    "/calorie-deficit-app/": {
+      "title": "Aplikasi defisit kalori",
+      "h1": "Aplikasi defisit kalori",
+      "description": "Aplikasi defisit kalori: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+      "kicker": "Ciri",
+      "summary": "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "sections": [
+        [
+          "Aplikasi defisit kalori",
+          "Aplikasi defisit kalori: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+        ],
+        [
+          "Ketahui lanjut",
+          "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+        ],
+        [
+          "Muat turun",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Aplikasi defisit kalori",
+      "workflow": [
+        "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      "note": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+      "bestFor": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "workflowKicker": "Ciri",
+      "noteTitle": "Baik untuk diketahui"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Penjejak kalori untuk bina otot",
+      "h1": "Penjejak kalori untuk bina otot",
+      "description": "Penjejak kalori untuk bina otot: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+      "kicker": "Ciri",
+      "summary": "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "sections": [
+        [
+          "Penjejak kalori untuk bina otot",
+          "Penjejak kalori untuk bina otot: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+        ],
+        [
+          "Ketahui lanjut",
+          "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+        ],
+        [
+          "Muat turun",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Penjejak kalori untuk bina otot",
+      "workflow": [
+        "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      "note": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+      "bestFor": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "workflowKicker": "Ciri",
+      "noteTitle": "Baik untuk diketahui"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Penjejak kalori untuk kekalkan berat badan",
+      "h1": "Penjejak kalori untuk kekalkan berat badan",
+      "description": "Penjejak kalori untuk kekalkan berat badan: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+      "kicker": "Ciri",
+      "summary": "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "sections": [
+        [
+          "Penjejak kalori untuk kekalkan berat badan",
+          "Penjejak kalori untuk kekalkan berat badan: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+        ],
+        [
+          "Ketahui lanjut",
+          "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+        ],
+        [
+          "Muat turun",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Penjejak kalori untuk kekalkan berat badan",
+      "workflow": [
+        "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      "note": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+      "bestFor": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "workflowKicker": "Ciri",
+      "noteTitle": "Baik untuk diketahui"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Pengira kalori makanan di rumah",
+      "h1": "Pengira kalori makanan di rumah",
+      "description": "Pengira kalori makanan di rumah: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+      "kicker": "Ciri",
+      "summary": "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "sections": [
+        [
+          "Pengira kalori makanan di rumah",
+          "Pengira kalori makanan di rumah: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+        ],
+        [
+          "Ketahui lanjut",
+          "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+        ],
+        [
+          "Muat turun",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Pengira kalori makanan di rumah",
+      "workflow": [
+        "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      "note": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+      "bestFor": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "workflowKicker": "Ciri",
+      "noteTitle": "Baik untuk diketahui"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Penjejak kalori makanan restoran",
+      "h1": "Penjejak kalori makanan restoran",
+      "description": "Penjejak kalori makanan restoran: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+      "kicker": "Ciri",
+      "summary": "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "sections": [
+        [
+          "Penjejak kalori makanan restoran",
+          "Penjejak kalori makanan restoran: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+        ],
+        [
+          "Ketahui lanjut",
+          "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+        ],
+        [
+          "Muat turun",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Penjejak kalori makanan restoran",
+      "workflow": [
+        "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      "note": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+      "bestFor": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "workflowKicker": "Ciri",
+      "noteTitle": "Baik untuk diketahui"
+    },
+    "/meal-tracker/": {
+      "title": "Penjejak makanan",
+      "h1": "Penjejak makanan",
+      "description": "Penjejak makanan: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+      "kicker": "Ciri",
+      "summary": "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "sections": [
+        [
+          "Penjejak makanan",
+          "Penjejak makanan: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+        ],
+        [
+          "Ketahui lanjut",
+          "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+        ],
+        [
+          "Muat turun",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Penjejak makanan",
+      "workflow": [
+        "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      "note": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+      "bestFor": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "workflowKicker": "Ciri",
+      "noteTitle": "Baik untuk diketahui"
+    },
+    "/photo-food-journal/": {
+      "title": "Diari makanan berasaskan foto",
+      "h1": "Diari makanan berasaskan foto",
+      "description": "Diari makanan berasaskan foto: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+      "kicker": "Ciri",
+      "summary": "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "sections": [
+        [
+          "Diari makanan berasaskan foto",
+          "Diari makanan berasaskan foto: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+        ],
+        [
+          "Ketahui lanjut",
+          "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+        ],
+        [
+          "Muat turun",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Diari makanan berasaskan foto",
+      "workflow": [
+        "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      "note": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+      "bestFor": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "workflowKicker": "Ciri",
+      "noteTitle": "Baik untuk diketahui"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Penjejak pemakanan sihat",
+      "h1": "Penjejak pemakanan sihat",
+      "description": "Penjejak pemakanan sihat: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat.",
+      "kicker": "Ciri",
+      "summary": "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "sections": [
+        [
+          "Penjejak pemakanan sihat",
+          "Penjejak pemakanan sihat: ambil foto makanan dan dapatkan anggaran kalori, protein, lemak, karbohidrat serta saiz hidangan dalam beberapa saat."
+        ],
+        [
+          "Ketahui lanjut",
+          "Anggaran pemakanan hanya untuk maklumat dan bukan pengganti nasihat doktor, pakar diet atau profesional kesihatan."
+        ],
+        [
+          "Muat turun",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Penjejak pemakanan sihat",
+      "workflow": [
+        "Gunakan foto, kod bar, kegemaran dan diari yang kemas untuk mencatat makanan dengan lebih cepat dan konsisten.",
+        "Jejaki kalori, protein, lemak dan karbohidrat bersebelahan sasaran harian."
+      ],
+      "note": "Nilai pemakanan ialah anggaran. Angka sebenar boleh berubah mengikut jenama, resipi, cara memasak dan saiz hidangan.",
+      "bestFor": [
+        "Foto makanan",
+        "Anggaran kalori",
+        "Makro",
+        "Diari makanan"
+      ],
+      "workflowKicker": "Ciri",
+      "noteTitle": "Baik untuk diketahui"
+    },
+    "/use-cases/": {
+      "title": "Kegunaan",
+      "h1": "Kegunaan",
+      "description": "Kegunaan: panduan praktikal untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro dan diari makanan.",
+      "kicker": "Kegunaan"
+    },
+    "/blog/": {
+      "title": "Panduan",
+      "h1": "Panduan",
+      "description": "Panduan: panduan praktikal untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro dan diari makanan.",
+      "kicker": "Panduan"
+    },
+    "/download/": {
+      "title": "Muat turun Calorie Counter AI",
+      "h1": "Muat turun Calorie Counter AI",
+      "description": "Muat turun Calorie Counter AI: panduan praktikal untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro dan diari makanan.",
+      "kicker": "Muat turun Calorie Counter AI"
+    },
+    "/faq/": {
+      "title": "Soalan lazim",
+      "h1": "Soalan lazim",
+      "description": "Soalan lazim: panduan praktikal untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro dan diari makanan.",
+      "kicker": "Soalan lazim"
+    },
+    "/pricing/": {
+      "title": "Harga",
+      "h1": "Harga",
+      "description": "Harga: panduan praktikal untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro dan diari makanan.",
+      "kicker": "Harga"
+    },
+    "/support/": {
+      "title": "Sokongan",
+      "h1": "Sokongan",
+      "description": "Sokongan: panduan praktikal untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro dan diari makanan.",
+      "kicker": "Sokongan"
+    },
+    "/contact/": {
+      "title": "Hubungi kami",
+      "h1": "Hubungi kami",
+      "description": "Hubungi kami: panduan praktikal untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro dan diari makanan.",
+      "kicker": "Hubungi kami"
+    },
+    "/privacy-policy/": {
+      "title": "Dasar privasi",
+      "h1": "Dasar privasi",
+      "description": "Dasar privasi: panduan praktikal untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro dan diari makanan.",
+      "kicker": "Dasar privasi"
+    },
+    "/terms/": {
+      "title": "Terma penggunaan",
+      "h1": "Terma penggunaan",
+      "description": "Terma penggunaan: panduan praktikal untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro dan diari makanan.",
+      "kicker": "Terma penggunaan"
+    },
+    "/health-disclaimer/": {
+      "title": "Penafian kesihatan",
+      "h1": "Penafian kesihatan",
+      "description": "Penafian kesihatan: panduan praktikal untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro dan diari makanan.",
+      "kicker": "Penafian kesihatan"
+    },
+    "/delete-account/": {
+      "title": "Padam akaun",
+      "h1": "Padam akaun",
+      "description": "Padam akaun: panduan praktikal untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro dan diari makanan.",
+      "kicker": "Padam akaun"
+    },
+    "/press/": {
+      "title": "Kit media",
+      "h1": "Kit media",
+      "description": "Kit media: panduan praktikal untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro dan diari makanan.",
+      "kicker": "Kit media"
+    },
+    "/how-many-calories-in/": {
+      "title": "Kalori dalam makanan",
+      "h1": "Kalori dalam makanan",
+      "description": "Kalori dalam makanan: panduan praktikal untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro dan diari makanan.",
+      "kicker": "Kalori dalam makanan"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Cara mengira kalori daripada foto",
+      "h1": "Cara mengira kalori daripada foto",
+      "description": "Cara mengira kalori daripada foto: panduan Calorie Counter AI untuk kalori, hidangan, makro dan catatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 minit bacaan",
+      "intro": "Panduan ini menerangkan cara mengira kalori daripada foto dengan cara praktikal supaya catatan kalori dan makro kekal realistik dalam rutin harian.",
+      "sections": [
+        [
+          "Mulakan dengan hidangan",
+          "Gunakan saiz hidangan sebagai titik permulaan, kemudian laraskan selepas melihat bahan, jenama, cara memasak dan hasil foto."
+        ],
+        [
+          "Semak makro",
+          "Kalori, protein, lemak dan karbohidrat membantu anda memahami sama ada makanan sesuai dengan sasaran harian."
+        ],
+        [
+          "Jadikan tabiat",
+          "Catat makanan sejurus selepas makan supaya diari makanan lebih lengkap tanpa banyak menaip secara manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan anggaran AI sebagai titik permulaan, kemudian semak hidangan dan betulkan jika perlu."
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Sejauh mana tepat pengira kalori AI?",
+      "h1": "Sejauh mana tepat pengira kalori AI?",
+      "description": "Sejauh mana tepat pengira kalori AI?: panduan Calorie Counter AI untuk kalori, hidangan, makro dan catatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 minit bacaan",
+      "intro": "Panduan ini menerangkan sejauh mana tepat pengira kalori ai? dengan cara praktikal supaya catatan kalori dan makro kekal realistik dalam rutin harian.",
+      "sections": [
+        [
+          "Mulakan dengan hidangan",
+          "Gunakan saiz hidangan sebagai titik permulaan, kemudian laraskan selepas melihat bahan, jenama, cara memasak dan hasil foto."
+        ],
+        [
+          "Semak makro",
+          "Kalori, protein, lemak dan karbohidrat membantu anda memahami sama ada makanan sesuai dengan sasaran harian."
+        ],
+        [
+          "Jadikan tabiat",
+          "Catat makanan sejurus selepas makan supaya diari makanan lebih lengkap tanpa banyak menaip secara manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan anggaran AI sebagai titik permulaan, kemudian semak hidangan dan betulkan jika perlu."
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "Pengira kalori AI berbanding catatan manual",
+      "h1": "Pengira kalori AI berbanding catatan manual",
+      "description": "Pengira kalori AI berbanding catatan manual: panduan Calorie Counter AI untuk kalori, hidangan, makro dan catatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 minit bacaan",
+      "intro": "Panduan ini menerangkan pengira kalori ai berbanding catatan manual dengan cara praktikal supaya catatan kalori dan makro kekal realistik dalam rutin harian.",
+      "sections": [
+        [
+          "Mulakan dengan hidangan",
+          "Gunakan saiz hidangan sebagai titik permulaan, kemudian laraskan selepas melihat bahan, jenama, cara memasak dan hasil foto."
+        ],
+        [
+          "Semak makro",
+          "Kalori, protein, lemak dan karbohidrat membantu anda memahami sama ada makanan sesuai dengan sasaran harian."
+        ],
+        [
+          "Jadikan tabiat",
+          "Catat makanan sejurus selepas makan supaya diari makanan lebih lengkap tanpa banyak menaip secara manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan anggaran AI sebagai titik permulaan, kemudian semak hidangan dan betulkan jika perlu."
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Cara pengimbas kalori makanan berfungsi",
+      "h1": "Cara pengimbas kalori makanan berfungsi",
+      "description": "Cara pengimbas kalori makanan berfungsi: panduan Calorie Counter AI untuk kalori, hidangan, makro dan catatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 minit bacaan",
+      "intro": "Panduan ini menerangkan cara pengimbas kalori makanan berfungsi dengan cara praktikal supaya catatan kalori dan makro kekal realistik dalam rutin harian.",
+      "sections": [
+        [
+          "Mulakan dengan hidangan",
+          "Gunakan saiz hidangan sebagai titik permulaan, kemudian laraskan selepas melihat bahan, jenama, cara memasak dan hasil foto."
+        ],
+        [
+          "Semak makro",
+          "Kalori, protein, lemak dan karbohidrat membantu anda memahami sama ada makanan sesuai dengan sasaran harian."
+        ],
+        [
+          "Jadikan tabiat",
+          "Catat makanan sejurus selepas makan supaya diari makanan lebih lengkap tanpa banyak menaip secara manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan anggaran AI sebagai titik permulaan, kemudian semak hidangan dan betulkan jika perlu."
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Cara menjejak makro untuk pemula",
+      "h1": "Cara menjejak makro untuk pemula",
+      "description": "Cara menjejak makro untuk pemula: panduan Calorie Counter AI untuk kalori, hidangan, makro dan catatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 minit bacaan",
+      "intro": "Panduan ini menerangkan cara menjejak makro untuk pemula dengan cara praktikal supaya catatan kalori dan makro kekal realistik dalam rutin harian.",
+      "sections": [
+        [
+          "Mulakan dengan hidangan",
+          "Gunakan saiz hidangan sebagai titik permulaan, kemudian laraskan selepas melihat bahan, jenama, cara memasak dan hasil foto."
+        ],
+        [
+          "Semak makro",
+          "Kalori, protein, lemak dan karbohidrat membantu anda memahami sama ada makanan sesuai dengan sasaran harian."
+        ],
+        [
+          "Jadikan tabiat",
+          "Catat makanan sejurus selepas makan supaya diari makanan lebih lengkap tanpa banyak menaip secara manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan anggaran AI sebagai titik permulaan, kemudian semak hidangan dan betulkan jika perlu."
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Kalori berbanding makro",
+      "h1": "Kalori berbanding makro",
+      "description": "Kalori berbanding makro: panduan Calorie Counter AI untuk kalori, hidangan, makro dan catatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 minit bacaan",
+      "intro": "Panduan ini menerangkan kalori berbanding makro dengan cara praktikal supaya catatan kalori dan makro kekal realistik dalam rutin harian.",
+      "sections": [
+        [
+          "Mulakan dengan hidangan",
+          "Gunakan saiz hidangan sebagai titik permulaan, kemudian laraskan selepas melihat bahan, jenama, cara memasak dan hasil foto."
+        ],
+        [
+          "Semak makro",
+          "Kalori, protein, lemak dan karbohidrat membantu anda memahami sama ada makanan sesuai dengan sasaran harian."
+        ],
+        [
+          "Jadikan tabiat",
+          "Catat makanan sejurus selepas makan supaya diari makanan lebih lengkap tanpa banyak menaip secara manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan anggaran AI sebagai titik permulaan, kemudian semak hidangan dan betulkan jika perlu."
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Cara mengira kalori makanan di rumah",
+      "h1": "Cara mengira kalori makanan di rumah",
+      "description": "Cara mengira kalori makanan di rumah: panduan Calorie Counter AI untuk kalori, hidangan, makro dan catatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 minit bacaan",
+      "intro": "Panduan ini menerangkan cara mengira kalori makanan di rumah dengan cara praktikal supaya catatan kalori dan makro kekal realistik dalam rutin harian.",
+      "sections": [
+        [
+          "Mulakan dengan hidangan",
+          "Gunakan saiz hidangan sebagai titik permulaan, kemudian laraskan selepas melihat bahan, jenama, cara memasak dan hasil foto."
+        ],
+        [
+          "Semak makro",
+          "Kalori, protein, lemak dan karbohidrat membantu anda memahami sama ada makanan sesuai dengan sasaran harian."
+        ],
+        [
+          "Jadikan tabiat",
+          "Catat makanan sejurus selepas makan supaya diari makanan lebih lengkap tanpa banyak menaip secara manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan anggaran AI sebagai titik permulaan, kemudian semak hidangan dan betulkan jika perlu."
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Cara menganggar saiz hidangan",
+      "h1": "Cara menganggar saiz hidangan",
+      "description": "Cara menganggar saiz hidangan: panduan Calorie Counter AI untuk kalori, hidangan, makro dan catatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 minit bacaan",
+      "intro": "Panduan ini menerangkan cara menganggar saiz hidangan dengan cara praktikal supaya catatan kalori dan makro kekal realistik dalam rutin harian.",
+      "sections": [
+        [
+          "Mulakan dengan hidangan",
+          "Gunakan saiz hidangan sebagai titik permulaan, kemudian laraskan selepas melihat bahan, jenama, cara memasak dan hasil foto."
+        ],
+        [
+          "Semak makro",
+          "Kalori, protein, lemak dan karbohidrat membantu anda memahami sama ada makanan sesuai dengan sasaran harian."
+        ],
+        [
+          "Jadikan tabiat",
+          "Catat makanan sejurus selepas makan supaya diari makanan lebih lengkap tanpa banyak menaip secara manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan anggaran AI sebagai titik permulaan, kemudian semak hidangan dan betulkan jika perlu."
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Berapa kalori yang patut saya makan sehari?",
+      "h1": "Berapa kalori yang patut saya makan sehari?",
+      "description": "Berapa kalori yang patut saya makan sehari?: panduan Calorie Counter AI untuk kalori, hidangan, makro dan catatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 minit bacaan",
+      "intro": "Panduan ini menerangkan berapa kalori yang patut saya makan sehari? dengan cara praktikal supaya catatan kalori dan makro kekal realistik dalam rutin harian.",
+      "sections": [
+        [
+          "Mulakan dengan hidangan",
+          "Gunakan saiz hidangan sebagai titik permulaan, kemudian laraskan selepas melihat bahan, jenama, cara memasak dan hasil foto."
+        ],
+        [
+          "Semak makro",
+          "Kalori, protein, lemak dan karbohidrat membantu anda memahami sama ada makanan sesuai dengan sasaran harian."
+        ],
+        [
+          "Jadikan tabiat",
+          "Catat makanan sejurus selepas makan supaya diari makanan lebih lengkap tanpa banyak menaip secara manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan anggaran AI sebagai titik permulaan, kemudian semak hidangan dan betulkan jika perlu."
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Apakah defisit kalori?",
+      "h1": "Apakah defisit kalori?",
+      "description": "Apakah defisit kalori?: panduan Calorie Counter AI untuk kalori, hidangan, makro dan catatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 minit bacaan",
+      "intro": "Panduan ini menerangkan apakah defisit kalori? dengan cara praktikal supaya catatan kalori dan makro kekal realistik dalam rutin harian.",
+      "sections": [
+        [
+          "Mulakan dengan hidangan",
+          "Gunakan saiz hidangan sebagai titik permulaan, kemudian laraskan selepas melihat bahan, jenama, cara memasak dan hasil foto."
+        ],
+        [
+          "Semak makro",
+          "Kalori, protein, lemak dan karbohidrat membantu anda memahami sama ada makanan sesuai dengan sasaran harian."
+        ],
+        [
+          "Jadikan tabiat",
+          "Catat makanan sejurus selepas makan supaya diari makanan lebih lengkap tanpa banyak menaip secara manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan anggaran AI sebagai titik permulaan, kemudian semak hidangan dan betulkan jika perlu."
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Kesilapan biasa semasa mengira kalori",
+      "h1": "Kesilapan biasa semasa mengira kalori",
+      "description": "Kesilapan biasa semasa mengira kalori: panduan Calorie Counter AI untuk kalori, hidangan, makro dan catatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 minit bacaan",
+      "intro": "Panduan ini menerangkan kesilapan biasa semasa mengira kalori dengan cara praktikal supaya catatan kalori dan makro kekal realistik dalam rutin harian.",
+      "sections": [
+        [
+          "Mulakan dengan hidangan",
+          "Gunakan saiz hidangan sebagai titik permulaan, kemudian laraskan selepas melihat bahan, jenama, cara memasak dan hasil foto."
+        ],
+        [
+          "Semak makro",
+          "Kalori, protein, lemak dan karbohidrat membantu anda memahami sama ada makanan sesuai dengan sasaran harian."
+        ],
+        [
+          "Jadikan tabiat",
+          "Catat makanan sejurus selepas makan supaya diari makanan lebih lengkap tanpa banyak menaip secara manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan anggaran AI sebagai titik permulaan, kemudian semak hidangan dan betulkan jika perlu."
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Cara mencatat makanan restoran",
+      "h1": "Cara mencatat makanan restoran",
+      "description": "Cara mencatat makanan restoran: panduan Calorie Counter AI untuk kalori, hidangan, makro dan catatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 minit bacaan",
+      "intro": "Panduan ini menerangkan cara mencatat makanan restoran dengan cara praktikal supaya catatan kalori dan makro kekal realistik dalam rutin harian.",
+      "sections": [
+        [
+          "Mulakan dengan hidangan",
+          "Gunakan saiz hidangan sebagai titik permulaan, kemudian laraskan selepas melihat bahan, jenama, cara memasak dan hasil foto."
+        ],
+        [
+          "Semak makro",
+          "Kalori, protein, lemak dan karbohidrat membantu anda memahami sama ada makanan sesuai dengan sasaran harian."
+        ],
+        [
+          "Jadikan tabiat",
+          "Catat makanan sejurus selepas makan supaya diari makanan lebih lengkap tanpa banyak menaip secara manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan anggaran AI sebagai titik permulaan, kemudian semak hidangan dan betulkan jika perlu."
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Cara menjejak protein",
+      "h1": "Cara menjejak protein",
+      "description": "Cara menjejak protein: panduan Calorie Counter AI untuk kalori, hidangan, makro dan catatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 minit bacaan",
+      "intro": "Panduan ini menerangkan cara menjejak protein dengan cara praktikal supaya catatan kalori dan makro kekal realistik dalam rutin harian.",
+      "sections": [
+        [
+          "Mulakan dengan hidangan",
+          "Gunakan saiz hidangan sebagai titik permulaan, kemudian laraskan selepas melihat bahan, jenama, cara memasak dan hasil foto."
+        ],
+        [
+          "Semak makro",
+          "Kalori, protein, lemak dan karbohidrat membantu anda memahami sama ada makanan sesuai dengan sasaran harian."
+        ],
+        [
+          "Jadikan tabiat",
+          "Catat makanan sejurus selepas makan supaya diari makanan lebih lengkap tanpa banyak menaip secara manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan anggaran AI sebagai titik permulaan, kemudian semak hidangan dan betulkan jika perlu."
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Apakah diari makanan?",
+      "h1": "Apakah diari makanan?",
+      "description": "Apakah diari makanan?: panduan Calorie Counter AI untuk kalori, hidangan, makro dan catatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 minit bacaan",
+      "intro": "Panduan ini menerangkan apakah diari makanan? dengan cara praktikal supaya catatan kalori dan makro kekal realistik dalam rutin harian.",
+      "sections": [
+        [
+          "Mulakan dengan hidangan",
+          "Gunakan saiz hidangan sebagai titik permulaan, kemudian laraskan selepas melihat bahan, jenama, cara memasak dan hasil foto."
+        ],
+        [
+          "Semak makro",
+          "Kalori, protein, lemak dan karbohidrat membantu anda memahami sama ada makanan sesuai dengan sasaran harian."
+        ],
+        [
+          "Jadikan tabiat",
+          "Catat makanan sejurus selepas makan supaya diari makanan lebih lengkap tanpa banyak menaip secara manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulakan secara percuma dengan analisis makanan AI harian. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan anggaran AI sebagai titik permulaan, kemudian semak hidangan dan betulkan jika perlu."
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Pilihan kuki",
+    "text": "Kami menggunakan kuki perlu dan storan setempat untuk mengingati bahasa serta pilihan kuki anda. Dengan persetujuan anda, kami juga menggunakan kuki analitik untuk menambah baik laman web.",
+    "accept": "Terima",
+    "decline": "Tolak analitik"
+  }
+}

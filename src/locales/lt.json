@@ -1,0 +1,2619 @@
+{
+  "localeName": "Lietuvių",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "DI kalorijų skaičiuoklė pagal maisto nuotrauką"
+  },
+  "nav": {
+    "features": "Funkcijos",
+    "useCases": "Naudojimo atvejai",
+    "blog": "Gidai",
+    "faq": "DUK",
+    "download": "Atsisiųsti",
+    "language": "Pasirinkti kalbą",
+    "openMenu": "Atidaryti meniu",
+    "caloriesInFoods": "Kalorijos maisto produktuose",
+    "all": "Visi",
+    "allFeatures": "Visos funkcijos",
+    "allUseCases": "Visi naudojimo atvejai",
+    "allLearn": "Visi gidai",
+    "openHub": "Atidaryti skiltį →",
+    "home": "Pradžia"
+  },
+  "cta": {
+    "appStore": "Atsisiųsti iš App Store",
+    "googlePlay": "Atsisiųsti iš Google Play",
+    "downloadNow": "Atsisiųsti dabar",
+    "tryFree": "Išbandyti nemokamai",
+    "learnMore": "Sužinoti daugiau",
+    "learnMoreArrow": "Sužinoti daugiau →",
+    "readGuide": "Skaityti gidą"
+  },
+  "home": {
+    "title": "DI kalorijų skaičiuoklė pagal maisto nuotrauką",
+    "description": "Nufotografuok valgį ir per kelias sekundes gauk redaguojamą kalorijų, baltymų, riebalų, angliavandenių ir porcijos dydžio įvertinimą.",
+    "heroNote": "Pradėk nemokamai su kasdienėmis DI maisto analizėmis. Pasiekiama iPhone ir Android įrenginiams.",
+    "photoEyebrow": "Pagrindinė funkcija",
+    "photoTitle": "Kalorijų skaičiuoklė iš nuotraukos",
+    "photoText": "Nereikia rankiniu būdu ieškoti kiekvieno ingrediento. Nufotografuok maistą, patikrink DI vertinimą ir išsaugok valgį mitybos dienoraštyje.",
+    "photoChecklist": [
+      "Įvertink kalorijas iš maisto nuotraukos",
+      "Matyk baltymus, riebalus ir angliavandenius",
+      "Patikrink ir pataisyk rezultatą prieš išsaugodamas",
+      "Vesk vizualų mitybos dienoraštį"
+    ],
+    "featureCards": [
+      [
+        "camera",
+        "Pridėk valgį nuotrauka",
+        "Nufotografuok valgį, patikrink vertinimą ir išsaugok jį be ilgos ingredientų paieškos."
+      ],
+      [
+        "sparkles",
+        "DI valgių vertinimas",
+        "Greitai gauk apytikslį kalorijų, makroelementų ir porcijos dydžio vertinimą, kai nėra etiketės ar tikslaus recepto."
+      ],
+      [
+        "shield",
+        "Nemokamos analizės kasdien",
+        "Kasdien išbandyk pagrindinę DI eigą ir didink limitus tik tada, kai reikia."
+      ],
+      [
+        "barcode",
+        "Supakuoti produktai",
+        "Skenuok jogurtus, gėrimus, užkandžius, paruoštus patiekalus ir kitus parduotuvės produktus pagal brūkšninį kodą."
+      ],
+      [
+        "macro",
+        "Makroelementai viename vaizde",
+        "Sek baltymus, riebalus ir angliavandenius kartu su dienos kalorijomis."
+      ],
+      [
+        "diary",
+        "Vizualus dienoraštis",
+        "Grįžk į bet kurią dieną, matyk valgius kaip nuotraukas ir pastebėk pasikartojančius įpročius."
+      ]
+    ],
+    "foodPreviewTitle": "Kiek kalorijų yra kasdieniame maiste?",
+    "foodPreviewText": "Greiti kalorijų ir makroelementų vertinimai dažniems valgiams, užkandžiams ir gėrimams.",
+    "foodPreviewLink": "Atidaryti visą kalorijų gidą →",
+    "goalEyebrow": "Tikslas kontroliuojamas",
+    "counterTitle": "Paprasta kalorijų skaičiuoklė kasdienai",
+    "counterText": "Naudok nuotraukas, brūkšninius kodus, mėgstamus valgius ir aiškų dienoraštį, kad mitybos sekimas neatrodytų kaip papildomas darbas.",
+    "goalPills": [
+      "Svorio mažinimas",
+      "Svorio palaikymas",
+      "Raumenų masės didinimas",
+      "Užimtos dienos"
+    ],
+    "magicEyebrow": "Kodėl tai paprasčiau",
+    "magicTitle": "Pridėk maistą trimis žingsniais",
+    "magicText": "Nufotografuok, patikrink vertinimą ir išsaugok įrašą. Kuo mažiau rankinio įvedimo, tuo lengviau dienoraštį pildyti nuosekliai.",
+    "magicSteps": [
+      "Nufotografuok",
+      "Patikrink",
+      "Išsaugok"
+    ],
+    "barcodeEyebrow": "Supakuoti produktai",
+    "barcodeTitle": "Maisto brūkšninių kodų skaitytuvas",
+    "barcodeText": "Jei produktas turi brūkšninį kodą, nuskenuok pakuotę, patvirtink produktą ir per kelias sekundes pridėk kalorijas, baltymus, riebalus bei angliavandenius į dienoraštį.",
+    "barcodeLink": "Skaityti daugiau apie brūkšninių kodų skaitytuvą →",
+    "progressEyebrow": "Aiškus sekimas",
+    "macroTitle": "Sek kalorijas ir makroelementus",
+    "macroText": "Matyk kalorijas, baltymus, riebalus ir angliavandenius viename vaizde ir lygink dienas, savaites bei mėnesius.",
+    "macroLink": "Atidaryti makroelementų sekimo puslapį →",
+    "useCasesEyebrow": "Kodėl naudoti Calorie Counter AI",
+    "useCasesTitle": "Mitybos tikslai realiai kasdienai",
+    "useCasesText": "Nesvarbu, ar nori mažinti svorį, palaikyti esamą svorį, auginti raumenis ar geriau suprasti mitybą, programėlė paverčia valgius aiškiu kasdieniu grįžtamuoju ryšiu.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Svorio mažinimas",
+        "Matyk, kiek kalorijų dar lieka iki dienos tikslo."
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Naminis maistas",
+        "Įvertink mišrius patiekalus ir receptus be maistingumo etiketės."
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Restorano maistas",
+        "Greitai pridėk restorano valgius su nuotraukos vertinimu."
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Raumenų masės didinimas",
+        "Laikyk baltymus ir kalorijas matomas, kai valgai su energijos pertekliumi."
+      ]
+    ],
+    "downloadTitle": "Pradėk skaičiuoti kalorijas su DI jau šiandien",
+    "downloadText": "Atsisiųsk programėlę iPhone arba Android ir paversk kitą maisto nuotrauką dienoraščio įrašu.",
+    "faqEyebrow": "DUK",
+    "faqTitle": "Klausimai prieš atsisiunčiant?",
+    "faq": [
+      [
+        "Ar Calorie Counter AI nemokama?",
+        "Gali pradėti nemokamai su kasdienėmis DI valgių analizėmis. Mokamoje versijoje gali būti premium funkcijų ir didesni limitai."
+      ],
+      [
+        "Ar galiu skaičiuoti kalorijas iš nuotraukos?",
+        "Taip. Nufotografuok lėkštę, ir programėlė įvertins matomo maisto kalorijas, makroelementus bei porcijos svorį."
+      ],
+      [
+        "Kiek tiksli DI kalorijų skaičiuoklė?",
+        "Tai apytikslis vertinimas. Tikslumą veikia nuotraukos kokybė, matoma porcija, paslėpti ingredientai, padažai ir tavo pataisymai."
+      ],
+      [
+        "Ar programėlė seka makroelementus?",
+        "Taip. Dienoraštyje šalia kalorijų matysi baltymus, riebalus ir angliavandenius."
+      ],
+      [
+        "Ar programėlė pasiekiama iPhone ir Android?",
+        "Taip. Programėlė pasiekiama App Store ir Google Play."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "DI kalorijų skaičiuoklė pagal maisto nuotrauką | Calorie Counter AI",
+    "homeOgTitle": "Skaičiuok kalorijas su DI iš maisto nuotraukos",
+    "homeDescription": "Skaičiuok kalorijas su DI: įvertink kalorijas, makroelementus ir porcijos dydį iš maisto nuotraukos, skenuok brūkšninius kodus ir vesk mitybos dienoraštį."
+  },
+  "footer": {
+    "disclaimer": "Mitybos vertinimai yra apytiksliai. Jie nepakeičia gydytojo, dietologo ar kito sveikatos specialisto patarimo.",
+    "copyright": "© 2026 Calorie Counter AI. Visos teisės saugomos."
+  },
+  "foodIndex": {
+    "findTitle": "Kalorijos, makroelementai ir realistiškos porcijos",
+    "findText": "Peržiūrėk apytiksles kasdienio maisto vertes ir patarimus, kaip jį įrašyti protingomis porcijomis.",
+    "categoryIntro": "Populiarios kalorijų ir makroelementų paieškos šioje kategorijoje."
+  },
+  "foodPage": {
+    "eyebrow": "Kalorijų gidas",
+    "trackInApp": "Pridėti programėlėje",
+    "browseFoods": "Naršyti maistą →",
+    "typicalEstimate": "Apytikslis vertinimas. Tikros vertės priklauso nuo prekės ženklo, recepto ir porcijos dydžio.",
+    "caloriesMacros": "Kalorijos ir makroelementai",
+    "whenFits": "Kada tinka?",
+    "whatToWatch": "Į ką atkreipti dėmesį?",
+    "howToLog": "Kaip įrašyti tiksliau",
+    "helpfulContext": "Naudinga žinoti",
+    "faq": "DUK",
+    "weightLossQuestion": "Ar tai tinka svorio mažinimui?",
+    "variabilityQuestion": "Kas labiausiai keičia kalorijas?",
+    "logFasterTitle": "Pridėk valgius greičiau",
+    "logFasterText": "Naudok Calorie Counter AI: nufotografuok maistą, gauk pradinį vertinimą ir, jei reikia, pataisyk porciją, padažą ar prekės ženklą.",
+    "photoTrackingLink": "Kaip veikia kalorijų skaičiavimas iš nuotraukos →",
+    "macros": {
+      "protein": "Baltymai",
+      "fat": "Riebalai",
+      "carbs": "Angliavandeniai"
+    },
+    "titleTemplate": "{namePrep}: kalorijos ir makroelementai",
+    "h1Template": "Kiek kalorijų yra: {namePrep}?",
+    "descriptionTemplate": "{name}: kalorijos, baltymai, riebalai ir angliavandeniai porcijai „{serving}“, taip pat patarimai, kaip įrašyti į mitybos dienoraštį.",
+    "heroIntroTemplate": "Apie {calories} {kcal} vienoje porcijoje: {servingLower}. Naudok tai kaip pradžią ir koreguok pagal prekės ženklą, receptą, gaminimo būdą bei porcijos dydį.",
+    "macroParagraphTemplate": "{name}: apie {calories} {kcal} porcijoje „{servingLower}“. Šioje porcijoje yra maždaug {protein} {gram} baltymų, {fat} {gram} riebalų ir {carbs} {gram} angliavandenių{fiberText}.",
+    "per100Template": "Palyginimui 100 {gram}: apie {calories} {kcal}, {protein} {gram} baltymų, {fat} {gram} riebalų ir {carbs} {gram} angliavandenių.",
+    "calorieLevelTemplate": "Naudok porciją kaip orientyrą: apie {calories} {kcal} porcijai „{servingLower}“."
+  },
+  "foodCategories": {
+    "Fruit": "Vaisiai",
+    "Protein foods": "Baltymų turintis maistas",
+    "Fruits and fats": "Vaisiai ir riebalai",
+    "Grains and starches": "Grūdai ir krakmolingi produktai",
+    "Nuts and spreads": "Riešutai ir užtepėlės",
+    "Breakfast foods": "Pusryčių maistas",
+    "Dairy": "Pieno produktai",
+    "Restaurant meals": "Restoranų valgiai",
+    "Fast food": "Greitas maistas",
+    "Legumes and plant protein": "Ankštiniai ir augaliniai baltymai",
+    "Desserts": "Desertai",
+    "Snacks": "Užkandžiai",
+    "Drinks": "Gėrimai",
+    "Vegetables": "Daržovės",
+    "Sauces and condiments": "Padažai ir pagardai",
+    "Mixed dishes": "Mišrūs patiekalai"
+  },
+  "foods": {
+    "banana": {
+      "name": "Bananas",
+      "namePrep": "bananas",
+      "serving": "1 vidutinis bananas"
+    },
+    "apple": {
+      "name": "Obuolys",
+      "namePrep": "obuolys",
+      "serving": "1 vidutinis obuolys"
+    },
+    "egg": {
+      "name": "Kiaušinis",
+      "namePrep": "kiaušinis",
+      "serving": "1 didelis kiaušinis"
+    },
+    "avocado": {
+      "name": "Avokadas",
+      "namePrep": "avokadas",
+      "serving": "1/2 vidutinio avokado"
+    },
+    "chicken-breast": {
+      "name": "Vištienos krūtinėlė",
+      "namePrep": "vištienos krūtinėlė",
+      "serving": "100 g paruoštos vištienos krūtinėlės"
+    },
+    "salmon": {
+      "name": "Lašiša",
+      "namePrep": "lašiša",
+      "serving": "100 g paruoštos lašišos"
+    },
+    "white-rice": {
+      "name": "Baltieji ryžiai",
+      "namePrep": "baltieji ryžiai",
+      "serving": "1 puodelis virtų baltųjų ryžių"
+    },
+    "brown-rice": {
+      "name": "Rudieji ryžiai",
+      "namePrep": "rudieji ryžiai",
+      "serving": "1 puodelis virtų rudųjų ryžių"
+    },
+    "pasta": {
+      "name": "Makaronai",
+      "namePrep": "makaronai",
+      "serving": "1 puodelis virtų makaronų"
+    },
+    "potato": {
+      "name": "Bulvė",
+      "namePrep": "bulvė",
+      "serving": "1 vidutinė kepta bulvė"
+    },
+    "sweet-potato": {
+      "name": "Saldžioji bulvė",
+      "namePrep": "saldžioji bulvė",
+      "serving": "1 vidutinė kepta saldžioji bulvė"
+    },
+    "bread": {
+      "name": "Duona",
+      "namePrep": "duona",
+      "serving": "1 duonos riekė"
+    },
+    "peanut-butter": {
+      "name": "Žemės riešutų sviestas",
+      "namePrep": "žemės riešutų sviestas",
+      "serving": "2 šaukštai žemės riešutų sviesto"
+    },
+    "oatmeal": {
+      "name": "Avižinė košė",
+      "namePrep": "avižinė košė",
+      "serving": "1 puodelis paruoštos avižinės košės"
+    },
+    "greek-yogurt": {
+      "name": "Graikiškas jogurtas",
+      "namePrep": "graikiškas jogurtas",
+      "serving": "170 g natūralaus graikiško jogurto"
+    },
+    "yogurt": {
+      "name": "Jogurtas",
+      "namePrep": "jogurtas",
+      "serving": "170 g natūralaus jogurto"
+    },
+    "milk": {
+      "name": "Pienas",
+      "namePrep": "pienas",
+      "serving": "1 puodelis 2 % pieno"
+    },
+    "cheddar-cheese": {
+      "name": "Čederio sūris",
+      "namePrep": "čederio sūris",
+      "serving": "30 g čederio sūrio"
+    },
+    "pizza": {
+      "name": "Pica",
+      "namePrep": "pica",
+      "serving": "1 sūrio picos gabalėlis"
+    },
+    "burger": {
+      "name": "Mėsainis",
+      "namePrep": "mėsainis",
+      "serving": "1 sūrainis"
+    },
+    "french-fries": {
+      "name": "Gruzdintos bulvytės",
+      "namePrep": "gruzdintos bulvytės",
+      "serving": "1 vidutinė gruzdintų bulvyčių porcija"
+    },
+    "sushi-roll": {
+      "name": "Sušio ritinėlis",
+      "namePrep": "sušio ritinėlis",
+      "serving": "1 įprasta porcija"
+    },
+    "taco": {
+      "name": "Takas",
+      "namePrep": "takas",
+      "serving": "1 įprasta porcija"
+    },
+    "burrito": {
+      "name": "Buritas",
+      "namePrep": "buritas",
+      "serving": "1 įprasta porcija"
+    },
+    "chicken-nuggets": {
+      "name": "Vištienos kepsneliai",
+      "namePrep": "vištienos kepsneliai",
+      "serving": "1 įprasta porcija"
+    },
+    "hot-dog": {
+      "name": "Dešrainis",
+      "namePrep": "dešrainis",
+      "serving": "1 įprasta porcija"
+    },
+    "steak": {
+      "name": "Steikas",
+      "namePrep": "steikas",
+      "serving": "100 g kepto steiko"
+    },
+    "bacon": {
+      "name": "Šoninė",
+      "namePrep": "šoninė",
+      "serving": "1 įprasta porcija"
+    },
+    "tuna": {
+      "name": "Tunas",
+      "namePrep": "tunas",
+      "serving": "1 įprasta porcija"
+    },
+    "shrimp": {
+      "name": "Krevetės",
+      "namePrep": "krevetės",
+      "serving": "100 g paruoštų krevečių"
+    },
+    "tofu": {
+      "name": "Tofu",
+      "namePrep": "tofu",
+      "serving": "100 g kieto tofu"
+    },
+    "lentils": {
+      "name": "Lęšiai",
+      "namePrep": "lęšiai",
+      "serving": "1 įprasta porcija"
+    },
+    "black-beans": {
+      "name": "Juodosios pupelės",
+      "namePrep": "juodosios pupelės",
+      "serving": "1 įprasta porcija"
+    },
+    "chickpeas": {
+      "name": "Avinžirniai",
+      "namePrep": "avinžirniai",
+      "serving": "1 įprasta porcija"
+    },
+    "hummus": {
+      "name": "Humusas",
+      "namePrep": "humusas",
+      "serving": "1 įprasta porcija"
+    },
+    "quinoa": {
+      "name": "Bolivinė balanda",
+      "namePrep": "bolivinė balanda",
+      "serving": "1 įprasta porcija"
+    },
+    "tortilla": {
+      "name": "Tortilija",
+      "namePrep": "tortilija",
+      "serving": "1 įprasta porcija"
+    },
+    "bagel": {
+      "name": "Riesta bandelė",
+      "namePrep": "riesta bandelė",
+      "serving": "1 įprasta porcija"
+    },
+    "croissant": {
+      "name": "Kruasanas",
+      "namePrep": "kruasanas",
+      "serving": "1 įprasta porcija"
+    },
+    "pancake": {
+      "name": "Blynai",
+      "namePrep": "blynai",
+      "serving": "1 įprasta porcija"
+    },
+    "waffle": {
+      "name": "Vaflis",
+      "namePrep": "vaflis",
+      "serving": "1 įprasta porcija"
+    },
+    "cereal": {
+      "name": "Pusryčių dribsniai",
+      "namePrep": "pusryčių dribsniai",
+      "serving": "1 įprasta porcija"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granola",
+      "serving": "1 įprasta porcija"
+    },
+    "almonds": {
+      "name": "Migdolai",
+      "namePrep": "migdolai",
+      "serving": "1 įprasta porcija"
+    },
+    "walnuts": {
+      "name": "Graikiniai riešutai",
+      "namePrep": "graikiniai riešutai",
+      "serving": "1 įprasta porcija"
+    },
+    "cashews": {
+      "name": "Anakardžiai",
+      "namePrep": "anakardžiai",
+      "serving": "1 įprasta porcija"
+    },
+    "chocolate": {
+      "name": "Šokoladas",
+      "namePrep": "šokoladas",
+      "serving": "1 įprasta porcija"
+    },
+    "ice-cream": {
+      "name": "Ledai",
+      "namePrep": "ledai",
+      "serving": "1 įprasta porcija"
+    },
+    "cookie": {
+      "name": "Sausainis",
+      "namePrep": "sausainis",
+      "serving": "1 įprasta porcija"
+    },
+    "donut": {
+      "name": "Spurga",
+      "namePrep": "spurga",
+      "serving": "1 įprasta porcija"
+    },
+    "muffin": {
+      "name": "Keksas",
+      "namePrep": "keksas",
+      "serving": "1 įprasta porcija"
+    },
+    "cake": {
+      "name": "Tortas",
+      "namePrep": "tortas",
+      "serving": "1 įprasta porcija"
+    },
+    "brownie": {
+      "name": "Braunis",
+      "namePrep": "braunis",
+      "serving": "1 įprasta porcija"
+    },
+    "popcorn": {
+      "name": "Spragėsiai",
+      "namePrep": "spragėsiai",
+      "serving": "1 įprasta porcija"
+    },
+    "potato-chips": {
+      "name": "Bulvių traškučiai",
+      "namePrep": "bulvių traškučiai",
+      "serving": "1 įprasta porcija"
+    },
+    "pretzels": {
+      "name": "Sūrūs riestainėliai",
+      "namePrep": "sūrūs riestainėliai",
+      "serving": "1 įprasta porcija"
+    },
+    "smoothie": {
+      "name": "Glotnutis",
+      "namePrep": "glotnutis",
+      "serving": "1 vidutinis vaisių glotnutis"
+    },
+    "orange-juice": {
+      "name": "Apelsinų sultys",
+      "namePrep": "apelsinų sultys",
+      "serving": "1 puodelis apelsinų sulčių"
+    },
+    "soda": {
+      "name": "Gazuotas gėrimas",
+      "namePrep": "gazuotas gėrimas",
+      "serving": "1 įprasta porcija"
+    },
+    "latte": {
+      "name": "Latė",
+      "namePrep": "latė",
+      "serving": "350 ml latė su pienu"
+    },
+    "protein-shake": {
+      "name": "Baltymų kokteilis",
+      "namePrep": "baltymų kokteilis",
+      "serving": "1 įprasta porcija"
+    },
+    "spaghetti-bolognese": {
+      "name": "Bolonijos spagečiai",
+      "namePrep": "bolonijos spagečiai",
+      "serving": "1 įprasta porcija"
+    },
+    "ramen": {
+      "name": "Ramenas",
+      "namePrep": "ramenas",
+      "serving": "1 įprasta porcija"
+    },
+    "pho": {
+      "name": "Pho sriuba",
+      "namePrep": "pho sriuba",
+      "serving": "1 įprasta porcija"
+    },
+    "chicken-soup": {
+      "name": "Vištienos sriuba",
+      "namePrep": "vištienos sriuba",
+      "serving": "1 įprasta porcija"
+    },
+    "caesar-salad": {
+      "name": "Cezario salotos",
+      "namePrep": "cezario salotos",
+      "serving": "1 įprasta porcija"
+    },
+    "green-salad": {
+      "name": "Žaliosios salotos",
+      "namePrep": "žaliosios salotos",
+      "serving": "1 įprasta porcija"
+    },
+    "broccoli": {
+      "name": "Brokoliai",
+      "namePrep": "brokoliai",
+      "serving": "1 įprasta porcija"
+    },
+    "spinach": {
+      "name": "Špinatai",
+      "namePrep": "špinatai",
+      "serving": "1 įprasta porcija"
+    },
+    "carrots": {
+      "name": "Morkos",
+      "namePrep": "morkos",
+      "serving": "1 įprasta porcija"
+    },
+    "corn": {
+      "name": "Kukurūzai",
+      "namePrep": "kukurūzai",
+      "serving": "1 įprasta porcija"
+    },
+    "tomato": {
+      "name": "Pomidoras",
+      "namePrep": "pomidoras",
+      "serving": "1 įprasta porcija"
+    },
+    "cucumber": {
+      "name": "Agurkas",
+      "namePrep": "agurkas",
+      "serving": "1 įprasta porcija"
+    },
+    "cheesecake": {
+      "name": "Sūrio pyragas",
+      "namePrep": "sūrio pyragas",
+      "serving": "1 įprasta porcija"
+    },
+    "lasagna": {
+      "name": "Lazanija",
+      "namePrep": "lazanija",
+      "serving": "1 įprasta porcija"
+    },
+    "grilled-cheese": {
+      "name": "Keptas sūrio sumuštinis",
+      "namePrep": "keptas sūrio sumuštinis",
+      "serving": "1 įprasta porcija"
+    },
+    "peanut-butter-jelly": {
+      "name": "Sumuštinis su žemės riešutų sviestu ir uogiene",
+      "namePrep": "sumuštinis su žemės riešutų sviestu ir uogiene",
+      "serving": "1 įprasta porcija"
+    },
+    "omelette": {
+      "name": "Omletas",
+      "namePrep": "omletas",
+      "serving": "1 įprasta porcija"
+    },
+    "fried-egg": {
+      "name": "Keptas kiaušinis",
+      "namePrep": "keptas kiaušinis",
+      "serving": "1 įprasta porcija"
+    },
+    "boiled-egg": {
+      "name": "Virtas kiaušinis",
+      "namePrep": "virtas kiaušinis",
+      "serving": "1 įprasta porcija"
+    },
+    "toast": {
+      "name": "Skrebutis",
+      "namePrep": "skrebutis",
+      "serving": "1 įprasta porcija"
+    },
+    "avocado-toast": {
+      "name": "Skrebutis su avokadu",
+      "namePrep": "skrebutis su avokadu",
+      "serving": "1 įprasta porcija"
+    },
+    "chicken-salad": {
+      "name": "Vištienos salotos",
+      "namePrep": "vištienos salotos",
+      "serving": "1 įprasta porcija"
+    },
+    "tuna-salad": {
+      "name": "Tuno salotos",
+      "namePrep": "tuno salotos",
+      "serving": "1 įprasta porcija"
+    },
+    "egg-salad": {
+      "name": "Kiaušinių salotos",
+      "namePrep": "kiaušinių salotos",
+      "serving": "1 įprasta porcija"
+    },
+    "cottage-cheese": {
+      "name": "Varškė",
+      "namePrep": "varškė",
+      "serving": "1 įprasta porcija"
+    },
+    "cream-cheese": {
+      "name": "Kreminis sūris",
+      "namePrep": "kreminis sūris",
+      "serving": "1 įprasta porcija"
+    },
+    "butter": {
+      "name": "Sviestas",
+      "namePrep": "sviestas",
+      "serving": "1 įprasta porcija"
+    },
+    "olive-oil": {
+      "name": "Alyvuogių aliejus",
+      "namePrep": "alyvuogių aliejus",
+      "serving": "1 įprasta porcija"
+    },
+    "mayonnaise": {
+      "name": "Majonezas",
+      "namePrep": "majonezas",
+      "serving": "1 įprasta porcija"
+    },
+    "ketchup": {
+      "name": "Kečupas",
+      "namePrep": "kečupas",
+      "serving": "1 įprasta porcija"
+    },
+    "honey": {
+      "name": "Medus",
+      "namePrep": "medus",
+      "serving": "1 įprasta porcija"
+    },
+    "jam": {
+      "name": "Uogienė",
+      "namePrep": "uogienė",
+      "serving": "1 įprasta porcija"
+    },
+    "protein-bar": {
+      "name": "Baltymų batonėlis",
+      "namePrep": "baltymų batonėlis",
+      "serving": "1 įprasta porcija"
+    },
+    "energy-drink": {
+      "name": "Energinis gėrimas",
+      "namePrep": "energinis gėrimas",
+      "serving": "1 įprasta porcija"
+    },
+    "matcha-latte": {
+      "name": "Matcha latė",
+      "namePrep": "matcha latė",
+      "serving": "1 įprasta porcija"
+    },
+    "trail-mix": {
+      "name": "Riešutų ir džiovintų vaisių mišinys",
+      "namePrep": "riešutų ir džiovintų vaisių mišinys",
+      "serving": "1 įprasta porcija"
+    },
+    "blueberries": {
+      "name": "Mėlynės",
+      "namePrep": "mėlynės",
+      "serving": "1 įprasta porcija"
+    },
+    "strawberries": {
+      "name": "Braškės",
+      "namePrep": "braškės",
+      "serving": "1 įprasta porcija"
+    },
+    "grapes": {
+      "name": "Vynuogės",
+      "namePrep": "vynuogės",
+      "serving": "1 įprasta porcija"
+    },
+    "orange": {
+      "name": "Apelsinas",
+      "namePrep": "apelsinas",
+      "serving": "1 įprasta porcija"
+    },
+    "pear": {
+      "name": "Kriaušė",
+      "namePrep": "kriaušė",
+      "serving": "1 įprasta porcija"
+    },
+    "peach": {
+      "name": "Persikas",
+      "namePrep": "persikas",
+      "serving": "1 įprasta porcija"
+    },
+    "watermelon": {
+      "name": "Arbūzas",
+      "namePrep": "arbūzas",
+      "serving": "1 įprasta porcija"
+    },
+    "pineapple": {
+      "name": "Ananasas",
+      "namePrep": "ananasas",
+      "serving": "1 įprasta porcija"
+    },
+    "mango": {
+      "name": "Mangas",
+      "namePrep": "mangas",
+      "serving": "1 įprasta porcija"
+    },
+    "kiwi": {
+      "name": "Kivis",
+      "namePrep": "kivis",
+      "serving": "1 įprasta porcija"
+    },
+    "raspberries": {
+      "name": "Avietės",
+      "namePrep": "avietės",
+      "serving": "1 įprasta porcija"
+    },
+    "blackberries": {
+      "name": "Gervuogės",
+      "namePrep": "gervuogės",
+      "serving": "1 įprasta porcija"
+    },
+    "cherries": {
+      "name": "Vyšnios",
+      "namePrep": "vyšnios",
+      "serving": "1 įprasta porcija"
+    },
+    "grapefruit": {
+      "name": "Greipfrutas",
+      "namePrep": "greipfrutas",
+      "serving": "1 įprasta porcija"
+    },
+    "lettuce": {
+      "name": "Lapinės salotos",
+      "namePrep": "lapinės salotos",
+      "serving": "1 įprasta porcija"
+    },
+    "cabbage": {
+      "name": "Kopūstai",
+      "namePrep": "kopūstai",
+      "serving": "1 įprasta porcija"
+    },
+    "cauliflower": {
+      "name": "Žiediniai kopūstai",
+      "namePrep": "žiediniai kopūstai",
+      "serving": "1 įprasta porcija"
+    },
+    "asparagus": {
+      "name": "Smidrai",
+      "namePrep": "smidrai",
+      "serving": "1 įprasta porcija"
+    },
+    "zucchini": {
+      "name": "Cukinija",
+      "namePrep": "cukinija",
+      "serving": "1 įprasta porcija"
+    },
+    "eggplant": {
+      "name": "Baklažanas",
+      "namePrep": "baklažanas",
+      "serving": "1 įprasta porcija"
+    },
+    "bell-pepper": {
+      "name": "Paprika",
+      "namePrep": "paprika",
+      "serving": "1 įprasta porcija"
+    },
+    "onion": {
+      "name": "Svogūnas",
+      "namePrep": "svogūnas",
+      "serving": "1 įprasta porcija"
+    },
+    "mushrooms": {
+      "name": "Grybai",
+      "namePrep": "grybai",
+      "serving": "1 įprasta porcija"
+    },
+    "green-beans": {
+      "name": "Šparaginės pupelės",
+      "namePrep": "šparaginės pupelės",
+      "serving": "1 įprasta porcija"
+    },
+    "kale": {
+      "name": "Lapiniai kopūstai",
+      "namePrep": "lapiniai kopūstai",
+      "serving": "1 įprasta porcija"
+    },
+    "beets": {
+      "name": "Burokėliai",
+      "namePrep": "burokėliai",
+      "serving": "1 įprasta porcija"
+    },
+    "turkey-breast": {
+      "name": "Kalakutienos krūtinėlė",
+      "namePrep": "kalakutienos krūtinėlė",
+      "serving": "1 įprasta porcija"
+    },
+    "chicken-thigh": {
+      "name": "Vištienos šlaunelė",
+      "namePrep": "vištienos šlaunelė",
+      "serving": "1 įprasta porcija"
+    },
+    "pork-chop": {
+      "name": "Kiaulienos kepsnys",
+      "namePrep": "kiaulienos kepsnys",
+      "serving": "1 įprasta porcija"
+    },
+    "ground-beef": {
+      "name": "Malta jautiena",
+      "namePrep": "malta jautiena",
+      "serving": "1 įprasta porcija"
+    },
+    "meatballs": {
+      "name": "Mėsos kukuliai",
+      "namePrep": "mėsos kukuliai",
+      "serving": "1 įprasta porcija"
+    },
+    "sausage": {
+      "name": "Dešrelė",
+      "namePrep": "dešrelė",
+      "serving": "1 įprasta porcija"
+    },
+    "cod": {
+      "name": "Menkė",
+      "namePrep": "menkė",
+      "serving": "1 įprasta porcija"
+    },
+    "tilapia": {
+      "name": "Tilapija",
+      "namePrep": "tilapija",
+      "serving": "1 įprasta porcija"
+    },
+    "sardines": {
+      "name": "Sardinės",
+      "namePrep": "sardinės",
+      "serving": "1 įprasta porcija"
+    },
+    "crab": {
+      "name": "Krabas",
+      "namePrep": "krabas",
+      "serving": "1 įprasta porcija"
+    },
+    "scallops": {
+      "name": "Jūros šukutės",
+      "namePrep": "jūros šukutės",
+      "serving": "1 įprasta porcija"
+    },
+    "smoked-salmon": {
+      "name": "Rūkyta lašiša",
+      "namePrep": "rūkyta lašiša",
+      "serving": "1 įprasta porcija"
+    },
+    "skim-milk": {
+      "name": "Nugriebtas pienas",
+      "namePrep": "nugriebtas pienas",
+      "serving": "1 įprasta porcija"
+    },
+    "soy-milk": {
+      "name": "Sojų pienas",
+      "namePrep": "sojų pienas",
+      "serving": "1 įprasta porcija"
+    },
+    "almond-milk": {
+      "name": "Migdolų pienas",
+      "namePrep": "migdolų pienas",
+      "serving": "1 įprasta porcija"
+    },
+    "oat-milk": {
+      "name": "Avižų pienas",
+      "namePrep": "avižų pienas",
+      "serving": "1 įprasta porcija"
+    },
+    "kefir": {
+      "name": "Kefyras",
+      "namePrep": "kefyras",
+      "serving": "1 įprasta porcija"
+    },
+    "sour-cream": {
+      "name": "Grietinė",
+      "namePrep": "grietinė",
+      "serving": "1 įprasta porcija"
+    },
+    "feta-cheese": {
+      "name": "Fetos sūris",
+      "namePrep": "fetos sūris",
+      "serving": "1 įprasta porcija"
+    },
+    "mozzarella": {
+      "name": "Mocarela",
+      "namePrep": "mocarela",
+      "serving": "1 įprasta porcija"
+    },
+    "parmesan": {
+      "name": "Parmezanas",
+      "namePrep": "parmezanas",
+      "serving": "1 įprasta porcija"
+    },
+    "couscous": {
+      "name": "Kuskusas",
+      "namePrep": "kuskusas",
+      "serving": "1 įprasta porcija"
+    },
+    "barley": {
+      "name": "Perlinės kruopos",
+      "namePrep": "perlinės kruopos",
+      "serving": "1 įprasta porcija"
+    },
+    "buckwheat": {
+      "name": "Grikiai",
+      "namePrep": "grikiai",
+      "serving": "1 įprasta porcija"
+    },
+    "bulgur": {
+      "name": "Bulguras",
+      "namePrep": "bulguras",
+      "serving": "1 įprasta porcija"
+    },
+    "naan": {
+      "name": "Naan duona",
+      "namePrep": "naan duona",
+      "serving": "1 įprasta porcija"
+    },
+    "pita-bread": {
+      "name": "Pitos duona",
+      "namePrep": "pitos duona",
+      "serving": "1 įprasta porcija"
+    },
+    "english-muffin": {
+      "name": "Angliška bandelė",
+      "namePrep": "angliška bandelė",
+      "serving": "1 įprasta porcija"
+    },
+    "rice-cake": {
+      "name": "Ryžių traputis",
+      "namePrep": "ryžių traputis",
+      "serving": "1 įprasta porcija"
+    },
+    "crackers": {
+      "name": "Krekeriai",
+      "namePrep": "krekeriai",
+      "serving": "1 įprasta porcija"
+    },
+    "mashed-potatoes": {
+      "name": "Bulvių košė",
+      "namePrep": "bulvių košė",
+      "serving": "1 įprasta porcija"
+    },
+    "scrambled-eggs": {
+      "name": "Plakta kiaušinienė",
+      "namePrep": "plakta kiaušinienė",
+      "serving": "1 įprasta porcija"
+    },
+    "french-toast": {
+      "name": "Prancūziški skrebučiai",
+      "namePrep": "prancūziški skrebučiai",
+      "serving": "1 įprasta porcija"
+    },
+    "breakfast-burrito": {
+      "name": "Pusryčių buritas",
+      "namePrep": "pusryčių buritas",
+      "serving": "1 įprasta porcija"
+    },
+    "hash-browns": {
+      "name": "Bulviniai paplotėliai",
+      "namePrep": "bulviniai paplotėliai",
+      "serving": "1 įprasta porcija"
+    },
+    "chia-pudding": {
+      "name": "Čija pudingas",
+      "namePrep": "čija pudingas",
+      "serving": "1 įprasta porcija"
+    },
+    "overnight-oats": {
+      "name": "Per naktį brinkintos avižos",
+      "namePrep": "per naktį brinkintos avižos",
+      "serving": "1 įprasta porcija"
+    },
+    "breakfast-sandwich": {
+      "name": "Pusryčių sumuštinis",
+      "namePrep": "pusryčių sumuštinis",
+      "serving": "1 įprasta porcija"
+    },
+    "edamame": {
+      "name": "Edamamės pupelės",
+      "namePrep": "edamamės pupelės",
+      "serving": "1 įprasta porcija"
+    },
+    "kidney-beans": {
+      "name": "Raudonosios pupelės",
+      "namePrep": "raudonosios pupelės",
+      "serving": "1 įprasta porcija"
+    },
+    "pinto-beans": {
+      "name": "Pinto pupelės",
+      "namePrep": "pinto pupelės",
+      "serving": "1 įprasta porcija"
+    },
+    "split-peas": {
+      "name": "Skaldyti žirniai",
+      "namePrep": "skaldyti žirniai",
+      "serving": "1 įprasta porcija"
+    },
+    "baked-beans": {
+      "name": "Keptos pupelės",
+      "namePrep": "keptos pupelės",
+      "serving": "1 įprasta porcija"
+    },
+    "fried-rice": {
+      "name": "Kepti ryžiai",
+      "namePrep": "kepti ryžiai",
+      "serving": "1 įprasta porcija"
+    },
+    "pad-thai": {
+      "name": "Pad Thai",
+      "namePrep": "pad thai",
+      "serving": "1 įprasta porcija"
+    },
+    "chicken-curry": {
+      "name": "Vištienos karis",
+      "namePrep": "vištienos karis",
+      "serving": "1 įprasta porcija"
+    },
+    "chicken-tikka-masala": {
+      "name": "Vištienos tikka masala",
+      "namePrep": "vištienos tikka masala",
+      "serving": "1 įprasta porcija"
+    },
+    "beef-chili": {
+      "name": "Jautienos čili",
+      "namePrep": "jautienos čili",
+      "serving": "1 įprasta porcija"
+    },
+    "falafel": {
+      "name": "Falafeliai",
+      "namePrep": "falafeliai",
+      "serving": "1 įprasta porcija"
+    },
+    "dumplings": {
+      "name": "Koldūnai",
+      "namePrep": "koldūnai",
+      "serving": "1 įprasta porcija"
+    },
+    "spring-rolls": {
+      "name": "Pavasario suktinukai",
+      "namePrep": "pavasario suktinukai",
+      "serving": "1 įprasta porcija"
+    },
+    "quesadilla": {
+      "name": "Kesadilija",
+      "namePrep": "kesadilija",
+      "serving": "1 įprasta porcija"
+    },
+    "nachos": {
+      "name": "Načos",
+      "namePrep": "načos",
+      "serving": "1 įprasta porcija"
+    },
+    "mac-and-cheese": {
+      "name": "Makaronai su sūriu",
+      "namePrep": "makaronai su sūriu",
+      "serving": "1 įprasta porcija"
+    },
+    "chicken-wings": {
+      "name": "Vištienos sparneliai",
+      "namePrep": "vištienos sparneliai",
+      "serving": "1 įprasta porcija"
+    },
+    "fish-and-chips": {
+      "name": "Žuvis su bulvytėmis",
+      "namePrep": "žuvis su bulvytėmis",
+      "serving": "1 įprasta porcija"
+    },
+    "risotto": {
+      "name": "Rizotas",
+      "namePrep": "rizotas",
+      "serving": "1 įprasta porcija"
+    },
+    "tortilla-chips": {
+      "name": "Tortilijų traškučiai",
+      "namePrep": "tortilijų traškučiai",
+      "serving": "1 įprasta porcija"
+    },
+    "granola-bar": {
+      "name": "Granolos batonėlis",
+      "namePrep": "granolos batonėlis",
+      "serving": "1 įprasta porcija"
+    },
+    "chocolate-bar": {
+      "name": "Šokoladinis batonėlis",
+      "namePrep": "šokoladinis batonėlis",
+      "serving": "1 įprasta porcija"
+    },
+    "candy": {
+      "name": "Saldainiai",
+      "namePrep": "saldainiai",
+      "serving": "1 įprasta porcija"
+    },
+    "cinnamon-roll": {
+      "name": "Cinamoninė bandelė",
+      "namePrep": "cinamoninė bandelė",
+      "serving": "1 įprasta porcija"
+    },
+    "marshmallows": {
+      "name": "Zefyrai",
+      "namePrep": "zefyrai",
+      "serving": "1 įprasta porcija"
+    },
+    "fruit-snacks": {
+      "name": "Vaisių užkandžiai",
+      "namePrep": "vaisių užkandžiai",
+      "serving": "1 įprasta porcija"
+    },
+    "black-coffee": {
+      "name": "Juoda kava",
+      "namePrep": "juoda kava",
+      "serving": "1 puodelis juodos kavos"
+    },
+    "cappuccino": {
+      "name": "Kapučinas",
+      "namePrep": "kapučinas",
+      "serving": "1 įprasta porcija"
+    },
+    "milk-tea": {
+      "name": "Arbata su pienu",
+      "namePrep": "arbata su pienu",
+      "serving": "1 įprasta porcija"
+    },
+    "bubble-tea": {
+      "name": "Burbulinė arbata",
+      "namePrep": "burbulinė arbata",
+      "serving": "1 įprasta porcija"
+    },
+    "lemonade": {
+      "name": "Limonadas",
+      "namePrep": "limonadas",
+      "serving": "1 įprasta porcija"
+    },
+    "iced-tea": {
+      "name": "Šalta arbata",
+      "namePrep": "šalta arbata",
+      "serving": "1 įprasta porcija"
+    },
+    "apple-juice": {
+      "name": "Obuolių sultys",
+      "namePrep": "obuolių sultys",
+      "serving": "1 įprasta porcija"
+    },
+    "coconut-water": {
+      "name": "Kokosų vanduo",
+      "namePrep": "kokosų vanduo",
+      "serving": "1 įprasta porcija"
+    },
+    "sports-drink": {
+      "name": "Sportinis gėrimas",
+      "namePrep": "sportinis gėrimas",
+      "serving": "1 įprasta porcija"
+    },
+    "ranch-dressing": {
+      "name": "Ranch padažas",
+      "namePrep": "ranch padažas",
+      "serving": "1 įprasta porcija"
+    },
+    "bbq-sauce": {
+      "name": "Barbekiu padažas",
+      "namePrep": "barbekiu padažas",
+      "serving": "1 įprasta porcija"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "salsa",
+      "serving": "1 įprasta porcija"
+    },
+    "guacamole": {
+      "name": "Gvakamolė",
+      "namePrep": "gvakamolė",
+      "serving": "1 įprasta porcija"
+    }
+  },
+  "utility": {
+    "pricing": "Kainos",
+    "support": "Pagalba",
+    "privacy": "Privatumas",
+    "terms": "Sąlygos",
+    "press": "Spaudos rinkinys",
+    "deleteExtra": "Norėdamas paprašyti ištrinti paskyrą ar duomenis, rašyk iš su paskyra susieto el. pašto adreso ir temos laukelyje nurodyk „Ištrinti paskyrą“."
+  },
+  "store": {
+    "appStoreSmall": "Atsisiųsti",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Atsisiųsti",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Funkcija",
+    "useCase": "Naudojimo atvejis",
+    "openPage": "Atidaryti puslapį →",
+    "openArrow": "Atidaryti →",
+    "practicalWorkflow": "Praktinė eiga",
+    "workflowTitle": "Kaip naudoti",
+    "goodToKnow": "Naudinga žinoti",
+    "defaultNote": "Mitybos vertinimai yra apytiksliai ir skirti informacijai.",
+    "relatedPages": "Susiję puslapiai",
+    "quickTakeaway": "Trumpa išvada",
+    "defaultTakeaway": "Geriausias rezultatas gaunamas tada, kai DI vertinimą naudoji kaip pradžią ir patikrini porciją.",
+    "information": "Informacija",
+    "bestFor": "Tinka"
+  },
+  "internalCta": {
+    "title": "Skaičiuok kalorijas paprasčiau",
+    "text": "Nufotografuok maistą, patikrink DI vertinimą ir per kelias sekundes išsaugok valgį mitybos dienoraštyje.",
+    "button": "Atsisiųsti programėlę"
+  },
+  "download": {
+    "availableTitle": "iPhone ir Android",
+    "availableText": "Atsisiųsk Calorie Counter AI iPhone arba Android ir paversk kitą maisto nuotrauką dienoraščio įrašu."
+  },
+  "faq": {
+    "items": [
+      [
+        "Ar Calorie Counter AI nemokama?",
+        "Gali pradėti nemokamai su kasdienėmis DI valgių analizėmis. Mokamoje versijoje gali būti premium funkcijų ir didesni limitai."
+      ],
+      [
+        "Ar galiu skaičiuoti kalorijas iš nuotraukos?",
+        "Taip. Nufotografuok lėkštę, ir programėlė įvertins matomo maisto kalorijas, makroelementus bei porcijos svorį."
+      ],
+      [
+        "Kiek tiksli DI kalorijų skaičiuoklė?",
+        "Tai apytikslis vertinimas. Tikslumą veikia nuotraukos kokybė, matoma porcija, paslėpti ingredientai, padažai ir tavo pataisymai."
+      ],
+      [
+        "Ar programėlė seka makroelementus?",
+        "Taip. Dienoraštyje šalia kalorijų matysi baltymus, riebalus ir angliavandenius."
+      ],
+      [
+        "Ar programėlė pasiekiama iPhone ir Android?",
+        "Taip. Programėlė pasiekiama App Store ir Google Play."
+      ],
+      [
+        "Ar tai medicininė konsultacija?",
+        "Ne. Calorie Counter AI teikia apytikslius mitybos vertinimus informaciniais tikslais ir nepakeičia gydytojo ar dietologo patarimo."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Gali pradėti nemokamai su kasdienėmis DI maisto analizėmis. Programėlėje arba parduotuvėje visada rodomos aktualios prenumeratos, bandomieji laikotarpiai ir kainos.",
+      "Premium funkcijos gali būti naudingos, jei reikia didesnių limitų, daugiau analizių ar papildomų įrankių nuosekliam sekimui."
+    ],
+    "support": [
+      "Reikia pagalbos? Susisiek su pagalba ir nurodyk įrenginio modelį, platformą, programėlės versiją bei trumpą problemos aprašymą.",
+      "Kuo tiksliau aprašysi problemą, tuo lengviau bus ją pakartoti ir išspręsti."
+    ],
+    "contact": [
+      "Pagalbos el. paštas: support@caloriecounterai.app",
+      "Partnerystės, žiniasklaidos ir atsiliepimų užklausoms naudok aiškią temos eilutę."
+    ],
+    "privacy": [
+      "Calorie Counter AI sukurta maisto registravimui ir sąmoningam mitybos sekimui. Duomenys gali apimti valgius, nuotraukas, nustatymus ir techninę informaciją, reikalingą paslaugai veikti.",
+      "Duomenis naudojame programėlės veikimui, patirties gerinimui ir naudotojo pasirinkimų įsiminimui pagal privatumo principus."
+    ],
+    "terms": [
+      "Naudodamas Calorie Counter AI sutinki naudoti programėlę kaip informacinį mitybos įrankį ir patikrinti vertinimus prieš jais remdamasis.",
+      "Tu atsakai už savo sveikatos sprendimus, o prireikus turėtum pasitarti su kvalifikuotu specialistu."
+    ],
+    "disclaimer": [
+      "Calorie Counter AI teikia apytikslius mitybos vertinimus informaciniais tikslais ir nepakeičia medicininės ar dietologinės konsultacijos.",
+      "Jei turi sveikatos būklę, specialią dietą, esi nėščia, turi valgymo sutrikimų ar kitą su sveikata susijusią situaciją, prieš mitybos pokyčius pasitark su specialistu."
+    ],
+    "delete": [
+      "Norėdamas paprašyti ištrinti paskyrą ar duomenis, rašyk iš su paskyra susieto el. pašto adreso ir temos laukelyje nurodyk „Ištrinti paskyrą“.",
+      "Prireikus atsiųsime nurodymus, kaip patvirtinti ir užbaigti prašymą."
+    ]
+  },
+  "press": {
+    "iconAlt": "Programėlės piktograma",
+    "iconTitle": "Programėlės piktograma",
+    "downloadIcon": "Atsisiųsti piktogramą",
+    "screenshotAlt": "Programėlės ekrano kopija",
+    "screenshotTitle": "Ekrano kopija",
+    "downloadScreenshot": "Atsisiųsti ekrano kopiją",
+    "shortDescriptionTitle": "DI kalorijų skaičiuoklė pagal maisto nuotrauką",
+    "shortDescriptionText": "Calorie Counter AI padeda iš nuotraukos įvertinti kalorijas, makroelementus ir porcijos dydį bei vesti paprastą mitybos dienoraštį."
+  },
+  "notFound": {
+    "title": "404",
+    "text": "Šio puslapio dar nėra arba adresas įvestas neteisingai.",
+    "home": "Į pradžią"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Funkcijos",
+      "h1": "Įrankiai greitesnei mitybos apskaitai",
+      "description": "Nuotraukos, brūkšniniai kodai, dienoraštis, makroelementai, tikslai, statistika ir Health Connect — viskas, kas padeda mitybą sekti greičiau ir nuosekliau.",
+      "kicker": "Produkto apžvalga",
+      "summary": "Pagrindinė idėja — padaryti maisto registravimą pakankamai paprastą, kad prie jo norėtųsi grįžti kasdien.",
+      "bullets": [
+        "Nuotraukų analizė maistui be etiketės",
+        "Brūkšninių kodų skaitytuvas supakuotiems produktams",
+        "Redaguojami kalorijų ir makroelementų vertinimai",
+        "Dienoraštis, tikslai ir pažangos grafikai"
+      ],
+      "sections": [
+        [
+          "Pradėk nuo paprasto įrašo",
+          "Pridėk valgį iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir patikrink svarbiausias detales."
+        ],
+        [
+          "Patikrink porciją",
+          "Kalorijų vertinimas labai priklauso nuo kiekio, padažų, aliejaus ir kitų priedų."
+        ],
+        [
+          "Stebėk tendenciją",
+          "Vienas įrašas nėra toks svarbus kaip kelių dienų ar savaičių bendras vaizdas."
+        ]
+      ],
+      "workflowTitle": "Pasirink tinkamą sekimo būdą",
+      "workflow": [
+        "Jei maistas be etiketės, pradėk nuo nuotraukos. Jei produktas supakuotas, nuskenuok brūkšninį kodą. Jei sudėtį žinai geriau, pataisyk porciją ar ingredientus rankiniu būdu.",
+        "Taip dienoraštis išlieka greitas, bet ne aklas: programėlė padeda pradėti įrašą, o naudotojas patvirtina tikslumui svarbias detales."
+      ],
+      "note": "Automatizavimas skirtas ne kontrolei atimti, o nereikalingai rutinai sumažinti.",
+      "bestFor": [
+        "greita pradžia",
+        "skirtingi maisto tipai",
+        "redaguojami vertinimai",
+        "kasdienis įprotis"
+      ],
+      "workflowKicker": "Kaip tai veikia",
+      "noteTitle": "Pagrindinis principas"
+    },
+    "/food-recognition-ai/": {
+      "title": "DI maisto atpažinimas",
+      "h1": "Atpažink maistą iš nuotraukos",
+      "description": "Nufotografuok lėkštę ir gauk praktišką pradinį kalorijų, makroelementų ir porcijos įvertinimą.",
+      "kicker": "Nuotraukų analizė",
+      "summary": "Pagrindinė idėja — padaryti maisto registravimą pakankamai paprastą, kad prie jo norėtųsi grįžti kasdien.",
+      "bullets": [
+        "Nuotraukų analizė maistui be etiketės",
+        "Brūkšninių kodų skaitytuvas supakuotiems produktams",
+        "Redaguojami kalorijų ir makroelementų vertinimai",
+        "Dienoraštis, tikslai ir pažangos grafikai"
+      ],
+      "sections": [
+        [
+          "Pradėk nuo paprasto įrašo",
+          "Pridėk valgį iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir patikrink svarbiausias detales."
+        ],
+        [
+          "Patikrink porciją",
+          "Kalorijų vertinimas labai priklauso nuo kiekio, padažų, aliejaus ir kitų priedų."
+        ],
+        [
+          "Stebėk tendenciją",
+          "Vienas įrašas nėra toks svarbus kaip kelių dienų ar savaičių bendras vaizdas."
+        ]
+      ],
+      "workflowTitle": "Pasirink tinkamą sekimo būdą",
+      "workflow": [
+        "Jei maistas be etiketės, pradėk nuo nuotraukos. Jei produktas supakuotas, nuskenuok brūkšninį kodą. Jei sudėtį žinai geriau, pataisyk porciją ar ingredientus rankiniu būdu.",
+        "Taip dienoraštis išlieka greitas, bet ne aklas: programėlė padeda pradėti įrašą, o naudotojas patvirtina tikslumui svarbias detales."
+      ],
+      "note": "Automatizavimas skirtas ne kontrolei atimti, o nereikalingai rutinai sumažinti.",
+      "bestFor": [
+        "greita pradžia",
+        "skirtingi maisto tipai",
+        "redaguojami vertinimai",
+        "kasdienis įprotis"
+      ],
+      "workflowKicker": "Kaip tai veikia",
+      "noteTitle": "Pagrindinis principas"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Brūkšninių kodų kalorijų skaitytuvas",
+      "h1": "Skenuok supakuotus produktus",
+      "description": "Naudok brūkšninio kodo skaitytuvą, kad greitai pridėtum jogurtus, gėrimus, užkandžius ir kitus produktus į dienoraštį.",
+      "kicker": "Brūkšniniai kodai",
+      "summary": "Pagrindinė idėja — padaryti maisto registravimą pakankamai paprastą, kad prie jo norėtųsi grįžti kasdien.",
+      "bullets": [
+        "Nuotraukų analizė maistui be etiketės",
+        "Brūkšninių kodų skaitytuvas supakuotiems produktams",
+        "Redaguojami kalorijų ir makroelementų vertinimai",
+        "Dienoraštis, tikslai ir pažangos grafikai"
+      ],
+      "sections": [
+        [
+          "Pradėk nuo paprasto įrašo",
+          "Pridėk valgį iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir patikrink svarbiausias detales."
+        ],
+        [
+          "Patikrink porciją",
+          "Kalorijų vertinimas labai priklauso nuo kiekio, padažų, aliejaus ir kitų priedų."
+        ],
+        [
+          "Stebėk tendenciją",
+          "Vienas įrašas nėra toks svarbus kaip kelių dienų ar savaičių bendras vaizdas."
+        ]
+      ],
+      "workflowTitle": "Pasirink tinkamą sekimo būdą",
+      "workflow": [
+        "Jei maistas be etiketės, pradėk nuo nuotraukos. Jei produktas supakuotas, nuskenuok brūkšninį kodą. Jei sudėtį žinai geriau, pataisyk porciją ar ingredientus rankiniu būdu.",
+        "Taip dienoraštis išlieka greitas, bet ne aklas: programėlė padeda pradėti įrašą, o naudotojas patvirtina tikslumui svarbias detales."
+      ],
+      "note": "Automatizavimas skirtas ne kontrolei atimti, o nereikalingai rutinai sumažinti.",
+      "bestFor": [
+        "greita pradžia",
+        "skirtingi maisto tipai",
+        "redaguojami vertinimai",
+        "kasdienis įprotis"
+      ],
+      "workflowKicker": "Kaip tai veikia",
+      "noteTitle": "Pagrindinis principas"
+    },
+    "/macro-tracker/": {
+      "title": "Makroelementų sekimas",
+      "h1": "Sek baltymus, riebalus ir angliavandenius",
+      "description": "Matyk makroelementus kartu su kalorijomis ir geriau suprask, iš ko susideda dienos energija.",
+      "kicker": "Makroelementai",
+      "summary": "Pagrindinė idėja — padaryti maisto registravimą pakankamai paprastą, kad prie jo norėtųsi grįžti kasdien.",
+      "bullets": [
+        "Nuotraukų analizė maistui be etiketės",
+        "Brūkšninių kodų skaitytuvas supakuotiems produktams",
+        "Redaguojami kalorijų ir makroelementų vertinimai",
+        "Dienoraštis, tikslai ir pažangos grafikai"
+      ],
+      "sections": [
+        [
+          "Pradėk nuo paprasto įrašo",
+          "Pridėk valgį iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir patikrink svarbiausias detales."
+        ],
+        [
+          "Patikrink porciją",
+          "Kalorijų vertinimas labai priklauso nuo kiekio, padažų, aliejaus ir kitų priedų."
+        ],
+        [
+          "Stebėk tendenciją",
+          "Vienas įrašas nėra toks svarbus kaip kelių dienų ar savaičių bendras vaizdas."
+        ]
+      ],
+      "workflowTitle": "Pasirink tinkamą sekimo būdą",
+      "workflow": [
+        "Jei maistas be etiketės, pradėk nuo nuotraukos. Jei produktas supakuotas, nuskenuok brūkšninį kodą. Jei sudėtį žinai geriau, pataisyk porciją ar ingredientus rankiniu būdu.",
+        "Taip dienoraštis išlieka greitas, bet ne aklas: programėlė padeda pradėti įrašą, o naudotojas patvirtina tikslumui svarbias detales."
+      ],
+      "note": "Automatizavimas skirtas ne kontrolei atimti, o nereikalingai rutinai sumažinti.",
+      "bestFor": [
+        "greita pradžia",
+        "skirtingi maisto tipai",
+        "redaguojami vertinimai",
+        "kasdienis įprotis"
+      ],
+      "workflowKicker": "Kaip tai veikia",
+      "noteTitle": "Pagrindinis principas"
+    },
+    "/food-diary-app/": {
+      "title": "Mitybos dienoraščio programėlė",
+      "h1": "Vesk paprastą mitybos dienoraštį",
+      "description": "Išsaugok valgius iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir matyk dienos vaizdą be nereikalingos rutinos.",
+      "kicker": "Dienoraštis",
+      "summary": "Pagrindinė idėja — padaryti maisto registravimą pakankamai paprastą, kad prie jo norėtųsi grįžti kasdien.",
+      "bullets": [
+        "Nuotraukų analizė maistui be etiketės",
+        "Brūkšninių kodų skaitytuvas supakuotiems produktams",
+        "Redaguojami kalorijų ir makroelementų vertinimai",
+        "Dienoraštis, tikslai ir pažangos grafikai"
+      ],
+      "sections": [
+        [
+          "Pradėk nuo paprasto įrašo",
+          "Pridėk valgį iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir patikrink svarbiausias detales."
+        ],
+        [
+          "Patikrink porciją",
+          "Kalorijų vertinimas labai priklauso nuo kiekio, padažų, aliejaus ir kitų priedų."
+        ],
+        [
+          "Stebėk tendenciją",
+          "Vienas įrašas nėra toks svarbus kaip kelių dienų ar savaičių bendras vaizdas."
+        ]
+      ],
+      "workflowTitle": "Pasirink tinkamą sekimo būdą",
+      "workflow": [
+        "Jei maistas be etiketės, pradėk nuo nuotraukos. Jei produktas supakuotas, nuskenuok brūkšninį kodą. Jei sudėtį žinai geriau, pataisyk porciją ar ingredientus rankiniu būdu.",
+        "Taip dienoraštis išlieka greitas, bet ne aklas: programėlė padeda pradėti įrašą, o naudotojas patvirtina tikslumui svarbias detales."
+      ],
+      "note": "Automatizavimas skirtas ne kontrolei atimti, o nereikalingai rutinai sumažinti.",
+      "bestFor": [
+        "greita pradžia",
+        "skirtingi maisto tipai",
+        "redaguojami vertinimai",
+        "kasdienis įprotis"
+      ],
+      "workflowKicker": "Kaip tai veikia",
+      "noteTitle": "Pagrindinis principas"
+    },
+    "/nutrition-tracker/": {
+      "title": "Mitybos sekimas",
+      "h1": "Matyk mitybą aiškiame dienos vaizde",
+      "description": "Sujunk kalorijas, makroelementus, porcijas ir valgių istoriją, kad geriau suprastum savo mitybą.",
+      "kicker": "Mityba",
+      "summary": "Pagrindinė idėja — padaryti maisto registravimą pakankamai paprastą, kad prie jo norėtųsi grįžti kasdien.",
+      "bullets": [
+        "Nuotraukų analizė maistui be etiketės",
+        "Brūkšninių kodų skaitytuvas supakuotiems produktams",
+        "Redaguojami kalorijų ir makroelementų vertinimai",
+        "Dienoraštis, tikslai ir pažangos grafikai"
+      ],
+      "sections": [
+        [
+          "Pradėk nuo paprasto įrašo",
+          "Pridėk valgį iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir patikrink svarbiausias detales."
+        ],
+        [
+          "Patikrink porciją",
+          "Kalorijų vertinimas labai priklauso nuo kiekio, padažų, aliejaus ir kitų priedų."
+        ],
+        [
+          "Stebėk tendenciją",
+          "Vienas įrašas nėra toks svarbus kaip kelių dienų ar savaičių bendras vaizdas."
+        ]
+      ],
+      "workflowTitle": "Pasirink tinkamą sekimo būdą",
+      "workflow": [
+        "Jei maistas be etiketės, pradėk nuo nuotraukos. Jei produktas supakuotas, nuskenuok brūkšninį kodą. Jei sudėtį žinai geriau, pataisyk porciją ar ingredientus rankiniu būdu.",
+        "Taip dienoraštis išlieka greitas, bet ne aklas: programėlė padeda pradėti įrašą, o naudotojas patvirtina tikslumui svarbias detales."
+      ],
+      "note": "Automatizavimas skirtas ne kontrolei atimti, o nereikalingai rutinai sumažinti.",
+      "bestFor": [
+        "greita pradžia",
+        "skirtingi maisto tipai",
+        "redaguojami vertinimai",
+        "kasdienis įprotis"
+      ],
+      "workflowKicker": "Kaip tai veikia",
+      "noteTitle": "Pagrindinis principas"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Porcijos svorio vertinimas",
+      "h1": "Įvertink porcijos svorį iš nuotraukos",
+      "description": "Gauk pradinį porcijos dydžio įvertinimą ir pakoreguok jį, jei žinai tikslesnį kiekį.",
+      "kicker": "Porcijos",
+      "summary": "Pagrindinė idėja — padaryti maisto registravimą pakankamai paprastą, kad prie jo norėtųsi grįžti kasdien.",
+      "bullets": [
+        "Nuotraukų analizė maistui be etiketės",
+        "Brūkšninių kodų skaitytuvas supakuotiems produktams",
+        "Redaguojami kalorijų ir makroelementų vertinimai",
+        "Dienoraštis, tikslai ir pažangos grafikai"
+      ],
+      "sections": [
+        [
+          "Pradėk nuo paprasto įrašo",
+          "Pridėk valgį iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir patikrink svarbiausias detales."
+        ],
+        [
+          "Patikrink porciją",
+          "Kalorijų vertinimas labai priklauso nuo kiekio, padažų, aliejaus ir kitų priedų."
+        ],
+        [
+          "Stebėk tendenciją",
+          "Vienas įrašas nėra toks svarbus kaip kelių dienų ar savaičių bendras vaizdas."
+        ]
+      ],
+      "workflowTitle": "Pasirink tinkamą sekimo būdą",
+      "workflow": [
+        "Jei maistas be etiketės, pradėk nuo nuotraukos. Jei produktas supakuotas, nuskenuok brūkšninį kodą. Jei sudėtį žinai geriau, pataisyk porciją ar ingredientus rankiniu būdu.",
+        "Taip dienoraštis išlieka greitas, bet ne aklas: programėlė padeda pradėti įrašą, o naudotojas patvirtina tikslumui svarbias detales."
+      ],
+      "note": "Automatizavimas skirtas ne kontrolei atimti, o nereikalingai rutinai sumažinti.",
+      "bestFor": [
+        "greita pradžia",
+        "skirtingi maisto tipai",
+        "redaguojami vertinimai",
+        "kasdienis įprotis"
+      ],
+      "workflowKicker": "Kaip tai veikia",
+      "noteTitle": "Pagrindinis principas"
+    },
+    "/progress-statistics/": {
+      "title": "Pažangos statistika",
+      "h1": "Matyk pažangą dienomis ir savaitėmis",
+      "description": "Sek kalorijų ir makroelementų tendencijas, kad geriau suprastum, kas vyksta ilgesniu laikotarpiu.",
+      "kicker": "Pažanga",
+      "summary": "Pagrindinė idėja — padaryti maisto registravimą pakankamai paprastą, kad prie jo norėtųsi grįžti kasdien.",
+      "bullets": [
+        "Nuotraukų analizė maistui be etiketės",
+        "Brūkšninių kodų skaitytuvas supakuotiems produktams",
+        "Redaguojami kalorijų ir makroelementų vertinimai",
+        "Dienoraštis, tikslai ir pažangos grafikai"
+      ],
+      "sections": [
+        [
+          "Pradėk nuo paprasto įrašo",
+          "Pridėk valgį iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir patikrink svarbiausias detales."
+        ],
+        [
+          "Patikrink porciją",
+          "Kalorijų vertinimas labai priklauso nuo kiekio, padažų, aliejaus ir kitų priedų."
+        ],
+        [
+          "Stebėk tendenciją",
+          "Vienas įrašas nėra toks svarbus kaip kelių dienų ar savaičių bendras vaizdas."
+        ]
+      ],
+      "workflowTitle": "Pasirink tinkamą sekimo būdą",
+      "workflow": [
+        "Jei maistas be etiketės, pradėk nuo nuotraukos. Jei produktas supakuotas, nuskenuok brūkšninį kodą. Jei sudėtį žinai geriau, pataisyk porciją ar ingredientus rankiniu būdu.",
+        "Taip dienoraštis išlieka greitas, bet ne aklas: programėlė padeda pradėti įrašą, o naudotojas patvirtina tikslumui svarbias detales."
+      ],
+      "note": "Automatizavimas skirtas ne kontrolei atimti, o nereikalingai rutinai sumažinti.",
+      "bestFor": [
+        "greita pradžia",
+        "skirtingi maisto tipai",
+        "redaguojami vertinimai",
+        "kasdienis įprotis"
+      ],
+      "workflowKicker": "Kaip tai veikia",
+      "noteTitle": "Pagrindinis principas"
+    },
+    "/meal-reminders/": {
+      "title": "Valgių priminimai",
+      "h1": "Nepamiršk užregistruoti valgių",
+      "description": "Priminimai padeda išlaikyti dienoraštį, kai diena užimta ir įrašai lengvai pasimiršta.",
+      "kicker": "Priminimai",
+      "summary": "Pagrindinė idėja — padaryti maisto registravimą pakankamai paprastą, kad prie jo norėtųsi grįžti kasdien.",
+      "bullets": [
+        "Nuotraukų analizė maistui be etiketės",
+        "Brūkšninių kodų skaitytuvas supakuotiems produktams",
+        "Redaguojami kalorijų ir makroelementų vertinimai",
+        "Dienoraštis, tikslai ir pažangos grafikai"
+      ],
+      "sections": [
+        [
+          "Pradėk nuo paprasto įrašo",
+          "Pridėk valgį iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir patikrink svarbiausias detales."
+        ],
+        [
+          "Patikrink porciją",
+          "Kalorijų vertinimas labai priklauso nuo kiekio, padažų, aliejaus ir kitų priedų."
+        ],
+        [
+          "Stebėk tendenciją",
+          "Vienas įrašas nėra toks svarbus kaip kelių dienų ar savaičių bendras vaizdas."
+        ]
+      ],
+      "workflowTitle": "Pasirink tinkamą sekimo būdą",
+      "workflow": [
+        "Jei maistas be etiketės, pradėk nuo nuotraukos. Jei produktas supakuotas, nuskenuok brūkšninį kodą. Jei sudėtį žinai geriau, pataisyk porciją ar ingredientus rankiniu būdu.",
+        "Taip dienoraštis išlieka greitas, bet ne aklas: programėlė padeda pradėti įrašą, o naudotojas patvirtina tikslumui svarbias detales."
+      ],
+      "note": "Automatizavimas skirtas ne kontrolei atimti, o nereikalingai rutinai sumažinti.",
+      "bestFor": [
+        "greita pradžia",
+        "skirtingi maisto tipai",
+        "redaguojami vertinimai",
+        "kasdienis įprotis"
+      ],
+      "workflowKicker": "Kaip tai veikia",
+      "noteTitle": "Pagrindinis principas"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Susiek mitybą su sveikatos duomenimis",
+      "description": "Health Connect padeda sujungti suderinamus sveikatos ir aktyvumo duomenis Android ekosistemoje.",
+      "kicker": "Integracija",
+      "summary": "Pagrindinė idėja — padaryti maisto registravimą pakankamai paprastą, kad prie jo norėtųsi grįžti kasdien.",
+      "bullets": [
+        "Nuotraukų analizė maistui be etiketės",
+        "Brūkšninių kodų skaitytuvas supakuotiems produktams",
+        "Redaguojami kalorijų ir makroelementų vertinimai",
+        "Dienoraštis, tikslai ir pažangos grafikai"
+      ],
+      "sections": [
+        [
+          "Pradėk nuo paprasto įrašo",
+          "Pridėk valgį iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir patikrink svarbiausias detales."
+        ],
+        [
+          "Patikrink porciją",
+          "Kalorijų vertinimas labai priklauso nuo kiekio, padažų, aliejaus ir kitų priedų."
+        ],
+        [
+          "Stebėk tendenciją",
+          "Vienas įrašas nėra toks svarbus kaip kelių dienų ar savaičių bendras vaizdas."
+        ]
+      ],
+      "workflowTitle": "Pasirink tinkamą sekimo būdą",
+      "workflow": [
+        "Jei maistas be etiketės, pradėk nuo nuotraukos. Jei produktas supakuotas, nuskenuok brūkšninį kodą. Jei sudėtį žinai geriau, pataisyk porciją ar ingredientus rankiniu būdu.",
+        "Taip dienoraštis išlieka greitas, bet ne aklas: programėlė padeda pradėti įrašą, o naudotojas patvirtina tikslumui svarbias detales."
+      ],
+      "note": "Automatizavimas skirtas ne kontrolei atimti, o nereikalingai rutinai sumažinti.",
+      "bestFor": [
+        "greita pradžia",
+        "skirtingi maisto tipai",
+        "redaguojami vertinimai",
+        "kasdienis įprotis"
+      ],
+      "workflowKicker": "Kaip tai veikia",
+      "noteTitle": "Pagrindinis principas"
+    },
+    "/data-export/": {
+      "title": "Duomenų eksportas",
+      "h1": "Išsinešk savo mitybos duomenis",
+      "description": "Eksportas padeda išsaugoti įrašus už programėlės ribų arba analizuoti juos kituose įrankiuose.",
+      "kicker": "Duomenys",
+      "summary": "Pagrindinė idėja — padaryti maisto registravimą pakankamai paprastą, kad prie jo norėtųsi grįžti kasdien.",
+      "bullets": [
+        "Nuotraukų analizė maistui be etiketės",
+        "Brūkšninių kodų skaitytuvas supakuotiems produktams",
+        "Redaguojami kalorijų ir makroelementų vertinimai",
+        "Dienoraštis, tikslai ir pažangos grafikai"
+      ],
+      "sections": [
+        [
+          "Pradėk nuo paprasto įrašo",
+          "Pridėk valgį iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir patikrink svarbiausias detales."
+        ],
+        [
+          "Patikrink porciją",
+          "Kalorijų vertinimas labai priklauso nuo kiekio, padažų, aliejaus ir kitų priedų."
+        ],
+        [
+          "Stebėk tendenciją",
+          "Vienas įrašas nėra toks svarbus kaip kelių dienų ar savaičių bendras vaizdas."
+        ]
+      ],
+      "workflowTitle": "Pasirink tinkamą sekimo būdą",
+      "workflow": [
+        "Jei maistas be etiketės, pradėk nuo nuotraukos. Jei produktas supakuotas, nuskenuok brūkšninį kodą. Jei sudėtį žinai geriau, pataisyk porciją ar ingredientus rankiniu būdu.",
+        "Taip dienoraštis išlieka greitas, bet ne aklas: programėlė padeda pradėti įrašą, o naudotojas patvirtina tikslumui svarbias detales."
+      ],
+      "note": "Automatizavimas skirtas ne kontrolei atimti, o nereikalingai rutinai sumažinti.",
+      "bestFor": [
+        "greita pradžia",
+        "skirtingi maisto tipai",
+        "redaguojami vertinimai",
+        "kasdienis įprotis"
+      ],
+      "workflowKicker": "Kaip tai veikia",
+      "noteTitle": "Pagrindinis principas"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Kalorijų skaičiuoklė svorio mažinimui",
+      "h1": "Padaryk kalorijų deficitą matomą",
+      "description": "Sek kalorijas, porcijas ir makroelementus, kad svorio mažinimas būtų aiškesnis ir tvaresnis.",
+      "kicker": "Svorio mažinimas",
+      "summary": "Tikslas nėra tobula kontrolė, o aiškus kasdienis grįžtamasis ryšys.",
+      "bullets": [
+        "Dienos tikslas",
+        "Porcijų tikrinimas",
+        "Makroelementų vaizdas",
+        "Savaitės tendencija"
+      ],
+      "sections": [
+        [
+          "Pradėk nuo paprasto įrašo",
+          "Pridėk valgį iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir patikrink svarbiausias detales."
+        ],
+        [
+          "Patikrink porciją",
+          "Kalorijų vertinimas labai priklauso nuo kiekio, padažų, aliejaus ir kitų priedų."
+        ],
+        [
+          "Stebėk tendenciją",
+          "Vienas įrašas nėra toks svarbus kaip kelių dienų ar savaičių bendras vaizdas."
+        ]
+      ],
+      "workflowTitle": "Praktiškas tikslo sekimas",
+      "workflow": [
+        "Pridėk valgius, palygink su dienos tikslu ir pataisyk porcijas, jei vertinimas neatitinka realybės.",
+        "Taip tikslas tampa matomas be sudėtingų lentelių."
+      ],
+      "note": "Mitybos vertinimai yra informaciniai ir nėra medicininė konsultacija.",
+      "bestFor": [
+        "tikslas",
+        "kasdienis sekimas",
+        "porcijos",
+        "tendencijos"
+      ],
+      "workflowKicker": "Kaip tai veikia",
+      "noteTitle": "Pagrindinis principas"
+    },
+    "/calorie-deficit-app/": {
+      "title": "Kalorijų deficito programėlė",
+      "h1": "Praktiškai sek kalorijų deficitą",
+      "description": "Matyk suvartotas kalorijas, valgių sudėtį ir dienos tikslą, kad deficitas nebūtų spėlionė.",
+      "kicker": "Kalorijų deficitas",
+      "summary": "Tikslas nėra tobula kontrolė, o aiškus kasdienis grįžtamasis ryšys.",
+      "bullets": [
+        "Dienos tikslas",
+        "Porcijų tikrinimas",
+        "Makroelementų vaizdas",
+        "Savaitės tendencija"
+      ],
+      "sections": [
+        [
+          "Pradėk nuo paprasto įrašo",
+          "Pridėk valgį iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir patikrink svarbiausias detales."
+        ],
+        [
+          "Patikrink porciją",
+          "Kalorijų vertinimas labai priklauso nuo kiekio, padažų, aliejaus ir kitų priedų."
+        ],
+        [
+          "Stebėk tendenciją",
+          "Vienas įrašas nėra toks svarbus kaip kelių dienų ar savaičių bendras vaizdas."
+        ]
+      ],
+      "workflowTitle": "Praktiškas tikslo sekimas",
+      "workflow": [
+        "Pridėk valgius, palygink su dienos tikslu ir pataisyk porcijas, jei vertinimas neatitinka realybės.",
+        "Taip tikslas tampa matomas be sudėtingų lentelių."
+      ],
+      "note": "Mitybos vertinimai yra informaciniai ir nėra medicininė konsultacija.",
+      "bestFor": [
+        "tikslas",
+        "kasdienis sekimas",
+        "porcijos",
+        "tendencijos"
+      ],
+      "workflowKicker": "Kaip tai veikia",
+      "noteTitle": "Pagrindinis principas"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Kalorijų sekimas raumenų masei",
+      "h1": "Matyk kalorijas ir baltymus",
+      "description": "Sek energijos perteklių ir baltymus, kai tavo tikslas yra raumenų masė.",
+      "kicker": "Raumenų masė",
+      "summary": "Tikslas nėra tobula kontrolė, o aiškus kasdienis grįžtamasis ryšys.",
+      "bullets": [
+        "Dienos tikslas",
+        "Porcijų tikrinimas",
+        "Makroelementų vaizdas",
+        "Savaitės tendencija"
+      ],
+      "sections": [
+        [
+          "Pradėk nuo paprasto įrašo",
+          "Pridėk valgį iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir patikrink svarbiausias detales."
+        ],
+        [
+          "Patikrink porciją",
+          "Kalorijų vertinimas labai priklauso nuo kiekio, padažų, aliejaus ir kitų priedų."
+        ],
+        [
+          "Stebėk tendenciją",
+          "Vienas įrašas nėra toks svarbus kaip kelių dienų ar savaičių bendras vaizdas."
+        ]
+      ],
+      "workflowTitle": "Praktiškas tikslo sekimas",
+      "workflow": [
+        "Pridėk valgius, palygink su dienos tikslu ir pataisyk porcijas, jei vertinimas neatitinka realybės.",
+        "Taip tikslas tampa matomas be sudėtingų lentelių."
+      ],
+      "note": "Mitybos vertinimai yra informaciniai ir nėra medicininė konsultacija.",
+      "bestFor": [
+        "tikslas",
+        "kasdienis sekimas",
+        "porcijos",
+        "tendencijos"
+      ],
+      "workflowKicker": "Kaip tai veikia",
+      "noteTitle": "Pagrindinis principas"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Kalorijų sekimas svorio palaikymui",
+      "h1": "Išlaikyk stabilų ritmą",
+      "description": "Skaičiuok kalorijas be perteklinės kontrolės ir pastebėk, kada kasdienis ritmas ima keistis.",
+      "kicker": "Svorio palaikymas",
+      "summary": "Tikslas nėra tobula kontrolė, o aiškus kasdienis grįžtamasis ryšys.",
+      "bullets": [
+        "Dienos tikslas",
+        "Porcijų tikrinimas",
+        "Makroelementų vaizdas",
+        "Savaitės tendencija"
+      ],
+      "sections": [
+        [
+          "Pradėk nuo paprasto įrašo",
+          "Pridėk valgį iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir patikrink svarbiausias detales."
+        ],
+        [
+          "Patikrink porciją",
+          "Kalorijų vertinimas labai priklauso nuo kiekio, padažų, aliejaus ir kitų priedų."
+        ],
+        [
+          "Stebėk tendenciją",
+          "Vienas įrašas nėra toks svarbus kaip kelių dienų ar savaičių bendras vaizdas."
+        ]
+      ],
+      "workflowTitle": "Praktiškas tikslo sekimas",
+      "workflow": [
+        "Pridėk valgius, palygink su dienos tikslu ir pataisyk porcijas, jei vertinimas neatitinka realybės.",
+        "Taip tikslas tampa matomas be sudėtingų lentelių."
+      ],
+      "note": "Mitybos vertinimai yra informaciniai ir nėra medicininė konsultacija.",
+      "bestFor": [
+        "tikslas",
+        "kasdienis sekimas",
+        "porcijos",
+        "tendencijos"
+      ],
+      "workflowKicker": "Kaip tai veikia",
+      "noteTitle": "Pagrindinis principas"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Kalorijų skaičiuoklė naminiam maistui",
+      "h1": "Įvertink receptus be etiketės",
+      "description": "Naminiam maistui dažnai nėra tikslios maistingumo etiketės, todėl nuotrauka ir porcijos korekcijos padeda gauti praktišką įvertinimą.",
+      "kicker": "Naminis maistas",
+      "summary": "Tikslas nėra tobula kontrolė, o aiškus kasdienis grįžtamasis ryšys.",
+      "bullets": [
+        "Dienos tikslas",
+        "Porcijų tikrinimas",
+        "Makroelementų vaizdas",
+        "Savaitės tendencija"
+      ],
+      "sections": [
+        [
+          "Pradėk nuo paprasto įrašo",
+          "Pridėk valgį iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir patikrink svarbiausias detales."
+        ],
+        [
+          "Patikrink porciją",
+          "Kalorijų vertinimas labai priklauso nuo kiekio, padažų, aliejaus ir kitų priedų."
+        ],
+        [
+          "Stebėk tendenciją",
+          "Vienas įrašas nėra toks svarbus kaip kelių dienų ar savaičių bendras vaizdas."
+        ]
+      ],
+      "workflowTitle": "Praktiškas tikslo sekimas",
+      "workflow": [
+        "Pridėk valgius, palygink su dienos tikslu ir pataisyk porcijas, jei vertinimas neatitinka realybės.",
+        "Taip tikslas tampa matomas be sudėtingų lentelių."
+      ],
+      "note": "Mitybos vertinimai yra informaciniai ir nėra medicininė konsultacija.",
+      "bestFor": [
+        "tikslas",
+        "kasdienis sekimas",
+        "porcijos",
+        "tendencijos"
+      ],
+      "workflowKicker": "Kaip tai veikia",
+      "noteTitle": "Pagrindinis principas"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Restoranų kalorijų sekimas",
+      "h1": "Registruok restorano valgius be spėlionių",
+      "description": "Nufotografuok patiekalą, pridėk padažus ir priedus, tada išsaugok pagrįstą kalorijų įvertinimą.",
+      "kicker": "Restoranai",
+      "summary": "Tikslas nėra tobula kontrolė, o aiškus kasdienis grįžtamasis ryšys.",
+      "bullets": [
+        "Dienos tikslas",
+        "Porcijų tikrinimas",
+        "Makroelementų vaizdas",
+        "Savaitės tendencija"
+      ],
+      "sections": [
+        [
+          "Pradėk nuo paprasto įrašo",
+          "Pridėk valgį iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir patikrink svarbiausias detales."
+        ],
+        [
+          "Patikrink porciją",
+          "Kalorijų vertinimas labai priklauso nuo kiekio, padažų, aliejaus ir kitų priedų."
+        ],
+        [
+          "Stebėk tendenciją",
+          "Vienas įrašas nėra toks svarbus kaip kelių dienų ar savaičių bendras vaizdas."
+        ]
+      ],
+      "workflowTitle": "Praktiškas tikslo sekimas",
+      "workflow": [
+        "Pridėk valgius, palygink su dienos tikslu ir pataisyk porcijas, jei vertinimas neatitinka realybės.",
+        "Taip tikslas tampa matomas be sudėtingų lentelių."
+      ],
+      "note": "Mitybos vertinimai yra informaciniai ir nėra medicininė konsultacija.",
+      "bestFor": [
+        "tikslas",
+        "kasdienis sekimas",
+        "porcijos",
+        "tendencijos"
+      ],
+      "workflowKicker": "Kaip tai veikia",
+      "noteTitle": "Pagrindinis principas"
+    },
+    "/meal-tracker/": {
+      "title": "Valgių sekimas",
+      "h1": "Sek valgius visą dieną",
+      "description": "Pridėk pusryčius, pietus, vakarienę ir užkandžius iš nuotraukos, brūkšninio kodo arba rankiniu būdu.",
+      "kicker": "Valgiai",
+      "summary": "Tikslas nėra tobula kontrolė, o aiškus kasdienis grįžtamasis ryšys.",
+      "bullets": [
+        "Dienos tikslas",
+        "Porcijų tikrinimas",
+        "Makroelementų vaizdas",
+        "Savaitės tendencija"
+      ],
+      "sections": [
+        [
+          "Pradėk nuo paprasto įrašo",
+          "Pridėk valgį iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir patikrink svarbiausias detales."
+        ],
+        [
+          "Patikrink porciją",
+          "Kalorijų vertinimas labai priklauso nuo kiekio, padažų, aliejaus ir kitų priedų."
+        ],
+        [
+          "Stebėk tendenciją",
+          "Vienas įrašas nėra toks svarbus kaip kelių dienų ar savaičių bendras vaizdas."
+        ]
+      ],
+      "workflowTitle": "Praktiškas tikslo sekimas",
+      "workflow": [
+        "Pridėk valgius, palygink su dienos tikslu ir pataisyk porcijas, jei vertinimas neatitinka realybės.",
+        "Taip tikslas tampa matomas be sudėtingų lentelių."
+      ],
+      "note": "Mitybos vertinimai yra informaciniai ir nėra medicininė konsultacija.",
+      "bestFor": [
+        "tikslas",
+        "kasdienis sekimas",
+        "porcijos",
+        "tendencijos"
+      ],
+      "workflowKicker": "Kaip tai veikia",
+      "noteTitle": "Pagrindinis principas"
+    },
+    "/photo-food-journal/": {
+      "title": "Nuotraukų mitybos žurnalas",
+      "h1": "Išsaugok valgius vizualiai",
+      "description": "Nuotrauka padeda prisiminti porcijas ir aiškiau pamatyti valgymo įpročius nei vien tekstinis sąrašas.",
+      "kicker": "Nuotraukų žurnalas",
+      "summary": "Tikslas nėra tobula kontrolė, o aiškus kasdienis grįžtamasis ryšys.",
+      "bullets": [
+        "Dienos tikslas",
+        "Porcijų tikrinimas",
+        "Makroelementų vaizdas",
+        "Savaitės tendencija"
+      ],
+      "sections": [
+        [
+          "Pradėk nuo paprasto įrašo",
+          "Pridėk valgį iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir patikrink svarbiausias detales."
+        ],
+        [
+          "Patikrink porciją",
+          "Kalorijų vertinimas labai priklauso nuo kiekio, padažų, aliejaus ir kitų priedų."
+        ],
+        [
+          "Stebėk tendenciją",
+          "Vienas įrašas nėra toks svarbus kaip kelių dienų ar savaičių bendras vaizdas."
+        ]
+      ],
+      "workflowTitle": "Praktiškas tikslo sekimas",
+      "workflow": [
+        "Pridėk valgius, palygink su dienos tikslu ir pataisyk porcijas, jei vertinimas neatitinka realybės.",
+        "Taip tikslas tampa matomas be sudėtingų lentelių."
+      ],
+      "note": "Mitybos vertinimai yra informaciniai ir nėra medicininė konsultacija.",
+      "bestFor": [
+        "tikslas",
+        "kasdienis sekimas",
+        "porcijos",
+        "tendencijos"
+      ],
+      "workflowKicker": "Kaip tai veikia",
+      "noteTitle": "Pagrindinis principas"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Sveikesnės mitybos sekimas",
+      "h1": "Matyk, kas kartojasi tavo mityboje",
+      "description": "Naudok kalorijas ir makroelementus, kad pastebėtum įpročius ir formuotum protingesnius pasirinkimus.",
+      "kicker": "Sveikesnė mityba",
+      "summary": "Tikslas nėra tobula kontrolė, o aiškus kasdienis grįžtamasis ryšys.",
+      "bullets": [
+        "Dienos tikslas",
+        "Porcijų tikrinimas",
+        "Makroelementų vaizdas",
+        "Savaitės tendencija"
+      ],
+      "sections": [
+        [
+          "Pradėk nuo paprasto įrašo",
+          "Pridėk valgį iš nuotraukos, brūkšninio kodo arba rankiniu būdu ir patikrink svarbiausias detales."
+        ],
+        [
+          "Patikrink porciją",
+          "Kalorijų vertinimas labai priklauso nuo kiekio, padažų, aliejaus ir kitų priedų."
+        ],
+        [
+          "Stebėk tendenciją",
+          "Vienas įrašas nėra toks svarbus kaip kelių dienų ar savaičių bendras vaizdas."
+        ]
+      ],
+      "workflowTitle": "Praktiškas tikslo sekimas",
+      "workflow": [
+        "Pridėk valgius, palygink su dienos tikslu ir pataisyk porcijas, jei vertinimas neatitinka realybės.",
+        "Taip tikslas tampa matomas be sudėtingų lentelių."
+      ],
+      "note": "Mitybos vertinimai yra informaciniai ir nėra medicininė konsultacija.",
+      "bestFor": [
+        "tikslas",
+        "kasdienis sekimas",
+        "porcijos",
+        "tendencijos"
+      ],
+      "workflowKicker": "Kaip tai veikia",
+      "noteTitle": "Pagrindinis principas"
+    },
+    "/use-cases/": {
+      "title": "Naudojimo atvejai",
+      "h1": "Kam tinka Calorie Counter AI",
+      "description": "Svorio mažinimas, palaikymas, raumenų masė, naminis maistas, restoranai ir kasdienis valgių sekimas.",
+      "kicker": "Naudojimo atvejai"
+    },
+    "/blog/": {
+      "title": "Gidai",
+      "h1": "Praktiški kalorijų ir mitybos gidai",
+      "description": "Paprasti paaiškinimai apie kalorijų skaičiavimą, makroelementus, porcijas ir nuotraukų naudojimą.",
+      "kicker": "Gidai"
+    },
+    "/download/": {
+      "title": "Atsisiųsti Calorie Counter AI",
+      "h1": "Atsisiųsti Calorie Counter AI",
+      "description": "Atsisiųsk DI kalorijų skaičiuoklę iPhone arba Android ir pradėk pridėti maistą iš nuotraukos, brūkšninio kodo arba rankiniu būdu.",
+      "kicker": "Atsisiuntimas"
+    },
+    "/faq/": {
+      "title": "Dažniausiai užduodami klausimai",
+      "h1": "Dažniausiai užduodami klausimai",
+      "description": "Atsakymai apie Calorie Counter AI naudojimą, nuotraukų vertinimus, makroelementus, brūkšninius kodus ir privatumą.",
+      "kicker": "DUK"
+    },
+    "/pricing/": {
+      "title": "Kainos",
+      "h1": "Kainos",
+      "description": "Pradėk nemokamai ir patikrink aktualias prenumeratas, bandomuosius laikotarpius bei kainas App Store arba Google Play.",
+      "kicker": "Kainos"
+    },
+    "/support/": {
+      "title": "Pagalba",
+      "h1": "Pagalba",
+      "description": "Reikia pagalbos naudojant Calorie Counter AI? Rask pagalbos, atsiliepimų ir klaidų pranešimo informaciją.",
+      "kicker": "Pagalba"
+    },
+    "/contact/": {
+      "title": "Kontaktai",
+      "h1": "Kontaktai",
+      "description": "Susisiek su Calorie Counter AI komanda dėl programėlės, partnerystės ar spaudos užklausų.",
+      "kicker": "Kontaktai"
+    },
+    "/privacy-policy/": {
+      "title": "Privatumo politika",
+      "h1": "Privatumo politika",
+      "description": "Sužinok, kaip Calorie Counter AI tvarko duomenis, reikalingus programėlei ir svetainei veikti.",
+      "kicker": "Privatumas"
+    },
+    "/terms/": {
+      "title": "Naudojimo sąlygos",
+      "h1": "Naudojimo sąlygos",
+      "description": "Calorie Counter AI naudojimo sąlygos ir paslaugos naudojimo principai.",
+      "kicker": "Sąlygos"
+    },
+    "/health-disclaimer/": {
+      "title": "Sveikatos atsakomybės atsisakymas",
+      "h1": "Sveikatos atsakomybės atsisakymas",
+      "description": "Calorie Counter AI teikia mitybos vertinimus informaciniais tikslais ir nepakeičia medicininės ar dietologo konsultacijos.",
+      "kicker": "Atsakomybės atsisakymas"
+    },
+    "/delete-account/": {
+      "title": "Paskyros ištrynimas",
+      "h1": "Paskyros ištrynimas",
+      "description": "Nurodymai, kaip paprašyti ištrinti Calorie Counter AI paskyrą ir susijusius duomenis.",
+      "kicker": "Paskyra"
+    },
+    "/press/": {
+      "title": "Spauda",
+      "h1": "Spauda",
+      "description": "Trumpas Calorie Counter AI aprašymas, piktograma ir ekrano kopija spaudai bei partneriams.",
+      "kicker": "Spauda"
+    },
+    "/how-many-calories-in/": {
+      "title": "Kalorijos maisto produktuose",
+      "h1": "Kalorijos maisto produktuose",
+      "description": "Naršyk kasdienio maisto kalorijas, baltymus, riebalus, angliavandenius ir porcijų rekomendacijas.",
+      "kicker": "Kalorijų gidas"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Kaip skaičiuoti kalorijas iš nuotraukos",
+      "h1": "Kaip skaičiuoti kalorijas iš nuotraukos",
+      "description": "Kalorijų skaičiavimas iš nuotraukos prasideda nuo vaizdo, bet tampa naudingas tik patikrinus porciją ir paslėptus ingredientus.",
+      "category": "Nuotraukų sekimas",
+      "readTime": "4 min. skaitymo",
+      "intro": "Praktiškas požiūris padeda sekti mitybą be perteklinio tikslumo streso.",
+      "sections": [
+        [
+          "Pradėk nuo aiškaus vaizdo",
+          "Kuo geriau matoma porcija ir ingredientai, tuo naudingesnis pradinis vertinimas."
+        ],
+        [
+          "Patikrink paslėptus priedus",
+          "Aliejus, padažai, cukrus ir gėrimai dažnai nėra akivaizdūs, bet kalorijoms svarbūs."
+        ],
+        [
+          "Taisyk porciją",
+          "Jei kiekis neatitinka realybės, pataisyk įrašą prieš išsaugodamas."
+        ],
+        [
+          "Vertink tendenciją",
+          "Vienas skaičius gali klysti; nuoseklus bendras vaizdas yra naudingesnis."
+        ]
+      ],
+      "takeaway": "Geriausias rezultatas gaunamas tada, kai DI vertinimas naudojamas kaip pradžia, o porcija ir priedai patikrinami rankiniu būdu."
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Kiek tikslūs DI kalorijų skaičiuokliai?",
+      "h1": "Kiek tikslūs DI kalorijų skaičiuokliai?",
+      "description": "DI kalorijų skaičiuoklė yra praktiškas vertinimo įrankis, tačiau tikslumą veikia nuotrauka, porcija, receptas ir tavo pataisymai.",
+      "category": "Tikslumas",
+      "readTime": "4 min. skaitymo",
+      "intro": "Praktiškas požiūris padeda sekti mitybą be perteklinio tikslumo streso.",
+      "sections": [
+        [
+          "Pradėk nuo aiškaus vaizdo",
+          "Kuo geriau matoma porcija ir ingredientai, tuo naudingesnis pradinis vertinimas."
+        ],
+        [
+          "Patikrink paslėptus priedus",
+          "Aliejus, padažai, cukrus ir gėrimai dažnai nėra akivaizdūs, bet kalorijoms svarbūs."
+        ],
+        [
+          "Taisyk porciją",
+          "Jei kiekis neatitinka realybės, pataisyk įrašą prieš išsaugodamas."
+        ],
+        [
+          "Vertink tendenciją",
+          "Vienas skaičius gali klysti; nuoseklus bendras vaizdas yra naudingesnis."
+        ]
+      ],
+      "takeaway": "Geriausias rezultatas gaunamas tada, kai DI vertinimas naudojamas kaip pradžia, o porcija ir priedai patikrinami rankiniu būdu."
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "DI kalorijų skaičiuoklė ar rankinis įvedimas",
+      "h1": "DI kalorijų skaičiuoklė ir rankinis įvedimas",
+      "description": "Palygink nuotraukomis paremtą DI vertinimą ir rankinį maisto įvedimą, tada naudok kiekvieną ten, kur jis geriausiai veikia.",
+      "category": "Palyginimas",
+      "readTime": "4 min. skaitymo",
+      "intro": "Praktiškas požiūris padeda sekti mitybą be perteklinio tikslumo streso.",
+      "sections": [
+        [
+          "Pradėk nuo aiškaus vaizdo",
+          "Kuo geriau matoma porcija ir ingredientai, tuo naudingesnis pradinis vertinimas."
+        ],
+        [
+          "Patikrink paslėptus priedus",
+          "Aliejus, padažai, cukrus ir gėrimai dažnai nėra akivaizdūs, bet kalorijoms svarbūs."
+        ],
+        [
+          "Taisyk porciją",
+          "Jei kiekis neatitinka realybės, pataisyk įrašą prieš išsaugodamas."
+        ],
+        [
+          "Vertink tendenciją",
+          "Vienas skaičius gali klysti; nuoseklus bendras vaizdas yra naudingesnis."
+        ]
+      ],
+      "takeaway": "Geriausias rezultatas gaunamas tada, kai DI vertinimas naudojamas kaip pradžia, o porcija ir priedai patikrinami rankiniu būdu."
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Maisto kalorijų skaitytuvas",
+      "h1": "Kas yra maisto kalorijų skaitytuvas?",
+      "description": "Kalorijų skaitytuvas padeda pridėti maistą iš nuotraukos, brūkšninio kodo arba rankinio įvedimo.",
+      "category": "Skaitytuvas",
+      "readTime": "4 min. skaitymo",
+      "intro": "Praktiškas požiūris padeda sekti mitybą be perteklinio tikslumo streso.",
+      "sections": [
+        [
+          "Pradėk nuo aiškaus vaizdo",
+          "Kuo geriau matoma porcija ir ingredientai, tuo naudingesnis pradinis vertinimas."
+        ],
+        [
+          "Patikrink paslėptus priedus",
+          "Aliejus, padažai, cukrus ir gėrimai dažnai nėra akivaizdūs, bet kalorijoms svarbūs."
+        ],
+        [
+          "Taisyk porciją",
+          "Jei kiekis neatitinka realybės, pataisyk įrašą prieš išsaugodamas."
+        ],
+        [
+          "Vertink tendenciją",
+          "Vienas skaičius gali klysti; nuoseklus bendras vaizdas yra naudingesnis."
+        ]
+      ],
+      "takeaway": "Geriausias rezultatas gaunamas tada, kai DI vertinimas naudojamas kaip pradžia, o porcija ir priedai patikrinami rankiniu būdu."
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Kaip pradedantiesiems sekti makroelementus",
+      "h1": "Kaip pradedantiesiems sekti makroelementus",
+      "description": "Makroelementų sekimas reiškia baltymų, riebalų ir angliavandenių matymą šalia kalorijų.",
+      "category": "Makroelementai",
+      "readTime": "4 min. skaitymo",
+      "intro": "Praktiškas požiūris padeda sekti mitybą be perteklinio tikslumo streso.",
+      "sections": [
+        [
+          "Pradėk nuo aiškaus vaizdo",
+          "Kuo geriau matoma porcija ir ingredientai, tuo naudingesnis pradinis vertinimas."
+        ],
+        [
+          "Patikrink paslėptus priedus",
+          "Aliejus, padažai, cukrus ir gėrimai dažnai nėra akivaizdūs, bet kalorijoms svarbūs."
+        ],
+        [
+          "Taisyk porciją",
+          "Jei kiekis neatitinka realybės, pataisyk įrašą prieš išsaugodamas."
+        ],
+        [
+          "Vertink tendenciją",
+          "Vienas skaičius gali klysti; nuoseklus bendras vaizdas yra naudingesnis."
+        ]
+      ],
+      "takeaway": "Geriausias rezultatas gaunamas tada, kai DI vertinimas naudojamas kaip pradžia, o porcija ir priedai patikrinami rankiniu būdu."
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Kalorijos ir makroelementai",
+      "h1": "Kalorijos ir makroelementai: kuo skiriasi?",
+      "description": "Kalorijos rodo energijos kiekį, o makroelementai — ar energija gaunama iš baltymų, riebalų ar angliavandenių.",
+      "category": "Pagrindai",
+      "readTime": "4 min. skaitymo",
+      "intro": "Praktiškas požiūris padeda sekti mitybą be perteklinio tikslumo streso.",
+      "sections": [
+        [
+          "Pradėk nuo aiškaus vaizdo",
+          "Kuo geriau matoma porcija ir ingredientai, tuo naudingesnis pradinis vertinimas."
+        ],
+        [
+          "Patikrink paslėptus priedus",
+          "Aliejus, padažai, cukrus ir gėrimai dažnai nėra akivaizdūs, bet kalorijoms svarbūs."
+        ],
+        [
+          "Taisyk porciją",
+          "Jei kiekis neatitinka realybės, pataisyk įrašą prieš išsaugodamas."
+        ],
+        [
+          "Vertink tendenciją",
+          "Vienas skaičius gali klysti; nuoseklus bendras vaizdas yra naudingesnis."
+        ]
+      ],
+      "takeaway": "Geriausias rezultatas gaunamas tada, kai DI vertinimas naudojamas kaip pradžia, o porcija ir priedai patikrinami rankiniu būdu."
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Kaip skaičiuoti kalorijas naminiame maiste",
+      "h1": "Kaip skaičiuoti kalorijas naminiame maiste",
+      "description": "Naminio maisto kalorijas lengviau įvertinti pradėjus nuo nuotraukos ir pataisius porciją bei paslėptus ingredientus.",
+      "category": "Naminis maistas",
+      "readTime": "4 min. skaitymo",
+      "intro": "Praktiškas požiūris padeda sekti mitybą be perteklinio tikslumo streso.",
+      "sections": [
+        [
+          "Pradėk nuo aiškaus vaizdo",
+          "Kuo geriau matoma porcija ir ingredientai, tuo naudingesnis pradinis vertinimas."
+        ],
+        [
+          "Patikrink paslėptus priedus",
+          "Aliejus, padažai, cukrus ir gėrimai dažnai nėra akivaizdūs, bet kalorijoms svarbūs."
+        ],
+        [
+          "Taisyk porciją",
+          "Jei kiekis neatitinka realybės, pataisyk įrašą prieš išsaugodamas."
+        ],
+        [
+          "Vertink tendenciją",
+          "Vienas skaičius gali klysti; nuoseklus bendras vaizdas yra naudingesnis."
+        ]
+      ],
+      "takeaway": "Geriausias rezultatas gaunamas tada, kai DI vertinimas naudojamas kaip pradžia, o porcija ir priedai patikrinami rankiniu būdu."
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Kaip įvertinti porcijos dydį",
+      "h1": "Kaip įvertinti porcijos dydį",
+      "description": "Porcijos dydis kalorijas veikia labiau nei daugelis kitų detalių.",
+      "category": "Porcijos",
+      "readTime": "4 min. skaitymo",
+      "intro": "Praktiškas požiūris padeda sekti mitybą be perteklinio tikslumo streso.",
+      "sections": [
+        [
+          "Pradėk nuo aiškaus vaizdo",
+          "Kuo geriau matoma porcija ir ingredientai, tuo naudingesnis pradinis vertinimas."
+        ],
+        [
+          "Patikrink paslėptus priedus",
+          "Aliejus, padažai, cukrus ir gėrimai dažnai nėra akivaizdūs, bet kalorijoms svarbūs."
+        ],
+        [
+          "Taisyk porciją",
+          "Jei kiekis neatitinka realybės, pataisyk įrašą prieš išsaugodamas."
+        ],
+        [
+          "Vertink tendenciją",
+          "Vienas skaičius gali klysti; nuoseklus bendras vaizdas yra naudingesnis."
+        ]
+      ],
+      "takeaway": "Geriausias rezultatas gaunamas tada, kai DI vertinimas naudojamas kaip pradžia, o porcija ir priedai patikrinami rankiniu būdu."
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Kiek kalorijų turėčiau suvalgyti per dieną?",
+      "h1": "Kiek kalorijų turėčiau suvalgyti per dieną?",
+      "description": "Dienos kalorijų poreikis priklauso nuo kūno, aktyvumo, tikslo ir sveikatos būklės.",
+      "category": "Dienos tikslas",
+      "readTime": "4 min. skaitymo",
+      "intro": "Praktiškas požiūris padeda sekti mitybą be perteklinio tikslumo streso.",
+      "sections": [
+        [
+          "Pradėk nuo aiškaus vaizdo",
+          "Kuo geriau matoma porcija ir ingredientai, tuo naudingesnis pradinis vertinimas."
+        ],
+        [
+          "Patikrink paslėptus priedus",
+          "Aliejus, padažai, cukrus ir gėrimai dažnai nėra akivaizdūs, bet kalorijoms svarbūs."
+        ],
+        [
+          "Taisyk porciją",
+          "Jei kiekis neatitinka realybės, pataisyk įrašą prieš išsaugodamas."
+        ],
+        [
+          "Vertink tendenciją",
+          "Vienas skaičius gali klysti; nuoseklus bendras vaizdas yra naudingesnis."
+        ]
+      ],
+      "takeaway": "Geriausias rezultatas gaunamas tada, kai DI vertinimas naudojamas kaip pradžia, o porcija ir priedai patikrinami rankiniu būdu."
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Kas yra kalorijų deficitas?",
+      "h1": "Kas yra kalorijų deficitas?",
+      "description": "Kalorijų deficitas reiškia, kad ilgesnį laiką suvartoji mažiau energijos, nei išeikvoji.",
+      "category": "Svorio mažinimas",
+      "readTime": "4 min. skaitymo",
+      "intro": "Praktiškas požiūris padeda sekti mitybą be perteklinio tikslumo streso.",
+      "sections": [
+        [
+          "Pradėk nuo aiškaus vaizdo",
+          "Kuo geriau matoma porcija ir ingredientai, tuo naudingesnis pradinis vertinimas."
+        ],
+        [
+          "Patikrink paslėptus priedus",
+          "Aliejus, padažai, cukrus ir gėrimai dažnai nėra akivaizdūs, bet kalorijoms svarbūs."
+        ],
+        [
+          "Taisyk porciją",
+          "Jei kiekis neatitinka realybės, pataisyk įrašą prieš išsaugodamas."
+        ],
+        [
+          "Vertink tendenciją",
+          "Vienas skaičius gali klysti; nuoseklus bendras vaizdas yra naudingesnis."
+        ]
+      ],
+      "takeaway": "Geriausias rezultatas gaunamas tada, kai DI vertinimas naudojamas kaip pradžia, o porcija ir priedai patikrinami rankiniu būdu."
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Dažnos kalorijų skaičiavimo klaidos",
+      "h1": "Dažnos kalorijų skaičiavimo klaidos",
+      "description": "Venk klaidų, dėl kurių mitybos dienoraštis tampa mažiau naudingas.",
+      "category": "Klaidos",
+      "readTime": "4 min. skaitymo",
+      "intro": "Praktiškas požiūris padeda sekti mitybą be perteklinio tikslumo streso.",
+      "sections": [
+        [
+          "Pradėk nuo aiškaus vaizdo",
+          "Kuo geriau matoma porcija ir ingredientai, tuo naudingesnis pradinis vertinimas."
+        ],
+        [
+          "Patikrink paslėptus priedus",
+          "Aliejus, padažai, cukrus ir gėrimai dažnai nėra akivaizdūs, bet kalorijoms svarbūs."
+        ],
+        [
+          "Taisyk porciją",
+          "Jei kiekis neatitinka realybės, pataisyk įrašą prieš išsaugodamas."
+        ],
+        [
+          "Vertink tendenciją",
+          "Vienas skaičius gali klysti; nuoseklus bendras vaizdas yra naudingesnis."
+        ]
+      ],
+      "takeaway": "Geriausias rezultatas gaunamas tada, kai DI vertinimas naudojamas kaip pradžia, o porcija ir priedai patikrinami rankiniu būdu."
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Kaip registruoti restorano maistą",
+      "h1": "Kaip registruoti restorano maistą",
+      "description": "Restorano maisto kalorijas lengviau įvertinti, kai kartu įvertini nuotrauką, porciją ir priedus.",
+      "category": "Restoranai",
+      "readTime": "4 min. skaitymo",
+      "intro": "Praktiškas požiūris padeda sekti mitybą be perteklinio tikslumo streso.",
+      "sections": [
+        [
+          "Pradėk nuo aiškaus vaizdo",
+          "Kuo geriau matoma porcija ir ingredientai, tuo naudingesnis pradinis vertinimas."
+        ],
+        [
+          "Patikrink paslėptus priedus",
+          "Aliejus, padažai, cukrus ir gėrimai dažnai nėra akivaizdūs, bet kalorijoms svarbūs."
+        ],
+        [
+          "Taisyk porciją",
+          "Jei kiekis neatitinka realybės, pataisyk įrašą prieš išsaugodamas."
+        ],
+        [
+          "Vertink tendenciją",
+          "Vienas skaičius gali klysti; nuoseklus bendras vaizdas yra naudingesnis."
+        ]
+      ],
+      "takeaway": "Geriausias rezultatas gaunamas tada, kai DI vertinimas naudojamas kaip pradžia, o porcija ir priedai patikrinami rankiniu būdu."
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Kaip sekti baltymus",
+      "h1": "Kaip sekti baltymus",
+      "description": "Baltymų sekimas padeda suprasti sotumą, raumenų masės išlaikymą ir dienos valgių struktūrą.",
+      "category": "Baltymai",
+      "readTime": "4 min. skaitymo",
+      "intro": "Praktiškas požiūris padeda sekti mitybą be perteklinio tikslumo streso.",
+      "sections": [
+        [
+          "Pradėk nuo aiškaus vaizdo",
+          "Kuo geriau matoma porcija ir ingredientai, tuo naudingesnis pradinis vertinimas."
+        ],
+        [
+          "Patikrink paslėptus priedus",
+          "Aliejus, padažai, cukrus ir gėrimai dažnai nėra akivaizdūs, bet kalorijoms svarbūs."
+        ],
+        [
+          "Taisyk porciją",
+          "Jei kiekis neatitinka realybės, pataisyk įrašą prieš išsaugodamas."
+        ],
+        [
+          "Vertink tendenciją",
+          "Vienas skaičius gali klysti; nuoseklus bendras vaizdas yra naudingesnis."
+        ]
+      ],
+      "takeaway": "Geriausias rezultatas gaunamas tada, kai DI vertinimas naudojamas kaip pradžia, o porcija ir priedai patikrinami rankiniu būdu."
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Kas yra mitybos dienoraštis?",
+      "h1": "Kas yra mitybos dienoraštis?",
+      "description": "Mitybos dienoraštis yra būdas išsaugoti valgius, porcijas ir mitybos vertinimus, kad įpročiai taptų matomi.",
+      "category": "Dienoraštis",
+      "readTime": "4 min. skaitymo",
+      "intro": "Praktiškas požiūris padeda sekti mitybą be perteklinio tikslumo streso.",
+      "sections": [
+        [
+          "Pradėk nuo aiškaus vaizdo",
+          "Kuo geriau matoma porcija ir ingredientai, tuo naudingesnis pradinis vertinimas."
+        ],
+        [
+          "Patikrink paslėptus priedus",
+          "Aliejus, padažai, cukrus ir gėrimai dažnai nėra akivaizdūs, bet kalorijoms svarbūs."
+        ],
+        [
+          "Taisyk porciją",
+          "Jei kiekis neatitinka realybės, pataisyk įrašą prieš išsaugodamas."
+        ],
+        [
+          "Vertink tendenciją",
+          "Vienas skaičius gali klysti; nuoseklus bendras vaizdas yra naudingesnis."
+        ]
+      ],
+      "takeaway": "Geriausias rezultatas gaunamas tada, kai DI vertinimas naudojamas kaip pradžia, o porcija ir priedai patikrinami rankiniu būdu."
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Slapukai",
+    "text": "Naudojame būtinus slapukus ir localStorage, kad įsimintume tavo kalbą ir slapukų pasirinkimą. Gavę tavo sutikimą taip pat naudojame analitikos slapukus svetainei tobulinti.",
+    "accept": "Sutinku",
+    "decline": "Atsisakyti analitikos"
+  }
+}

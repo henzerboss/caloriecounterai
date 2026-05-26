@@ -1,0 +1,2619 @@
+{
+  "localeName": "Filipino",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "AI calorie counter app gamit ang larawan"
+  },
+  "nav": {
+    "features": "Mga feature",
+    "useCases": "Mga gamit",
+    "blog": "Mga gabay",
+    "faq": "FAQ",
+    "download": "I-download",
+    "language": "Wika",
+    "openMenu": "Buksan ang menu",
+    "caloriesInFoods": "Kaloriya sa pagkain",
+    "all": "Lahat",
+    "allFeatures": "Lahat ng feature",
+    "allUseCases": "Lahat ng gamit",
+    "allLearn": "Lahat ng gabay",
+    "openHub": "Buksan ang seksyon →",
+    "home": "Home"
+  },
+  "cta": {
+    "appStore": "I-download sa App Store",
+    "googlePlay": "Kunin sa Google Play",
+    "downloadNow": "I-download ngayon",
+    "tryFree": "Subukan nang libre",
+    "learnMore": "Matuto pa",
+    "learnMoreArrow": "Matuto pa →",
+    "readGuide": "Basahin ang gabay"
+  },
+  "home": {
+    "title": "AI calorie counter app gamit ang larawan",
+    "description": "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+    "heroNote": "Magsimula nang libre gamit ang araw-araw na AI analysis ng pagkain. Para sa iPhone at Android.",
+    "photoEyebrow": "Calorie counter gamit ang larawan",
+    "photoTitle": "Calorie counter gamit ang larawan",
+    "photoText": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+    "photoChecklist": [
+      "Calorie counter gamit ang larawan",
+      "Scanner ng barcode",
+      "Macros",
+      "Talaan ng pagkain"
+    ],
+    "featureCards": [
+      [
+        "camera",
+        "Calorie counter gamit ang larawan",
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain."
+      ],
+      [
+        "sparkles",
+        "Scanner ng barcode",
+        "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+      ],
+      [
+        "shield",
+        "Macros",
+        "Magsimula nang libre gamit ang araw-araw na AI analysis ng pagkain. Para sa iPhone at Android."
+      ],
+      [
+        "barcode",
+        "Talaan ng pagkain",
+        "I-scan ang barcode ng nakabalot na pagkain, kumpirmahin ang produkto at idagdag ang kaloriya at macros sa iyong talaan sa loob ng ilang segundo."
+      ],
+      [
+        "macro",
+        "Calorie counter gamit ang larawan",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      [
+        "diary",
+        "Scanner ng barcode",
+        "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+      ]
+    ],
+    "foodPreviewTitle": "Ilang kaloriya ang nasa mga karaniwang pagkain?",
+    "foodPreviewText": "Tingnan ang mabilis na gabay sa kaloriya at macros para sa pang-araw-araw na pagkain, meryenda at inumin.",
+    "foodPreviewLink": "Buksan ang buong gabay sa kaloriya ng pagkain →",
+    "goalEyebrow": "Nutrisyon",
+    "counterTitle": "AI calorie counter app gamit ang larawan",
+    "counterText": "Gumamit ng larawan, barcode, paborito at malinis na talaan para manatiling tuloy-tuloy nang hindi ginagawang pangalawang trabaho ang calorie counting.",
+    "goalPills": [
+      "Pagbawas ng timbang",
+      "Pagpapanatili ng timbang",
+      "Pagdagdag ng muscle",
+      "Abalang araw"
+    ],
+    "magicEyebrow": "Mga feature",
+    "magicTitle": "I-log ang pagkain sa tatlong mabilis na hakbang",
+    "magicText": "Kunan ng larawan, suriin ang tantiya at i-save ang pagkain. Mas kaunting pag-type, mas madaling gawing habit.",
+    "magicSteps": [
+      "Kunan",
+      "Suriin",
+      "I-save"
+    ],
+    "barcodeEyebrow": "Scanner ng barcode",
+    "barcodeTitle": "Scanner ng barcode",
+    "barcodeText": "I-scan ang barcode ng nakabalot na pagkain, kumpirmahin ang produkto at idagdag ang kaloriya at macros sa iyong talaan sa loob ng ilang segundo.",
+    "barcodeLink": "Scanner ng barcode →",
+    "progressEyebrow": "Macros",
+    "macroTitle": "Subaybayan ang kaloriya at macros",
+    "macroText": "Tingnan sa isang sulyap ang kaloriya, protina, carbohydrates at taba, pagkatapos ay ihambing ang progreso kada araw, linggo at buwan.",
+    "macroLink": "Macros →",
+    "useCasesEyebrow": "Mga gamit",
+    "useCasesTitle": "Nutrisyon",
+    "useCasesText": "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Pagbawas ng timbang",
+        "Kaloriya"
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Lutong-bahay",
+        "Calorie counter gamit ang larawan"
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Pagkain sa restaurant",
+        "Talaan ng pagkain"
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Pagdagdag ng muscle",
+        "Protina"
+      ]
+    ],
+    "downloadTitle": "I-download ang Calorie Counter AI",
+    "downloadText": "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain.",
+    "faqEyebrow": "FAQ",
+    "faqTitle": "FAQ",
+    "faq": [
+      [
+        "Libre ba ang Calorie Counter AI?",
+        "Maaari kang magsimula gamit ang libreng araw-araw na AI analysis ng pagkain. Makakatulong ang Premium kung kailangan mo ng mas mataas na limitasyon at karagdagang tool."
+      ],
+      [
+        "Mabibilang ko ba ang kaloriya mula sa larawan?",
+        "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+      ],
+      [
+        "Gaano katumpak ang tantiya ng AI?",
+        "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+      ],
+      [
+        "Sinusubaybayan ba ng app ang macros?",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      [
+        "Available ba ito sa iPhone at Android?",
+        "Magsimula nang libre gamit ang araw-araw na AI analysis ng pagkain. Para sa iPhone at Android."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "AI calorie counter app gamit ang larawan",
+    "homeOgTitle": "AI calorie counter app gamit ang larawan",
+    "homeDescription": "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+  },
+  "footer": {
+    "disclaimer": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+    "copyright": "© 2026 Calorie Counter AI"
+  },
+  "foodIndex": {
+    "findTitle": "Kaloriya sa pagkain",
+    "findText": "Kaloriya, protina, taba at carbohydrates para sa mga sikat na pagkain at porisyon.",
+    "categoryIntro": "Kaloriya sa pagkain"
+  },
+  "foodPage": {
+    "eyebrow": "Kaloriya sa pagkain",
+    "trackInApp": "I-download",
+    "browseFoods": "Kaloriya sa pagkain →",
+    "typicalEstimate": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+    "caloriesMacros": "Kaloriya at macros",
+    "whenFits": "Mga gamit",
+    "whatToWatch": "Matuto pa",
+    "howToLog": "Talaan ng pagkain",
+    "helpfulContext": "Mga gabay",
+    "faq": "FAQ",
+    "weightLossQuestion": "Angkop ba ito para sa pagbabawas ng timbang?",
+    "variabilityQuestion": "Ano ang pinaka-nagpapabago sa kaloriya?",
+    "logFasterTitle": "Calorie counter gamit ang larawan",
+    "logFasterText": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+    "photoTrackingLink": "Calorie counter gamit ang larawan →",
+    "macros": {
+      "protein": "Protina",
+      "fat": "Taba",
+      "carbs": "Carbohydrates"
+    },
+    "titleTemplate": "Ilang kaloriya ang nasa {namePrep}?",
+    "h1Template": "Ilang kaloriya ang nasa {namePrep}?",
+    "descriptionTemplate": "{name}: kaloriya, protina, taba at carbohydrates para sa porisyong “{serving}”, kasama ang praktikal na tala para sa pag-log.",
+    "heroIntroTemplate": "Tinatayang {calories} {kcal} bawat porisyon: {servingLower}. Gamitin ito bilang panimulang punto at i-adjust ayon sa brand, recipe, paraan ng pagluto at laki ng porisyon.",
+    "macroParagraphTemplate": "{name}: humigit-kumulang {calories} {kcal} bawat porisyon “{servingLower}”. May mga {protein} {gram} protina, {fat} {gram} taba at {carbs} {gram} carbohydrates ang porisyong ito{fiberText}.",
+    "per100Template": "Para sa paghahambing bawat 100 {gram}: humigit-kumulang {calories} {kcal}, {protein} {gram} protina, {fat} {gram} taba at {carbs} {gram} carbohydrates.",
+    "calorieLevelTemplate": "Gamitin ang porisyon bilang gabay: humigit-kumulang {calories} {kcal} para sa “{servingLower}”."
+  },
+  "foodCategories": {
+    "Fruit": "Prutas",
+    "Protein foods": "Pagkaing may protina",
+    "Fruits and fats": "Prutas at taba",
+    "Grains and starches": "Butil at starches",
+    "Nuts and spreads": "Mani at spread",
+    "Breakfast foods": "Pagkain sa almusal",
+    "Dairy": "Produktong gatas",
+    "Restaurant meals": "Pagkain sa restaurant",
+    "Fast food": "Fast food",
+    "Legumes and plant protein": "Legumes at plant protein",
+    "Desserts": "Panghimagas",
+    "Snacks": "Meryenda",
+    "Drinks": "Inumin",
+    "Vegetables": "Gulay",
+    "Sauces and condiments": "Sarsa at pampalasa",
+    "Mixed dishes": "Halo-halong putahe"
+  },
+  "foods": {
+    "banana": {
+      "name": "Saging",
+      "namePrep": "saging",
+      "serving": "1 porisyon ng saging"
+    },
+    "apple": {
+      "name": "Mansanas",
+      "namePrep": "mansanas",
+      "serving": "1 porisyon ng mansanas"
+    },
+    "egg": {
+      "name": "Itlog",
+      "namePrep": "itlog",
+      "serving": "1 porisyon ng itlog"
+    },
+    "avocado": {
+      "name": "Abokado",
+      "namePrep": "abokado",
+      "serving": "1 porisyon ng abokado"
+    },
+    "chicken-breast": {
+      "name": "Dibdib ng manok",
+      "namePrep": "dibdib ng manok",
+      "serving": "1 porisyon ng dibdib ng manok"
+    },
+    "salmon": {
+      "name": "Salmon",
+      "namePrep": "salmon",
+      "serving": "1 porisyon ng salmon"
+    },
+    "white-rice": {
+      "name": "Puting kanin",
+      "namePrep": "puting kanin",
+      "serving": "1 porisyon ng puting kanin"
+    },
+    "brown-rice": {
+      "name": "Brown rice",
+      "namePrep": "brown rice",
+      "serving": "1 porisyon ng brown rice"
+    },
+    "pasta": {
+      "name": "Pasta",
+      "namePrep": "pasta",
+      "serving": "1 porisyon ng pasta"
+    },
+    "potato": {
+      "name": "Patatas",
+      "namePrep": "patatas",
+      "serving": "1 porisyon ng patatas"
+    },
+    "sweet-potato": {
+      "name": "Kamote",
+      "namePrep": "kamote",
+      "serving": "1 porisyon ng kamote"
+    },
+    "bread": {
+      "name": "Tinapay",
+      "namePrep": "tinapay",
+      "serving": "1 porisyon ng tinapay"
+    },
+    "peanut-butter": {
+      "name": "Peanut butter",
+      "namePrep": "peanut butter",
+      "serving": "1 porisyon ng peanut butter"
+    },
+    "oatmeal": {
+      "name": "Oatmeal",
+      "namePrep": "oatmeal",
+      "serving": "1 porisyon ng oatmeal"
+    },
+    "greek-yogurt": {
+      "name": "Greek yogurt",
+      "namePrep": "greek yogurt",
+      "serving": "1 porisyon ng greek yogurt"
+    },
+    "yogurt": {
+      "name": "Yogurt",
+      "namePrep": "yogurt",
+      "serving": "1 porisyon ng yogurt"
+    },
+    "milk": {
+      "name": "Gatas",
+      "namePrep": "gatas",
+      "serving": "1 porisyon ng gatas"
+    },
+    "cheddar-cheese": {
+      "name": "Cheddar cheese",
+      "namePrep": "cheddar cheese",
+      "serving": "1 porisyon ng cheddar cheese"
+    },
+    "pizza": {
+      "name": "Pizza",
+      "namePrep": "pizza",
+      "serving": "1 porisyon ng pizza"
+    },
+    "burger": {
+      "name": "Burger",
+      "namePrep": "burger",
+      "serving": "1 porisyon ng burger"
+    },
+    "french-fries": {
+      "name": "French fries",
+      "namePrep": "french fries",
+      "serving": "1 porisyon ng french fries"
+    },
+    "sushi-roll": {
+      "name": "Sushi roll",
+      "namePrep": "sushi roll",
+      "serving": "1 porisyon ng sushi roll"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "taco",
+      "serving": "1 porisyon ng taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "burrito",
+      "serving": "1 porisyon ng burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Chicken nuggets",
+      "namePrep": "chicken nuggets",
+      "serving": "1 porisyon ng chicken nuggets"
+    },
+    "hot-dog": {
+      "name": "Hot dog",
+      "namePrep": "hot dog",
+      "serving": "1 porisyon ng hot dog"
+    },
+    "steak": {
+      "name": "Steak",
+      "namePrep": "steak",
+      "serving": "1 porisyon ng steak"
+    },
+    "bacon": {
+      "name": "Bacon",
+      "namePrep": "bacon",
+      "serving": "1 porisyon ng bacon"
+    },
+    "tuna": {
+      "name": "Tuna",
+      "namePrep": "tuna",
+      "serving": "1 porisyon ng tuna"
+    },
+    "shrimp": {
+      "name": "Hipon",
+      "namePrep": "hipon",
+      "serving": "1 porisyon ng hipon"
+    },
+    "tofu": {
+      "name": "Tokwa",
+      "namePrep": "tokwa",
+      "serving": "1 porisyon ng tokwa"
+    },
+    "lentils": {
+      "name": "Lentils",
+      "namePrep": "lentils",
+      "serving": "1 porisyon ng lentils"
+    },
+    "black-beans": {
+      "name": "Black beans",
+      "namePrep": "black beans",
+      "serving": "1 porisyon ng black beans"
+    },
+    "chickpeas": {
+      "name": "Chickpeas",
+      "namePrep": "chickpeas",
+      "serving": "1 porisyon ng chickpeas"
+    },
+    "hummus": {
+      "name": "Hummus",
+      "namePrep": "hummus",
+      "serving": "1 porisyon ng hummus"
+    },
+    "quinoa": {
+      "name": "Quinoa",
+      "namePrep": "quinoa",
+      "serving": "1 porisyon ng quinoa"
+    },
+    "tortilla": {
+      "name": "Tortilla",
+      "namePrep": "tortilla",
+      "serving": "1 porisyon ng tortilla"
+    },
+    "bagel": {
+      "name": "Bagel",
+      "namePrep": "bagel",
+      "serving": "1 porisyon ng bagel"
+    },
+    "croissant": {
+      "name": "Croissant",
+      "namePrep": "croissant",
+      "serving": "1 porisyon ng croissant"
+    },
+    "pancake": {
+      "name": "Pancake",
+      "namePrep": "pancake",
+      "serving": "1 porisyon ng pancake"
+    },
+    "waffle": {
+      "name": "Waffle",
+      "namePrep": "waffle",
+      "serving": "1 porisyon ng waffle"
+    },
+    "cereal": {
+      "name": "Cereal",
+      "namePrep": "cereal",
+      "serving": "1 porisyon ng cereal"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granola",
+      "serving": "1 porisyon ng granola"
+    },
+    "almonds": {
+      "name": "Almonds",
+      "namePrep": "almonds",
+      "serving": "1 porisyon ng almonds"
+    },
+    "walnuts": {
+      "name": "Walnuts",
+      "namePrep": "walnuts",
+      "serving": "1 porisyon ng walnuts"
+    },
+    "cashews": {
+      "name": "Kasoy",
+      "namePrep": "kasoy",
+      "serving": "1 porisyon ng kasoy"
+    },
+    "chocolate": {
+      "name": "Tsokolate",
+      "namePrep": "tsokolate",
+      "serving": "1 porisyon ng tsokolate"
+    },
+    "ice-cream": {
+      "name": "Ice cream",
+      "namePrep": "ice cream",
+      "serving": "1 porisyon ng ice cream"
+    },
+    "cookie": {
+      "name": "Chocolate chip cookie",
+      "namePrep": "chocolate chip cookie",
+      "serving": "1 porisyon ng chocolate chip cookie"
+    },
+    "donut": {
+      "name": "Glazed donut",
+      "namePrep": "glazed donut",
+      "serving": "1 porisyon ng glazed donut"
+    },
+    "muffin": {
+      "name": "Blueberry muffin",
+      "namePrep": "blueberry muffin",
+      "serving": "1 porisyon ng blueberry muffin"
+    },
+    "cake": {
+      "name": "Cake",
+      "namePrep": "cake",
+      "serving": "1 porisyon ng cake"
+    },
+    "brownie": {
+      "name": "Brownie",
+      "namePrep": "brownie",
+      "serving": "1 porisyon ng brownie"
+    },
+    "popcorn": {
+      "name": "Popcorn",
+      "namePrep": "popcorn",
+      "serving": "1 porisyon ng popcorn"
+    },
+    "potato-chips": {
+      "name": "Potato chips",
+      "namePrep": "potato chips",
+      "serving": "1 porisyon ng potato chips"
+    },
+    "pretzels": {
+      "name": "Pretzels",
+      "namePrep": "pretzels",
+      "serving": "1 porisyon ng pretzels"
+    },
+    "smoothie": {
+      "name": "Fruit smoothie",
+      "namePrep": "fruit smoothie",
+      "serving": "1 porisyon ng fruit smoothie"
+    },
+    "orange-juice": {
+      "name": "Orange juice",
+      "namePrep": "orange juice",
+      "serving": "1 porisyon ng orange juice"
+    },
+    "soda": {
+      "name": "Soda",
+      "namePrep": "soda",
+      "serving": "1 porisyon ng soda"
+    },
+    "latte": {
+      "name": "Latte",
+      "namePrep": "latte",
+      "serving": "1 porisyon ng latte"
+    },
+    "protein-shake": {
+      "name": "Protein shake",
+      "namePrep": "protein shake",
+      "serving": "1 porisyon ng protein shake"
+    },
+    "spaghetti-bolognese": {
+      "name": "Spaghetti bolognese",
+      "namePrep": "spaghetti bolognese",
+      "serving": "1 porisyon ng spaghetti bolognese"
+    },
+    "ramen": {
+      "name": "Ramen",
+      "namePrep": "ramen",
+      "serving": "1 porisyon ng ramen"
+    },
+    "pho": {
+      "name": "Pho",
+      "namePrep": "pho",
+      "serving": "1 porisyon ng pho"
+    },
+    "chicken-soup": {
+      "name": "Sopas na manok",
+      "namePrep": "sopas na manok",
+      "serving": "1 porisyon ng sopas na manok"
+    },
+    "caesar-salad": {
+      "name": "Caesar salad",
+      "namePrep": "caesar salad",
+      "serving": "1 porisyon ng caesar salad"
+    },
+    "green-salad": {
+      "name": "Green salad",
+      "namePrep": "green salad",
+      "serving": "1 porisyon ng green salad"
+    },
+    "broccoli": {
+      "name": "Broccoli",
+      "namePrep": "broccoli",
+      "serving": "1 porisyon ng broccoli"
+    },
+    "spinach": {
+      "name": "Spinach",
+      "namePrep": "spinach",
+      "serving": "1 porisyon ng spinach"
+    },
+    "carrots": {
+      "name": "Karot",
+      "namePrep": "karot",
+      "serving": "1 porisyon ng karot"
+    },
+    "corn": {
+      "name": "Mais",
+      "namePrep": "mais",
+      "serving": "1 porisyon ng mais"
+    },
+    "tomato": {
+      "name": "Kamatis",
+      "namePrep": "kamatis",
+      "serving": "1 porisyon ng kamatis"
+    },
+    "cucumber": {
+      "name": "Pipino",
+      "namePrep": "pipino",
+      "serving": "1 porisyon ng pipino"
+    },
+    "cheesecake": {
+      "name": "Cheesecake",
+      "namePrep": "cheesecake",
+      "serving": "1 porisyon ng cheesecake"
+    },
+    "lasagna": {
+      "name": "Lasagna",
+      "namePrep": "lasagna",
+      "serving": "1 porisyon ng lasagna"
+    },
+    "grilled-cheese": {
+      "name": "Grilled cheese sandwich",
+      "namePrep": "grilled cheese sandwich",
+      "serving": "1 porisyon ng grilled cheese sandwich"
+    },
+    "peanut-butter-jelly": {
+      "name": "Peanut butter and jelly sandwich",
+      "namePrep": "peanut butter and jelly sandwich",
+      "serving": "1 porisyon ng peanut butter and jelly sandwich"
+    },
+    "omelette": {
+      "name": "Omelette",
+      "namePrep": "omelette",
+      "serving": "1 porisyon ng omelette"
+    },
+    "fried-egg": {
+      "name": "Pritong itlog",
+      "namePrep": "pritong itlog",
+      "serving": "1 porisyon ng pritong itlog"
+    },
+    "boiled-egg": {
+      "name": "Nilagang itlog",
+      "namePrep": "nilagang itlog",
+      "serving": "1 porisyon ng nilagang itlog"
+    },
+    "toast": {
+      "name": "Toast",
+      "namePrep": "toast",
+      "serving": "1 porisyon ng toast"
+    },
+    "avocado-toast": {
+      "name": "Avocado toast",
+      "namePrep": "avocado toast",
+      "serving": "1 porisyon ng avocado toast"
+    },
+    "chicken-salad": {
+      "name": "Chicken salad",
+      "namePrep": "chicken salad",
+      "serving": "1 porisyon ng chicken salad"
+    },
+    "tuna-salad": {
+      "name": "Tuna salad",
+      "namePrep": "tuna salad",
+      "serving": "1 porisyon ng tuna salad"
+    },
+    "egg-salad": {
+      "name": "Egg salad",
+      "namePrep": "egg salad",
+      "serving": "1 porisyon ng egg salad"
+    },
+    "cottage-cheese": {
+      "name": "Cottage cheese",
+      "namePrep": "cottage cheese",
+      "serving": "1 porisyon ng cottage cheese"
+    },
+    "cream-cheese": {
+      "name": "Cream cheese",
+      "namePrep": "cream cheese",
+      "serving": "1 porisyon ng cream cheese"
+    },
+    "butter": {
+      "name": "Mantikilya",
+      "namePrep": "mantikilya",
+      "serving": "1 porisyon ng mantikilya"
+    },
+    "olive-oil": {
+      "name": "Olive oil",
+      "namePrep": "olive oil",
+      "serving": "1 porisyon ng olive oil"
+    },
+    "mayonnaise": {
+      "name": "Mayonnaise",
+      "namePrep": "mayonnaise",
+      "serving": "1 porisyon ng mayonnaise"
+    },
+    "ketchup": {
+      "name": "Ketchup",
+      "namePrep": "ketchup",
+      "serving": "1 porisyon ng ketchup"
+    },
+    "honey": {
+      "name": "Pulot",
+      "namePrep": "pulot",
+      "serving": "1 porisyon ng pulot"
+    },
+    "jam": {
+      "name": "Jam",
+      "namePrep": "jam",
+      "serving": "1 porisyon ng jam"
+    },
+    "protein-bar": {
+      "name": "Protein bar",
+      "namePrep": "protein bar",
+      "serving": "1 porisyon ng protein bar"
+    },
+    "energy-drink": {
+      "name": "Energy drink",
+      "namePrep": "energy drink",
+      "serving": "1 porisyon ng energy drink"
+    },
+    "matcha-latte": {
+      "name": "Matcha latte",
+      "namePrep": "matcha latte",
+      "serving": "1 porisyon ng matcha latte"
+    },
+    "trail-mix": {
+      "name": "Trail mix",
+      "namePrep": "trail mix",
+      "serving": "1 porisyon ng trail mix"
+    },
+    "blueberries": {
+      "name": "Blueberries",
+      "namePrep": "blueberries",
+      "serving": "1 porisyon ng blueberries"
+    },
+    "strawberries": {
+      "name": "Strawberries",
+      "namePrep": "strawberries",
+      "serving": "1 porisyon ng strawberries"
+    },
+    "grapes": {
+      "name": "Ubas",
+      "namePrep": "ubas",
+      "serving": "1 porisyon ng ubas"
+    },
+    "orange": {
+      "name": "Dalandan",
+      "namePrep": "dalandan",
+      "serving": "1 porisyon ng dalandan"
+    },
+    "pear": {
+      "name": "Peras",
+      "namePrep": "peras",
+      "serving": "1 porisyon ng peras"
+    },
+    "peach": {
+      "name": "Peach",
+      "namePrep": "peach",
+      "serving": "1 porisyon ng peach"
+    },
+    "watermelon": {
+      "name": "Pakwan",
+      "namePrep": "pakwan",
+      "serving": "1 porisyon ng pakwan"
+    },
+    "pineapple": {
+      "name": "Pinya",
+      "namePrep": "pinya",
+      "serving": "1 porisyon ng pinya"
+    },
+    "mango": {
+      "name": "Mango",
+      "namePrep": "mango",
+      "serving": "1 porisyon ng mango"
+    },
+    "kiwi": {
+      "name": "Kiwi",
+      "namePrep": "kiwi",
+      "serving": "1 porisyon ng kiwi"
+    },
+    "raspberries": {
+      "name": "Raspberries",
+      "namePrep": "raspberries",
+      "serving": "1 porisyon ng raspberries"
+    },
+    "blackberries": {
+      "name": "Blackberries",
+      "namePrep": "blackberries",
+      "serving": "1 porisyon ng blackberries"
+    },
+    "cherries": {
+      "name": "Cherries",
+      "namePrep": "cherries",
+      "serving": "1 porisyon ng cherries"
+    },
+    "grapefruit": {
+      "name": "Grapefruit",
+      "namePrep": "grapefruit",
+      "serving": "1 porisyon ng grapefruit"
+    },
+    "lettuce": {
+      "name": "Lettuce",
+      "namePrep": "lettuce",
+      "serving": "1 porisyon ng lettuce"
+    },
+    "cabbage": {
+      "name": "Repolyo",
+      "namePrep": "repolyo",
+      "serving": "1 porisyon ng repolyo"
+    },
+    "cauliflower": {
+      "name": "Cauliflower",
+      "namePrep": "cauliflower",
+      "serving": "1 porisyon ng cauliflower"
+    },
+    "asparagus": {
+      "name": "Asparagus",
+      "namePrep": "asparagus",
+      "serving": "1 porisyon ng asparagus"
+    },
+    "zucchini": {
+      "name": "Zucchini",
+      "namePrep": "zucchini",
+      "serving": "1 porisyon ng zucchini"
+    },
+    "eggplant": {
+      "name": "Talong",
+      "namePrep": "talong",
+      "serving": "1 porisyon ng talong"
+    },
+    "bell-pepper": {
+      "name": "Bell pepper",
+      "namePrep": "bell pepper",
+      "serving": "1 porisyon ng bell pepper"
+    },
+    "onion": {
+      "name": "Sibuyas",
+      "namePrep": "sibuyas",
+      "serving": "1 porisyon ng sibuyas"
+    },
+    "mushrooms": {
+      "name": "Kabute",
+      "namePrep": "kabute",
+      "serving": "1 porisyon ng kabute"
+    },
+    "green-beans": {
+      "name": "Baguio beans",
+      "namePrep": "baguio beans",
+      "serving": "1 porisyon ng baguio beans"
+    },
+    "kale": {
+      "name": "Kale",
+      "namePrep": "kale",
+      "serving": "1 porisyon ng kale"
+    },
+    "beets": {
+      "name": "Beets",
+      "namePrep": "beets",
+      "serving": "1 porisyon ng beets"
+    },
+    "turkey-breast": {
+      "name": "Dibdib ng pabo",
+      "namePrep": "dibdib ng pabo",
+      "serving": "1 porisyon ng dibdib ng pabo"
+    },
+    "chicken-thigh": {
+      "name": "Hita ng manok",
+      "namePrep": "hita ng manok",
+      "serving": "1 porisyon ng hita ng manok"
+    },
+    "pork-chop": {
+      "name": "Pork chop",
+      "namePrep": "pork chop",
+      "serving": "1 porisyon ng pork chop"
+    },
+    "ground-beef": {
+      "name": "Giniling na baka",
+      "namePrep": "giniling na baka",
+      "serving": "1 porisyon ng giniling na baka"
+    },
+    "meatballs": {
+      "name": "Meatballs",
+      "namePrep": "meatballs",
+      "serving": "1 porisyon ng meatballs"
+    },
+    "sausage": {
+      "name": "Sausage",
+      "namePrep": "sausage",
+      "serving": "1 porisyon ng sausage"
+    },
+    "cod": {
+      "name": "Cod",
+      "namePrep": "cod",
+      "serving": "1 porisyon ng cod"
+    },
+    "tilapia": {
+      "name": "Tilapia",
+      "namePrep": "tilapia",
+      "serving": "1 porisyon ng tilapia"
+    },
+    "sardines": {
+      "name": "Sardinas",
+      "namePrep": "sardinas",
+      "serving": "1 porisyon ng sardinas"
+    },
+    "crab": {
+      "name": "Alimango",
+      "namePrep": "alimango",
+      "serving": "1 porisyon ng alimango"
+    },
+    "scallops": {
+      "name": "Scallops",
+      "namePrep": "scallops",
+      "serving": "1 porisyon ng scallops"
+    },
+    "smoked-salmon": {
+      "name": "Smoked salmon",
+      "namePrep": "smoked salmon",
+      "serving": "1 porisyon ng smoked salmon"
+    },
+    "skim-milk": {
+      "name": "Skim milk",
+      "namePrep": "skim milk",
+      "serving": "1 porisyon ng skim milk"
+    },
+    "soy-milk": {
+      "name": "Soy milk",
+      "namePrep": "soy milk",
+      "serving": "1 porisyon ng soy milk"
+    },
+    "almond-milk": {
+      "name": "Almond milk",
+      "namePrep": "almond milk",
+      "serving": "1 porisyon ng almond milk"
+    },
+    "oat-milk": {
+      "name": "Oat milk",
+      "namePrep": "oat milk",
+      "serving": "1 porisyon ng oat milk"
+    },
+    "kefir": {
+      "name": "Kefir",
+      "namePrep": "kefir",
+      "serving": "1 porisyon ng kefir"
+    },
+    "sour-cream": {
+      "name": "Sour cream",
+      "namePrep": "sour cream",
+      "serving": "1 porisyon ng sour cream"
+    },
+    "feta-cheese": {
+      "name": "Feta",
+      "namePrep": "feta",
+      "serving": "1 porisyon ng feta"
+    },
+    "mozzarella": {
+      "name": "Mozzarella",
+      "namePrep": "mozzarella",
+      "serving": "1 porisyon ng mozzarella"
+    },
+    "parmesan": {
+      "name": "Parmesan",
+      "namePrep": "parmesan",
+      "serving": "1 porisyon ng parmesan"
+    },
+    "couscous": {
+      "name": "Couscous",
+      "namePrep": "couscous",
+      "serving": "1 porisyon ng couscous"
+    },
+    "barley": {
+      "name": "Barley",
+      "namePrep": "barley",
+      "serving": "1 porisyon ng barley"
+    },
+    "buckwheat": {
+      "name": "Buckwheat",
+      "namePrep": "buckwheat",
+      "serving": "1 porisyon ng buckwheat"
+    },
+    "bulgur": {
+      "name": "Bulgur",
+      "namePrep": "bulgur",
+      "serving": "1 porisyon ng bulgur"
+    },
+    "naan": {
+      "name": "Naan",
+      "namePrep": "naan",
+      "serving": "1 porisyon ng naan"
+    },
+    "pita-bread": {
+      "name": "Pita bread",
+      "namePrep": "pita bread",
+      "serving": "1 porisyon ng pita bread"
+    },
+    "english-muffin": {
+      "name": "English muffin",
+      "namePrep": "english muffin",
+      "serving": "1 porisyon ng english muffin"
+    },
+    "rice-cake": {
+      "name": "Rice cake",
+      "namePrep": "rice cake",
+      "serving": "1 porisyon ng rice cake"
+    },
+    "crackers": {
+      "name": "Crackers",
+      "namePrep": "crackers",
+      "serving": "1 porisyon ng crackers"
+    },
+    "mashed-potatoes": {
+      "name": "Mashed potatoes",
+      "namePrep": "mashed potatoes",
+      "serving": "1 porisyon ng mashed potatoes"
+    },
+    "scrambled-eggs": {
+      "name": "Scrambled eggs",
+      "namePrep": "scrambled eggs",
+      "serving": "1 porisyon ng scrambled eggs"
+    },
+    "french-toast": {
+      "name": "French toast",
+      "namePrep": "french toast",
+      "serving": "1 porisyon ng french toast"
+    },
+    "breakfast-burrito": {
+      "name": "Breakfast burrito",
+      "namePrep": "breakfast burrito",
+      "serving": "1 porisyon ng breakfast burrito"
+    },
+    "hash-browns": {
+      "name": "Hash browns",
+      "namePrep": "hash browns",
+      "serving": "1 porisyon ng hash browns"
+    },
+    "chia-pudding": {
+      "name": "Chia pudding",
+      "namePrep": "chia pudding",
+      "serving": "1 porisyon ng chia pudding"
+    },
+    "overnight-oats": {
+      "name": "Overnight oats",
+      "namePrep": "overnight oats",
+      "serving": "1 porisyon ng overnight oats"
+    },
+    "breakfast-sandwich": {
+      "name": "Breakfast sandwich",
+      "namePrep": "breakfast sandwich",
+      "serving": "1 porisyon ng breakfast sandwich"
+    },
+    "edamame": {
+      "name": "Edamame",
+      "namePrep": "edamame",
+      "serving": "1 porisyon ng edamame"
+    },
+    "kidney-beans": {
+      "name": "Kidney beans",
+      "namePrep": "kidney beans",
+      "serving": "1 porisyon ng kidney beans"
+    },
+    "pinto-beans": {
+      "name": "Pinto beans",
+      "namePrep": "pinto beans",
+      "serving": "1 porisyon ng pinto beans"
+    },
+    "split-peas": {
+      "name": "Split peas",
+      "namePrep": "split peas",
+      "serving": "1 porisyon ng split peas"
+    },
+    "baked-beans": {
+      "name": "Baked beans",
+      "namePrep": "baked beans",
+      "serving": "1 porisyon ng baked beans"
+    },
+    "fried-rice": {
+      "name": "Sinangag",
+      "namePrep": "sinangag",
+      "serving": "1 porisyon ng sinangag"
+    },
+    "pad-thai": {
+      "name": "Pad Thai",
+      "namePrep": "pad Thai",
+      "serving": "1 porisyon ng pad Thai"
+    },
+    "chicken-curry": {
+      "name": "Chicken curry",
+      "namePrep": "chicken curry",
+      "serving": "1 porisyon ng chicken curry"
+    },
+    "chicken-tikka-masala": {
+      "name": "Chicken tikka masala",
+      "namePrep": "chicken tikka masala",
+      "serving": "1 porisyon ng chicken tikka masala"
+    },
+    "beef-chili": {
+      "name": "Beef chili",
+      "namePrep": "beef chili",
+      "serving": "1 porisyon ng beef chili"
+    },
+    "falafel": {
+      "name": "Falafel",
+      "namePrep": "falafel",
+      "serving": "1 porisyon ng falafel"
+    },
+    "dumplings": {
+      "name": "Dumplings",
+      "namePrep": "dumplings",
+      "serving": "1 porisyon ng dumplings"
+    },
+    "spring-rolls": {
+      "name": "Lumpiang sariwa",
+      "namePrep": "lumpiang sariwa",
+      "serving": "1 porisyon ng lumpiang sariwa"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "quesadilla",
+      "serving": "1 porisyon ng quesadilla"
+    },
+    "nachos": {
+      "name": "Nachos",
+      "namePrep": "nachos",
+      "serving": "1 porisyon ng nachos"
+    },
+    "mac-and-cheese": {
+      "name": "Mac and cheese",
+      "namePrep": "mac and cheese",
+      "serving": "1 porisyon ng mac and cheese"
+    },
+    "chicken-wings": {
+      "name": "Pakpak ng manok",
+      "namePrep": "pakpak ng manok",
+      "serving": "1 porisyon ng pakpak ng manok"
+    },
+    "fish-and-chips": {
+      "name": "Fish and chips",
+      "namePrep": "fish and chips",
+      "serving": "1 porisyon ng fish and chips"
+    },
+    "risotto": {
+      "name": "Risotto",
+      "namePrep": "risotto",
+      "serving": "1 porisyon ng risotto"
+    },
+    "tortilla-chips": {
+      "name": "Tortilla chips",
+      "namePrep": "tortilla chips",
+      "serving": "1 porisyon ng tortilla chips"
+    },
+    "granola-bar": {
+      "name": "Granola bar",
+      "namePrep": "granola bar",
+      "serving": "1 porisyon ng granola bar"
+    },
+    "chocolate-bar": {
+      "name": "Chocolate bar",
+      "namePrep": "chocolate bar",
+      "serving": "1 porisyon ng chocolate bar"
+    },
+    "candy": {
+      "name": "Candy",
+      "namePrep": "candy",
+      "serving": "1 porisyon ng candy"
+    },
+    "cinnamon-roll": {
+      "name": "Cinnamon roll",
+      "namePrep": "cinnamon roll",
+      "serving": "1 porisyon ng cinnamon roll"
+    },
+    "marshmallows": {
+      "name": "Marshmallows",
+      "namePrep": "marshmallows",
+      "serving": "1 porisyon ng marshmallows"
+    },
+    "fruit-snacks": {
+      "name": "Fruit snacks",
+      "namePrep": "fruit snacks",
+      "serving": "1 porisyon ng fruit snacks"
+    },
+    "black-coffee": {
+      "name": "Itim na kape",
+      "namePrep": "itim na kape",
+      "serving": "1 porisyon ng itim na kape"
+    },
+    "cappuccino": {
+      "name": "Cappuccino",
+      "namePrep": "cappuccino",
+      "serving": "1 porisyon ng cappuccino"
+    },
+    "milk-tea": {
+      "name": "Milk tea",
+      "namePrep": "milk tea",
+      "serving": "1 porisyon ng milk tea"
+    },
+    "bubble-tea": {
+      "name": "Bubble tea",
+      "namePrep": "bubble tea",
+      "serving": "1 porisyon ng bubble tea"
+    },
+    "lemonade": {
+      "name": "Lemonade",
+      "namePrep": "lemonade",
+      "serving": "1 porisyon ng lemonade"
+    },
+    "iced-tea": {
+      "name": "Iced tea",
+      "namePrep": "iced tea",
+      "serving": "1 porisyon ng iced tea"
+    },
+    "apple-juice": {
+      "name": "Apple juice",
+      "namePrep": "apple juice",
+      "serving": "1 porisyon ng apple juice"
+    },
+    "coconut-water": {
+      "name": "Tubig ng buko",
+      "namePrep": "tubig ng buko",
+      "serving": "1 porisyon ng tubig ng buko"
+    },
+    "sports-drink": {
+      "name": "Sports drink",
+      "namePrep": "sports drink",
+      "serving": "1 porisyon ng sports drink"
+    },
+    "ranch-dressing": {
+      "name": "Ranch dressing",
+      "namePrep": "ranch dressing",
+      "serving": "1 porisyon ng ranch dressing"
+    },
+    "bbq-sauce": {
+      "name": "BBQ sauce",
+      "namePrep": "bBQ sauce",
+      "serving": "1 porisyon ng bBQ sauce"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "salsa",
+      "serving": "1 porisyon ng salsa"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "guacamole",
+      "serving": "1 porisyon ng guacamole"
+    }
+  },
+  "utility": {
+    "pricing": "Presyo",
+    "support": "Support",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "press": "Materyales para sa press",
+    "deleteExtra": "Para humiling ng pagbura ng account o data, sumulat mula sa email na konektado sa account at gamitin ang “Delete account” sa subject line."
+  },
+  "store": {
+    "appStoreSmall": "App Store",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Google Play",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Mga feature",
+    "useCase": "Mga gamit",
+    "openPage": "Matuto pa →",
+    "openArrow": "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+    "practicalWorkflow": "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+    "workflowTitle": "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+    "goodToKnow": "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+    "defaultNote": "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+    "relatedPages": "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+    "quickTakeaway": "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+    "defaultTakeaway": "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+    "information": "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+    "bestFor": "Pinakamainam para sa"
+  },
+  "internalCta": {
+    "title": "Gawing nutrition entry ang susunod mong pagkain",
+    "text": "I-download ang Calorie Counter AI at subukan ang mabilis na photo calorie tracking.",
+    "button": "I-download ang app"
+  },
+  "download": {
+    "availableTitle": "Available para sa iPhone at Android",
+    "availableText": "Magsimula gamit ang larawan, barcode o simpleng entry sa talaan. Panatilihing mabilis ang pag-track ng kaloriya at macros mula sa unang araw."
+  },
+  "faq": {
+    "items": [
+      [
+        "Libre ba ang Calorie Counter AI?",
+        "Maaari kang magsimula gamit ang libreng araw-araw na AI analysis ng pagkain. Makakatulong ang Premium kung kailangan mo ng mas mataas na limitasyon at karagdagang tool."
+      ],
+      [
+        "Mabibilang ko ba ang kaloriya mula sa larawan?",
+        "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+      ],
+      [
+        "May scanner ba ng barcode?",
+        "I-scan ang barcode ng nakabalot na pagkain, kumpirmahin ang produkto at idagdag ang kaloriya at macros sa iyong talaan sa loob ng ilang segundo."
+      ],
+      [
+        "Sinusubaybayan ba ng app ang macros?",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      [
+        "Pwede ba ito para sa lutong-bahay?",
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain."
+      ],
+      [
+        "Payong medikal ba ito?",
+        "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Maaari kang magsimula gamit ang libreng araw-araw na AI analysis ng pagkain. Makakatulong ang Premium kung kailangan mo ng mas mataas na limitasyon at karagdagang tool.",
+      "Maaari kang magsimula gamit ang libreng araw-araw na AI analysis ng pagkain. Makakatulong ang Premium kung kailangan mo ng mas mataas na limitasyon at karagdagang tool."
+    ],
+    "support": [
+      "Kailangan ng tulong? Makipag-ugnayan sa support at ilagay ang iyong device, platform, bersyon ng app at maikling paglalarawan ng problema.",
+      "Kailangan ng tulong? Makipag-ugnayan sa support at ilagay ang iyong device, platform, bersyon ng app at maikling paglalarawan ng problema."
+    ],
+    "contact": [
+      "Email ng support: support@caloriecounterai.app",
+      "Para sa partnerships, media requests at feedback, gumamit ng malinaw na subject line."
+    ],
+    "privacy": [
+      "Ginawa ang Calorie Counter AI para sa pagtatala ng pagkain at mas maingat na pagsubaybay sa nutrisyon. Maaaring kasama sa data ang mga pagkain, larawan, setting at teknikal na impormasyong kailangan para patakbuhin ang serbisyo.",
+      "Ginawa ang Calorie Counter AI para sa pagtatala ng pagkain at mas maingat na pagsubaybay sa nutrisyon. Maaaring kasama sa data ang mga pagkain, larawan, setting at teknikal na impormasyong kailangan para patakbuhin ang serbisyo."
+    ],
+    "terms": [
+      "Sa paggamit ng Calorie Counter AI, sumasang-ayon kang gamitin ito bilang tool sa impormasyon tungkol sa nutrisyon at suriin ang mga tantiya bago umasa sa mga ito.",
+      "Sa paggamit ng Calorie Counter AI, sumasang-ayon kang gamitin ito bilang tool sa impormasyon tungkol sa nutrisyon at suriin ang mga tantiya bago umasa sa mga ito."
+    ],
+    "disclaimer": [
+      "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+    ],
+    "delete": [
+      "Para humiling ng pagbura ng account o data, sumulat mula sa email na konektado sa account at gamitin ang “Delete account” sa subject line.",
+      "Para humiling ng pagbura ng account o data, sumulat mula sa email na konektado sa account at gamitin ang “Delete account” sa subject line."
+    ]
+  },
+  "press": {
+    "iconAlt": "Icon ng app",
+    "iconTitle": "Icon ng app",
+    "downloadIcon": "I-download",
+    "screenshotAlt": "Screenshot ng app",
+    "screenshotTitle": "Screenshot",
+    "downloadScreenshot": "I-download",
+    "shortDescriptionTitle": "AI calorie counter app gamit ang larawan",
+    "shortDescriptionText": "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+  },
+  "notFound": {
+    "title": "Hindi nakita ang page",
+    "text": "Wala pa ang page na hinahanap mo.",
+    "home": "Bumalik sa home"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Mga feature",
+      "h1": "Mga feature",
+      "description": "Mga feature: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Mga feature",
+      "summary": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+      "bullets": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ]
+      ],
+      "workflowTitle": "Mga feature",
+      "workflow": [
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      "note": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "bestFor": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "workflowKicker": "Mga feature",
+      "noteTitle": "Matuto pa"
+    },
+    "/food-recognition-ai/": {
+      "title": "AI calorie counter gamit ang larawan",
+      "h1": "AI calorie counter gamit ang larawan",
+      "description": "AI calorie counter gamit ang larawan: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "AI calorie counter gamit ang larawan",
+      "summary": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+      "bullets": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ]
+      ],
+      "workflowTitle": "AI calorie counter gamit ang larawan",
+      "workflow": [
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      "note": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "bestFor": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "workflowKicker": "AI calorie counter gamit ang larawan",
+      "noteTitle": "Matuto pa"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Scanner ng barcode",
+      "h1": "Scanner ng barcode",
+      "description": "Scanner ng barcode: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Scanner ng barcode",
+      "summary": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+      "bullets": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ]
+      ],
+      "workflowTitle": "Scanner ng barcode",
+      "workflow": [
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      "note": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "bestFor": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "workflowKicker": "Scanner ng barcode",
+      "noteTitle": "Matuto pa"
+    },
+    "/macro-tracker/": {
+      "title": "Macro tracker",
+      "h1": "Macro tracker",
+      "description": "Macro tracker: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Macro tracker",
+      "summary": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+      "bullets": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ]
+      ],
+      "workflowTitle": "Macro tracker",
+      "workflow": [
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      "note": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "bestFor": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "workflowKicker": "Macro tracker",
+      "noteTitle": "Matuto pa"
+    },
+    "/food-diary-app/": {
+      "title": "Talaan ng pagkain",
+      "h1": "Talaan ng pagkain",
+      "description": "Talaan ng pagkain: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Talaan ng pagkain",
+      "summary": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+      "bullets": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ]
+      ],
+      "workflowTitle": "Talaan ng pagkain",
+      "workflow": [
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      "note": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "bestFor": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "workflowKicker": "Talaan ng pagkain",
+      "noteTitle": "Matuto pa"
+    },
+    "/nutrition-tracker/": {
+      "title": "Tracker ng nutrisyon",
+      "h1": "Tracker ng nutrisyon",
+      "description": "Tracker ng nutrisyon: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Tracker ng nutrisyon",
+      "summary": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+      "bullets": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ]
+      ],
+      "workflowTitle": "Tracker ng nutrisyon",
+      "workflow": [
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      "note": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "bestFor": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "workflowKicker": "Tracker ng nutrisyon",
+      "noteTitle": "Matuto pa"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Tantiya ng bigat ng pagkain",
+      "h1": "Tantiya ng bigat ng pagkain",
+      "description": "Tantiya ng bigat ng pagkain: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Tantiya ng bigat ng pagkain",
+      "summary": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+      "bullets": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ]
+      ],
+      "workflowTitle": "Tantiya ng bigat ng pagkain",
+      "workflow": [
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      "note": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "bestFor": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "workflowKicker": "Tantiya ng bigat ng pagkain",
+      "noteTitle": "Matuto pa"
+    },
+    "/progress-statistics/": {
+      "title": "Estadistika ng nutrisyon",
+      "h1": "Estadistika ng nutrisyon",
+      "description": "Estadistika ng nutrisyon: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Estadistika ng nutrisyon",
+      "summary": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+      "bullets": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ]
+      ],
+      "workflowTitle": "Estadistika ng nutrisyon",
+      "workflow": [
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      "note": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "bestFor": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "workflowKicker": "Estadistika ng nutrisyon",
+      "noteTitle": "Matuto pa"
+    },
+    "/meal-reminders/": {
+      "title": "Mga paalala sa pagkain",
+      "h1": "Mga paalala sa pagkain",
+      "description": "Mga paalala sa pagkain: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Mga paalala sa pagkain",
+      "summary": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+      "bullets": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ]
+      ],
+      "workflowTitle": "Mga paalala sa pagkain",
+      "workflow": [
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      "note": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "bestFor": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "workflowKicker": "Mga paalala sa pagkain",
+      "noteTitle": "Matuto pa"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Google Health Connect",
+      "description": "Google Health Connect: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Google Health Connect",
+      "summary": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+      "bullets": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ]
+      ],
+      "workflowTitle": "Google Health Connect",
+      "workflow": [
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      "note": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "bestFor": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "workflowKicker": "Google Health Connect",
+      "noteTitle": "Matuto pa"
+    },
+    "/data-export/": {
+      "title": "Pag-export ng data",
+      "h1": "Pag-export ng data",
+      "description": "Pag-export ng data: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Pag-export ng data",
+      "summary": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+      "bullets": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ]
+      ],
+      "workflowTitle": "Pag-export ng data",
+      "workflow": [
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      "note": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "bestFor": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "workflowKicker": "Pag-export ng data",
+      "noteTitle": "Matuto pa"
+    },
+    "/use-cases/": {
+      "title": "Mga gamit",
+      "h1": "Mga gamit",
+      "description": "Mga gamit: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Mga gamit"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Calorie counter para sa pagbabawas ng timbang",
+      "h1": "Calorie counter para sa pagbabawas ng timbang",
+      "description": "Calorie counter para sa pagbabawas ng timbang: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Calorie counter para sa pagbabawas ng timbang",
+      "summary": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+      "bullets": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ]
+      ],
+      "workflowTitle": "Calorie counter para sa pagbabawas ng timbang",
+      "workflow": [
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      "note": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "bestFor": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "workflowKicker": "Calorie counter para sa pagbabawas ng timbang",
+      "noteTitle": "Matuto pa"
+    },
+    "/calorie-deficit-app/": {
+      "title": "App para sa calorie deficit",
+      "h1": "App para sa calorie deficit",
+      "description": "App para sa calorie deficit: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "App para sa calorie deficit",
+      "summary": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+      "bullets": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ]
+      ],
+      "workflowTitle": "App para sa calorie deficit",
+      "workflow": [
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      "note": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "bestFor": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "workflowKicker": "App para sa calorie deficit",
+      "noteTitle": "Matuto pa"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Tracker ng kaloriya para sa pagdagdag ng kalamnan",
+      "h1": "Tracker ng kaloriya para sa pagdagdag ng kalamnan",
+      "description": "Tracker ng kaloriya para sa pagdagdag ng kalamnan: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Tracker ng kaloriya para sa pagdagdag ng kalamnan",
+      "summary": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+      "bullets": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ]
+      ],
+      "workflowTitle": "Tracker ng kaloriya para sa pagdagdag ng kalamnan",
+      "workflow": [
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      "note": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "bestFor": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "workflowKicker": "Tracker ng kaloriya para sa pagdagdag ng kalamnan",
+      "noteTitle": "Matuto pa"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Tracker para sa pagpapanatili ng timbang",
+      "h1": "Tracker para sa pagpapanatili ng timbang",
+      "description": "Tracker para sa pagpapanatili ng timbang: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Tracker para sa pagpapanatili ng timbang",
+      "summary": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+      "bullets": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ]
+      ],
+      "workflowTitle": "Tracker para sa pagpapanatili ng timbang",
+      "workflow": [
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      "note": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "bestFor": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "workflowKicker": "Tracker para sa pagpapanatili ng timbang",
+      "noteTitle": "Matuto pa"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Calorie counter para sa lutong-bahay",
+      "h1": "Calorie counter para sa lutong-bahay",
+      "description": "Calorie counter para sa lutong-bahay: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Calorie counter para sa lutong-bahay",
+      "summary": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+      "bullets": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ]
+      ],
+      "workflowTitle": "Calorie counter para sa lutong-bahay",
+      "workflow": [
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      "note": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "bestFor": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "workflowKicker": "Calorie counter para sa lutong-bahay",
+      "noteTitle": "Matuto pa"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Calorie tracker para sa restaurant food",
+      "h1": "Calorie tracker para sa restaurant food",
+      "description": "Calorie tracker para sa restaurant food: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Calorie tracker para sa restaurant food",
+      "summary": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+      "bullets": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ]
+      ],
+      "workflowTitle": "Calorie tracker para sa restaurant food",
+      "workflow": [
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      "note": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "bestFor": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "workflowKicker": "Calorie tracker para sa restaurant food",
+      "noteTitle": "Matuto pa"
+    },
+    "/meal-tracker/": {
+      "title": "Meal tracker",
+      "h1": "Meal tracker",
+      "description": "Meal tracker: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Meal tracker",
+      "summary": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+      "bullets": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ]
+      ],
+      "workflowTitle": "Meal tracker",
+      "workflow": [
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      "note": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "bestFor": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "workflowKicker": "Meal tracker",
+      "noteTitle": "Matuto pa"
+    },
+    "/photo-food-journal/": {
+      "title": "Talaan ng pagkain gamit ang larawan",
+      "h1": "Talaan ng pagkain gamit ang larawan",
+      "description": "Talaan ng pagkain gamit ang larawan: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Talaan ng pagkain gamit ang larawan",
+      "summary": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+      "bullets": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ]
+      ],
+      "workflowTitle": "Talaan ng pagkain gamit ang larawan",
+      "workflow": [
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      "note": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "bestFor": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "workflowKicker": "Talaan ng pagkain gamit ang larawan",
+      "noteTitle": "Matuto pa"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Tracker para sa masustansyang pagkain",
+      "h1": "Tracker para sa masustansyang pagkain",
+      "description": "Tracker para sa masustansyang pagkain: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Tracker para sa masustansyang pagkain",
+      "summary": "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+      "bullets": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ]
+      ],
+      "workflowTitle": "Tracker para sa masustansyang pagkain",
+      "workflow": [
+        "Hindi mo na kailangang hanapin nang mano-mano ang bawat sangkap. Kunan ng larawan ang pagkain, suriin ang tantiya ng AI at i-save ito sa iyong talaan ng pagkain.",
+        "Subaybayan ang kaloriya, protina, taba at carbohydrates katabi ng iyong pang-araw-araw na layunin."
+      ],
+      "note": "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic.",
+      "bestFor": [
+        "Calorie counter gamit ang larawan",
+        "Scanner ng barcode",
+        "Macros",
+        "Talaan ng pagkain"
+      ],
+      "workflowKicker": "Tracker para sa masustansyang pagkain",
+      "noteTitle": "Matuto pa"
+    },
+    "/blog/": {
+      "title": "Mga gabay sa calorie counting at AI food logging",
+      "h1": "Mga gabay sa calorie counting at AI food logging",
+      "description": "Mga gabay sa calorie counting at AI food logging: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Mga gabay sa calorie counting at AI food logging"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Paano bilangin ang kaloriya mula sa larawan",
+      "h1": "Paano bilangin ang kaloriya mula sa larawan",
+      "description": "Paano bilangin ang kaloriya mula sa larawan: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "category": "Paano bilangin ang kaloriya mula sa larawan",
+      "readTime": "Paano bilangin ang kaloriya mula sa larawan",
+      "intro": "Paano bilangin ang kaloriya mula sa larawan",
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ],
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ]
+      ],
+      "takeaway": "Paano bilangin ang kaloriya mula sa larawan"
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Gaano katumpak ang mga AI calorie counter?",
+      "h1": "Gaano katumpak ang mga AI calorie counter?",
+      "description": "Gaano katumpak ang mga AI calorie counter?: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "category": "Gaano katumpak ang mga AI calorie counter?",
+      "readTime": "Gaano katumpak ang mga AI calorie counter?",
+      "intro": "Gaano katumpak ang mga AI calorie counter?",
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ],
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ]
+      ],
+      "takeaway": "Gaano katumpak ang mga AI calorie counter?"
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "AI food logging kumpara sa manual logging",
+      "h1": "AI food logging kumpara sa manual logging",
+      "description": "AI food logging kumpara sa manual logging: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "category": "AI food logging kumpara sa manual logging",
+      "readTime": "AI food logging kumpara sa manual logging",
+      "intro": "AI food logging kumpara sa manual logging",
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ],
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ]
+      ],
+      "takeaway": "AI food logging kumpara sa manual logging"
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Ano ang food scanner?",
+      "h1": "Ano ang food scanner?",
+      "description": "Ano ang food scanner?: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "category": "Ano ang food scanner?",
+      "readTime": "Ano ang food scanner?",
+      "intro": "Ano ang food scanner?",
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ],
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ]
+      ],
+      "takeaway": "Ano ang food scanner?"
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Paano magsimulang mag-track ng macros",
+      "h1": "Paano magsimulang mag-track ng macros",
+      "description": "Paano magsimulang mag-track ng macros: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "category": "Paano magsimulang mag-track ng macros",
+      "readTime": "Paano magsimulang mag-track ng macros",
+      "intro": "Paano magsimulang mag-track ng macros",
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ],
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ]
+      ],
+      "takeaway": "Paano magsimulang mag-track ng macros"
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Kaloriya kumpara sa macros",
+      "h1": "Kaloriya kumpara sa macros",
+      "description": "Kaloriya kumpara sa macros: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "category": "Kaloriya kumpara sa macros",
+      "readTime": "Kaloriya kumpara sa macros",
+      "intro": "Kaloriya kumpara sa macros",
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ],
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ]
+      ],
+      "takeaway": "Kaloriya kumpara sa macros"
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Paano bilangin ang kaloriya sa lutong-bahay",
+      "h1": "Paano bilangin ang kaloriya sa lutong-bahay",
+      "description": "Paano bilangin ang kaloriya sa lutong-bahay: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "category": "Paano bilangin ang kaloriya sa lutong-bahay",
+      "readTime": "Paano bilangin ang kaloriya sa lutong-bahay",
+      "intro": "Paano bilangin ang kaloriya sa lutong-bahay",
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ],
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ]
+      ],
+      "takeaway": "Paano bilangin ang kaloriya sa lutong-bahay"
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Paano tantiyahin ang laki ng porisyon",
+      "h1": "Paano tantiyahin ang laki ng porisyon",
+      "description": "Paano tantiyahin ang laki ng porisyon: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "category": "Paano tantiyahin ang laki ng porisyon",
+      "readTime": "Paano tantiyahin ang laki ng porisyon",
+      "intro": "Paano tantiyahin ang laki ng porisyon",
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ],
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ]
+      ],
+      "takeaway": "Paano tantiyahin ang laki ng porisyon"
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Ilang kaloriya ang dapat kainin sa isang araw?",
+      "h1": "Ilang kaloriya ang dapat kainin sa isang araw?",
+      "description": "Ilang kaloriya ang dapat kainin sa isang araw?: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "category": "Ilang kaloriya ang dapat kainin sa isang araw?",
+      "readTime": "Ilang kaloriya ang dapat kainin sa isang araw?",
+      "intro": "Ilang kaloriya ang dapat kainin sa isang araw?",
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ],
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ]
+      ],
+      "takeaway": "Ilang kaloriya ang dapat kainin sa isang araw?"
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Ano ang calorie deficit?",
+      "h1": "Ano ang calorie deficit?",
+      "description": "Ano ang calorie deficit?: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "category": "Ano ang calorie deficit?",
+      "readTime": "Ano ang calorie deficit?",
+      "intro": "Ano ang calorie deficit?",
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ],
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ]
+      ],
+      "takeaway": "Ano ang calorie deficit?"
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Karaniwang pagkakamali sa calorie counting",
+      "h1": "Karaniwang pagkakamali sa calorie counting",
+      "description": "Karaniwang pagkakamali sa calorie counting: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "category": "Karaniwang pagkakamali sa calorie counting",
+      "readTime": "Karaniwang pagkakamali sa calorie counting",
+      "intro": "Karaniwang pagkakamali sa calorie counting",
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ],
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ]
+      ],
+      "takeaway": "Karaniwang pagkakamali sa calorie counting"
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Paano i-log ang pagkain sa restaurant",
+      "h1": "Paano i-log ang pagkain sa restaurant",
+      "description": "Paano i-log ang pagkain sa restaurant: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "category": "Paano i-log ang pagkain sa restaurant",
+      "readTime": "Paano i-log ang pagkain sa restaurant",
+      "intro": "Paano i-log ang pagkain sa restaurant",
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ],
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ]
+      ],
+      "takeaway": "Paano i-log ang pagkain sa restaurant"
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Paano subaybayan ang protina",
+      "h1": "Paano subaybayan ang protina",
+      "description": "Paano subaybayan ang protina: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "category": "Paano subaybayan ang protina",
+      "readTime": "Paano subaybayan ang protina",
+      "intro": "Paano subaybayan ang protina",
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ],
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ]
+      ],
+      "takeaway": "Paano subaybayan ang protina"
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Ano ang talaan ng pagkain?",
+      "h1": "Ano ang talaan ng pagkain?",
+      "description": "Ano ang talaan ng pagkain?: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "category": "Ano ang talaan ng pagkain?",
+      "readTime": "Ano ang talaan ng pagkain?",
+      "intro": "Ano ang talaan ng pagkain?",
+      "sections": [
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ],
+        [
+          "Matuto pa",
+          "Nagbibigay ang Calorie Counter AI ng tinatayang datos sa nutrisyon para sa impormasyon lamang at hindi ito kapalit ng payong medikal o dietetic."
+        ],
+        [
+          "I-download",
+          "I-download ang Calorie Counter AI para sa iPhone o Android at gawing entry sa talaan ang susunod mong larawan ng pagkain."
+        ],
+        [
+          "Mga feature",
+          "Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon."
+        ]
+      ],
+      "takeaway": "Ano ang talaan ng pagkain?"
+    },
+    "/download/": {
+      "title": "I-download ang Calorie Counter AI",
+      "h1": "I-download ang Calorie Counter AI",
+      "description": "I-download ang Calorie Counter AI: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "I-download ang Calorie Counter AI"
+    },
+    "/faq/": {
+      "title": "FAQ",
+      "h1": "FAQ",
+      "description": "FAQ: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "FAQ"
+    },
+    "/pricing/": {
+      "title": "Presyo",
+      "h1": "Presyo",
+      "description": "Presyo: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Presyo"
+    },
+    "/support/": {
+      "title": "Support",
+      "h1": "Support",
+      "description": "Support: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Support"
+    },
+    "/contact/": {
+      "title": "Contact",
+      "h1": "Contact",
+      "description": "Contact: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Contact"
+    },
+    "/privacy-policy/": {
+      "title": "Privacy",
+      "h1": "Privacy",
+      "description": "Privacy: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Privacy"
+    },
+    "/terms/": {
+      "title": "Terms",
+      "h1": "Terms",
+      "description": "Terms: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Terms"
+    },
+    "/health-disclaimer/": {
+      "title": "Health disclaimer",
+      "h1": "Health disclaimer",
+      "description": "Health disclaimer: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Health disclaimer"
+    },
+    "/delete-account/": {
+      "title": "Pag-download / Privacy",
+      "h1": "Pag-download / Privacy",
+      "description": "Pag-download / Privacy: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Pag-download / Privacy"
+    },
+    "/press/": {
+      "title": "Materyales para sa press",
+      "h1": "Materyales para sa press",
+      "description": "Materyales para sa press: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Materyales para sa press"
+    },
+    "/how-many-calories-in/": {
+      "title": "Kaloriya sa pagkain",
+      "h1": "Kaloriya sa pagkain",
+      "description": "Kaloriya sa pagkain: Kunan ng larawan ang iyong pagkain at kumuha sa loob ng ilang segundo ng pagtataya para sa mga kaloriya, protina, taba, carbohydrates at laki ng porisyon.",
+      "kicker": "Kaloriya sa pagkain"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Mga pagpipilian sa cookies",
+    "text": "Gumagamit kami ng kinakailangang cookies at local storage para tandaan ang iyong wika at pagpili sa cookies. Kung papayag ka, gumagamit din kami ng analytics cookies para pagandahin ang website.",
+    "accept": "Tanggapin",
+    "decline": "Tanggihan ang analytics"
+  }
+}

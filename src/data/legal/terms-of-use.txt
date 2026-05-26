@@ -1,0 +1,107 @@
+Terms of Use for AI Calorie Counter by Photo
+
+Last Updated: April 18, 2026
+
+These Terms of Use govern your access to and use of AI Calorie Counter by Photo (the "App"), provided by Evgenii Evsiukov ("we", "us", or "our"). By downloading, accessing, or using the App, you agree to be bound by these Terms.
+
+1. About the App
+
+AI Calorie Counter by Photo is a nutrition and food diary application that helps users estimate calories and macronutrients by analyzing meal photos, text descriptions, and audio input. The App also allows users to save entries, review statistics, and manage their personal nutrition data directly on their device.
+
+2. Subscription Service
+
+The App offers an optional auto-renewable subscription called Premium.
+
+Subscription name: Premium
+
+Subscription length: 1 month
+
+Subscription renews automatically unless cancelled before the end of the current billing period
+
+Price: €4.99 per month or the equivalent price in your local currency, as shown in the App Store
+
+Premium currently includes, among other features:
+
+50 meal analyses per day instead of the Free plan limit
+
+Advanced AI model access
+
+Food recognition by audio
+
+Food recognition by text
+
+All features available in the Free plan
+
+3. Payment, Renewal, and Cancellation
+
+Payment will be charged to your Apple ID account at confirmation of purchase. The subscription renews automatically unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period.
+
+You can manage and cancel your subscription at any time in your Apple account settings after purchase. Deleting the App does not automatically cancel your subscription.
+
+4. License
+
+We grant you a limited, non-exclusive, non-transferable, revocable license to use the App for your personal, non-commercial use, subject to these Terms and all applicable laws.
+
+5. Acceptable Use
+
+You agree not to:
+
+use the App for any unlawful purpose;
+
+attempt to reverse engineer, decompile, or disassemble the App except where permitted by law;
+
+interfere with the operation or security of the App;
+
+misuse the food analysis features in a way that may overload or abuse third-party services used by the App.
+
+6. Health and Nutrition Disclaimer
+
+The App is provided for general informational and personal tracking purposes only. The nutritional estimates, health scores, calorie values, and AI-generated results may not always be accurate and should not be considered medical, dietetic, or professional health advice.
+
+You should consult a qualified healthcare professional before making significant dietary or medical decisions based on information provided by the App.
+
+7. Third-Party Services
+
+The App may use third-party services to provide certain functionality. In particular, meal recognition and food analysis may be processed through Google Gemini API or similar services. Your use of such functionality is also subject to the applicable third-party terms and privacy policies.
+
+8. Data and Privacy
+
+Your use of the App is also governed by our Privacy Policy:
+
+https://evsi.store/en/app/calorie-counter-ai/privacy
+
+9. Intellectual Property
+
+The App, including its design, text, graphics, trademarks, software, and related materials, is owned by or licensed to us and is protected by applicable intellectual property laws. You may not copy, modify, distribute, sell, or lease any part of the App except as expressly permitted by law or by us in writing.
+
+10. Disclaimer of Warranties
+
+The App is provided on an "as is" and "as available" basis, without warranties of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, accuracy, availability, or non-infringement.
+
+11. Limitation of Liability
+
+To the maximum extent permitted by applicable law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or for any loss of data, profits, goodwill, or business interruption arising out of or related to your use of the App.
+
+12. Termination
+
+We may suspend or terminate your access to the App if you violate these Terms or if required by law. You may stop using the App at any time by uninstalling it and cancelling any active subscription through your Apple account settings.
+
+13. Governing Law
+
+If you reside in the European Union, these Terms shall be governed by the laws of your country of habitual residence, to the extent required by applicable consumer protection law. In all other cases, these Terms shall be governed by and interpreted in accordance with the laws of Spain, without regard to conflict of law principles.
+
+14. Apple Standard EULA
+
+Where applicable, your use of the App is also subject to Apple's standard Licensed Application End User License Agreement:
+
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+15. Contact
+
+If you have any questions about these Terms, you can contact:
+
+Evgenii Evsiukov
+
+Torrevieja, Spain
+
+support@evsi.store

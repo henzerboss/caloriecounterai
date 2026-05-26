@@ -1,0 +1,2619 @@
+{
+  "localeName": "Bahasa Indonesia",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "Penghitung kalori AI dari foto"
+  },
+  "nav": {
+    "features": "Fitur",
+    "useCases": "Kegunaan",
+    "blog": "Panduan",
+    "faq": "FAQ",
+    "download": "Unduh",
+    "language": "Pilih bahasa",
+    "openMenu": "Buka menu",
+    "caloriesInFoods": "Kalori dalam makanan",
+    "all": "Semua",
+    "allFeatures": "Semua fitur",
+    "allUseCases": "Semua kegunaan",
+    "allLearn": "Semua panduan",
+    "openHub": "Lihat semua →",
+    "home": "Beranda"
+  },
+  "cta": {
+    "appStore": "Unduh di App Store",
+    "googlePlay": "Dapatkan di Google Play",
+    "downloadNow": "Unduh aplikasi",
+    "tryFree": "Coba gratis",
+    "learnMore": "Pelajari selengkapnya",
+    "learnMoreArrow": "Pelajari selengkapnya →",
+    "readGuide": "Baca panduan"
+  },
+  "home": {
+    "title": "Aplikasi penghitung kalori AI dari foto",
+    "description": "Ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, serta berat porsi dalam hitungan detik.",
+    "heroNote": "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android.",
+    "photoEyebrow": "Penghitung kalori dari foto",
+    "photoTitle": "Penghitung Kalori dari Foto",
+    "photoText": "Tidak perlu mencari setiap bahan secara manual. Foto makanan, periksa hasil AI, lalu simpan ke jurnal makanan.",
+    "photoChecklist": [
+      "Penghitung kalori dari foto",
+      "Pemindai barcode",
+      "Makro",
+      "Jurnal makanan"
+    ],
+    "featureCards": [
+      [
+        "camera",
+        "Penghitung kalori dari foto",
+        "Foto makanan, periksa estimasi AI, lalu simpan hasilnya ke jurnal makanan."
+      ],
+      [
+        "sparkles",
+        "Pemindai barcode",
+        "Ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+      ],
+      [
+        "shield",
+        "Makro",
+        "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+      ],
+      [
+        "barcode",
+        "Jurnal makanan",
+        "Pindai makanan kemasan, konfirmasi produk, lalu tambahkan kalori dan makro ke jurnal dalam beberapa detik."
+      ],
+      [
+        "macro",
+        "Penghitung kalori dari foto",
+        "Pantau kalori, protein, lemak, dan karbohidrat di samping target harian."
+      ],
+      [
+        "diary",
+        "Pemindai barcode",
+        "Unduh Calorie Counter AI untuk iPhone atau Android dan ubah foto makanan berikutnya menjadi catatan jurnal."
+      ]
+    ],
+    "foodPreviewTitle": "Berapa kalori dalam makanan sehari-hari?",
+    "foodPreviewText": "Lihat panduan cepat kalori dan makro untuk makanan, camilan, dan minuman umum.",
+    "foodPreviewLink": "Buka panduan lengkap kalori makanan →",
+    "goalEyebrow": "Nutrisi",
+    "counterTitle": "Aplikasi penghitung kalori sederhana untuk pelacakan harian",
+    "counterText": "Gunakan foto, barcode, favorit, dan jurnal yang rapi agar konsisten tanpa membuat hitung kalori terasa seperti pekerjaan tambahan.",
+    "goalPills": [
+      "Penurunan berat badan",
+      "Menjaga berat badan",
+      "Menaikkan massa otot",
+      "Hari yang sibuk"
+    ],
+    "magicEyebrow": "Fitur",
+    "magicTitle": "Catat makanan dalam tiga langkah cepat",
+    "magicText": "Ambil foto, tinjau estimasi, dan simpan makanan. Lebih sedikit mengetik membuat kebiasaan ini lebih mudah dipertahankan.",
+    "magicSteps": [
+      "Foto",
+      "Tinjau",
+      "Simpan"
+    ],
+    "barcodeEyebrow": "Pemindai barcode",
+    "barcodeTitle": "Pemindai barcode",
+    "barcodeText": "Pindai makanan kemasan, konfirmasi produk, lalu tambahkan kalori dan makro ke jurnal dalam beberapa detik.",
+    "barcodeLink": "Pemindai barcode →",
+    "progressEyebrow": "Makro",
+    "macroTitle": "Pantau kalori dan makro",
+    "macroText": "Lihat kalori, protein, karbohidrat, dan lemak sekilas, lalu bandingkan progres harian, mingguan, dan bulanan.",
+    "macroLink": "Makro →",
+    "useCasesEyebrow": "Kegunaan",
+    "useCasesTitle": "Nutrisi",
+    "useCasesText": "Ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Penurunan berat badan",
+        "Kalori"
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Makanan rumahan",
+        "Penghitung kalori dari foto"
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Makanan restoran",
+        "Jurnal makanan"
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Menaikkan massa otot",
+        "Protein"
+      ]
+    ],
+    "downloadTitle": "Unduh Calorie Counter AI",
+    "downloadText": "Unduh Calorie Counter AI untuk iPhone atau Android dan ubah foto makanan berikutnya menjadi catatan jurnal.",
+    "faqEyebrow": "FAQ",
+    "faqTitle": "FAQ",
+    "faq": [
+      [
+        "Apakah Calorie Counter AI gratis?",
+        "Anda bisa mulai dengan analisis makanan AI gratis setiap hari. Fitur premium berguna jika Anda membutuhkan batas lebih tinggi dan alat tambahan."
+      ],
+      [
+        "Bisakah saya menghitung kalori dari foto?",
+        "Ya. Ambil foto makanan, lalu dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+      ],
+      [
+        "Seberapa akurat estimasi AI?",
+        "Calorie Counter AI memberikan perkiraan gizi untuk tujuan informasi dan tidak menggantikan saran medis atau dietetik."
+      ],
+      [
+        "Apakah aplikasi ini melacak makro?",
+        "Ya. Anda bisa memantau kalori, protein, lemak, dan karbohidrat di samping target harian."
+      ],
+      [
+        "Apakah tersedia untuk iPhone dan Android?",
+        "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "Calorie Counter AI — Penghitung kalori AI dari foto",
+    "homeOgTitle": "Calorie Counter AI — Penghitung kalori AI dari foto",
+    "homeDescription": "Ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+  },
+  "footer": {
+    "disclaimer": "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan.",
+    "copyright": "© 2026 Calorie Counter AI"
+  },
+  "foodIndex": {
+    "findTitle": "Cari kalori makanan",
+    "findText": "Cari makanan umum dan lihat perkiraan kalori, protein, lemak, dan karbohidrat per porsi.",
+    "categoryIntro": "Jelajahi makanan berdasarkan kategori dan gunakan nilainya sebagai titik awal untuk jurnal makanan."
+  },
+  "foodPage": {
+    "eyebrow": "Kalori dalam makanan",
+    "trackInApp": "Unduh",
+    "browseFoods": "Kalori dalam makanan →",
+    "typicalEstimate": "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan.",
+    "caloriesMacros": "Kalori & Makro",
+    "whenFits": "Kegunaan",
+    "whatToWatch": "Pelajari selengkapnya",
+    "howToLog": "Jurnal makanan",
+    "helpfulContext": "Panduan",
+    "faq": "FAQ",
+    "weightLossQuestion": "Apakah cocok untuk menurunkan berat badan?",
+    "variabilityQuestion": "Apa yang paling memengaruhi kalori?",
+    "logFasterTitle": "Penghitung kalori dari foto",
+    "logFasterText": "Tidak perlu mencari setiap bahan secara manual. Foto makanan, periksa hasil AI, lalu simpan ke jurnal makanan.",
+    "photoTrackingLink": "Penghitung kalori dari foto →",
+    "macros": {
+      "protein": "Protein",
+      "fat": "Lemak",
+      "carbs": "Karbohidrat"
+    },
+    "titleTemplate": "Berapa kalori dalam {namePrep}?",
+    "h1Template": "Berapa kalori dalam {namePrep}?",
+    "descriptionTemplate": "{name}: kalori, protein, lemak, dan karbohidrat untuk porsi “{serving}”, plus tips praktis untuk mencatatnya.",
+    "heroIntroTemplate": "Sekitar {calories} {kcal} per porsi: {servingLower}. Gunakan sebagai titik awal dan sesuaikan menurut merek, resep, cara memasak, serta ukuran porsi.",
+    "macroParagraphTemplate": "{name}: sekitar {calories} {kcal} per porsi “{servingLower}”. Porsi ini mengandung sekitar {protein} {gram} protein, {fat} {gram} lemak, dan {carbs} {gram} karbohidrat{fiberText}.",
+    "per100Template": "Sebagai perbandingan per 100 {gram}: sekitar {calories} {kcal}, {protein} {gram} protein, {fat} {gram} lemak, dan {carbs} {gram} karbohidrat.",
+    "calorieLevelTemplate": "Gunakan porsi sebagai panduan: sekitar {calories} {kcal} untuk “{servingLower}”."
+  },
+  "foodCategories": {
+    "Fruit": "Buah",
+    "Protein foods": "Makanan sumber protein",
+    "Fruits and fats": "Buah dan lemak",
+    "Grains and starches": "Biji-bijian dan pati",
+    "Nuts and spreads": "Kacang dan olesan",
+    "Breakfast foods": "Makanan sarapan",
+    "Dairy": "Produk susu",
+    "Restaurant meals": "Makanan restoran",
+    "Fast food": "Makanan cepat saji",
+    "Legumes and plant protein": "Kacang-kacangan dan protein nabati",
+    "Desserts": "Makanan penutup",
+    "Snacks": "Camilan",
+    "Drinks": "Minuman",
+    "Vegetables": "Sayuran",
+    "Sauces and condiments": "Saus dan bumbu",
+    "Mixed dishes": "Hidangan campur"
+  },
+  "foods": {
+    "banana": {
+      "name": "Pisang",
+      "namePrep": "pisang",
+      "serving": "1 porsi pisang"
+    },
+    "apple": {
+      "name": "Apel",
+      "namePrep": "apel",
+      "serving": "1 porsi apel"
+    },
+    "egg": {
+      "name": "Telur",
+      "namePrep": "telur",
+      "serving": "1 porsi telur"
+    },
+    "avocado": {
+      "name": "Alpukat",
+      "namePrep": "alpukat",
+      "serving": "1 porsi alpukat"
+    },
+    "chicken-breast": {
+      "name": "Dada ayam",
+      "namePrep": "dada ayam",
+      "serving": "1 porsi dada ayam"
+    },
+    "salmon": {
+      "name": "Salmon",
+      "namePrep": "salmon",
+      "serving": "1 porsi salmon"
+    },
+    "white-rice": {
+      "name": "Nasi putih",
+      "namePrep": "nasi putih",
+      "serving": "1 porsi nasi putih"
+    },
+    "brown-rice": {
+      "name": "Nasi merah",
+      "namePrep": "nasi merah",
+      "serving": "1 porsi nasi merah"
+    },
+    "pasta": {
+      "name": "Pasta",
+      "namePrep": "pasta",
+      "serving": "1 porsi pasta"
+    },
+    "potato": {
+      "name": "Kentang",
+      "namePrep": "kentang",
+      "serving": "1 porsi kentang"
+    },
+    "sweet-potato": {
+      "name": "Ubi jalar",
+      "namePrep": "ubi jalar",
+      "serving": "1 porsi ubi jalar"
+    },
+    "bread": {
+      "name": "Roti",
+      "namePrep": "roti",
+      "serving": "1 porsi roti"
+    },
+    "peanut-butter": {
+      "name": "Selai kacang",
+      "namePrep": "selai kacang",
+      "serving": "1 porsi selai kacang"
+    },
+    "oatmeal": {
+      "name": "Oatmeal",
+      "namePrep": "oatmeal",
+      "serving": "1 porsi oatmeal"
+    },
+    "greek-yogurt": {
+      "name": "Yogurt Yunani",
+      "namePrep": "yogurt yunani",
+      "serving": "1 porsi yogurt yunani"
+    },
+    "yogurt": {
+      "name": "Yogurt",
+      "namePrep": "yogurt",
+      "serving": "1 porsi yogurt"
+    },
+    "milk": {
+      "name": "Susu",
+      "namePrep": "susu",
+      "serving": "1 porsi susu"
+    },
+    "cheddar-cheese": {
+      "name": "Keju cheddar",
+      "namePrep": "keju cheddar",
+      "serving": "1 porsi keju cheddar"
+    },
+    "pizza": {
+      "name": "Pizza",
+      "namePrep": "pizza",
+      "serving": "1 porsi pizza"
+    },
+    "burger": {
+      "name": "Burger",
+      "namePrep": "burger",
+      "serving": "1 porsi burger"
+    },
+    "french-fries": {
+      "name": "Kentang goreng",
+      "namePrep": "kentang goreng",
+      "serving": "1 porsi kentang goreng"
+    },
+    "sushi-roll": {
+      "name": "Sushi roll",
+      "namePrep": "sushi roll",
+      "serving": "1 porsi sushi roll"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "taco",
+      "serving": "1 porsi taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "burrito",
+      "serving": "1 porsi burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Nugget ayam",
+      "namePrep": "nugget ayam",
+      "serving": "1 porsi nugget ayam"
+    },
+    "hot-dog": {
+      "name": "Hot dog",
+      "namePrep": "hot dog",
+      "serving": "1 porsi hot dog"
+    },
+    "steak": {
+      "name": "Steak",
+      "namePrep": "steak",
+      "serving": "1 porsi steak"
+    },
+    "bacon": {
+      "name": "Bacon",
+      "namePrep": "bacon",
+      "serving": "1 porsi bacon"
+    },
+    "tuna": {
+      "name": "Tuna",
+      "namePrep": "tuna",
+      "serving": "1 porsi tuna"
+    },
+    "shrimp": {
+      "name": "Udang",
+      "namePrep": "udang",
+      "serving": "1 porsi udang"
+    },
+    "tofu": {
+      "name": "Tahu",
+      "namePrep": "tahu",
+      "serving": "1 porsi tahu"
+    },
+    "lentils": {
+      "name": "Lentil",
+      "namePrep": "lentil",
+      "serving": "1 porsi lentil"
+    },
+    "black-beans": {
+      "name": "Kacang hitam",
+      "namePrep": "kacang hitam",
+      "serving": "1 porsi kacang hitam"
+    },
+    "chickpeas": {
+      "name": "Kacang arab",
+      "namePrep": "kacang arab",
+      "serving": "1 porsi kacang arab"
+    },
+    "hummus": {
+      "name": "Hummus",
+      "namePrep": "hummus",
+      "serving": "1 porsi hummus"
+    },
+    "quinoa": {
+      "name": "Quinoa",
+      "namePrep": "quinoa",
+      "serving": "1 porsi quinoa"
+    },
+    "tortilla": {
+      "name": "Tortilla",
+      "namePrep": "tortilla",
+      "serving": "1 porsi tortilla"
+    },
+    "bagel": {
+      "name": "Bagel",
+      "namePrep": "bagel",
+      "serving": "1 porsi bagel"
+    },
+    "croissant": {
+      "name": "Croissant",
+      "namePrep": "croissant",
+      "serving": "1 porsi croissant"
+    },
+    "pancake": {
+      "name": "Pancake",
+      "namePrep": "pancake",
+      "serving": "1 porsi pancake"
+    },
+    "waffle": {
+      "name": "Waffle",
+      "namePrep": "waffle",
+      "serving": "1 porsi waffle"
+    },
+    "cereal": {
+      "name": "Sereal",
+      "namePrep": "sereal",
+      "serving": "1 porsi sereal"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granola",
+      "serving": "1 porsi granola"
+    },
+    "almonds": {
+      "name": "Almond",
+      "namePrep": "almond",
+      "serving": "1 porsi almond"
+    },
+    "walnuts": {
+      "name": "Walnut",
+      "namePrep": "walnut",
+      "serving": "1 porsi walnut"
+    },
+    "cashews": {
+      "name": "Kacang mete",
+      "namePrep": "kacang mete",
+      "serving": "1 porsi kacang mete"
+    },
+    "chocolate": {
+      "name": "Cokelat",
+      "namePrep": "cokelat",
+      "serving": "1 porsi cokelat"
+    },
+    "ice-cream": {
+      "name": "Es krim",
+      "namePrep": "es krim",
+      "serving": "1 porsi es krim"
+    },
+    "cookie": {
+      "name": "Kukis cokelat chip",
+      "namePrep": "kukis cokelat chip",
+      "serving": "1 porsi kukis cokelat chip"
+    },
+    "donut": {
+      "name": "Donat glasir",
+      "namePrep": "donat glasir",
+      "serving": "1 porsi donat glasir"
+    },
+    "muffin": {
+      "name": "Muffin blueberry",
+      "namePrep": "muffin blueberry",
+      "serving": "1 porsi muffin blueberry"
+    },
+    "cake": {
+      "name": "Kue",
+      "namePrep": "kue",
+      "serving": "1 porsi kue"
+    },
+    "brownie": {
+      "name": "Brownies",
+      "namePrep": "brownies",
+      "serving": "1 porsi brownies"
+    },
+    "popcorn": {
+      "name": "Popcorn",
+      "namePrep": "popcorn",
+      "serving": "1 porsi popcorn"
+    },
+    "potato-chips": {
+      "name": "Keripik kentang",
+      "namePrep": "keripik kentang",
+      "serving": "1 porsi keripik kentang"
+    },
+    "pretzels": {
+      "name": "Pretzel",
+      "namePrep": "pretzel",
+      "serving": "1 porsi pretzel"
+    },
+    "smoothie": {
+      "name": "Smoothie buah",
+      "namePrep": "smoothie buah",
+      "serving": "1 porsi smoothie buah"
+    },
+    "orange-juice": {
+      "name": "Jus jeruk",
+      "namePrep": "jus jeruk",
+      "serving": "1 porsi jus jeruk"
+    },
+    "soda": {
+      "name": "Soda",
+      "namePrep": "soda",
+      "serving": "1 porsi soda"
+    },
+    "latte": {
+      "name": "Latte",
+      "namePrep": "latte",
+      "serving": "1 porsi latte"
+    },
+    "protein-shake": {
+      "name": "Protein shake",
+      "namePrep": "protein shake",
+      "serving": "1 porsi protein shake"
+    },
+    "spaghetti-bolognese": {
+      "name": "Spaghetti bolognese",
+      "namePrep": "spaghetti bolognese",
+      "serving": "1 porsi spaghetti bolognese"
+    },
+    "ramen": {
+      "name": "Ramen",
+      "namePrep": "ramen",
+      "serving": "1 porsi ramen"
+    },
+    "pho": {
+      "name": "Pho",
+      "namePrep": "pho",
+      "serving": "1 porsi pho"
+    },
+    "chicken-soup": {
+      "name": "Sup ayam",
+      "namePrep": "sup ayam",
+      "serving": "1 porsi sup ayam"
+    },
+    "caesar-salad": {
+      "name": "Salad Caesar",
+      "namePrep": "salad caesar",
+      "serving": "1 porsi salad caesar"
+    },
+    "green-salad": {
+      "name": "Salad hijau",
+      "namePrep": "salad hijau",
+      "serving": "1 porsi salad hijau"
+    },
+    "broccoli": {
+      "name": "Brokoli",
+      "namePrep": "brokoli",
+      "serving": "1 porsi brokoli"
+    },
+    "spinach": {
+      "name": "Bayam",
+      "namePrep": "bayam",
+      "serving": "1 porsi bayam"
+    },
+    "carrots": {
+      "name": "Wortel",
+      "namePrep": "wortel",
+      "serving": "1 porsi wortel"
+    },
+    "corn": {
+      "name": "Jagung",
+      "namePrep": "jagung",
+      "serving": "1 porsi jagung"
+    },
+    "tomato": {
+      "name": "Tomat",
+      "namePrep": "tomat",
+      "serving": "1 porsi tomat"
+    },
+    "cucumber": {
+      "name": "Timun",
+      "namePrep": "timun",
+      "serving": "1 porsi timun"
+    },
+    "cheesecake": {
+      "name": "Cheesecake",
+      "namePrep": "cheesecake",
+      "serving": "1 porsi cheesecake"
+    },
+    "lasagna": {
+      "name": "Lasagna",
+      "namePrep": "lasagna",
+      "serving": "1 porsi lasagna"
+    },
+    "grilled-cheese": {
+      "name": "Roti lapis keju panggang",
+      "namePrep": "roti lapis keju panggang",
+      "serving": "1 porsi roti lapis keju panggang"
+    },
+    "peanut-butter-jelly": {
+      "name": "Roti lapis selai kacang dan jeli",
+      "namePrep": "roti lapis selai kacang dan jeli",
+      "serving": "1 porsi roti lapis selai kacang dan jeli"
+    },
+    "omelette": {
+      "name": "Omelet",
+      "namePrep": "omelet",
+      "serving": "1 porsi omelet"
+    },
+    "fried-egg": {
+      "name": "Telur goreng",
+      "namePrep": "telur goreng",
+      "serving": "1 porsi telur goreng"
+    },
+    "boiled-egg": {
+      "name": "Telur rebus",
+      "namePrep": "telur rebus",
+      "serving": "1 porsi telur rebus"
+    },
+    "toast": {
+      "name": "Roti panggang",
+      "namePrep": "roti panggang",
+      "serving": "1 porsi roti panggang"
+    },
+    "avocado-toast": {
+      "name": "Roti panggang alpukat",
+      "namePrep": "roti panggang alpukat",
+      "serving": "1 porsi roti panggang alpukat"
+    },
+    "chicken-salad": {
+      "name": "Salad ayam",
+      "namePrep": "salad ayam",
+      "serving": "1 porsi salad ayam"
+    },
+    "tuna-salad": {
+      "name": "Salad tuna",
+      "namePrep": "salad tuna",
+      "serving": "1 porsi salad tuna"
+    },
+    "egg-salad": {
+      "name": "Salad telur",
+      "namePrep": "salad telur",
+      "serving": "1 porsi salad telur"
+    },
+    "cottage-cheese": {
+      "name": "Cottage cheese",
+      "namePrep": "cottage cheese",
+      "serving": "1 porsi cottage cheese"
+    },
+    "cream-cheese": {
+      "name": "Cream cheese",
+      "namePrep": "cream cheese",
+      "serving": "1 porsi cream cheese"
+    },
+    "butter": {
+      "name": "Mentega",
+      "namePrep": "mentega",
+      "serving": "1 porsi mentega"
+    },
+    "olive-oil": {
+      "name": "Minyak zaitun",
+      "namePrep": "minyak zaitun",
+      "serving": "1 porsi minyak zaitun"
+    },
+    "mayonnaise": {
+      "name": "Mayones",
+      "namePrep": "mayones",
+      "serving": "1 porsi mayones"
+    },
+    "ketchup": {
+      "name": "Saus tomat",
+      "namePrep": "saus tomat",
+      "serving": "1 porsi saus tomat"
+    },
+    "honey": {
+      "name": "Madu",
+      "namePrep": "madu",
+      "serving": "1 porsi madu"
+    },
+    "jam": {
+      "name": "Selai",
+      "namePrep": "selai",
+      "serving": "1 porsi selai"
+    },
+    "protein-bar": {
+      "name": "Protein bar",
+      "namePrep": "protein bar",
+      "serving": "1 porsi protein bar"
+    },
+    "energy-drink": {
+      "name": "Minuman energi",
+      "namePrep": "minuman energi",
+      "serving": "1 porsi minuman energi"
+    },
+    "matcha-latte": {
+      "name": "Matcha latte",
+      "namePrep": "matcha latte",
+      "serving": "1 porsi matcha latte"
+    },
+    "trail-mix": {
+      "name": "Trail mix",
+      "namePrep": "trail mix",
+      "serving": "1 porsi trail mix"
+    },
+    "blueberries": {
+      "name": "Blueberry",
+      "namePrep": "blueberry",
+      "serving": "1 porsi blueberry"
+    },
+    "strawberries": {
+      "name": "Stroberi",
+      "namePrep": "stroberi",
+      "serving": "1 porsi stroberi"
+    },
+    "grapes": {
+      "name": "Anggur",
+      "namePrep": "anggur",
+      "serving": "1 porsi anggur"
+    },
+    "orange": {
+      "name": "Jeruk",
+      "namePrep": "jeruk",
+      "serving": "1 porsi jeruk"
+    },
+    "pear": {
+      "name": "Pir",
+      "namePrep": "pir",
+      "serving": "1 porsi pir"
+    },
+    "peach": {
+      "name": "Persik",
+      "namePrep": "persik",
+      "serving": "1 porsi persik"
+    },
+    "watermelon": {
+      "name": "Semangka",
+      "namePrep": "semangka",
+      "serving": "1 porsi semangka"
+    },
+    "pineapple": {
+      "name": "Nanas",
+      "namePrep": "nanas",
+      "serving": "1 porsi nanas"
+    },
+    "mango": {
+      "name": "Mangga",
+      "namePrep": "mangga",
+      "serving": "1 porsi mangga"
+    },
+    "kiwi": {
+      "name": "Kiwi",
+      "namePrep": "kiwi",
+      "serving": "1 porsi kiwi"
+    },
+    "raspberries": {
+      "name": "Raspberry",
+      "namePrep": "raspberry",
+      "serving": "1 porsi raspberry"
+    },
+    "blackberries": {
+      "name": "Blackberry",
+      "namePrep": "blackberry",
+      "serving": "1 porsi blackberry"
+    },
+    "cherries": {
+      "name": "Ceri",
+      "namePrep": "ceri",
+      "serving": "1 porsi ceri"
+    },
+    "grapefruit": {
+      "name": "Grapefruit",
+      "namePrep": "grapefruit",
+      "serving": "1 porsi grapefruit"
+    },
+    "lettuce": {
+      "name": "Selada",
+      "namePrep": "selada",
+      "serving": "1 porsi selada"
+    },
+    "cabbage": {
+      "name": "Kubis",
+      "namePrep": "kubis",
+      "serving": "1 porsi kubis"
+    },
+    "cauliflower": {
+      "name": "Kembang kol",
+      "namePrep": "kembang kol",
+      "serving": "1 porsi kembang kol"
+    },
+    "asparagus": {
+      "name": "Asparagus",
+      "namePrep": "asparagus",
+      "serving": "1 porsi asparagus"
+    },
+    "zucchini": {
+      "name": "Zukini",
+      "namePrep": "zukini",
+      "serving": "1 porsi zukini"
+    },
+    "eggplant": {
+      "name": "Terong",
+      "namePrep": "terong",
+      "serving": "1 porsi terong"
+    },
+    "bell-pepper": {
+      "name": "Paprika",
+      "namePrep": "paprika",
+      "serving": "1 porsi paprika"
+    },
+    "onion": {
+      "name": "Bawang bombai",
+      "namePrep": "bawang bombai",
+      "serving": "1 porsi bawang bombai"
+    },
+    "mushrooms": {
+      "name": "Jamur",
+      "namePrep": "jamur",
+      "serving": "1 porsi jamur"
+    },
+    "green-beans": {
+      "name": "Buncis",
+      "namePrep": "buncis",
+      "serving": "1 porsi buncis"
+    },
+    "kale": {
+      "name": "Kale",
+      "namePrep": "kale",
+      "serving": "1 porsi kale"
+    },
+    "beets": {
+      "name": "Bit",
+      "namePrep": "bit",
+      "serving": "1 porsi bit"
+    },
+    "turkey-breast": {
+      "name": "Dada kalkun",
+      "namePrep": "dada kalkun",
+      "serving": "1 porsi dada kalkun"
+    },
+    "chicken-thigh": {
+      "name": "Paha ayam",
+      "namePrep": "paha ayam",
+      "serving": "1 porsi paha ayam"
+    },
+    "pork-chop": {
+      "name": "Pork chop",
+      "namePrep": "pork chop",
+      "serving": "1 porsi pork chop"
+    },
+    "ground-beef": {
+      "name": "Daging sapi cincang",
+      "namePrep": "daging sapi cincang",
+      "serving": "1 porsi daging sapi cincang"
+    },
+    "meatballs": {
+      "name": "Bakso",
+      "namePrep": "bakso",
+      "serving": "1 porsi bakso"
+    },
+    "sausage": {
+      "name": "Sosis",
+      "namePrep": "sosis",
+      "serving": "1 porsi sosis"
+    },
+    "cod": {
+      "name": "Ikan kod",
+      "namePrep": "ikan kod",
+      "serving": "1 porsi ikan kod"
+    },
+    "tilapia": {
+      "name": "Tilapia",
+      "namePrep": "tilapia",
+      "serving": "1 porsi tilapia"
+    },
+    "sardines": {
+      "name": "Sarden",
+      "namePrep": "sarden",
+      "serving": "1 porsi sarden"
+    },
+    "crab": {
+      "name": "Kepiting",
+      "namePrep": "kepiting",
+      "serving": "1 porsi kepiting"
+    },
+    "scallops": {
+      "name": "Kerang scallop",
+      "namePrep": "kerang scallop",
+      "serving": "1 porsi kerang scallop"
+    },
+    "smoked-salmon": {
+      "name": "Salmon asap",
+      "namePrep": "salmon asap",
+      "serving": "1 porsi salmon asap"
+    },
+    "skim-milk": {
+      "name": "Susu skim",
+      "namePrep": "susu skim",
+      "serving": "1 porsi susu skim"
+    },
+    "soy-milk": {
+      "name": "Susu kedelai",
+      "namePrep": "susu kedelai",
+      "serving": "1 porsi susu kedelai"
+    },
+    "almond-milk": {
+      "name": "Susu almond",
+      "namePrep": "susu almond",
+      "serving": "1 porsi susu almond"
+    },
+    "oat-milk": {
+      "name": "Susu oat",
+      "namePrep": "susu oat",
+      "serving": "1 porsi susu oat"
+    },
+    "kefir": {
+      "name": "Kefir",
+      "namePrep": "kefir",
+      "serving": "1 porsi kefir"
+    },
+    "sour-cream": {
+      "name": "Sour cream",
+      "namePrep": "sour cream",
+      "serving": "1 porsi sour cream"
+    },
+    "feta-cheese": {
+      "name": "Keju feta",
+      "namePrep": "keju feta",
+      "serving": "1 porsi keju feta"
+    },
+    "mozzarella": {
+      "name": "Mozzarella",
+      "namePrep": "mozzarella",
+      "serving": "1 porsi mozzarella"
+    },
+    "parmesan": {
+      "name": "Parmesan",
+      "namePrep": "parmesan",
+      "serving": "1 porsi parmesan"
+    },
+    "couscous": {
+      "name": "Couscous",
+      "namePrep": "couscous",
+      "serving": "1 porsi couscous"
+    },
+    "barley": {
+      "name": "Barley",
+      "namePrep": "barley",
+      "serving": "1 porsi barley"
+    },
+    "buckwheat": {
+      "name": "Soba",
+      "namePrep": "soba",
+      "serving": "1 porsi soba"
+    },
+    "bulgur": {
+      "name": "Bulgur",
+      "namePrep": "bulgur",
+      "serving": "1 porsi bulgur"
+    },
+    "naan": {
+      "name": "Naan",
+      "namePrep": "naan",
+      "serving": "1 porsi naan"
+    },
+    "pita-bread": {
+      "name": "Roti pita",
+      "namePrep": "roti pita",
+      "serving": "1 porsi roti pita"
+    },
+    "english-muffin": {
+      "name": "English muffin",
+      "namePrep": "english muffin",
+      "serving": "1 porsi english muffin"
+    },
+    "rice-cake": {
+      "name": "Kue beras",
+      "namePrep": "kue beras",
+      "serving": "1 porsi kue beras"
+    },
+    "crackers": {
+      "name": "Cracker",
+      "namePrep": "cracker",
+      "serving": "1 porsi cracker"
+    },
+    "mashed-potatoes": {
+      "name": "Kentang tumbuk",
+      "namePrep": "kentang tumbuk",
+      "serving": "1 porsi kentang tumbuk"
+    },
+    "scrambled-eggs": {
+      "name": "Telur orak-arik",
+      "namePrep": "telur orak-arik",
+      "serving": "1 porsi telur orak-arik"
+    },
+    "french-toast": {
+      "name": "French toast",
+      "namePrep": "french toast",
+      "serving": "1 porsi french toast"
+    },
+    "breakfast-burrito": {
+      "name": "Burrito sarapan",
+      "namePrep": "burrito sarapan",
+      "serving": "1 porsi burrito sarapan"
+    },
+    "hash-browns": {
+      "name": "Hash brown",
+      "namePrep": "hash brown",
+      "serving": "1 porsi hash brown"
+    },
+    "chia-pudding": {
+      "name": "Puding chia",
+      "namePrep": "puding chia",
+      "serving": "1 porsi puding chia"
+    },
+    "overnight-oats": {
+      "name": "Overnight oats",
+      "namePrep": "overnight oats",
+      "serving": "1 porsi overnight oats"
+    },
+    "breakfast-sandwich": {
+      "name": "Roti lapis sarapan",
+      "namePrep": "roti lapis sarapan",
+      "serving": "1 porsi roti lapis sarapan"
+    },
+    "edamame": {
+      "name": "Edamame",
+      "namePrep": "edamame",
+      "serving": "1 porsi edamame"
+    },
+    "kidney-beans": {
+      "name": "Kacang merah",
+      "namePrep": "kacang merah",
+      "serving": "1 porsi kacang merah"
+    },
+    "pinto-beans": {
+      "name": "Kacang pinto",
+      "namePrep": "kacang pinto",
+      "serving": "1 porsi kacang pinto"
+    },
+    "split-peas": {
+      "name": "Kacang polong belah",
+      "namePrep": "kacang polong belah",
+      "serving": "1 porsi kacang polong belah"
+    },
+    "baked-beans": {
+      "name": "Baked beans",
+      "namePrep": "baked beans",
+      "serving": "1 porsi baked beans"
+    },
+    "fried-rice": {
+      "name": "Nasi goreng",
+      "namePrep": "nasi goreng",
+      "serving": "1 porsi nasi goreng"
+    },
+    "pad-thai": {
+      "name": "Pad Thai",
+      "namePrep": "pad thai",
+      "serving": "1 porsi pad thai"
+    },
+    "chicken-curry": {
+      "name": "Kari ayam",
+      "namePrep": "kari ayam",
+      "serving": "1 porsi kari ayam"
+    },
+    "chicken-tikka-masala": {
+      "name": "Chicken tikka masala",
+      "namePrep": "chicken tikka masala",
+      "serving": "1 porsi chicken tikka masala"
+    },
+    "beef-chili": {
+      "name": "Chili daging sapi",
+      "namePrep": "chili daging sapi",
+      "serving": "1 porsi chili daging sapi"
+    },
+    "falafel": {
+      "name": "Falafel",
+      "namePrep": "falafel",
+      "serving": "1 porsi falafel"
+    },
+    "dumplings": {
+      "name": "Dumpling",
+      "namePrep": "dumpling",
+      "serving": "1 porsi dumpling"
+    },
+    "spring-rolls": {
+      "name": "Lumpia",
+      "namePrep": "lumpia",
+      "serving": "1 porsi lumpia"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "quesadilla",
+      "serving": "1 porsi quesadilla"
+    },
+    "nachos": {
+      "name": "Nachos",
+      "namePrep": "nachos",
+      "serving": "1 porsi nachos"
+    },
+    "mac-and-cheese": {
+      "name": "Mac and cheese",
+      "namePrep": "mac and cheese",
+      "serving": "1 porsi mac and cheese"
+    },
+    "chicken-wings": {
+      "name": "Sayap ayam",
+      "namePrep": "sayap ayam",
+      "serving": "1 porsi sayap ayam"
+    },
+    "fish-and-chips": {
+      "name": "Fish and chips",
+      "namePrep": "fish and chips",
+      "serving": "1 porsi fish and chips"
+    },
+    "risotto": {
+      "name": "Risotto",
+      "namePrep": "risotto",
+      "serving": "1 porsi risotto"
+    },
+    "tortilla-chips": {
+      "name": "Keripik tortilla",
+      "namePrep": "keripik tortilla",
+      "serving": "1 porsi keripik tortilla"
+    },
+    "granola-bar": {
+      "name": "Granola bar",
+      "namePrep": "granola bar",
+      "serving": "1 porsi granola bar"
+    },
+    "chocolate-bar": {
+      "name": "Cokelat batangan",
+      "namePrep": "cokelat batangan",
+      "serving": "1 porsi cokelat batangan"
+    },
+    "candy": {
+      "name": "Permen",
+      "namePrep": "permen",
+      "serving": "1 porsi permen"
+    },
+    "cinnamon-roll": {
+      "name": "Cinnamon roll",
+      "namePrep": "cinnamon roll",
+      "serving": "1 porsi cinnamon roll"
+    },
+    "marshmallows": {
+      "name": "Marshmallow",
+      "namePrep": "marshmallow",
+      "serving": "1 porsi marshmallow"
+    },
+    "fruit-snacks": {
+      "name": "Camilan buah",
+      "namePrep": "camilan buah",
+      "serving": "1 porsi camilan buah"
+    },
+    "black-coffee": {
+      "name": "Kopi hitam",
+      "namePrep": "kopi hitam",
+      "serving": "1 porsi kopi hitam"
+    },
+    "cappuccino": {
+      "name": "Cappuccino",
+      "namePrep": "cappuccino",
+      "serving": "1 porsi cappuccino"
+    },
+    "milk-tea": {
+      "name": "Teh susu",
+      "namePrep": "teh susu",
+      "serving": "1 porsi teh susu"
+    },
+    "bubble-tea": {
+      "name": "Bubble tea",
+      "namePrep": "bubble tea",
+      "serving": "1 porsi bubble tea"
+    },
+    "lemonade": {
+      "name": "Lemonade",
+      "namePrep": "lemonade",
+      "serving": "1 porsi lemonade"
+    },
+    "iced-tea": {
+      "name": "Es teh",
+      "namePrep": "es teh",
+      "serving": "1 porsi es teh"
+    },
+    "apple-juice": {
+      "name": "Jus apel",
+      "namePrep": "jus apel",
+      "serving": "1 porsi jus apel"
+    },
+    "coconut-water": {
+      "name": "Air kelapa",
+      "namePrep": "air kelapa",
+      "serving": "1 porsi air kelapa"
+    },
+    "sports-drink": {
+      "name": "Minuman olahraga",
+      "namePrep": "minuman olahraga",
+      "serving": "1 porsi minuman olahraga"
+    },
+    "ranch-dressing": {
+      "name": "Dressing ranch",
+      "namePrep": "dressing ranch",
+      "serving": "1 porsi dressing ranch"
+    },
+    "bbq-sauce": {
+      "name": "Saus BBQ",
+      "namePrep": "saus bbq",
+      "serving": "1 porsi saus bbq"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "salsa",
+      "serving": "1 porsi salsa"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "guacamole",
+      "serving": "1 porsi guacamole"
+    }
+  },
+  "utility": {
+    "pricing": "Harga",
+    "support": "Dukungan",
+    "privacy": "Privasi",
+    "terms": "Ketentuan",
+    "press": "Pers",
+    "deleteExtra": "Untuk meminta penghapusan akun atau data, tulis dari email yang terhubung dengan akun dan gunakan “Delete account” sebagai subjek."
+  },
+  "store": {
+    "appStoreSmall": "Unduh di",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Dapatkan di",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Fitur",
+    "useCase": "Kegunaan",
+    "openPage": "Pelajari selengkapnya →",
+    "openArrow": "Buka →",
+    "practicalWorkflow": "Alur praktis",
+    "workflowTitle": "Cara penggunaan harian",
+    "goodToKnow": "Perlu diketahui",
+    "defaultNote": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+    "relatedPages": "Halaman terkait",
+    "quickTakeaway": "Ringkasan cepat",
+    "defaultTakeaway": "Foto, peninjauan porsi, dan koreksi manual membuat jurnal makanan lebih mudah dipertahankan.",
+    "information": "Informasi",
+    "bestFor": "Cocok untuk"
+  },
+  "internalCta": {
+    "title": "Ubah makanan berikutnya menjadi catatan gizi",
+    "text": "Unduh Calorie Counter AI dan coba pelacakan kalori dari foto yang cepat.",
+    "button": "Unduh aplikasi"
+  },
+  "download": {
+    "availableTitle": "Tersedia untuk iPhone dan Android",
+    "availableText": "Mulai dengan foto, barcode, atau catatan jurnal sederhana. Lacak kalori dan makro dengan cepat sejak hari pertama."
+  },
+  "faq": {
+    "items": [
+      [
+        "Apakah Calorie Counter AI gratis?",
+        "Anda bisa mulai dengan analisis makanan AI gratis setiap hari. Fitur premium berguna jika Anda membutuhkan batas lebih tinggi dan alat tambahan."
+      ],
+      [
+        "Bisakah saya menghitung kalori dari foto?",
+        "Ya. Ambil foto makanan, lalu dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+      ],
+      [
+        "Apakah ada pemindai barcode?",
+        "Ya. Pindai makanan kemasan, konfirmasi produk, lalu tambahkan kalori dan makro ke jurnal dalam beberapa detik."
+      ],
+      [
+        "Apakah aplikasi ini melacak makro?",
+        "Ya. Anda bisa memantau kalori, protein, lemak, dan karbohidrat di samping target harian."
+      ],
+      [
+        "Apakah cocok untuk makanan rumahan?",
+        "Ya. Foto makanan, periksa estimasi AI, lalu sesuaikan porsi dan simpan ke jurnal makanan."
+      ],
+      [
+        "Apakah ini saran medis?",
+        "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Anda bisa mulai dengan analisis makanan AI gratis setiap hari. Untuk batas lebih tinggi, alat lanjutan, dan fitur tambahan, mungkin tersedia opsi premium.",
+      "Harga, masa uji coba, dan langganan dapat berbeda menurut negara dan platform. Harga terbaru ditampilkan di App Store atau Google Play sebelum pembelian."
+    ],
+    "support": [
+      "Butuh bantuan? Saat menghubungi dukungan, sertakan perangkat, platform, versi aplikasi, dan ringkasan singkat masalah.",
+      "Pembayaran, pengembalian dana, dan pengelolaan langganan biasanya dilakukan melalui pengaturan App Store atau Google Play karena pembelian diproses oleh toko tersebut."
+    ],
+    "contact": [
+      "Email dukungan: support@caloriecounterai.app",
+      "Untuk kerja sama, permintaan media, atau masukan produk, subjek yang jelas membantu kami merespons lebih cepat."
+    ],
+    "privacy": [
+      "Calorie Counter AI dibuat untuk membantu mencatat makanan dan memahami gizi dengan lebih baik. Data dapat mencakup catatan makanan, foto, preferensi, serta informasi teknis yang diperlukan untuk menjalankan layanan.",
+      "Izinkan hanya data kesehatan dan aktivitas yang nyaman Anda bagikan. Izin dapat diubah dari pengaturan perangkat."
+    ],
+    "terms": [
+      "Dengan menggunakan Calorie Counter AI, Anda memahami bahwa aplikasi ini adalah alat informasi untuk mencatat makanan dan Anda perlu meninjau estimasi sebelum menggunakannya.",
+      "Fitur, batas gratis, dan opsi premium dapat berubah. Pembelian melalui App Store dan Google Play juga tunduk pada aturan masing-masing toko."
+    ],
+    "disclaimer": [
+      "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan.",
+      "Estimasi berbasis foto dipengaruhi oleh ukuran porsi, bahan tersembunyi, resep, kualitas foto, dan koreksi manual. Jika Anda memiliki kondisi medis, sedang hamil, memiliki riwayat gangguan makan, atau tujuan gizi klinis, konsultasikan dengan profesional."
+    ],
+    "delete": [
+      "Untuk menghapus akun atau data, tulis dari email yang terhubung dengan akun dan gunakan “Delete account” sebagai subjek.",
+      "Tim dukungan dapat meminta informasi tambahan untuk mengonfirmasi permintaan dan menemukan akun yang benar."
+    ]
+  },
+  "press": {
+    "iconAlt": "Ikon aplikasi",
+    "iconTitle": "Ikon aplikasi",
+    "downloadIcon": "Unduh",
+    "screenshotAlt": "Tangkapan layar aplikasi",
+    "screenshotTitle": "Tangkapan layar",
+    "downloadScreenshot": "Unduh",
+    "shortDescriptionTitle": "Penghitung kalori AI dari foto",
+    "shortDescriptionText": "Ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, serta berat porsi dalam hitungan detik."
+  },
+  "notFound": {
+    "title": "Halaman tidak ditemukan",
+    "text": "Halaman yang Anda cari tidak tersedia atau sudah dipindahkan.",
+    "home": "Beranda"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Fitur",
+      "h1": "Fitur",
+      "description": "Fitur: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+      "kicker": "Fitur",
+      "summary": "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "sections": [
+        [
+          "Fitur",
+          "Fitur: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+        ],
+        [
+          "Pelajari selengkapnya",
+          "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+        ],
+        [
+          "Unduh",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Fitur",
+      "workflow": [
+        "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+        "Pantau kalori, protein, lemak dan karbohidrat di samping target harian."
+      ],
+      "note": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+      "bestFor": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "workflowKicker": "Fitur",
+      "noteTitle": "Perlu diketahui"
+    },
+    "/food-recognition-ai/": {
+      "title": "Pengenalan makanan dengan AI",
+      "h1": "Pengenalan makanan dengan AI",
+      "description": "Pengenalan makanan dengan AI: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+      "kicker": "Fitur",
+      "summary": "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "sections": [
+        [
+          "Pengenalan makanan dengan AI",
+          "Pengenalan makanan dengan AI: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+        ],
+        [
+          "Pelajari selengkapnya",
+          "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+        ],
+        [
+          "Unduh",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Pengenalan makanan dengan AI",
+      "workflow": [
+        "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+        "Pantau kalori, protein, lemak dan karbohidrat di samping target harian."
+      ],
+      "note": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+      "bestFor": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "workflowKicker": "Fitur",
+      "noteTitle": "Perlu diketahui"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Pemindai kalori dengan barcode",
+      "h1": "Pemindai kalori dengan barcode",
+      "description": "Pemindai kalori dengan barcode: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+      "kicker": "Fitur",
+      "summary": "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "sections": [
+        [
+          "Pemindai kalori dengan barcode",
+          "Pemindai kalori dengan barcode: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+        ],
+        [
+          "Pelajari selengkapnya",
+          "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+        ],
+        [
+          "Unduh",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Pemindai kalori dengan barcode",
+      "workflow": [
+        "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+        "Pantau kalori, protein, lemak dan karbohidrat di samping target harian."
+      ],
+      "note": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+      "bestFor": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "workflowKicker": "Fitur",
+      "noteTitle": "Perlu diketahui"
+    },
+    "/macro-tracker/": {
+      "title": "Pelacak makro",
+      "h1": "Pelacak makro",
+      "description": "Pelacak makro: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+      "kicker": "Fitur",
+      "summary": "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "sections": [
+        [
+          "Pelacak makro",
+          "Pelacak makro: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+        ],
+        [
+          "Pelajari selengkapnya",
+          "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+        ],
+        [
+          "Unduh",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Pelacak makro",
+      "workflow": [
+        "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+        "Pantau kalori, protein, lemak dan karbohidrat di samping target harian."
+      ],
+      "note": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+      "bestFor": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "workflowKicker": "Fitur",
+      "noteTitle": "Perlu diketahui"
+    },
+    "/food-diary-app/": {
+      "title": "Aplikasi jurnal makanan",
+      "h1": "Aplikasi jurnal makanan",
+      "description": "Aplikasi jurnal makanan: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+      "kicker": "Fitur",
+      "summary": "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "sections": [
+        [
+          "Aplikasi jurnal makanan",
+          "Aplikasi jurnal makanan: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+        ],
+        [
+          "Pelajari selengkapnya",
+          "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+        ],
+        [
+          "Unduh",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Aplikasi jurnal makanan",
+      "workflow": [
+        "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+        "Pantau kalori, protein, lemak dan karbohidrat di samping target harian."
+      ],
+      "note": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+      "bestFor": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "workflowKicker": "Fitur",
+      "noteTitle": "Perlu diketahui"
+    },
+    "/nutrition-tracker/": {
+      "title": "Pelacak gizi",
+      "h1": "Pelacak gizi",
+      "description": "Pelacak gizi: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+      "kicker": "Fitur",
+      "summary": "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "sections": [
+        [
+          "Pelacak gizi",
+          "Pelacak gizi: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+        ],
+        [
+          "Pelajari selengkapnya",
+          "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+        ],
+        [
+          "Unduh",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Pelacak gizi",
+      "workflow": [
+        "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+        "Pantau kalori, protein, lemak dan karbohidrat di samping target harian."
+      ],
+      "note": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+      "bestFor": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "workflowKicker": "Fitur",
+      "noteTitle": "Perlu diketahui"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Estimator berat porsi",
+      "h1": "Estimator berat porsi",
+      "description": "Estimator berat porsi: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+      "kicker": "Fitur",
+      "summary": "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "sections": [
+        [
+          "Estimator berat porsi",
+          "Estimator berat porsi: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+        ],
+        [
+          "Pelajari selengkapnya",
+          "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+        ],
+        [
+          "Unduh",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Estimator berat porsi",
+      "workflow": [
+        "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+        "Pantau kalori, protein, lemak dan karbohidrat di samping target harian."
+      ],
+      "note": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+      "bestFor": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "workflowKicker": "Fitur",
+      "noteTitle": "Perlu diketahui"
+    },
+    "/progress-statistics/": {
+      "title": "Statistik progres",
+      "h1": "Statistik progres",
+      "description": "Statistik progres: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+      "kicker": "Fitur",
+      "summary": "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "sections": [
+        [
+          "Statistik progres",
+          "Statistik progres: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+        ],
+        [
+          "Pelajari selengkapnya",
+          "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+        ],
+        [
+          "Unduh",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Statistik progres",
+      "workflow": [
+        "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+        "Pantau kalori, protein, lemak dan karbohidrat di samping target harian."
+      ],
+      "note": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+      "bestFor": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "workflowKicker": "Fitur",
+      "noteTitle": "Perlu diketahui"
+    },
+    "/meal-reminders/": {
+      "title": "Pengingat makan",
+      "h1": "Pengingat makan",
+      "description": "Pengingat makan: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+      "kicker": "Fitur",
+      "summary": "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "sections": [
+        [
+          "Pengingat makan",
+          "Pengingat makan: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+        ],
+        [
+          "Pelajari selengkapnya",
+          "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+        ],
+        [
+          "Unduh",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Pengingat makan",
+      "workflow": [
+        "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+        "Pantau kalori, protein, lemak dan karbohidrat di samping target harian."
+      ],
+      "note": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+      "bestFor": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "workflowKicker": "Fitur",
+      "noteTitle": "Perlu diketahui"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Google Health Connect",
+      "description": "Google Health Connect: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+      "kicker": "Fitur",
+      "summary": "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "sections": [
+        [
+          "Google Health Connect",
+          "Google Health Connect: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+        ],
+        [
+          "Pelajari selengkapnya",
+          "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+        ],
+        [
+          "Unduh",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Google Health Connect",
+      "workflow": [
+        "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+        "Pantau kalori, protein, lemak dan karbohidrat di samping target harian."
+      ],
+      "note": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+      "bestFor": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "workflowKicker": "Fitur",
+      "noteTitle": "Perlu diketahui"
+    },
+    "/data-export/": {
+      "title": "Ekspor data",
+      "h1": "Ekspor data",
+      "description": "Ekspor data: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+      "kicker": "Fitur",
+      "summary": "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "sections": [
+        [
+          "Ekspor data",
+          "Ekspor data: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+        ],
+        [
+          "Pelajari selengkapnya",
+          "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+        ],
+        [
+          "Unduh",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Ekspor data",
+      "workflow": [
+        "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+        "Pantau kalori, protein, lemak dan karbohidrat di samping target harian."
+      ],
+      "note": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+      "bestFor": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "workflowKicker": "Fitur",
+      "noteTitle": "Perlu diketahui"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Penghitung kalori untuk menurunkan berat badan",
+      "h1": "Penghitung kalori untuk menurunkan berat badan",
+      "description": "Penghitung kalori untuk menurunkan berat badan: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+      "kicker": "Fitur",
+      "summary": "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "sections": [
+        [
+          "Penghitung kalori untuk menurunkan berat badan",
+          "Penghitung kalori untuk menurunkan berat badan: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+        ],
+        [
+          "Pelajari selengkapnya",
+          "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+        ],
+        [
+          "Unduh",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Penghitung kalori untuk menurunkan berat badan",
+      "workflow": [
+        "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+        "Pantau kalori, protein, lemak dan karbohidrat di samping target harian."
+      ],
+      "note": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+      "bestFor": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "workflowKicker": "Fitur",
+      "noteTitle": "Perlu diketahui"
+    },
+    "/calorie-deficit-app/": {
+      "title": "Aplikasi defisit kalori",
+      "h1": "Aplikasi defisit kalori",
+      "description": "Aplikasi defisit kalori: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+      "kicker": "Fitur",
+      "summary": "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "sections": [
+        [
+          "Aplikasi defisit kalori",
+          "Aplikasi defisit kalori: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+        ],
+        [
+          "Pelajari selengkapnya",
+          "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+        ],
+        [
+          "Unduh",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Aplikasi defisit kalori",
+      "workflow": [
+        "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+        "Pantau kalori, protein, lemak dan karbohidrat di samping target harian."
+      ],
+      "note": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+      "bestFor": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "workflowKicker": "Fitur",
+      "noteTitle": "Perlu diketahui"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Pelacak kalori untuk menaikkan massa otot",
+      "h1": "Pelacak kalori untuk menaikkan massa otot",
+      "description": "Pelacak kalori untuk menaikkan massa otot: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+      "kicker": "Fitur",
+      "summary": "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "sections": [
+        [
+          "Pelacak kalori untuk menaikkan massa otot",
+          "Pelacak kalori untuk menaikkan massa otot: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+        ],
+        [
+          "Pelajari selengkapnya",
+          "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+        ],
+        [
+          "Unduh",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Pelacak kalori untuk menaikkan massa otot",
+      "workflow": [
+        "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+        "Pantau kalori, protein, lemak dan karbohidrat di samping target harian."
+      ],
+      "note": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+      "bestFor": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "workflowKicker": "Fitur",
+      "noteTitle": "Perlu diketahui"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Pelacak kalori untuk menjaga berat badan",
+      "h1": "Pelacak kalori untuk menjaga berat badan",
+      "description": "Pelacak kalori untuk menjaga berat badan: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+      "kicker": "Fitur",
+      "summary": "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "sections": [
+        [
+          "Pelacak kalori untuk menjaga berat badan",
+          "Pelacak kalori untuk menjaga berat badan: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+        ],
+        [
+          "Pelajari selengkapnya",
+          "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+        ],
+        [
+          "Unduh",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Pelacak kalori untuk menjaga berat badan",
+      "workflow": [
+        "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+        "Pantau kalori, protein, lemak dan karbohidrat di samping target harian."
+      ],
+      "note": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+      "bestFor": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "workflowKicker": "Fitur",
+      "noteTitle": "Perlu diketahui"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Penghitung kalori makanan rumahan",
+      "h1": "Penghitung kalori makanan rumahan",
+      "description": "Penghitung kalori makanan rumahan: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+      "kicker": "Fitur",
+      "summary": "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "sections": [
+        [
+          "Penghitung kalori makanan rumahan",
+          "Penghitung kalori makanan rumahan: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+        ],
+        [
+          "Pelajari selengkapnya",
+          "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+        ],
+        [
+          "Unduh",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Penghitung kalori makanan rumahan",
+      "workflow": [
+        "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+        "Pantau kalori, protein, lemak dan karbohidrat di samping target harian."
+      ],
+      "note": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+      "bestFor": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "workflowKicker": "Fitur",
+      "noteTitle": "Perlu diketahui"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Pelacak kalori makanan restoran",
+      "h1": "Pelacak kalori makanan restoran",
+      "description": "Pelacak kalori makanan restoran: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+      "kicker": "Fitur",
+      "summary": "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "sections": [
+        [
+          "Pelacak kalori makanan restoran",
+          "Pelacak kalori makanan restoran: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+        ],
+        [
+          "Pelajari selengkapnya",
+          "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+        ],
+        [
+          "Unduh",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Pelacak kalori makanan restoran",
+      "workflow": [
+        "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+        "Pantau kalori, protein, lemak dan karbohidrat di samping target harian."
+      ],
+      "note": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+      "bestFor": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "workflowKicker": "Fitur",
+      "noteTitle": "Perlu diketahui"
+    },
+    "/meal-tracker/": {
+      "title": "Pelacak makanan",
+      "h1": "Pelacak makanan",
+      "description": "Pelacak makanan: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+      "kicker": "Fitur",
+      "summary": "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "sections": [
+        [
+          "Pelacak makanan",
+          "Pelacak makanan: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+        ],
+        [
+          "Pelajari selengkapnya",
+          "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+        ],
+        [
+          "Unduh",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Pelacak makanan",
+      "workflow": [
+        "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+        "Pantau kalori, protein, lemak dan karbohidrat di samping target harian."
+      ],
+      "note": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+      "bestFor": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "workflowKicker": "Fitur",
+      "noteTitle": "Perlu diketahui"
+    },
+    "/photo-food-journal/": {
+      "title": "Jurnal makanan berbasis foto",
+      "h1": "Jurnal makanan berbasis foto",
+      "description": "Jurnal makanan berbasis foto: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+      "kicker": "Fitur",
+      "summary": "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "sections": [
+        [
+          "Jurnal makanan berbasis foto",
+          "Jurnal makanan berbasis foto: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+        ],
+        [
+          "Pelajari selengkapnya",
+          "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+        ],
+        [
+          "Unduh",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Jurnal makanan berbasis foto",
+      "workflow": [
+        "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+        "Pantau kalori, protein, lemak dan karbohidrat di samping target harian."
+      ],
+      "note": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+      "bestFor": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "workflowKicker": "Fitur",
+      "noteTitle": "Perlu diketahui"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Pelacak makan sehat",
+      "h1": "Pelacak makan sehat",
+      "description": "Pelacak makan sehat: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik.",
+      "kicker": "Fitur",
+      "summary": "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+      "bullets": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "sections": [
+        [
+          "Pelacak makan sehat",
+          "Pelacak makan sehat: ambil foto makanan dan dapatkan perkiraan kalori, protein, lemak, karbohidrat, dan ukuran porsi dalam hitungan detik."
+        ],
+        [
+          "Pelajari selengkapnya",
+          "Perkiraan gizi hanya untuk informasi dan bukan pengganti saran dokter, ahli gizi, atau tenaga kesehatan."
+        ],
+        [
+          "Unduh",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "workflowTitle": "Pelacak makan sehat",
+      "workflow": [
+        "Gunakan foto, barcode, favorit, dan jurnal yang rapi untuk mencatat makanan lebih cepat dan konsisten.",
+        "Pantau kalori, protein, lemak dan karbohidrat di samping target harian."
+      ],
+      "note": "Nilai gizi adalah perkiraan. Angka sebenarnya dapat berubah sesuai merek, resep, cara memasak, dan ukuran porsi.",
+      "bestFor": [
+        "Foto makanan",
+        "Estimasi kalori",
+        "Makro",
+        "Jurnal makanan"
+      ],
+      "workflowKicker": "Fitur",
+      "noteTitle": "Perlu diketahui"
+    },
+    "/use-cases/": {
+      "title": "Kegunaan",
+      "h1": "Kegunaan",
+      "description": "Kegunaan: panduan praktis untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro, dan jurnal makanan.",
+      "kicker": "Kegunaan"
+    },
+    "/blog/": {
+      "title": "Panduan",
+      "h1": "Panduan",
+      "description": "Panduan: panduan praktis untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro, dan jurnal makanan.",
+      "kicker": "Panduan"
+    },
+    "/download/": {
+      "title": "Unduh Calorie Counter AI",
+      "h1": "Unduh Calorie Counter AI",
+      "description": "Unduh Calorie Counter AI: panduan praktis untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro, dan jurnal makanan.",
+      "kicker": "Unduh Calorie Counter AI"
+    },
+    "/faq/": {
+      "title": "FAQ",
+      "h1": "FAQ",
+      "description": "FAQ: panduan praktis untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro, dan jurnal makanan.",
+      "kicker": "FAQ"
+    },
+    "/pricing/": {
+      "title": "Harga",
+      "h1": "Harga",
+      "description": "Harga: panduan praktis untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro, dan jurnal makanan.",
+      "kicker": "Harga"
+    },
+    "/support/": {
+      "title": "Dukungan",
+      "h1": "Dukungan",
+      "description": "Dukungan: panduan praktis untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro, dan jurnal makanan.",
+      "kicker": "Dukungan"
+    },
+    "/contact/": {
+      "title": "Kontak",
+      "h1": "Kontak",
+      "description": "Kontak: panduan praktis untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro, dan jurnal makanan.",
+      "kicker": "Kontak"
+    },
+    "/privacy-policy/": {
+      "title": "Kebijakan privasi",
+      "h1": "Kebijakan privasi",
+      "description": "Kebijakan privasi: panduan praktis untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro, dan jurnal makanan.",
+      "kicker": "Kebijakan privasi"
+    },
+    "/terms/": {
+      "title": "Ketentuan penggunaan",
+      "h1": "Ketentuan penggunaan",
+      "description": "Ketentuan penggunaan: panduan praktis untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro, dan jurnal makanan.",
+      "kicker": "Ketentuan penggunaan"
+    },
+    "/health-disclaimer/": {
+      "title": "Peringatan kesehatan",
+      "h1": "Peringatan kesehatan",
+      "description": "Peringatan kesehatan: panduan praktis untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro, dan jurnal makanan.",
+      "kicker": "Peringatan kesehatan"
+    },
+    "/delete-account/": {
+      "title": "Hapus akun",
+      "h1": "Hapus akun",
+      "description": "Hapus akun: panduan praktis untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro, dan jurnal makanan.",
+      "kicker": "Hapus akun"
+    },
+    "/press/": {
+      "title": "Kit pers",
+      "h1": "Kit pers",
+      "description": "Kit pers: panduan praktis untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro, dan jurnal makanan.",
+      "kicker": "Kit pers"
+    },
+    "/how-many-calories-in/": {
+      "title": "Kalori dalam makanan",
+      "h1": "Kalori dalam makanan",
+      "description": "Kalori dalam makanan: panduan praktis untuk menggunakan Calorie Counter AI, foto makanan, kalori, makro, dan jurnal makanan.",
+      "kicker": "Kalori dalam makanan"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Cara menghitung kalori dari foto",
+      "h1": "Cara menghitung kalori dari foto",
+      "description": "Cara menghitung kalori dari foto: panduan Calorie Counter AI untuk kalori, porsi, makro, dan pencatatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 menit baca",
+      "intro": "Panduan ini menjelaskan cara menghitung kalori dari foto dengan cara yang praktis, agar pencatatan kalori dan makro tetap realistis dalam keseharian.",
+      "sections": [
+        [
+          "Mulai dari porsi",
+          "Gunakan ukuran porsi sebagai titik awal, lalu sesuaikan setelah melihat bahan, merek, cara memasak, dan hasil foto."
+        ],
+        [
+          "Periksa makro",
+          "Kalori, protein, lemak dan karbohidrat membantu memahami apakah makanan sesuai dengan target harian."
+        ],
+        [
+          "Jadikan kebiasaan",
+          "Catat makanan segera setelah makan agar jurnal makanan lebih lengkap tanpa banyak pengetikan manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan estimasi AI sebagai titik awal, lalu tinjau porsi dan koreksi jika diperlukan."
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Seberapa akurat penghitung kalori AI?",
+      "h1": "Seberapa akurat penghitung kalori AI?",
+      "description": "Seberapa akurat penghitung kalori AI?: panduan Calorie Counter AI untuk kalori, porsi, makro, dan pencatatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 menit baca",
+      "intro": "Panduan ini menjelaskan seberapa akurat penghitung kalori ai? dengan cara yang praktis, agar pencatatan kalori dan makro tetap realistis dalam keseharian.",
+      "sections": [
+        [
+          "Mulai dari porsi",
+          "Gunakan ukuran porsi sebagai titik awal, lalu sesuaikan setelah melihat bahan, merek, cara memasak, dan hasil foto."
+        ],
+        [
+          "Periksa makro",
+          "Kalori, protein, lemak dan karbohidrat membantu memahami apakah makanan sesuai dengan target harian."
+        ],
+        [
+          "Jadikan kebiasaan",
+          "Catat makanan segera setelah makan agar jurnal makanan lebih lengkap tanpa banyak pengetikan manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan estimasi AI sebagai titik awal, lalu tinjau porsi dan koreksi jika diperlukan."
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "Penghitung kalori AI vs pencatatan manual",
+      "h1": "Penghitung kalori AI vs pencatatan manual",
+      "description": "Penghitung kalori AI vs pencatatan manual: panduan Calorie Counter AI untuk kalori, porsi, makro, dan pencatatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 menit baca",
+      "intro": "Panduan ini menjelaskan penghitung kalori ai vs pencatatan manual dengan cara yang praktis, agar pencatatan kalori dan makro tetap realistis dalam keseharian.",
+      "sections": [
+        [
+          "Mulai dari porsi",
+          "Gunakan ukuran porsi sebagai titik awal, lalu sesuaikan setelah melihat bahan, merek, cara memasak, dan hasil foto."
+        ],
+        [
+          "Periksa makro",
+          "Kalori, protein, lemak dan karbohidrat membantu memahami apakah makanan sesuai dengan target harian."
+        ],
+        [
+          "Jadikan kebiasaan",
+          "Catat makanan segera setelah makan agar jurnal makanan lebih lengkap tanpa banyak pengetikan manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan estimasi AI sebagai titik awal, lalu tinjau porsi dan koreksi jika diperlukan."
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Cara kerja pemindai kalori makanan",
+      "h1": "Cara kerja pemindai kalori makanan",
+      "description": "Cara kerja pemindai kalori makanan: panduan Calorie Counter AI untuk kalori, porsi, makro, dan pencatatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 menit baca",
+      "intro": "Panduan ini menjelaskan cara kerja pemindai kalori makanan dengan cara yang praktis, agar pencatatan kalori dan makro tetap realistis dalam keseharian.",
+      "sections": [
+        [
+          "Mulai dari porsi",
+          "Gunakan ukuran porsi sebagai titik awal, lalu sesuaikan setelah melihat bahan, merek, cara memasak, dan hasil foto."
+        ],
+        [
+          "Periksa makro",
+          "Kalori, protein, lemak dan karbohidrat membantu memahami apakah makanan sesuai dengan target harian."
+        ],
+        [
+          "Jadikan kebiasaan",
+          "Catat makanan segera setelah makan agar jurnal makanan lebih lengkap tanpa banyak pengetikan manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan estimasi AI sebagai titik awal, lalu tinjau porsi dan koreksi jika diperlukan."
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Cara melacak makro untuk pemula",
+      "h1": "Cara melacak makro untuk pemula",
+      "description": "Cara melacak makro untuk pemula: panduan Calorie Counter AI untuk kalori, porsi, makro, dan pencatatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 menit baca",
+      "intro": "Panduan ini menjelaskan cara melacak makro untuk pemula dengan cara yang praktis, agar pencatatan kalori dan makro tetap realistis dalam keseharian.",
+      "sections": [
+        [
+          "Mulai dari porsi",
+          "Gunakan ukuran porsi sebagai titik awal, lalu sesuaikan setelah melihat bahan, merek, cara memasak, dan hasil foto."
+        ],
+        [
+          "Periksa makro",
+          "Kalori, protein, lemak dan karbohidrat membantu memahami apakah makanan sesuai dengan target harian."
+        ],
+        [
+          "Jadikan kebiasaan",
+          "Catat makanan segera setelah makan agar jurnal makanan lebih lengkap tanpa banyak pengetikan manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan estimasi AI sebagai titik awal, lalu tinjau porsi dan koreksi jika diperlukan."
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Kalori vs makro",
+      "h1": "Kalori vs makro",
+      "description": "Kalori vs makro: panduan Calorie Counter AI untuk kalori, porsi, makro, dan pencatatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 menit baca",
+      "intro": "Panduan ini menjelaskan kalori vs makro dengan cara yang praktis, agar pencatatan kalori dan makro tetap realistis dalam keseharian.",
+      "sections": [
+        [
+          "Mulai dari porsi",
+          "Gunakan ukuran porsi sebagai titik awal, lalu sesuaikan setelah melihat bahan, merek, cara memasak, dan hasil foto."
+        ],
+        [
+          "Periksa makro",
+          "Kalori, protein, lemak dan karbohidrat membantu memahami apakah makanan sesuai dengan target harian."
+        ],
+        [
+          "Jadikan kebiasaan",
+          "Catat makanan segera setelah makan agar jurnal makanan lebih lengkap tanpa banyak pengetikan manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan estimasi AI sebagai titik awal, lalu tinjau porsi dan koreksi jika diperlukan."
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Cara menghitung kalori makanan rumahan",
+      "h1": "Cara menghitung kalori makanan rumahan",
+      "description": "Cara menghitung kalori makanan rumahan: panduan Calorie Counter AI untuk kalori, porsi, makro, dan pencatatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 menit baca",
+      "intro": "Panduan ini menjelaskan cara menghitung kalori makanan rumahan dengan cara yang praktis, agar pencatatan kalori dan makro tetap realistis dalam keseharian.",
+      "sections": [
+        [
+          "Mulai dari porsi",
+          "Gunakan ukuran porsi sebagai titik awal, lalu sesuaikan setelah melihat bahan, merek, cara memasak, dan hasil foto."
+        ],
+        [
+          "Periksa makro",
+          "Kalori, protein, lemak dan karbohidrat membantu memahami apakah makanan sesuai dengan target harian."
+        ],
+        [
+          "Jadikan kebiasaan",
+          "Catat makanan segera setelah makan agar jurnal makanan lebih lengkap tanpa banyak pengetikan manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan estimasi AI sebagai titik awal, lalu tinjau porsi dan koreksi jika diperlukan."
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Cara memperkirakan ukuran porsi",
+      "h1": "Cara memperkirakan ukuran porsi",
+      "description": "Cara memperkirakan ukuran porsi: panduan Calorie Counter AI untuk kalori, porsi, makro, dan pencatatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 menit baca",
+      "intro": "Panduan ini menjelaskan cara memperkirakan ukuran porsi dengan cara yang praktis, agar pencatatan kalori dan makro tetap realistis dalam keseharian.",
+      "sections": [
+        [
+          "Mulai dari porsi",
+          "Gunakan ukuran porsi sebagai titik awal, lalu sesuaikan setelah melihat bahan, merek, cara memasak, dan hasil foto."
+        ],
+        [
+          "Periksa makro",
+          "Kalori, protein, lemak dan karbohidrat membantu memahami apakah makanan sesuai dengan target harian."
+        ],
+        [
+          "Jadikan kebiasaan",
+          "Catat makanan segera setelah makan agar jurnal makanan lebih lengkap tanpa banyak pengetikan manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan estimasi AI sebagai titik awal, lalu tinjau porsi dan koreksi jika diperlukan."
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Berapa kalori yang sebaiknya saya makan per hari?",
+      "h1": "Berapa kalori yang sebaiknya saya makan per hari?",
+      "description": "Berapa kalori yang sebaiknya saya makan per hari?: panduan Calorie Counter AI untuk kalori, porsi, makro, dan pencatatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 menit baca",
+      "intro": "Panduan ini menjelaskan berapa kalori yang sebaiknya saya makan per hari? dengan cara yang praktis, agar pencatatan kalori dan makro tetap realistis dalam keseharian.",
+      "sections": [
+        [
+          "Mulai dari porsi",
+          "Gunakan ukuran porsi sebagai titik awal, lalu sesuaikan setelah melihat bahan, merek, cara memasak, dan hasil foto."
+        ],
+        [
+          "Periksa makro",
+          "Kalori, protein, lemak dan karbohidrat membantu memahami apakah makanan sesuai dengan target harian."
+        ],
+        [
+          "Jadikan kebiasaan",
+          "Catat makanan segera setelah makan agar jurnal makanan lebih lengkap tanpa banyak pengetikan manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan estimasi AI sebagai titik awal, lalu tinjau porsi dan koreksi jika diperlukan."
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Apa itu defisit kalori?",
+      "h1": "Apa itu defisit kalori?",
+      "description": "Apa itu defisit kalori?: panduan Calorie Counter AI untuk kalori, porsi, makro, dan pencatatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 menit baca",
+      "intro": "Panduan ini menjelaskan apa itu defisit kalori? dengan cara yang praktis, agar pencatatan kalori dan makro tetap realistis dalam keseharian.",
+      "sections": [
+        [
+          "Mulai dari porsi",
+          "Gunakan ukuran porsi sebagai titik awal, lalu sesuaikan setelah melihat bahan, merek, cara memasak, dan hasil foto."
+        ],
+        [
+          "Periksa makro",
+          "Kalori, protein, lemak dan karbohidrat membantu memahami apakah makanan sesuai dengan target harian."
+        ],
+        [
+          "Jadikan kebiasaan",
+          "Catat makanan segera setelah makan agar jurnal makanan lebih lengkap tanpa banyak pengetikan manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan estimasi AI sebagai titik awal, lalu tinjau porsi dan koreksi jika diperlukan."
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Kesalahan umum saat menghitung kalori",
+      "h1": "Kesalahan umum saat menghitung kalori",
+      "description": "Kesalahan umum saat menghitung kalori: panduan Calorie Counter AI untuk kalori, porsi, makro, dan pencatatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 menit baca",
+      "intro": "Panduan ini menjelaskan kesalahan umum saat menghitung kalori dengan cara yang praktis, agar pencatatan kalori dan makro tetap realistis dalam keseharian.",
+      "sections": [
+        [
+          "Mulai dari porsi",
+          "Gunakan ukuran porsi sebagai titik awal, lalu sesuaikan setelah melihat bahan, merek, cara memasak, dan hasil foto."
+        ],
+        [
+          "Periksa makro",
+          "Kalori, protein, lemak dan karbohidrat membantu memahami apakah makanan sesuai dengan target harian."
+        ],
+        [
+          "Jadikan kebiasaan",
+          "Catat makanan segera setelah makan agar jurnal makanan lebih lengkap tanpa banyak pengetikan manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan estimasi AI sebagai titik awal, lalu tinjau porsi dan koreksi jika diperlukan."
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Cara mencatat makanan restoran",
+      "h1": "Cara mencatat makanan restoran",
+      "description": "Cara mencatat makanan restoran: panduan Calorie Counter AI untuk kalori, porsi, makro, dan pencatatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 menit baca",
+      "intro": "Panduan ini menjelaskan cara mencatat makanan restoran dengan cara yang praktis, agar pencatatan kalori dan makro tetap realistis dalam keseharian.",
+      "sections": [
+        [
+          "Mulai dari porsi",
+          "Gunakan ukuran porsi sebagai titik awal, lalu sesuaikan setelah melihat bahan, merek, cara memasak, dan hasil foto."
+        ],
+        [
+          "Periksa makro",
+          "Kalori, protein, lemak dan karbohidrat membantu memahami apakah makanan sesuai dengan target harian."
+        ],
+        [
+          "Jadikan kebiasaan",
+          "Catat makanan segera setelah makan agar jurnal makanan lebih lengkap tanpa banyak pengetikan manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan estimasi AI sebagai titik awal, lalu tinjau porsi dan koreksi jika diperlukan."
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Cara melacak protein",
+      "h1": "Cara melacak protein",
+      "description": "Cara melacak protein: panduan Calorie Counter AI untuk kalori, porsi, makro, dan pencatatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 menit baca",
+      "intro": "Panduan ini menjelaskan cara melacak protein dengan cara yang praktis, agar pencatatan kalori dan makro tetap realistis dalam keseharian.",
+      "sections": [
+        [
+          "Mulai dari porsi",
+          "Gunakan ukuran porsi sebagai titik awal, lalu sesuaikan setelah melihat bahan, merek, cara memasak, dan hasil foto."
+        ],
+        [
+          "Periksa makro",
+          "Kalori, protein, lemak dan karbohidrat membantu memahami apakah makanan sesuai dengan target harian."
+        ],
+        [
+          "Jadikan kebiasaan",
+          "Catat makanan segera setelah makan agar jurnal makanan lebih lengkap tanpa banyak pengetikan manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan estimasi AI sebagai titik awal, lalu tinjau porsi dan koreksi jika diperlukan."
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Apa itu jurnal makanan?",
+      "h1": "Apa itu jurnal makanan?",
+      "description": "Apa itu jurnal makanan?: panduan Calorie Counter AI untuk kalori, porsi, makro, dan pencatatan makanan.",
+      "category": "Panduan",
+      "readTime": "4 menit baca",
+      "intro": "Panduan ini menjelaskan apa itu jurnal makanan? dengan cara yang praktis, agar pencatatan kalori dan makro tetap realistis dalam keseharian.",
+      "sections": [
+        [
+          "Mulai dari porsi",
+          "Gunakan ukuran porsi sebagai titik awal, lalu sesuaikan setelah melihat bahan, merek, cara memasak, dan hasil foto."
+        ],
+        [
+          "Periksa makro",
+          "Kalori, protein, lemak dan karbohidrat membantu memahami apakah makanan sesuai dengan target harian."
+        ],
+        [
+          "Jadikan kebiasaan",
+          "Catat makanan segera setelah makan agar jurnal makanan lebih lengkap tanpa banyak pengetikan manual."
+        ],
+        [
+          "Gunakan aplikasi",
+          "Mulai gratis dengan analisis makanan harian berbasis AI. Tersedia untuk iPhone dan Android."
+        ]
+      ],
+      "takeaway": "Gunakan estimasi AI sebagai titik awal, lalu tinjau porsi dan koreksi jika diperlukan."
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Preferensi cookie",
+    "text": "Kami menggunakan cookie wajib dan penyimpanan lokal untuk mengingat bahasa serta pilihan cookie Anda. Dengan persetujuan Anda, kami juga memakai cookie analitik untuk meningkatkan situs web.",
+    "accept": "Terima",
+    "decline": "Tolak analitik"
+  }
+}

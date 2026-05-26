@@ -1,0 +1,2619 @@
+{
+  "localeName": "Kiswahili",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "Programu ya AI ya kuhesabu kalori kwa picha"
+  },
+  "nav": {
+    "features": "Vipengele",
+    "useCases": "Matumizi",
+    "blog": "Miongozo",
+    "faq": "Maswali ya mara kwa mara",
+    "download": "Pakua",
+    "language": "Lugha",
+    "openMenu": "Fungua menyu",
+    "caloriesInFoods": "Kalori katika vyakula",
+    "all": "Zote",
+    "allFeatures": "Vipengele vyote",
+    "allUseCases": "Matumizi yote",
+    "allLearn": "Miongozo yote",
+    "openHub": "Fungua sehemu →",
+    "home": "Nyumbani"
+  },
+  "cta": {
+    "appStore": "Pakua kwenye App Store",
+    "googlePlay": "Ipate kwenye Google Play",
+    "downloadNow": "Pakua sasa",
+    "tryFree": "Jaribu bila malipo",
+    "learnMore": "Jifunze zaidi",
+    "learnMoreArrow": "Jifunze zaidi →",
+    "readGuide": "Soma mwongozo"
+  },
+  "home": {
+    "title": "Programu ya AI ya kuhesabu kalori kwa picha",
+    "description": "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+    "heroNote": "Anza bila malipo kwa uchambuzi wa milo kwa AI kila siku. Inapatikana kwa iPhone na Android.",
+    "photoEyebrow": "Kihesabu kalori kwa picha",
+    "photoTitle": "Kihesabu kalori kwa picha",
+    "photoText": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+    "photoChecklist": [
+      "Kalori",
+      "Protini",
+      "Mafuta",
+      "Wanga"
+    ],
+    "featureCards": [
+      [
+        "photo",
+        "Kihesabu kalori kwa picha",
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula."
+      ],
+      [
+        "ai",
+        "Programu ya AI ya kuhesabu kalori kwa picha",
+        "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+      ],
+      [
+        "barcode",
+        "Kichanganua msimbo pau",
+        "Changanua msimbo pau wa chakula kilichofungashwa, thibitisha bidhaa na ongeza kalori na makro kwenye shajara yako ndani ya sekunde chache."
+      ],
+      [
+        "macro",
+        "Makro",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      [
+        "diary",
+        "Shajara ya chakula",
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula."
+      ],
+      [
+        "download",
+        "Pakua Calorie Counter AI",
+        "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+      ]
+    ],
+    "foodPreviewTitle": "Kuna kalori ngapi katika vyakula vya kawaida?",
+    "foodPreviewText": "Tazama mwongozo wa haraka wa kalori na makro kwa milo, vitafunwa na vinywaji vya kila siku.",
+    "foodPreviewLink": "Fungua mwongozo kamili wa kalori za vyakula →",
+    "goalEyebrow": "Lishe",
+    "counterTitle": "Programu ya AI ya kuhesabu kalori kwa picha",
+    "counterText": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+    "goalPills": [
+      "Kupunguza uzito",
+      "Kudumisha uzito",
+      "Kuongeza misuli",
+      "Siku zenye shughuli nyingi"
+    ],
+    "magicEyebrow": "Vipengele",
+    "magicTitle": "Rekodi chakula kwa hatua tatu za haraka",
+    "magicText": "Piga picha, kagua makadirio na uhifadhi mlo. Kuandika kidogo, tabia rahisi zaidi.",
+    "magicSteps": [
+      "Piga picha",
+      "Kagua",
+      "Hifadhi"
+    ],
+    "barcodeEyebrow": "Kichanganua msimbo pau",
+    "barcodeTitle": "Kichanganua msimbo pau",
+    "barcodeText": "Changanua msimbo pau wa chakula kilichofungashwa, thibitisha bidhaa na ongeza kalori na makro kwenye shajara yako ndani ya sekunde chache.",
+    "barcodeLink": "Kichanganua msimbo pau →",
+    "progressEyebrow": "Makro",
+    "macroTitle": "Makro",
+    "macroText": "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku.",
+    "macroLink": "Makro →",
+    "useCasesEyebrow": "Matumizi",
+    "useCasesTitle": "Lishe",
+    "useCasesText": "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Kupunguza uzito",
+        "Kalori"
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Chakula cha nyumbani",
+        "Kihesabu kalori kwa picha"
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Milo ya mgahawani",
+        "Shajara ya chakula"
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Kuongeza misuli",
+        "Protini"
+      ]
+    ],
+    "downloadTitle": "Pakua Calorie Counter AI",
+    "downloadText": "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara.",
+    "faqEyebrow": "Maswali ya mara kwa mara",
+    "faqTitle": "Maswali ya mara kwa mara",
+    "faq": [
+      [
+        "Je, Calorie Counter AI ni bure?",
+        "Unaweza kuanza kwa uchambuzi wa milo kwa AI bila malipo kila siku. Premium husaidia kama unahitaji vikomo vya juu na zana za ziada."
+      ],
+      [
+        "Je, ninaweza kuhesabu kalori kutoka kwenye picha?",
+        "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+      ],
+      [
+        "Makadirio ya AI yana usahihi gani?",
+        "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+      ],
+      [
+        "Je, programu hufuatilia makro?",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      [
+        "Je, inapatikana kwa iPhone na Android?",
+        "Anza bila malipo kwa uchambuzi wa milo kwa AI kila siku. Inapatikana kwa iPhone na Android."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "Programu ya AI ya kuhesabu kalori kwa picha",
+    "homeOgTitle": "Programu ya AI ya kuhesabu kalori kwa picha",
+    "homeDescription": "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+  },
+  "footer": {
+    "disclaimer": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+    "copyright": "© 2026 Calorie Counter AI"
+  },
+  "foodIndex": {
+    "findTitle": "Kalori katika vyakula",
+    "findText": "Kalori, protini, mafuta na wanga kwa vyakula na sehemu maarufu.",
+    "categoryIntro": "Kalori katika vyakula"
+  },
+  "foodPage": {
+    "eyebrow": "Kalori katika vyakula",
+    "trackInApp": "Pakua",
+    "browseFoods": "Kalori katika vyakula →",
+    "typicalEstimate": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+    "caloriesMacros": "Kalori na makro",
+    "whenFits": "Matumizi",
+    "whatToWatch": "Jifunze zaidi",
+    "howToLog": "Shajara ya chakula",
+    "helpfulContext": "Miongozo",
+    "faq": "Maswali ya mara kwa mara",
+    "weightLossQuestion": "Je, inafaa kwa kupunguza uzito?",
+    "variabilityQuestion": "Ni nini hubadilisha kalori zaidi?",
+    "logFasterTitle": "Kihesabu kalori kwa picha",
+    "logFasterText": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+    "photoTrackingLink": "Kihesabu kalori kwa picha →",
+    "macros": {
+      "protein": "Protini",
+      "fat": "Mafuta",
+      "carbs": "Wanga"
+    },
+    "titleTemplate": "Kuna kalori ngapi katika {namePrep}?",
+    "h1Template": "Kuna kalori ngapi katika {namePrep}?",
+    "descriptionTemplate": "{name}: kalori, protini, mafuta na wanga kwa sehemu “{serving}”, pamoja na vidokezo vya kurekodi.",
+    "heroIntroTemplate": "Takribani {calories} {kcal} kwa sehemu: {servingLower}. Itumie kama mwongozo wa kuanzia na urekebishe kulingana na chapa, mapishi, njia ya kupika na ukubwa wa sehemu.",
+    "macroParagraphTemplate": "{name}: takribani {calories} {kcal} kwa sehemu “{servingLower}”. Sehemu hii ina karibu {protein} {gram} protini, {fat} {gram} mafuta na {carbs} {gram} wanga{fiberText}.",
+    "per100Template": "Kwa kulinganisha kwa kila 100 {gram}: takribani {calories} {kcal}, {protein} {gram} protini, {fat} {gram} mafuta na {carbs} {gram} wanga.",
+    "calorieLevelTemplate": "Tumia sehemu kama mwongozo: takribani {calories} {kcal} kwa “{servingLower}”."
+  },
+  "foodCategories": {
+    "Fruit": "Matunda",
+    "Protein foods": "Vyakula vyenye protini",
+    "Fruits and fats": "Matunda na mafuta",
+    "Grains and starches": "Nafaka na vyakula vya wanga",
+    "Nuts and spreads": "Karanga na vitu vya kupaka",
+    "Breakfast foods": "Vyakula vya kiamsha kinywa",
+    "Dairy": "Bidhaa za maziwa",
+    "Restaurant meals": "Milo ya mgahawani",
+    "Fast food": "Chakula cha haraka",
+    "Legumes and plant protein": "Mikunde na protini ya mimea",
+    "Desserts": "Vitindamlo",
+    "Snacks": "Vitafunwa",
+    "Drinks": "Vinywaji",
+    "Vegetables": "Mboga",
+    "Sauces and condiments": "Sosi na viungo",
+    "Mixed dishes": "Milo mchanganyiko"
+  },
+  "foods": {
+    "banana": {
+      "name": "Ndizi",
+      "namePrep": "ndizi",
+      "serving": "sehemu 1 ya ndizi"
+    },
+    "apple": {
+      "name": "Tufaha",
+      "namePrep": "tufaha",
+      "serving": "sehemu 1 ya tufaha"
+    },
+    "egg": {
+      "name": "Yai",
+      "namePrep": "yai",
+      "serving": "sehemu 1 ya yai"
+    },
+    "avocado": {
+      "name": "Parachichi",
+      "namePrep": "parachichi",
+      "serving": "sehemu 1 ya parachichi"
+    },
+    "chicken-breast": {
+      "name": "Kifua cha kuku",
+      "namePrep": "kifua cha kuku",
+      "serving": "sehemu 1 ya kifua cha kuku"
+    },
+    "salmon": {
+      "name": "Samaki salmoni",
+      "namePrep": "samaki salmoni",
+      "serving": "sehemu 1 ya samaki salmoni"
+    },
+    "white-rice": {
+      "name": "Wali mweupe",
+      "namePrep": "wali mweupe",
+      "serving": "sehemu 1 ya wali mweupe"
+    },
+    "brown-rice": {
+      "name": "Wali wa kahawia",
+      "namePrep": "wali wa kahawia",
+      "serving": "sehemu 1 ya wali wa kahawia"
+    },
+    "pasta": {
+      "name": "Tambi",
+      "namePrep": "tambi",
+      "serving": "sehemu 1 ya tambi"
+    },
+    "potato": {
+      "name": "Kiazi",
+      "namePrep": "kiazi",
+      "serving": "sehemu 1 ya kiazi"
+    },
+    "sweet-potato": {
+      "name": "Kiazi kitamu",
+      "namePrep": "kiazi kitamu",
+      "serving": "sehemu 1 ya kiazi kitamu"
+    },
+    "bread": {
+      "name": "Mkate",
+      "namePrep": "mkate",
+      "serving": "sehemu 1 ya mkate"
+    },
+    "peanut-butter": {
+      "name": "Siagi ya karanga",
+      "namePrep": "siagi ya karanga",
+      "serving": "sehemu 1 ya siagi ya karanga"
+    },
+    "oatmeal": {
+      "name": "Uji wa shayiri",
+      "namePrep": "uji wa shayiri",
+      "serving": "sehemu 1 ya uji wa shayiri"
+    },
+    "greek-yogurt": {
+      "name": "Mtindi wa Kigiriki",
+      "namePrep": "mtindi wa Kigiriki",
+      "serving": "sehemu 1 ya mtindi wa Kigiriki"
+    },
+    "yogurt": {
+      "name": "Mtindi",
+      "namePrep": "mtindi",
+      "serving": "sehemu 1 ya mtindi"
+    },
+    "milk": {
+      "name": "Maziwa",
+      "namePrep": "maziwa",
+      "serving": "sehemu 1 ya maziwa"
+    },
+    "cheddar-cheese": {
+      "name": "Jibini la cheddar",
+      "namePrep": "jibini la cheddar",
+      "serving": "sehemu 1 ya jibini la cheddar"
+    },
+    "pizza": {
+      "name": "Pizza",
+      "namePrep": "pizza",
+      "serving": "sehemu 1 ya pizza"
+    },
+    "burger": {
+      "name": "Baga",
+      "namePrep": "baga",
+      "serving": "sehemu 1 ya baga"
+    },
+    "french-fries": {
+      "name": "Viazi vya kukaanga",
+      "namePrep": "viazi vya kukaanga",
+      "serving": "sehemu 1 ya viazi vya kukaanga"
+    },
+    "sushi-roll": {
+      "name": "Roli ya sushi",
+      "namePrep": "roli ya sushi",
+      "serving": "sehemu 1 ya roli ya sushi"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "taco",
+      "serving": "sehemu 1 ya taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "burrito",
+      "serving": "sehemu 1 ya burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Nuggets za kuku",
+      "namePrep": "nuggets za kuku",
+      "serving": "sehemu 1 ya nuggets za kuku"
+    },
+    "hot-dog": {
+      "name": "Hot dog",
+      "namePrep": "hot dog",
+      "serving": "sehemu 1 ya hot dog"
+    },
+    "steak": {
+      "name": "Steki",
+      "namePrep": "steki",
+      "serving": "sehemu 1 ya steki"
+    },
+    "bacon": {
+      "name": "Bacon",
+      "namePrep": "bacon",
+      "serving": "sehemu 1 ya bacon"
+    },
+    "tuna": {
+      "name": "Tuna",
+      "namePrep": "tuna",
+      "serving": "sehemu 1 ya tuna"
+    },
+    "shrimp": {
+      "name": "Kamba",
+      "namePrep": "kamba",
+      "serving": "sehemu 1 ya kamba"
+    },
+    "tofu": {
+      "name": "Tofu",
+      "namePrep": "tofu",
+      "serving": "sehemu 1 ya tofu"
+    },
+    "lentils": {
+      "name": "Dengu",
+      "namePrep": "dengu",
+      "serving": "sehemu 1 ya dengu"
+    },
+    "black-beans": {
+      "name": "Maharagwe meusi",
+      "namePrep": "maharagwe meusi",
+      "serving": "sehemu 1 ya maharagwe meusi"
+    },
+    "chickpeas": {
+      "name": "Njegere",
+      "namePrep": "njegere",
+      "serving": "sehemu 1 ya njegere"
+    },
+    "hummus": {
+      "name": "Hummus",
+      "namePrep": "hummus",
+      "serving": "sehemu 1 ya hummus"
+    },
+    "quinoa": {
+      "name": "Quinoa",
+      "namePrep": "quinoa",
+      "serving": "sehemu 1 ya quinoa"
+    },
+    "tortilla": {
+      "name": "Tortilla",
+      "namePrep": "tortilla",
+      "serving": "sehemu 1 ya tortilla"
+    },
+    "bagel": {
+      "name": "Bagel",
+      "namePrep": "bagel",
+      "serving": "sehemu 1 ya bagel"
+    },
+    "croissant": {
+      "name": "Croissant",
+      "namePrep": "croissant",
+      "serving": "sehemu 1 ya croissant"
+    },
+    "pancake": {
+      "name": "Pancakes",
+      "namePrep": "pancakes",
+      "serving": "sehemu 1 ya pancakes"
+    },
+    "waffle": {
+      "name": "Waffle",
+      "namePrep": "waffle",
+      "serving": "sehemu 1 ya waffle"
+    },
+    "cereal": {
+      "name": "Nafaka za kiamsha kinywa",
+      "namePrep": "nafaka za kiamsha kinywa",
+      "serving": "sehemu 1 ya nafaka za kiamsha kinywa"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granola",
+      "serving": "sehemu 1 ya granola"
+    },
+    "almonds": {
+      "name": "Lozi",
+      "namePrep": "lozi",
+      "serving": "sehemu 1 ya lozi"
+    },
+    "walnuts": {
+      "name": "Jozi",
+      "namePrep": "jozi",
+      "serving": "sehemu 1 ya jozi"
+    },
+    "cashews": {
+      "name": "Korosho",
+      "namePrep": "korosho",
+      "serving": "sehemu 1 ya korosho"
+    },
+    "chocolate": {
+      "name": "Chokoleti",
+      "namePrep": "chokoleti",
+      "serving": "sehemu 1 ya chokoleti"
+    },
+    "ice-cream": {
+      "name": "Aiskrimu",
+      "namePrep": "aiskrimu",
+      "serving": "sehemu 1 ya aiskrimu"
+    },
+    "cookie": {
+      "name": "Biskuti yenye vipande vya chokoleti",
+      "namePrep": "biskuti yenye vipande vya chokoleti",
+      "serving": "sehemu 1 ya biskuti yenye vipande vya chokoleti"
+    },
+    "donut": {
+      "name": "Donati yenye glasi",
+      "namePrep": "donati yenye glasi",
+      "serving": "sehemu 1 ya donati yenye glasi"
+    },
+    "muffin": {
+      "name": "Muffin ya blueberry",
+      "namePrep": "muffin ya blueberry",
+      "serving": "sehemu 1 ya muffin ya blueberry"
+    },
+    "cake": {
+      "name": "Keki",
+      "namePrep": "keki",
+      "serving": "sehemu 1 ya keki"
+    },
+    "brownie": {
+      "name": "Brownie",
+      "namePrep": "brownie",
+      "serving": "sehemu 1 ya brownie"
+    },
+    "popcorn": {
+      "name": "Popcorn",
+      "namePrep": "popcorn",
+      "serving": "sehemu 1 ya popcorn"
+    },
+    "potato-chips": {
+      "name": "Chipsi za viazi",
+      "namePrep": "chipsi za viazi",
+      "serving": "sehemu 1 ya chipsi za viazi"
+    },
+    "pretzels": {
+      "name": "Pretzels",
+      "namePrep": "pretzels",
+      "serving": "sehemu 1 ya pretzels"
+    },
+    "smoothie": {
+      "name": "Smoothie ya matunda",
+      "namePrep": "smoothie ya matunda",
+      "serving": "sehemu 1 ya smoothie ya matunda"
+    },
+    "orange-juice": {
+      "name": "Juisi ya machungwa",
+      "namePrep": "juisi ya machungwa",
+      "serving": "sehemu 1 ya juisi ya machungwa"
+    },
+    "soda": {
+      "name": "Soda",
+      "namePrep": "soda",
+      "serving": "sehemu 1 ya soda"
+    },
+    "latte": {
+      "name": "Latte",
+      "namePrep": "latte",
+      "serving": "sehemu 1 ya latte"
+    },
+    "protein-shake": {
+      "name": "Kinywaji cha protini",
+      "namePrep": "kinywaji cha protini",
+      "serving": "sehemu 1 ya kinywaji cha protini"
+    },
+    "spaghetti-bolognese": {
+      "name": "Spaghetti bolognese",
+      "namePrep": "spaghetti bolognese",
+      "serving": "sehemu 1 ya spaghetti bolognese"
+    },
+    "ramen": {
+      "name": "Ramen",
+      "namePrep": "ramen",
+      "serving": "sehemu 1 ya ramen"
+    },
+    "pho": {
+      "name": "Pho",
+      "namePrep": "pho",
+      "serving": "sehemu 1 ya pho"
+    },
+    "chicken-soup": {
+      "name": "Supu ya kuku",
+      "namePrep": "supu ya kuku",
+      "serving": "sehemu 1 ya supu ya kuku"
+    },
+    "caesar-salad": {
+      "name": "Saladi ya Caesar",
+      "namePrep": "saladi ya Caesar",
+      "serving": "sehemu 1 ya saladi ya Caesar"
+    },
+    "green-salad": {
+      "name": "Saladi ya kijani",
+      "namePrep": "saladi ya kijani",
+      "serving": "sehemu 1 ya saladi ya kijani"
+    },
+    "broccoli": {
+      "name": "Brokoli",
+      "namePrep": "brokoli",
+      "serving": "sehemu 1 ya brokoli"
+    },
+    "spinach": {
+      "name": "Spinachi",
+      "namePrep": "spinachi",
+      "serving": "sehemu 1 ya spinachi"
+    },
+    "carrots": {
+      "name": "Karoti",
+      "namePrep": "karoti",
+      "serving": "sehemu 1 ya karoti"
+    },
+    "corn": {
+      "name": "Mahindi",
+      "namePrep": "mahindi",
+      "serving": "sehemu 1 ya mahindi"
+    },
+    "tomato": {
+      "name": "Nyanya",
+      "namePrep": "nyanya",
+      "serving": "sehemu 1 ya nyanya"
+    },
+    "cucumber": {
+      "name": "Tango",
+      "namePrep": "tango",
+      "serving": "sehemu 1 ya tango"
+    },
+    "cheesecake": {
+      "name": "Cheesecake",
+      "namePrep": "cheesecake",
+      "serving": "sehemu 1 ya cheesecake"
+    },
+    "lasagna": {
+      "name": "Lasagna",
+      "namePrep": "lasagna",
+      "serving": "sehemu 1 ya lasagna"
+    },
+    "grilled-cheese": {
+      "name": "Sandwichi ya jibini iliyochomwa",
+      "namePrep": "sandwichi ya jibini iliyochomwa",
+      "serving": "sehemu 1 ya sandwichi ya jibini iliyochomwa"
+    },
+    "peanut-butter-jelly": {
+      "name": "Sandwichi ya siagi ya karanga na jamu",
+      "namePrep": "sandwichi ya siagi ya karanga na jamu",
+      "serving": "sehemu 1 ya sandwichi ya siagi ya karanga na jamu"
+    },
+    "omelette": {
+      "name": "Omeleti",
+      "namePrep": "omeleti",
+      "serving": "sehemu 1 ya omeleti"
+    },
+    "fried-egg": {
+      "name": "Yai la kukaanga",
+      "namePrep": "yai la kukaanga",
+      "serving": "sehemu 1 ya yai la kukaanga"
+    },
+    "boiled-egg": {
+      "name": "Yai la kuchemsha",
+      "namePrep": "yai la kuchemsha",
+      "serving": "sehemu 1 ya yai la kuchemsha"
+    },
+    "toast": {
+      "name": "Toast",
+      "namePrep": "toast",
+      "serving": "sehemu 1 ya toast"
+    },
+    "avocado-toast": {
+      "name": "Toast ya parachichi",
+      "namePrep": "toast ya parachichi",
+      "serving": "sehemu 1 ya toast ya parachichi"
+    },
+    "chicken-salad": {
+      "name": "Saladi ya kuku",
+      "namePrep": "saladi ya kuku",
+      "serving": "sehemu 1 ya saladi ya kuku"
+    },
+    "tuna-salad": {
+      "name": "Saladi ya tuna",
+      "namePrep": "saladi ya tuna",
+      "serving": "sehemu 1 ya saladi ya tuna"
+    },
+    "egg-salad": {
+      "name": "Saladi ya mayai",
+      "namePrep": "saladi ya mayai",
+      "serving": "sehemu 1 ya saladi ya mayai"
+    },
+    "cottage-cheese": {
+      "name": "Jibini la cottage",
+      "namePrep": "jibini la cottage",
+      "serving": "sehemu 1 ya jibini la cottage"
+    },
+    "cream-cheese": {
+      "name": "Jibini la cream",
+      "namePrep": "jibini la cream",
+      "serving": "sehemu 1 ya jibini la cream"
+    },
+    "butter": {
+      "name": "Siagi",
+      "namePrep": "siagi",
+      "serving": "sehemu 1 ya siagi"
+    },
+    "olive-oil": {
+      "name": "Mafuta ya zeituni",
+      "namePrep": "mafuta ya zeituni",
+      "serving": "sehemu 1 ya mafuta ya zeituni"
+    },
+    "mayonnaise": {
+      "name": "Mayonnaise",
+      "namePrep": "mayonnaise",
+      "serving": "sehemu 1 ya mayonnaise"
+    },
+    "ketchup": {
+      "name": "Ketchup",
+      "namePrep": "ketchup",
+      "serving": "sehemu 1 ya ketchup"
+    },
+    "honey": {
+      "name": "Asali",
+      "namePrep": "asali",
+      "serving": "sehemu 1 ya asali"
+    },
+    "jam": {
+      "name": "Jamu",
+      "namePrep": "jamu",
+      "serving": "sehemu 1 ya jamu"
+    },
+    "protein-bar": {
+      "name": "Baa ya protini",
+      "namePrep": "baa ya protini",
+      "serving": "sehemu 1 ya baa ya protini"
+    },
+    "energy-drink": {
+      "name": "Kinywaji cha nishati",
+      "namePrep": "kinywaji cha nishati",
+      "serving": "sehemu 1 ya kinywaji cha nishati"
+    },
+    "matcha-latte": {
+      "name": "Matcha latte",
+      "namePrep": "matcha latte",
+      "serving": "sehemu 1 ya matcha latte"
+    },
+    "trail-mix": {
+      "name": "Mchanganyiko wa karanga na matunda yaliyokaushwa",
+      "namePrep": "mchanganyiko wa karanga na matunda yaliyokaushwa",
+      "serving": "sehemu 1 ya mchanganyiko wa karanga na matunda yaliyokaushwa"
+    },
+    "blueberries": {
+      "name": "Blueberries",
+      "namePrep": "blueberries",
+      "serving": "sehemu 1 ya blueberries"
+    },
+    "strawberries": {
+      "name": "Stroberi",
+      "namePrep": "stroberi",
+      "serving": "sehemu 1 ya stroberi"
+    },
+    "grapes": {
+      "name": "Zabibu",
+      "namePrep": "zabibu",
+      "serving": "sehemu 1 ya zabibu"
+    },
+    "orange": {
+      "name": "Chungwa",
+      "namePrep": "chungwa",
+      "serving": "sehemu 1 ya chungwa"
+    },
+    "pear": {
+      "name": "Pea",
+      "namePrep": "pea",
+      "serving": "sehemu 1 ya pea"
+    },
+    "peach": {
+      "name": "Pichi",
+      "namePrep": "pichi",
+      "serving": "sehemu 1 ya pichi"
+    },
+    "watermelon": {
+      "name": "Tikiti maji",
+      "namePrep": "tikiti maji",
+      "serving": "sehemu 1 ya tikiti maji"
+    },
+    "pineapple": {
+      "name": "Nanasi",
+      "namePrep": "nanasi",
+      "serving": "sehemu 1 ya nanasi"
+    },
+    "mango": {
+      "name": "Embe",
+      "namePrep": "embe",
+      "serving": "sehemu 1 ya embe"
+    },
+    "kiwi": {
+      "name": "Kiwi",
+      "namePrep": "kiwi",
+      "serving": "sehemu 1 ya kiwi"
+    },
+    "raspberries": {
+      "name": "Raspberries",
+      "namePrep": "raspberries",
+      "serving": "sehemu 1 ya raspberries"
+    },
+    "blackberries": {
+      "name": "Blackberries",
+      "namePrep": "blackberries",
+      "serving": "sehemu 1 ya blackberries"
+    },
+    "cherries": {
+      "name": "Cherries",
+      "namePrep": "cherries",
+      "serving": "sehemu 1 ya cherries"
+    },
+    "grapefruit": {
+      "name": "Grapefruit",
+      "namePrep": "grapefruit",
+      "serving": "sehemu 1 ya grapefruit"
+    },
+    "lettuce": {
+      "name": "Letusi",
+      "namePrep": "letusi",
+      "serving": "sehemu 1 ya letusi"
+    },
+    "cabbage": {
+      "name": "Kabichi",
+      "namePrep": "kabichi",
+      "serving": "sehemu 1 ya kabichi"
+    },
+    "cauliflower": {
+      "name": "Cauliflower",
+      "namePrep": "cauliflower",
+      "serving": "sehemu 1 ya cauliflower"
+    },
+    "asparagus": {
+      "name": "Asparagus",
+      "namePrep": "asparagus",
+      "serving": "sehemu 1 ya asparagus"
+    },
+    "zucchini": {
+      "name": "Zucchini",
+      "namePrep": "zucchini",
+      "serving": "sehemu 1 ya zucchini"
+    },
+    "eggplant": {
+      "name": "Bilinganya",
+      "namePrep": "bilinganya",
+      "serving": "sehemu 1 ya bilinganya"
+    },
+    "bell-pepper": {
+      "name": "Pilipili hoho",
+      "namePrep": "pilipili hoho",
+      "serving": "sehemu 1 ya pilipili hoho"
+    },
+    "onion": {
+      "name": "Kitunguu",
+      "namePrep": "kitunguu",
+      "serving": "sehemu 1 ya kitunguu"
+    },
+    "mushrooms": {
+      "name": "Uyoga",
+      "namePrep": "uyoga",
+      "serving": "sehemu 1 ya uyoga"
+    },
+    "green-beans": {
+      "name": "Maharagwe mabichi",
+      "namePrep": "maharagwe mabichi",
+      "serving": "sehemu 1 ya maharagwe mabichi"
+    },
+    "kale": {
+      "name": "Kale",
+      "namePrep": "kale",
+      "serving": "sehemu 1 ya kale"
+    },
+    "beets": {
+      "name": "Beetroot",
+      "namePrep": "beetroot",
+      "serving": "sehemu 1 ya beetroot"
+    },
+    "turkey-breast": {
+      "name": "Kifua cha bata mzinga",
+      "namePrep": "kifua cha bata mzinga",
+      "serving": "sehemu 1 ya kifua cha bata mzinga"
+    },
+    "chicken-thigh": {
+      "name": "Paja la kuku",
+      "namePrep": "paja la kuku",
+      "serving": "sehemu 1 ya paja la kuku"
+    },
+    "pork-chop": {
+      "name": "Kipande cha nguruwe",
+      "namePrep": "kipande cha nguruwe",
+      "serving": "sehemu 1 ya kipande cha nguruwe"
+    },
+    "ground-beef": {
+      "name": "Nyama ya kusaga",
+      "namePrep": "nyama ya kusaga",
+      "serving": "sehemu 1 ya nyama ya kusaga"
+    },
+    "meatballs": {
+      "name": "Mipira ya nyama",
+      "namePrep": "mipira ya nyama",
+      "serving": "sehemu 1 ya mipira ya nyama"
+    },
+    "sausage": {
+      "name": "Soseji",
+      "namePrep": "soseji",
+      "serving": "sehemu 1 ya soseji"
+    },
+    "cod": {
+      "name": "Cod",
+      "namePrep": "cod",
+      "serving": "sehemu 1 ya cod"
+    },
+    "tilapia": {
+      "name": "Tilapia",
+      "namePrep": "tilapia",
+      "serving": "sehemu 1 ya tilapia"
+    },
+    "sardines": {
+      "name": "Dagaa",
+      "namePrep": "dagaa",
+      "serving": "sehemu 1 ya dagaa"
+    },
+    "crab": {
+      "name": "Kaa",
+      "namePrep": "kaa",
+      "serving": "sehemu 1 ya kaa"
+    },
+    "scallops": {
+      "name": "Scallops",
+      "namePrep": "scallops",
+      "serving": "sehemu 1 ya scallops"
+    },
+    "smoked-salmon": {
+      "name": "Salmoni ya kuvutwa",
+      "namePrep": "salmoni ya kuvutwa",
+      "serving": "sehemu 1 ya salmoni ya kuvutwa"
+    },
+    "skim-milk": {
+      "name": "Maziwa yasiyo na mafuta mengi",
+      "namePrep": "maziwa yasiyo na mafuta mengi",
+      "serving": "sehemu 1 ya maziwa yasiyo na mafuta mengi"
+    },
+    "soy-milk": {
+      "name": "Maziwa ya soya",
+      "namePrep": "maziwa ya soya",
+      "serving": "sehemu 1 ya maziwa ya soya"
+    },
+    "almond-milk": {
+      "name": "Maziwa ya lozi",
+      "namePrep": "maziwa ya lozi",
+      "serving": "sehemu 1 ya maziwa ya lozi"
+    },
+    "oat-milk": {
+      "name": "Maziwa ya shayiri",
+      "namePrep": "maziwa ya shayiri",
+      "serving": "sehemu 1 ya maziwa ya shayiri"
+    },
+    "kefir": {
+      "name": "Kefir",
+      "namePrep": "kefir",
+      "serving": "sehemu 1 ya kefir"
+    },
+    "sour-cream": {
+      "name": "Krimu ya siki",
+      "namePrep": "krimu ya siki",
+      "serving": "sehemu 1 ya krimu ya siki"
+    },
+    "feta-cheese": {
+      "name": "Feta",
+      "namePrep": "feta",
+      "serving": "sehemu 1 ya feta"
+    },
+    "mozzarella": {
+      "name": "Mozzarella",
+      "namePrep": "mozzarella",
+      "serving": "sehemu 1 ya mozzarella"
+    },
+    "parmesan": {
+      "name": "Parmesan",
+      "namePrep": "parmesan",
+      "serving": "sehemu 1 ya parmesan"
+    },
+    "couscous": {
+      "name": "Couscous",
+      "namePrep": "couscous",
+      "serving": "sehemu 1 ya couscous"
+    },
+    "barley": {
+      "name": "Shayiri",
+      "namePrep": "shayiri",
+      "serving": "sehemu 1 ya shayiri"
+    },
+    "buckwheat": {
+      "name": "Buckwheat",
+      "namePrep": "buckwheat",
+      "serving": "sehemu 1 ya buckwheat"
+    },
+    "bulgur": {
+      "name": "Bulgur",
+      "namePrep": "bulgur",
+      "serving": "sehemu 1 ya bulgur"
+    },
+    "naan": {
+      "name": "Naan",
+      "namePrep": "naan",
+      "serving": "sehemu 1 ya naan"
+    },
+    "pita-bread": {
+      "name": "Mkate wa pita",
+      "namePrep": "mkate wa pita",
+      "serving": "sehemu 1 ya mkate wa pita"
+    },
+    "english-muffin": {
+      "name": "English muffin",
+      "namePrep": "english muffin",
+      "serving": "sehemu 1 ya english muffin"
+    },
+    "rice-cake": {
+      "name": "Keki ya mchele",
+      "namePrep": "keki ya mchele",
+      "serving": "sehemu 1 ya keki ya mchele"
+    },
+    "crackers": {
+      "name": "Crackers",
+      "namePrep": "crackers",
+      "serving": "sehemu 1 ya crackers"
+    },
+    "mashed-potatoes": {
+      "name": "Viazi vilivyopondwa",
+      "namePrep": "viazi vilivyopondwa",
+      "serving": "sehemu 1 ya viazi vilivyopondwa"
+    },
+    "scrambled-eggs": {
+      "name": "Mayai yaliyokorogwa",
+      "namePrep": "mayai yaliyokorogwa",
+      "serving": "sehemu 1 ya mayai yaliyokorogwa"
+    },
+    "french-toast": {
+      "name": "French toast",
+      "namePrep": "french toast",
+      "serving": "sehemu 1 ya french toast"
+    },
+    "breakfast-burrito": {
+      "name": "Burrito ya kiamsha kinywa",
+      "namePrep": "burrito ya kiamsha kinywa",
+      "serving": "sehemu 1 ya burrito ya kiamsha kinywa"
+    },
+    "hash-browns": {
+      "name": "Hash browns",
+      "namePrep": "hash browns",
+      "serving": "sehemu 1 ya hash browns"
+    },
+    "chia-pudding": {
+      "name": "Pudding ya chia",
+      "namePrep": "pudding ya chia",
+      "serving": "sehemu 1 ya pudding ya chia"
+    },
+    "overnight-oats": {
+      "name": "Shayiri ya usiku kucha",
+      "namePrep": "shayiri ya usiku kucha",
+      "serving": "sehemu 1 ya shayiri ya usiku kucha"
+    },
+    "breakfast-sandwich": {
+      "name": "Sandwichi ya kiamsha kinywa",
+      "namePrep": "sandwichi ya kiamsha kinywa",
+      "serving": "sehemu 1 ya sandwichi ya kiamsha kinywa"
+    },
+    "edamame": {
+      "name": "Edamame",
+      "namePrep": "edamame",
+      "serving": "sehemu 1 ya edamame"
+    },
+    "kidney-beans": {
+      "name": "Maharagwe ya kidney",
+      "namePrep": "maharagwe ya kidney",
+      "serving": "sehemu 1 ya maharagwe ya kidney"
+    },
+    "pinto-beans": {
+      "name": "Maharagwe ya pinto",
+      "namePrep": "maharagwe ya pinto",
+      "serving": "sehemu 1 ya maharagwe ya pinto"
+    },
+    "split-peas": {
+      "name": "Mbaazi zilizopasuliwa",
+      "namePrep": "mbaazi zilizopasuliwa",
+      "serving": "sehemu 1 ya mbaazi zilizopasuliwa"
+    },
+    "baked-beans": {
+      "name": "Maharagwe yaliyookwa",
+      "namePrep": "maharagwe yaliyookwa",
+      "serving": "sehemu 1 ya maharagwe yaliyookwa"
+    },
+    "fried-rice": {
+      "name": "Wali wa kukaanga",
+      "namePrep": "wali wa kukaanga",
+      "serving": "sehemu 1 ya wali wa kukaanga"
+    },
+    "pad-thai": {
+      "name": "Pad Thai",
+      "namePrep": "pad Thai",
+      "serving": "sehemu 1 ya pad Thai"
+    },
+    "chicken-curry": {
+      "name": "Kari ya kuku",
+      "namePrep": "kari ya kuku",
+      "serving": "sehemu 1 ya kari ya kuku"
+    },
+    "chicken-tikka-masala": {
+      "name": "Kuku tikka masala",
+      "namePrep": "kuku tikka masala",
+      "serving": "sehemu 1 ya kuku tikka masala"
+    },
+    "beef-chili": {
+      "name": "Chili ya nyama ya ng’ombe",
+      "namePrep": "chili ya nyama ya ng’ombe",
+      "serving": "sehemu 1 ya chili ya nyama ya ng’ombe"
+    },
+    "falafel": {
+      "name": "Falafel",
+      "namePrep": "falafel",
+      "serving": "sehemu 1 ya falafel"
+    },
+    "dumplings": {
+      "name": "Dumplings",
+      "namePrep": "dumplings",
+      "serving": "sehemu 1 ya dumplings"
+    },
+    "spring-rolls": {
+      "name": "Spring rolls",
+      "namePrep": "spring rolls",
+      "serving": "sehemu 1 ya spring rolls"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "quesadilla",
+      "serving": "sehemu 1 ya quesadilla"
+    },
+    "nachos": {
+      "name": "Nachos",
+      "namePrep": "nachos",
+      "serving": "sehemu 1 ya nachos"
+    },
+    "mac-and-cheese": {
+      "name": "Macaroni na jibini",
+      "namePrep": "macaroni na jibini",
+      "serving": "sehemu 1 ya macaroni na jibini"
+    },
+    "chicken-wings": {
+      "name": "Mabawa ya kuku",
+      "namePrep": "mabawa ya kuku",
+      "serving": "sehemu 1 ya mabawa ya kuku"
+    },
+    "fish-and-chips": {
+      "name": "Samaki na chipsi",
+      "namePrep": "samaki na chipsi",
+      "serving": "sehemu 1 ya samaki na chipsi"
+    },
+    "risotto": {
+      "name": "Risotto",
+      "namePrep": "risotto",
+      "serving": "sehemu 1 ya risotto"
+    },
+    "tortilla-chips": {
+      "name": "Chipsi za tortilla",
+      "namePrep": "chipsi za tortilla",
+      "serving": "sehemu 1 ya chipsi za tortilla"
+    },
+    "granola-bar": {
+      "name": "Baa ya granola",
+      "namePrep": "baa ya granola",
+      "serving": "sehemu 1 ya baa ya granola"
+    },
+    "chocolate-bar": {
+      "name": "Baa ya chokoleti",
+      "namePrep": "baa ya chokoleti",
+      "serving": "sehemu 1 ya baa ya chokoleti"
+    },
+    "candy": {
+      "name": "Pipi",
+      "namePrep": "pipi",
+      "serving": "sehemu 1 ya pipi"
+    },
+    "cinnamon-roll": {
+      "name": "Roli ya mdalasini",
+      "namePrep": "roli ya mdalasini",
+      "serving": "sehemu 1 ya roli ya mdalasini"
+    },
+    "marshmallows": {
+      "name": "Marshmallows",
+      "namePrep": "marshmallows",
+      "serving": "sehemu 1 ya marshmallows"
+    },
+    "fruit-snacks": {
+      "name": "Vitafunwa vya matunda",
+      "namePrep": "vitafunwa vya matunda",
+      "serving": "sehemu 1 ya vitafunwa vya matunda"
+    },
+    "black-coffee": {
+      "name": "Kahawa nyeusi",
+      "namePrep": "kahawa nyeusi",
+      "serving": "sehemu 1 ya kahawa nyeusi"
+    },
+    "cappuccino": {
+      "name": "Cappuccino",
+      "namePrep": "cappuccino",
+      "serving": "sehemu 1 ya cappuccino"
+    },
+    "milk-tea": {
+      "name": "Chai ya maziwa",
+      "namePrep": "chai ya maziwa",
+      "serving": "sehemu 1 ya chai ya maziwa"
+    },
+    "bubble-tea": {
+      "name": "Bubble tea",
+      "namePrep": "bubble tea",
+      "serving": "sehemu 1 ya bubble tea"
+    },
+    "lemonade": {
+      "name": "Lemonade",
+      "namePrep": "lemonade",
+      "serving": "sehemu 1 ya lemonade"
+    },
+    "iced-tea": {
+      "name": "Chai ya barafu",
+      "namePrep": "chai ya barafu",
+      "serving": "sehemu 1 ya chai ya barafu"
+    },
+    "apple-juice": {
+      "name": "Juisi ya tufaha",
+      "namePrep": "juisi ya tufaha",
+      "serving": "sehemu 1 ya juisi ya tufaha"
+    },
+    "coconut-water": {
+      "name": "Maji ya nazi",
+      "namePrep": "maji ya nazi",
+      "serving": "sehemu 1 ya maji ya nazi"
+    },
+    "sports-drink": {
+      "name": "Kinywaji cha michezo",
+      "namePrep": "kinywaji cha michezo",
+      "serving": "sehemu 1 ya kinywaji cha michezo"
+    },
+    "ranch-dressing": {
+      "name": "Sosi ya ranch",
+      "namePrep": "sosi ya ranch",
+      "serving": "sehemu 1 ya sosi ya ranch"
+    },
+    "bbq-sauce": {
+      "name": "Sosi ya BBQ",
+      "namePrep": "sosi ya BBQ",
+      "serving": "sehemu 1 ya sosi ya BBQ"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "salsa",
+      "serving": "sehemu 1 ya salsa"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "guacamole",
+      "serving": "sehemu 1 ya guacamole"
+    }
+  },
+  "utility": {
+    "pricing": "Bei",
+    "support": "Usaidizi",
+    "privacy": "Faragha",
+    "terms": "Masharti",
+    "press": "Kifurushi cha vyombo vya habari",
+    "deleteExtra": "Kuomba kufutwa kwa akaunti au data, andika kutoka barua pepe iliyounganishwa na akaunti na utumie “Delete account” kwenye kichwa cha ujumbe."
+  },
+  "store": {
+    "appStoreSmall": "App Store",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Google Play",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Vipengele",
+    "useCase": "Matumizi",
+    "openPage": "Jifunze zaidi →",
+    "openArrow": "Jifunze zaidi →",
+    "practicalWorkflow": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+    "workflowTitle": "Rekodi chakula kwa hatua tatu za haraka",
+    "goodToKnow": "Jifunze zaidi",
+    "defaultNote": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+    "relatedPages": "Matumizi",
+    "quickTakeaway": "Jifunze zaidi",
+    "defaultTakeaway": "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+    "information": "Lishe",
+    "bestFor": "Inafaa zaidi kwa"
+  },
+  "internalCta": {
+    "title": "Badilisha mlo wako unaofuata kuwa ingizo la lishe",
+    "text": "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara.",
+    "button": "Pakua"
+  },
+  "download": {
+    "availableTitle": "Inapatikana kwa iPhone na Android",
+    "availableText": "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+  },
+  "faq": {
+    "items": [
+      [
+        "Je, Calorie Counter AI ni bure?",
+        "Unaweza kuanza kwa uchambuzi wa milo kwa AI bila malipo kila siku. Premium husaidia kama unahitaji vikomo vya juu na zana za ziada."
+      ],
+      [
+        "Je, ninaweza kuhesabu kalori kutoka kwenye picha?",
+        "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+      ],
+      [
+        "Je, ina kichanganua msimbo pau?",
+        "Changanua msimbo pau wa chakula kilichofungashwa, thibitisha bidhaa na ongeza kalori na makro kwenye shajara yako ndani ya sekunde chache."
+      ],
+      [
+        "Je, programu hufuatilia makro?",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      [
+        "Je, inafaa kwa chakula cha nyumbani?",
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula."
+      ],
+      [
+        "Je, huu ni ushauri wa kitabibu?",
+        "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Unaweza kuanza kwa uchambuzi wa milo kwa AI bila malipo kila siku. Premium husaidia kama unahitaji vikomo vya juu na zana za ziada.",
+      "Unaweza kuanza kwa uchambuzi wa milo kwa AI bila malipo kila siku. Premium husaidia kama unahitaji vikomo vya juu na zana za ziada."
+    ],
+    "support": [
+      "Unahitaji msaada? Wasiliana na usaidizi na uweke kifaa, jukwaa, toleo la programu na maelezo mafupi ya tatizo.",
+      "Unahitaji msaada? Wasiliana na usaidizi na uweke kifaa, jukwaa, toleo la programu na maelezo mafupi ya tatizo."
+    ],
+    "contact": [
+      "Barua pepe ya usaidizi: support@caloriecounterai.app",
+      "Kwa ushirikiano, maombi ya vyombo vya habari na maoni, tumia kichwa cha ujumbe kilicho wazi."
+    ],
+    "privacy": [
+      "Calorie Counter AI imeundwa kwa kurekodi chakula na kufuatilia lishe kwa uangalifu zaidi. Data inaweza kujumuisha milo, picha, mipangilio na taarifa za kiufundi zinazohitajika kuendesha huduma.",
+      "Calorie Counter AI imeundwa kwa kurekodi chakula na kufuatilia lishe kwa uangalifu zaidi. Data inaweza kujumuisha milo, picha, mipangilio na taarifa za kiufundi zinazohitajika kuendesha huduma."
+    ],
+    "terms": [
+      "Kwa kutumia Calorie Counter AI, unakubali kuitumia kama zana ya taarifa za lishe na kukagua makadirio kabla ya kuyategemea.",
+      "Kwa kutumia Calorie Counter AI, unakubali kuitumia kama zana ya taarifa za lishe na kukagua makadirio kabla ya kuyategemea."
+    ],
+    "disclaimer": [
+      "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+    ],
+    "delete": [
+      "Kuomba kufutwa kwa akaunti au data, andika kutoka barua pepe iliyounganishwa na akaunti na utumie “Delete account” kwenye kichwa cha ujumbe.",
+      "Kuomba kufutwa kwa akaunti au data, andika kutoka barua pepe iliyounganishwa na akaunti na utumie “Delete account” kwenye kichwa cha ujumbe."
+    ]
+  },
+  "press": {
+    "iconAlt": "Aikoni ya programu",
+    "iconTitle": "Aikoni ya programu",
+    "downloadIcon": "Pakua",
+    "screenshotAlt": "Picha ya skrini ya programu",
+    "screenshotTitle": "Picha ya skrini",
+    "downloadScreenshot": "Pakua",
+    "shortDescriptionTitle": "Programu ya AI ya kuhesabu kalori kwa picha",
+    "shortDescriptionText": "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+  },
+  "notFound": {
+    "title": "Ukurasa haukupatikana",
+    "text": "Ukurasa unaoutafuta bado haupo.",
+    "home": "Nyumbani"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Vipengele",
+      "h1": "Vipengele",
+      "description": "Vipengele: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Vipengele",
+      "summary": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+      "bullets": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ]
+      ],
+      "workflowTitle": "Vipengele",
+      "workflow": [
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      "note": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "bestFor": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "workflowKicker": "Vipengele",
+      "noteTitle": "Jifunze zaidi"
+    },
+    "/food-recognition-ai/": {
+      "title": "Kihesabu kalori kwa picha kwa AI",
+      "h1": "Kihesabu kalori kwa picha kwa AI",
+      "description": "Kihesabu kalori kwa picha kwa AI: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Kihesabu kalori kwa picha kwa AI",
+      "summary": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+      "bullets": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ]
+      ],
+      "workflowTitle": "Kihesabu kalori kwa picha kwa AI",
+      "workflow": [
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      "note": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "bestFor": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "workflowKicker": "Kihesabu kalori kwa picha kwa AI",
+      "noteTitle": "Jifunze zaidi"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Kichanganua msimbo pau",
+      "h1": "Kichanganua msimbo pau",
+      "description": "Kichanganua msimbo pau: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Kichanganua msimbo pau",
+      "summary": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+      "bullets": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ]
+      ],
+      "workflowTitle": "Kichanganua msimbo pau",
+      "workflow": [
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      "note": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "bestFor": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "workflowKicker": "Kichanganua msimbo pau",
+      "noteTitle": "Jifunze zaidi"
+    },
+    "/macro-tracker/": {
+      "title": "Kifuatilia makro",
+      "h1": "Kifuatilia makro",
+      "description": "Kifuatilia makro: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Kifuatilia makro",
+      "summary": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+      "bullets": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ]
+      ],
+      "workflowTitle": "Kifuatilia makro",
+      "workflow": [
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      "note": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "bestFor": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "workflowKicker": "Kifuatilia makro",
+      "noteTitle": "Jifunze zaidi"
+    },
+    "/food-diary-app/": {
+      "title": "Programu ya shajara ya chakula",
+      "h1": "Programu ya shajara ya chakula",
+      "description": "Programu ya shajara ya chakula: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Programu ya shajara ya chakula",
+      "summary": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+      "bullets": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ]
+      ],
+      "workflowTitle": "Programu ya shajara ya chakula",
+      "workflow": [
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      "note": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "bestFor": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "workflowKicker": "Programu ya shajara ya chakula",
+      "noteTitle": "Jifunze zaidi"
+    },
+    "/nutrition-tracker/": {
+      "title": "Kifuatilia lishe",
+      "h1": "Kifuatilia lishe",
+      "description": "Kifuatilia lishe: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Kifuatilia lishe",
+      "summary": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+      "bullets": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ]
+      ],
+      "workflowTitle": "Kifuatilia lishe",
+      "workflow": [
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      "note": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "bestFor": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "workflowKicker": "Kifuatilia lishe",
+      "noteTitle": "Jifunze zaidi"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Mkadiriaji wa uzito wa mlo",
+      "h1": "Mkadiriaji wa uzito wa mlo",
+      "description": "Mkadiriaji wa uzito wa mlo: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Mkadiriaji wa uzito wa mlo",
+      "summary": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+      "bullets": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ]
+      ],
+      "workflowTitle": "Mkadiriaji wa uzito wa mlo",
+      "workflow": [
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      "note": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "bestFor": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "workflowKicker": "Mkadiriaji wa uzito wa mlo",
+      "noteTitle": "Jifunze zaidi"
+    },
+    "/progress-statistics/": {
+      "title": "Takwimu za lishe",
+      "h1": "Takwimu za lishe",
+      "description": "Takwimu za lishe: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Takwimu za lishe",
+      "summary": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+      "bullets": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ]
+      ],
+      "workflowTitle": "Takwimu za lishe",
+      "workflow": [
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      "note": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "bestFor": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "workflowKicker": "Takwimu za lishe",
+      "noteTitle": "Jifunze zaidi"
+    },
+    "/meal-reminders/": {
+      "title": "Vikumbusho vya milo",
+      "h1": "Vikumbusho vya milo",
+      "description": "Vikumbusho vya milo: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Vikumbusho vya milo",
+      "summary": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+      "bullets": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ]
+      ],
+      "workflowTitle": "Vikumbusho vya milo",
+      "workflow": [
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      "note": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "bestFor": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "workflowKicker": "Vikumbusho vya milo",
+      "noteTitle": "Jifunze zaidi"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Google Health Connect",
+      "description": "Google Health Connect: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Google Health Connect",
+      "summary": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+      "bullets": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ]
+      ],
+      "workflowTitle": "Google Health Connect",
+      "workflow": [
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      "note": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "bestFor": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "workflowKicker": "Google Health Connect",
+      "noteTitle": "Jifunze zaidi"
+    },
+    "/data-export/": {
+      "title": "Hamisha data",
+      "h1": "Hamisha data",
+      "description": "Hamisha data: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Hamisha data",
+      "summary": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+      "bullets": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ]
+      ],
+      "workflowTitle": "Hamisha data",
+      "workflow": [
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      "note": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "bestFor": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "workflowKicker": "Hamisha data",
+      "noteTitle": "Jifunze zaidi"
+    },
+    "/use-cases/": {
+      "title": "Matumizi",
+      "h1": "Matumizi",
+      "description": "Matumizi: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Matumizi"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Kihesabu kalori cha kupunguza uzito",
+      "h1": "Kihesabu kalori cha kupunguza uzito",
+      "description": "Kihesabu kalori cha kupunguza uzito: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Kihesabu kalori cha kupunguza uzito",
+      "summary": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+      "bullets": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ]
+      ],
+      "workflowTitle": "Kihesabu kalori cha kupunguza uzito",
+      "workflow": [
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      "note": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "bestFor": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "workflowKicker": "Kihesabu kalori cha kupunguza uzito",
+      "noteTitle": "Jifunze zaidi"
+    },
+    "/calorie-deficit-app/": {
+      "title": "Programu ya upungufu wa kalori",
+      "h1": "Programu ya upungufu wa kalori",
+      "description": "Programu ya upungufu wa kalori: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Programu ya upungufu wa kalori",
+      "summary": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+      "bullets": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ]
+      ],
+      "workflowTitle": "Programu ya upungufu wa kalori",
+      "workflow": [
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      "note": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "bestFor": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "workflowKicker": "Programu ya upungufu wa kalori",
+      "noteTitle": "Jifunze zaidi"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Kifuatilia kalori cha kuongeza misuli",
+      "h1": "Kifuatilia kalori cha kuongeza misuli",
+      "description": "Kifuatilia kalori cha kuongeza misuli: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Kifuatilia kalori cha kuongeza misuli",
+      "summary": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+      "bullets": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ]
+      ],
+      "workflowTitle": "Kifuatilia kalori cha kuongeza misuli",
+      "workflow": [
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      "note": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "bestFor": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "workflowKicker": "Kifuatilia kalori cha kuongeza misuli",
+      "noteTitle": "Jifunze zaidi"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Kifuatilia uzito wa kudumisha",
+      "h1": "Kifuatilia uzito wa kudumisha",
+      "description": "Kifuatilia uzito wa kudumisha: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Kifuatilia uzito wa kudumisha",
+      "summary": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+      "bullets": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ]
+      ],
+      "workflowTitle": "Kifuatilia uzito wa kudumisha",
+      "workflow": [
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      "note": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "bestFor": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "workflowKicker": "Kifuatilia uzito wa kudumisha",
+      "noteTitle": "Jifunze zaidi"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Kihesabu kalori cha chakula cha nyumbani",
+      "h1": "Kihesabu kalori cha chakula cha nyumbani",
+      "description": "Kihesabu kalori cha chakula cha nyumbani: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Kihesabu kalori cha chakula cha nyumbani",
+      "summary": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+      "bullets": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ]
+      ],
+      "workflowTitle": "Kihesabu kalori cha chakula cha nyumbani",
+      "workflow": [
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      "note": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "bestFor": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "workflowKicker": "Kihesabu kalori cha chakula cha nyumbani",
+      "noteTitle": "Jifunze zaidi"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Kifuatilia kalori cha chakula cha mgahawani",
+      "h1": "Kifuatilia kalori cha chakula cha mgahawani",
+      "description": "Kifuatilia kalori cha chakula cha mgahawani: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Kifuatilia kalori cha chakula cha mgahawani",
+      "summary": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+      "bullets": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ]
+      ],
+      "workflowTitle": "Kifuatilia kalori cha chakula cha mgahawani",
+      "workflow": [
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      "note": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "bestFor": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "workflowKicker": "Kifuatilia kalori cha chakula cha mgahawani",
+      "noteTitle": "Jifunze zaidi"
+    },
+    "/meal-tracker/": {
+      "title": "Kifuatilia milo",
+      "h1": "Kifuatilia milo",
+      "description": "Kifuatilia milo: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Kifuatilia milo",
+      "summary": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+      "bullets": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ]
+      ],
+      "workflowTitle": "Kifuatilia milo",
+      "workflow": [
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      "note": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "bestFor": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "workflowKicker": "Kifuatilia milo",
+      "noteTitle": "Jifunze zaidi"
+    },
+    "/photo-food-journal/": {
+      "title": "Jarida la chakula kwa picha",
+      "h1": "Jarida la chakula kwa picha",
+      "description": "Jarida la chakula kwa picha: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Jarida la chakula kwa picha",
+      "summary": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+      "bullets": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ]
+      ],
+      "workflowTitle": "Jarida la chakula kwa picha",
+      "workflow": [
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      "note": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "bestFor": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "workflowKicker": "Jarida la chakula kwa picha",
+      "noteTitle": "Jifunze zaidi"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Kifuatilia ulaji bora",
+      "h1": "Kifuatilia ulaji bora",
+      "description": "Kifuatilia ulaji bora: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Kifuatilia ulaji bora",
+      "summary": "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+      "bullets": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ]
+      ],
+      "workflowTitle": "Kifuatilia ulaji bora",
+      "workflow": [
+        "Huhitaji kutafuta kila kiungo kwa mkono. Piga picha ya chakula, kagua makadirio ya AI na uyahifadhi kwenye shajara yako ya chakula.",
+        "Fuatilia kalori, protini, mafuta na wanga pamoja na lengo lako la kila siku."
+      ],
+      "note": "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe.",
+      "bestFor": [
+        "Kihesabu kalori kwa picha",
+        "Kichanganua msimbo pau",
+        "Makro",
+        "Shajara ya chakula"
+      ],
+      "workflowKicker": "Kifuatilia ulaji bora",
+      "noteTitle": "Jifunze zaidi"
+    },
+    "/blog/": {
+      "title": "Miongozo ya kuhesabu kalori na kurekodi chakula kwa AI",
+      "h1": "Miongozo ya kuhesabu kalori na kurekodi chakula kwa AI",
+      "description": "Miongozo ya kuhesabu kalori na kurekodi chakula kwa AI: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Miongozo ya kuhesabu kalori na kurekodi chakula kwa AI"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Jinsi ya kuhesabu kalori kutoka kwenye picha",
+      "h1": "Jinsi ya kuhesabu kalori kutoka kwenye picha",
+      "description": "Jinsi ya kuhesabu kalori kutoka kwenye picha: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "category": "Jinsi ya kuhesabu kalori kutoka kwenye picha",
+      "readTime": "Jinsi ya kuhesabu kalori kutoka kwenye picha",
+      "intro": "Jinsi ya kuhesabu kalori kutoka kwenye picha",
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ],
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ]
+      ],
+      "takeaway": "Jinsi ya kuhesabu kalori kutoka kwenye picha"
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Vihesabu kalori vya AI vina usahihi gani?",
+      "h1": "Vihesabu kalori vya AI vina usahihi gani?",
+      "description": "Vihesabu kalori vya AI vina usahihi gani?: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "category": "Vihesabu kalori vya AI vina usahihi gani?",
+      "readTime": "Vihesabu kalori vya AI vina usahihi gani?",
+      "intro": "Vihesabu kalori vya AI vina usahihi gani?",
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ],
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ]
+      ],
+      "takeaway": "Vihesabu kalori vya AI vina usahihi gani?"
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "Kurekodi kwa AI dhidi ya kuandika kwa mkono",
+      "h1": "Kurekodi kwa AI dhidi ya kuandika kwa mkono",
+      "description": "Kurekodi kwa AI dhidi ya kuandika kwa mkono: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "category": "Kurekodi kwa AI dhidi ya kuandika kwa mkono",
+      "readTime": "Kurekodi kwa AI dhidi ya kuandika kwa mkono",
+      "intro": "Kurekodi kwa AI dhidi ya kuandika kwa mkono",
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ],
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ]
+      ],
+      "takeaway": "Kurekodi kwa AI dhidi ya kuandika kwa mkono"
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Kichanganua chakula ni nini?",
+      "h1": "Kichanganua chakula ni nini?",
+      "description": "Kichanganua chakula ni nini?: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "category": "Kichanganua chakula ni nini?",
+      "readTime": "Kichanganua chakula ni nini?",
+      "intro": "Kichanganua chakula ni nini?",
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ],
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ]
+      ],
+      "takeaway": "Kichanganua chakula ni nini?"
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Jinsi ya kufuatilia makro kwa wanaoanza",
+      "h1": "Jinsi ya kufuatilia makro kwa wanaoanza",
+      "description": "Jinsi ya kufuatilia makro kwa wanaoanza: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "category": "Jinsi ya kufuatilia makro kwa wanaoanza",
+      "readTime": "Jinsi ya kufuatilia makro kwa wanaoanza",
+      "intro": "Jinsi ya kufuatilia makro kwa wanaoanza",
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ],
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ]
+      ],
+      "takeaway": "Jinsi ya kufuatilia makro kwa wanaoanza"
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Kalori dhidi ya makro",
+      "h1": "Kalori dhidi ya makro",
+      "description": "Kalori dhidi ya makro: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "category": "Kalori dhidi ya makro",
+      "readTime": "Kalori dhidi ya makro",
+      "intro": "Kalori dhidi ya makro",
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ],
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ]
+      ],
+      "takeaway": "Kalori dhidi ya makro"
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Jinsi ya kuhesabu kalori katika chakula cha nyumbani",
+      "h1": "Jinsi ya kuhesabu kalori katika chakula cha nyumbani",
+      "description": "Jinsi ya kuhesabu kalori katika chakula cha nyumbani: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "category": "Jinsi ya kuhesabu kalori katika chakula cha nyumbani",
+      "readTime": "Jinsi ya kuhesabu kalori katika chakula cha nyumbani",
+      "intro": "Jinsi ya kuhesabu kalori katika chakula cha nyumbani",
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ],
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ]
+      ],
+      "takeaway": "Jinsi ya kuhesabu kalori katika chakula cha nyumbani"
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Jinsi ya kukadiria ukubwa wa sehemu",
+      "h1": "Jinsi ya kukadiria ukubwa wa sehemu",
+      "description": "Jinsi ya kukadiria ukubwa wa sehemu: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "category": "Jinsi ya kukadiria ukubwa wa sehemu",
+      "readTime": "Jinsi ya kukadiria ukubwa wa sehemu",
+      "intro": "Jinsi ya kukadiria ukubwa wa sehemu",
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ],
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ]
+      ],
+      "takeaway": "Jinsi ya kukadiria ukubwa wa sehemu"
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Nile kalori ngapi kwa siku?",
+      "h1": "Nile kalori ngapi kwa siku?",
+      "description": "Nile kalori ngapi kwa siku?: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "category": "Nile kalori ngapi kwa siku?",
+      "readTime": "Nile kalori ngapi kwa siku?",
+      "intro": "Nile kalori ngapi kwa siku?",
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ],
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ]
+      ],
+      "takeaway": "Nile kalori ngapi kwa siku?"
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Upungufu wa kalori ni nini?",
+      "h1": "Upungufu wa kalori ni nini?",
+      "description": "Upungufu wa kalori ni nini?: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "category": "Upungufu wa kalori ni nini?",
+      "readTime": "Upungufu wa kalori ni nini?",
+      "intro": "Upungufu wa kalori ni nini?",
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ],
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ]
+      ],
+      "takeaway": "Upungufu wa kalori ni nini?"
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Makosa ya kawaida katika kuhesabu kalori",
+      "h1": "Makosa ya kawaida katika kuhesabu kalori",
+      "description": "Makosa ya kawaida katika kuhesabu kalori: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "category": "Makosa ya kawaida katika kuhesabu kalori",
+      "readTime": "Makosa ya kawaida katika kuhesabu kalori",
+      "intro": "Makosa ya kawaida katika kuhesabu kalori",
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ],
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ]
+      ],
+      "takeaway": "Makosa ya kawaida katika kuhesabu kalori"
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Jinsi ya kurekodi chakula cha mgahawani",
+      "h1": "Jinsi ya kurekodi chakula cha mgahawani",
+      "description": "Jinsi ya kurekodi chakula cha mgahawani: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "category": "Jinsi ya kurekodi chakula cha mgahawani",
+      "readTime": "Jinsi ya kurekodi chakula cha mgahawani",
+      "intro": "Jinsi ya kurekodi chakula cha mgahawani",
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ],
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ]
+      ],
+      "takeaway": "Jinsi ya kurekodi chakula cha mgahawani"
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Jinsi ya kufuatilia protini",
+      "h1": "Jinsi ya kufuatilia protini",
+      "description": "Jinsi ya kufuatilia protini: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "category": "Jinsi ya kufuatilia protini",
+      "readTime": "Jinsi ya kufuatilia protini",
+      "intro": "Jinsi ya kufuatilia protini",
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ],
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ]
+      ],
+      "takeaway": "Jinsi ya kufuatilia protini"
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Shajara ya chakula ni nini?",
+      "h1": "Shajara ya chakula ni nini?",
+      "description": "Shajara ya chakula ni nini?: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "category": "Shajara ya chakula ni nini?",
+      "readTime": "Shajara ya chakula ni nini?",
+      "intro": "Shajara ya chakula ni nini?",
+      "sections": [
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ],
+        [
+          "Jifunze zaidi",
+          "Calorie Counter AI hutoa makadirio ya lishe kwa taarifa tu na haibadilishi ushauri wa daktari au mtaalamu wa lishe."
+        ],
+        [
+          "Pakua",
+          "Pakua Calorie Counter AI kwa iPhone au Android na ubadilishe picha inayofuata ya chakula kuwa ingizo la shajara."
+        ],
+        [
+          "Vipengele",
+          "Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache."
+        ]
+      ],
+      "takeaway": "Shajara ya chakula ni nini?"
+    },
+    "/download/": {
+      "title": "Pakua Calorie Counter AI",
+      "h1": "Pakua Calorie Counter AI",
+      "description": "Pakua Calorie Counter AI: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Pakua Calorie Counter AI"
+    },
+    "/faq/": {
+      "title": "Maswali ya mara kwa mara",
+      "h1": "Maswali ya mara kwa mara",
+      "description": "Maswali ya mara kwa mara: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Maswali ya mara kwa mara"
+    },
+    "/pricing/": {
+      "title": "Bei",
+      "h1": "Bei",
+      "description": "Bei: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Bei"
+    },
+    "/support/": {
+      "title": "Usaidizi",
+      "h1": "Usaidizi",
+      "description": "Usaidizi: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Usaidizi"
+    },
+    "/contact/": {
+      "title": "Mawasiliano",
+      "h1": "Mawasiliano",
+      "description": "Mawasiliano: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Mawasiliano"
+    },
+    "/privacy-policy/": {
+      "title": "Faragha",
+      "h1": "Faragha",
+      "description": "Faragha: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Faragha"
+    },
+    "/terms/": {
+      "title": "Masharti",
+      "h1": "Masharti",
+      "description": "Masharti: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Masharti"
+    },
+    "/health-disclaimer/": {
+      "title": "Kanusho la afya",
+      "h1": "Kanusho la afya",
+      "description": "Kanusho la afya: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Kanusho la afya"
+    },
+    "/delete-account/": {
+      "title": "Futa akaunti na data",
+      "h1": "Futa akaunti na data",
+      "description": "Futa akaunti na data: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Futa akaunti na data"
+    },
+    "/press/": {
+      "title": "Kifurushi cha vyombo vya habari",
+      "h1": "Kifurushi cha vyombo vya habari",
+      "description": "Kifurushi cha vyombo vya habari: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Kifurushi cha vyombo vya habari"
+    },
+    "/how-many-calories-in/": {
+      "title": "Kalori katika vyakula",
+      "h1": "Kalori katika vyakula",
+      "description": "Kalori katika vyakula: Piga picha ya mlo wako na upate makadirio ya kalori, protini, mafuta, wanga na ukubwa wa sehemu ndani ya sekunde chache.",
+      "kicker": "Kalori katika vyakula"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Mipangilio ya vidakuzi",
+    "text": "Tunatumia vidakuzi muhimu na hifadhi ya ndani kukumbuka lugha na chaguo zako za vidakuzi. Ukikubali, tunatumia pia vidakuzi vya uchanganuzi kuboresha tovuti.",
+    "accept": "Kubali",
+    "decline": "Kataa uchanganuzi"
+  }
+}

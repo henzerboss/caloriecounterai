@@ -1,0 +1,2619 @@
+{
+  "localeName": "简体中文",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "拍照 AI 卡路里计数器，用照片估算热量与宏量营养素"
+  },
+  "nav": {
+    "features": "功能",
+    "useCases": "使用场景",
+    "blog": "指南",
+    "faq": "常见问题",
+    "download": "下载",
+    "language": "选择语言",
+    "openMenu": "打开菜单",
+    "caloriesInFoods": "食物热量",
+    "all": "全部",
+    "allFeatures": "全部功能",
+    "allUseCases": "全部使用场景",
+    "allLearn": "全部指南",
+    "openHub": "打开总览 →",
+    "home": "首页"
+  },
+  "cta": {
+    "appStore": "在 App Store 下载",
+    "googlePlay": "在 Google Play 下载",
+    "downloadNow": "立即下载",
+    "tryFree": "免费开始",
+    "learnMore": "了解更多",
+    "learnMoreArrow": "了解更多 →",
+    "readGuide": "阅读指南"
+  },
+  "home": {
+    "title": "拍照即可记录卡路里和宏量营养素",
+    "description": "用 Calorie Counter AI 拍摄餐食照片，快速获得热量、蛋白质、脂肪、碳水化合物和份量估算。",
+    "heroNote": "支持 iPhone 和 Android。每天可免费使用 AI 食物分析。",
+    "photoEyebrow": "AI 食物识别",
+    "photoTitle": "拍一张照片，快速生成饮食记录",
+    "photoText": "不用逐项搜索食材。拍照后检查 AI 估算结果，调整份量，然后保存到饮食日记。",
+    "photoChecklist": [
+      "识别餐食和食材",
+      "估算热量与份量",
+      "显示蛋白质、脂肪和碳水化合物",
+      "保存到饮食日记"
+    ],
+    "featureCards": [
+      [
+        "camera",
+        "拍照记录",
+        "拍摄餐食照片，快速获得可复查的营养估算。"
+      ],
+      [
+        "sparkles",
+        "AI 食物识别",
+        "识别常见餐食、配料和烹饪方式，并给出可调整的起点。"
+      ],
+      [
+        "shield",
+        "营养估算说明",
+        "结果用于日常记录，不替代医生或营养师建议。"
+      ],
+      [
+        "barcode",
+        "条形码扫描",
+        "扫描包装食品条形码，确认产品后快速加入日记。"
+      ],
+      [
+        "macro",
+        "宏量营养素追踪",
+        "同时查看热量、蛋白质、脂肪和碳水化合物。"
+      ],
+      [
+        "diary",
+        "饮食日记",
+        "把每天的餐食记录集中保存，便于查看趋势。"
+      ]
+    ],
+    "foodPreviewTitle": "常见食物热量",
+    "foodPreviewText": "查看日常食物的热量、蛋白质、脂肪和碳水化合物参考值。",
+    "foodPreviewLink": "查看食物热量 →",
+    "goalEyebrow": "目标管理",
+    "counterTitle": "适合减重、维持体重和增肌",
+    "counterText": "用同一个饮食日记记录每天摄入，再根据目标调整份量和习惯。",
+    "goalPills": [
+      "减重",
+      "维持体重",
+      "增肌",
+      "忙碌工作日"
+    ],
+    "magicEyebrow": "工作流程",
+    "magicTitle": "拍照、检查、保存",
+    "magicText": "AI 先给出估算，你再核对食物、份量和做法；长期记录会比一次数字更有价值。",
+    "magicSteps": [
+      "拍照",
+      "检查",
+      "保存"
+    ],
+    "barcodeEyebrow": "包装食品",
+    "barcodeTitle": "用条形码快速记录包装食品",
+    "barcodeText": "扫描条形码后核对产品信息和营养标签，再把热量与宏量营养素加入日记。",
+    "barcodeLink": "了解条形码扫描 →",
+    "progressEyebrow": "宏量营养素",
+    "macroTitle": "不只看卡路里",
+    "macroText": "同时追踪蛋白质、脂肪和碳水化合物，帮助你更清楚地理解每天的饮食结构。",
+    "macroLink": "了解宏量营养素 →",
+    "useCasesEyebrow": "使用场景",
+    "useCasesTitle": "为真实生活中的饮食记录而设计",
+    "useCasesText": "无论是自制餐、餐厅菜还是包装食品，都可以用照片、条形码和手动调整组合记录。",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "减重",
+        "热量缺口"
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "自制餐食",
+        "拍照估算"
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "餐厅用餐",
+        "份量调整"
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "增肌",
+        "蛋白质追踪"
+      ]
+    ],
+    "downloadTitle": "下载 Calorie Counter AI",
+    "downloadText": "在 iPhone 或 Android 上下载 Calorie Counter AI，把下一张食物照片变成可保存的饮食记录。",
+    "faqEyebrow": "常见问题",
+    "faqTitle": "常见问题",
+    "faq": [
+      [
+        "Calorie Counter AI 免费吗？",
+        "你可以从每日免费 AI 食物分析开始。高级功能可提供更高限制和更多工具。"
+      ],
+      [
+        "可以用照片计算卡路里吗？",
+        "可以。拍摄餐食照片后，应用会给出热量、宏量营养素和份量估算，你可以在保存前检查并调整。"
+      ],
+      [
+        "AI 估算有多准确？",
+        "准确度取决于照片、份量、配料、品牌和烹饪方式。请把结果当作可调整的起点。"
+      ],
+      [
+        "可以追踪宏量营养素吗？",
+        "可以，记录中会显示蛋白质、脂肪和碳水化合物。"
+      ],
+      [
+        "iPhone 和 Android 都能用吗？",
+        "可以。Calorie Counter AI 可在 App Store 和 Google Play 下载。"
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "拍照 AI 卡路里计数器 | Calorie Counter AI",
+    "homeOgTitle": "拍照 AI 卡路里计数器",
+    "homeDescription": "用 Calorie Counter AI 拍摄餐食照片，快速获得热量、蛋白质、脂肪、碳水化合物和份量估算。"
+  },
+  "footer": {
+    "disclaimer": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+    "copyright": "© 2026 Calorie Counter AI"
+  },
+  "foodIndex": {
+    "findTitle": "食物热量查询",
+    "findText": "查看常见食物和常用份量的热量、蛋白质、脂肪和碳水化合物参考值。",
+    "categoryIntro": "按类别浏览食物"
+  },
+  "foodPage": {
+    "eyebrow": "食物热量",
+    "trackInApp": "在应用中记录",
+    "browseFoods": "浏览更多食物 →",
+    "typicalEstimate": "以下为常见份量的营养参考值；实际数值会因品牌、做法和份量而变化。",
+    "caloriesMacros": "热量与宏量营养素",
+    "whenFits": "适合什么时候吃",
+    "whatToWatch": "需要注意",
+    "howToLog": "如何记录",
+    "helpfulContext": "实用参考",
+    "faq": "常见问题",
+    "weightLossQuestion": "适合减重期间吃吗？",
+    "variabilityQuestion": "哪些因素最影响热量？",
+    "logFasterTitle": "用照片更快记录",
+    "logFasterText": "拍下食物照片，检查 AI 对份量和营养的估算，再保存到饮食日记。",
+    "photoTrackingLink": "了解拍照记录 →",
+    "macros": {
+      "protein": "蛋白质",
+      "fat": "脂肪",
+      "carbs": "碳水化合物"
+    },
+    "titleTemplate": "{namePrep}：热量与宏量营养素",
+    "h1Template": "{namePrep}：热量与宏量营养素",
+    "descriptionTemplate": "{name}在“{serving}”中的热量、蛋白质、脂肪和碳水化合物参考值，以及如何记录到饮食日记。",
+    "heroIntroTemplate": "每份约 {calories} {kcal}：{servingLower}。请把这个数值作为起点，并根据品牌、做法和实际份量调整。",
+    "macroParagraphTemplate": "{name}每份“{servingLower}”约 {calories} {kcal}，其中约含 {protein} {gram} 蛋白质、{fat} {gram} 脂肪和 {carbs} {gram} 碳水化合物{fiberText}。",
+    "per100Template": "按每 100 {gram} 比较：约 {calories} {kcal}、{protein} {gram} 蛋白质、{fat} {gram} 脂肪、{carbs} {gram} 碳水化合物。",
+    "calorieLevelTemplate": "请以实际份量为准：“{servingLower}”约 {calories} {kcal}。"
+  },
+  "foodCategories": {
+    "Fruit": "水果",
+    "Protein foods": "高蛋白食物",
+    "Fruits and fats": "水果与脂肪类",
+    "Grains and starches": "谷物和淀粉类",
+    "Nuts and spreads": "坚果和抹酱",
+    "Breakfast foods": "早餐食物",
+    "Dairy": "乳制品",
+    "Restaurant meals": "餐厅餐食",
+    "Fast food": "快餐",
+    "Legumes and plant protein": "豆类和植物蛋白",
+    "Desserts": "甜点",
+    "Snacks": "零食",
+    "Drinks": "饮料",
+    "Vegetables": "蔬菜",
+    "Sauces and condiments": "酱料和调味品",
+    "Mixed dishes": "混合餐食"
+  },
+  "foods": {
+    "banana": {
+      "name": "香蕉",
+      "namePrep": "香蕉",
+      "serving": "香蕉1份"
+    },
+    "apple": {
+      "name": "苹果",
+      "namePrep": "苹果",
+      "serving": "苹果1份"
+    },
+    "egg": {
+      "name": "鸡蛋",
+      "namePrep": "鸡蛋",
+      "serving": "鸡蛋1份"
+    },
+    "avocado": {
+      "name": "牛油果",
+      "namePrep": "牛油果",
+      "serving": "牛油果1份"
+    },
+    "chicken-breast": {
+      "name": "鸡胸肉",
+      "namePrep": "鸡胸肉",
+      "serving": "鸡胸肉1份"
+    },
+    "salmon": {
+      "name": "三文鱼",
+      "namePrep": "三文鱼",
+      "serving": "三文鱼1份"
+    },
+    "white-rice": {
+      "name": "白米饭",
+      "namePrep": "白米饭",
+      "serving": "白米饭1份"
+    },
+    "brown-rice": {
+      "name": "糙米饭",
+      "namePrep": "糙米饭",
+      "serving": "糙米饭1份"
+    },
+    "pasta": {
+      "name": "意大利面",
+      "namePrep": "意大利面",
+      "serving": "意大利面1份"
+    },
+    "potato": {
+      "name": "土豆",
+      "namePrep": "土豆",
+      "serving": "土豆1份"
+    },
+    "sweet-potato": {
+      "name": "红薯",
+      "namePrep": "红薯",
+      "serving": "红薯1份"
+    },
+    "bread": {
+      "name": "面包",
+      "namePrep": "面包",
+      "serving": "面包1份"
+    },
+    "peanut-butter": {
+      "name": "花生酱",
+      "namePrep": "花生酱",
+      "serving": "花生酱1份"
+    },
+    "oatmeal": {
+      "name": "燕麦粥",
+      "namePrep": "燕麦粥",
+      "serving": "燕麦粥1份"
+    },
+    "greek-yogurt": {
+      "name": "希腊酸奶",
+      "namePrep": "希腊酸奶",
+      "serving": "希腊酸奶1份"
+    },
+    "yogurt": {
+      "name": "酸奶",
+      "namePrep": "酸奶",
+      "serving": "酸奶1份"
+    },
+    "milk": {
+      "name": "牛奶",
+      "namePrep": "牛奶",
+      "serving": "牛奶1份"
+    },
+    "cheddar-cheese": {
+      "name": "切达奶酪",
+      "namePrep": "切达奶酪",
+      "serving": "切达奶酪1份"
+    },
+    "pizza": {
+      "name": "披萨",
+      "namePrep": "披萨",
+      "serving": "披萨1份"
+    },
+    "burger": {
+      "name": "汉堡",
+      "namePrep": "汉堡",
+      "serving": "汉堡1份"
+    },
+    "french-fries": {
+      "name": "薯条",
+      "namePrep": "薯条",
+      "serving": "薯条1份"
+    },
+    "sushi-roll": {
+      "name": "寿司卷",
+      "namePrep": "寿司卷",
+      "serving": "寿司卷1份"
+    },
+    "taco": {
+      "name": "塔可",
+      "namePrep": "塔可",
+      "serving": "塔可1份"
+    },
+    "burrito": {
+      "name": "墨西哥卷饼",
+      "namePrep": "墨西哥卷饼",
+      "serving": "墨西哥卷饼1份"
+    },
+    "chicken-nuggets": {
+      "name": "鸡块",
+      "namePrep": "鸡块",
+      "serving": "鸡块1份"
+    },
+    "hot-dog": {
+      "name": "热狗",
+      "namePrep": "热狗",
+      "serving": "热狗1份"
+    },
+    "steak": {
+      "name": "牛排",
+      "namePrep": "牛排",
+      "serving": "牛排1份"
+    },
+    "bacon": {
+      "name": "培根",
+      "namePrep": "培根",
+      "serving": "培根1份"
+    },
+    "tuna": {
+      "name": "金枪鱼",
+      "namePrep": "金枪鱼",
+      "serving": "金枪鱼1份"
+    },
+    "shrimp": {
+      "name": "虾",
+      "namePrep": "虾",
+      "serving": "虾1份"
+    },
+    "tofu": {
+      "name": "豆腐",
+      "namePrep": "豆腐",
+      "serving": "豆腐1份"
+    },
+    "lentils": {
+      "name": "扁豆",
+      "namePrep": "扁豆",
+      "serving": "扁豆1份"
+    },
+    "black-beans": {
+      "name": "黑豆",
+      "namePrep": "黑豆",
+      "serving": "黑豆1份"
+    },
+    "chickpeas": {
+      "name": "鹰嘴豆",
+      "namePrep": "鹰嘴豆",
+      "serving": "鹰嘴豆1份"
+    },
+    "hummus": {
+      "name": "鹰嘴豆泥",
+      "namePrep": "鹰嘴豆泥",
+      "serving": "鹰嘴豆泥1份"
+    },
+    "quinoa": {
+      "name": "藜麦",
+      "namePrep": "藜麦",
+      "serving": "藜麦1份"
+    },
+    "tortilla": {
+      "name": "玉米饼",
+      "namePrep": "玉米饼",
+      "serving": "玉米饼1份"
+    },
+    "bagel": {
+      "name": "贝果",
+      "namePrep": "贝果",
+      "serving": "贝果1份"
+    },
+    "croissant": {
+      "name": "羊角面包",
+      "namePrep": "羊角面包",
+      "serving": "羊角面包1份"
+    },
+    "pancake": {
+      "name": "松饼",
+      "namePrep": "松饼",
+      "serving": "松饼1份"
+    },
+    "waffle": {
+      "name": "华夫饼",
+      "namePrep": "华夫饼",
+      "serving": "华夫饼1份"
+    },
+    "cereal": {
+      "name": "早餐谷物",
+      "namePrep": "早餐谷物",
+      "serving": "早餐谷物1份"
+    },
+    "granola": {
+      "name": "格兰诺拉麦片",
+      "namePrep": "格兰诺拉麦片",
+      "serving": "格兰诺拉麦片1份"
+    },
+    "almonds": {
+      "name": "杏仁",
+      "namePrep": "杏仁",
+      "serving": "杏仁1份"
+    },
+    "walnuts": {
+      "name": "核桃",
+      "namePrep": "核桃",
+      "serving": "核桃1份"
+    },
+    "cashews": {
+      "name": "腰果",
+      "namePrep": "腰果",
+      "serving": "腰果1份"
+    },
+    "chocolate": {
+      "name": "巧克力",
+      "namePrep": "巧克力",
+      "serving": "巧克力1份"
+    },
+    "ice-cream": {
+      "name": "冰淇淋",
+      "namePrep": "冰淇淋",
+      "serving": "冰淇淋1份"
+    },
+    "cookie": {
+      "name": "曲奇",
+      "namePrep": "曲奇",
+      "serving": "曲奇1份"
+    },
+    "donut": {
+      "name": "甜甜圈",
+      "namePrep": "甜甜圈",
+      "serving": "甜甜圈1份"
+    },
+    "muffin": {
+      "name": "玛芬",
+      "namePrep": "玛芬",
+      "serving": "玛芬1份"
+    },
+    "cake": {
+      "name": "蛋糕",
+      "namePrep": "蛋糕",
+      "serving": "蛋糕1份"
+    },
+    "brownie": {
+      "name": "布朗尼",
+      "namePrep": "布朗尼",
+      "serving": "布朗尼1份"
+    },
+    "popcorn": {
+      "name": "爆米花",
+      "namePrep": "爆米花",
+      "serving": "爆米花1份"
+    },
+    "potato-chips": {
+      "name": "薯片",
+      "namePrep": "薯片",
+      "serving": "薯片1份"
+    },
+    "pretzels": {
+      "name": "椒盐卷饼",
+      "namePrep": "椒盐卷饼",
+      "serving": "椒盐卷饼1份"
+    },
+    "smoothie": {
+      "name": "果昔",
+      "namePrep": "果昔",
+      "serving": "果昔1份"
+    },
+    "orange-juice": {
+      "name": "橙汁",
+      "namePrep": "橙汁",
+      "serving": "橙汁1份"
+    },
+    "soda": {
+      "name": "汽水",
+      "namePrep": "汽水",
+      "serving": "汽水1份"
+    },
+    "latte": {
+      "name": "拿铁",
+      "namePrep": "拿铁",
+      "serving": "拿铁1份"
+    },
+    "protein-shake": {
+      "name": "蛋白奶昔",
+      "namePrep": "蛋白奶昔",
+      "serving": "蛋白奶昔1份"
+    },
+    "spaghetti-bolognese": {
+      "name": "肉酱意大利面",
+      "namePrep": "肉酱意大利面",
+      "serving": "肉酱意大利面1份"
+    },
+    "ramen": {
+      "name": "拉面",
+      "namePrep": "拉面",
+      "serving": "拉面1份"
+    },
+    "pho": {
+      "name": "越南河粉",
+      "namePrep": "越南河粉",
+      "serving": "越南河粉1份"
+    },
+    "chicken-soup": {
+      "name": "鸡汤",
+      "namePrep": "鸡汤",
+      "serving": "鸡汤1份"
+    },
+    "caesar-salad": {
+      "name": "凯撒沙拉",
+      "namePrep": "凯撒沙拉",
+      "serving": "凯撒沙拉1份"
+    },
+    "green-salad": {
+      "name": "蔬菜沙拉",
+      "namePrep": "蔬菜沙拉",
+      "serving": "蔬菜沙拉1份"
+    },
+    "broccoli": {
+      "name": "西兰花",
+      "namePrep": "西兰花",
+      "serving": "西兰花1份"
+    },
+    "spinach": {
+      "name": "菠菜",
+      "namePrep": "菠菜",
+      "serving": "菠菜1份"
+    },
+    "carrots": {
+      "name": "胡萝卜",
+      "namePrep": "胡萝卜",
+      "serving": "胡萝卜1份"
+    },
+    "corn": {
+      "name": "玉米",
+      "namePrep": "玉米",
+      "serving": "玉米1份"
+    },
+    "tomato": {
+      "name": "番茄",
+      "namePrep": "番茄",
+      "serving": "番茄1份"
+    },
+    "cucumber": {
+      "name": "黄瓜",
+      "namePrep": "黄瓜",
+      "serving": "黄瓜1份"
+    },
+    "cheesecake": {
+      "name": "芝士蛋糕",
+      "namePrep": "芝士蛋糕",
+      "serving": "芝士蛋糕1份"
+    },
+    "lasagna": {
+      "name": "千层面",
+      "namePrep": "千层面",
+      "serving": "千层面1份"
+    },
+    "grilled-cheese": {
+      "name": "烤奶酪三明治",
+      "namePrep": "烤奶酪三明治",
+      "serving": "烤奶酪三明治1份"
+    },
+    "peanut-butter-jelly": {
+      "name": "花生酱果酱三明治",
+      "namePrep": "花生酱果酱三明治",
+      "serving": "花生酱果酱三明治1份"
+    },
+    "omelette": {
+      "name": "煎蛋卷",
+      "namePrep": "煎蛋卷",
+      "serving": "煎蛋卷1份"
+    },
+    "fried-egg": {
+      "name": "煎蛋",
+      "namePrep": "煎蛋",
+      "serving": "煎蛋1份"
+    },
+    "boiled-egg": {
+      "name": "水煮蛋",
+      "namePrep": "水煮蛋",
+      "serving": "水煮蛋1份"
+    },
+    "toast": {
+      "name": "吐司",
+      "namePrep": "吐司",
+      "serving": "吐司1份"
+    },
+    "avocado-toast": {
+      "name": "牛油果吐司",
+      "namePrep": "牛油果吐司",
+      "serving": "牛油果吐司1份"
+    },
+    "chicken-salad": {
+      "name": "鸡肉沙拉",
+      "namePrep": "鸡肉沙拉",
+      "serving": "鸡肉沙拉1份"
+    },
+    "tuna-salad": {
+      "name": "金枪鱼沙拉",
+      "namePrep": "金枪鱼沙拉",
+      "serving": "金枪鱼沙拉1份"
+    },
+    "egg-salad": {
+      "name": "鸡蛋沙拉",
+      "namePrep": "鸡蛋沙拉",
+      "serving": "鸡蛋沙拉1份"
+    },
+    "cottage-cheese": {
+      "name": "茅屋奶酪",
+      "namePrep": "茅屋奶酪",
+      "serving": "茅屋奶酪1份"
+    },
+    "cream-cheese": {
+      "name": "奶油奶酪",
+      "namePrep": "奶油奶酪",
+      "serving": "奶油奶酪1份"
+    },
+    "butter": {
+      "name": "黄油",
+      "namePrep": "黄油",
+      "serving": "黄油1份"
+    },
+    "olive-oil": {
+      "name": "橄榄油",
+      "namePrep": "橄榄油",
+      "serving": "橄榄油1份"
+    },
+    "mayonnaise": {
+      "name": "蛋黄酱",
+      "namePrep": "蛋黄酱",
+      "serving": "蛋黄酱1份"
+    },
+    "ketchup": {
+      "name": "番茄酱",
+      "namePrep": "番茄酱",
+      "serving": "番茄酱1份"
+    },
+    "honey": {
+      "name": "蜂蜜",
+      "namePrep": "蜂蜜",
+      "serving": "蜂蜜1份"
+    },
+    "jam": {
+      "name": "果酱",
+      "namePrep": "果酱",
+      "serving": "果酱1份"
+    },
+    "protein-bar": {
+      "name": "蛋白棒",
+      "namePrep": "蛋白棒",
+      "serving": "蛋白棒1份"
+    },
+    "energy-drink": {
+      "name": "能量饮料",
+      "namePrep": "能量饮料",
+      "serving": "能量饮料1份"
+    },
+    "matcha-latte": {
+      "name": "抹茶拿铁",
+      "namePrep": "抹茶拿铁",
+      "serving": "抹茶拿铁1份"
+    },
+    "trail-mix": {
+      "name": "综合坚果果干",
+      "namePrep": "综合坚果果干",
+      "serving": "综合坚果果干1份"
+    },
+    "blueberries": {
+      "name": "蓝莓",
+      "namePrep": "蓝莓",
+      "serving": "蓝莓1份"
+    },
+    "strawberries": {
+      "name": "草莓",
+      "namePrep": "草莓",
+      "serving": "草莓1份"
+    },
+    "grapes": {
+      "name": "葡萄",
+      "namePrep": "葡萄",
+      "serving": "葡萄1份"
+    },
+    "orange": {
+      "name": "橙子",
+      "namePrep": "橙子",
+      "serving": "橙子1份"
+    },
+    "pear": {
+      "name": "梨",
+      "namePrep": "梨",
+      "serving": "梨1份"
+    },
+    "peach": {
+      "name": "桃子",
+      "namePrep": "桃子",
+      "serving": "桃子1份"
+    },
+    "watermelon": {
+      "name": "西瓜",
+      "namePrep": "西瓜",
+      "serving": "西瓜1份"
+    },
+    "pineapple": {
+      "name": "菠萝",
+      "namePrep": "菠萝",
+      "serving": "菠萝1份"
+    },
+    "mango": {
+      "name": "芒果",
+      "namePrep": "芒果",
+      "serving": "芒果1份"
+    },
+    "kiwi": {
+      "name": "猕猴桃",
+      "namePrep": "猕猴桃",
+      "serving": "猕猴桃1份"
+    },
+    "raspberries": {
+      "name": "覆盆子",
+      "namePrep": "覆盆子",
+      "serving": "覆盆子1份"
+    },
+    "blackberries": {
+      "name": "黑莓",
+      "namePrep": "黑莓",
+      "serving": "黑莓1份"
+    },
+    "cherries": {
+      "name": "樱桃",
+      "namePrep": "樱桃",
+      "serving": "樱桃1份"
+    },
+    "grapefruit": {
+      "name": "葡萄柚",
+      "namePrep": "葡萄柚",
+      "serving": "葡萄柚1份"
+    },
+    "lettuce": {
+      "name": "生菜",
+      "namePrep": "生菜",
+      "serving": "生菜1份"
+    },
+    "cabbage": {
+      "name": "卷心菜",
+      "namePrep": "卷心菜",
+      "serving": "卷心菜1份"
+    },
+    "cauliflower": {
+      "name": "花椰菜",
+      "namePrep": "花椰菜",
+      "serving": "花椰菜1份"
+    },
+    "asparagus": {
+      "name": "芦笋",
+      "namePrep": "芦笋",
+      "serving": "芦笋1份"
+    },
+    "zucchini": {
+      "name": "西葫芦",
+      "namePrep": "西葫芦",
+      "serving": "西葫芦1份"
+    },
+    "eggplant": {
+      "name": "茄子",
+      "namePrep": "茄子",
+      "serving": "茄子1份"
+    },
+    "bell-pepper": {
+      "name": "甜椒",
+      "namePrep": "甜椒",
+      "serving": "甜椒1份"
+    },
+    "onion": {
+      "name": "洋葱",
+      "namePrep": "洋葱",
+      "serving": "洋葱1份"
+    },
+    "mushrooms": {
+      "name": "蘑菇",
+      "namePrep": "蘑菇",
+      "serving": "蘑菇1份"
+    },
+    "green-beans": {
+      "name": "四季豆",
+      "namePrep": "四季豆",
+      "serving": "四季豆1份"
+    },
+    "kale": {
+      "name": "羽衣甘蓝",
+      "namePrep": "羽衣甘蓝",
+      "serving": "羽衣甘蓝1份"
+    },
+    "beets": {
+      "name": "甜菜根",
+      "namePrep": "甜菜根",
+      "serving": "甜菜根1份"
+    },
+    "turkey-breast": {
+      "name": "火鸡胸肉",
+      "namePrep": "火鸡胸肉",
+      "serving": "火鸡胸肉1份"
+    },
+    "chicken-thigh": {
+      "name": "鸡腿肉",
+      "namePrep": "鸡腿肉",
+      "serving": "鸡腿肉1份"
+    },
+    "pork-chop": {
+      "name": "猪排",
+      "namePrep": "猪排",
+      "serving": "猪排1份"
+    },
+    "ground-beef": {
+      "name": "牛肉末",
+      "namePrep": "牛肉末",
+      "serving": "牛肉末1份"
+    },
+    "meatballs": {
+      "name": "肉丸",
+      "namePrep": "肉丸",
+      "serving": "肉丸1份"
+    },
+    "sausage": {
+      "name": "香肠",
+      "namePrep": "香肠",
+      "serving": "香肠1份"
+    },
+    "cod": {
+      "name": "鳕鱼",
+      "namePrep": "鳕鱼",
+      "serving": "鳕鱼1份"
+    },
+    "tilapia": {
+      "name": "罗非鱼",
+      "namePrep": "罗非鱼",
+      "serving": "罗非鱼1份"
+    },
+    "sardines": {
+      "name": "沙丁鱼",
+      "namePrep": "沙丁鱼",
+      "serving": "沙丁鱼1份"
+    },
+    "crab": {
+      "name": "螃蟹",
+      "namePrep": "螃蟹",
+      "serving": "螃蟹1份"
+    },
+    "scallops": {
+      "name": "扇贝",
+      "namePrep": "扇贝",
+      "serving": "扇贝1份"
+    },
+    "smoked-salmon": {
+      "name": "烟熏三文鱼",
+      "namePrep": "烟熏三文鱼",
+      "serving": "烟熏三文鱼1份"
+    },
+    "skim-milk": {
+      "name": "脱脂牛奶",
+      "namePrep": "脱脂牛奶",
+      "serving": "脱脂牛奶1份"
+    },
+    "soy-milk": {
+      "name": "豆浆",
+      "namePrep": "豆浆",
+      "serving": "豆浆1份"
+    },
+    "almond-milk": {
+      "name": "杏仁奶",
+      "namePrep": "杏仁奶",
+      "serving": "杏仁奶1份"
+    },
+    "oat-milk": {
+      "name": "燕麦奶",
+      "namePrep": "燕麦奶",
+      "serving": "燕麦奶1份"
+    },
+    "kefir": {
+      "name": "开菲尔酸奶",
+      "namePrep": "开菲尔酸奶",
+      "serving": "开菲尔酸奶1份"
+    },
+    "sour-cream": {
+      "name": "酸奶油",
+      "namePrep": "酸奶油",
+      "serving": "酸奶油1份"
+    },
+    "feta-cheese": {
+      "name": "菲达奶酪",
+      "namePrep": "菲达奶酪",
+      "serving": "菲达奶酪1份"
+    },
+    "mozzarella": {
+      "name": "马苏里拉奶酪",
+      "namePrep": "马苏里拉奶酪",
+      "serving": "马苏里拉奶酪1份"
+    },
+    "parmesan": {
+      "name": "帕玛森奶酪",
+      "namePrep": "帕玛森奶酪",
+      "serving": "帕玛森奶酪1份"
+    },
+    "couscous": {
+      "name": "库斯库斯",
+      "namePrep": "库斯库斯",
+      "serving": "库斯库斯1份"
+    },
+    "barley": {
+      "name": "大麦",
+      "namePrep": "大麦",
+      "serving": "大麦1份"
+    },
+    "buckwheat": {
+      "name": "荞麦",
+      "namePrep": "荞麦",
+      "serving": "荞麦1份"
+    },
+    "bulgur": {
+      "name": "布格麦",
+      "namePrep": "布格麦",
+      "serving": "布格麦1份"
+    },
+    "naan": {
+      "name": "印度烤饼",
+      "namePrep": "印度烤饼",
+      "serving": "印度烤饼1份"
+    },
+    "pita-bread": {
+      "name": "皮塔饼",
+      "namePrep": "皮塔饼",
+      "serving": "皮塔饼1份"
+    },
+    "english-muffin": {
+      "name": "英式松饼",
+      "namePrep": "英式松饼",
+      "serving": "英式松饼1份"
+    },
+    "rice-cake": {
+      "name": "米饼",
+      "namePrep": "米饼",
+      "serving": "米饼1份"
+    },
+    "crackers": {
+      "name": "咸饼干",
+      "namePrep": "咸饼干",
+      "serving": "咸饼干1份"
+    },
+    "mashed-potatoes": {
+      "name": "土豆泥",
+      "namePrep": "土豆泥",
+      "serving": "土豆泥1份"
+    },
+    "scrambled-eggs": {
+      "name": "炒蛋",
+      "namePrep": "炒蛋",
+      "serving": "炒蛋1份"
+    },
+    "french-toast": {
+      "name": "法式吐司",
+      "namePrep": "法式吐司",
+      "serving": "法式吐司1份"
+    },
+    "breakfast-burrito": {
+      "name": "早餐卷饼",
+      "namePrep": "早餐卷饼",
+      "serving": "早餐卷饼1份"
+    },
+    "hash-browns": {
+      "name": "薯饼",
+      "namePrep": "薯饼",
+      "serving": "薯饼1份"
+    },
+    "chia-pudding": {
+      "name": "奇亚籽布丁",
+      "namePrep": "奇亚籽布丁",
+      "serving": "奇亚籽布丁1份"
+    },
+    "overnight-oats": {
+      "name": "隔夜燕麦",
+      "namePrep": "隔夜燕麦",
+      "serving": "隔夜燕麦1份"
+    },
+    "breakfast-sandwich": {
+      "name": "早餐三明治",
+      "namePrep": "早餐三明治",
+      "serving": "早餐三明治1份"
+    },
+    "edamame": {
+      "name": "毛豆",
+      "namePrep": "毛豆",
+      "serving": "毛豆1份"
+    },
+    "kidney-beans": {
+      "name": "红腰豆",
+      "namePrep": "红腰豆",
+      "serving": "红腰豆1份"
+    },
+    "pinto-beans": {
+      "name": "斑豆",
+      "namePrep": "斑豆",
+      "serving": "斑豆1份"
+    },
+    "split-peas": {
+      "name": "豌豆瓣",
+      "namePrep": "豌豆瓣",
+      "serving": "豌豆瓣1份"
+    },
+    "baked-beans": {
+      "name": "焗豆",
+      "namePrep": "焗豆",
+      "serving": "焗豆1份"
+    },
+    "fried-rice": {
+      "name": "炒饭",
+      "namePrep": "炒饭",
+      "serving": "炒饭1份"
+    },
+    "pad-thai": {
+      "name": "泰式炒河粉",
+      "namePrep": "泰式炒河粉",
+      "serving": "泰式炒河粉1份"
+    },
+    "chicken-curry": {
+      "name": "咖喱鸡",
+      "namePrep": "咖喱鸡",
+      "serving": "咖喱鸡1份"
+    },
+    "chicken-tikka-masala": {
+      "name": "马萨拉鸡块",
+      "namePrep": "马萨拉鸡块",
+      "serving": "马萨拉鸡块1份"
+    },
+    "beef-chili": {
+      "name": "牛肉辣椒",
+      "namePrep": "牛肉辣椒",
+      "serving": "牛肉辣椒1份"
+    },
+    "falafel": {
+      "name": "炸鹰嘴豆丸",
+      "namePrep": "炸鹰嘴豆丸",
+      "serving": "炸鹰嘴豆丸1份"
+    },
+    "dumplings": {
+      "name": "饺子",
+      "namePrep": "饺子",
+      "serving": "饺子1份"
+    },
+    "spring-rolls": {
+      "name": "春卷",
+      "namePrep": "春卷",
+      "serving": "春卷1份"
+    },
+    "quesadilla": {
+      "name": "墨西哥奶酪饼",
+      "namePrep": "墨西哥奶酪饼",
+      "serving": "墨西哥奶酪饼1份"
+    },
+    "nachos": {
+      "name": "玉米片拼盘",
+      "namePrep": "玉米片拼盘",
+      "serving": "玉米片拼盘1份"
+    },
+    "mac-and-cheese": {
+      "name": "芝士通心粉",
+      "namePrep": "芝士通心粉",
+      "serving": "芝士通心粉1份"
+    },
+    "chicken-wings": {
+      "name": "鸡翅",
+      "namePrep": "鸡翅",
+      "serving": "鸡翅1份"
+    },
+    "fish-and-chips": {
+      "name": "炸鱼薯条",
+      "namePrep": "炸鱼薯条",
+      "serving": "炸鱼薯条1份"
+    },
+    "risotto": {
+      "name": "意式烩饭",
+      "namePrep": "意式烩饭",
+      "serving": "意式烩饭1份"
+    },
+    "tortilla-chips": {
+      "name": "玉米片",
+      "namePrep": "玉米片",
+      "serving": "玉米片1份"
+    },
+    "granola-bar": {
+      "name": "格兰诺拉棒",
+      "namePrep": "格兰诺拉棒",
+      "serving": "格兰诺拉棒1份"
+    },
+    "chocolate-bar": {
+      "name": "巧克力棒",
+      "namePrep": "巧克力棒",
+      "serving": "巧克力棒1份"
+    },
+    "candy": {
+      "name": "糖果",
+      "namePrep": "糖果",
+      "serving": "糖果1份"
+    },
+    "cinnamon-roll": {
+      "name": "肉桂卷",
+      "namePrep": "肉桂卷",
+      "serving": "肉桂卷1份"
+    },
+    "marshmallows": {
+      "name": "棉花糖",
+      "namePrep": "棉花糖",
+      "serving": "棉花糖1份"
+    },
+    "fruit-snacks": {
+      "name": "水果零食",
+      "namePrep": "水果零食",
+      "serving": "水果零食1份"
+    },
+    "black-coffee": {
+      "name": "黑咖啡",
+      "namePrep": "黑咖啡",
+      "serving": "黑咖啡1份"
+    },
+    "cappuccino": {
+      "name": "卡布奇诺",
+      "namePrep": "卡布奇诺",
+      "serving": "卡布奇诺1份"
+    },
+    "milk-tea": {
+      "name": "奶茶",
+      "namePrep": "奶茶",
+      "serving": "奶茶1份"
+    },
+    "bubble-tea": {
+      "name": "珍珠奶茶",
+      "namePrep": "珍珠奶茶",
+      "serving": "珍珠奶茶1份"
+    },
+    "lemonade": {
+      "name": "柠檬水",
+      "namePrep": "柠檬水",
+      "serving": "柠檬水1份"
+    },
+    "iced-tea": {
+      "name": "冰茶",
+      "namePrep": "冰茶",
+      "serving": "冰茶1份"
+    },
+    "apple-juice": {
+      "name": "苹果汁",
+      "namePrep": "苹果汁",
+      "serving": "苹果汁1份"
+    },
+    "coconut-water": {
+      "name": "椰子水",
+      "namePrep": "椰子水",
+      "serving": "椰子水1份"
+    },
+    "sports-drink": {
+      "name": "运动饮料",
+      "namePrep": "运动饮料",
+      "serving": "运动饮料1份"
+    },
+    "ranch-dressing": {
+      "name": "牧场沙拉酱",
+      "namePrep": "牧场沙拉酱",
+      "serving": "牧场沙拉酱1份"
+    },
+    "bbq-sauce": {
+      "name": "烧烤酱",
+      "namePrep": "烧烤酱",
+      "serving": "烧烤酱1份"
+    },
+    "salsa": {
+      "name": "莎莎酱",
+      "namePrep": "莎莎酱",
+      "serving": "莎莎酱1份"
+    },
+    "guacamole": {
+      "name": "牛油果酱",
+      "namePrep": "牛油果酱",
+      "serving": "牛油果酱1份"
+    }
+  },
+  "utility": {
+    "pricing": "价格",
+    "support": "支持",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "press": "媒体资料",
+    "deleteExtra": "如需删除账户或数据，请使用与账户关联的邮箱发送邮件，并在主题中写明“删除账户”。"
+  },
+  "store": {
+    "appStoreSmall": "下载于",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "下载于",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "功能",
+    "useCase": "使用场景",
+    "openPage": "打开页面 →",
+    "openArrow": "打开 →",
+    "practicalWorkflow": "实用流程",
+    "workflowTitle": "推荐流程",
+    "goodToKnow": "需要知道",
+    "defaultNote": "营养估算仅供参考，保存前请检查份量和配料。",
+    "relatedPages": "相关页面",
+    "quickTakeaway": "快速总结",
+    "defaultTakeaway": "把 AI 估算当作起点，并按实际份量调整。",
+    "information": "信息",
+    "bestFor": "适合人群"
+  },
+  "internalCta": {
+    "title": "用 Calorie Counter AI 更快记录饮食",
+    "text": "拍照或扫描条形码，检查热量和宏量营养素估算，然后保存到饮食日记。",
+    "button": "下载应用"
+  },
+  "download": {
+    "availableTitle": "适用于 iPhone 和 Android",
+    "availableText": "在 iPhone 或 Android 上下载 Calorie Counter AI，把下一张食物照片变成可保存的饮食记录。"
+  },
+  "faq": {
+    "items": [
+      [
+        "Calorie Counter AI 免费吗？",
+        "你可以从每日免费 AI 食物分析开始。高级功能可提供更高限制和更多工具。"
+      ],
+      [
+        "可以用照片计算卡路里吗？",
+        "可以。拍摄餐食照片后，应用会给出热量、宏量营养素和份量估算，你可以在保存前检查并调整。"
+      ],
+      [
+        "有条形码扫描器吗？",
+        "有。你可以扫描包装食品条形码，核对产品信息后保存记录。"
+      ],
+      [
+        "可以追踪宏量营养素吗？",
+        "可以。每条记录都会显示蛋白质、脂肪和碳水化合物，方便你对照每日目标。"
+      ],
+      [
+        "适合记录自制餐食吗？",
+        "适合。拍照后请补充配料、烹饪方式和份量，让估算更接近实际。"
+      ],
+      [
+        "这是医疗建议吗？",
+        "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。"
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "你可以从每日免费 AI 食物分析开始；高级功能可提供更高限制和更多记录工具。",
+      "具体价格可能因地区、平台和订阅方案而不同，请以 App Store 或 Google Play 中显示的信息为准。"
+    ],
+    "support": [
+      "需要帮助？请发送设备、平台、应用版本和问题描述，方便我们更快定位问题。",
+      "如遇到识别、订阅或账户问题，请尽量附上相关截图，但不要发送敏感健康资料。"
+    ],
+    "contact": [
+      "支持邮箱：support@caloriecounterai.app",
+      "合作、媒体请求和产品反馈也可以发送到该邮箱，请使用清晰的邮件主题。"
+    ],
+    "privacy": [
+      "Calorie Counter AI 用于饮食记录和营养管理，数据可能包括餐食、照片、设置以及服务运行所需的技术信息。",
+      "我们会按隐私政策处理数据，并使用必要存储来记住语言、Cookie 选择和网站运行设置。"
+    ],
+    "terms": [
+      "使用 Calorie Counter AI 即表示你同意将其作为信息性营养工具，并在依赖估算前自行检查。",
+      "请不要把应用中的估算结果当作医疗诊断、治疗建议或专业营养处方。"
+    ],
+    "disclaimer": [
+      "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "食物识别、份量估算和营养数据可能存在误差，尤其是自制菜、混合餐和餐厅菜。"
+    ],
+    "delete": [
+      "如需删除账户或数据，请使用与账户关联的邮箱发送邮件，并在主题中写明“删除账户”。",
+      "我们会根据适用规则处理删除请求，可能需要验证你是否为账户所有者。"
+    ]
+  },
+  "press": {
+    "iconAlt": "Calorie Counter AI 应用图标",
+    "iconTitle": "应用图标",
+    "downloadIcon": "下载图标",
+    "screenshotAlt": "Calorie Counter AI 应用截图",
+    "screenshotTitle": "应用截图",
+    "downloadScreenshot": "下载截图",
+    "shortDescriptionTitle": "拍照 AI 卡路里计数器",
+    "shortDescriptionText": "用 Calorie Counter AI 拍摄餐食照片，快速获得热量、蛋白质、脂肪、碳水化合物和份量估算。"
+  },
+  "notFound": {
+    "title": "404",
+    "text": "该页面不存在，或地址输入有误。",
+    "home": "首页"
+  },
+  "pages": {
+    "/features/": {
+      "title": "功能总览",
+      "h1": "功能总览",
+      "description": "功能总览：用 AI 照片识别、条形码扫描和饮食日记追踪热量、蛋白质、脂肪和碳水化合物。",
+      "kicker": "功能总览",
+      "summary": "用 Calorie Counter AI 记录餐食、估算热量和宏量营养素，再根据品牌、做法和实际份量进行调整。",
+      "bullets": [
+        "拍照 AI 卡路里计数器",
+        "条形码扫描器",
+        "宏量营养素",
+        "饮食日记"
+      ],
+      "sections": [
+        [
+          "适合什么时候使用",
+          "功能总览适合希望快速记录日常饮食的人：拍照、确认估算，再保存到饮食日记。"
+        ],
+        [
+          "你可以追踪什么",
+          "每条记录会围绕热量、蛋白质、脂肪、碳水化合物和份量展开，便于和每日目标对照。"
+        ],
+        [
+          "需要注意",
+          "AI 估算适合作为起点。包装食品请优先核对标签，自制菜和餐厅菜建议补充配料、酱料和烹饪方式。"
+        ]
+      ],
+      "workflowTitle": "建议流程",
+      "workflow": [
+        "拍摄餐食照片或扫描包装条形码。",
+        "检查食物名称、份量和宏量营养素估算，然后保存到饮食日记。"
+      ],
+      "note": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "bestFor": [
+        "日常饮食记录",
+        "减重或维持体重",
+        "增肌期蛋白质追踪",
+        "自制餐食和外食"
+      ],
+      "workflowKicker": "操作方式",
+      "noteTitle": "温馨提示"
+    },
+    "/food-recognition-ai/": {
+      "title": "AI 食物识别",
+      "h1": "AI 食物识别",
+      "description": "AI 食物识别：用 AI 照片识别、条形码扫描和饮食日记追踪热量、蛋白质、脂肪和碳水化合物。",
+      "kicker": "AI 食物识别",
+      "summary": "用 Calorie Counter AI 记录餐食、估算热量和宏量营养素，再根据品牌、做法和实际份量进行调整。",
+      "bullets": [
+        "拍照 AI 卡路里计数器",
+        "条形码扫描器",
+        "宏量营养素",
+        "饮食日记"
+      ],
+      "sections": [
+        [
+          "适合什么时候使用",
+          "AI 食物识别适合希望快速记录日常饮食的人：拍照、确认估算，再保存到饮食日记。"
+        ],
+        [
+          "你可以追踪什么",
+          "每条记录会围绕热量、蛋白质、脂肪、碳水化合物和份量展开，便于和每日目标对照。"
+        ],
+        [
+          "需要注意",
+          "AI 估算适合作为起点。包装食品请优先核对标签，自制菜和餐厅菜建议补充配料、酱料和烹饪方式。"
+        ]
+      ],
+      "workflowTitle": "建议流程",
+      "workflow": [
+        "拍摄餐食照片或扫描包装条形码。",
+        "检查食物名称、份量和宏量营养素估算，然后保存到饮食日记。"
+      ],
+      "note": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "bestFor": [
+        "日常饮食记录",
+        "减重或维持体重",
+        "增肌期蛋白质追踪",
+        "自制餐食和外食"
+      ],
+      "workflowKicker": "操作方式",
+      "noteTitle": "温馨提示"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "条形码卡路里扫描器",
+      "h1": "条形码卡路里扫描器",
+      "description": "条形码卡路里扫描器：用 AI 照片识别、条形码扫描和饮食日记追踪热量、蛋白质、脂肪和碳水化合物。",
+      "kicker": "条形码卡路里扫描器",
+      "summary": "用 Calorie Counter AI 记录餐食、估算热量和宏量营养素，再根据品牌、做法和实际份量进行调整。",
+      "bullets": [
+        "拍照 AI 卡路里计数器",
+        "条形码扫描器",
+        "宏量营养素",
+        "饮食日记"
+      ],
+      "sections": [
+        [
+          "适合什么时候使用",
+          "条形码卡路里扫描器适合希望快速记录日常饮食的人：拍照、确认估算，再保存到饮食日记。"
+        ],
+        [
+          "你可以追踪什么",
+          "每条记录会围绕热量、蛋白质、脂肪、碳水化合物和份量展开，便于和每日目标对照。"
+        ],
+        [
+          "需要注意",
+          "AI 估算适合作为起点。包装食品请优先核对标签，自制菜和餐厅菜建议补充配料、酱料和烹饪方式。"
+        ]
+      ],
+      "workflowTitle": "建议流程",
+      "workflow": [
+        "拍摄餐食照片或扫描包装条形码。",
+        "检查食物名称、份量和宏量营养素估算，然后保存到饮食日记。"
+      ],
+      "note": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "bestFor": [
+        "日常饮食记录",
+        "减重或维持体重",
+        "增肌期蛋白质追踪",
+        "自制餐食和外食"
+      ],
+      "workflowKicker": "操作方式",
+      "noteTitle": "温馨提示"
+    },
+    "/macro-tracker/": {
+      "title": "宏量营养素追踪器",
+      "h1": "宏量营养素追踪器",
+      "description": "宏量营养素追踪器：用 AI 照片识别、条形码扫描和饮食日记追踪热量、蛋白质、脂肪和碳水化合物。",
+      "kicker": "宏量营养素追踪器",
+      "summary": "用 Calorie Counter AI 记录餐食、估算热量和宏量营养素，再根据品牌、做法和实际份量进行调整。",
+      "bullets": [
+        "拍照 AI 卡路里计数器",
+        "条形码扫描器",
+        "宏量营养素",
+        "饮食日记"
+      ],
+      "sections": [
+        [
+          "适合什么时候使用",
+          "宏量营养素追踪器适合希望快速记录日常饮食的人：拍照、确认估算，再保存到饮食日记。"
+        ],
+        [
+          "你可以追踪什么",
+          "每条记录会围绕热量、蛋白质、脂肪、碳水化合物和份量展开，便于和每日目标对照。"
+        ],
+        [
+          "需要注意",
+          "AI 估算适合作为起点。包装食品请优先核对标签，自制菜和餐厅菜建议补充配料、酱料和烹饪方式。"
+        ]
+      ],
+      "workflowTitle": "建议流程",
+      "workflow": [
+        "拍摄餐食照片或扫描包装条形码。",
+        "检查食物名称、份量和宏量营养素估算，然后保存到饮食日记。"
+      ],
+      "note": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "bestFor": [
+        "日常饮食记录",
+        "减重或维持体重",
+        "增肌期蛋白质追踪",
+        "自制餐食和外食"
+      ],
+      "workflowKicker": "操作方式",
+      "noteTitle": "温馨提示"
+    },
+    "/food-diary-app/": {
+      "title": "饮食日记应用",
+      "h1": "饮食日记应用",
+      "description": "饮食日记应用：用 AI 照片识别、条形码扫描和饮食日记追踪热量、蛋白质、脂肪和碳水化合物。",
+      "kicker": "饮食日记应用",
+      "summary": "用 Calorie Counter AI 记录餐食、估算热量和宏量营养素，再根据品牌、做法和实际份量进行调整。",
+      "bullets": [
+        "拍照 AI 卡路里计数器",
+        "条形码扫描器",
+        "宏量营养素",
+        "饮食日记"
+      ],
+      "sections": [
+        [
+          "适合什么时候使用",
+          "饮食日记应用适合希望快速记录日常饮食的人：拍照、确认估算，再保存到饮食日记。"
+        ],
+        [
+          "你可以追踪什么",
+          "每条记录会围绕热量、蛋白质、脂肪、碳水化合物和份量展开，便于和每日目标对照。"
+        ],
+        [
+          "需要注意",
+          "AI 估算适合作为起点。包装食品请优先核对标签，自制菜和餐厅菜建议补充配料、酱料和烹饪方式。"
+        ]
+      ],
+      "workflowTitle": "建议流程",
+      "workflow": [
+        "拍摄餐食照片或扫描包装条形码。",
+        "检查食物名称、份量和宏量营养素估算，然后保存到饮食日记。"
+      ],
+      "note": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "bestFor": [
+        "日常饮食记录",
+        "减重或维持体重",
+        "增肌期蛋白质追踪",
+        "自制餐食和外食"
+      ],
+      "workflowKicker": "操作方式",
+      "noteTitle": "温馨提示"
+    },
+    "/nutrition-tracker/": {
+      "title": "营养追踪器",
+      "h1": "营养追踪器",
+      "description": "营养追踪器：用 AI 照片识别、条形码扫描和饮食日记追踪热量、蛋白质、脂肪和碳水化合物。",
+      "kicker": "营养追踪器",
+      "summary": "用 Calorie Counter AI 记录餐食、估算热量和宏量营养素，再根据品牌、做法和实际份量进行调整。",
+      "bullets": [
+        "拍照 AI 卡路里计数器",
+        "条形码扫描器",
+        "宏量营养素",
+        "饮食日记"
+      ],
+      "sections": [
+        [
+          "适合什么时候使用",
+          "营养追踪器适合希望快速记录日常饮食的人：拍照、确认估算，再保存到饮食日记。"
+        ],
+        [
+          "你可以追踪什么",
+          "每条记录会围绕热量、蛋白质、脂肪、碳水化合物和份量展开，便于和每日目标对照。"
+        ],
+        [
+          "需要注意",
+          "AI 估算适合作为起点。包装食品请优先核对标签，自制菜和餐厅菜建议补充配料、酱料和烹饪方式。"
+        ]
+      ],
+      "workflowTitle": "建议流程",
+      "workflow": [
+        "拍摄餐食照片或扫描包装条形码。",
+        "检查食物名称、份量和宏量营养素估算，然后保存到饮食日记。"
+      ],
+      "note": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "bestFor": [
+        "日常饮食记录",
+        "减重或维持体重",
+        "增肌期蛋白质追踪",
+        "自制餐食和外食"
+      ],
+      "workflowKicker": "操作方式",
+      "noteTitle": "温馨提示"
+    },
+    "/meal-weight-estimator/": {
+      "title": "餐食重量估算",
+      "h1": "餐食重量估算",
+      "description": "餐食重量估算：用 AI 照片识别、条形码扫描和饮食日记追踪热量、蛋白质、脂肪和碳水化合物。",
+      "kicker": "餐食重量估算",
+      "summary": "用 Calorie Counter AI 记录餐食、估算热量和宏量营养素，再根据品牌、做法和实际份量进行调整。",
+      "bullets": [
+        "拍照 AI 卡路里计数器",
+        "条形码扫描器",
+        "宏量营养素",
+        "饮食日记"
+      ],
+      "sections": [
+        [
+          "适合什么时候使用",
+          "餐食重量估算适合希望快速记录日常饮食的人：拍照、确认估算，再保存到饮食日记。"
+        ],
+        [
+          "你可以追踪什么",
+          "每条记录会围绕热量、蛋白质、脂肪、碳水化合物和份量展开，便于和每日目标对照。"
+        ],
+        [
+          "需要注意",
+          "AI 估算适合作为起点。包装食品请优先核对标签，自制菜和餐厅菜建议补充配料、酱料和烹饪方式。"
+        ]
+      ],
+      "workflowTitle": "建议流程",
+      "workflow": [
+        "拍摄餐食照片或扫描包装条形码。",
+        "检查食物名称、份量和宏量营养素估算，然后保存到饮食日记。"
+      ],
+      "note": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "bestFor": [
+        "日常饮食记录",
+        "减重或维持体重",
+        "增肌期蛋白质追踪",
+        "自制餐食和外食"
+      ],
+      "workflowKicker": "操作方式",
+      "noteTitle": "温馨提示"
+    },
+    "/progress-statistics/": {
+      "title": "营养进度统计",
+      "h1": "营养进度统计",
+      "description": "营养进度统计：用 AI 照片识别、条形码扫描和饮食日记追踪热量、蛋白质、脂肪和碳水化合物。",
+      "kicker": "营养进度统计",
+      "summary": "用 Calorie Counter AI 记录餐食、估算热量和宏量营养素，再根据品牌、做法和实际份量进行调整。",
+      "bullets": [
+        "拍照 AI 卡路里计数器",
+        "条形码扫描器",
+        "宏量营养素",
+        "饮食日记"
+      ],
+      "sections": [
+        [
+          "适合什么时候使用",
+          "营养进度统计适合希望快速记录日常饮食的人：拍照、确认估算，再保存到饮食日记。"
+        ],
+        [
+          "你可以追踪什么",
+          "每条记录会围绕热量、蛋白质、脂肪、碳水化合物和份量展开，便于和每日目标对照。"
+        ],
+        [
+          "需要注意",
+          "AI 估算适合作为起点。包装食品请优先核对标签，自制菜和餐厅菜建议补充配料、酱料和烹饪方式。"
+        ]
+      ],
+      "workflowTitle": "建议流程",
+      "workflow": [
+        "拍摄餐食照片或扫描包装条形码。",
+        "检查食物名称、份量和宏量营养素估算，然后保存到饮食日记。"
+      ],
+      "note": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "bestFor": [
+        "日常饮食记录",
+        "减重或维持体重",
+        "增肌期蛋白质追踪",
+        "自制餐食和外食"
+      ],
+      "workflowKicker": "操作方式",
+      "noteTitle": "温馨提示"
+    },
+    "/meal-reminders/": {
+      "title": "用餐记录提醒",
+      "h1": "用餐记录提醒",
+      "description": "用餐记录提醒：用 AI 照片识别、条形码扫描和饮食日记追踪热量、蛋白质、脂肪和碳水化合物。",
+      "kicker": "用餐记录提醒",
+      "summary": "用 Calorie Counter AI 记录餐食、估算热量和宏量营养素，再根据品牌、做法和实际份量进行调整。",
+      "bullets": [
+        "拍照 AI 卡路里计数器",
+        "条形码扫描器",
+        "宏量营养素",
+        "饮食日记"
+      ],
+      "sections": [
+        [
+          "适合什么时候使用",
+          "用餐记录提醒适合希望快速记录日常饮食的人：拍照、确认估算，再保存到饮食日记。"
+        ],
+        [
+          "你可以追踪什么",
+          "每条记录会围绕热量、蛋白质、脂肪、碳水化合物和份量展开，便于和每日目标对照。"
+        ],
+        [
+          "需要注意",
+          "AI 估算适合作为起点。包装食品请优先核对标签，自制菜和餐厅菜建议补充配料、酱料和烹饪方式。"
+        ]
+      ],
+      "workflowTitle": "建议流程",
+      "workflow": [
+        "拍摄餐食照片或扫描包装条形码。",
+        "检查食物名称、份量和宏量营养素估算，然后保存到饮食日记。"
+      ],
+      "note": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "bestFor": [
+        "日常饮食记录",
+        "减重或维持体重",
+        "增肌期蛋白质追踪",
+        "自制餐食和外食"
+      ],
+      "workflowKicker": "操作方式",
+      "noteTitle": "温馨提示"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Google Health Connect",
+      "description": "Google Health Connect：用 AI 照片识别、条形码扫描和饮食日记追踪热量、蛋白质、脂肪和碳水化合物。",
+      "kicker": "Google Health Connect",
+      "summary": "用 Calorie Counter AI 记录餐食、估算热量和宏量营养素，再根据品牌、做法和实际份量进行调整。",
+      "bullets": [
+        "拍照 AI 卡路里计数器",
+        "条形码扫描器",
+        "宏量营养素",
+        "饮食日记"
+      ],
+      "sections": [
+        [
+          "适合什么时候使用",
+          "Google Health Connect适合希望快速记录日常饮食的人：拍照、确认估算，再保存到饮食日记。"
+        ],
+        [
+          "你可以追踪什么",
+          "每条记录会围绕热量、蛋白质、脂肪、碳水化合物和份量展开，便于和每日目标对照。"
+        ],
+        [
+          "需要注意",
+          "AI 估算适合作为起点。包装食品请优先核对标签，自制菜和餐厅菜建议补充配料、酱料和烹饪方式。"
+        ]
+      ],
+      "workflowTitle": "建议流程",
+      "workflow": [
+        "拍摄餐食照片或扫描包装条形码。",
+        "检查食物名称、份量和宏量营养素估算，然后保存到饮食日记。"
+      ],
+      "note": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "bestFor": [
+        "日常饮食记录",
+        "减重或维持体重",
+        "增肌期蛋白质追踪",
+        "自制餐食和外食"
+      ],
+      "workflowKicker": "操作方式",
+      "noteTitle": "温馨提示"
+    },
+    "/data-export/": {
+      "title": "数据导出",
+      "h1": "数据导出",
+      "description": "数据导出：用 AI 照片识别、条形码扫描和饮食日记追踪热量、蛋白质、脂肪和碳水化合物。",
+      "kicker": "数据导出",
+      "summary": "用 Calorie Counter AI 记录餐食、估算热量和宏量营养素，再根据品牌、做法和实际份量进行调整。",
+      "bullets": [
+        "拍照 AI 卡路里计数器",
+        "条形码扫描器",
+        "宏量营养素",
+        "饮食日记"
+      ],
+      "sections": [
+        [
+          "适合什么时候使用",
+          "数据导出适合希望快速记录日常饮食的人：拍照、确认估算，再保存到饮食日记。"
+        ],
+        [
+          "你可以追踪什么",
+          "每条记录会围绕热量、蛋白质、脂肪、碳水化合物和份量展开，便于和每日目标对照。"
+        ],
+        [
+          "需要注意",
+          "AI 估算适合作为起点。包装食品请优先核对标签，自制菜和餐厅菜建议补充配料、酱料和烹饪方式。"
+        ]
+      ],
+      "workflowTitle": "建议流程",
+      "workflow": [
+        "拍摄餐食照片或扫描包装条形码。",
+        "检查食物名称、份量和宏量营养素估算，然后保存到饮食日记。"
+      ],
+      "note": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "bestFor": [
+        "日常饮食记录",
+        "减重或维持体重",
+        "增肌期蛋白质追踪",
+        "自制餐食和外食"
+      ],
+      "workflowKicker": "操作方式",
+      "noteTitle": "温馨提示"
+    },
+    "/use-cases/": {
+      "title": "使用场景",
+      "h1": "使用场景",
+      "description": "使用场景：了解 Calorie Counter AI 如何帮助你用照片、条形码和饮食日记更轻松地管理日常热量与宏量营养素。",
+      "kicker": "使用场景"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "减重卡路里计数器",
+      "h1": "减重卡路里计数器",
+      "description": "减重卡路里计数器：用 AI 照片识别、条形码扫描和饮食日记追踪热量、蛋白质、脂肪和碳水化合物。",
+      "kicker": "减重卡路里计数器",
+      "summary": "用 Calorie Counter AI 记录餐食、估算热量和宏量营养素，再根据品牌、做法和实际份量进行调整。",
+      "bullets": [
+        "拍照 AI 卡路里计数器",
+        "条形码扫描器",
+        "宏量营养素",
+        "饮食日记"
+      ],
+      "sections": [
+        [
+          "适合什么时候使用",
+          "减重卡路里计数器适合希望快速记录日常饮食的人：拍照、确认估算，再保存到饮食日记。"
+        ],
+        [
+          "你可以追踪什么",
+          "每条记录会围绕热量、蛋白质、脂肪、碳水化合物和份量展开，便于和每日目标对照。"
+        ],
+        [
+          "需要注意",
+          "AI 估算适合作为起点。包装食品请优先核对标签，自制菜和餐厅菜建议补充配料、酱料和烹饪方式。"
+        ]
+      ],
+      "workflowTitle": "建议流程",
+      "workflow": [
+        "拍摄餐食照片或扫描包装条形码。",
+        "检查食物名称、份量和宏量营养素估算，然后保存到饮食日记。"
+      ],
+      "note": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "bestFor": [
+        "日常饮食记录",
+        "减重或维持体重",
+        "增肌期蛋白质追踪",
+        "自制餐食和外食"
+      ],
+      "workflowKicker": "操作方式",
+      "noteTitle": "温馨提示"
+    },
+    "/calorie-deficit-app/": {
+      "title": "热量缺口应用",
+      "h1": "热量缺口应用",
+      "description": "热量缺口应用：用 AI 照片识别、条形码扫描和饮食日记追踪热量、蛋白质、脂肪和碳水化合物。",
+      "kicker": "热量缺口应用",
+      "summary": "用 Calorie Counter AI 记录餐食、估算热量和宏量营养素，再根据品牌、做法和实际份量进行调整。",
+      "bullets": [
+        "拍照 AI 卡路里计数器",
+        "条形码扫描器",
+        "宏量营养素",
+        "饮食日记"
+      ],
+      "sections": [
+        [
+          "适合什么时候使用",
+          "热量缺口应用适合希望快速记录日常饮食的人：拍照、确认估算，再保存到饮食日记。"
+        ],
+        [
+          "你可以追踪什么",
+          "每条记录会围绕热量、蛋白质、脂肪、碳水化合物和份量展开，便于和每日目标对照。"
+        ],
+        [
+          "需要注意",
+          "AI 估算适合作为起点。包装食品请优先核对标签，自制菜和餐厅菜建议补充配料、酱料和烹饪方式。"
+        ]
+      ],
+      "workflowTitle": "建议流程",
+      "workflow": [
+        "拍摄餐食照片或扫描包装条形码。",
+        "检查食物名称、份量和宏量营养素估算，然后保存到饮食日记。"
+      ],
+      "note": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "bestFor": [
+        "日常饮食记录",
+        "减重或维持体重",
+        "增肌期蛋白质追踪",
+        "自制餐食和外食"
+      ],
+      "workflowKicker": "操作方式",
+      "noteTitle": "温馨提示"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "增肌卡路里追踪器",
+      "h1": "增肌卡路里追踪器",
+      "description": "增肌卡路里追踪器：用 AI 照片识别、条形码扫描和饮食日记追踪热量、蛋白质、脂肪和碳水化合物。",
+      "kicker": "增肌卡路里追踪器",
+      "summary": "用 Calorie Counter AI 记录餐食、估算热量和宏量营养素，再根据品牌、做法和实际份量进行调整。",
+      "bullets": [
+        "拍照 AI 卡路里计数器",
+        "条形码扫描器",
+        "宏量营养素",
+        "饮食日记"
+      ],
+      "sections": [
+        [
+          "适合什么时候使用",
+          "增肌卡路里追踪器适合希望快速记录日常饮食的人：拍照、确认估算，再保存到饮食日记。"
+        ],
+        [
+          "你可以追踪什么",
+          "每条记录会围绕热量、蛋白质、脂肪、碳水化合物和份量展开，便于和每日目标对照。"
+        ],
+        [
+          "需要注意",
+          "AI 估算适合作为起点。包装食品请优先核对标签，自制菜和餐厅菜建议补充配料、酱料和烹饪方式。"
+        ]
+      ],
+      "workflowTitle": "建议流程",
+      "workflow": [
+        "拍摄餐食照片或扫描包装条形码。",
+        "检查食物名称、份量和宏量营养素估算，然后保存到饮食日记。"
+      ],
+      "note": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "bestFor": [
+        "日常饮食记录",
+        "减重或维持体重",
+        "增肌期蛋白质追踪",
+        "自制餐食和外食"
+      ],
+      "workflowKicker": "操作方式",
+      "noteTitle": "温馨提示"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "体重维持追踪器",
+      "h1": "体重维持追踪器",
+      "description": "体重维持追踪器：用 AI 照片识别、条形码扫描和饮食日记追踪热量、蛋白质、脂肪和碳水化合物。",
+      "kicker": "体重维持追踪器",
+      "summary": "用 Calorie Counter AI 记录餐食、估算热量和宏量营养素，再根据品牌、做法和实际份量进行调整。",
+      "bullets": [
+        "拍照 AI 卡路里计数器",
+        "条形码扫描器",
+        "宏量营养素",
+        "饮食日记"
+      ],
+      "sections": [
+        [
+          "适合什么时候使用",
+          "体重维持追踪器适合希望快速记录日常饮食的人：拍照、确认估算，再保存到饮食日记。"
+        ],
+        [
+          "你可以追踪什么",
+          "每条记录会围绕热量、蛋白质、脂肪、碳水化合物和份量展开，便于和每日目标对照。"
+        ],
+        [
+          "需要注意",
+          "AI 估算适合作为起点。包装食品请优先核对标签，自制菜和餐厅菜建议补充配料、酱料和烹饪方式。"
+        ]
+      ],
+      "workflowTitle": "建议流程",
+      "workflow": [
+        "拍摄餐食照片或扫描包装条形码。",
+        "检查食物名称、份量和宏量营养素估算，然后保存到饮食日记。"
+      ],
+      "note": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "bestFor": [
+        "日常饮食记录",
+        "减重或维持体重",
+        "增肌期蛋白质追踪",
+        "自制餐食和外食"
+      ],
+      "workflowKicker": "操作方式",
+      "noteTitle": "温馨提示"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "自制餐食卡路里计数器",
+      "h1": "自制餐食卡路里计数器",
+      "description": "自制餐食卡路里计数器：用 AI 照片识别、条形码扫描和饮食日记追踪热量、蛋白质、脂肪和碳水化合物。",
+      "kicker": "自制餐食卡路里计数器",
+      "summary": "用 Calorie Counter AI 记录餐食、估算热量和宏量营养素，再根据品牌、做法和实际份量进行调整。",
+      "bullets": [
+        "拍照 AI 卡路里计数器",
+        "条形码扫描器",
+        "宏量营养素",
+        "饮食日记"
+      ],
+      "sections": [
+        [
+          "适合什么时候使用",
+          "自制餐食卡路里计数器适合希望快速记录日常饮食的人：拍照、确认估算，再保存到饮食日记。"
+        ],
+        [
+          "你可以追踪什么",
+          "每条记录会围绕热量、蛋白质、脂肪、碳水化合物和份量展开，便于和每日目标对照。"
+        ],
+        [
+          "需要注意",
+          "AI 估算适合作为起点。包装食品请优先核对标签，自制菜和餐厅菜建议补充配料、酱料和烹饪方式。"
+        ]
+      ],
+      "workflowTitle": "建议流程",
+      "workflow": [
+        "拍摄餐食照片或扫描包装条形码。",
+        "检查食物名称、份量和宏量营养素估算，然后保存到饮食日记。"
+      ],
+      "note": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "bestFor": [
+        "日常饮食记录",
+        "减重或维持体重",
+        "增肌期蛋白质追踪",
+        "自制餐食和外食"
+      ],
+      "workflowKicker": "操作方式",
+      "noteTitle": "温馨提示"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "餐厅用餐卡路里追踪器",
+      "h1": "餐厅用餐卡路里追踪器",
+      "description": "餐厅用餐卡路里追踪器：用 AI 照片识别、条形码扫描和饮食日记追踪热量、蛋白质、脂肪和碳水化合物。",
+      "kicker": "餐厅用餐卡路里追踪器",
+      "summary": "用 Calorie Counter AI 记录餐食、估算热量和宏量营养素，再根据品牌、做法和实际份量进行调整。",
+      "bullets": [
+        "拍照 AI 卡路里计数器",
+        "条形码扫描器",
+        "宏量营养素",
+        "饮食日记"
+      ],
+      "sections": [
+        [
+          "适合什么时候使用",
+          "餐厅用餐卡路里追踪器适合希望快速记录日常饮食的人：拍照、确认估算，再保存到饮食日记。"
+        ],
+        [
+          "你可以追踪什么",
+          "每条记录会围绕热量、蛋白质、脂肪、碳水化合物和份量展开，便于和每日目标对照。"
+        ],
+        [
+          "需要注意",
+          "AI 估算适合作为起点。包装食品请优先核对标签，自制菜和餐厅菜建议补充配料、酱料和烹饪方式。"
+        ]
+      ],
+      "workflowTitle": "建议流程",
+      "workflow": [
+        "拍摄餐食照片或扫描包装条形码。",
+        "检查食物名称、份量和宏量营养素估算，然后保存到饮食日记。"
+      ],
+      "note": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "bestFor": [
+        "日常饮食记录",
+        "减重或维持体重",
+        "增肌期蛋白质追踪",
+        "自制餐食和外食"
+      ],
+      "workflowKicker": "操作方式",
+      "noteTitle": "温馨提示"
+    },
+    "/meal-tracker/": {
+      "title": "餐食追踪器",
+      "h1": "餐食追踪器",
+      "description": "餐食追踪器：用 AI 照片识别、条形码扫描和饮食日记追踪热量、蛋白质、脂肪和碳水化合物。",
+      "kicker": "餐食追踪器",
+      "summary": "用 Calorie Counter AI 记录餐食、估算热量和宏量营养素，再根据品牌、做法和实际份量进行调整。",
+      "bullets": [
+        "拍照 AI 卡路里计数器",
+        "条形码扫描器",
+        "宏量营养素",
+        "饮食日记"
+      ],
+      "sections": [
+        [
+          "适合什么时候使用",
+          "餐食追踪器适合希望快速记录日常饮食的人：拍照、确认估算，再保存到饮食日记。"
+        ],
+        [
+          "你可以追踪什么",
+          "每条记录会围绕热量、蛋白质、脂肪、碳水化合物和份量展开，便于和每日目标对照。"
+        ],
+        [
+          "需要注意",
+          "AI 估算适合作为起点。包装食品请优先核对标签，自制菜和餐厅菜建议补充配料、酱料和烹饪方式。"
+        ]
+      ],
+      "workflowTitle": "建议流程",
+      "workflow": [
+        "拍摄餐食照片或扫描包装条形码。",
+        "检查食物名称、份量和宏量营养素估算，然后保存到饮食日记。"
+      ],
+      "note": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "bestFor": [
+        "日常饮食记录",
+        "减重或维持体重",
+        "增肌期蛋白质追踪",
+        "自制餐食和外食"
+      ],
+      "workflowKicker": "操作方式",
+      "noteTitle": "温馨提示"
+    },
+    "/photo-food-journal/": {
+      "title": "拍照饮食日记",
+      "h1": "拍照饮食日记",
+      "description": "拍照饮食日记：用 AI 照片识别、条形码扫描和饮食日记追踪热量、蛋白质、脂肪和碳水化合物。",
+      "kicker": "拍照饮食日记",
+      "summary": "用 Calorie Counter AI 记录餐食、估算热量和宏量营养素，再根据品牌、做法和实际份量进行调整。",
+      "bullets": [
+        "拍照 AI 卡路里计数器",
+        "条形码扫描器",
+        "宏量营养素",
+        "饮食日记"
+      ],
+      "sections": [
+        [
+          "适合什么时候使用",
+          "拍照饮食日记适合希望快速记录日常饮食的人：拍照、确认估算，再保存到饮食日记。"
+        ],
+        [
+          "你可以追踪什么",
+          "每条记录会围绕热量、蛋白质、脂肪、碳水化合物和份量展开，便于和每日目标对照。"
+        ],
+        [
+          "需要注意",
+          "AI 估算适合作为起点。包装食品请优先核对标签，自制菜和餐厅菜建议补充配料、酱料和烹饪方式。"
+        ]
+      ],
+      "workflowTitle": "建议流程",
+      "workflow": [
+        "拍摄餐食照片或扫描包装条形码。",
+        "检查食物名称、份量和宏量营养素估算，然后保存到饮食日记。"
+      ],
+      "note": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "bestFor": [
+        "日常饮食记录",
+        "减重或维持体重",
+        "增肌期蛋白质追踪",
+        "自制餐食和外食"
+      ],
+      "workflowKicker": "操作方式",
+      "noteTitle": "温馨提示"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "健康饮食追踪器",
+      "h1": "健康饮食追踪器",
+      "description": "健康饮食追踪器：用 AI 照片识别、条形码扫描和饮食日记追踪热量、蛋白质、脂肪和碳水化合物。",
+      "kicker": "健康饮食追踪器",
+      "summary": "用 Calorie Counter AI 记录餐食、估算热量和宏量营养素，再根据品牌、做法和实际份量进行调整。",
+      "bullets": [
+        "拍照 AI 卡路里计数器",
+        "条形码扫描器",
+        "宏量营养素",
+        "饮食日记"
+      ],
+      "sections": [
+        [
+          "适合什么时候使用",
+          "健康饮食追踪器适合希望快速记录日常饮食的人：拍照、确认估算，再保存到饮食日记。"
+        ],
+        [
+          "你可以追踪什么",
+          "每条记录会围绕热量、蛋白质、脂肪、碳水化合物和份量展开，便于和每日目标对照。"
+        ],
+        [
+          "需要注意",
+          "AI 估算适合作为起点。包装食品请优先核对标签，自制菜和餐厅菜建议补充配料、酱料和烹饪方式。"
+        ]
+      ],
+      "workflowTitle": "建议流程",
+      "workflow": [
+        "拍摄餐食照片或扫描包装条形码。",
+        "检查食物名称、份量和宏量营养素估算，然后保存到饮食日记。"
+      ],
+      "note": "Calorie Counter AI 提供信息性营养估算，仅供参考，不能替代医生或营养师建议。",
+      "bestFor": [
+        "日常饮食记录",
+        "减重或维持体重",
+        "增肌期蛋白质追踪",
+        "自制餐食和外食"
+      ],
+      "workflowKicker": "操作方式",
+      "noteTitle": "温馨提示"
+    },
+    "/blog/": {
+      "title": "卡路里计数与 AI 饮食记录指南",
+      "h1": "卡路里计数与 AI 饮食记录指南",
+      "description": "卡路里计数与 AI 饮食记录指南：了解 Calorie Counter AI 如何帮助你用照片、条形码和饮食日记更轻松地管理日常热量与宏量营养素。",
+      "kicker": "卡路里计数与 AI 饮食记录指南"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "如何用照片计算卡路里",
+      "h1": "如何用照片计算卡路里",
+      "description": "如何用照片计算卡路里：面向日常饮食记录的实用指南，帮助你更好地理解热量、宏量营养素、份量和 AI 估算结果。",
+      "category": "指南",
+      "readTime": "约 4 分钟阅读",
+      "intro": "如何用照片计算卡路里。用简单、可复查的方式记录食物，比追求完美数字更适合长期坚持。",
+      "sections": [
+        [
+          "核心思路",
+          "如何用照片计算卡路里的重点不是追求一次估算绝对精确，而是用一致的方法记录餐食、检查份量，并随着实际情况调整。"
+        ],
+        [
+          "在应用中怎么做",
+          "可以拍照、扫描条形码或手动补充信息，然后查看热量、蛋白质、脂肪和碳水化合物。"
+        ],
+        [
+          "提高准确度",
+          "尽量补充烹饪方式、酱料、品牌和实际份量；这些因素通常比单个食材名称更影响结果。"
+        ],
+        [
+          "下一步",
+          "把估算保存到饮食日记，用几天或几周的趋势来判断是否符合你的目标。"
+        ]
+      ],
+      "takeaway": "实用做法：记录时保留份量、烹饪方式和主要配料，并把 AI 估算当作可调整的起点。"
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "AI 卡路里计数器有多准确？",
+      "h1": "AI 卡路里计数器有多准确？",
+      "description": "AI 卡路里计数器有多准确？：面向日常饮食记录的实用指南，帮助你更好地理解热量、宏量营养素、份量和 AI 估算结果。",
+      "category": "指南",
+      "readTime": "约 4 分钟阅读",
+      "intro": "AI 卡路里计数器有多准确？。用简单、可复查的方式记录食物，比追求完美数字更适合长期坚持。",
+      "sections": [
+        [
+          "核心思路",
+          "AI 卡路里计数器有多准确？的重点不是追求一次估算绝对精确，而是用一致的方法记录餐食、检查份量，并随着实际情况调整。"
+        ],
+        [
+          "在应用中怎么做",
+          "可以拍照、扫描条形码或手动补充信息，然后查看热量、蛋白质、脂肪和碳水化合物。"
+        ],
+        [
+          "提高准确度",
+          "尽量补充烹饪方式、酱料、品牌和实际份量；这些因素通常比单个食材名称更影响结果。"
+        ],
+        [
+          "下一步",
+          "把估算保存到饮食日记，用几天或几周的趋势来判断是否符合你的目标。"
+        ]
+      ],
+      "takeaway": "实用做法：记录时保留份量、烹饪方式和主要配料，并把 AI 估算当作可调整的起点。"
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "AI 饮食记录与手动记录对比",
+      "h1": "AI 饮食记录与手动记录对比",
+      "description": "AI 饮食记录与手动记录对比：面向日常饮食记录的实用指南，帮助你更好地理解热量、宏量营养素、份量和 AI 估算结果。",
+      "category": "指南",
+      "readTime": "约 4 分钟阅读",
+      "intro": "AI 饮食记录与手动记录对比。用简单、可复查的方式记录食物，比追求完美数字更适合长期坚持。",
+      "sections": [
+        [
+          "核心思路",
+          "AI 饮食记录与手动记录对比的重点不是追求一次估算绝对精确，而是用一致的方法记录餐食、检查份量，并随着实际情况调整。"
+        ],
+        [
+          "在应用中怎么做",
+          "可以拍照、扫描条形码或手动补充信息，然后查看热量、蛋白质、脂肪和碳水化合物。"
+        ],
+        [
+          "提高准确度",
+          "尽量补充烹饪方式、酱料、品牌和实际份量；这些因素通常比单个食材名称更影响结果。"
+        ],
+        [
+          "下一步",
+          "把估算保存到饮食日记，用几天或几周的趋势来判断是否符合你的目标。"
+        ]
+      ],
+      "takeaway": "实用做法：记录时保留份量、烹饪方式和主要配料，并把 AI 估算当作可调整的起点。"
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "什么是食物卡路里扫描器？",
+      "h1": "什么是食物卡路里扫描器？",
+      "description": "什么是食物卡路里扫描器？：面向日常饮食记录的实用指南，帮助你更好地理解热量、宏量营养素、份量和 AI 估算结果。",
+      "category": "指南",
+      "readTime": "约 4 分钟阅读",
+      "intro": "什么是食物卡路里扫描器？。用简单、可复查的方式记录食物，比追求完美数字更适合长期坚持。",
+      "sections": [
+        [
+          "核心思路",
+          "什么是食物卡路里扫描器？的重点不是追求一次估算绝对精确，而是用一致的方法记录餐食、检查份量，并随着实际情况调整。"
+        ],
+        [
+          "在应用中怎么做",
+          "可以拍照、扫描条形码或手动补充信息，然后查看热量、蛋白质、脂肪和碳水化合物。"
+        ],
+        [
+          "提高准确度",
+          "尽量补充烹饪方式、酱料、品牌和实际份量；这些因素通常比单个食材名称更影响结果。"
+        ],
+        [
+          "下一步",
+          "把估算保存到饮食日记，用几天或几周的趋势来判断是否符合你的目标。"
+        ]
+      ],
+      "takeaway": "实用做法：记录时保留份量、烹饪方式和主要配料，并把 AI 估算当作可调整的起点。"
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "初学者如何追踪宏量营养素",
+      "h1": "初学者如何追踪宏量营养素",
+      "description": "初学者如何追踪宏量营养素：面向日常饮食记录的实用指南，帮助你更好地理解热量、宏量营养素、份量和 AI 估算结果。",
+      "category": "指南",
+      "readTime": "约 4 分钟阅读",
+      "intro": "初学者如何追踪宏量营养素。用简单、可复查的方式记录食物，比追求完美数字更适合长期坚持。",
+      "sections": [
+        [
+          "核心思路",
+          "初学者如何追踪宏量营养素的重点不是追求一次估算绝对精确，而是用一致的方法记录餐食、检查份量，并随着实际情况调整。"
+        ],
+        [
+          "在应用中怎么做",
+          "可以拍照、扫描条形码或手动补充信息，然后查看热量、蛋白质、脂肪和碳水化合物。"
+        ],
+        [
+          "提高准确度",
+          "尽量补充烹饪方式、酱料、品牌和实际份量；这些因素通常比单个食材名称更影响结果。"
+        ],
+        [
+          "下一步",
+          "把估算保存到饮食日记，用几天或几周的趋势来判断是否符合你的目标。"
+        ]
+      ],
+      "takeaway": "实用做法：记录时保留份量、烹饪方式和主要配料，并把 AI 估算当作可调整的起点。"
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "卡路里与宏量营养素的区别",
+      "h1": "卡路里与宏量营养素的区别",
+      "description": "卡路里与宏量营养素的区别：面向日常饮食记录的实用指南，帮助你更好地理解热量、宏量营养素、份量和 AI 估算结果。",
+      "category": "指南",
+      "readTime": "约 4 分钟阅读",
+      "intro": "卡路里与宏量营养素的区别。用简单、可复查的方式记录食物，比追求完美数字更适合长期坚持。",
+      "sections": [
+        [
+          "核心思路",
+          "卡路里与宏量营养素的区别的重点不是追求一次估算绝对精确，而是用一致的方法记录餐食、检查份量，并随着实际情况调整。"
+        ],
+        [
+          "在应用中怎么做",
+          "可以拍照、扫描条形码或手动补充信息，然后查看热量、蛋白质、脂肪和碳水化合物。"
+        ],
+        [
+          "提高准确度",
+          "尽量补充烹饪方式、酱料、品牌和实际份量；这些因素通常比单个食材名称更影响结果。"
+        ],
+        [
+          "下一步",
+          "把估算保存到饮食日记，用几天或几周的趋势来判断是否符合你的目标。"
+        ]
+      ],
+      "takeaway": "实用做法：记录时保留份量、烹饪方式和主要配料，并把 AI 估算当作可调整的起点。"
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "如何计算自制餐食的卡路里",
+      "h1": "如何计算自制餐食的卡路里",
+      "description": "如何计算自制餐食的卡路里：面向日常饮食记录的实用指南，帮助你更好地理解热量、宏量营养素、份量和 AI 估算结果。",
+      "category": "指南",
+      "readTime": "约 4 分钟阅读",
+      "intro": "如何计算自制餐食的卡路里。用简单、可复查的方式记录食物，比追求完美数字更适合长期坚持。",
+      "sections": [
+        [
+          "核心思路",
+          "如何计算自制餐食的卡路里的重点不是追求一次估算绝对精确，而是用一致的方法记录餐食、检查份量，并随着实际情况调整。"
+        ],
+        [
+          "在应用中怎么做",
+          "可以拍照、扫描条形码或手动补充信息，然后查看热量、蛋白质、脂肪和碳水化合物。"
+        ],
+        [
+          "提高准确度",
+          "尽量补充烹饪方式、酱料、品牌和实际份量；这些因素通常比单个食材名称更影响结果。"
+        ],
+        [
+          "下一步",
+          "把估算保存到饮食日记，用几天或几周的趋势来判断是否符合你的目标。"
+        ]
+      ],
+      "takeaway": "实用做法：记录时保留份量、烹饪方式和主要配料，并把 AI 估算当作可调整的起点。"
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "如何估算食物份量",
+      "h1": "如何估算食物份量",
+      "description": "如何估算食物份量：面向日常饮食记录的实用指南，帮助你更好地理解热量、宏量营养素、份量和 AI 估算结果。",
+      "category": "指南",
+      "readTime": "约 4 分钟阅读",
+      "intro": "如何估算食物份量。用简单、可复查的方式记录食物，比追求完美数字更适合长期坚持。",
+      "sections": [
+        [
+          "核心思路",
+          "如何估算食物份量的重点不是追求一次估算绝对精确，而是用一致的方法记录餐食、检查份量，并随着实际情况调整。"
+        ],
+        [
+          "在应用中怎么做",
+          "可以拍照、扫描条形码或手动补充信息，然后查看热量、蛋白质、脂肪和碳水化合物。"
+        ],
+        [
+          "提高准确度",
+          "尽量补充烹饪方式、酱料、品牌和实际份量；这些因素通常比单个食材名称更影响结果。"
+        ],
+        [
+          "下一步",
+          "把估算保存到饮食日记，用几天或几周的趋势来判断是否符合你的目标。"
+        ]
+      ],
+      "takeaway": "实用做法：记录时保留份量、烹饪方式和主要配料，并把 AI 估算当作可调整的起点。"
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "我每天应该吃多少卡路里？",
+      "h1": "我每天应该吃多少卡路里？",
+      "description": "我每天应该吃多少卡路里？：面向日常饮食记录的实用指南，帮助你更好地理解热量、宏量营养素、份量和 AI 估算结果。",
+      "category": "指南",
+      "readTime": "约 4 分钟阅读",
+      "intro": "我每天应该吃多少卡路里？。用简单、可复查的方式记录食物，比追求完美数字更适合长期坚持。",
+      "sections": [
+        [
+          "核心思路",
+          "我每天应该吃多少卡路里？的重点不是追求一次估算绝对精确，而是用一致的方法记录餐食、检查份量，并随着实际情况调整。"
+        ],
+        [
+          "在应用中怎么做",
+          "可以拍照、扫描条形码或手动补充信息，然后查看热量、蛋白质、脂肪和碳水化合物。"
+        ],
+        [
+          "提高准确度",
+          "尽量补充烹饪方式、酱料、品牌和实际份量；这些因素通常比单个食材名称更影响结果。"
+        ],
+        [
+          "下一步",
+          "把估算保存到饮食日记，用几天或几周的趋势来判断是否符合你的目标。"
+        ]
+      ],
+      "takeaway": "实用做法：记录时保留份量、烹饪方式和主要配料，并把 AI 估算当作可调整的起点。"
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "什么是热量缺口？",
+      "h1": "什么是热量缺口？",
+      "description": "什么是热量缺口？：面向日常饮食记录的实用指南，帮助你更好地理解热量、宏量营养素、份量和 AI 估算结果。",
+      "category": "指南",
+      "readTime": "约 4 分钟阅读",
+      "intro": "什么是热量缺口？。用简单、可复查的方式记录食物，比追求完美数字更适合长期坚持。",
+      "sections": [
+        [
+          "核心思路",
+          "什么是热量缺口？的重点不是追求一次估算绝对精确，而是用一致的方法记录餐食、检查份量，并随着实际情况调整。"
+        ],
+        [
+          "在应用中怎么做",
+          "可以拍照、扫描条形码或手动补充信息，然后查看热量、蛋白质、脂肪和碳水化合物。"
+        ],
+        [
+          "提高准确度",
+          "尽量补充烹饪方式、酱料、品牌和实际份量；这些因素通常比单个食材名称更影响结果。"
+        ],
+        [
+          "下一步",
+          "把估算保存到饮食日记，用几天或几周的趋势来判断是否符合你的目标。"
+        ]
+      ],
+      "takeaway": "实用做法：记录时保留份量、烹饪方式和主要配料，并把 AI 估算当作可调整的起点。"
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "常见的卡路里记录错误",
+      "h1": "常见的卡路里记录错误",
+      "description": "常见的卡路里记录错误：面向日常饮食记录的实用指南，帮助你更好地理解热量、宏量营养素、份量和 AI 估算结果。",
+      "category": "指南",
+      "readTime": "约 4 分钟阅读",
+      "intro": "常见的卡路里记录错误。用简单、可复查的方式记录食物，比追求完美数字更适合长期坚持。",
+      "sections": [
+        [
+          "核心思路",
+          "常见的卡路里记录错误的重点不是追求一次估算绝对精确，而是用一致的方法记录餐食、检查份量，并随着实际情况调整。"
+        ],
+        [
+          "在应用中怎么做",
+          "可以拍照、扫描条形码或手动补充信息，然后查看热量、蛋白质、脂肪和碳水化合物。"
+        ],
+        [
+          "提高准确度",
+          "尽量补充烹饪方式、酱料、品牌和实际份量；这些因素通常比单个食材名称更影响结果。"
+        ],
+        [
+          "下一步",
+          "把估算保存到饮食日记，用几天或几周的趋势来判断是否符合你的目标。"
+        ]
+      ],
+      "takeaway": "实用做法：记录时保留份量、烹饪方式和主要配料，并把 AI 估算当作可调整的起点。"
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "如何记录餐厅食物",
+      "h1": "如何记录餐厅食物",
+      "description": "如何记录餐厅食物：面向日常饮食记录的实用指南，帮助你更好地理解热量、宏量营养素、份量和 AI 估算结果。",
+      "category": "指南",
+      "readTime": "约 4 分钟阅读",
+      "intro": "如何记录餐厅食物。用简单、可复查的方式记录食物，比追求完美数字更适合长期坚持。",
+      "sections": [
+        [
+          "核心思路",
+          "如何记录餐厅食物的重点不是追求一次估算绝对精确，而是用一致的方法记录餐食、检查份量，并随着实际情况调整。"
+        ],
+        [
+          "在应用中怎么做",
+          "可以拍照、扫描条形码或手动补充信息，然后查看热量、蛋白质、脂肪和碳水化合物。"
+        ],
+        [
+          "提高准确度",
+          "尽量补充烹饪方式、酱料、品牌和实际份量；这些因素通常比单个食材名称更影响结果。"
+        ],
+        [
+          "下一步",
+          "把估算保存到饮食日记，用几天或几周的趋势来判断是否符合你的目标。"
+        ]
+      ],
+      "takeaway": "实用做法：记录时保留份量、烹饪方式和主要配料，并把 AI 估算当作可调整的起点。"
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "如何追踪蛋白质摄入",
+      "h1": "如何追踪蛋白质摄入",
+      "description": "如何追踪蛋白质摄入：面向日常饮食记录的实用指南，帮助你更好地理解热量、宏量营养素、份量和 AI 估算结果。",
+      "category": "指南",
+      "readTime": "约 4 分钟阅读",
+      "intro": "如何追踪蛋白质摄入。用简单、可复查的方式记录食物，比追求完美数字更适合长期坚持。",
+      "sections": [
+        [
+          "核心思路",
+          "如何追踪蛋白质摄入的重点不是追求一次估算绝对精确，而是用一致的方法记录餐食、检查份量，并随着实际情况调整。"
+        ],
+        [
+          "在应用中怎么做",
+          "可以拍照、扫描条形码或手动补充信息，然后查看热量、蛋白质、脂肪和碳水化合物。"
+        ],
+        [
+          "提高准确度",
+          "尽量补充烹饪方式、酱料、品牌和实际份量；这些因素通常比单个食材名称更影响结果。"
+        ],
+        [
+          "下一步",
+          "把估算保存到饮食日记，用几天或几周的趋势来判断是否符合你的目标。"
+        ]
+      ],
+      "takeaway": "实用做法：记录时保留份量、烹饪方式和主要配料，并把 AI 估算当作可调整的起点。"
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "什么是饮食日记？",
+      "h1": "什么是饮食日记？",
+      "description": "什么是饮食日记？：面向日常饮食记录的实用指南，帮助你更好地理解热量、宏量营养素、份量和 AI 估算结果。",
+      "category": "指南",
+      "readTime": "约 4 分钟阅读",
+      "intro": "什么是饮食日记？。用简单、可复查的方式记录食物，比追求完美数字更适合长期坚持。",
+      "sections": [
+        [
+          "核心思路",
+          "什么是饮食日记？的重点不是追求一次估算绝对精确，而是用一致的方法记录餐食、检查份量，并随着实际情况调整。"
+        ],
+        [
+          "在应用中怎么做",
+          "可以拍照、扫描条形码或手动补充信息，然后查看热量、蛋白质、脂肪和碳水化合物。"
+        ],
+        [
+          "提高准确度",
+          "尽量补充烹饪方式、酱料、品牌和实际份量；这些因素通常比单个食材名称更影响结果。"
+        ],
+        [
+          "下一步",
+          "把估算保存到饮食日记，用几天或几周的趋势来判断是否符合你的目标。"
+        ]
+      ],
+      "takeaway": "实用做法：记录时保留份量、烹饪方式和主要配料，并把 AI 估算当作可调整的起点。"
+    },
+    "/download/": {
+      "title": "下载 Calorie Counter AI",
+      "h1": "下载 Calorie Counter AI",
+      "description": "下载 Calorie Counter AI：了解 Calorie Counter AI 如何帮助你用照片、条形码和饮食日记更轻松地管理日常热量与宏量营养素。",
+      "kicker": "下载 Calorie Counter AI"
+    },
+    "/faq/": {
+      "title": "常见问题",
+      "h1": "常见问题",
+      "description": "常见问题：了解 Calorie Counter AI 如何帮助你用照片、条形码和饮食日记更轻松地管理日常热量与宏量营养素。",
+      "kicker": "常见问题"
+    },
+    "/pricing/": {
+      "title": "价格",
+      "h1": "价格",
+      "description": "价格：了解 Calorie Counter AI 如何帮助你用照片、条形码和饮食日记更轻松地管理日常热量与宏量营养素。",
+      "kicker": "价格"
+    },
+    "/support/": {
+      "title": "支持",
+      "h1": "支持",
+      "description": "支持：了解 Calorie Counter AI 如何帮助你用照片、条形码和饮食日记更轻松地管理日常热量与宏量营养素。",
+      "kicker": "支持"
+    },
+    "/contact/": {
+      "title": "联系",
+      "h1": "联系",
+      "description": "联系：了解 Calorie Counter AI 如何帮助你用照片、条形码和饮食日记更轻松地管理日常热量与宏量营养素。",
+      "kicker": "联系"
+    },
+    "/privacy-policy/": {
+      "title": "隐私政策",
+      "h1": "隐私政策",
+      "description": "隐私政策：了解 Calorie Counter AI 如何帮助你用照片、条形码和饮食日记更轻松地管理日常热量与宏量营养素。",
+      "kicker": "隐私政策"
+    },
+    "/terms/": {
+      "title": "服务条款",
+      "h1": "服务条款",
+      "description": "服务条款：了解 Calorie Counter AI 如何帮助你用照片、条形码和饮食日记更轻松地管理日常热量与宏量营养素。",
+      "kicker": "服务条款"
+    },
+    "/health-disclaimer/": {
+      "title": "健康免责声明",
+      "h1": "健康免责声明",
+      "description": "健康免责声明：了解 Calorie Counter AI 如何帮助你用照片、条形码和饮食日记更轻松地管理日常热量与宏量营养素。",
+      "kicker": "健康免责声明"
+    },
+    "/delete-account/": {
+      "title": "删除账户",
+      "h1": "删除账户",
+      "description": "删除账户：了解 Calorie Counter AI 如何帮助你用照片、条形码和饮食日记更轻松地管理日常热量与宏量营养素。",
+      "kicker": "删除账户"
+    },
+    "/press/": {
+      "title": "媒体资料",
+      "h1": "媒体资料",
+      "description": "媒体资料：了解 Calorie Counter AI 如何帮助你用照片、条形码和饮食日记更轻松地管理日常热量与宏量营养素。",
+      "kicker": "媒体资料"
+    },
+    "/how-many-calories-in/": {
+      "title": "食物热量查询",
+      "h1": "食物热量查询",
+      "description": "食物热量查询：了解 Calorie Counter AI 如何帮助你用照片、条形码和饮食日记更轻松地管理日常热量与宏量营养素。",
+      "kicker": "食物热量查询"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Cookie 设置",
+    "text": "我们使用必要 Cookie 和 localStorage 来记住语言与 Cookie 选择。经你同意后，也会使用分析 Cookie 来改进网站。",
+    "accept": "接受",
+    "decline": "拒绝分析"
+  }
+}

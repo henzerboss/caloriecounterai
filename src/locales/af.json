@@ -1,0 +1,2619 @@
+{
+  "localeName": "Afrikaans",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "KI-kalorieteller vanaf foto’s"
+  },
+  "nav": {
+    "features": "Kenmerke",
+    "useCases": "Gebruikssituasies",
+    "blog": "Gidse",
+    "faq": "Vrae",
+    "download": "Laai af",
+    "language": "Taal",
+    "openMenu": "Maak kieslys oop",
+    "caloriesInFoods": "Kalorieë in kos",
+    "all": "Alles",
+    "allFeatures": "Alle kenmerke",
+    "allUseCases": "Alle gebruikssituasies",
+    "allLearn": "Alle gidse",
+    "openHub": "Maak afdeling oop →",
+    "home": "Tuis"
+  },
+  "cta": {
+    "appStore": "Laai af in die App Store",
+    "googlePlay": "Kry dit op Google Play",
+    "downloadNow": "Laai nou af",
+    "tryFree": "Probeer gratis",
+    "learnMore": "Lees meer",
+    "learnMoreArrow": "Lees meer →",
+    "readGuide": "Lees die gids"
+  },
+  "home": {
+    "title": "KI-kalorieteller-app met foto’s",
+    "description": "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+    "heroNote": "Begin gratis met daaglikse KI-ontleding van etes. Beskikbaar vir iPhone en Android.",
+    "photoEyebrow": "Kalorieteller met foto’s",
+    "photoTitle": "Kalorieteller met foto’s",
+    "photoText": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+    "photoChecklist": [
+      "Kalorieë",
+      "Proteïen",
+      "Vet",
+      "Koolhidrate"
+    ],
+    "featureCards": [
+      [
+        "photo",
+        "Kalorieteller met foto’s",
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek."
+      ],
+      [
+        "ai",
+        "KI-kalorieteller-app met foto’s",
+        "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+      ],
+      [
+        "barcode",
+        "Strepieskodeskandeerder",
+        "Skandeer die strepieskode op verpakte kos, bevestig die produk en voeg kalorieë en makro’s binne sekondes by jou dagboek."
+      ],
+      [
+        "macro",
+        "Makro’s",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      [
+        "diary",
+        "Voedseldagboek",
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek."
+      ],
+      [
+        "download",
+        "Laai Calorie Counter AI af",
+        "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+      ]
+    ],
+    "foodPreviewTitle": "Hoeveel kalorieë is in alledaagse kos?",
+    "foodPreviewText": "Sien vinnige kalorie- en makrogidse vir gewone etes, happies en drankies.",
+    "foodPreviewLink": "Maak die volledige kalorieë-in-kos-gids oop →",
+    "goalEyebrow": "Voeding",
+    "counterTitle": "KI-kalorieteller-app met foto’s",
+    "counterText": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+    "goalPills": [
+      "Gewigsverlies",
+      "Gewig behou",
+      "Spierbou",
+      "Besige dae"
+    ],
+    "magicEyebrow": "Kenmerke",
+    "magicTitle": "Log kos in drie vinnige stappe",
+    "magicText": "Neem ’n foto, kontroleer die skatting en stoor die ete. Minder tikwerk, makliker gewoontevorming.",
+    "magicSteps": [
+      "Neem foto",
+      "Kontroleer",
+      "Stoor"
+    ],
+    "barcodeEyebrow": "Strepieskodeskandeerder",
+    "barcodeTitle": "Strepieskodeskandeerder",
+    "barcodeText": "Skandeer die strepieskode op verpakte kos, bevestig die produk en voeg kalorieë en makro’s binne sekondes by jou dagboek.",
+    "barcodeLink": "Strepieskodeskandeerder →",
+    "progressEyebrow": "Makro’s",
+    "macroTitle": "Makro’s",
+    "macroText": "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit.",
+    "macroLink": "Makro’s →",
+    "useCasesEyebrow": "Gebruikssituasies",
+    "useCasesTitle": "Voeding",
+    "useCasesText": "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Gewigsverlies",
+        "Kalorieë"
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Tuisgemaakte kos",
+        "Foto-kalorieteller"
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Restaurantetes",
+        "Voedseldagboek"
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Spierbou",
+        "Proteïen"
+      ]
+    ],
+    "downloadTitle": "Laai Calorie Counter AI af",
+    "downloadText": "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing.",
+    "faqEyebrow": "Vrae",
+    "faqTitle": "Vrae",
+    "faq": [
+      [
+        "Is Calorie Counter AI gratis?",
+        "Jy kan begin met gratis daaglikse KI-ontledings van etes. Premium help as jy hoër limiete en ekstra hulpmiddels nodig het."
+      ],
+      [
+        "Kan ek kalorieë vanaf ’n foto tel?",
+        "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+      ],
+      [
+        "Hoe akkuraat is die KI-skatting?",
+        "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+      ],
+      [
+        "Volg die app makro’s?",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      [
+        "Is dit vir iPhone en Android beskikbaar?",
+        "Begin gratis met daaglikse KI-ontleding van etes. Beskikbaar vir iPhone en Android."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "KI-kalorieteller-app met foto’s",
+    "homeOgTitle": "KI-kalorieteller-app met foto’s",
+    "homeDescription": "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+  },
+  "footer": {
+    "disclaimer": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+    "copyright": "© 2026 Calorie Counter AI"
+  },
+  "foodIndex": {
+    "findTitle": "Kalorieë in kos",
+    "findText": "Kalorieë, proteïen, vet en koolhidrate vir gewilde kosse en porsies.",
+    "categoryIntro": "Kalorieë in kos"
+  },
+  "foodPage": {
+    "eyebrow": "Kalorieë in kos",
+    "trackInApp": "Laai af",
+    "browseFoods": "Kalorieë in kos →",
+    "typicalEstimate": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+    "caloriesMacros": "Kalorieë en makro’s",
+    "whenFits": "Gebruikssituasies",
+    "whatToWatch": "Lees meer",
+    "howToLog": "Voedseldagboek",
+    "helpfulContext": "Gidse",
+    "faq": "Vrae",
+    "weightLossQuestion": "Is dit geskik vir gewigsverlies?",
+    "variabilityQuestion": "Wat verander die kalorieë die meeste?",
+    "logFasterTitle": "Kalorieteller met foto’s",
+    "logFasterText": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+    "photoTrackingLink": "Kalorieteller met foto’s →",
+    "macros": {
+      "protein": "Proteïen",
+      "fat": "Vet",
+      "carbs": "Koolhidrate"
+    },
+    "titleTemplate": "Hoeveel kalorieë is in {namePrep}?",
+    "h1Template": "Hoeveel kalorieë is in {namePrep}?",
+    "descriptionTemplate": "{name}: kalorieë, proteïen, vet en koolhidrate vir die porsie “{serving}”, plus praktiese wenke vir aantekening.",
+    "heroIntroTemplate": "Ongeveer {calories} {kcal} per porsie: {servingLower}. Gebruik dit as vertrekpunt en pas aan volgens handelsmerk, resep, kookmetode en porsiegrootte.",
+    "macroParagraphTemplate": "{name}: ongeveer {calories} {kcal} per porsie “{servingLower}”. Hierdie porsie bevat sowat {protein} {gram} proteïen, {fat} {gram} vet en {carbs} {gram} koolhidrate{fiberText}.",
+    "per100Template": "Vir vergelyking per 100 {gram}: ongeveer {calories} {kcal}, {protein} {gram} proteïen, {fat} {gram} vet en {carbs} {gram} koolhidrate.",
+    "calorieLevelTemplate": "Gebruik die porsie as riglyn: ongeveer {calories} {kcal} vir “{servingLower}”."
+  },
+  "foodCategories": {
+    "Fruit": "Vrugte",
+    "Protein foods": "Proteïenryke kos",
+    "Fruits and fats": "Vrugte en vette",
+    "Grains and starches": "Graan en stysels",
+    "Nuts and spreads": "Neute en smeersels",
+    "Breakfast foods": "Ontbytkos",
+    "Dairy": "Suiwel",
+    "Restaurant meals": "Restaurantetes",
+    "Fast food": "Kitskos",
+    "Legumes and plant protein": "Peulgewasse en plantproteïen",
+    "Desserts": "Nageregte",
+    "Snacks": "Happies",
+    "Drinks": "Drankies",
+    "Vegetables": "Groente",
+    "Sauces and condiments": "Souse en geurmiddels",
+    "Mixed dishes": "Gemengde geregte"
+  },
+  "foods": {
+    "banana": {
+      "name": "Piesang",
+      "namePrep": "piesang",
+      "serving": "1 porsie piesang"
+    },
+    "apple": {
+      "name": "Appel",
+      "namePrep": "appel",
+      "serving": "1 porsie appel"
+    },
+    "egg": {
+      "name": "Eier",
+      "namePrep": "eier",
+      "serving": "1 porsie eier"
+    },
+    "avocado": {
+      "name": "Avokado",
+      "namePrep": "avokado",
+      "serving": "1 porsie avokado"
+    },
+    "chicken-breast": {
+      "name": "Hoenderborsie",
+      "namePrep": "hoenderborsie",
+      "serving": "1 porsie hoenderborsie"
+    },
+    "salmon": {
+      "name": "Salm",
+      "namePrep": "salm",
+      "serving": "1 porsie salm"
+    },
+    "white-rice": {
+      "name": "Witrys",
+      "namePrep": "witrys",
+      "serving": "1 porsie witrys"
+    },
+    "brown-rice": {
+      "name": "Bruinrys",
+      "namePrep": "bruinrys",
+      "serving": "1 porsie bruinrys"
+    },
+    "pasta": {
+      "name": "Pasta",
+      "namePrep": "pasta",
+      "serving": "1 porsie pasta"
+    },
+    "potato": {
+      "name": "Aartappel",
+      "namePrep": "aartappel",
+      "serving": "1 porsie aartappel"
+    },
+    "sweet-potato": {
+      "name": "Patat",
+      "namePrep": "patat",
+      "serving": "1 porsie patat"
+    },
+    "bread": {
+      "name": "Brood",
+      "namePrep": "brood",
+      "serving": "1 porsie brood"
+    },
+    "peanut-butter": {
+      "name": "Grondboontjiebotter",
+      "namePrep": "grondboontjiebotter",
+      "serving": "1 porsie grondboontjiebotter"
+    },
+    "oatmeal": {
+      "name": "Hawermout",
+      "namePrep": "hawermout",
+      "serving": "1 porsie hawermout"
+    },
+    "greek-yogurt": {
+      "name": "Griekse jogurt",
+      "namePrep": "griekse jogurt",
+      "serving": "1 porsie griekse jogurt"
+    },
+    "yogurt": {
+      "name": "Jogurt",
+      "namePrep": "jogurt",
+      "serving": "1 porsie jogurt"
+    },
+    "milk": {
+      "name": "Melk",
+      "namePrep": "melk",
+      "serving": "1 porsie melk"
+    },
+    "cheddar-cheese": {
+      "name": "Cheddarkaas",
+      "namePrep": "cheddarkaas",
+      "serving": "1 porsie cheddarkaas"
+    },
+    "pizza": {
+      "name": "Pizza",
+      "namePrep": "pizza",
+      "serving": "1 porsie pizza"
+    },
+    "burger": {
+      "name": "Burger",
+      "namePrep": "burger",
+      "serving": "1 porsie burger"
+    },
+    "french-fries": {
+      "name": "Slaptjips",
+      "namePrep": "slaptjips",
+      "serving": "1 porsie slaptjips"
+    },
+    "sushi-roll": {
+      "name": "Sushirol",
+      "namePrep": "sushirol",
+      "serving": "1 porsie sushirol"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "taco",
+      "serving": "1 porsie taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "burrito",
+      "serving": "1 porsie burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Hoendernuggets",
+      "namePrep": "hoendernuggets",
+      "serving": "1 porsie hoendernuggets"
+    },
+    "hot-dog": {
+      "name": "Warmbrak",
+      "namePrep": "warmbrak",
+      "serving": "1 porsie warmbrak"
+    },
+    "steak": {
+      "name": "Steak",
+      "namePrep": "steak",
+      "serving": "1 porsie steak"
+    },
+    "bacon": {
+      "name": "Spek",
+      "namePrep": "spek",
+      "serving": "1 porsie spek"
+    },
+    "tuna": {
+      "name": "Tuna",
+      "namePrep": "tuna",
+      "serving": "1 porsie tuna"
+    },
+    "shrimp": {
+      "name": "Garnale",
+      "namePrep": "garnale",
+      "serving": "1 porsie garnale"
+    },
+    "tofu": {
+      "name": "Tofu",
+      "namePrep": "tofu",
+      "serving": "1 porsie tofu"
+    },
+    "lentils": {
+      "name": "Lensies",
+      "namePrep": "lensies",
+      "serving": "1 porsie lensies"
+    },
+    "black-beans": {
+      "name": "Swartbone",
+      "namePrep": "swartbone",
+      "serving": "1 porsie swartbone"
+    },
+    "chickpeas": {
+      "name": "Kekerertjies",
+      "namePrep": "kekerertjies",
+      "serving": "1 porsie kekerertjies"
+    },
+    "hummus": {
+      "name": "Hummus",
+      "namePrep": "hummus",
+      "serving": "1 porsie hummus"
+    },
+    "quinoa": {
+      "name": "Quinoa",
+      "namePrep": "quinoa",
+      "serving": "1 porsie quinoa"
+    },
+    "tortilla": {
+      "name": "Tortilla",
+      "namePrep": "tortilla",
+      "serving": "1 porsie tortilla"
+    },
+    "bagel": {
+      "name": "Bagel",
+      "namePrep": "bagel",
+      "serving": "1 porsie bagel"
+    },
+    "croissant": {
+      "name": "Croissant",
+      "namePrep": "croissant",
+      "serving": "1 porsie croissant"
+    },
+    "pancake": {
+      "name": "Pannekoeke",
+      "namePrep": "pannekoeke",
+      "serving": "1 porsie pannekoeke"
+    },
+    "waffle": {
+      "name": "Wafel",
+      "namePrep": "wafel",
+      "serving": "1 porsie wafel"
+    },
+    "cereal": {
+      "name": "Ontbytgraan",
+      "namePrep": "ontbytgraan",
+      "serving": "1 porsie ontbytgraan"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granola",
+      "serving": "1 porsie granola"
+    },
+    "almonds": {
+      "name": "Amandels",
+      "namePrep": "amandels",
+      "serving": "1 porsie amandels"
+    },
+    "walnuts": {
+      "name": "Okkerneute",
+      "namePrep": "okkerneute",
+      "serving": "1 porsie okkerneute"
+    },
+    "cashews": {
+      "name": "Kasjoeneute",
+      "namePrep": "kasjoeneute",
+      "serving": "1 porsie kasjoeneute"
+    },
+    "chocolate": {
+      "name": "Sjokolade",
+      "namePrep": "sjokolade",
+      "serving": "1 porsie sjokolade"
+    },
+    "ice-cream": {
+      "name": "Roomys",
+      "namePrep": "roomys",
+      "serving": "1 porsie roomys"
+    },
+    "cookie": {
+      "name": "Sjokoladesplinterkoekie",
+      "namePrep": "sjokoladesplinterkoekie",
+      "serving": "1 porsie sjokoladesplinterkoekie"
+    },
+    "donut": {
+      "name": "Geglasuurde doughnut",
+      "namePrep": "geglasuurde doughnut",
+      "serving": "1 porsie geglasuurde doughnut"
+    },
+    "muffin": {
+      "name": "Bloubessiemuffin",
+      "namePrep": "bloubessiemuffin",
+      "serving": "1 porsie bloubessiemuffin"
+    },
+    "cake": {
+      "name": "Koek",
+      "namePrep": "koek",
+      "serving": "1 porsie koek"
+    },
+    "brownie": {
+      "name": "Brownie",
+      "namePrep": "brownie",
+      "serving": "1 porsie brownie"
+    },
+    "popcorn": {
+      "name": "Springmielies",
+      "namePrep": "springmielies",
+      "serving": "1 porsie springmielies"
+    },
+    "potato-chips": {
+      "name": "Aartappelskyfies",
+      "namePrep": "aartappelskyfies",
+      "serving": "1 porsie aartappelskyfies"
+    },
+    "pretzels": {
+      "name": "Pretzels",
+      "namePrep": "pretzels",
+      "serving": "1 porsie pretzels"
+    },
+    "smoothie": {
+      "name": "Vrugtesmoothie",
+      "namePrep": "vrugtesmoothie",
+      "serving": "1 porsie vrugtesmoothie"
+    },
+    "orange-juice": {
+      "name": "Lemoensap",
+      "namePrep": "lemoensap",
+      "serving": "1 porsie lemoensap"
+    },
+    "soda": {
+      "name": "Gaskoeldrank",
+      "namePrep": "gaskoeldrank",
+      "serving": "1 porsie gaskoeldrank"
+    },
+    "latte": {
+      "name": "Latte",
+      "namePrep": "latte",
+      "serving": "1 porsie latte"
+    },
+    "protein-shake": {
+      "name": "Proteïenskommel",
+      "namePrep": "proteïenskommel",
+      "serving": "1 porsie proteïenskommel"
+    },
+    "spaghetti-bolognese": {
+      "name": "Spaghetti bolognese",
+      "namePrep": "spaghetti bolognese",
+      "serving": "1 porsie spaghetti bolognese"
+    },
+    "ramen": {
+      "name": "Ramen",
+      "namePrep": "ramen",
+      "serving": "1 porsie ramen"
+    },
+    "pho": {
+      "name": "Pho",
+      "namePrep": "pho",
+      "serving": "1 porsie pho"
+    },
+    "chicken-soup": {
+      "name": "Hoendersop",
+      "namePrep": "hoendersop",
+      "serving": "1 porsie hoendersop"
+    },
+    "caesar-salad": {
+      "name": "Caesarslaai",
+      "namePrep": "caesarslaai",
+      "serving": "1 porsie caesarslaai"
+    },
+    "green-salad": {
+      "name": "Groenslaai",
+      "namePrep": "groenslaai",
+      "serving": "1 porsie groenslaai"
+    },
+    "broccoli": {
+      "name": "Broccoli",
+      "namePrep": "broccoli",
+      "serving": "1 porsie broccoli"
+    },
+    "spinach": {
+      "name": "Spinasie",
+      "namePrep": "spinasie",
+      "serving": "1 porsie spinasie"
+    },
+    "carrots": {
+      "name": "Wortels",
+      "namePrep": "wortels",
+      "serving": "1 porsie wortels"
+    },
+    "corn": {
+      "name": "Mielies",
+      "namePrep": "mielies",
+      "serving": "1 porsie mielies"
+    },
+    "tomato": {
+      "name": "Tamatie",
+      "namePrep": "tamatie",
+      "serving": "1 porsie tamatie"
+    },
+    "cucumber": {
+      "name": "Komkommer",
+      "namePrep": "komkommer",
+      "serving": "1 porsie komkommer"
+    },
+    "cheesecake": {
+      "name": "Kaaskoek",
+      "namePrep": "kaaskoek",
+      "serving": "1 porsie kaaskoek"
+    },
+    "lasagna": {
+      "name": "Lasagne",
+      "namePrep": "lasagne",
+      "serving": "1 porsie lasagne"
+    },
+    "grilled-cheese": {
+      "name": "Geroosterde kaastoebroodjie",
+      "namePrep": "geroosterde kaastoebroodjie",
+      "serving": "1 porsie geroosterde kaastoebroodjie"
+    },
+    "peanut-butter-jelly": {
+      "name": "Grondboontjiebotter-en-konfyt-toebroodjie",
+      "namePrep": "grondboontjiebotter-en-konfyt-toebroodjie",
+      "serving": "1 porsie grondboontjiebotter-en-konfyt-toebroodjie"
+    },
+    "omelette": {
+      "name": "Omelet",
+      "namePrep": "omelet",
+      "serving": "1 porsie omelet"
+    },
+    "fried-egg": {
+      "name": "Gebakte eier",
+      "namePrep": "gebakte eier",
+      "serving": "1 porsie gebakte eier"
+    },
+    "boiled-egg": {
+      "name": "Gekookte eier",
+      "namePrep": "gekookte eier",
+      "serving": "1 porsie gekookte eier"
+    },
+    "toast": {
+      "name": "Roosterbrood",
+      "namePrep": "roosterbrood",
+      "serving": "1 porsie roosterbrood"
+    },
+    "avocado-toast": {
+      "name": "Avokadoroosterbrood",
+      "namePrep": "avokadoroosterbrood",
+      "serving": "1 porsie avokadoroosterbrood"
+    },
+    "chicken-salad": {
+      "name": "Hoenderslaai",
+      "namePrep": "hoenderslaai",
+      "serving": "1 porsie hoenderslaai"
+    },
+    "tuna-salad": {
+      "name": "Tunaslaai",
+      "namePrep": "tunaslaai",
+      "serving": "1 porsie tunaslaai"
+    },
+    "egg-salad": {
+      "name": "Eierslaai",
+      "namePrep": "eierslaai",
+      "serving": "1 porsie eierslaai"
+    },
+    "cottage-cheese": {
+      "name": "Maaskaas",
+      "namePrep": "maaskaas",
+      "serving": "1 porsie maaskaas"
+    },
+    "cream-cheese": {
+      "name": "Roomkaas",
+      "namePrep": "roomkaas",
+      "serving": "1 porsie roomkaas"
+    },
+    "butter": {
+      "name": "Botter",
+      "namePrep": "botter",
+      "serving": "1 porsie botter"
+    },
+    "olive-oil": {
+      "name": "Olyfolie",
+      "namePrep": "olyfolie",
+      "serving": "1 porsie olyfolie"
+    },
+    "mayonnaise": {
+      "name": "Mayonnaise",
+      "namePrep": "mayonnaise",
+      "serving": "1 porsie mayonnaise"
+    },
+    "ketchup": {
+      "name": "Tamatie-sous",
+      "namePrep": "tamatie-sous",
+      "serving": "1 porsie tamatie-sous"
+    },
+    "honey": {
+      "name": "Heuning",
+      "namePrep": "heuning",
+      "serving": "1 porsie heuning"
+    },
+    "jam": {
+      "name": "Konfyt",
+      "namePrep": "konfyt",
+      "serving": "1 porsie konfyt"
+    },
+    "protein-bar": {
+      "name": "Proteïenstafie",
+      "namePrep": "proteïenstafie",
+      "serving": "1 porsie proteïenstafie"
+    },
+    "energy-drink": {
+      "name": "Energiedrank",
+      "namePrep": "energiedrank",
+      "serving": "1 porsie energiedrank"
+    },
+    "matcha-latte": {
+      "name": "Matcha-latte",
+      "namePrep": "matcha-latte",
+      "serving": "1 porsie matcha-latte"
+    },
+    "trail-mix": {
+      "name": "Neutemengsel",
+      "namePrep": "neutemengsel",
+      "serving": "1 porsie neutemengsel"
+    },
+    "blueberries": {
+      "name": "Bloubessies",
+      "namePrep": "bloubessies",
+      "serving": "1 porsie bloubessies"
+    },
+    "strawberries": {
+      "name": "Aarbeie",
+      "namePrep": "aarbeie",
+      "serving": "1 porsie aarbeie"
+    },
+    "grapes": {
+      "name": "Druiwe",
+      "namePrep": "druiwe",
+      "serving": "1 porsie druiwe"
+    },
+    "orange": {
+      "name": "Lemoen",
+      "namePrep": "lemoen",
+      "serving": "1 porsie lemoen"
+    },
+    "pear": {
+      "name": "Peer",
+      "namePrep": "peer",
+      "serving": "1 porsie peer"
+    },
+    "peach": {
+      "name": "Perske",
+      "namePrep": "perske",
+      "serving": "1 porsie perske"
+    },
+    "watermelon": {
+      "name": "Waatlemoen",
+      "namePrep": "waatlemoen",
+      "serving": "1 porsie waatlemoen"
+    },
+    "pineapple": {
+      "name": "Pynappel",
+      "namePrep": "pynappel",
+      "serving": "1 porsie pynappel"
+    },
+    "mango": {
+      "name": "Mango",
+      "namePrep": "mango",
+      "serving": "1 porsie mango"
+    },
+    "kiwi": {
+      "name": "Kiwi",
+      "namePrep": "kiwi",
+      "serving": "1 porsie kiwi"
+    },
+    "raspberries": {
+      "name": "Frambose",
+      "namePrep": "frambose",
+      "serving": "1 porsie frambose"
+    },
+    "blackberries": {
+      "name": "Swartbessies",
+      "namePrep": "swartbessies",
+      "serving": "1 porsie swartbessies"
+    },
+    "cherries": {
+      "name": "Kersies",
+      "namePrep": "kersies",
+      "serving": "1 porsie kersies"
+    },
+    "grapefruit": {
+      "name": "Pomelo",
+      "namePrep": "pomelo",
+      "serving": "1 porsie pomelo"
+    },
+    "lettuce": {
+      "name": "Blaarslaai",
+      "namePrep": "blaarslaai",
+      "serving": "1 porsie blaarslaai"
+    },
+    "cabbage": {
+      "name": "Kool",
+      "namePrep": "kool",
+      "serving": "1 porsie kool"
+    },
+    "cauliflower": {
+      "name": "Blomkool",
+      "namePrep": "blomkool",
+      "serving": "1 porsie blomkool"
+    },
+    "asparagus": {
+      "name": "Aspersies",
+      "namePrep": "aspersies",
+      "serving": "1 porsie aspersies"
+    },
+    "zucchini": {
+      "name": "Murgpampoentjie",
+      "namePrep": "murgpampoentjie",
+      "serving": "1 porsie murgpampoentjie"
+    },
+    "eggplant": {
+      "name": "Eiervrug",
+      "namePrep": "eiervrug",
+      "serving": "1 porsie eiervrug"
+    },
+    "bell-pepper": {
+      "name": "Soetrissie",
+      "namePrep": "soetrissie",
+      "serving": "1 porsie soetrissie"
+    },
+    "onion": {
+      "name": "Ui",
+      "namePrep": "ui",
+      "serving": "1 porsie ui"
+    },
+    "mushrooms": {
+      "name": "Sampioene",
+      "namePrep": "sampioene",
+      "serving": "1 porsie sampioene"
+    },
+    "green-beans": {
+      "name": "Groenbone",
+      "namePrep": "groenbone",
+      "serving": "1 porsie groenbone"
+    },
+    "kale": {
+      "name": "Boerenkool",
+      "namePrep": "boerenkool",
+      "serving": "1 porsie boerenkool"
+    },
+    "beets": {
+      "name": "Beet",
+      "namePrep": "beet",
+      "serving": "1 porsie beet"
+    },
+    "turkey-breast": {
+      "name": "Kalkoenborsie",
+      "namePrep": "kalkoenborsie",
+      "serving": "1 porsie kalkoenborsie"
+    },
+    "chicken-thigh": {
+      "name": "Hoenderdy",
+      "namePrep": "hoenderdy",
+      "serving": "1 porsie hoenderdy"
+    },
+    "pork-chop": {
+      "name": "Varktjop",
+      "namePrep": "varktjop",
+      "serving": "1 porsie varktjop"
+    },
+    "ground-beef": {
+      "name": "Maalvleis",
+      "namePrep": "maalvleis",
+      "serving": "1 porsie maalvleis"
+    },
+    "meatballs": {
+      "name": "Frikkadelle",
+      "namePrep": "frikkadelle",
+      "serving": "1 porsie frikkadelle"
+    },
+    "sausage": {
+      "name": "Wors",
+      "namePrep": "wors",
+      "serving": "1 porsie wors"
+    },
+    "cod": {
+      "name": "Kabeljou",
+      "namePrep": "kabeljou",
+      "serving": "1 porsie kabeljou"
+    },
+    "tilapia": {
+      "name": "Tilapia",
+      "namePrep": "tilapia",
+      "serving": "1 porsie tilapia"
+    },
+    "sardines": {
+      "name": "Sardyne",
+      "namePrep": "sardyne",
+      "serving": "1 porsie sardyne"
+    },
+    "crab": {
+      "name": "Krap",
+      "namePrep": "krap",
+      "serving": "1 porsie krap"
+    },
+    "scallops": {
+      "name": "Kammossels",
+      "namePrep": "kammossels",
+      "serving": "1 porsie kammossels"
+    },
+    "smoked-salmon": {
+      "name": "Gerookte salm",
+      "namePrep": "gerookte salm",
+      "serving": "1 porsie gerookte salm"
+    },
+    "skim-milk": {
+      "name": "Afgeroomde melk",
+      "namePrep": "afgeroomde melk",
+      "serving": "1 porsie afgeroomde melk"
+    },
+    "soy-milk": {
+      "name": "Sojamelk",
+      "namePrep": "sojamelk",
+      "serving": "1 porsie sojamelk"
+    },
+    "almond-milk": {
+      "name": "Amandelmelk",
+      "namePrep": "amandelmelk",
+      "serving": "1 porsie amandelmelk"
+    },
+    "oat-milk": {
+      "name": "Hawermelk",
+      "namePrep": "hawermelk",
+      "serving": "1 porsie hawermelk"
+    },
+    "kefir": {
+      "name": "Kefir",
+      "namePrep": "kefir",
+      "serving": "1 porsie kefir"
+    },
+    "sour-cream": {
+      "name": "Suurroom",
+      "namePrep": "suurroom",
+      "serving": "1 porsie suurroom"
+    },
+    "feta-cheese": {
+      "name": "Feta",
+      "namePrep": "feta",
+      "serving": "1 porsie feta"
+    },
+    "mozzarella": {
+      "name": "Mozzarella",
+      "namePrep": "mozzarella",
+      "serving": "1 porsie mozzarella"
+    },
+    "parmesan": {
+      "name": "Parmesaan",
+      "namePrep": "parmesaan",
+      "serving": "1 porsie parmesaan"
+    },
+    "couscous": {
+      "name": "Koessoes",
+      "namePrep": "koessoes",
+      "serving": "1 porsie koessoes"
+    },
+    "barley": {
+      "name": "Gars",
+      "namePrep": "gars",
+      "serving": "1 porsie gars"
+    },
+    "buckwheat": {
+      "name": "Bokwiet",
+      "namePrep": "bokwiet",
+      "serving": "1 porsie bokwiet"
+    },
+    "bulgur": {
+      "name": "Bulgur",
+      "namePrep": "bulgur",
+      "serving": "1 porsie bulgur"
+    },
+    "naan": {
+      "name": "Naan",
+      "namePrep": "naan",
+      "serving": "1 porsie naan"
+    },
+    "pita-bread": {
+      "name": "Pitbrood",
+      "namePrep": "pitbrood",
+      "serving": "1 porsie pitbrood"
+    },
+    "english-muffin": {
+      "name": "Engelse muffin",
+      "namePrep": "engelse muffin",
+      "serving": "1 porsie engelse muffin"
+    },
+    "rice-cake": {
+      "name": "Ryskoekie",
+      "namePrep": "ryskoekie",
+      "serving": "1 porsie ryskoekie"
+    },
+    "crackers": {
+      "name": "Kraakbeskuitjies",
+      "namePrep": "kraakbeskuitjies",
+      "serving": "1 porsie kraakbeskuitjies"
+    },
+    "mashed-potatoes": {
+      "name": "Kapokaartappels",
+      "namePrep": "kapokaartappels",
+      "serving": "1 porsie kapokaartappels"
+    },
+    "scrambled-eggs": {
+      "name": "Roereiers",
+      "namePrep": "roereiers",
+      "serving": "1 porsie roereiers"
+    },
+    "french-toast": {
+      "name": "French toast",
+      "namePrep": "french toast",
+      "serving": "1 porsie french toast"
+    },
+    "breakfast-burrito": {
+      "name": "Ontbytburrito",
+      "namePrep": "ontbytburrito",
+      "serving": "1 porsie ontbytburrito"
+    },
+    "hash-browns": {
+      "name": "Hash browns",
+      "namePrep": "hash browns",
+      "serving": "1 porsie hash browns"
+    },
+    "chia-pudding": {
+      "name": "Chia-poeding",
+      "namePrep": "chia-poeding",
+      "serving": "1 porsie chia-poeding"
+    },
+    "overnight-oats": {
+      "name": "Oornag-hawermout",
+      "namePrep": "oornag-hawermout",
+      "serving": "1 porsie oornag-hawermout"
+    },
+    "breakfast-sandwich": {
+      "name": "Ontbyttoebroodjie",
+      "namePrep": "ontbyttoebroodjie",
+      "serving": "1 porsie ontbyttoebroodjie"
+    },
+    "edamame": {
+      "name": "Edamame",
+      "namePrep": "edamame",
+      "serving": "1 porsie edamame"
+    },
+    "kidney-beans": {
+      "name": "Nierbone",
+      "namePrep": "nierbone",
+      "serving": "1 porsie nierbone"
+    },
+    "pinto-beans": {
+      "name": "Pintobone",
+      "namePrep": "pintobone",
+      "serving": "1 porsie pintobone"
+    },
+    "split-peas": {
+      "name": "Gesplete ertjies",
+      "namePrep": "gesplete ertjies",
+      "serving": "1 porsie gesplete ertjies"
+    },
+    "baked-beans": {
+      "name": "Gebakte bone",
+      "namePrep": "gebakte bone",
+      "serving": "1 porsie gebakte bone"
+    },
+    "fried-rice": {
+      "name": "Gebraaide rys",
+      "namePrep": "gebraaide rys",
+      "serving": "1 porsie gebraaide rys"
+    },
+    "pad-thai": {
+      "name": "Pad Thai",
+      "namePrep": "pad Thai",
+      "serving": "1 porsie pad Thai"
+    },
+    "chicken-curry": {
+      "name": "Hoenderkerrie",
+      "namePrep": "hoenderkerrie",
+      "serving": "1 porsie hoenderkerrie"
+    },
+    "chicken-tikka-masala": {
+      "name": "Hoender tikka masala",
+      "namePrep": "hoender tikka masala",
+      "serving": "1 porsie hoender tikka masala"
+    },
+    "beef-chili": {
+      "name": "Beef chili",
+      "namePrep": "beef chili",
+      "serving": "1 porsie beef chili"
+    },
+    "falafel": {
+      "name": "Falafel",
+      "namePrep": "falafel",
+      "serving": "1 porsie falafel"
+    },
+    "dumplings": {
+      "name": "Kluitjies",
+      "namePrep": "kluitjies",
+      "serving": "1 porsie kluitjies"
+    },
+    "spring-rolls": {
+      "name": "Lenterolletjies",
+      "namePrep": "lenterolletjies",
+      "serving": "1 porsie lenterolletjies"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "quesadilla",
+      "serving": "1 porsie quesadilla"
+    },
+    "nachos": {
+      "name": "Nachos",
+      "namePrep": "nachos",
+      "serving": "1 porsie nachos"
+    },
+    "mac-and-cheese": {
+      "name": "Macaroni en kaas",
+      "namePrep": "macaroni en kaas",
+      "serving": "1 porsie macaroni en kaas"
+    },
+    "chicken-wings": {
+      "name": "Hoendervlerkies",
+      "namePrep": "hoendervlerkies",
+      "serving": "1 porsie hoendervlerkies"
+    },
+    "fish-and-chips": {
+      "name": "Vis en skyfies",
+      "namePrep": "vis en skyfies",
+      "serving": "1 porsie vis en skyfies"
+    },
+    "risotto": {
+      "name": "Risotto",
+      "namePrep": "risotto",
+      "serving": "1 porsie risotto"
+    },
+    "tortilla-chips": {
+      "name": "Tortillaskyfies",
+      "namePrep": "tortillaskyfies",
+      "serving": "1 porsie tortillaskyfies"
+    },
+    "granola-bar": {
+      "name": "Granolastafie",
+      "namePrep": "granolastafie",
+      "serving": "1 porsie granolastafie"
+    },
+    "chocolate-bar": {
+      "name": "Sjokoladestafie",
+      "namePrep": "sjokoladestafie",
+      "serving": "1 porsie sjokoladestafie"
+    },
+    "candy": {
+      "name": "Lekkers",
+      "namePrep": "lekkers",
+      "serving": "1 porsie lekkers"
+    },
+    "cinnamon-roll": {
+      "name": "Kaneelrol",
+      "namePrep": "kaneelrol",
+      "serving": "1 porsie kaneelrol"
+    },
+    "marshmallows": {
+      "name": "Malvalekkers",
+      "namePrep": "malvalekkers",
+      "serving": "1 porsie malvalekkers"
+    },
+    "fruit-snacks": {
+      "name": "Vrugtehappies",
+      "namePrep": "vrugtehappies",
+      "serving": "1 porsie vrugtehappies"
+    },
+    "black-coffee": {
+      "name": "Swart koffie",
+      "namePrep": "swart koffie",
+      "serving": "1 porsie swart koffie"
+    },
+    "cappuccino": {
+      "name": "Cappuccino",
+      "namePrep": "cappuccino",
+      "serving": "1 porsie cappuccino"
+    },
+    "milk-tea": {
+      "name": "Melktee",
+      "namePrep": "melktee",
+      "serving": "1 porsie melktee"
+    },
+    "bubble-tea": {
+      "name": "Bubble tea",
+      "namePrep": "bubble tea",
+      "serving": "1 porsie bubble tea"
+    },
+    "lemonade": {
+      "name": "Limonade",
+      "namePrep": "limonade",
+      "serving": "1 porsie limonade"
+    },
+    "iced-tea": {
+      "name": "Ystee",
+      "namePrep": "ystee",
+      "serving": "1 porsie ystee"
+    },
+    "apple-juice": {
+      "name": "Appelsap",
+      "namePrep": "appelsap",
+      "serving": "1 porsie appelsap"
+    },
+    "coconut-water": {
+      "name": "Klapperwater",
+      "namePrep": "klapperwater",
+      "serving": "1 porsie klapperwater"
+    },
+    "sports-drink": {
+      "name": "Sportdrank",
+      "namePrep": "sportdrank",
+      "serving": "1 porsie sportdrank"
+    },
+    "ranch-dressing": {
+      "name": "Ranch-sous",
+      "namePrep": "ranch-sous",
+      "serving": "1 porsie ranch-sous"
+    },
+    "bbq-sauce": {
+      "name": "BBQ-sous",
+      "namePrep": "bBQ-sous",
+      "serving": "1 porsie bBQ-sous"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "salsa",
+      "serving": "1 porsie salsa"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "guacamole",
+      "serving": "1 porsie guacamole"
+    }
+  },
+  "utility": {
+    "pricing": "Pryse",
+    "support": "Ondersteuning",
+    "privacy": "Privaatheid",
+    "terms": "Bepalings",
+    "press": "Perspakket",
+    "deleteExtra": "Om verwydering van jou rekening of data te versoek, skryf vanaf die e-pos wat aan die rekening gekoppel is en gebruik “Delete account” in die onderwerplyn."
+  },
+  "store": {
+    "appStoreSmall": "App Store",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Google Play",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Kenmerke",
+    "useCase": "Gebruikssituasies",
+    "openPage": "Lees meer →",
+    "openArrow": "Lees meer →",
+    "practicalWorkflow": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+    "workflowTitle": "Log kos in drie vinnige stappe",
+    "goodToKnow": "Lees meer",
+    "defaultNote": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+    "relatedPages": "Gebruikssituasies",
+    "quickTakeaway": "Lees meer",
+    "defaultTakeaway": "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+    "information": "Voeding",
+    "bestFor": "Beste vir"
+  },
+  "internalCta": {
+    "title": "Verander jou volgende ete in ’n voedingsinskrywing",
+    "text": "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing.",
+    "button": "Laai af"
+  },
+  "download": {
+    "availableTitle": "Beskikbaar vir iPhone en Android",
+    "availableText": "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+  },
+  "faq": {
+    "items": [
+      [
+        "Is Calorie Counter AI gratis?",
+        "Jy kan begin met gratis daaglikse KI-ontledings van etes. Premium help as jy hoër limiete en ekstra hulpmiddels nodig het."
+      ],
+      [
+        "Kan ek kalorieë vanaf ’n foto tel?",
+        "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+      ],
+      [
+        "Het dit ’n strepieskodeskandeerder?",
+        "Skandeer die strepieskode op verpakte kos, bevestig die produk en voeg kalorieë en makro’s binne sekondes by jou dagboek."
+      ],
+      [
+        "Volg die app makro’s?",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      [
+        "Werk dit vir tuisgemaakte kos?",
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek."
+      ],
+      [
+        "Is dit mediese advies?",
+        "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Jy kan begin met gratis daaglikse KI-ontledings van etes. Premium help as jy hoër limiete en ekstra hulpmiddels nodig het.",
+      "Jy kan begin met gratis daaglikse KI-ontledings van etes. Premium help as jy hoër limiete en ekstra hulpmiddels nodig het."
+    ],
+    "support": [
+      "Het jy hulp nodig? Kontak ondersteuning en sluit jou toestel, platform, appweergawe en ’n kort beskrywing van die probleem in.",
+      "Het jy hulp nodig? Kontak ondersteuning en sluit jou toestel, platform, appweergawe en ’n kort beskrywing van die probleem in."
+    ],
+    "contact": [
+      "Ondersteunings-e-pos: support@caloriecounterai.app",
+      "Vir vennootskappe, mediaversoeke en terugvoer, gebruik ’n duidelike onderwerplyn."
+    ],
+    "privacy": [
+      "Calorie Counter AI is gebou vir koslogboeke en bewuster voedingsopsporing. Data kan etes, foto’s, instellings en tegniese inligting insluit wat nodig is om die diens te laat werk.",
+      "Calorie Counter AI is gebou vir koslogboeke en bewuster voedingsopsporing. Data kan etes, foto’s, instellings en tegniese inligting insluit wat nodig is om die diens te laat werk."
+    ],
+    "terms": [
+      "Deur Calorie Counter AI te gebruik, stem jy in om dit as ’n voedingsinligtingshulpmiddel te gebruik en skattings te kontroleer voordat jy daarop staatmaak.",
+      "Deur Calorie Counter AI te gebruik, stem jy in om dit as ’n voedingsinligtingshulpmiddel te gebruik en skattings te kontroleer voordat jy daarop staatmaak."
+    ],
+    "disclaimer": [
+      "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+    ],
+    "delete": [
+      "Om verwydering van jou rekening of data te versoek, skryf vanaf die e-pos wat aan die rekening gekoppel is en gebruik “Delete account” in die onderwerplyn.",
+      "Om verwydering van jou rekening of data te versoek, skryf vanaf die e-pos wat aan die rekening gekoppel is en gebruik “Delete account” in die onderwerplyn."
+    ]
+  },
+  "press": {
+    "iconAlt": "App-ikoon",
+    "iconTitle": "App-ikoon",
+    "downloadIcon": "Laai af",
+    "screenshotAlt": "Skermskoot van die app",
+    "screenshotTitle": "Skermskoot",
+    "downloadScreenshot": "Laai af",
+    "shortDescriptionTitle": "KI-kalorieteller-app met foto’s",
+    "shortDescriptionText": "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+  },
+  "notFound": {
+    "title": "Bladsy nie gevind nie",
+    "text": "Die bladsy waarna jy soek, bestaan nog nie.",
+    "home": "Tuis"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Kenmerke",
+      "h1": "Kenmerke",
+      "description": "Kenmerke: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Kenmerke",
+      "summary": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+      "bullets": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ]
+      ],
+      "workflowTitle": "Kenmerke",
+      "workflow": [
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      "note": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "bestFor": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "workflowKicker": "Kenmerke",
+      "noteTitle": "Lees meer"
+    },
+    "/food-recognition-ai/": {
+      "title": "KI-kalorieteller met foto’s",
+      "h1": "KI-kalorieteller met foto’s",
+      "description": "KI-kalorieteller met foto’s: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "KI-kalorieteller met foto’s",
+      "summary": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+      "bullets": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ]
+      ],
+      "workflowTitle": "KI-kalorieteller met foto’s",
+      "workflow": [
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      "note": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "bestFor": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "workflowKicker": "KI-kalorieteller met foto’s",
+      "noteTitle": "Lees meer"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Strepieskodeskandeerder",
+      "h1": "Strepieskodeskandeerder",
+      "description": "Strepieskodeskandeerder: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Strepieskodeskandeerder",
+      "summary": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+      "bullets": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ]
+      ],
+      "workflowTitle": "Strepieskodeskandeerder",
+      "workflow": [
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      "note": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "bestFor": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "workflowKicker": "Strepieskodeskandeerder",
+      "noteTitle": "Lees meer"
+    },
+    "/macro-tracker/": {
+      "title": "Makro-opspoorder",
+      "h1": "Makro-opspoorder",
+      "description": "Makro-opspoorder: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Makro-opspoorder",
+      "summary": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+      "bullets": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ]
+      ],
+      "workflowTitle": "Makro-opspoorder",
+      "workflow": [
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      "note": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "bestFor": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "workflowKicker": "Makro-opspoorder",
+      "noteTitle": "Lees meer"
+    },
+    "/food-diary-app/": {
+      "title": "Voedseldagboek-app",
+      "h1": "Voedseldagboek-app",
+      "description": "Voedseldagboek-app: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Voedseldagboek-app",
+      "summary": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+      "bullets": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ]
+      ],
+      "workflowTitle": "Voedseldagboek-app",
+      "workflow": [
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      "note": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "bestFor": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "workflowKicker": "Voedseldagboek-app",
+      "noteTitle": "Lees meer"
+    },
+    "/nutrition-tracker/": {
+      "title": "Voedingsopspoorder",
+      "h1": "Voedingsopspoorder",
+      "description": "Voedingsopspoorder: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Voedingsopspoorder",
+      "summary": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+      "bullets": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ]
+      ],
+      "workflowTitle": "Voedingsopspoorder",
+      "workflow": [
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      "note": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "bestFor": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "workflowKicker": "Voedingsopspoorder",
+      "noteTitle": "Lees meer"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Skatter vir maaltydgewig",
+      "h1": "Skatter vir maaltydgewig",
+      "description": "Skatter vir maaltydgewig: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Skatter vir maaltydgewig",
+      "summary": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+      "bullets": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ]
+      ],
+      "workflowTitle": "Skatter vir maaltydgewig",
+      "workflow": [
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      "note": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "bestFor": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "workflowKicker": "Skatter vir maaltydgewig",
+      "noteTitle": "Lees meer"
+    },
+    "/progress-statistics/": {
+      "title": "Voedingsstatistiek",
+      "h1": "Voedingsstatistiek",
+      "description": "Voedingsstatistiek: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Voedingsstatistiek",
+      "summary": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+      "bullets": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ]
+      ],
+      "workflowTitle": "Voedingsstatistiek",
+      "workflow": [
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      "note": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "bestFor": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "workflowKicker": "Voedingsstatistiek",
+      "noteTitle": "Lees meer"
+    },
+    "/meal-reminders/": {
+      "title": "Maaltydherinneringe",
+      "h1": "Maaltydherinneringe",
+      "description": "Maaltydherinneringe: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Maaltydherinneringe",
+      "summary": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+      "bullets": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ]
+      ],
+      "workflowTitle": "Maaltydherinneringe",
+      "workflow": [
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      "note": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "bestFor": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "workflowKicker": "Maaltydherinneringe",
+      "noteTitle": "Lees meer"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Google Health Connect",
+      "description": "Google Health Connect: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Google Health Connect",
+      "summary": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+      "bullets": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ]
+      ],
+      "workflowTitle": "Google Health Connect",
+      "workflow": [
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      "note": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "bestFor": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "workflowKicker": "Google Health Connect",
+      "noteTitle": "Lees meer"
+    },
+    "/data-export/": {
+      "title": "Data-uitvoer",
+      "h1": "Data-uitvoer",
+      "description": "Data-uitvoer: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Data-uitvoer",
+      "summary": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+      "bullets": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ]
+      ],
+      "workflowTitle": "Data-uitvoer",
+      "workflow": [
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      "note": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "bestFor": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "workflowKicker": "Data-uitvoer",
+      "noteTitle": "Lees meer"
+    },
+    "/use-cases/": {
+      "title": "Gebruikssituasies",
+      "h1": "Gebruikssituasies",
+      "description": "Gebruikssituasies: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Gebruikssituasies"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Kalorieteller vir gewigsverlies",
+      "h1": "Kalorieteller vir gewigsverlies",
+      "description": "Kalorieteller vir gewigsverlies: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Kalorieteller vir gewigsverlies",
+      "summary": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+      "bullets": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ]
+      ],
+      "workflowTitle": "Kalorieteller vir gewigsverlies",
+      "workflow": [
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      "note": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "bestFor": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "workflowKicker": "Kalorieteller vir gewigsverlies",
+      "noteTitle": "Lees meer"
+    },
+    "/calorie-deficit-app/": {
+      "title": "App vir kalorie-tekort",
+      "h1": "App vir kalorie-tekort",
+      "description": "App vir kalorie-tekort: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "App vir kalorie-tekort",
+      "summary": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+      "bullets": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ]
+      ],
+      "workflowTitle": "App vir kalorie-tekort",
+      "workflow": [
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      "note": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "bestFor": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "workflowKicker": "App vir kalorie-tekort",
+      "noteTitle": "Lees meer"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Kalorie-opspoorder vir spierbou",
+      "h1": "Kalorie-opspoorder vir spierbou",
+      "description": "Kalorie-opspoorder vir spierbou: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Kalorie-opspoorder vir spierbou",
+      "summary": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+      "bullets": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ]
+      ],
+      "workflowTitle": "Kalorie-opspoorder vir spierbou",
+      "workflow": [
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      "note": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "bestFor": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "workflowKicker": "Kalorie-opspoorder vir spierbou",
+      "noteTitle": "Lees meer"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Opspoorder om gewig te behou",
+      "h1": "Opspoorder om gewig te behou",
+      "description": "Opspoorder om gewig te behou: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Opspoorder om gewig te behou",
+      "summary": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+      "bullets": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ]
+      ],
+      "workflowTitle": "Opspoorder om gewig te behou",
+      "workflow": [
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      "note": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "bestFor": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "workflowKicker": "Opspoorder om gewig te behou",
+      "noteTitle": "Lees meer"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Kalorieteller vir tuisgemaakte kos",
+      "h1": "Kalorieteller vir tuisgemaakte kos",
+      "description": "Kalorieteller vir tuisgemaakte kos: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Kalorieteller vir tuisgemaakte kos",
+      "summary": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+      "bullets": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ]
+      ],
+      "workflowTitle": "Kalorieteller vir tuisgemaakte kos",
+      "workflow": [
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      "note": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "bestFor": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "workflowKicker": "Kalorieteller vir tuisgemaakte kos",
+      "noteTitle": "Lees meer"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Kalorie-opspoorder vir restaurantkos",
+      "h1": "Kalorie-opspoorder vir restaurantkos",
+      "description": "Kalorie-opspoorder vir restaurantkos: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Kalorie-opspoorder vir restaurantkos",
+      "summary": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+      "bullets": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ]
+      ],
+      "workflowTitle": "Kalorie-opspoorder vir restaurantkos",
+      "workflow": [
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      "note": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "bestFor": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "workflowKicker": "Kalorie-opspoorder vir restaurantkos",
+      "noteTitle": "Lees meer"
+    },
+    "/meal-tracker/": {
+      "title": "Maaltydopspoorder",
+      "h1": "Maaltydopspoorder",
+      "description": "Maaltydopspoorder: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Maaltydopspoorder",
+      "summary": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+      "bullets": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ]
+      ],
+      "workflowTitle": "Maaltydopspoorder",
+      "workflow": [
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      "note": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "bestFor": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "workflowKicker": "Maaltydopspoorder",
+      "noteTitle": "Lees meer"
+    },
+    "/photo-food-journal/": {
+      "title": "Kosjoernaal met foto’s",
+      "h1": "Kosjoernaal met foto’s",
+      "description": "Kosjoernaal met foto’s: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Kosjoernaal met foto’s",
+      "summary": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+      "bullets": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ]
+      ],
+      "workflowTitle": "Kosjoernaal met foto’s",
+      "workflow": [
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      "note": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "bestFor": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "workflowKicker": "Kosjoernaal met foto’s",
+      "noteTitle": "Lees meer"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Opspoorder vir gesonder eet",
+      "h1": "Opspoorder vir gesonder eet",
+      "description": "Opspoorder vir gesonder eet: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Opspoorder vir gesonder eet",
+      "summary": "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+      "bullets": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ]
+      ],
+      "workflowTitle": "Opspoorder vir gesonder eet",
+      "workflow": [
+        "Jy hoef nie elke bestanddeel met die hand te soek nie. Neem ’n foto van jou kos, kontroleer die KI-skatting en stoor dit in jou voedseldagboek.",
+        "Volg kalorieë, proteïen, vet en koolhidrate langs jou daaglikse doelwit."
+      ],
+      "note": "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie.",
+      "bestFor": [
+        "Kalorieteller met foto’s",
+        "Strepieskodeskandeerder",
+        "Makro’s",
+        "Voedseldagboek"
+      ],
+      "workflowKicker": "Opspoorder vir gesonder eet",
+      "noteTitle": "Lees meer"
+    },
+    "/blog/": {
+      "title": "Gidse oor kalorieë tel en KI-koslogboeke",
+      "h1": "Gidse oor kalorieë tel en KI-koslogboeke",
+      "description": "Gidse oor kalorieë tel en KI-koslogboeke: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Gidse oor kalorieë tel en KI-koslogboeke"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Hoe om kalorieë vanaf ’n foto te tel",
+      "h1": "Hoe om kalorieë vanaf ’n foto te tel",
+      "description": "Hoe om kalorieë vanaf ’n foto te tel: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "category": "Hoe om kalorieë vanaf ’n foto te tel",
+      "readTime": "Hoe om kalorieë vanaf ’n foto te tel",
+      "intro": "Hoe om kalorieë vanaf ’n foto te tel",
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ],
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ]
+      ],
+      "takeaway": "Hoe om kalorieë vanaf ’n foto te tel"
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Hoe akkuraat is KI-kalorietellers?",
+      "h1": "Hoe akkuraat is KI-kalorietellers?",
+      "description": "Hoe akkuraat is KI-kalorietellers?: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "category": "Hoe akkuraat is KI-kalorietellers?",
+      "readTime": "Hoe akkuraat is KI-kalorietellers?",
+      "intro": "Hoe akkuraat is KI-kalorietellers?",
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ],
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ]
+      ],
+      "takeaway": "Hoe akkuraat is KI-kalorietellers?"
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "KI-koslogboek teenoor handmatige log",
+      "h1": "KI-koslogboek teenoor handmatige log",
+      "description": "KI-koslogboek teenoor handmatige log: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "category": "KI-koslogboek teenoor handmatige log",
+      "readTime": "KI-koslogboek teenoor handmatige log",
+      "intro": "KI-koslogboek teenoor handmatige log",
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ],
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ]
+      ],
+      "takeaway": "KI-koslogboek teenoor handmatige log"
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Wat is ’n kosskandeerder?",
+      "h1": "Wat is ’n kosskandeerder?",
+      "description": "Wat is ’n kosskandeerder?: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "category": "Wat is ’n kosskandeerder?",
+      "readTime": "Wat is ’n kosskandeerder?",
+      "intro": "Wat is ’n kosskandeerder?",
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ],
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ]
+      ],
+      "takeaway": "Wat is ’n kosskandeerder?"
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Hoe beginners makro’s kan volg",
+      "h1": "Hoe beginners makro’s kan volg",
+      "description": "Hoe beginners makro’s kan volg: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "category": "Hoe beginners makro’s kan volg",
+      "readTime": "Hoe beginners makro’s kan volg",
+      "intro": "Hoe beginners makro’s kan volg",
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ],
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ]
+      ],
+      "takeaway": "Hoe beginners makro’s kan volg"
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Kalorieë teenoor makro’s",
+      "h1": "Kalorieë teenoor makro’s",
+      "description": "Kalorieë teenoor makro’s: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "category": "Kalorieë teenoor makro’s",
+      "readTime": "Kalorieë teenoor makro’s",
+      "intro": "Kalorieë teenoor makro’s",
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ],
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ]
+      ],
+      "takeaway": "Kalorieë teenoor makro’s"
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Hoe om kalorieë in tuisgemaakte kos te tel",
+      "h1": "Hoe om kalorieë in tuisgemaakte kos te tel",
+      "description": "Hoe om kalorieë in tuisgemaakte kos te tel: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "category": "Hoe om kalorieë in tuisgemaakte kos te tel",
+      "readTime": "Hoe om kalorieë in tuisgemaakte kos te tel",
+      "intro": "Hoe om kalorieë in tuisgemaakte kos te tel",
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ],
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ]
+      ],
+      "takeaway": "Hoe om kalorieë in tuisgemaakte kos te tel"
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Hoe om porsiegrootte te skat",
+      "h1": "Hoe om porsiegrootte te skat",
+      "description": "Hoe om porsiegrootte te skat: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "category": "Hoe om porsiegrootte te skat",
+      "readTime": "Hoe om porsiegrootte te skat",
+      "intro": "Hoe om porsiegrootte te skat",
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ],
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ]
+      ],
+      "takeaway": "Hoe om porsiegrootte te skat"
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Hoeveel kalorieë moet ek per dag eet?",
+      "h1": "Hoeveel kalorieë moet ek per dag eet?",
+      "description": "Hoeveel kalorieë moet ek per dag eet?: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "category": "Hoeveel kalorieë moet ek per dag eet?",
+      "readTime": "Hoeveel kalorieë moet ek per dag eet?",
+      "intro": "Hoeveel kalorieë moet ek per dag eet?",
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ],
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ]
+      ],
+      "takeaway": "Hoeveel kalorieë moet ek per dag eet?"
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Wat is ’n kalorie-tekort?",
+      "h1": "Wat is ’n kalorie-tekort?",
+      "description": "Wat is ’n kalorie-tekort?: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "category": "Wat is ’n kalorie-tekort?",
+      "readTime": "Wat is ’n kalorie-tekort?",
+      "intro": "Wat is ’n kalorie-tekort?",
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ],
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ]
+      ],
+      "takeaway": "Wat is ’n kalorie-tekort?"
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Algemene foute met kalorieë tel",
+      "h1": "Algemene foute met kalorieë tel",
+      "description": "Algemene foute met kalorieë tel: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "category": "Algemene foute met kalorieë tel",
+      "readTime": "Algemene foute met kalorieë tel",
+      "intro": "Algemene foute met kalorieë tel",
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ],
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ]
+      ],
+      "takeaway": "Algemene foute met kalorieë tel"
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Hoe om restaurantkos te log",
+      "h1": "Hoe om restaurantkos te log",
+      "description": "Hoe om restaurantkos te log: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "category": "Hoe om restaurantkos te log",
+      "readTime": "Hoe om restaurantkos te log",
+      "intro": "Hoe om restaurantkos te log",
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ],
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ]
+      ],
+      "takeaway": "Hoe om restaurantkos te log"
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Hoe om proteïen te volg",
+      "h1": "Hoe om proteïen te volg",
+      "description": "Hoe om proteïen te volg: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "category": "Hoe om proteïen te volg",
+      "readTime": "Hoe om proteïen te volg",
+      "intro": "Hoe om proteïen te volg",
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ],
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ]
+      ],
+      "takeaway": "Hoe om proteïen te volg"
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Wat is ’n voedseldagboek?",
+      "h1": "Wat is ’n voedseldagboek?",
+      "description": "Wat is ’n voedseldagboek?: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "category": "Wat is ’n voedseldagboek?",
+      "readTime": "Wat is ’n voedseldagboek?",
+      "intro": "Wat is ’n voedseldagboek?",
+      "sections": [
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ],
+        [
+          "Lees meer",
+          "Calorie Counter AI gee benaderde voedingskattings slegs vir inligting en vervang nie mediese of dieetkundige advies nie."
+        ],
+        [
+          "Laai af",
+          "Laai Calorie Counter AI vir iPhone of Android af en verander jou volgende kosfoto in ’n dagboekinskrywing."
+        ],
+        [
+          "Kenmerke",
+          "Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte."
+        ]
+      ],
+      "takeaway": "Wat is ’n voedseldagboek?"
+    },
+    "/download/": {
+      "title": "Laai Calorie Counter AI af",
+      "h1": "Laai Calorie Counter AI af",
+      "description": "Laai Calorie Counter AI af: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Laai Calorie Counter AI af"
+    },
+    "/faq/": {
+      "title": "Vrae",
+      "h1": "Vrae",
+      "description": "Vrae: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Vrae"
+    },
+    "/pricing/": {
+      "title": "Pryse",
+      "h1": "Pryse",
+      "description": "Pryse: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Pryse"
+    },
+    "/support/": {
+      "title": "Ondersteuning",
+      "h1": "Ondersteuning",
+      "description": "Ondersteuning: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Ondersteuning"
+    },
+    "/contact/": {
+      "title": "Kontak",
+      "h1": "Kontak",
+      "description": "Kontak: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Kontak"
+    },
+    "/privacy-policy/": {
+      "title": "Privaatheid",
+      "h1": "Privaatheid",
+      "description": "Privaatheid: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Privaatheid"
+    },
+    "/terms/": {
+      "title": "Bepalings",
+      "h1": "Bepalings",
+      "description": "Bepalings: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Bepalings"
+    },
+    "/health-disclaimer/": {
+      "title": "Gesondheidsvrywaring",
+      "h1": "Gesondheidsvrywaring",
+      "description": "Gesondheidsvrywaring: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Gesondheidsvrywaring"
+    },
+    "/delete-account/": {
+      "title": "Data en rekening verwyder",
+      "h1": "Data en rekening verwyder",
+      "description": "Data en rekening verwyder: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Data en rekening verwyder"
+    },
+    "/press/": {
+      "title": "Perspakket",
+      "h1": "Perspakket",
+      "description": "Perspakket: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Perspakket"
+    },
+    "/how-many-calories-in/": {
+      "title": "Kalorieë in kos",
+      "h1": "Kalorieë in kos",
+      "description": "Kalorieë in kos: Neem ’n foto van jou maaltyd en kry binne sekondes ’n skatting van kalorieë, proteïen, vet, koolhidrate en porsiegrootte.",
+      "kicker": "Kalorieë in kos"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Koekiekeuses",
+    "text": "Ons gebruik noodsaaklike koekies en plaaslike berging om jou taal- en koekiekeuses te onthou. As jy instem, gebruik ons ook analitiese koekies om die webwerf te verbeter.",
+    "accept": "Aanvaar",
+    "decline": "Weier analitiese koekies"
+  }
+}

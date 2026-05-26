@@ -1,0 +1,2619 @@
+{
+  "localeName": "Latviešu",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "AI kaloriju skaitītājs pēc ēdiena foto"
+  },
+  "nav": {
+    "features": "Funkcijas",
+    "useCases": "Lietošanas gadījumi",
+    "blog": "Ceļveži",
+    "faq": "BUJ",
+    "download": "Lejupielādēt",
+    "language": "Izvēlēties valodu",
+    "openMenu": "Atvērt izvēlni",
+    "caloriesInFoods": "Kalorijas pārtikas produktos",
+    "all": "Visi",
+    "allFeatures": "Visas funkcijas",
+    "allUseCases": "Visi lietošanas gadījumi",
+    "allLearn": "Visi ceļveži",
+    "openHub": "Atvērt sadaļu →",
+    "home": "Sākums"
+  },
+  "cta": {
+    "appStore": "Lejupielādēt no App Store",
+    "googlePlay": "Lejupielādēt pakalpojumā Google Play",
+    "downloadNow": "Lejupielādēt tagad",
+    "tryFree": "Izmēģināt bez maksas",
+    "learnMore": "Uzzināt vairāk",
+    "learnMoreArrow": "Uzzināt vairāk →",
+    "readGuide": "Lasīt ceļvedi"
+  },
+  "home": {
+    "title": "AI kaloriju skaitītājs pēc ēdiena foto",
+    "description": "Nofotografē maltīti un dažu sekunžu laikā saņem rediģējamu kaloriju, olbaltumvielu, tauku, ogļhidrātu un porcijas lieluma novērtējumu.",
+    "heroNote": "Sāc bez maksas ar ikdienas AI ēdiena analīzēm. Pieejams iPhone un Android ierīcēm.",
+    "photoEyebrow": "Galvenā funkcija",
+    "photoTitle": "Kaloriju skaitītājs pēc foto",
+    "photoText": "Nav jāmeklē katra sastāvdaļa atsevišķi. Nofotografē ēdienu, pārbaudi AI novērtējumu un saglabā maltīti uztura dienasgrāmatā.",
+    "photoChecklist": [
+      "Novērtē kalorijas pēc ēdiena foto",
+      "Skati olbaltumvielas, taukus un ogļhidrātus",
+      "Pārbaudi un izlabo rezultātu pirms saglabāšanas",
+      "Veido vizuālu uztura dienasgrāmatu"
+    ],
+    "featureCards": [
+      [
+        "camera",
+        "Pievieno maltīti ar foto",
+        "Nofotografē maltīti, pārbaudi novērtējumu un saglabā to bez ilgstošas sastāvdaļu meklēšanas."
+      ],
+      [
+        "sparkles",
+        "AI maltīšu novērtējums",
+        "Ātri iegūsti aptuvenu kaloriju, makroelementu un porcijas lieluma novērtējumu, ja nav etiķetes vai precīzas receptes."
+      ],
+      [
+        "shield",
+        "Bezmaksas analīzes katru dienu",
+        "Izmēģini pamata AI plūsmu ik dienu un palielini limitus tikai tad, ja nepieciešams."
+      ],
+      [
+        "barcode",
+        "Iepakoti produkti",
+        "Skenē jogurtus, dzērienus, uzkodas, gatavās maltītes un citus veikala produktus pēc svītrkoda."
+      ],
+      [
+        "macro",
+        "Makroelementi vienā skatā",
+        "Seko olbaltumvielām, taukiem un ogļhidrātiem kopā ar dienas kalorijām."
+      ],
+      [
+        "diary",
+        "Vizuāla dienasgrāmata",
+        "Atgriezies pie jebkuras dienas, apskati maltītes kā attēlus un pamani atkārtotus ēšanas paradumus."
+      ]
+    ],
+    "foodPreviewTitle": "Cik kaloriju ir ikdienas ēdienos?",
+    "foodPreviewText": "Ātri kaloriju un makroelementu novērtējumi par biežām maltītēm, uzkodām un dzērieniem.",
+    "foodPreviewLink": "Atvērt pilno kaloriju ceļvedi →",
+    "goalEyebrow": "Mērķis kontrolē",
+    "counterTitle": "Vienkāršs kaloriju skaitītājs ikdienai",
+    "counterText": "Izmanto foto, svītrkodus, iecienītās maltītes un skaidru dienasgrāmatu, lai uztura uzskaite nešķistu kā papildu darbs.",
+    "goalPills": [
+      "Svara samazināšana",
+      "Svara uzturēšana",
+      "Muskuļu masas palielināšana",
+      "Aizņemtas dienas"
+    ],
+    "magicEyebrow": "Kāpēc tas ir vienkāršāk",
+    "magicTitle": "Pievieno ēdienu trīs soļos",
+    "magicText": "Nofotografē, pārbaudi novērtējumu un saglabā ierakstu. Jo mazāk manuālas ievades, jo vieglāk uzturēt dienasgrāmatu regulāri.",
+    "magicSteps": [
+      "Nofotografē",
+      "Pārbaudi",
+      "Saglabā"
+    ],
+    "barcodeEyebrow": "Iepakoti produkti",
+    "barcodeTitle": "Pārtikas svītrkodu skeneris",
+    "barcodeText": "Ja produktam ir svītrkods, noskenē iepakojumu, apstiprini produktu un dažās sekundēs pievieno dienasgrāmatai kalorijas, olbaltumvielas, taukus un ogļhidrātus.",
+    "barcodeLink": "Lasīt vairāk par svītrkodu skeneri →",
+    "progressEyebrow": "Skaidra uzskaite",
+    "macroTitle": "Seko kalorijām un makroelementiem",
+    "macroText": "Skati kalorijas, olbaltumvielas, taukus un ogļhidrātus vienā skatā un salīdzini dienas, nedēļas un mēnešus.",
+    "macroLink": "Atvērt makroelementu uzskaites lapu →",
+    "useCasesEyebrow": "Kāpēc lietot Calorie Counter AI",
+    "useCasesTitle": "Uztura mērķi reālai ikdienai",
+    "useCasesText": "Neatkarīgi no tā, vai vēlies zaudēt svaru, saglabāt pašreizējo svaru, audzēt muskuļus vai labāk saprast savu uzturu, lietotne pārvērš maltītes skaidrā ikdienas atgriezeniskajā saitē.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Svara samazināšana",
+        "Redzi, cik kaloriju vēl paliek līdz dienas mērķim."
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Mājas ēdiens",
+        "Novērtē jauktus ēdienus un receptes bez uzturvērtības etiķetes."
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Restorānu ēdieni",
+        "Ātri pievieno restorāna maltītes ar foto novērtējumu."
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Muskuļu masas palielināšana",
+        "Uzturi olbaltumvielas un kalorijas redzamas, ja ēd ar enerģijas pārpalikumu."
+      ]
+    ],
+    "downloadTitle": "Sāc skaitīt kalorijas ar AI jau šodien",
+    "downloadText": "Lejupielādē lietotni iPhone vai Android ierīcei un pārvērt nākamo ēdiena foto dienasgrāmatas ierakstā.",
+    "faqEyebrow": "BUJ",
+    "faqTitle": "Jautājumi pirms lejupielādes?",
+    "faq": [
+      [
+        "Vai Calorie Counter AI ir bez maksas?",
+        "Vari sākt bez maksas ar ikdienas AI maltīšu analīzēm. Maksas versijā var būt pieejamas premium funkcijas un augstāki limiti."
+      ],
+      [
+        "Vai varu skaitīt kalorijas pēc foto?",
+        "Jā. Nofotografē šķīvi, un lietotne novērtēs redzamo ēdienu kalorijas, makroelementus un porcijas svaru."
+      ],
+      [
+        "Cik precīzs ir AI kaloriju skaitītājs?",
+        "Tas ir aptuvens novērtējums. Precizitāti ietekmē foto kvalitāte, redzamā porcija, slēptas sastāvdaļas, mērces un tavi labojumi."
+      ],
+      [
+        "Vai lietotne seko makroelementiem?",
+        "Jā. Dienasgrāmatā redzēsi olbaltumvielas, taukus un ogļhidrātus līdzās kalorijām."
+      ],
+      [
+        "Vai lietotne ir pieejama iPhone un Android?",
+        "Jā. Lietotne ir pieejama App Store un Google Play."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "AI kaloriju skaitītājs pēc ēdiena foto | Calorie Counter AI",
+    "homeOgTitle": "Skaiti kalorijas ar AI pēc ēdiena foto",
+    "homeDescription": "Skaiti kalorijas ar AI: novērtē kalorijas, makroelementus un porcijas lielumu pēc ēdiena foto, skenē svītrkodus un uzturi uztura dienasgrāmatu."
+  },
+  "footer": {
+    "disclaimer": "Uzturvērtības novērtējumi ir aptuveni. Tie neaizstāj ārsta, uztura speciālista vai cita veselības aprūpes profesionāļa padomu.",
+    "copyright": "© 2026 Calorie Counter AI. Visas tiesības aizsargātas."
+  },
+  "foodIndex": {
+    "findTitle": "Kalorijas, makroelementi un reālistiskas porcijas",
+    "findText": "Apskati aptuvenas vērtības ikdienas ēdieniem un padomus, kā tos pierakstīt saprātīgās porcijās.",
+    "categoryIntro": "Populāri kaloriju un makroelementu meklējumi šajā kategorijā."
+  },
+  "foodPage": {
+    "eyebrow": "Kaloriju ceļvedis",
+    "trackInApp": "Pievienot lietotnē",
+    "browseFoods": "Pārlūkot ēdienus →",
+    "typicalEstimate": "Aptuvens novērtējums. Faktiskās vērtības ir atkarīgas no zīmola, receptes un porcijas lieluma.",
+    "caloriesMacros": "Kalorijas un makroelementi",
+    "whenFits": "Kad tas iederas?",
+    "whatToWatch": "Kam pievērst uzmanību?",
+    "howToLog": "Kā pierakstīt precīzāk",
+    "helpfulContext": "Noderīgi zināt",
+    "faq": "BUJ",
+    "weightLossQuestion": "Vai tas der svara samazināšanai?",
+    "variabilityQuestion": "Kas visvairāk maina kaloriju daudzumu?",
+    "logFasterTitle": "Pievieno maltītes ātrāk",
+    "logFasterText": "Izmanto Calorie Counter AI: nofotografē ēdienu, saņem sākotnējo novērtējumu un, ja vajag, izlabo porciju, mērci vai zīmolu.",
+    "photoTrackingLink": "Kā darbojas kaloriju skaitīšana pēc foto →",
+    "macros": {
+      "protein": "Olbaltumvielas",
+      "fat": "Tauki",
+      "carbs": "Ogļhidrāti"
+    },
+    "titleTemplate": "{namePrep}: kalorijas un makroelementi",
+    "h1Template": "Cik kaloriju ir: {namePrep}?",
+    "descriptionTemplate": "{name}: kalorijas, olbaltumvielas, tauki un ogļhidrāti porcijai “{serving}”, kā arī padomi ierakstīšanai uztura dienasgrāmatā.",
+    "heroIntroTemplate": "Aptuveni {calories} {kcal} vienā porcijā: {servingLower}. Izmanto to kā sākumpunktu un pielāgo zīmolam, receptei, gatavošanas veidam un porcijas lielumam.",
+    "macroParagraphTemplate": "{name}: aptuveni {calories} {kcal} porcijā “{servingLower}”. Šī porcija satur aptuveni {protein} {gram} olbaltumvielu, {fat} {gram} tauku un {carbs} {gram} ogļhidrātu{fiberText}.",
+    "per100Template": "Salīdzinājumam 100 {gram}: aptuveni {calories} {kcal}, {protein} {gram} olbaltumvielu, {fat} {gram} tauku un {carbs} {gram} ogļhidrātu.",
+    "calorieLevelTemplate": "Izmanto porciju kā orientieri: aptuveni {calories} {kcal} porcijai “{servingLower}”."
+  },
+  "foodCategories": {
+    "Fruit": "Augļi",
+    "Protein foods": "Olbaltumvielām bagāti produkti",
+    "Fruits and fats": "Augļi un tauki",
+    "Grains and starches": "Graudaugi un cietes produkti",
+    "Nuts and spreads": "Rieksti un smēriņi",
+    "Breakfast foods": "Brokastu ēdieni",
+    "Dairy": "Piena produkti",
+    "Restaurant meals": "Restorānu maltītes",
+    "Fast food": "Ātrās ēdināšanas ēdieni",
+    "Legumes and plant protein": "Pākšaugi un augu olbaltumvielas",
+    "Desserts": "Deserti",
+    "Snacks": "Uzkodas",
+    "Drinks": "Dzērieni",
+    "Vegetables": "Dārzeņi",
+    "Sauces and condiments": "Mērces un piedevas",
+    "Mixed dishes": "Jaukti ēdieni"
+  },
+  "foods": {
+    "banana": {
+      "name": "Banāns",
+      "namePrep": "banāns",
+      "serving": "1 vidējs banāns"
+    },
+    "apple": {
+      "name": "Ābols",
+      "namePrep": "ābols",
+      "serving": "1 vidējs ābols"
+    },
+    "egg": {
+      "name": "Ola",
+      "namePrep": "ola",
+      "serving": "1 liela ola"
+    },
+    "avocado": {
+      "name": "Avokado",
+      "namePrep": "avokado",
+      "serving": "1/2 vidēja avokado"
+    },
+    "chicken-breast": {
+      "name": "Vistas krūtiņa",
+      "namePrep": "vistas krūtiņa",
+      "serving": "100 g gatavas vistas krūtiņas"
+    },
+    "salmon": {
+      "name": "Lasis",
+      "namePrep": "lasis",
+      "serving": "100 g gatava laša"
+    },
+    "white-rice": {
+      "name": "Baltie rīsi",
+      "namePrep": "baltie rīsi",
+      "serving": "1 glāze vārītu balto rīsu"
+    },
+    "brown-rice": {
+      "name": "Brūnie rīsi",
+      "namePrep": "brūnie rīsi",
+      "serving": "1 glāze vārītu brūno rīsu"
+    },
+    "pasta": {
+      "name": "Makaroni",
+      "namePrep": "makaroni",
+      "serving": "1 glāze vārītu makaronu"
+    },
+    "potato": {
+      "name": "Kartupelis",
+      "namePrep": "kartupelis",
+      "serving": "1 vidējs cepts kartupelis"
+    },
+    "sweet-potato": {
+      "name": "Saldais kartupelis",
+      "namePrep": "saldais kartupelis",
+      "serving": "1 vidējs cepts saldais kartupelis"
+    },
+    "bread": {
+      "name": "Maize",
+      "namePrep": "maize",
+      "serving": "1 maizes šķēle"
+    },
+    "peanut-butter": {
+      "name": "Zemesriekstu sviests",
+      "namePrep": "zemesriekstu sviests",
+      "serving": "2 ēdamkarotes zemesriekstu sviesta"
+    },
+    "oatmeal": {
+      "name": "Auzu putra",
+      "namePrep": "auzu putra",
+      "serving": "1 glāze pagatavotas auzu putras"
+    },
+    "greek-yogurt": {
+      "name": "Grieķu jogurts",
+      "namePrep": "grieķu jogurts",
+      "serving": "170 g dabīga grieķu jogurta"
+    },
+    "yogurt": {
+      "name": "Jogurts",
+      "namePrep": "jogurts",
+      "serving": "170 g dabīga jogurta"
+    },
+    "milk": {
+      "name": "Piens",
+      "namePrep": "piens",
+      "serving": "1 glāze 2% piena"
+    },
+    "cheddar-cheese": {
+      "name": "Čedaras siers",
+      "namePrep": "čedaras siers",
+      "serving": "30 g čedaras siera"
+    },
+    "pizza": {
+      "name": "Pica",
+      "namePrep": "pica",
+      "serving": "1 šķēle siera picas"
+    },
+    "burger": {
+      "name": "Burgers",
+      "namePrep": "burgers",
+      "serving": "1 čīzburgers"
+    },
+    "french-fries": {
+      "name": "Frī kartupeļi",
+      "namePrep": "frī kartupeļi",
+      "serving": "1 vidēja frī kartupeļu porcija"
+    },
+    "sushi-roll": {
+      "name": "Suši rullītis",
+      "namePrep": "suši rullītis",
+      "serving": "1 tipiska porcija"
+    },
+    "taco": {
+      "name": "Tako",
+      "namePrep": "tako",
+      "serving": "1 tipiska porcija"
+    },
+    "burrito": {
+      "name": "Burito",
+      "namePrep": "burito",
+      "serving": "1 tipiska porcija"
+    },
+    "chicken-nuggets": {
+      "name": "Vistas nageti",
+      "namePrep": "vistas nageti",
+      "serving": "1 tipiska porcija"
+    },
+    "hot-dog": {
+      "name": "Hotdogs",
+      "namePrep": "hotdogs",
+      "serving": "1 tipiska porcija"
+    },
+    "steak": {
+      "name": "Steiks",
+      "namePrep": "steiks",
+      "serving": "100 g grilēta steika"
+    },
+    "bacon": {
+      "name": "Bekons",
+      "namePrep": "bekons",
+      "serving": "1 tipiska porcija"
+    },
+    "tuna": {
+      "name": "Tuncis",
+      "namePrep": "tuncis",
+      "serving": "1 tipiska porcija"
+    },
+    "shrimp": {
+      "name": "Garneles",
+      "namePrep": "garneles",
+      "serving": "100 g gatavu garneļu"
+    },
+    "tofu": {
+      "name": "Tofu",
+      "namePrep": "tofu",
+      "serving": "100 g cieta tofu"
+    },
+    "lentils": {
+      "name": "Lēcas",
+      "namePrep": "lēcas",
+      "serving": "1 tipiska porcija"
+    },
+    "black-beans": {
+      "name": "Melnās pupiņas",
+      "namePrep": "melnās pupiņas",
+      "serving": "1 tipiska porcija"
+    },
+    "chickpeas": {
+      "name": "Turku zirņi",
+      "namePrep": "turku zirņi",
+      "serving": "1 tipiska porcija"
+    },
+    "hummus": {
+      "name": "Humoss",
+      "namePrep": "humoss",
+      "serving": "1 tipiska porcija"
+    },
+    "quinoa": {
+      "name": "Kinoja",
+      "namePrep": "kinoja",
+      "serving": "1 tipiska porcija"
+    },
+    "tortilla": {
+      "name": "Tortilja",
+      "namePrep": "tortilja",
+      "serving": "1 tipiska porcija"
+    },
+    "bagel": {
+      "name": "Beigels",
+      "namePrep": "beigels",
+      "serving": "1 tipiska porcija"
+    },
+    "croissant": {
+      "name": "Kruasāns",
+      "namePrep": "kruasāns",
+      "serving": "1 tipiska porcija"
+    },
+    "pancake": {
+      "name": "Pankūkas",
+      "namePrep": "pankūkas",
+      "serving": "1 tipiska porcija"
+    },
+    "waffle": {
+      "name": "Vafele",
+      "namePrep": "vafele",
+      "serving": "1 tipiska porcija"
+    },
+    "cereal": {
+      "name": "Brokastu pārslas",
+      "namePrep": "brokastu pārslas",
+      "serving": "1 tipiska porcija"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granola",
+      "serving": "1 tipiska porcija"
+    },
+    "almonds": {
+      "name": "Mandeles",
+      "namePrep": "mandeles",
+      "serving": "1 tipiska porcija"
+    },
+    "walnuts": {
+      "name": "Valrieksti",
+      "namePrep": "valrieksti",
+      "serving": "1 tipiska porcija"
+    },
+    "cashews": {
+      "name": "Indijas rieksti",
+      "namePrep": "indijas rieksti",
+      "serving": "1 tipiska porcija"
+    },
+    "chocolate": {
+      "name": "Šokolāds",
+      "namePrep": "šokolāds",
+      "serving": "1 tipiska porcija"
+    },
+    "ice-cream": {
+      "name": "Saldējums",
+      "namePrep": "saldējums",
+      "serving": "1 tipiska porcija"
+    },
+    "cookie": {
+      "name": "Cepums",
+      "namePrep": "cepums",
+      "serving": "1 tipiska porcija"
+    },
+    "donut": {
+      "name": "Virtulis",
+      "namePrep": "virtulis",
+      "serving": "1 tipiska porcija"
+    },
+    "muffin": {
+      "name": "Mafins",
+      "namePrep": "mafins",
+      "serving": "1 tipiska porcija"
+    },
+    "cake": {
+      "name": "Kūka",
+      "namePrep": "kūka",
+      "serving": "1 tipiska porcija"
+    },
+    "brownie": {
+      "name": "Braunijs",
+      "namePrep": "braunijs",
+      "serving": "1 tipiska porcija"
+    },
+    "popcorn": {
+      "name": "Popkorns",
+      "namePrep": "popkorns",
+      "serving": "1 tipiska porcija"
+    },
+    "potato-chips": {
+      "name": "Kartupeļu čipsi",
+      "namePrep": "kartupeļu čipsi",
+      "serving": "1 tipiska porcija"
+    },
+    "pretzels": {
+      "name": "Sāļie kliņģerīši",
+      "namePrep": "sāļie kliņģerīši",
+      "serving": "1 tipiska porcija"
+    },
+    "smoothie": {
+      "name": "Smūtijs",
+      "namePrep": "smūtijs",
+      "serving": "1 vidējs augļu smūtijs"
+    },
+    "orange-juice": {
+      "name": "Apelsīnu sula",
+      "namePrep": "apelsīnu sula",
+      "serving": "1 glāze apelsīnu sulas"
+    },
+    "soda": {
+      "name": "Gāzēts dzēriens",
+      "namePrep": "gāzēts dzēriens",
+      "serving": "1 tipiska porcija"
+    },
+    "latte": {
+      "name": "Latte",
+      "namePrep": "latte",
+      "serving": "350 ml latte ar pienu"
+    },
+    "protein-shake": {
+      "name": "Olbaltumvielu kokteilis",
+      "namePrep": "olbaltumvielu kokteilis",
+      "serving": "1 tipiska porcija"
+    },
+    "spaghetti-bolognese": {
+      "name": "Spageti Boloņas mērcē",
+      "namePrep": "spageti boloņas mērcē",
+      "serving": "1 tipiska porcija"
+    },
+    "ramen": {
+      "name": "Rāmens",
+      "namePrep": "rāmens",
+      "serving": "1 tipiska porcija"
+    },
+    "pho": {
+      "name": "Pho zupa",
+      "namePrep": "pho zupa",
+      "serving": "1 tipiska porcija"
+    },
+    "chicken-soup": {
+      "name": "Vistas zupa",
+      "namePrep": "vistas zupa",
+      "serving": "1 tipiska porcija"
+    },
+    "caesar-salad": {
+      "name": "Cēzara salāti",
+      "namePrep": "cēzara salāti",
+      "serving": "1 tipiska porcija"
+    },
+    "green-salad": {
+      "name": "Zaļie salāti",
+      "namePrep": "zaļie salāti",
+      "serving": "1 tipiska porcija"
+    },
+    "broccoli": {
+      "name": "Brokoļi",
+      "namePrep": "brokoļi",
+      "serving": "1 tipiska porcija"
+    },
+    "spinach": {
+      "name": "Spināti",
+      "namePrep": "spināti",
+      "serving": "1 tipiska porcija"
+    },
+    "carrots": {
+      "name": "Burkāni",
+      "namePrep": "burkāni",
+      "serving": "1 tipiska porcija"
+    },
+    "corn": {
+      "name": "Kukurūza",
+      "namePrep": "kukurūza",
+      "serving": "1 tipiska porcija"
+    },
+    "tomato": {
+      "name": "Tomāts",
+      "namePrep": "tomāts",
+      "serving": "1 tipiska porcija"
+    },
+    "cucumber": {
+      "name": "Gurķis",
+      "namePrep": "gurķis",
+      "serving": "1 tipiska porcija"
+    },
+    "cheesecake": {
+      "name": "Siera kūka",
+      "namePrep": "siera kūka",
+      "serving": "1 tipiska porcija"
+    },
+    "lasagna": {
+      "name": "Lazanja",
+      "namePrep": "lazanja",
+      "serving": "1 tipiska porcija"
+    },
+    "grilled-cheese": {
+      "name": "Grilēta siera sviestmaize",
+      "namePrep": "grilēta siera sviestmaize",
+      "serving": "1 tipiska porcija"
+    },
+    "peanut-butter-jelly": {
+      "name": "Sviestmaize ar zemesriekstu sviestu un ievārījumu",
+      "namePrep": "sviestmaize ar zemesriekstu sviestu un ievārījumu",
+      "serving": "1 tipiska porcija"
+    },
+    "omelette": {
+      "name": "Omlete",
+      "namePrep": "omlete",
+      "serving": "1 tipiska porcija"
+    },
+    "fried-egg": {
+      "name": "Cepta ola",
+      "namePrep": "cepta ola",
+      "serving": "1 tipiska porcija"
+    },
+    "boiled-egg": {
+      "name": "Vārīta ola",
+      "namePrep": "vārīta ola",
+      "serving": "1 tipiska porcija"
+    },
+    "toast": {
+      "name": "Grauzdiņš",
+      "namePrep": "grauzdiņš",
+      "serving": "1 tipiska porcija"
+    },
+    "avocado-toast": {
+      "name": "Grauzdiņš ar avokado",
+      "namePrep": "grauzdiņš ar avokado",
+      "serving": "1 tipiska porcija"
+    },
+    "chicken-salad": {
+      "name": "Vistas salāti",
+      "namePrep": "vistas salāti",
+      "serving": "1 tipiska porcija"
+    },
+    "tuna-salad": {
+      "name": "Tunča salāti",
+      "namePrep": "tunča salāti",
+      "serving": "1 tipiska porcija"
+    },
+    "egg-salad": {
+      "name": "Olu salāti",
+      "namePrep": "olu salāti",
+      "serving": "1 tipiska porcija"
+    },
+    "cottage-cheese": {
+      "name": "Biezpiens",
+      "namePrep": "biezpiens",
+      "serving": "1 tipiska porcija"
+    },
+    "cream-cheese": {
+      "name": "Krēmsiers",
+      "namePrep": "krēmsiers",
+      "serving": "1 tipiska porcija"
+    },
+    "butter": {
+      "name": "Sviests",
+      "namePrep": "sviests",
+      "serving": "1 tipiska porcija"
+    },
+    "olive-oil": {
+      "name": "Olīveļļa",
+      "namePrep": "olīveļļa",
+      "serving": "1 tipiska porcija"
+    },
+    "mayonnaise": {
+      "name": "Majonēze",
+      "namePrep": "majonēze",
+      "serving": "1 tipiska porcija"
+    },
+    "ketchup": {
+      "name": "Kečups",
+      "namePrep": "kečups",
+      "serving": "1 tipiska porcija"
+    },
+    "honey": {
+      "name": "Medus",
+      "namePrep": "medus",
+      "serving": "1 tipiska porcija"
+    },
+    "jam": {
+      "name": "Ievārījums",
+      "namePrep": "ievārījums",
+      "serving": "1 tipiska porcija"
+    },
+    "protein-bar": {
+      "name": "Olbaltumvielu batoniņš",
+      "namePrep": "olbaltumvielu batoniņš",
+      "serving": "1 tipiska porcija"
+    },
+    "energy-drink": {
+      "name": "Enerģijas dzēriens",
+      "namePrep": "enerģijas dzēriens",
+      "serving": "1 tipiska porcija"
+    },
+    "matcha-latte": {
+      "name": "Matcha latte",
+      "namePrep": "matcha latte",
+      "serving": "1 tipiska porcija"
+    },
+    "trail-mix": {
+      "name": "Riekstu un žāvētu augļu maisījums",
+      "namePrep": "riekstu un žāvētu augļu maisījums",
+      "serving": "1 tipiska porcija"
+    },
+    "blueberries": {
+      "name": "Mellenes",
+      "namePrep": "mellenes",
+      "serving": "1 tipiska porcija"
+    },
+    "strawberries": {
+      "name": "Zemenes",
+      "namePrep": "zemenes",
+      "serving": "1 tipiska porcija"
+    },
+    "grapes": {
+      "name": "Vīnogas",
+      "namePrep": "vīnogas",
+      "serving": "1 tipiska porcija"
+    },
+    "orange": {
+      "name": "Apelsīns",
+      "namePrep": "apelsīns",
+      "serving": "1 tipiska porcija"
+    },
+    "pear": {
+      "name": "Bumbieris",
+      "namePrep": "bumbieris",
+      "serving": "1 tipiska porcija"
+    },
+    "peach": {
+      "name": "Persiks",
+      "namePrep": "persiks",
+      "serving": "1 tipiska porcija"
+    },
+    "watermelon": {
+      "name": "Arbūzs",
+      "namePrep": "arbūzs",
+      "serving": "1 tipiska porcija"
+    },
+    "pineapple": {
+      "name": "Ananass",
+      "namePrep": "ananass",
+      "serving": "1 tipiska porcija"
+    },
+    "mango": {
+      "name": "Mango",
+      "namePrep": "mango",
+      "serving": "1 tipiska porcija"
+    },
+    "kiwi": {
+      "name": "Kivi",
+      "namePrep": "kivi",
+      "serving": "1 tipiska porcija"
+    },
+    "raspberries": {
+      "name": "Avenes",
+      "namePrep": "avenes",
+      "serving": "1 tipiska porcija"
+    },
+    "blackberries": {
+      "name": "Kazenes",
+      "namePrep": "kazenes",
+      "serving": "1 tipiska porcija"
+    },
+    "cherries": {
+      "name": "Ķirši",
+      "namePrep": "ķirši",
+      "serving": "1 tipiska porcija"
+    },
+    "grapefruit": {
+      "name": "Greipfrūts",
+      "namePrep": "greipfrūts",
+      "serving": "1 tipiska porcija"
+    },
+    "lettuce": {
+      "name": "Lapu salāti",
+      "namePrep": "lapu salāti",
+      "serving": "1 tipiska porcija"
+    },
+    "cabbage": {
+      "name": "Kāposti",
+      "namePrep": "kāposti",
+      "serving": "1 tipiska porcija"
+    },
+    "cauliflower": {
+      "name": "Ziedkāposti",
+      "namePrep": "ziedkāposti",
+      "serving": "1 tipiska porcija"
+    },
+    "asparagus": {
+      "name": "Sparģeļi",
+      "namePrep": "sparģeļi",
+      "serving": "1 tipiska porcija"
+    },
+    "zucchini": {
+      "name": "Cukīni",
+      "namePrep": "cukīni",
+      "serving": "1 tipiska porcija"
+    },
+    "eggplant": {
+      "name": "Baklažāns",
+      "namePrep": "baklažāns",
+      "serving": "1 tipiska porcija"
+    },
+    "bell-pepper": {
+      "name": "Paprika",
+      "namePrep": "paprika",
+      "serving": "1 tipiska porcija"
+    },
+    "onion": {
+      "name": "Sīpols",
+      "namePrep": "sīpols",
+      "serving": "1 tipiska porcija"
+    },
+    "mushrooms": {
+      "name": "Sēnes",
+      "namePrep": "sēnes",
+      "serving": "1 tipiska porcija"
+    },
+    "green-beans": {
+      "name": "Zaļās pupiņas",
+      "namePrep": "zaļās pupiņas",
+      "serving": "1 tipiska porcija"
+    },
+    "kale": {
+      "name": "Kale kāposti",
+      "namePrep": "kale kāposti",
+      "serving": "1 tipiska porcija"
+    },
+    "beets": {
+      "name": "Bietes",
+      "namePrep": "bietes",
+      "serving": "1 tipiska porcija"
+    },
+    "turkey-breast": {
+      "name": "Tītara krūtiņa",
+      "namePrep": "tītara krūtiņa",
+      "serving": "1 tipiska porcija"
+    },
+    "chicken-thigh": {
+      "name": "Vistas šķiņķis",
+      "namePrep": "vistas šķiņķis",
+      "serving": "1 tipiska porcija"
+    },
+    "pork-chop": {
+      "name": "Cūkgaļas karbonāde",
+      "namePrep": "cūkgaļas karbonāde",
+      "serving": "1 tipiska porcija"
+    },
+    "ground-beef": {
+      "name": "Malta liellopa gaļa",
+      "namePrep": "malta liellopa gaļa",
+      "serving": "1 tipiska porcija"
+    },
+    "meatballs": {
+      "name": "Gaļas bumbiņas",
+      "namePrep": "gaļas bumbiņas",
+      "serving": "1 tipiska porcija"
+    },
+    "sausage": {
+      "name": "Desiņa",
+      "namePrep": "desiņa",
+      "serving": "1 tipiska porcija"
+    },
+    "cod": {
+      "name": "Menca",
+      "namePrep": "menca",
+      "serving": "1 tipiska porcija"
+    },
+    "tilapia": {
+      "name": "Tilapija",
+      "namePrep": "tilapija",
+      "serving": "1 tipiska porcija"
+    },
+    "sardines": {
+      "name": "Sardīnes",
+      "namePrep": "sardīnes",
+      "serving": "1 tipiska porcija"
+    },
+    "crab": {
+      "name": "Krabis",
+      "namePrep": "krabis",
+      "serving": "1 tipiska porcija"
+    },
+    "scallops": {
+      "name": "Jūras ķemmītes",
+      "namePrep": "jūras ķemmītes",
+      "serving": "1 tipiska porcija"
+    },
+    "smoked-salmon": {
+      "name": "Kūpināts lasis",
+      "namePrep": "kūpināts lasis",
+      "serving": "1 tipiska porcija"
+    },
+    "skim-milk": {
+      "name": "Vājpiens",
+      "namePrep": "vājpiens",
+      "serving": "1 tipiska porcija"
+    },
+    "soy-milk": {
+      "name": "Sojas piens",
+      "namePrep": "sojas piens",
+      "serving": "1 tipiska porcija"
+    },
+    "almond-milk": {
+      "name": "Mandeļu piens",
+      "namePrep": "mandeļu piens",
+      "serving": "1 tipiska porcija"
+    },
+    "oat-milk": {
+      "name": "Auzu piens",
+      "namePrep": "auzu piens",
+      "serving": "1 tipiska porcija"
+    },
+    "kefir": {
+      "name": "Kefīrs",
+      "namePrep": "kefīrs",
+      "serving": "1 tipiska porcija"
+    },
+    "sour-cream": {
+      "name": "Skābais krējums",
+      "namePrep": "skābais krējums",
+      "serving": "1 tipiska porcija"
+    },
+    "feta-cheese": {
+      "name": "Fetas siers",
+      "namePrep": "fetas siers",
+      "serving": "1 tipiska porcija"
+    },
+    "mozzarella": {
+      "name": "Mocarella",
+      "namePrep": "mocarella",
+      "serving": "1 tipiska porcija"
+    },
+    "parmesan": {
+      "name": "Parmezāns",
+      "namePrep": "parmezāns",
+      "serving": "1 tipiska porcija"
+    },
+    "couscous": {
+      "name": "Kuskuss",
+      "namePrep": "kuskuss",
+      "serving": "1 tipiska porcija"
+    },
+    "barley": {
+      "name": "Grūbas",
+      "namePrep": "grūbas",
+      "serving": "1 tipiska porcija"
+    },
+    "buckwheat": {
+      "name": "Griķi",
+      "namePrep": "griķi",
+      "serving": "1 tipiska porcija"
+    },
+    "bulgur": {
+      "name": "Bulgurs",
+      "namePrep": "bulgurs",
+      "serving": "1 tipiska porcija"
+    },
+    "naan": {
+      "name": "Naan maize",
+      "namePrep": "naan maize",
+      "serving": "1 tipiska porcija"
+    },
+    "pita-bread": {
+      "name": "Pitas maize",
+      "namePrep": "pitas maize",
+      "serving": "1 tipiska porcija"
+    },
+    "english-muffin": {
+      "name": "Angļu mafins",
+      "namePrep": "angļu mafins",
+      "serving": "1 tipiska porcija"
+    },
+    "rice-cake": {
+      "name": "Rīsu galete",
+      "namePrep": "rīsu galete",
+      "serving": "1 tipiska porcija"
+    },
+    "crackers": {
+      "name": "Krekeri",
+      "namePrep": "krekeri",
+      "serving": "1 tipiska porcija"
+    },
+    "mashed-potatoes": {
+      "name": "Kartupeļu biezenis",
+      "namePrep": "kartupeļu biezenis",
+      "serving": "1 tipiska porcija"
+    },
+    "scrambled-eggs": {
+      "name": "Olu kultenis",
+      "namePrep": "olu kultenis",
+      "serving": "1 tipiska porcija"
+    },
+    "french-toast": {
+      "name": "Franču grauzdiņi",
+      "namePrep": "franču grauzdiņi",
+      "serving": "1 tipiska porcija"
+    },
+    "breakfast-burrito": {
+      "name": "Brokastu burito",
+      "namePrep": "brokastu burito",
+      "serving": "1 tipiska porcija"
+    },
+    "hash-browns": {
+      "name": "Kartupeļu pankūciņas",
+      "namePrep": "kartupeļu pankūciņas",
+      "serving": "1 tipiska porcija"
+    },
+    "chia-pudding": {
+      "name": "Čia pudiņš",
+      "namePrep": "čia pudiņš",
+      "serving": "1 tipiska porcija"
+    },
+    "overnight-oats": {
+      "name": "Aukstā auzu putra",
+      "namePrep": "aukstā auzu putra",
+      "serving": "1 tipiska porcija"
+    },
+    "breakfast-sandwich": {
+      "name": "Brokastu sviestmaize",
+      "namePrep": "brokastu sviestmaize",
+      "serving": "1 tipiska porcija"
+    },
+    "edamame": {
+      "name": "Edamame pupiņas",
+      "namePrep": "edamame pupiņas",
+      "serving": "1 tipiska porcija"
+    },
+    "kidney-beans": {
+      "name": "Sarkanās pupiņas",
+      "namePrep": "sarkanās pupiņas",
+      "serving": "1 tipiska porcija"
+    },
+    "pinto-beans": {
+      "name": "Pinto pupiņas",
+      "namePrep": "pinto pupiņas",
+      "serving": "1 tipiska porcija"
+    },
+    "split-peas": {
+      "name": "Šķeltie zirņi",
+      "namePrep": "šķeltie zirņi",
+      "serving": "1 tipiska porcija"
+    },
+    "baked-beans": {
+      "name": "Ceptas pupiņas",
+      "namePrep": "ceptas pupiņas",
+      "serving": "1 tipiska porcija"
+    },
+    "fried-rice": {
+      "name": "Cepti rīsi",
+      "namePrep": "cepti rīsi",
+      "serving": "1 tipiska porcija"
+    },
+    "pad-thai": {
+      "name": "Pad Thai",
+      "namePrep": "pad thai",
+      "serving": "1 tipiska porcija"
+    },
+    "chicken-curry": {
+      "name": "Vistas karijs",
+      "namePrep": "vistas karijs",
+      "serving": "1 tipiska porcija"
+    },
+    "chicken-tikka-masala": {
+      "name": "Vistas tikka masala",
+      "namePrep": "vistas tikka masala",
+      "serving": "1 tipiska porcija"
+    },
+    "beef-chili": {
+      "name": "Liellopa čili",
+      "namePrep": "liellopa čili",
+      "serving": "1 tipiska porcija"
+    },
+    "falafel": {
+      "name": "Falafels",
+      "namePrep": "falafels",
+      "serving": "1 tipiska porcija"
+    },
+    "dumplings": {
+      "name": "Pelmeņi",
+      "namePrep": "pelmeņi",
+      "serving": "1 tipiska porcija"
+    },
+    "spring-rolls": {
+      "name": "Pavasara rullīši",
+      "namePrep": "pavasara rullīši",
+      "serving": "1 tipiska porcija"
+    },
+    "quesadilla": {
+      "name": "Kesadilja",
+      "namePrep": "kesadilja",
+      "serving": "1 tipiska porcija"
+    },
+    "nachos": {
+      "name": "Načos",
+      "namePrep": "načos",
+      "serving": "1 tipiska porcija"
+    },
+    "mac-and-cheese": {
+      "name": "Makaroni ar sieru",
+      "namePrep": "makaroni ar sieru",
+      "serving": "1 tipiska porcija"
+    },
+    "chicken-wings": {
+      "name": "Vistas spārniņi",
+      "namePrep": "vistas spārniņi",
+      "serving": "1 tipiska porcija"
+    },
+    "fish-and-chips": {
+      "name": "Zivs ar frī kartupeļiem",
+      "namePrep": "zivs ar frī kartupeļiem",
+      "serving": "1 tipiska porcija"
+    },
+    "risotto": {
+      "name": "Rizoto",
+      "namePrep": "rizoto",
+      "serving": "1 tipiska porcija"
+    },
+    "tortilla-chips": {
+      "name": "Tortiljas čipsi",
+      "namePrep": "tortiljas čipsi",
+      "serving": "1 tipiska porcija"
+    },
+    "granola-bar": {
+      "name": "Granolas batoniņš",
+      "namePrep": "granolas batoniņš",
+      "serving": "1 tipiska porcija"
+    },
+    "chocolate-bar": {
+      "name": "Šokolādes batoniņš",
+      "namePrep": "šokolādes batoniņš",
+      "serving": "1 tipiska porcija"
+    },
+    "candy": {
+      "name": "Konfektes",
+      "namePrep": "konfektes",
+      "serving": "1 tipiska porcija"
+    },
+    "cinnamon-roll": {
+      "name": "Kanēļmaizīte",
+      "namePrep": "kanēļmaizīte",
+      "serving": "1 tipiska porcija"
+    },
+    "marshmallows": {
+      "name": "Zefīri",
+      "namePrep": "zefīri",
+      "serving": "1 tipiska porcija"
+    },
+    "fruit-snacks": {
+      "name": "Augļu uzkodas",
+      "namePrep": "augļu uzkodas",
+      "serving": "1 tipiska porcija"
+    },
+    "black-coffee": {
+      "name": "Melna kafija",
+      "namePrep": "melna kafija",
+      "serving": "1 tasīte melnas kafijas"
+    },
+    "cappuccino": {
+      "name": "Kapučīno",
+      "namePrep": "kapučīno",
+      "serving": "1 tipiska porcija"
+    },
+    "milk-tea": {
+      "name": "Tēja ar pienu",
+      "namePrep": "tēja ar pienu",
+      "serving": "1 tipiska porcija"
+    },
+    "bubble-tea": {
+      "name": "Burbuļtēja",
+      "namePrep": "burbuļtēja",
+      "serving": "1 tipiska porcija"
+    },
+    "lemonade": {
+      "name": "Limonāde",
+      "namePrep": "limonāde",
+      "serving": "1 tipiska porcija"
+    },
+    "iced-tea": {
+      "name": "Aukstā tēja",
+      "namePrep": "aukstā tēja",
+      "serving": "1 tipiska porcija"
+    },
+    "apple-juice": {
+      "name": "Ābolu sula",
+      "namePrep": "ābolu sula",
+      "serving": "1 tipiska porcija"
+    },
+    "coconut-water": {
+      "name": "Kokosriekstu ūdens",
+      "namePrep": "kokosriekstu ūdens",
+      "serving": "1 tipiska porcija"
+    },
+    "sports-drink": {
+      "name": "Sporta dzēriens",
+      "namePrep": "sporta dzēriens",
+      "serving": "1 tipiska porcija"
+    },
+    "ranch-dressing": {
+      "name": "Ranch mērce",
+      "namePrep": "ranch mērce",
+      "serving": "1 tipiska porcija"
+    },
+    "bbq-sauce": {
+      "name": "Barbekjū mērce",
+      "namePrep": "barbekjū mērce",
+      "serving": "1 tipiska porcija"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "salsa",
+      "serving": "1 tipiska porcija"
+    },
+    "guacamole": {
+      "name": "Gvakamole",
+      "namePrep": "gvakamole",
+      "serving": "1 tipiska porcija"
+    }
+  },
+  "utility": {
+    "pricing": "Cenas",
+    "support": "Atbalsts",
+    "privacy": "Privātums",
+    "terms": "Noteikumi",
+    "press": "Preses materiāli",
+    "deleteExtra": "Lai pieprasītu konta vai datu dzēšanu, raksti no ar kontu saistītās e-pasta adreses un tēmas laukā norādi “Dzēst kontu”."
+  },
+  "store": {
+    "appStoreSmall": "Lejupielādēt",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Lejupielādēt",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Funkcija",
+    "useCase": "Lietošanas gadījums",
+    "openPage": "Atvērt lapu →",
+    "openArrow": "Atvērt →",
+    "practicalWorkflow": "Praktiska darba plūsma",
+    "workflowTitle": "Kā to lietot",
+    "goodToKnow": "Noderīgi zināt",
+    "defaultNote": "Uztura novērtējumi ir aptuveni un paredzēti informatīviem nolūkiem.",
+    "relatedPages": "Saistītās lapas",
+    "quickTakeaway": "Īss kopsavilkums",
+    "defaultTakeaway": "Labākais rezultāts rodas, ja AI novērtējumu izmanto kā sākumpunktu un pārbaudi porciju.",
+    "information": "Informācija",
+    "bestFor": "Piemērots"
+  },
+  "internalCta": {
+    "title": "Skaiti kalorijas vienkāršāk",
+    "text": "Nofotografē ēdienu, pārbaudi AI novērtējumu un dažās sekundēs saglabā maltīti uztura dienasgrāmatā.",
+    "button": "Lejupielādēt lietotni"
+  },
+  "download": {
+    "availableTitle": "iPhone un Android",
+    "availableText": "Lejupielādē Calorie Counter AI iPhone vai Android ierīcei un pārvērt nākamo ēdiena foto dienasgrāmatas ierakstā."
+  },
+  "faq": {
+    "items": [
+      [
+        "Vai Calorie Counter AI ir bez maksas?",
+        "Vari sākt bez maksas ar ikdienas AI maltīšu analīzēm. Maksas versijā var būt pieejamas premium funkcijas un augstāki limiti."
+      ],
+      [
+        "Vai varu skaitīt kalorijas pēc foto?",
+        "Jā. Nofotografē šķīvi, un lietotne novērtēs redzamo ēdienu kalorijas, makroelementus un porcijas svaru."
+      ],
+      [
+        "Cik precīzs ir AI kaloriju skaitītājs?",
+        "Tas ir aptuvens novērtējums. Precizitāti ietekmē foto kvalitāte, redzamā porcija, slēptas sastāvdaļas, mērces un tavi labojumi."
+      ],
+      [
+        "Vai lietotne seko makroelementiem?",
+        "Jā. Dienasgrāmatā redzēsi olbaltumvielas, taukus un ogļhidrātus līdzās kalorijām."
+      ],
+      [
+        "Vai lietotne ir pieejama iPhone un Android?",
+        "Jā. Lietotne ir pieejama App Store un Google Play."
+      ],
+      [
+        "Vai tas ir medicīnisks padoms?",
+        "Nē. Calorie Counter AI sniedz aptuvenus uzturvērtības novērtējumus informatīviem nolūkiem un neaizstāj ārsta vai uztura speciālista padomu."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Vari sākt bez maksas ar ikdienas AI ēdiena analīzēm. Lietotnē vai veikalā vienmēr redzēsi aktuālos abonementus, izmēģinājuma periodus un cenas.",
+      "Premium funkcijas var noderēt, ja nepieciešami augstāki limiti, vairāk analīžu vai papildu rīki regulārai uzskaitei."
+    ],
+    "support": [
+      "Nepieciešama palīdzība? Sazinies ar atbalstu un pievieno ierīces modeli, platformu, lietotnes versiju un īsu problēmas aprakstu.",
+      "Jo precīzāk aprakstīsi problēmu, jo vieglāk būs to atkārtot un atrisināt."
+    ],
+    "contact": [
+      "Atbalsta e-pasts: support@caloriecounterai.app",
+      "Sadarbības, mediju un atsauksmju jautājumiem izmanto skaidru tēmas aprakstu."
+    ],
+    "privacy": [
+      "Calorie Counter AI ir veidots ēdiena uzskaitei un apzinātai uztura sekošanai. Dati var ietvert maltītes, fotoattēlus, iestatījumus un tehnisko informāciju, kas nepieciešama pakalpojuma darbībai.",
+      "Mēs izmantojam datus lietotnes darbības nodrošināšanai, pieredzes uzlabošanai un lietotāja izvēļu atcerēšanai saskaņā ar privātuma principiem."
+    ],
+    "terms": [
+      "Lietojot Calorie Counter AI, tu piekrīti izmantot lietotni kā informatīvu uztura rīku un pārbaudīt novērtējumus pirms paļaušanās uz tiem.",
+      "Tu esi atbildīgs par saviem veselības lēmumiem, un vajadzības gadījumā jākonsultējas ar kvalificētu speciālistu."
+    ],
+    "disclaimer": [
+      "Calorie Counter AI sniedz aptuvenus uzturvērtības novērtējumus informatīviem nolūkiem un neaizstāj medicīnisku vai dietoloģisku padomu.",
+      "Ja tev ir veselības stāvoklis, īpaša diēta, grūtniecība, ēšanas traucējumi vai cita ar veselību saistīta situācija, pirms uztura izmaiņām konsultējies ar speciālistu."
+    ],
+    "delete": [
+      "Lai pieprasītu konta vai datu dzēšanu, raksti no ar kontu saistītās e-pasta adreses un tēmas laukā norādi “Dzēst kontu”.",
+      "Vajadzības gadījumā nosūtīsim norādījumus, kā apstiprināt un pabeigt pieprasījumu."
+    ]
+  },
+  "press": {
+    "iconAlt": "Lietotnes ikona",
+    "iconTitle": "Lietotnes ikona",
+    "downloadIcon": "Lejupielādēt ikonu",
+    "screenshotAlt": "Lietotnes ekrānuzņēmums",
+    "screenshotTitle": "Ekrānuzņēmums",
+    "downloadScreenshot": "Lejupielādēt ekrānuzņēmumu",
+    "shortDescriptionTitle": "AI kaloriju skaitītājs pēc ēdiena foto",
+    "shortDescriptionText": "Calorie Counter AI palīdz pēc foto novērtēt kalorijas, makroelementus un porcijas lielumu, kā arī uzturēt vienkāršu uztura dienasgrāmatu."
+  },
+  "notFound": {
+    "title": "404",
+    "text": "Šī lapa vēl nepastāv vai adrese ir ievadīta nepareizi.",
+    "home": "Uz sākumlapu"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Funkcijas",
+      "h1": "Rīki ātrākai uztura uzskaitei",
+      "description": "Foto, svītrkodi, dienasgrāmata, makroelementi, mērķi, statistika un Health Connect — viss, kas palīdz uzturu pierakstīt ātrāk un regulārāk.",
+      "kicker": "Produkta pārskats",
+      "summary": "Lietotnes galvenā ideja ir padarīt ēdiena pierakstīšanu tik vienkāršu, lai pie tās gribētos atgriezties katru dienu.",
+      "bullets": [
+        "Foto analīze ēdieniem bez etiķetes",
+        "Svītrkodu skeneris iepakotiem produktiem",
+        "Rediģējami kaloriju un makroelementu novērtējumi",
+        "Dienasgrāmata, mērķi un progresa grafiki"
+      ],
+      "sections": [
+        [
+          "Izvēlies ātrāko ievades veidu",
+          "Mājas ēdiens, veikala jogurts un restorāna burgers nav jāreģistrē vienādi. Izmanto foto, svītrkodu vai manuālu ierakstu atkarībā no situācijas."
+        ],
+        [
+          "Pārbaudi novērtējumu",
+          "AI dod ērtu melnrakstu. Mērces, eļļu un porcijas lielumu labāk apstiprināt pirms saglabāšanas."
+        ],
+        [
+          "Veido ieradumu",
+          "Svarīgs nav viens iespaidīgs skenējums, bet atkārtojama dienasgrāmata, kas parāda tendences."
+        ]
+      ],
+      "workflowTitle": "Izvēlies uzskaites veidu konkrētam ēdienam",
+      "workflow": [
+        "Ja ēdienam nav etiķetes, sāc ar foto. Ja produkts ir iepakojumā, skenē svītrkodu. Ja sastāvu zini labāk par lietotni, izlabo porciju vai sastāvdaļas manuāli.",
+        "Tā dienasgrāmata paliek ātra, bet ne akla: lietotne palīdz sākt ierakstu, un lietotājs apstiprina precizitātei svarīgās detaļas."
+      ],
+      "note": "Automatizācija nav domāta kontroles atņemšanai, bet liekas rutīnas samazināšanai. Porcijas un sastāva pārbaude joprojām ir svarīga.",
+      "bestFor": [
+        "ātrs sākums",
+        "dažādi ēdiena tipi",
+        "rediģējami novērtējumi",
+        "ikdienas ieradums"
+      ],
+      "workflowKicker": "Kā tas strādā",
+      "noteTitle": "Galvenais princips"
+    },
+    "/food-recognition-ai/": {
+      "title": "AI ēdiena atpazīšana",
+      "h1": "Atpazīsti ēdienu pēc foto",
+      "description": "Nofotografē šķīvi un saņem praktisku sākuma novērtējumu par kalorijām, makroelementiem un porciju.",
+      "kicker": "Foto analīze",
+      "summary": "AI atpazīšana ir ātrākais veids, kā sākt pierakstu, kad nav etiķetes vai precīzas receptes.",
+      "bullets": [
+        "Foto ēdieniem bez etiķetes",
+        "Vairāku sastāvdaļu maltītes",
+        "Rediģējamas porcijas",
+        "Noderīgi mājās un restorānā"
+      ],
+      "sections": [
+        [
+          "Sāc ar skaidru foto",
+          "Jo labāk redzama porcija un sastāvdaļas, jo vieglāk iegūt noderīgu novērtējumu."
+        ],
+        [
+          "Pievieno slēptās detaļas",
+          "Eļļa, mērces, cukurs un rieksti fotoattēlā var nebūt redzami, bet kalorijās ir svarīgi."
+        ],
+        [
+          "Saglabā tikai pēc pārbaudes",
+          "Pirms dienasgrāmatas ieraksta apstiprini porciju un sastāvdaļas."
+        ]
+      ],
+      "workflowTitle": "No foto līdz dienasgrāmatai",
+      "workflow": [
+        "Nofotografē maltīti, apskati AI ieteikumu, izlabo svarīgās detaļas un saglabā rezultātu dienas mērķos.",
+        "Šī pieeja samazina manuālu meklēšanu, bet joprojām atstāj lietotājam kontroli pār precizitāti."
+      ],
+      "note": "Foto analīze ir praktisks sākumpunkts, ne laboratorisks mērījums.",
+      "bestFor": [
+        "mājas ēdiens",
+        "restorāni",
+        "jaukti ēdieni",
+        "ātra uzskaite"
+      ],
+      "workflowKicker": "Kā tas strādā",
+      "noteTitle": "Galvenais princips"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Svītrkodu kaloriju skeneris",
+      "h1": "Skenē iepakotus produktus",
+      "description": "Izmanto svītrkodu skeneri, lai ātri pievienotu jogurtus, dzērienus, uzkodas un citus produktus dienasgrāmatai.",
+      "kicker": "Svītrkodi",
+      "summary": "Iepakotiem produktiem svītrkods bieži ir ātrāks nekā foto vai manuāla meklēšana.",
+      "bullets": [
+        "Iepakoti produkti",
+        "Ātra produkta apstiprināšana",
+        "Kalorijas un makroelementi",
+        "Mazāk manuālas ievades"
+      ],
+      "sections": [
+        [
+          "Noskenē iepakojumu",
+          "Pavērs kameru pret svītrkodu un pārbaudi atrasto produktu."
+        ],
+        [
+          "Pārbaudi porciju",
+          "Produkts var būt pareizs, bet apēstais daudzums jāapstiprina atsevišķi."
+        ],
+        [
+          "Saglabā dienasgrāmatā",
+          "Pievieno kalorijas un makroelementus dienas kopsavilkumam."
+        ]
+      ],
+      "workflowTitle": "Ātra iepakotu produktu ievade",
+      "workflow": [
+        "Skenē produktu, apstiprini nosaukumu un pielāgo porciju pirms saglabāšanas.",
+        "Īpaši noderīgi bieži pirktiem produktiem, dzērieniem un uzkodām."
+      ],
+      "note": "Svītrkods palīdz atrast produktu, bet porcijas lielums joprojām ir jāpārbauda.",
+      "bestFor": [
+        "veikala produkti",
+        "dzērieni",
+        "uzkodas",
+        "ātra ievade"
+      ],
+      "workflowKicker": "Kā tas strādā",
+      "noteTitle": "Galvenais princips"
+    },
+    "/macro-tracker/": {
+      "title": "Makroelementu uzskaite",
+      "h1": "Seko olbaltumvielām, taukiem un ogļhidrātiem",
+      "description": "Skati makroelementus kopā ar kalorijām, lai labāk saprastu, no kā veidojas dienas enerģija.",
+      "kicker": "Makroelementi",
+      "summary": "Kalorijas parāda enerģiju, bet makroelementi palīdz saprast maltītes sastāvu.",
+      "bullets": [
+        "Olbaltumvielas",
+        "Tauki",
+        "Ogļhidrāti",
+        "Dienas kopsavilkums"
+      ],
+      "sections": [
+        [
+          "Sāc ar olbaltumvielām",
+          "Daudziem mērķiem olbaltumvielas ir pirmais makro, kam vērts sekot."
+        ],
+        [
+          "Skaties visu dienu",
+          "Vienai maltītei nav jābūt ideālai, ja dienas kopskats ir saprātīgs."
+        ],
+        [
+          "Savieno ar kalorijām",
+          "Makroelementi ir noderīgi tikai kopā ar kopējo enerģijas daudzumu."
+        ]
+      ],
+      "workflowTitle": "Skati makroelementus kopā ar dienas mērķi",
+      "workflow": [
+        "Pievieno maltītes un vēro, kā mainās olbaltumvielas, tauki un ogļhidrāti.",
+        "Ja nepieciešams, pielāgo ierakstus pēc porcijas, receptes vai zīmola."
+      ],
+      "note": "Makroelementu uzskaitei nav jābūt sarežģītai: sākumā pietiek ar kalorijām un olbaltumvielām.",
+      "bestFor": [
+        "olbaltumvielas",
+        "dienas mērķi",
+        "muskuļu masa",
+        "uztura kvalitāte"
+      ],
+      "workflowKicker": "Kā tas strādā",
+      "noteTitle": "Galvenais princips"
+    },
+    "/food-diary-app/": {
+      "title": "Uztura dienasgrāmatas lietotne",
+      "h1": "Veido vienkāršu uztura dienasgrāmatu",
+      "description": "Saglabā maltītes ar foto, svītrkodu vai manuāli un skati dienas kopainu bez liekas rutīnas.",
+      "kicker": "Dienasgrāmata",
+      "summary": "Laba dienasgrāmata ir tāda, kuru iespējams lietot arī parastā, aizņemtā dienā.",
+      "bullets": [
+        "Maltītes ar foto",
+        "Atkārtotas maltītes",
+        "Dienas kopsavilkums",
+        "Vizuāla vēsture"
+      ],
+      "sections": [
+        [
+          "Pieraksti uzreiz",
+          "Jo vieglāk pievienot maltīti, jo mazāka iespēja to aizmirst."
+        ],
+        [
+          "Skaties tendences",
+          "Atsevišķa diena nav tik svarīga kā atkārtoti paradumi."
+        ],
+        [
+          "Atstāj vietu labojumiem",
+          "Neprecīzu novērtējumu var uzlabot pēc porcijas vai sastāvdaļām."
+        ]
+      ],
+      "workflowTitle": "Saglabā maltīti tad, kad tā notiek",
+      "workflow": [
+        "Nofotografē, pārbaudi un saglabā, lai dienas beigās nav jāatceras viss no galvas.",
+        "Vizuāli ieraksti palīdz labāk atcerēties porcijas un ēdienu izvēles."
+      ],
+      "note": "Dienasgrāmatai nav jābūt perfektai; tai jābūt pietiekami vienkāršai un godīgai.",
+      "bestFor": [
+        "ikdienas uzskaite",
+        "vizuāla vēsture",
+        "paradumu pamanīšana",
+        "mazāk aizmirstu maltīšu"
+      ],
+      "workflowKicker": "Kā tas strādā",
+      "noteTitle": "Galvenais princips"
+    },
+    "/nutrition-tracker/": {
+      "title": "Uztura uzskaite",
+      "h1": "Skati uzturu saprotamā dienas skatā",
+      "description": "Apvieno kalorijas, makroelementus, porcijas un maltīšu vēsturi, lai labāk saprastu savu uzturu.",
+      "kicker": "Uzturs",
+      "summary": "Uztura uzskaite palīdz pamanīt ne tikai skaitļus, bet arī paradumus.",
+      "bullets": [
+        "Kalorijas",
+        "Makroelementi",
+        "Porcijas",
+        "Maltīšu vēsture"
+      ],
+      "sections": [
+        [
+          "Skaties kontekstu",
+          "Svarīgs ir ne tikai viens produkts, bet visa diena."
+        ],
+        [
+          "Pievērs uzmanību atkārtojumiem",
+          "Dzērieni, uzkodas un mērces bieži atkārtojas un ietekmē rezultātu."
+        ],
+        [
+          "Izmanto datus mierīgi",
+          "Mērķis ir skaidrība, ne perfekta kontrole."
+        ]
+      ],
+      "workflowTitle": "No maltītēm līdz kopainai",
+      "workflow": [
+        "Pievieno ēdienus un skaties, kā tie ietekmē dienas kopsavilkumu.",
+        "Tā vieglāk saprast, kuras izvēles palīdz vai traucē mērķim."
+      ],
+      "note": "Uztura uzskaite ir rīks lēmumu pieņemšanai, ne pašmērķis.",
+      "bestFor": [
+        "skaidrāks uzturs",
+        "ikdienas tendences",
+        "mērķi",
+        "paškontrole"
+      ],
+      "workflowKicker": "Kā tas strādā",
+      "noteTitle": "Galvenais princips"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Porcijas svara novērtētājs",
+      "h1": "Novērtē porcijas svaru pēc foto",
+      "description": "Saņem sākuma novērtējumu porcijas lielumam un pielāgo to, ja zini precīzāku daudzumu.",
+      "kicker": "Porcijas",
+      "summary": "Porcijas lielums bieži vairāk ietekmē kalorijas nekā pats produkta nosaukums.",
+      "bullets": [
+        "Porcijas novērtējums",
+        "Rediģējams svars",
+        "Noderīgi bez svariem",
+        "Labāka kaloriju uzskaite"
+      ],
+      "sections": [
+        [
+          "Foto dod sākumu",
+          "AI var palīdzēt saprast, vai porcija ir maza, vidēja vai liela."
+        ],
+        [
+          "Pārbaudi pēc sajūtas",
+          "Ja apēdi tikai daļu, izlabo ierakstu."
+        ],
+        [
+          "Izmanto svarus, ja vajag precizitāti",
+          "Foto ir ērts, bet virtuves svari joprojām ir precīzāki."
+        ]
+      ],
+      "workflowTitle": "Sāc ar novērtējumu, pēc tam pielāgo",
+      "workflow": [
+        "Pēc foto saņem porcijas melnrakstu un nepieciešamības gadījumā maini gramus.",
+        "Tas ļauj saglabāt ātrumu un vienlaikus uzlabot precizitāti."
+      ],
+      "note": "Porcijas pārbaude ir viens no vienkāršākajiem veidiem, kā uzlabot kaloriju dienasgrāmatu.",
+      "bestFor": [
+        "ēdieni bez etiķetes",
+        "restorāni",
+        "mājas receptes",
+        "porcijas kontrole"
+      ],
+      "workflowKicker": "Kā tas strādā",
+      "noteTitle": "Galvenais princips"
+    },
+    "/progress-statistics/": {
+      "title": "Progresa statistika",
+      "h1": "Skati progresu pa dienām un nedēļām",
+      "description": "Seko kaloriju un makroelementu tendencēm, lai labāk saprastu, kas notiek ilgākā periodā.",
+      "kicker": "Progress",
+      "summary": "Atsevišķs ieraksts var būt neprecīzs; tendence laika gaitā ir daudz noderīgāka.",
+      "bullets": [
+        "Dienas kopsavilkumi",
+        "Nedēļas tendences",
+        "Makroelementu pārskats",
+        "Mērķu salīdzināšana"
+      ],
+      "sections": [
+        [
+          "Skaties vidējo",
+          "Viena diena reti parāda visu."
+        ],
+        [
+          "Meklē atkārtojumus",
+          "Biežas uzkodas, dzērieni vai lielas porcijas parādās datos."
+        ],
+        [
+          "Pielāgo mērķus",
+          "Ja tendence neatbilst mērķim, maini ikdienas izvēles."
+        ]
+      ],
+      "workflowTitle": "No dienas ierakstiem līdz tendencēm",
+      "workflow": [
+        "Regulāri pievieno maltītes, un statistika sāk rādīt, kas atkārtojas.",
+        "Tas palīdz pieņemt praktiskus, nevis impulsīvus lēmumus."
+      ],
+      "note": "Progress jāvērtē pēc ilgāka perioda, ne pēc vienas maltītes.",
+      "bestFor": [
+        "tendences",
+        "mērķi",
+        "nedēļas pārskats",
+        "paradumi"
+      ],
+      "workflowKicker": "Kā tas strādā",
+      "noteTitle": "Galvenais princips"
+    },
+    "/meal-reminders/": {
+      "title": "Maltīšu atgādinājumi",
+      "h1": "Neaizmirsti pierakstīt maltītes",
+      "description": "Atgādinājumi palīdz uzturēt dienasgrāmatu, ja diena ir aizņemta un ieraksti viegli aizmirstas.",
+      "kicker": "Atgādinājumi",
+      "summary": "Uzskaite strādā labāk, ja maltītes tiek pierakstītas laikus.",
+      "bullets": [
+        "Regulāri atgādinājumi",
+        "Mazāk aizmirstu ierakstu",
+        "Ikdienas ritms",
+        "Vieglāks ieradums"
+      ],
+      "sections": [
+        [
+          "Iestati sev piemērotu ritmu",
+          "Atgādinājumiem jāpalīdz, nevis jātraucē."
+        ],
+        [
+          "Pieraksti tuvu maltītei",
+          "Tā porcijas un piedevas vēl ir svaigā atmiņā."
+        ],
+        [
+          "Izslēdz, ja nevajag",
+          "Labākais rīks ir tas, kas iederas tavā ikdienā."
+        ]
+      ],
+      "workflowTitle": "Atgādinājumi kā ieraduma balsts",
+      "workflow": [
+        "Izmanto atgādinājumus dienās, kad pierakstīšana mēdz pazust starp citiem darbiem.",
+        "Kad ieradums nostiprinās, tos var pielāgot vai samazināt."
+      ],
+      "note": "Atgādinājumi ir palīglīdzeklis, ne spiediens.",
+      "bestFor": [
+        "aizņemtas dienas",
+        "jauns ieradums",
+        "regulāra uzskaite",
+        "mazāk aizmirstu maltīšu"
+      ],
+      "workflowKicker": "Kā tas strādā",
+      "noteTitle": "Galvenais princips"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Savieno uztura uzskaiti ar veselības datiem",
+      "description": "Health Connect palīdz apvienot saderīgus veselības un aktivitātes datus vienā ekosistēmā Android ierīcēs.",
+      "kicker": "Integrācija",
+      "summary": "Uztura dati kļūst noderīgāki, ja tos var skatīt kopā ar aktivitāti un citiem rādītājiem.",
+      "bullets": [
+        "Android ekosistēma",
+        "Saderīgi dati",
+        "Plašāks konteksts",
+        "Lietotāja kontrole"
+      ],
+      "sections": [
+        [
+          "Pārbaudi atļaujas",
+          "Datu kopīgošanai jābūt skaidrai un kontrolējamai."
+        ],
+        [
+          "Skaties kopainu",
+          "Aktivitāte un uzturs kopā dod labāku kontekstu."
+        ],
+        [
+          "Saglabā privātumu",
+          "Dalies tikai ar tiem datiem, kas nepieciešami."
+        ]
+      ],
+      "workflowTitle": "Savieno tikai vajadzīgo",
+      "workflow": [
+        "Ja izmanto Android un saderīgas lietotnes, Health Connect var palīdzēt apvienot datus ērtāk.",
+        "Atļaujas vienmēr pārbaudi ierīces iestatījumos."
+      ],
+      "note": "Integrācijas ir noderīgas tikai tad, ja tās paliek saprotamas un kontrolējamas.",
+      "bestFor": [
+        "Android",
+        "veselības dati",
+        "aktivitāte",
+        "plašāks konteksts"
+      ],
+      "workflowKicker": "Kā tas strādā",
+      "noteTitle": "Galvenais princips"
+    },
+    "/data-export/": {
+      "title": "Datu eksports",
+      "h1": "Iznes savus uztura datus",
+      "description": "Eksports palīdz saglabāt ierakstus ārpus lietotnes vai analizēt tos citos rīkos, ja tas nepieciešams.",
+      "kicker": "Dati",
+      "summary": "Uztura dienasgrāmata ir noderīgāka, ja lietotājs kontrolē savus ierakstus.",
+      "bullets": [
+        "Datu kontrole",
+        "Ārēja analīze",
+        "Rezerves kopija",
+        "Elastīga izmantošana"
+      ],
+      "sections": [
+        [
+          "Eksportē, kad vajag",
+          "Nav jāeksportē katru dienu, bet iespēja ir noderīga."
+        ],
+        [
+          "Saglabā kontekstu",
+          "Skaitļi bez datuma un maltītes var būt mazāk noderīgi."
+        ],
+        [
+          "Sargā privātumu",
+          "Uztura dati var būt personīgi, tāpēc glabā tos droši."
+        ]
+      ],
+      "workflowTitle": "Dati paliek tavā kontrolē",
+      "workflow": [
+        "Izmanto eksportu, ja vēlies pārskatīt ierakstus citur vai saglabāt kopiju.",
+        "Pirms kopīgošanas pārliecinies, ka datos nav informācijas, ko nevēlies atklāt."
+      ],
+      "note": "Eksports ir kontroles un pārskatāmības funkcija.",
+      "bestFor": [
+        "datu kontrole",
+        "analīze",
+        "rezerves kopija",
+        "privātums"
+      ],
+      "workflowKicker": "Kā tas strādā",
+      "noteTitle": "Galvenais princips"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Kaloriju skaitītājs svara samazināšanai",
+      "h1": "Padari kaloriju deficītu redzamu",
+      "description": "Seko kalorijām, porcijām un makroelementiem, lai svara samazināšana būtu skaidrāka un ilgtspējīgāka.",
+      "kicker": "Svara samazināšana",
+      "summary": "Mērķis nav perfekta kontrole, bet skaidra ikdienas atgriezeniskā saite.",
+      "bullets": [
+        "Dienas mērķis",
+        "Porciju pārbaude",
+        "Makroelementu pārskats",
+        "Nedēļas tendence"
+      ],
+      "sections": [
+        [
+          "Sāc ar vienkāršu ierakstu",
+          "Pievieno maltīti pēc foto vai svītrkoda un pārbaudi svarīgākās detaļas."
+        ],
+        [
+          "Skaties visu dienu",
+          "Viena maltīte reti nosaka rezultātu; svarīga ir kopaina."
+        ],
+        [
+          "Pielāgo ilgtermiņā",
+          "Izmanto tendences, lai mainītu mērķus vai ikdienas izvēles."
+        ]
+      ],
+      "workflowTitle": "Praktiska mērķa uzskaite",
+      "workflow": [
+        "Pievieno maltītes, salīdzini ar dienas mērķi un labo porcijas, ja novērtējums neatbilst realitātei.",
+        "Tā mērķis kļūst redzams bez sarežģītām tabulām."
+      ],
+      "note": "Uztura novērtējumi ir informatīvi un nav medicīnisks padoms.",
+      "bestFor": [
+        "mērķis",
+        "ikdienas uzskaite",
+        "porcijas",
+        "tendences"
+      ],
+      "workflowKicker": "Kā tas strādā",
+      "noteTitle": "Galvenais princips"
+    },
+    "/calorie-deficit-app/": {
+      "title": "Kaloriju deficīta lietotne",
+      "h1": "Seko kaloriju deficītam praktiski",
+      "description": "Redzi uzņemtās kalorijas, maltīšu sastāvu un dienas mērķi, lai deficīts nebūtu minēšana.",
+      "kicker": "Kaloriju deficīts",
+      "summary": "Mērķis nav perfekta kontrole, bet skaidra ikdienas atgriezeniskā saite.",
+      "bullets": [
+        "Dienas mērķis",
+        "Porciju pārbaude",
+        "Makroelementu pārskats",
+        "Nedēļas tendence"
+      ],
+      "sections": [
+        [
+          "Sāc ar vienkāršu ierakstu",
+          "Pievieno maltīti pēc foto vai svītrkoda un pārbaudi svarīgākās detaļas."
+        ],
+        [
+          "Skaties visu dienu",
+          "Viena maltīte reti nosaka rezultātu; svarīga ir kopaina."
+        ],
+        [
+          "Pielāgo ilgtermiņā",
+          "Izmanto tendences, lai mainītu mērķus vai ikdienas izvēles."
+        ]
+      ],
+      "workflowTitle": "Praktiska mērķa uzskaite",
+      "workflow": [
+        "Pievieno maltītes, salīdzini ar dienas mērķi un labo porcijas, ja novērtējums neatbilst realitātei.",
+        "Tā mērķis kļūst redzams bez sarežģītām tabulām."
+      ],
+      "note": "Uztura novērtējumi ir informatīvi un nav medicīnisks padoms.",
+      "bestFor": [
+        "mērķis",
+        "ikdienas uzskaite",
+        "porcijas",
+        "tendences"
+      ],
+      "workflowKicker": "Kā tas strādā",
+      "noteTitle": "Galvenais princips"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Kaloriju skaitītājs muskuļu masas palielināšanai",
+      "h1": "Uzturi kalorijas un olbaltumvielas redzamas",
+      "description": "Seko enerģijas pārpalikumam un olbaltumvielām, kad tavs mērķis ir muskuļu masa.",
+      "kicker": "Muskuļu masa",
+      "summary": "Mērķis nav perfekta kontrole, bet skaidra ikdienas atgriezeniskā saite.",
+      "bullets": [
+        "Dienas mērķis",
+        "Porciju pārbaude",
+        "Makroelementu pārskats",
+        "Nedēļas tendence"
+      ],
+      "sections": [
+        [
+          "Sāc ar vienkāršu ierakstu",
+          "Pievieno maltīti pēc foto vai svītrkoda un pārbaudi svarīgākās detaļas."
+        ],
+        [
+          "Skaties visu dienu",
+          "Viena maltīte reti nosaka rezultātu; svarīga ir kopaina."
+        ],
+        [
+          "Pielāgo ilgtermiņā",
+          "Izmanto tendences, lai mainītu mērķus vai ikdienas izvēles."
+        ]
+      ],
+      "workflowTitle": "Praktiska mērķa uzskaite",
+      "workflow": [
+        "Pievieno maltītes, salīdzini ar dienas mērķi un labo porcijas, ja novērtējums neatbilst realitātei.",
+        "Tā mērķis kļūst redzams bez sarežģītām tabulām."
+      ],
+      "note": "Uztura novērtējumi ir informatīvi un nav medicīnisks padoms.",
+      "bestFor": [
+        "mērķis",
+        "ikdienas uzskaite",
+        "porcijas",
+        "tendences"
+      ],
+      "workflowKicker": "Kā tas strādā",
+      "noteTitle": "Galvenais princips"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Kaloriju uzskaite svara uzturēšanai",
+      "h1": "Saglabā stabilu ritmu",
+      "description": "Skaiti kalorijas bez pārmērīgas kontroles un pamani, kad ikdienas ritms sāk mainīties.",
+      "kicker": "Svara uzturēšana",
+      "summary": "Mērķis nav perfekta kontrole, bet skaidra ikdienas atgriezeniskā saite.",
+      "bullets": [
+        "Dienas mērķis",
+        "Porciju pārbaude",
+        "Makroelementu pārskats",
+        "Nedēļas tendence"
+      ],
+      "sections": [
+        [
+          "Sāc ar vienkāršu ierakstu",
+          "Pievieno maltīti pēc foto vai svītrkoda un pārbaudi svarīgākās detaļas."
+        ],
+        [
+          "Skaties visu dienu",
+          "Viena maltīte reti nosaka rezultātu; svarīga ir kopaina."
+        ],
+        [
+          "Pielāgo ilgtermiņā",
+          "Izmanto tendences, lai mainītu mērķus vai ikdienas izvēles."
+        ]
+      ],
+      "workflowTitle": "Praktiska mērķa uzskaite",
+      "workflow": [
+        "Pievieno maltītes, salīdzini ar dienas mērķi un labo porcijas, ja novērtējums neatbilst realitātei.",
+        "Tā mērķis kļūst redzams bez sarežģītām tabulām."
+      ],
+      "note": "Uztura novērtējumi ir informatīvi un nav medicīnisks padoms.",
+      "bestFor": [
+        "mērķis",
+        "ikdienas uzskaite",
+        "porcijas",
+        "tendences"
+      ],
+      "workflowKicker": "Kā tas strādā",
+      "noteTitle": "Galvenais princips"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Kaloriju skaitītājs mājas ēdienam",
+      "h1": "Novērtē receptes bez etiķetes",
+      "description": "Mājas ēdienam bieži nav precīzas uzturvērtības, tāpēc foto un porcijas labojumi palīdz iegūt praktisku novērtējumu.",
+      "kicker": "Mājas ēdiens",
+      "summary": "Mērķis nav perfekta kontrole, bet skaidra ikdienas atgriezeniskā saite.",
+      "bullets": [
+        "Dienas mērķis",
+        "Porciju pārbaude",
+        "Makroelementu pārskats",
+        "Nedēļas tendence"
+      ],
+      "sections": [
+        [
+          "Sāc ar vienkāršu ierakstu",
+          "Pievieno maltīti pēc foto vai svītrkoda un pārbaudi svarīgākās detaļas."
+        ],
+        [
+          "Skaties visu dienu",
+          "Viena maltīte reti nosaka rezultātu; svarīga ir kopaina."
+        ],
+        [
+          "Pielāgo ilgtermiņā",
+          "Izmanto tendences, lai mainītu mērķus vai ikdienas izvēles."
+        ]
+      ],
+      "workflowTitle": "Praktiska mērķa uzskaite",
+      "workflow": [
+        "Pievieno maltītes, salīdzini ar dienas mērķi un labo porcijas, ja novērtējums neatbilst realitātei.",
+        "Tā mērķis kļūst redzams bez sarežģītām tabulām."
+      ],
+      "note": "Uztura novērtējumi ir informatīvi un nav medicīnisks padoms.",
+      "bestFor": [
+        "mērķis",
+        "ikdienas uzskaite",
+        "porcijas",
+        "tendences"
+      ],
+      "workflowKicker": "Kā tas strādā",
+      "noteTitle": "Galvenais princips"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Restorānu kaloriju uzskaite",
+      "h1": "Pieraksti restorāna maltītes bez minēšanas no galvas",
+      "description": "Nofotografē ēdienu, pievieno mērces un piedevas un saglabā saprātīgu kaloriju novērtējumu.",
+      "kicker": "Restorāni",
+      "summary": "Mērķis nav perfekta kontrole, bet skaidra ikdienas atgriezeniskā saite.",
+      "bullets": [
+        "Dienas mērķis",
+        "Porciju pārbaude",
+        "Makroelementu pārskats",
+        "Nedēļas tendence"
+      ],
+      "sections": [
+        [
+          "Sāc ar vienkāršu ierakstu",
+          "Pievieno maltīti pēc foto vai svītrkoda un pārbaudi svarīgākās detaļas."
+        ],
+        [
+          "Skaties visu dienu",
+          "Viena maltīte reti nosaka rezultātu; svarīga ir kopaina."
+        ],
+        [
+          "Pielāgo ilgtermiņā",
+          "Izmanto tendences, lai mainītu mērķus vai ikdienas izvēles."
+        ]
+      ],
+      "workflowTitle": "Praktiska mērķa uzskaite",
+      "workflow": [
+        "Pievieno maltītes, salīdzini ar dienas mērķi un labo porcijas, ja novērtējums neatbilst realitātei.",
+        "Tā mērķis kļūst redzams bez sarežģītām tabulām."
+      ],
+      "note": "Uztura novērtējumi ir informatīvi un nav medicīnisks padoms.",
+      "bestFor": [
+        "mērķis",
+        "ikdienas uzskaite",
+        "porcijas",
+        "tendences"
+      ],
+      "workflowKicker": "Kā tas strādā",
+      "noteTitle": "Galvenais princips"
+    },
+    "/meal-tracker/": {
+      "title": "Maltīšu uzskaite",
+      "h1": "Seko maltītēm visas dienas garumā",
+      "description": "Pievieno brokastis, pusdienas, vakariņas un uzkodas ar foto, svītrkodu vai manuāli.",
+      "kicker": "Maltītes",
+      "summary": "Mērķis nav perfekta kontrole, bet skaidra ikdienas atgriezeniskā saite.",
+      "bullets": [
+        "Dienas mērķis",
+        "Porciju pārbaude",
+        "Makroelementu pārskats",
+        "Nedēļas tendence"
+      ],
+      "sections": [
+        [
+          "Sāc ar vienkāršu ierakstu",
+          "Pievieno maltīti pēc foto vai svītrkoda un pārbaudi svarīgākās detaļas."
+        ],
+        [
+          "Skaties visu dienu",
+          "Viena maltīte reti nosaka rezultātu; svarīga ir kopaina."
+        ],
+        [
+          "Pielāgo ilgtermiņā",
+          "Izmanto tendences, lai mainītu mērķus vai ikdienas izvēles."
+        ]
+      ],
+      "workflowTitle": "Praktiska mērķa uzskaite",
+      "workflow": [
+        "Pievieno maltītes, salīdzini ar dienas mērķi un labo porcijas, ja novērtējums neatbilst realitātei.",
+        "Tā mērķis kļūst redzams bez sarežģītām tabulām."
+      ],
+      "note": "Uztura novērtējumi ir informatīvi un nav medicīnisks padoms.",
+      "bestFor": [
+        "mērķis",
+        "ikdienas uzskaite",
+        "porcijas",
+        "tendences"
+      ],
+      "workflowKicker": "Kā tas strādā",
+      "noteTitle": "Galvenais princips"
+    },
+    "/photo-food-journal/": {
+      "title": "Foto uztura žurnāls",
+      "h1": "Saglabā maltītes vizuāli",
+      "description": "Foto palīdz atcerēties porcijas un redzēt ēšanas paradumus skaidrāk nekā tikai teksta saraksts.",
+      "kicker": "Foto žurnāls",
+      "summary": "Mērķis nav perfekta kontrole, bet skaidra ikdienas atgriezeniskā saite.",
+      "bullets": [
+        "Dienas mērķis",
+        "Porciju pārbaude",
+        "Makroelementu pārskats",
+        "Nedēļas tendence"
+      ],
+      "sections": [
+        [
+          "Sāc ar vienkāršu ierakstu",
+          "Pievieno maltīti pēc foto vai svītrkoda un pārbaudi svarīgākās detaļas."
+        ],
+        [
+          "Skaties visu dienu",
+          "Viena maltīte reti nosaka rezultātu; svarīga ir kopaina."
+        ],
+        [
+          "Pielāgo ilgtermiņā",
+          "Izmanto tendences, lai mainītu mērķus vai ikdienas izvēles."
+        ]
+      ],
+      "workflowTitle": "Praktiska mērķa uzskaite",
+      "workflow": [
+        "Pievieno maltītes, salīdzini ar dienas mērķi un labo porcijas, ja novērtējums neatbilst realitātei.",
+        "Tā mērķis kļūst redzams bez sarežģītām tabulām."
+      ],
+      "note": "Uztura novērtējumi ir informatīvi un nav medicīnisks padoms.",
+      "bestFor": [
+        "mērķis",
+        "ikdienas uzskaite",
+        "porcijas",
+        "tendences"
+      ],
+      "workflowKicker": "Kā tas strādā",
+      "noteTitle": "Galvenais princips"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Veselīgāka uztura uzskaite",
+      "h1": "Redzi, kas tavā uzturā atkārtojas",
+      "description": "Izmanto kalorijas un makroelementus, lai pamanītu paradumus un veidotu saprātīgākas izvēles.",
+      "kicker": "Veselīgāks uzturs",
+      "summary": "Mērķis nav perfekta kontrole, bet skaidra ikdienas atgriezeniskā saite.",
+      "bullets": [
+        "Dienas mērķis",
+        "Porciju pārbaude",
+        "Makroelementu pārskats",
+        "Nedēļas tendence"
+      ],
+      "sections": [
+        [
+          "Sāc ar vienkāršu ierakstu",
+          "Pievieno maltīti pēc foto vai svītrkoda un pārbaudi svarīgākās detaļas."
+        ],
+        [
+          "Skaties visu dienu",
+          "Viena maltīte reti nosaka rezultātu; svarīga ir kopaina."
+        ],
+        [
+          "Pielāgo ilgtermiņā",
+          "Izmanto tendences, lai mainītu mērķus vai ikdienas izvēles."
+        ]
+      ],
+      "workflowTitle": "Praktiska mērķa uzskaite",
+      "workflow": [
+        "Pievieno maltītes, salīdzini ar dienas mērķi un labo porcijas, ja novērtējums neatbilst realitātei.",
+        "Tā mērķis kļūst redzams bez sarežģītām tabulām."
+      ],
+      "note": "Uztura novērtējumi ir informatīvi un nav medicīnisks padoms.",
+      "bestFor": [
+        "mērķis",
+        "ikdienas uzskaite",
+        "porcijas",
+        "tendences"
+      ],
+      "workflowKicker": "Kā tas strādā",
+      "noteTitle": "Galvenais princips"
+    },
+    "/use-cases/": {
+      "title": "Lietošanas gadījumi",
+      "h1": "Kam noder Calorie Counter AI",
+      "description": "Svara samazināšana, uzturēšana, muskuļu masa, mājas ēdiens, restorāni un ikdienas maltīšu uzskaite.",
+      "kicker": "Lietošanas gadījumi"
+    },
+    "/blog/": {
+      "title": "Ceļveži",
+      "h1": "Praktiski kaloriju un uztura ceļveži",
+      "description": "Vienkārši skaidrojumi par kaloriju skaitīšanu, makroelementiem, porcijām un foto uzskaiti.",
+      "kicker": "Ceļveži"
+    },
+    "/download/": {
+      "title": "Lejupielādēt Calorie Counter AI",
+      "h1": "Lejupielādēt Calorie Counter AI",
+      "description": "Lejupielādē AI kaloriju skaitītāju iPhone vai Android ierīcei un sāc pievienot ēdienu ar foto, svītrkodu vai manuāli.",
+      "kicker": "Lejupielāde"
+    },
+    "/faq/": {
+      "title": "Biežāk uzdotie jautājumi",
+      "h1": "Biežāk uzdotie jautājumi",
+      "description": "Atbildes par Calorie Counter AI lietošanu, foto novērtējumiem, makroelementiem, svītrkodiem un privātumu.",
+      "kicker": "BUJ"
+    },
+    "/pricing/": {
+      "title": "Cenas",
+      "h1": "Cenas",
+      "description": "Sāc bez maksas un pārbaudi aktuālos abonementus, izmēģinājuma periodus un cenas App Store vai Google Play.",
+      "kicker": "Cenas"
+    },
+    "/support/": {
+      "title": "Atbalsts",
+      "h1": "Atbalsts",
+      "description": "Nepieciešama palīdzība ar Calorie Counter AI? Atrodi atbalsta, atsauksmju un kļūdu ziņošanas norādes.",
+      "kicker": "Atbalsts"
+    },
+    "/contact/": {
+      "title": "Kontakti",
+      "h1": "Kontakti",
+      "description": "Sazinies ar Calorie Counter AI komandu par lietotni, sadarbību vai preses jautājumiem.",
+      "kicker": "Kontakti"
+    },
+    "/privacy-policy/": {
+      "title": "Privātuma politika",
+      "h1": "Privātuma politika",
+      "description": "Uzzini, kā Calorie Counter AI apstrādā datus, kas nepieciešami lietotnes un vietnes darbībai.",
+      "kicker": "Privātums"
+    },
+    "/terms/": {
+      "title": "Lietošanas noteikumi",
+      "h1": "Lietošanas noteikumi",
+      "description": "Calorie Counter AI lietošanas noteikumi un pakalpojuma izmantošanas principi.",
+      "kicker": "Noteikumi"
+    },
+    "/health-disclaimer/": {
+      "title": "Veselības atruna",
+      "h1": "Veselības atruna",
+      "description": "Calorie Counter AI sniedz uztura novērtējumus informatīviem nolūkiem un neaizstāj medicīnisku vai uztura speciālista padomu.",
+      "kicker": "Atruna"
+    },
+    "/delete-account/": {
+      "title": "Konta dzēšana",
+      "h1": "Konta dzēšana",
+      "description": "Norādes, kā pieprasīt Calorie Counter AI konta un ar to saistīto datu dzēšanu.",
+      "kicker": "Konts"
+    },
+    "/press/": {
+      "title": "Prese",
+      "h1": "Prese",
+      "description": "Calorie Counter AI īss apraksts, ikona un ekrānuzņēmums presei un partneriem.",
+      "kicker": "Prese"
+    },
+    "/how-many-calories-in/": {
+      "title": "Kalorijas pārtikas produktos",
+      "h1": "Kalorijas pārtikas produktos",
+      "description": "Pārlūko ikdienas ēdienu kalorijas, olbaltumvielas, taukus, ogļhidrātus un porciju ieteikumus.",
+      "kicker": "Kaloriju ceļvedis"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Kā skaitīt kalorijas pēc foto",
+      "h1": "Kā skaitīt kalorijas pēc foto",
+      "description": "Foto kaloriju skaitīšana sākas ar attēlu, bet kļūst noderīga tikai tad, ja pārbaudi porciju un slēptās sastāvdaļas.",
+      "category": "Foto uzskaite",
+      "readTime": "4 min lasīšanai",
+      "intro": "Foto ir ātrs sākums, ne galīgā patiesība.",
+      "sections": [
+        [
+          "Nofotografē pirms ēšanas",
+          "Porcija un sastāvdaļas ir labāk redzamas pirms ēdiens tiek sajaukts vai apēsts."
+        ],
+        [
+          "Pārbaudi porciju",
+          "Ja daudzums šķiet par lielu vai mazu, izlabo to."
+        ],
+        [
+          "Pievieno slēptās kalorijas",
+          "Eļļa, mērces, cukurs un dzērieni bieži paliek ārpus foto."
+        ],
+        [
+          "Saglabā dienasgrāmatā",
+          "Kad novērtējums ir saprātīgs, saglabā to dienas kopskatā."
+        ]
+      ],
+      "takeaway": "Foto paātrina pierakstīšanu, bet labākais rezultāts rodas no porcijas pārbaudes."
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Cik precīzi ir AI kaloriju skaitītāji?",
+      "h1": "Cik precīzi ir AI kaloriju skaitītāji?",
+      "description": "AI kaloriju skaitītājs ir praktisks novērtēšanas rīks, taču precizitāti ietekmē foto, porcija, recepte un labojumi.",
+      "category": "Precizitāte",
+      "readTime": "4 min lasīšanai",
+      "intro": "AI palīdz ātri sākt, bet uztura datus jāuztver kā aptuvenu novērtējumu.",
+      "sections": [
+        [
+          "Kas uzlabo precizitāti",
+          "Skaidrs foto, redzama porcija un pareizi labojumi dod labāku rezultātu."
+        ],
+        [
+          "Kas var maldināt",
+          "Eļļa, mērces, cukurs, rieksti un slēptas sastāvdaļas var nebūt redzamas."
+        ],
+        [
+          "Porcija ir svarīgākā",
+          "Tas pats ēdiens dažādos daudzumos dod ļoti atšķirīgas kalorijas."
+        ],
+        [
+          "Izmanto kā tendenci",
+          "Viens ieraksts var kļūdīties; ilgāka tendence bieži ir noderīgāka."
+        ]
+      ],
+      "takeaway": "AI kaloriju skaitītājs ir piemērots praktiskai dienasgrāmatai, ja pārbaudi porcijas un piedevas."
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "AI kaloriju skaitītājs vai manuāla ievade",
+      "h1": "AI kaloriju skaitītājs pret manuālu ievadi",
+      "description": "Salīdzini foto balstītu AI novērtējumu un manuālu ēdiena ievadi un izmanto katru tur, kur tā strādā vislabāk.",
+      "category": "Salīdzinājums",
+      "readTime": "4 min lasīšanai",
+      "intro": "AI samazina sākšanas slieksni, manuāla ievade dod kontroli, ja zini precīzus daudzumus.",
+      "sections": [
+        [
+          "AI ir ātrs",
+          "Foto labi der mājas un restorāna ēdiena sākotnējam novērtējumam."
+        ],
+        [
+          "Manuāli ir precīzāk, ja daudzums zināms",
+          "Ja ir recepte vai svars, ievadi daudzumus manuāli."
+        ],
+        [
+          "Labākā ir kombinācija",
+          "Izmanto AI melnrakstu un izlabo svarīgās detaļas."
+        ],
+        [
+          "Svarīga ir regularitāte",
+          "Vienkāršāka plūsma palīdz dienasgrāmatu lietot biežāk."
+        ]
+      ],
+      "takeaway": "Praktiskākais risinājums ir AI ātrums kopā ar manuālu pārbaudi."
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Pārtikas kaloriju skeneris",
+      "h1": "Kas ir pārtikas kaloriju skeneris?",
+      "description": "Kaloriju skeneris palīdz pievienot ēdienu pēc foto, svītrkoda vai manuālas ievades.",
+      "category": "Skeneris",
+      "readTime": "4 min lasīšanai",
+      "intro": "Skenera mērķis ir paātrināt pierakstīšanu, ne aizstāt tavu spriedumu.",
+      "sections": [
+        [
+          "Foto skenēšana",
+          "Der ēdieniem uz šķīvja un produktiem bez etiķetes."
+        ],
+        [
+          "Svītrkoda skenēšana",
+          "Der iepakotiem produktiem ar produkta datiem."
+        ],
+        [
+          "Pārbaudi porciju",
+          "Skeneris atrod ēdienu, bet tu vislabāk zini, cik apēdi."
+        ],
+        [
+          "Saglabā dienasgrāmatā",
+          "Pēc pārbaudes pievieno ierakstu dienas kopsavilkumam."
+        ]
+      ],
+      "takeaway": "Skeneris ir ātrs sākumpunkts; laba dienasgrāmata prasa porcijas pārbaudi."
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Kā iesācējam sekot makroelementiem",
+      "h1": "Kā iesācējam sekot makroelementiem",
+      "description": "Makroelementu uzskaite nozīmē skatīt olbaltumvielas, taukus un ogļhidrātus līdzās kalorijām.",
+      "category": "Makroelementi",
+      "readTime": "4 min lasīšanai",
+      "intro": "Iesācējam bieži pietiek redzēt dienas olbaltumvielas, taukus un ogļhidrātus bez pārliekas detalizācijas.",
+      "sections": [
+        [
+          "Sāc ar olbaltumvielām",
+          "Daudziem mērķiem tas ir pirmais makro, kam vērts sekot."
+        ],
+        [
+          "Skaties visu dienu",
+          "Vienai maltītei nav jābūt ideālai."
+        ],
+        [
+          "Neaizmirsti kalorijas",
+          "Makroelementi ir noderīgi, bet enerģijas bilance joprojām ir svarīga."
+        ],
+        [
+          "Izmanto vienkāršu dienasgrāmatu",
+          "Foto un svītrkodi palīdz ātrāk savākt datus."
+        ]
+      ],
+      "takeaway": "Sāc vienkārši: seko kalorijām un olbaltumvielām, detaļas pievieno vēlāk."
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Kalorijas un makroelementi",
+      "h1": "Kalorijas un makroelementi: kāda ir atšķirība?",
+      "description": "Kalorijas parāda enerģijas daudzumu, bet makroelementi — vai enerģija nāk no olbaltumvielām, taukiem vai ogļhidrātiem.",
+      "category": "Pamati",
+      "readTime": "4 min lasīšanai",
+      "intro": "Kalorijas un makroelementi atbild uz dažādiem jautājumiem un kopā dod skaidrāku priekšstatu.",
+      "sections": [
+        [
+          "Kalorijas",
+          "Kalorijas apraksta, cik daudz enerģijas dod ēdiens."
+        ],
+        [
+          "Makroelementi",
+          "Olbaltumvielas, tauki un ogļhidrāti apraksta ēdiena sastāvu."
+        ],
+        [
+          "Kāpēc vajag abus",
+          "Tas pats kaloriju daudzums var ietekmēt pašsajūtu atšķirīgi."
+        ],
+        [
+          "Praktiska pieeja",
+          "Vispirms skaties dienas kalorijas un olbaltumvielas."
+        ]
+      ],
+      "takeaway": "Kalorijas rāda enerģiju; makroelementi palīdz saprast, no kā tā veidojas."
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Kā skaitīt kalorijas mājas ēdienā",
+      "h1": "Kā skaitīt kalorijas mājas ēdienā",
+      "description": "Mājas ēdiena kalorijas ir vieglāk novērtēt, ja sāc ar foto un izlabo porciju un slēptās sastāvdaļas.",
+      "category": "Mājas ēdiens",
+      "readTime": "4 min lasīšanai",
+      "intro": "Mājas receptes atšķiras, tāpēc praktisks novērtējums bieži ir vērtīgāks par ideālu skaitli.",
+      "sections": [
+        [
+          "Nofotografē porciju",
+          "Foto dod ātru priekšstatu par šķīvi."
+        ],
+        [
+          "Pievieno eļļu un mērces",
+          "Tās bieži nav redzamas, bet būtiski maina kalorijas."
+        ],
+        [
+          "Izmanto recepti, ja tā ir",
+          "Ja zini sastāvdaļas un daudzumus, precizē ierakstu manuāli."
+        ],
+        [
+          "Saglabā biežās maltītes",
+          "Ja ēd to pašu bieži, nākamreiz pievienošana būs ātrāka."
+        ]
+      ],
+      "takeaway": "Mājas ēdienam vislabāk strādā foto, porcijas pārbaude un slēpto piedevu labojumi."
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Kā novērtēt porcijas lielumu",
+      "h1": "Kā novērtēt porcijas lielumu",
+      "description": "Porcijas lielums ietekmē kalorijas vairāk nekā daudzas citas detaļas.",
+      "category": "Porcijas",
+      "readTime": "4 min lasīšanai",
+      "intro": "Ja porcija ir nepareiza, arī kaloriju novērtējums ātri kļūst nepareizs.",
+      "sections": [
+        [
+          "Skaties visu šķīvi",
+          "Fotografē pirms ēšanas, lai porcija būtu redzama."
+        ],
+        [
+          "Salīdzini ar ierastiem mēriem",
+          "Izmanto glāzi, šķēli, sauju vai gramus."
+        ],
+        [
+          "Labo pēc ēšanas",
+          "Ja apēdi tikai daļu, maini ierakstu."
+        ],
+        [
+          "Nemeklē pilnību",
+          "Regulārs aptuvens novērtējums bieži ir noderīgāks par retu precīzu svēršanu."
+        ]
+      ],
+      "takeaway": "Porcijas pārbaude ir viens no vienkāršākajiem veidiem, kā uzlabot kaloriju dienasgrāmatu."
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Cik kaloriju dienā vajadzētu ēst?",
+      "h1": "Cik kaloriju dienā vajadzētu ēst?",
+      "description": "Dienas kaloriju vajadzība ir atkarīga no ķermeņa, aktivitātes, mērķa un veselības stāvokļa.",
+      "category": "Dienas mērķis",
+      "readTime": "4 min lasīšanai",
+      "intro": "Kaloriju mērķis palīdz sekot uzturam, bet vajadzības ir individuālas.",
+      "sections": [
+        [
+          "Vajadzība ir individuāla",
+          "Vecums, ķermeņa izmērs, aktivitāte un mērķis ietekmē enerģijas vajadzību."
+        ],
+        [
+          "Mērķis maina skaitli",
+          "Svara samazināšana, uzturēšana un muskuļu masa prasa atšķirīgu pieeju."
+        ],
+        [
+          "Seko tendencei",
+          "Svars, pašsajūta un izsalkums bieži pasaka vairāk nekā viena diena."
+        ],
+        [
+          "Konsultējies ar speciālistu",
+          "Veselības stāvokļi un īpašas diētas jāapspriež ar speciālistu."
+        ]
+      ],
+      "takeaway": "Izmanto kaloriju mērķi kā sākumpunktu un vēro ilgāku tendenci."
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Kas ir kaloriju deficīts?",
+      "h1": "Kas ir kaloriju deficīts?",
+      "description": "Kaloriju deficīts nozīmē, ka ilgākā laikā uzņem mazāk enerģijas nekā patērē.",
+      "category": "Svara samazināšana",
+      "readTime": "4 min lasīšanai",
+      "intro": "Kaloriju deficīts ir svara samazināšanas pamatprincips, bet tā īstenošana ietekmē pašsajūtu.",
+      "sections": [
+        [
+          "Pamatideja",
+          "Ja enerģijas uzņemšana pietiekami ilgi ir zemāka par patēriņu, svars var samazināties."
+        ],
+        [
+          "Pārāk liels deficīts var traucēt",
+          "Ļoti zems enerģijas daudzums var pasliktināt pašsajūtu."
+        ],
+        [
+          "Olbaltumvielas un rutīna palīdz",
+          "Sāta sajūta, olbaltumvielas un regularitāte padara deficītu praktiskāku."
+        ],
+        [
+          "Skaties vairāku dienu vidējo",
+          "Svarīgs ir ilgāks vidējais rādītājs, ne viena diena."
+        ]
+      ],
+      "takeaway": "Kaloriju deficītam jābūt reālistiskam, izsekojamam un piemērotam tavai situācijai."
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Biežākās kļūdas kaloriju skaitīšanā",
+      "h1": "Biežākās kļūdas kaloriju skaitīšanā",
+      "description": "Izvairies no kļūdām, kas padara uztura dienasgrāmatu mazāk noderīgu.",
+      "category": "Kļūdas",
+      "readTime": "4 min lasīšanai",
+      "intro": "Kaloriju skaitīšana strādā labāk, ja uzmanība ir uz lielākajiem faktoriem, ne pilnību.",
+      "sections": [
+        [
+          "Aizmirstas piedevas",
+          "Eļļa, mērces, dzērieni un nelielas uzkodas bieži paliek nepierakstītas."
+        ],
+        [
+          "Nepareiza porcija",
+          "Tas pats ēdiens var saturēt ļoti atšķirīgu kaloriju daudzumu."
+        ],
+        [
+          "Pārmērīgs precizitātes stress",
+          "Katra grama perfekta kontrole var padarīt ieradumu grūtu."
+        ],
+        [
+          "Netiek skatītas tendences",
+          "Labāk vērtēt nedēļas kopskatu, ne vienu dienu."
+        ]
+      ],
+      "takeaway": "Vispirms labo lielās lietas: porciju, eļļu, mērces, dzērienus un atkārtotas uzkodas."
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Kā pierakstīt restorāna ēdienu",
+      "h1": "Kā pierakstīt restorāna ēdienu",
+      "description": "Restorāna ēdiena kalorijas ir vieglāk novērtēt, ja ņem vērā foto, porciju un piedevas.",
+      "category": "Restorāni",
+      "readTime": "4 min lasīšanai",
+      "intro": "Restorāna recepti parasti precīzi nezinām, tāpēc mērķis ir saprātīgs novērtējums.",
+      "sections": [
+        [
+          "Nofotografē pirms ēšanas",
+          "Foto dod sākumpunktu porcijas novērtēšanai."
+        ],
+        [
+          "Pievieno piedevas",
+          "Maize, mērces, dzērieni un deserts var mainīt dienas kopējo daudzumu."
+        ],
+        [
+          "Pielāgo porciju",
+          "Ja porcija bija īpaši liela vai maza, izlabo novērtējumu."
+        ],
+        [
+          "Nemeklē pilnību",
+          "Restorānā aptuvens novērtējums bieži ir praktiskākais."
+        ]
+      ],
+      "takeaway": "Restorāna ēdienam labākais mērķis ir godīgs un konsekvents novērtējums."
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Kā sekot olbaltumvielām",
+      "h1": "Kā sekot olbaltumvielām",
+      "description": "Olbaltumvielu uzskaite palīdz saprast sāta sajūtu, muskuļu masas uzturēšanu un dienas ēdienreižu struktūru.",
+      "category": "Olbaltumvielas",
+      "readTime": "4 min lasīšanai",
+      "intro": "Daudziem olbaltumvielas ir pirmais makro, kam vērts sekot līdzās kalorijām.",
+      "sections": [
+        [
+          "Skaties dienas kopējo daudzumu",
+          "Bieži svarīgāka ir visa diena, ne viena maltīte."
+        ],
+        [
+          "Pazīsti avotus",
+          "Vista, zivis, olas, piena produkti, tofu, pākšaugi un proteīna dzērieni ir bieži avoti."
+        ],
+        [
+          "Izmanto dienasgrāmatu",
+          "Lietotne rāda olbaltumvielas blakus kalorijām."
+        ],
+        [
+          "Pielāgo mērķim",
+          "Vajadzība atkarīga no mērķa, ķermeņa, treniņiem un veselības."
+        ]
+      ],
+      "takeaway": "Olbaltumvielas var sekot vienkārši: pievieno maltītes un skaties dienas kopsummu."
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Kas ir uztura dienasgrāmata?",
+      "h1": "Kas ir uztura dienasgrāmata?",
+      "description": "Uztura dienasgrāmata ir veids, kā saglabāt maltītes, porcijas un uzturvērtības novērtējumus, lai paradumi kļūtu redzamāki.",
+      "category": "Dienasgrāmata",
+      "readTime": "4 min lasīšanai",
+      "intro": "Dienasgrāmatas vērtība ir ikdienas izvēļu padarīšana redzamām.",
+      "sections": [
+        [
+          "Ko pierakstīt",
+          "Maltītes, uzkodas, dzērienus, porcijas un, ja vajag, kalorijas un makroelementus."
+        ],
+        [
+          "Kāpēc tas palīdz",
+          "Atmiņa ne vienmēr precīzi rāda, ko un cik apēdām."
+        ],
+        [
+          "Foto priekšrocība",
+          "Ēdiena foto paātrina ierakstu un palīdz atcerēties porciju."
+        ],
+        [
+          "Lai tas būtu ilgtspējīgi",
+          "Labākā dienasgrāmata ir tāda, kuru vari lietot arī parastās dienās."
+        ]
+      ],
+      "takeaway": "Uztura dienasgrāmatai nav jābūt perfektai; tai jābūt pietiekami vienkāršai un godīgai."
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Sīkfaili",
+    "text": "Mēs izmantojam nepieciešamos sīkfailus un localStorage, lai atcerētos tavu valodu un sīkfailu izvēli. Ar tavu piekrišanu izmantojam arī analītikas sīkfailus, lai uzlabotu vietni.",
+    "accept": "Piekrītu",
+    "decline": "Noraidīt analītiku"
+  }
+}

@@ -1,0 +1,2619 @@
+{
+  "localeName": "한국어",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "사진으로 쓰는 AI 칼로리 카운터"
+  },
+  "nav": {
+    "features": "기능",
+    "useCases": "활용 방법",
+    "blog": "가이드",
+    "faq": "자주 묻는 질문",
+    "download": "다운로드",
+    "language": "언어",
+    "openMenu": "메뉴 열기",
+    "caloriesInFoods": "음식별 칼로리",
+    "all": "전체",
+    "allFeatures": "모든 기능",
+    "allUseCases": "모든 활용 방법",
+    "allLearn": "모든 가이드",
+    "openHub": "섹션 열기 →",
+    "home": "홈"
+  },
+  "cta": {
+    "appStore": "App Store에서 다운로드",
+    "googlePlay": "Google Play에서 다운로드",
+    "downloadNow": "지금 다운로드",
+    "tryFree": "무료로 시작하기",
+    "learnMore": "자세히 보기",
+    "learnMoreArrow": "자세히 보기 →",
+    "readGuide": "가이드 읽기"
+  },
+  "home": {
+    "title": "사진으로 쓰는 AI 칼로리 카운터",
+    "description": "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+    "heroNote": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+    "photoEyebrow": "사진 칼로리 카운터",
+    "photoTitle": "사진으로 쓰는 AI 칼로리 카운터",
+    "photoText": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+    "photoChecklist": [
+      "칼로리",
+      "단백질",
+      "지방",
+      "탄수화물"
+    ],
+    "featureCards": [
+      [
+        "photo",
+        "사진 칼로리 카운터",
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다."
+      ],
+      [
+        "ai",
+        "사진으로 쓰는 AI 칼로리 카운터",
+        "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+      ],
+      [
+        "barcode",
+        "바코드 스캐너",
+        "포장 식품은 바코드를 스캔해 영양 정보를 빠르게 확인할 수 있습니다."
+      ],
+      [
+        "macro",
+        "매크로",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      [
+        "diary",
+        "식단 기록",
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다."
+      ],
+      [
+        "download",
+        "Calorie Counter AI 다운로드",
+        "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+      ]
+    ],
+    "foodPreviewTitle": "인기 음식의 칼로리",
+    "foodPreviewText": "자주 먹는 음식의 칼로리, 단백질, 지방, 탄수화물 기준값을 확인하세요.",
+    "foodPreviewLink": "음식 목록 보기 →",
+    "goalEyebrow": "영양",
+    "counterTitle": "사진으로 쓰는 AI 칼로리 카운터",
+    "counterText": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+    "goalPills": [
+      "체중 감량",
+      "체중 유지",
+      "근육 증가",
+      "바쁜 날의 기록"
+    ],
+    "magicEyebrow": "기능",
+    "magicTitle": "사진 한 장으로 식사를 기록하세요",
+    "magicText": "음식명, 양, 칼로리, 매크로 추정치를 확인하고 필요하면 수정한 뒤 저장할 수 있습니다.",
+    "magicSteps": [
+      "식사 사진 촬영",
+      "추정치 확인",
+      "식단 기록에 저장"
+    ],
+    "barcodeEyebrow": "바코드 스캐너",
+    "barcodeTitle": "바코드 스캐너",
+    "barcodeText": "포장 식품은 바코드를 스캔해 영양 정보를 빠르게 확인할 수 있습니다.",
+    "barcodeLink": "바코드 스캐너 →",
+    "progressEyebrow": "매크로",
+    "macroTitle": "매크로",
+    "macroText": "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요.",
+    "macroLink": "매크로 →",
+    "useCasesEyebrow": "활용 방법",
+    "useCasesTitle": "매일의 식단 관리 방식에 맞게 사용할 수 있습니다",
+    "useCasesText": "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "체중 감량",
+        "하루 목표 대비 남은 칼로리를 확인할 수 있습니다."
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "집밥",
+        "영양 성분표가 없는 집밥과 복합 요리도 추정해 기록하세요."
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "외식",
+        "레스토랑 음식도 사진으로 빠르게 추정할 수 있습니다."
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "근육 증가",
+        "증량 중 필요한 단백질과 칼로리를 함께 관리하세요."
+      ]
+    ],
+    "downloadTitle": "Calorie Counter AI 다운로드",
+    "downloadText": "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요.",
+    "faqEyebrow": "자주 묻는 질문",
+    "faqTitle": "자주 묻는 질문",
+    "faq": [
+      [
+        "Calorie Counter AI는 무료인가요?",
+        "기본 기능은 무료로 시작할 수 있습니다. 일부 고급 기능은 유료 플랜이 필요할 수 있습니다."
+      ],
+      [
+        "사진으로 칼로리를 어떻게 추정하나요?",
+        "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+      ],
+      [
+        "의료 목적으로 사용할 수 있나요?",
+        "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+      ],
+      [
+        "매크로도 기록할 수 있나요?",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      [
+        "추정치를 나중에 수정할 수 있나요?",
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "사진으로 쓰는 AI 칼로리 카운터",
+    "homeOgTitle": "사진으로 쓰는 AI 칼로리 카운터",
+    "homeDescription": "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+  },
+  "footer": {
+    "disclaimer": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+    "copyright": "© 2026 Calorie Counter AI"
+  },
+  "foodIndex": {
+    "findTitle": "음식별 칼로리 목록",
+    "findText": "자주 먹는 음식의 칼로리와 매크로를 확인하고 실제 섭취량에 맞춰 앱에 기록하세요.",
+    "categoryIntro": "음식별 칼로리 목록"
+  },
+  "foodPage": {
+    "eyebrow": "음식별 칼로리 목록",
+    "trackInApp": "다운로드",
+    "browseFoods": "음식별 칼로리 목록 →",
+    "typicalEstimate": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+    "caloriesMacros": "칼로리와 매크로",
+    "whenFits": "활용 방법",
+    "whatToWatch": "자세히 보기",
+    "howToLog": "식단 기록",
+    "helpfulContext": "가이드",
+    "faq": "자주 묻는 질문",
+    "weightLossQuestion": "감량 중에도 먹어도 되나요?",
+    "variabilityQuestion": "칼로리가 달라지는 이유는 무엇인가요?",
+    "logFasterTitle": "사진 칼로리 카운터",
+    "logFasterText": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+    "photoTrackingLink": "사진 칼로리 카운터 →",
+    "macros": {
+      "protein": "단백질",
+      "fat": "지방",
+      "carbs": "탄수화물"
+    },
+    "titleTemplate": "{namePrep} 칼로리와 매크로",
+    "h1Template": "{namePrep} 칼로리와 매크로",
+    "descriptionTemplate": "{name}: “{serving}” 1회 제공량의 칼로리, 단백질, 지방, 탄수화물과 식단 기록 팁입니다.",
+    "heroIntroTemplate": "예상치는 1회 제공량당 {calories} {kcal}: {servingLower}입니다. 브랜드, 레시피, 조리법, 제공량에 맞게 조정하세요.",
+    "macroParagraphTemplate": "{name}: “{servingLower}” 기준 약 {calories} {kcal}. 이 제공량에는 단백질 {protein} {gram}, 지방 {fat} {gram}, 탄수화물 {carbs} {gram} 정도가 들어 있습니다{fiberText}.",
+    "per100Template": "비교 기준으로 100 {gram}당 약 {calories} {kcal}, 단백질 {protein} {gram}, 지방 {fat} {gram}, 탄수화물 {carbs} {gram}입니다.",
+    "calorieLevelTemplate": "제공량을 기준으로 보세요: “{servingLower}” 기준 약 {calories} {kcal}입니다."
+  },
+  "foodCategories": {
+    "Fruit": "과일",
+    "Protein foods": "단백질 식품",
+    "Fruits and fats": "과일과 지방 식품",
+    "Grains and starches": "곡물과 전분류",
+    "Nuts and spreads": "견과류와 스프레드",
+    "Breakfast foods": "아침 식사",
+    "Dairy": "유제품",
+    "Restaurant meals": "외식 메뉴",
+    "Fast food": "패스트푸드",
+    "Legumes and plant protein": "콩류와 식물성 단백질",
+    "Desserts": "디저트",
+    "Snacks": "간식",
+    "Drinks": "음료",
+    "Vegetables": "채소",
+    "Sauces and condiments": "소스와 양념",
+    "Mixed dishes": "복합 요리"
+  },
+  "foods": {
+    "banana": {
+      "name": "바나나",
+      "namePrep": "바나나",
+      "serving": "바나나 1회 제공량"
+    },
+    "apple": {
+      "name": "사과",
+      "namePrep": "사과",
+      "serving": "사과 1회 제공량"
+    },
+    "egg": {
+      "name": "달걀",
+      "namePrep": "달걀",
+      "serving": "달걀 1회 제공량"
+    },
+    "avocado": {
+      "name": "아보카도",
+      "namePrep": "아보카도",
+      "serving": "아보카도 1회 제공량"
+    },
+    "chicken-breast": {
+      "name": "닭가슴살",
+      "namePrep": "닭가슴살",
+      "serving": "닭가슴살 1회 제공량"
+    },
+    "salmon": {
+      "name": "연어",
+      "namePrep": "연어",
+      "serving": "연어 1회 제공량"
+    },
+    "white-rice": {
+      "name": "흰쌀밥",
+      "namePrep": "흰쌀밥",
+      "serving": "흰쌀밥 1회 제공량"
+    },
+    "brown-rice": {
+      "name": "현미밥",
+      "namePrep": "현미밥",
+      "serving": "현미밥 1회 제공량"
+    },
+    "pasta": {
+      "name": "파스타",
+      "namePrep": "파스타",
+      "serving": "파스타 1회 제공량"
+    },
+    "potato": {
+      "name": "감자",
+      "namePrep": "감자",
+      "serving": "감자 1회 제공량"
+    },
+    "sweet-potato": {
+      "name": "고구마",
+      "namePrep": "고구마",
+      "serving": "고구마 1회 제공량"
+    },
+    "bread": {
+      "name": "빵",
+      "namePrep": "빵",
+      "serving": "빵 1회 제공량"
+    },
+    "peanut-butter": {
+      "name": "땅콩버터",
+      "namePrep": "땅콩버터",
+      "serving": "땅콩버터 1회 제공량"
+    },
+    "oatmeal": {
+      "name": "오트밀",
+      "namePrep": "오트밀",
+      "serving": "오트밀 1회 제공량"
+    },
+    "greek-yogurt": {
+      "name": "그릭 요거트",
+      "namePrep": "그릭 요거트",
+      "serving": "그릭 요거트 1회 제공량"
+    },
+    "yogurt": {
+      "name": "요거트",
+      "namePrep": "요거트",
+      "serving": "요거트 1회 제공량"
+    },
+    "milk": {
+      "name": "우유",
+      "namePrep": "우유",
+      "serving": "우유 1회 제공량"
+    },
+    "cheddar-cheese": {
+      "name": "체더 치즈",
+      "namePrep": "체더 치즈",
+      "serving": "체더 치즈 1회 제공량"
+    },
+    "pizza": {
+      "name": "피자",
+      "namePrep": "피자",
+      "serving": "피자 1회 제공량"
+    },
+    "burger": {
+      "name": "버거",
+      "namePrep": "버거",
+      "serving": "버거 1회 제공량"
+    },
+    "french-fries": {
+      "name": "감자튀김",
+      "namePrep": "감자튀김",
+      "serving": "감자튀김 1회 제공량"
+    },
+    "sushi-roll": {
+      "name": "스시 롤",
+      "namePrep": "스시 롤",
+      "serving": "스시 롤 1회 제공량"
+    },
+    "taco": {
+      "name": "타코",
+      "namePrep": "타코",
+      "serving": "타코 1회 제공량"
+    },
+    "burrito": {
+      "name": "부리토",
+      "namePrep": "부리토",
+      "serving": "부리토 1회 제공량"
+    },
+    "chicken-nuggets": {
+      "name": "치킨 너겟",
+      "namePrep": "치킨 너겟",
+      "serving": "치킨 너겟 1회 제공량"
+    },
+    "hot-dog": {
+      "name": "핫도그",
+      "namePrep": "핫도그",
+      "serving": "핫도그 1회 제공량"
+    },
+    "steak": {
+      "name": "스테이크",
+      "namePrep": "스테이크",
+      "serving": "스테이크 1회 제공량"
+    },
+    "bacon": {
+      "name": "베이컨",
+      "namePrep": "베이컨",
+      "serving": "베이컨 1회 제공량"
+    },
+    "tuna": {
+      "name": "참치",
+      "namePrep": "참치",
+      "serving": "참치 1회 제공량"
+    },
+    "shrimp": {
+      "name": "새우",
+      "namePrep": "새우",
+      "serving": "새우 1회 제공량"
+    },
+    "tofu": {
+      "name": "두부",
+      "namePrep": "두부",
+      "serving": "두부 1회 제공량"
+    },
+    "lentils": {
+      "name": "렌틸콩",
+      "namePrep": "렌틸콩",
+      "serving": "렌틸콩 1회 제공량"
+    },
+    "black-beans": {
+      "name": "검은콩",
+      "namePrep": "검은콩",
+      "serving": "검은콩 1회 제공량"
+    },
+    "chickpeas": {
+      "name": "병아리콩",
+      "namePrep": "병아리콩",
+      "serving": "병아리콩 1회 제공량"
+    },
+    "hummus": {
+      "name": "후무스",
+      "namePrep": "후무스",
+      "serving": "후무스 1회 제공량"
+    },
+    "quinoa": {
+      "name": "퀴노아",
+      "namePrep": "퀴노아",
+      "serving": "퀴노아 1회 제공량"
+    },
+    "tortilla": {
+      "name": "토르티야",
+      "namePrep": "토르티야",
+      "serving": "토르티야 1회 제공량"
+    },
+    "bagel": {
+      "name": "베이글",
+      "namePrep": "베이글",
+      "serving": "베이글 1회 제공량"
+    },
+    "croissant": {
+      "name": "크루아상",
+      "namePrep": "크루아상",
+      "serving": "크루아상 1회 제공량"
+    },
+    "pancake": {
+      "name": "팬케이크",
+      "namePrep": "팬케이크",
+      "serving": "팬케이크 1회 제공량"
+    },
+    "waffle": {
+      "name": "와플",
+      "namePrep": "와플",
+      "serving": "와플 1회 제공량"
+    },
+    "cereal": {
+      "name": "시리얼",
+      "namePrep": "시리얼",
+      "serving": "시리얼 1회 제공량"
+    },
+    "granola": {
+      "name": "그래놀라",
+      "namePrep": "그래놀라",
+      "serving": "그래놀라 1회 제공량"
+    },
+    "almonds": {
+      "name": "아몬드",
+      "namePrep": "아몬드",
+      "serving": "아몬드 1회 제공량"
+    },
+    "walnuts": {
+      "name": "호두",
+      "namePrep": "호두",
+      "serving": "호두 1회 제공량"
+    },
+    "cashews": {
+      "name": "캐슈넛",
+      "namePrep": "캐슈넛",
+      "serving": "캐슈넛 1회 제공량"
+    },
+    "chocolate": {
+      "name": "초콜릿",
+      "namePrep": "초콜릿",
+      "serving": "초콜릿 1회 제공량"
+    },
+    "ice-cream": {
+      "name": "아이스크림",
+      "namePrep": "아이스크림",
+      "serving": "아이스크림 1회 제공량"
+    },
+    "cookie": {
+      "name": "초콜릿 칩 쿠키",
+      "namePrep": "초콜릿 칩 쿠키",
+      "serving": "초콜릿 칩 쿠키 1회 제공량"
+    },
+    "donut": {
+      "name": "글레이즈드 도넛",
+      "namePrep": "글레이즈드 도넛",
+      "serving": "글레이즈드 도넛 1회 제공량"
+    },
+    "muffin": {
+      "name": "블루베리 머핀",
+      "namePrep": "블루베리 머핀",
+      "serving": "블루베리 머핀 1회 제공량"
+    },
+    "cake": {
+      "name": "케이크",
+      "namePrep": "케이크",
+      "serving": "케이크 1회 제공량"
+    },
+    "brownie": {
+      "name": "브라우니",
+      "namePrep": "브라우니",
+      "serving": "브라우니 1회 제공량"
+    },
+    "popcorn": {
+      "name": "팝콘",
+      "namePrep": "팝콘",
+      "serving": "팝콘 1회 제공량"
+    },
+    "potato-chips": {
+      "name": "감자칩",
+      "namePrep": "감자칩",
+      "serving": "감자칩 1회 제공량"
+    },
+    "pretzels": {
+      "name": "프레첼",
+      "namePrep": "프레첼",
+      "serving": "프레첼 1회 제공량"
+    },
+    "smoothie": {
+      "name": "과일 스무디",
+      "namePrep": "과일 스무디",
+      "serving": "과일 스무디 1회 제공량"
+    },
+    "orange-juice": {
+      "name": "오렌지 주스",
+      "namePrep": "오렌지 주스",
+      "serving": "오렌지 주스 1회 제공량"
+    },
+    "soda": {
+      "name": "탄산음료",
+      "namePrep": "탄산음료",
+      "serving": "탄산음료 1회 제공량"
+    },
+    "latte": {
+      "name": "라테",
+      "namePrep": "라테",
+      "serving": "라테 1회 제공량"
+    },
+    "protein-shake": {
+      "name": "프로틴 셰이크",
+      "namePrep": "프로틴 셰이크",
+      "serving": "프로틴 셰이크 1회 제공량"
+    },
+    "spaghetti-bolognese": {
+      "name": "스파게티 볼로네제",
+      "namePrep": "스파게티 볼로네제",
+      "serving": "스파게티 볼로네제 1회 제공량"
+    },
+    "ramen": {
+      "name": "라멘",
+      "namePrep": "라멘",
+      "serving": "라멘 1회 제공량"
+    },
+    "pho": {
+      "name": "쌀국수",
+      "namePrep": "쌀국수",
+      "serving": "쌀국수 1회 제공량"
+    },
+    "chicken-soup": {
+      "name": "닭고기 수프",
+      "namePrep": "닭고기 수프",
+      "serving": "닭고기 수프 1회 제공량"
+    },
+    "caesar-salad": {
+      "name": "시저 샐러드",
+      "namePrep": "시저 샐러드",
+      "serving": "시저 샐러드 1회 제공량"
+    },
+    "green-salad": {
+      "name": "그린 샐러드",
+      "namePrep": "그린 샐러드",
+      "serving": "그린 샐러드 1회 제공량"
+    },
+    "broccoli": {
+      "name": "브로콜리",
+      "namePrep": "브로콜리",
+      "serving": "브로콜리 1회 제공량"
+    },
+    "spinach": {
+      "name": "시금치",
+      "namePrep": "시금치",
+      "serving": "시금치 1회 제공량"
+    },
+    "carrots": {
+      "name": "당근",
+      "namePrep": "당근",
+      "serving": "당근 1회 제공량"
+    },
+    "corn": {
+      "name": "옥수수",
+      "namePrep": "옥수수",
+      "serving": "옥수수 1회 제공량"
+    },
+    "tomato": {
+      "name": "토마토",
+      "namePrep": "토마토",
+      "serving": "토마토 1회 제공량"
+    },
+    "cucumber": {
+      "name": "오이",
+      "namePrep": "오이",
+      "serving": "오이 1회 제공량"
+    },
+    "cheesecake": {
+      "name": "치즈케이크",
+      "namePrep": "치즈케이크",
+      "serving": "치즈케이크 1회 제공량"
+    },
+    "lasagna": {
+      "name": "라자냐",
+      "namePrep": "라자냐",
+      "serving": "라자냐 1회 제공량"
+    },
+    "grilled-cheese": {
+      "name": "그릴드 치즈 샌드위치",
+      "namePrep": "그릴드 치즈 샌드위치",
+      "serving": "그릴드 치즈 샌드위치 1회 제공량"
+    },
+    "peanut-butter-jelly": {
+      "name": "땅콩버터 잼 샌드위치",
+      "namePrep": "땅콩버터 잼 샌드위치",
+      "serving": "땅콩버터 잼 샌드위치 1회 제공량"
+    },
+    "omelette": {
+      "name": "오믈렛",
+      "namePrep": "오믈렛",
+      "serving": "오믈렛 1회 제공량"
+    },
+    "fried-egg": {
+      "name": "프라이드 에그",
+      "namePrep": "프라이드 에그",
+      "serving": "프라이드 에그 1회 제공량"
+    },
+    "boiled-egg": {
+      "name": "삶은 달걀",
+      "namePrep": "삶은 달걀",
+      "serving": "삶은 달걀 1회 제공량"
+    },
+    "toast": {
+      "name": "토스트",
+      "namePrep": "토스트",
+      "serving": "토스트 1회 제공량"
+    },
+    "avocado-toast": {
+      "name": "아보카도 토스트",
+      "namePrep": "아보카도 토스트",
+      "serving": "아보카도 토스트 1회 제공량"
+    },
+    "chicken-salad": {
+      "name": "치킨 샐러드",
+      "namePrep": "치킨 샐러드",
+      "serving": "치킨 샐러드 1회 제공량"
+    },
+    "tuna-salad": {
+      "name": "참치 샐러드",
+      "namePrep": "참치 샐러드",
+      "serving": "참치 샐러드 1회 제공량"
+    },
+    "egg-salad": {
+      "name": "에그 샐러드",
+      "namePrep": "에그 샐러드",
+      "serving": "에그 샐러드 1회 제공량"
+    },
+    "cottage-cheese": {
+      "name": "코티지 치즈",
+      "namePrep": "코티지 치즈",
+      "serving": "코티지 치즈 1회 제공량"
+    },
+    "cream-cheese": {
+      "name": "크림치즈",
+      "namePrep": "크림치즈",
+      "serving": "크림치즈 1회 제공량"
+    },
+    "butter": {
+      "name": "버터",
+      "namePrep": "버터",
+      "serving": "버터 1회 제공량"
+    },
+    "olive-oil": {
+      "name": "올리브오일",
+      "namePrep": "올리브오일",
+      "serving": "올리브오일 1회 제공량"
+    },
+    "mayonnaise": {
+      "name": "마요네즈",
+      "namePrep": "마요네즈",
+      "serving": "마요네즈 1회 제공량"
+    },
+    "ketchup": {
+      "name": "케첩",
+      "namePrep": "케첩",
+      "serving": "케첩 1회 제공량"
+    },
+    "honey": {
+      "name": "꿀",
+      "namePrep": "꿀",
+      "serving": "꿀 1회 제공량"
+    },
+    "jam": {
+      "name": "잼",
+      "namePrep": "잼",
+      "serving": "잼 1회 제공량"
+    },
+    "protein-bar": {
+      "name": "프로틴 바",
+      "namePrep": "프로틴 바",
+      "serving": "프로틴 바 1회 제공량"
+    },
+    "energy-drink": {
+      "name": "에너지 드링크",
+      "namePrep": "에너지 드링크",
+      "serving": "에너지 드링크 1회 제공량"
+    },
+    "matcha-latte": {
+      "name": "말차 라테",
+      "namePrep": "말차 라테",
+      "serving": "말차 라테 1회 제공량"
+    },
+    "trail-mix": {
+      "name": "트레일 믹스",
+      "namePrep": "트레일 믹스",
+      "serving": "트레일 믹스 1회 제공량"
+    },
+    "blueberries": {
+      "name": "블루베리",
+      "namePrep": "블루베리",
+      "serving": "블루베리 1회 제공량"
+    },
+    "strawberries": {
+      "name": "딸기",
+      "namePrep": "딸기",
+      "serving": "딸기 1회 제공량"
+    },
+    "grapes": {
+      "name": "포도",
+      "namePrep": "포도",
+      "serving": "포도 1회 제공량"
+    },
+    "orange": {
+      "name": "오렌지",
+      "namePrep": "오렌지",
+      "serving": "오렌지 1회 제공량"
+    },
+    "pear": {
+      "name": "배",
+      "namePrep": "배",
+      "serving": "배 1회 제공량"
+    },
+    "peach": {
+      "name": "복숭아",
+      "namePrep": "복숭아",
+      "serving": "복숭아 1회 제공량"
+    },
+    "watermelon": {
+      "name": "수박",
+      "namePrep": "수박",
+      "serving": "수박 1회 제공량"
+    },
+    "pineapple": {
+      "name": "파인애플",
+      "namePrep": "파인애플",
+      "serving": "파인애플 1회 제공량"
+    },
+    "mango": {
+      "name": "망고",
+      "namePrep": "망고",
+      "serving": "망고 1회 제공량"
+    },
+    "kiwi": {
+      "name": "키위",
+      "namePrep": "키위",
+      "serving": "키위 1회 제공량"
+    },
+    "raspberries": {
+      "name": "라즈베리",
+      "namePrep": "라즈베리",
+      "serving": "라즈베리 1회 제공량"
+    },
+    "blackberries": {
+      "name": "블랙베리",
+      "namePrep": "블랙베리",
+      "serving": "블랙베리 1회 제공량"
+    },
+    "cherries": {
+      "name": "체리",
+      "namePrep": "체리",
+      "serving": "체리 1회 제공량"
+    },
+    "grapefruit": {
+      "name": "자몽",
+      "namePrep": "자몽",
+      "serving": "자몽 1회 제공량"
+    },
+    "lettuce": {
+      "name": "상추",
+      "namePrep": "상추",
+      "serving": "상추 1회 제공량"
+    },
+    "cabbage": {
+      "name": "양배추",
+      "namePrep": "양배추",
+      "serving": "양배추 1회 제공량"
+    },
+    "cauliflower": {
+      "name": "콜리플라워",
+      "namePrep": "콜리플라워",
+      "serving": "콜리플라워 1회 제공량"
+    },
+    "asparagus": {
+      "name": "아스파라거스",
+      "namePrep": "아스파라거스",
+      "serving": "아스파라거스 1회 제공량"
+    },
+    "zucchini": {
+      "name": "주키니",
+      "namePrep": "주키니",
+      "serving": "주키니 1회 제공량"
+    },
+    "eggplant": {
+      "name": "가지",
+      "namePrep": "가지",
+      "serving": "가지 1회 제공량"
+    },
+    "bell-pepper": {
+      "name": "파프리카",
+      "namePrep": "파프리카",
+      "serving": "파프리카 1회 제공량"
+    },
+    "onion": {
+      "name": "양파",
+      "namePrep": "양파",
+      "serving": "양파 1회 제공량"
+    },
+    "mushrooms": {
+      "name": "버섯",
+      "namePrep": "버섯",
+      "serving": "버섯 1회 제공량"
+    },
+    "green-beans": {
+      "name": "그린빈",
+      "namePrep": "그린빈",
+      "serving": "그린빈 1회 제공량"
+    },
+    "kale": {
+      "name": "케일",
+      "namePrep": "케일",
+      "serving": "케일 1회 제공량"
+    },
+    "beets": {
+      "name": "비트",
+      "namePrep": "비트",
+      "serving": "비트 1회 제공량"
+    },
+    "turkey-breast": {
+      "name": "칠면조 가슴살",
+      "namePrep": "칠면조 가슴살",
+      "serving": "칠면조 가슴살 1회 제공량"
+    },
+    "chicken-thigh": {
+      "name": "닭다리살",
+      "namePrep": "닭다리살",
+      "serving": "닭다리살 1회 제공량"
+    },
+    "pork-chop": {
+      "name": "돼지갈비",
+      "namePrep": "돼지갈비",
+      "serving": "돼지갈비 1회 제공량"
+    },
+    "ground-beef": {
+      "name": "다진 소고기",
+      "namePrep": "다진 소고기",
+      "serving": "다진 소고기 1회 제공량"
+    },
+    "meatballs": {
+      "name": "미트볼",
+      "namePrep": "미트볼",
+      "serving": "미트볼 1회 제공량"
+    },
+    "sausage": {
+      "name": "소시지",
+      "namePrep": "소시지",
+      "serving": "소시지 1회 제공량"
+    },
+    "cod": {
+      "name": "대구",
+      "namePrep": "대구",
+      "serving": "대구 1회 제공량"
+    },
+    "tilapia": {
+      "name": "틸라피아",
+      "namePrep": "틸라피아",
+      "serving": "틸라피아 1회 제공량"
+    },
+    "sardines": {
+      "name": "정어리",
+      "namePrep": "정어리",
+      "serving": "정어리 1회 제공량"
+    },
+    "crab": {
+      "name": "게",
+      "namePrep": "게",
+      "serving": "게 1회 제공량"
+    },
+    "scallops": {
+      "name": "가리비",
+      "namePrep": "가리비",
+      "serving": "가리비 1회 제공량"
+    },
+    "smoked-salmon": {
+      "name": "훈제 연어",
+      "namePrep": "훈제 연어",
+      "serving": "훈제 연어 1회 제공량"
+    },
+    "skim-milk": {
+      "name": "무지방 우유",
+      "namePrep": "무지방 우유",
+      "serving": "무지방 우유 1회 제공량"
+    },
+    "soy-milk": {
+      "name": "두유",
+      "namePrep": "두유",
+      "serving": "두유 1회 제공량"
+    },
+    "almond-milk": {
+      "name": "아몬드 밀크",
+      "namePrep": "아몬드 밀크",
+      "serving": "아몬드 밀크 1회 제공량"
+    },
+    "oat-milk": {
+      "name": "오트밀크",
+      "namePrep": "오트밀크",
+      "serving": "오트밀크 1회 제공량"
+    },
+    "kefir": {
+      "name": "케피어",
+      "namePrep": "케피어",
+      "serving": "케피어 1회 제공량"
+    },
+    "sour-cream": {
+      "name": "사워크림",
+      "namePrep": "사워크림",
+      "serving": "사워크림 1회 제공량"
+    },
+    "feta-cheese": {
+      "name": "페타 치즈",
+      "namePrep": "페타 치즈",
+      "serving": "페타 치즈 1회 제공량"
+    },
+    "mozzarella": {
+      "name": "모차렐라",
+      "namePrep": "모차렐라",
+      "serving": "모차렐라 1회 제공량"
+    },
+    "parmesan": {
+      "name": "파르메산",
+      "namePrep": "파르메산",
+      "serving": "파르메산 1회 제공량"
+    },
+    "couscous": {
+      "name": "쿠스쿠스",
+      "namePrep": "쿠스쿠스",
+      "serving": "쿠스쿠스 1회 제공량"
+    },
+    "barley": {
+      "name": "보리",
+      "namePrep": "보리",
+      "serving": "보리 1회 제공량"
+    },
+    "buckwheat": {
+      "name": "메밀",
+      "namePrep": "메밀",
+      "serving": "메밀 1회 제공량"
+    },
+    "bulgur": {
+      "name": "불구르",
+      "namePrep": "불구르",
+      "serving": "불구르 1회 제공량"
+    },
+    "naan": {
+      "name": "난",
+      "namePrep": "난",
+      "serving": "난 1회 제공량"
+    },
+    "pita-bread": {
+      "name": "피타 브레드",
+      "namePrep": "피타 브레드",
+      "serving": "피타 브레드 1회 제공량"
+    },
+    "english-muffin": {
+      "name": "잉글리시 머핀",
+      "namePrep": "잉글리시 머핀",
+      "serving": "잉글리시 머핀 1회 제공량"
+    },
+    "rice-cake": {
+      "name": "라이스 케이크",
+      "namePrep": "라이스 케이크",
+      "serving": "라이스 케이크 1회 제공량"
+    },
+    "crackers": {
+      "name": "크래커",
+      "namePrep": "크래커",
+      "serving": "크래커 1회 제공량"
+    },
+    "mashed-potatoes": {
+      "name": "으깬 감자",
+      "namePrep": "으깬 감자",
+      "serving": "으깬 감자 1회 제공량"
+    },
+    "scrambled-eggs": {
+      "name": "스크램블 에그",
+      "namePrep": "스크램블 에그",
+      "serving": "스크램블 에그 1회 제공량"
+    },
+    "french-toast": {
+      "name": "프렌치토스트",
+      "namePrep": "프렌치토스트",
+      "serving": "프렌치토스트 1회 제공량"
+    },
+    "breakfast-burrito": {
+      "name": "아침 부리토",
+      "namePrep": "아침 부리토",
+      "serving": "아침 부리토 1회 제공량"
+    },
+    "hash-browns": {
+      "name": "해시 브라운",
+      "namePrep": "해시 브라운",
+      "serving": "해시 브라운 1회 제공량"
+    },
+    "chia-pudding": {
+      "name": "치아 푸딩",
+      "namePrep": "치아 푸딩",
+      "serving": "치아 푸딩 1회 제공량"
+    },
+    "overnight-oats": {
+      "name": "오버나이트 오트",
+      "namePrep": "오버나이트 오트",
+      "serving": "오버나이트 오트 1회 제공량"
+    },
+    "breakfast-sandwich": {
+      "name": "아침 샌드위치",
+      "namePrep": "아침 샌드위치",
+      "serving": "아침 샌드위치 1회 제공량"
+    },
+    "edamame": {
+      "name": "에다마메",
+      "namePrep": "에다마메",
+      "serving": "에다마메 1회 제공량"
+    },
+    "kidney-beans": {
+      "name": "강낭콩",
+      "namePrep": "강낭콩",
+      "serving": "강낭콩 1회 제공량"
+    },
+    "pinto-beans": {
+      "name": "핀토콩",
+      "namePrep": "핀토콩",
+      "serving": "핀토콩 1회 제공량"
+    },
+    "split-peas": {
+      "name": "쪼갠 완두콩",
+      "namePrep": "쪼갠 완두콩",
+      "serving": "쪼갠 완두콩 1회 제공량"
+    },
+    "baked-beans": {
+      "name": "베이크드 빈스",
+      "namePrep": "베이크드 빈스",
+      "serving": "베이크드 빈스 1회 제공량"
+    },
+    "fried-rice": {
+      "name": "볶음밥",
+      "namePrep": "볶음밥",
+      "serving": "볶음밥 1회 제공량"
+    },
+    "pad-thai": {
+      "name": "팟타이",
+      "namePrep": "팟타이",
+      "serving": "팟타이 1회 제공량"
+    },
+    "chicken-curry": {
+      "name": "치킨 커리",
+      "namePrep": "치킨 커리",
+      "serving": "치킨 커리 1회 제공량"
+    },
+    "chicken-tikka-masala": {
+      "name": "치킨 티카 마살라",
+      "namePrep": "치킨 티카 마살라",
+      "serving": "치킨 티카 마살라 1회 제공량"
+    },
+    "beef-chili": {
+      "name": "비프 칠리",
+      "namePrep": "비프 칠리",
+      "serving": "비프 칠리 1회 제공량"
+    },
+    "falafel": {
+      "name": "팔라펠",
+      "namePrep": "팔라펠",
+      "serving": "팔라펠 1회 제공량"
+    },
+    "dumplings": {
+      "name": "만두",
+      "namePrep": "만두",
+      "serving": "만두 1회 제공량"
+    },
+    "spring-rolls": {
+      "name": "스프링롤",
+      "namePrep": "스프링롤",
+      "serving": "스프링롤 1회 제공량"
+    },
+    "quesadilla": {
+      "name": "케사디야",
+      "namePrep": "케사디야",
+      "serving": "케사디야 1회 제공량"
+    },
+    "nachos": {
+      "name": "나초",
+      "namePrep": "나초",
+      "serving": "나초 1회 제공량"
+    },
+    "mac-and-cheese": {
+      "name": "맥앤치즈",
+      "namePrep": "맥앤치즈",
+      "serving": "맥앤치즈 1회 제공량"
+    },
+    "chicken-wings": {
+      "name": "치킨윙",
+      "namePrep": "치킨윙",
+      "serving": "치킨윙 1회 제공량"
+    },
+    "fish-and-chips": {
+      "name": "피시 앤 칩스",
+      "namePrep": "피시 앤 칩스",
+      "serving": "피시 앤 칩스 1회 제공량"
+    },
+    "risotto": {
+      "name": "리소토",
+      "namePrep": "리소토",
+      "serving": "리소토 1회 제공량"
+    },
+    "tortilla-chips": {
+      "name": "토르티야 칩",
+      "namePrep": "토르티야 칩",
+      "serving": "토르티야 칩 1회 제공량"
+    },
+    "granola-bar": {
+      "name": "그래놀라 바",
+      "namePrep": "그래놀라 바",
+      "serving": "그래놀라 바 1회 제공량"
+    },
+    "chocolate-bar": {
+      "name": "초콜릿 바",
+      "namePrep": "초콜릿 바",
+      "serving": "초콜릿 바 1회 제공량"
+    },
+    "candy": {
+      "name": "사탕",
+      "namePrep": "사탕",
+      "serving": "사탕 1회 제공량"
+    },
+    "cinnamon-roll": {
+      "name": "시나몬 롤",
+      "namePrep": "시나몬 롤",
+      "serving": "시나몬 롤 1회 제공량"
+    },
+    "marshmallows": {
+      "name": "마시멜로",
+      "namePrep": "마시멜로",
+      "serving": "마시멜로 1회 제공량"
+    },
+    "fruit-snacks": {
+      "name": "과일 스낵",
+      "namePrep": "과일 스낵",
+      "serving": "과일 스낵 1회 제공량"
+    },
+    "black-coffee": {
+      "name": "블랙커피",
+      "namePrep": "블랙커피",
+      "serving": "블랙커피 1회 제공량"
+    },
+    "cappuccino": {
+      "name": "카푸치노",
+      "namePrep": "카푸치노",
+      "serving": "카푸치노 1회 제공량"
+    },
+    "milk-tea": {
+      "name": "밀크티",
+      "namePrep": "밀크티",
+      "serving": "밀크티 1회 제공량"
+    },
+    "bubble-tea": {
+      "name": "버블티",
+      "namePrep": "버블티",
+      "serving": "버블티 1회 제공량"
+    },
+    "lemonade": {
+      "name": "레모네이드",
+      "namePrep": "레모네이드",
+      "serving": "레모네이드 1회 제공량"
+    },
+    "iced-tea": {
+      "name": "아이스티",
+      "namePrep": "아이스티",
+      "serving": "아이스티 1회 제공량"
+    },
+    "apple-juice": {
+      "name": "사과 주스",
+      "namePrep": "사과 주스",
+      "serving": "사과 주스 1회 제공량"
+    },
+    "coconut-water": {
+      "name": "코코넛 워터",
+      "namePrep": "코코넛 워터",
+      "serving": "코코넛 워터 1회 제공량"
+    },
+    "sports-drink": {
+      "name": "스포츠음료",
+      "namePrep": "스포츠음료",
+      "serving": "스포츠음료 1회 제공량"
+    },
+    "ranch-dressing": {
+      "name": "랜치 드레싱",
+      "namePrep": "랜치 드레싱",
+      "serving": "랜치 드레싱 1회 제공량"
+    },
+    "bbq-sauce": {
+      "name": "BBQ 소스",
+      "namePrep": "BBQ 소스",
+      "serving": "BBQ 소스 1회 제공량"
+    },
+    "salsa": {
+      "name": "살사",
+      "namePrep": "살사",
+      "serving": "살사 1회 제공량"
+    },
+    "guacamole": {
+      "name": "과카몰리",
+      "namePrep": "과카몰리",
+      "serving": "과카몰리 1회 제공량"
+    }
+  },
+  "utility": {
+    "pricing": "요금제",
+    "support": "지원",
+    "privacy": "개인정보 처리방침",
+    "terms": "이용약관",
+    "press": "프레스 키트",
+    "deleteExtra": "계정과 관련 데이터를 삭제하려면 앱의 안내를 따르거나 지원팀에 문의하세요."
+  },
+  "store": {
+    "appStoreSmall": "App Store",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Google Play",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "기능",
+    "useCase": "활용 방법",
+    "openPage": "자세히 보기 →",
+    "openArrow": "자세히 보기 →",
+    "practicalWorkflow": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+    "workflowTitle": "사진 한 장으로 식사를 기록하세요",
+    "goodToKnow": "자세히 보기",
+    "defaultNote": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+    "relatedPages": "활용 방법",
+    "quickTakeaway": "자세히 보기",
+    "defaultTakeaway": "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+    "information": "영양",
+    "bestFor": "추천 대상"
+  },
+  "internalCta": {
+    "title": "Calorie Counter AI로 식사를 기록하세요",
+    "text": "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요.",
+    "button": "다운로드"
+  },
+  "download": {
+    "availableTitle": "iPhone 및 Android에서 사용할 수 있습니다",
+    "availableText": "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+  },
+  "faq": {
+    "items": [
+      [
+        "Calorie Counter AI는 무료인가요?",
+        "기본 기능은 무료로 시작할 수 있습니다. 일부 고급 기능은 유료 플랜이 필요할 수 있습니다."
+      ],
+      [
+        "사진으로 칼로리를 어떻게 추정하나요?",
+        "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+      ],
+      [
+        "바코드 스캔을 지원하나요?",
+        "포장 식품은 바코드를 스캔해 영양 정보를 빠르게 확인할 수 있습니다."
+      ],
+      [
+        "매크로도 기록할 수 있나요?",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      [
+        "집에서 만든 음식에도 사용할 수 있나요?",
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다."
+      ],
+      [
+        "영양 추정치는 얼마나 정확한가요?",
+        "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "기본 기능은 무료로 시작할 수 있습니다. 일부 고급 기능은 유료 플랜이 필요할 수 있습니다.",
+      "기본 기능은 무료로 시작할 수 있습니다. 일부 고급 기능은 유료 플랜이 필요할 수 있습니다."
+    ],
+    "support": [
+      "도움이 필요하면 문의해 주세요. 앱, 결제, 계정 관련 질문을 안내해 드립니다.",
+      "도움이 필요하면 문의해 주세요. 앱, 결제, 계정 관련 질문을 안내해 드립니다."
+    ],
+    "contact": [
+      "지원 이메일",
+      "문의 내용을 보내 주세요."
+    ],
+    "privacy": [
+      "서비스 제공, 개선, 보호에 필요한 정보만 처리합니다. 자세한 내용은 개인정보 처리방침을 확인하세요.",
+      "서비스 제공, 개선, 보호에 필요한 정보만 처리합니다. 자세한 내용은 개인정보 처리방침을 확인하세요."
+    ],
+    "terms": [
+      "Calorie Counter AI를 사용하면 이용약관에 동의하는 것으로 간주됩니다.",
+      "Calorie Counter AI를 사용하면 이용약관에 동의하는 것으로 간주됩니다."
+    ],
+    "disclaimer": [
+      "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+    ],
+    "delete": [
+      "계정과 관련 데이터를 삭제하려면 앱의 안내를 따르거나 지원팀에 문의하세요.",
+      "계정과 관련 데이터를 삭제하려면 앱의 안내를 따르거나 지원팀에 문의하세요."
+    ]
+  },
+  "press": {
+    "iconAlt": "앱 아이콘",
+    "iconTitle": "앱 아이콘",
+    "downloadIcon": "다운로드",
+    "screenshotAlt": "앱 화면",
+    "screenshotTitle": "Calorie Counter AI 스크린샷",
+    "downloadScreenshot": "다운로드",
+    "shortDescriptionTitle": "사진으로 쓰는 AI 칼로리 카운터",
+    "shortDescriptionText": "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+  },
+  "notFound": {
+    "title": "페이지를 찾을 수 없습니다",
+    "text": "찾는 페이지가 이동되었거나 삭제되었을 수 있습니다.",
+    "home": "홈"
+  },
+  "pages": {
+    "/features/": {
+      "title": "기능",
+      "h1": "기능",
+      "description": "기능: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "기능",
+      "summary": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+      "bullets": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ]
+      ],
+      "workflowTitle": "기능",
+      "workflow": [
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      "note": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "bestFor": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "workflowKicker": "기능",
+      "noteTitle": "자세히 보기"
+    },
+    "/food-recognition-ai/": {
+      "title": "AI 음식 인식",
+      "h1": "AI 음식 인식",
+      "description": "AI 음식 인식: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "AI 음식 인식",
+      "summary": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+      "bullets": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ]
+      ],
+      "workflowTitle": "AI 음식 인식",
+      "workflow": [
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      "note": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "bestFor": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "workflowKicker": "AI 음식 인식",
+      "noteTitle": "자세히 보기"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "바코드 칼로리 스캐너",
+      "h1": "바코드 칼로리 스캐너",
+      "description": "바코드 칼로리 스캐너: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "바코드 칼로리 스캐너",
+      "summary": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+      "bullets": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ]
+      ],
+      "workflowTitle": "바코드 칼로리 스캐너",
+      "workflow": [
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      "note": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "bestFor": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "workflowKicker": "바코드 칼로리 스캐너",
+      "noteTitle": "자세히 보기"
+    },
+    "/macro-tracker/": {
+      "title": "매크로 트래커",
+      "h1": "매크로 트래커",
+      "description": "매크로 트래커: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "매크로 트래커",
+      "summary": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+      "bullets": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ]
+      ],
+      "workflowTitle": "매크로 트래커",
+      "workflow": [
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      "note": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "bestFor": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "workflowKicker": "매크로 트래커",
+      "noteTitle": "자세히 보기"
+    },
+    "/food-diary-app/": {
+      "title": "식단 기록 앱",
+      "h1": "식단 기록 앱",
+      "description": "식단 기록 앱: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "식단 기록 앱",
+      "summary": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+      "bullets": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ]
+      ],
+      "workflowTitle": "식단 기록 앱",
+      "workflow": [
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      "note": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "bestFor": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "workflowKicker": "식단 기록 앱",
+      "noteTitle": "자세히 보기"
+    },
+    "/nutrition-tracker/": {
+      "title": "영양 트래커",
+      "h1": "영양 트래커",
+      "description": "영양 트래커: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "영양 트래커",
+      "summary": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+      "bullets": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ]
+      ],
+      "workflowTitle": "영양 트래커",
+      "workflow": [
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      "note": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "bestFor": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "workflowKicker": "영양 트래커",
+      "noteTitle": "자세히 보기"
+    },
+    "/meal-weight-estimator/": {
+      "title": "식사 중량 추정",
+      "h1": "식사 중량 추정",
+      "description": "식사 중량 추정: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "식사 중량 추정",
+      "summary": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+      "bullets": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ]
+      ],
+      "workflowTitle": "식사 중량 추정",
+      "workflow": [
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      "note": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "bestFor": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "workflowKicker": "식사 중량 추정",
+      "noteTitle": "자세히 보기"
+    },
+    "/progress-statistics/": {
+      "title": "진행 상황과 통계",
+      "h1": "진행 상황과 통계",
+      "description": "진행 상황과 통계: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "진행 상황과 통계",
+      "summary": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+      "bullets": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ]
+      ],
+      "workflowTitle": "진행 상황과 통계",
+      "workflow": [
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      "note": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "bestFor": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "workflowKicker": "진행 상황과 통계",
+      "noteTitle": "자세히 보기"
+    },
+    "/meal-reminders/": {
+      "title": "식사 알림",
+      "h1": "식사 알림",
+      "description": "식사 알림: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "식사 알림",
+      "summary": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+      "bullets": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ]
+      ],
+      "workflowTitle": "식사 알림",
+      "workflow": [
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      "note": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "bestFor": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "workflowKicker": "식사 알림",
+      "noteTitle": "자세히 보기"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect 연동",
+      "h1": "Google Health Connect 연동",
+      "description": "Google Health Connect 연동: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "Google Health Connect 연동",
+      "summary": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+      "bullets": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ]
+      ],
+      "workflowTitle": "Google Health Connect 연동",
+      "workflow": [
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      "note": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "bestFor": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "workflowKicker": "Google Health Connect 연동",
+      "noteTitle": "자세히 보기"
+    },
+    "/data-export/": {
+      "title": "데이터 내보내기",
+      "h1": "데이터 내보내기",
+      "description": "데이터 내보내기: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "데이터 내보내기",
+      "summary": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+      "bullets": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ]
+      ],
+      "workflowTitle": "데이터 내보내기",
+      "workflow": [
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      "note": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "bestFor": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "workflowKicker": "데이터 내보내기",
+      "noteTitle": "자세히 보기"
+    },
+    "/use-cases/": {
+      "title": "활용 방법",
+      "h1": "활용 방법",
+      "description": "활용 방법: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "활용 방법"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "체중 감량용 칼로리 카운터",
+      "h1": "체중 감량용 칼로리 카운터",
+      "description": "체중 감량용 칼로리 카운터: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "체중 감량용 칼로리 카운터",
+      "summary": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+      "bullets": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ]
+      ],
+      "workflowTitle": "체중 감량용 칼로리 카운터",
+      "workflow": [
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      "note": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "bestFor": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "workflowKicker": "체중 감량용 칼로리 카운터",
+      "noteTitle": "자세히 보기"
+    },
+    "/calorie-deficit-app/": {
+      "title": "칼로리 적자 관리 앱",
+      "h1": "칼로리 적자 관리 앱",
+      "description": "칼로리 적자 관리 앱: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "칼로리 적자 관리 앱",
+      "summary": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+      "bullets": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ]
+      ],
+      "workflowTitle": "칼로리 적자 관리 앱",
+      "workflow": [
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      "note": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "bestFor": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "workflowKicker": "칼로리 적자 관리 앱",
+      "noteTitle": "자세히 보기"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "근육 증가용 칼로리 기록",
+      "h1": "근육 증가용 칼로리 기록",
+      "description": "근육 증가용 칼로리 기록: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "근육 증가용 칼로리 기록",
+      "summary": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+      "bullets": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ]
+      ],
+      "workflowTitle": "근육 증가용 칼로리 기록",
+      "workflow": [
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      "note": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "bestFor": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "workflowKicker": "근육 증가용 칼로리 기록",
+      "noteTitle": "자세히 보기"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "체중 유지용 칼로리 기록",
+      "h1": "체중 유지용 칼로리 기록",
+      "description": "체중 유지용 칼로리 기록: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "체중 유지용 칼로리 기록",
+      "summary": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+      "bullets": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ]
+      ],
+      "workflowTitle": "체중 유지용 칼로리 기록",
+      "workflow": [
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      "note": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "bestFor": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "workflowKicker": "체중 유지용 칼로리 기록",
+      "noteTitle": "자세히 보기"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "집밥 칼로리 카운터",
+      "h1": "집밥 칼로리 카운터",
+      "description": "집밥 칼로리 카운터: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "집밥 칼로리 카운터",
+      "summary": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+      "bullets": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ]
+      ],
+      "workflowTitle": "집밥 칼로리 카운터",
+      "workflow": [
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      "note": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "bestFor": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "workflowKicker": "집밥 칼로리 카운터",
+      "noteTitle": "자세히 보기"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "외식 칼로리 기록",
+      "h1": "외식 칼로리 기록",
+      "description": "외식 칼로리 기록: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "외식 칼로리 기록",
+      "summary": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+      "bullets": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ]
+      ],
+      "workflowTitle": "외식 칼로리 기록",
+      "workflow": [
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      "note": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "bestFor": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "workflowKicker": "외식 칼로리 기록",
+      "noteTitle": "자세히 보기"
+    },
+    "/meal-tracker/": {
+      "title": "식사 트래커",
+      "h1": "식사 트래커",
+      "description": "식사 트래커: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "식사 트래커",
+      "summary": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+      "bullets": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ]
+      ],
+      "workflowTitle": "식사 트래커",
+      "workflow": [
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      "note": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "bestFor": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "workflowKicker": "식사 트래커",
+      "noteTitle": "자세히 보기"
+    },
+    "/photo-food-journal/": {
+      "title": "사진 식단 일기",
+      "h1": "사진 식단 일기",
+      "description": "사진 식단 일기: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "사진 식단 일기",
+      "summary": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+      "bullets": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ]
+      ],
+      "workflowTitle": "사진 식단 일기",
+      "workflow": [
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      "note": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "bestFor": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "workflowKicker": "사진 식단 일기",
+      "noteTitle": "자세히 보기"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "건강한 식습관 관리",
+      "h1": "건강한 식습관 관리",
+      "description": "건강한 식습관 관리: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "건강한 식습관 관리",
+      "summary": "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+      "bullets": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ]
+      ],
+      "workflowTitle": "건강한 식습관 관리",
+      "workflow": [
+        "재료를 하나씩 검색하지 않아도 식사 사진으로 추정치를 확인하고 식단 기록에 저장할 수 있습니다.",
+        "하루 목표에 맞춰 칼로리, 단백질, 지방, 탄수화물을 함께 확인하세요."
+      ],
+      "note": "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다.",
+      "bestFor": [
+        "사진 칼로리 카운터",
+        "바코드 스캐너",
+        "매크로",
+        "식단 기록"
+      ],
+      "workflowKicker": "건강한 식습관 관리",
+      "noteTitle": "자세히 보기"
+    },
+    "/blog/": {
+      "title": "칼로리 관리 가이드",
+      "h1": "칼로리 관리 가이드",
+      "description": "칼로리 관리 가이드: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "칼로리 관리 가이드"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "사진으로 칼로리를 계산하는 방법",
+      "h1": "사진으로 칼로리를 계산하는 방법",
+      "description": "사진으로 칼로리를 계산하는 방법: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "category": "사진으로 칼로리를 계산하는 방법",
+      "readTime": "사진으로 칼로리를 계산하는 방법",
+      "intro": "사진으로 칼로리를 계산하는 방법",
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ],
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ]
+      ],
+      "takeaway": "사진으로 칼로리를 계산하는 방법"
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "AI 칼로리 카운터의 정확도",
+      "h1": "AI 칼로리 카운터의 정확도",
+      "description": "AI 칼로리 카운터의 정확도: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "category": "AI 칼로리 카운터의 정확도",
+      "readTime": "AI 칼로리 카운터의 정확도",
+      "intro": "AI 칼로리 카운터의 정확도",
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ],
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ]
+      ],
+      "takeaway": "AI 칼로리 카운터의 정확도"
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "AI 기록과 수동 기록 비교",
+      "h1": "AI 기록과 수동 기록 비교",
+      "description": "AI 기록과 수동 기록 비교: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "category": "AI 기록과 수동 기록 비교",
+      "readTime": "AI 기록과 수동 기록 비교",
+      "intro": "AI 기록과 수동 기록 비교",
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ],
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ]
+      ],
+      "takeaway": "AI 기록과 수동 기록 비교"
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "음식 칼로리 스캐너 사용법",
+      "h1": "음식 칼로리 스캐너 사용법",
+      "description": "음식 칼로리 스캐너 사용법: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "category": "음식 칼로리 스캐너 사용법",
+      "readTime": "음식 칼로리 스캐너 사용법",
+      "intro": "음식 칼로리 스캐너 사용법",
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ],
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ]
+      ],
+      "takeaway": "음식 칼로리 스캐너 사용법"
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "초보자를 위한 매크로 기록",
+      "h1": "초보자를 위한 매크로 기록",
+      "description": "초보자를 위한 매크로 기록: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "category": "초보자를 위한 매크로 기록",
+      "readTime": "초보자를 위한 매크로 기록",
+      "intro": "초보자를 위한 매크로 기록",
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ],
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ]
+      ],
+      "takeaway": "초보자를 위한 매크로 기록"
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "칼로리와 매크로의 차이",
+      "h1": "칼로리와 매크로의 차이",
+      "description": "칼로리와 매크로의 차이: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "category": "칼로리와 매크로의 차이",
+      "readTime": "칼로리와 매크로의 차이",
+      "intro": "칼로리와 매크로의 차이",
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ],
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ]
+      ],
+      "takeaway": "칼로리와 매크로의 차이"
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "집밥 칼로리를 계산하는 방법",
+      "h1": "집밥 칼로리를 계산하는 방법",
+      "description": "집밥 칼로리를 계산하는 방법: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "category": "집밥 칼로리를 계산하는 방법",
+      "readTime": "집밥 칼로리를 계산하는 방법",
+      "intro": "집밥 칼로리를 계산하는 방법",
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ],
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ]
+      ],
+      "takeaway": "집밥 칼로리를 계산하는 방법"
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "1회 제공량을 추정하는 방법",
+      "h1": "1회 제공량을 추정하는 방법",
+      "description": "1회 제공량을 추정하는 방법: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "category": "1회 제공량을 추정하는 방법",
+      "readTime": "1회 제공량을 추정하는 방법",
+      "intro": "1회 제공량을 추정하는 방법",
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ],
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ]
+      ],
+      "takeaway": "1회 제공량을 추정하는 방법"
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "하루에 필요한 칼로리 계산",
+      "h1": "하루에 필요한 칼로리 계산",
+      "description": "하루에 필요한 칼로리 계산: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "category": "하루에 필요한 칼로리 계산",
+      "readTime": "하루에 필요한 칼로리 계산",
+      "intro": "하루에 필요한 칼로리 계산",
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ],
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ]
+      ],
+      "takeaway": "하루에 필요한 칼로리 계산"
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "칼로리 적자란?",
+      "h1": "칼로리 적자란?",
+      "description": "칼로리 적자란?: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "category": "칼로리 적자란?",
+      "readTime": "칼로리 적자란?",
+      "intro": "칼로리 적자란?",
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ],
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ]
+      ],
+      "takeaway": "칼로리 적자란?"
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "칼로리 계산에서 흔한 실수",
+      "h1": "칼로리 계산에서 흔한 실수",
+      "description": "칼로리 계산에서 흔한 실수: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "category": "칼로리 계산에서 흔한 실수",
+      "readTime": "칼로리 계산에서 흔한 실수",
+      "intro": "칼로리 계산에서 흔한 실수",
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ],
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ]
+      ],
+      "takeaway": "칼로리 계산에서 흔한 실수"
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "외식 음식을 기록하는 방법",
+      "h1": "외식 음식을 기록하는 방법",
+      "description": "외식 음식을 기록하는 방법: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "category": "외식 음식을 기록하는 방법",
+      "readTime": "외식 음식을 기록하는 방법",
+      "intro": "외식 음식을 기록하는 방법",
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ],
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ]
+      ],
+      "takeaway": "외식 음식을 기록하는 방법"
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "단백질을 기록하는 방법",
+      "h1": "단백질을 기록하는 방법",
+      "description": "단백질을 기록하는 방법: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "category": "단백질을 기록하는 방법",
+      "readTime": "단백질을 기록하는 방법",
+      "intro": "단백질을 기록하는 방법",
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ],
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ]
+      ],
+      "takeaway": "단백질을 기록하는 방법"
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "식단 일기란?",
+      "h1": "식단 일기란?",
+      "description": "식단 일기란?: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "category": "식단 일기란?",
+      "readTime": "식단 일기란?",
+      "intro": "식단 일기란?",
+      "sections": [
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ],
+        [
+          "자세히 보기",
+          "Calorie Counter AI의 영양 정보는 참고용 추정치이며 의료 또는 영양 상담을 대체하지 않습니다."
+        ],
+        [
+          "다운로드",
+          "iPhone 또는 Android에서 Calorie Counter AI를 다운로드하고 다음 식사 사진을 바로 기록으로 남겨보세요."
+        ],
+        [
+          "기능",
+          "식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다."
+        ]
+      ],
+      "takeaway": "식단 일기란?"
+    },
+    "/download/": {
+      "title": "Calorie Counter AI 다운로드",
+      "h1": "Calorie Counter AI 다운로드",
+      "description": "Calorie Counter AI 다운로드: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "Calorie Counter AI 다운로드"
+    },
+    "/faq/": {
+      "title": "자주 묻는 질문",
+      "h1": "자주 묻는 질문",
+      "description": "자주 묻는 질문: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "자주 묻는 질문"
+    },
+    "/pricing/": {
+      "title": "요금제",
+      "h1": "요금제",
+      "description": "요금제: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "요금제"
+    },
+    "/support/": {
+      "title": "지원",
+      "h1": "지원",
+      "description": "지원: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "지원"
+    },
+    "/contact/": {
+      "title": "문의하기",
+      "h1": "문의하기",
+      "description": "문의하기: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "문의하기"
+    },
+    "/privacy-policy/": {
+      "title": "개인정보 처리방침",
+      "h1": "개인정보 처리방침",
+      "description": "개인정보 처리방침: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "개인정보 처리방침"
+    },
+    "/terms/": {
+      "title": "이용약관",
+      "h1": "이용약관",
+      "description": "이용약관: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "이용약관"
+    },
+    "/health-disclaimer/": {
+      "title": "건강 관련 면책 조항",
+      "h1": "건강 관련 면책 조항",
+      "description": "건강 관련 면책 조항: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "건강 관련 면책 조항"
+    },
+    "/delete-account/": {
+      "title": "계정 삭제",
+      "h1": "계정 삭제",
+      "description": "계정 삭제: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "계정 삭제"
+    },
+    "/press/": {
+      "title": "프레스 키트",
+      "h1": "프레스 키트",
+      "description": "프레스 키트: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "프레스 키트"
+    },
+    "/how-many-calories-in/": {
+      "title": "음식별 칼로리 목록",
+      "h1": "음식별 칼로리 목록",
+      "description": "음식별 칼로리 목록: 식사 사진을 찍으면 칼로리, 단백질, 지방, 탄수화물, 양의 추정치를 몇 초 안에 확인할 수 있습니다.",
+      "kicker": "음식별 칼로리 목록"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "쿠키 안내",
+    "text": "이 사이트는 기본 기능, 분석, 표시 개선을 위해 쿠키를 사용할 수 있습니다.",
+    "accept": "동의",
+    "decline": "거부"
+  }
+}

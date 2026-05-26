@@ -1,0 +1,2619 @@
+{
+  "localeName": "Slovenčina",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "AI počítadlo kalórií z fotky jedla"
+  },
+  "nav": {
+    "features": "Funkcie",
+    "useCases": "Použitie",
+    "blog": "Návody",
+    "faq": "FAQ",
+    "download": "Stiahnuť",
+    "language": "Vybrať jazyk",
+    "openMenu": "Otvoriť menu",
+    "caloriesInFoods": "Kalórie v potravinách",
+    "all": "Všetko",
+    "allFeatures": "Všetko funkcie",
+    "allUseCases": "Všetko použitie",
+    "allLearn": "Všetko návody",
+    "openHub": "Otvoriť sekciu →",
+    "home": "Domov"
+  },
+  "cta": {
+    "appStore": "Stiahnuť z App Store",
+    "googlePlay": "Stiahnuť z Google Play",
+    "downloadNow": "Stiahnuť teraz",
+    "tryFree": "Vyskúšať zadarmo",
+    "learnMore": "Zistiť viac",
+    "learnMoreArrow": "Zistiť viac →",
+    "readGuide": "Čítať návod"
+  },
+  "home": {
+    "title": "AI počítadlo kalórií z fotky jedla",
+    "description": "Odfoťte jedlo a za pár sekúnd získate upraviteľný odhad kalórií, bielkovín, tukov, sacharidov a veľkosti porcie.",
+    "heroNote": "Začnite zadarmo s dennými AI analýzami jedla. Dostupné pre iPhone aj Android.",
+    "photoEyebrow": "Hlavná funkcia",
+    "photoTitle": "Počítanie kalórií z fotky",
+    "photoText": "Nemusíte ručne hľadať každú surovinu. Odfoťte jedlo, skontrolujte odhad AI a uložte ho do stravovacieho denníka.",
+    "photoChecklist": [
+      "Odhad kalórií z fotky jedla",
+      "Bielkoviny, tuky a sacharidy v jednom pohľade",
+      "Možnosť opraviť výsledok pred uložením",
+      "Vizuálny stravovací denník"
+    ],
+    "featureCards": [
+      [
+        "camera",
+        "Pridajte jedlo fotkou",
+        "Odfoťte porciu, skontrolujte odhad a uložte jedlo bez zdĺhavého vyhľadávania surovín."
+      ],
+      [
+        "sparkles",
+        "AI odhad jedál",
+        "Rýchly orientačný odhad kalórií, makier a veľkosti porcie, keď nemáte etiketu ani presný recept."
+      ],
+      [
+        "shield",
+        "Denné analýzy zadarmo",
+        "Vyskúšajte základný AI postup každý deň a vyššie limity riešte až vtedy, keď ich naozaj potrebujete."
+      ],
+      [
+        "barcode",
+        "Balené potraviny",
+        "Skenujte jogurty, nápoje, snacky, hotové jedlá a ďalšie produkty podľa čiarového kódu."
+      ],
+      [
+        "macro",
+        "Makrá na jednom mieste",
+        "Sledujte bielkoviny, tuky a sacharidy spolu s dennými kalóriami."
+      ],
+      [
+        "diary",
+        "Vizuálny stravovací denník",
+        "Vráťte sa k ľubovoľnému dňu, pozrite si jedlá ako fotky a všimnite si opakujúce sa návyky."
+      ]
+    ],
+    "foodPreviewTitle": "Koľko kalórií majú bežné potraviny?",
+    "foodPreviewText": "Rýchle odhady kalórií a makier pre obľúbené jedlá, snacky a nápoje.",
+    "foodPreviewLink": "Otvoriť celý sprievodca kalóriami →",
+    "goalEyebrow": "Cieľ pod kontrolou",
+    "counterTitle": "Jednoduché počítadlo kalórií na každý deň",
+    "counterText": "Používajte fotky, čiarové kódy, obľúbené jedlá a prehľadný denník, aby počítanie kalórií nepôsobilo ako ďalšia povinnosť.",
+    "goalPills": [
+      "Chudnutie",
+      "Udržanie hmotnosti",
+      "Naberanie svalov",
+      "Dni v zhone"
+    ],
+    "magicEyebrow": "Prečo je to jednoduchšie",
+    "magicTitle": "Pridajte jedlo v troch krokoch",
+    "magicText": "Odfoťte, skontrolujte odhad a uložte záznam. Čím menej ručného písania, tým ľahšie je viesť denník pravidelne.",
+    "magicSteps": [
+      "Odfoťte",
+      "Skontrolujte",
+      "Uložte"
+    ],
+    "barcodeEyebrow": "Balené produkty",
+    "barcodeTitle": "Skener čiarových kódov potravín",
+    "barcodeText": "Ak má produkt čiarový kód, naskenujte obal, potvrďte produkt a za pár sekúnd pridajte do denníka kalórie, bielkoviny, tuky aj sacharidy.",
+    "barcodeLink": "Viac o skeneri čiarových kódov →",
+    "progressEyebrow": "Prehľadné sledovanie",
+    "macroTitle": "Sledujte kalórie a makrá",
+    "macroText": "Pozrite si kalórie, bielkoviny, tuky a sacharidy na jednom mieste a porovnávajte dni, týždne aj mesiace.",
+    "macroLink": "Otvoriť stránku sledovania makier →",
+    "useCasesEyebrow": "Prečo používať Calorie Counter AI",
+    "useCasesTitle": "Výživové ciele pre reálny život",
+    "useCasesText": "Či chcete schudnúť, udržať váhu, nabrať svaly alebo lepšie rozumieť jedálničku, aplikácia zmení jedlá na jasnú každodennú spätnú väzbu.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Chudnutie",
+        "Vidíte, koľko kalórií zostáva do denného cieľa."
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Domáce jedlo",
+        "Odhadujte miešané jedlá a recepty bez nutričnej etikety."
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Jedlo v reštaurácii",
+        "Pridávajte jedlo z reštaurácie rýchlejšie vďaka odhadu z fotky."
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Naberanie svalov",
+        "Majte bielkoviny a kalórie poruke, keď jete v energetickom nadbytku."
+      ]
+    ],
+    "downloadTitle": "Začnite počítať kalórie s AI už dnes",
+    "downloadText": "Stiahnite si aplikáciu pre iPhone alebo Android a premeňte ďalšiu fotku jedla na záznam denníka.",
+    "faqEyebrow": "FAQ",
+    "faqTitle": "Otázky pred stiahnutím?",
+    "faq": [
+      [
+        "Je Calorie Counter AI zadarmo?",
+        "Začať môžete zadarmo s dennými AI analýzami jedál. Platená verzia môže ponúknuť prémiové funkcie a vyššie limity."
+      ],
+      [
+        "Môžem počítať kalórie z fotky?",
+        "Áno. Odfoťte tanier a aplikácia odhadne viditeľné jedlo, kalórie, makrá aj hmotnosť porcie."
+      ],
+      [
+        "Aké presné je AI počítadlo kalórií?",
+        "Ide o orientačný odhad. Presnosť ovplyvňuje kvalita fotky, viditeľná porcia, skryté suroviny, omáčky a vaše úpravy."
+      ],
+      [
+        "Sleduje aplikácia makrá?",
+        "Áno. V denníku uvidíte bielkoviny, tuky a sacharidy vedľa kalórií."
+      ],
+      [
+        "Je aplikácia pre iPhone aj Android?",
+        "Áno. Aplikácia je dostupná v App Store aj Google Play."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "AI počítadlo kalórií z fotky jedla | Calorie Counter AI",
+    "homeOgTitle": "Počítajte kalórie s AI podľa fotky jedla",
+    "homeDescription": "Počítajte kalórie s AI: odhadujte kalórie, makrá a veľkosť porcie z fotky jedla, skenujte čiarové kódy a veďte stravovací denník."
+  },
+  "footer": {
+    "disclaimer": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+    "copyright": "© 2026 Calorie Counter AI. Všetky práva vyhradené."
+  },
+  "foodIndex": {
+    "findTitle": "Kalórie, makrá a realistické porcie",
+    "findText": "Nájdite orientačné hodnoty pre bežné potraviny a tipy, ako ich zapisovať v rozumných porciách.",
+    "categoryIntro": "Obľúbené vyhľadávania kalórií a makier v tejto kategórii."
+  },
+  "foodPage": {
+    "eyebrow": "Sprievodca kalóriami",
+    "trackInApp": "Pridať v aplikácii",
+    "browseFoods": "Prehľadávať potraviny →",
+    "typicalEstimate": "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie.",
+    "caloriesMacros": "Kalórie a makrá",
+    "whenFits": "Kedy sa hodí",
+    "whatToWatch": "Na čo si dať pozor",
+    "howToLog": "Ako zapísať presnejšie",
+    "helpfulContext": "Užitočný kontext",
+    "faq": "FAQ",
+    "weightLossQuestion": "Hodí sa to pri chudnutí?",
+    "variabilityQuestion": "Čo najviac mení počet kalórií?",
+    "logFasterTitle": "Zapisujte jedlá rýchlejšie",
+    "logFasterText": "Použite Calorie Counter AI: odfoťte jedlo, získajte prvý odhad a podľa potreby upravte porciu, omáčku alebo značku.",
+    "photoTrackingLink": "Ako funguje počítanie kalórií z fotky →",
+    "macros": {
+      "protein": "Bielkoviny",
+      "fat": "Tuky",
+      "carbs": "Sacharidy"
+    },
+    "titleTemplate": "{namePrep}: kalórie a makrá",
+    "h1Template": "{namePrep}: kalórie a makrá",
+    "descriptionTemplate": "{name}: kalórie, bielkoviny, tuky a sacharidy pre porciu „{serving}“ plus tipy na zápis do stravovacieho denníka.",
+    "heroIntroTemplate": "Približne {calories} {kcal} na porciu: {servingLower}. Berte to ako východiskový odhad a upravte ho podľa značky, receptu, prípravy a veľkosti porcie.",
+    "macroParagraphTemplate": "{name} má približne {calories} {kcal} v porcii „{servingLower}“. Táto porcia obsahuje asi {protein} {gram} bielkovín, {fat} {gram} tukov a {carbs} {gram} sacharidov{fiberText}.",
+    "per100Template": "Na porovnanie na 100 {gram}: približne {calories} {kcal}, {protein} {gram} bielkovín, {fat} {gram} tukov a {carbs} {gram} sacharidov.",
+    "calorieLevelTemplate": "Ako vodidlo použite porciu: približne {calories} {kcal} pre „{servingLower}“."
+  },
+  "foodCategories": {
+    "Fruit": "Ovocie",
+    "Protein foods": "Bielkovinové potraviny",
+    "Fruits and fats": "Ovocie a tuky",
+    "Grains and starches": "Obilniny a škrobové prílohy",
+    "Nuts and spreads": "Orechy a nátierky",
+    "Breakfast foods": "Raňajkové potraviny",
+    "Dairy": "Mliečne výrobky",
+    "Restaurant meals": "Jedlá z reštaurácie",
+    "Fast food": "Fast food",
+    "Legumes and plant protein": "Strukoviny a rastlinné bielkoviny",
+    "Desserts": "Dezerty",
+    "Snacks": "Snacky a malé jedlá",
+    "Drinks": "Nápoje",
+    "Vegetables": "Zelenina",
+    "Sauces and condiments": "Omáčky a dochucovadlá",
+    "Mixed dishes": "Miešané jedlá"
+  },
+  "foods": {
+    "banana": {
+      "name": "Banán",
+      "namePrep": "banáne",
+      "serving": "1 stredný banán"
+    },
+    "apple": {
+      "name": "Jablko",
+      "namePrep": "jablku",
+      "serving": "1 stredné jablko"
+    },
+    "egg": {
+      "name": "Vajce",
+      "namePrep": "vajci",
+      "serving": "1 veľké vajce"
+    },
+    "avocado": {
+      "name": "Avokádo",
+      "namePrep": "avokáde",
+      "serving": "1/2 stredného avokáda"
+    },
+    "chicken-breast": {
+      "name": "Kuracie prsia",
+      "namePrep": "kuracích prsiach",
+      "serving": "100 g varených kuracích pŕs"
+    },
+    "salmon": {
+      "name": "Losos",
+      "namePrep": "lososovi",
+      "serving": "100 g pečeného lososa"
+    },
+    "white-rice": {
+      "name": "Biela ryža",
+      "namePrep": "bielej ryži",
+      "serving": "1 šálka varenej bielej ryže"
+    },
+    "brown-rice": {
+      "name": "Hnedá ryža",
+      "namePrep": "hnedej ryži",
+      "serving": "1 šálka varenej hnedej ryže"
+    },
+    "pasta": {
+      "name": "Cestoviny",
+      "namePrep": "cestovinách",
+      "serving": "1 šálka varených cestovín"
+    },
+    "potato": {
+      "name": "Zemiak",
+      "namePrep": "zemiaku",
+      "serving": "1 stredný zemiak"
+    },
+    "sweet-potato": {
+      "name": "Batát",
+      "namePrep": "batáte",
+      "serving": "1 stredný batát"
+    },
+    "bread": {
+      "name": "Chlieb",
+      "namePrep": "chlebe",
+      "serving": "1 krajec chleba"
+    },
+    "peanut-butter": {
+      "name": "Arašidové maslo",
+      "namePrep": "arašidovom masle",
+      "serving": "2 lyžice arašidového masla"
+    },
+    "oatmeal": {
+      "name": "Ovsená kaša",
+      "namePrep": "ovsenej kaši",
+      "serving": "1 miska varenej ovsenej kaše"
+    },
+    "greek-yogurt": {
+      "name": "Grécky jogurt",
+      "namePrep": "gréckom jogurte",
+      "serving": "170 g gréckeho jogurtu"
+    },
+    "yogurt": {
+      "name": "Jogurt",
+      "namePrep": "jogurte",
+      "serving": "1 téglik jogurtu"
+    },
+    "milk": {
+      "name": "Mlieko",
+      "namePrep": "mlieku",
+      "serving": "1 pohár mlieka"
+    },
+    "cheddar-cheese": {
+      "name": "Syr čedar",
+      "namePrep": "syre čedar",
+      "serving": "1 plátok syra čedar"
+    },
+    "pizza": {
+      "name": "Pizza",
+      "namePrep": "pizze",
+      "serving": "1 kúsok pizze"
+    },
+    "burger": {
+      "name": "Burger",
+      "namePrep": "burgeri",
+      "serving": "1 bežný burger"
+    },
+    "french-fries": {
+      "name": "Hranolky",
+      "namePrep": "hranolčekoch",
+      "serving": "1 stredná porcia hranolčekov"
+    },
+    "sushi-roll": {
+      "name": "Sushi rolka",
+      "namePrep": "sushi rolke",
+      "serving": "1 sushi rolka"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "tacu",
+      "serving": "1 taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "burrite",
+      "serving": "1 burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Kuracie nugetky",
+      "namePrep": "kuracích nugetkách",
+      "serving": "6 kuracích nugetiek"
+    },
+    "hot-dog": {
+      "name": "Hot dog",
+      "namePrep": "hot dogu",
+      "serving": "1 hot dog"
+    },
+    "steak": {
+      "name": "Steak",
+      "namePrep": "steaku",
+      "serving": "100 g steaku"
+    },
+    "bacon": {
+      "name": "Slanina",
+      "namePrep": "slaninke",
+      "serving": "2 plátky slaniny"
+    },
+    "tuna": {
+      "name": "Tuniak",
+      "namePrep": "tuniakovi",
+      "serving": "100 g tuniaka"
+    },
+    "shrimp": {
+      "name": "Krevety",
+      "namePrep": "krevetách",
+      "serving": "100 g kreviet"
+    },
+    "tofu": {
+      "name": "Tofu",
+      "namePrep": "tofu",
+      "serving": "100 g tofu"
+    },
+    "lentils": {
+      "name": "Šošovica",
+      "namePrep": "šošovici",
+      "serving": "1 šálka varenej šošovice"
+    },
+    "black-beans": {
+      "name": "Čierne fazule",
+      "namePrep": "čiernych fazuliach",
+      "serving": "1 šálka varených čiernych fazúľ"
+    },
+    "chickpeas": {
+      "name": "Cícer",
+      "namePrep": "cíceri",
+      "serving": "1 šálka vareného cíceru"
+    },
+    "hummus": {
+      "name": "Hummus",
+      "namePrep": "hummuse",
+      "serving": "2 lyžice hummusu"
+    },
+    "quinoa": {
+      "name": "Quinoa",
+      "namePrep": "quinoi",
+      "serving": "1 šálka varenej quinoy"
+    },
+    "tortilla": {
+      "name": "Tortilla",
+      "namePrep": "tortille",
+      "serving": "1 pšeničná tortilla"
+    },
+    "bagel": {
+      "name": "Bagel",
+      "namePrep": "bagli",
+      "serving": "1 bagel"
+    },
+    "croissant": {
+      "name": "Croissant",
+      "namePrep": "croissante",
+      "serving": "1 croissant"
+    },
+    "pancake": {
+      "name": "Palacinka",
+      "namePrep": "palacinke",
+      "serving": "2 palacinky"
+    },
+    "waffle": {
+      "name": "Vafľa",
+      "namePrep": "vafli",
+      "serving": "1 vafľa"
+    },
+    "cereal": {
+      "name": "Cereálie",
+      "namePrep": "cereáliách",
+      "serving": "1 miska cereálií"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granole",
+      "serving": "1/2 šálky granoly"
+    },
+    "almonds": {
+      "name": "Mandle",
+      "namePrep": "mandliach",
+      "serving": "28 g mandlí"
+    },
+    "walnuts": {
+      "name": "Vlašské orechy",
+      "namePrep": "vlašských orechoch",
+      "serving": "28 g vlašských orechov"
+    },
+    "cashews": {
+      "name": "Kešu",
+      "namePrep": "kešu",
+      "serving": "28 g kešu"
+    },
+    "chocolate": {
+      "name": "Čokoláda",
+      "namePrep": "čokoláde",
+      "serving": "1 porcia čokolády"
+    },
+    "ice-cream": {
+      "name": "Zmrzlina",
+      "namePrep": "zmrzline",
+      "serving": "1 kopček zmrzliny"
+    },
+    "cookie": {
+      "name": "Sušienka",
+      "namePrep": "sušienke",
+      "serving": "1 sušienka"
+    },
+    "donut": {
+      "name": "Donut",
+      "namePrep": "donute",
+      "serving": "1 donut"
+    },
+    "muffin": {
+      "name": "Muffin",
+      "namePrep": "muffine",
+      "serving": "1 muffin"
+    },
+    "cake": {
+      "name": "Torta",
+      "namePrep": "torte",
+      "serving": "1 kúsok torty"
+    },
+    "brownie": {
+      "name": "Brownie",
+      "namePrep": "brownie",
+      "serving": "1 kúsok brownie"
+    },
+    "popcorn": {
+      "name": "Popcorn",
+      "namePrep": "popcorne",
+      "serving": "3 šálky popcornu"
+    },
+    "potato-chips": {
+      "name": "Zemiakové čipsy",
+      "namePrep": "zemiakových čipsoch",
+      "serving": "1 malé balenie čipsov"
+    },
+    "pretzels": {
+      "name": "Praclíky",
+      "namePrep": "praclíkoch",
+      "serving": "1 porcia praclíkov"
+    },
+    "smoothie": {
+      "name": "Smoothie",
+      "namePrep": "smoothie",
+      "serving": "1 pohár smoothie"
+    },
+    "orange-juice": {
+      "name": "Pomarančový džús",
+      "namePrep": "pomarančovom džúse",
+      "serving": "1 pohár pomarančového džúsu"
+    },
+    "soda": {
+      "name": "Sladená limonáda",
+      "namePrep": "sladenej limonáde",
+      "serving": "1 plechovka limonády"
+    },
+    "latte": {
+      "name": "Latte",
+      "namePrep": "latte",
+      "serving": "1 stredné latte"
+    },
+    "protein-shake": {
+      "name": "Proteínový shake",
+      "namePrep": "proteínovom shaku",
+      "serving": "1 proteínový shake"
+    },
+    "spaghetti-bolognese": {
+      "name": "Špagety bolognese",
+      "namePrep": "špagetách bolognese",
+      "serving": "1 tanier špagiet bolognese"
+    },
+    "ramen": {
+      "name": "Ramen",
+      "namePrep": "ramene",
+      "serving": "1 miska ramenu"
+    },
+    "pho": {
+      "name": "Pho",
+      "namePrep": "pho",
+      "serving": "1 miska pho"
+    },
+    "chicken-soup": {
+      "name": "Kuracia polievka",
+      "namePrep": "kuracej polievke",
+      "serving": "1 miska kuracej polievky"
+    },
+    "caesar-salad": {
+      "name": "Caesar šalát",
+      "namePrep": "caesar šaláte",
+      "serving": "1 porcia caesar šalátu"
+    },
+    "green-salad": {
+      "name": "Zelený šalát",
+      "namePrep": "zelenom šaláte",
+      "serving": "1 miska zeleného šalátu"
+    },
+    "broccoli": {
+      "name": "Brokolica",
+      "namePrep": "brokolici",
+      "serving": "1 šálka varenej brokolice"
+    },
+    "spinach": {
+      "name": "Špenát",
+      "namePrep": "špenáte",
+      "serving": "1 šálka špenátu"
+    },
+    "carrots": {
+      "name": "Mrkva",
+      "namePrep": "mrkve",
+      "serving": "1 šálka mrkvy"
+    },
+    "corn": {
+      "name": "Kukurica",
+      "namePrep": "kukurici",
+      "serving": "1 šálka kukurice"
+    },
+    "tomato": {
+      "name": "Paradajka",
+      "namePrep": "paradajke",
+      "serving": "1 stredná paradajka"
+    },
+    "cucumber": {
+      "name": "Uhorka",
+      "namePrep": "uhorke",
+      "serving": "1 šálka uhorky"
+    },
+    "cheesecake": {
+      "name": "Cheesecake",
+      "namePrep": "cheesecakeu",
+      "serving": "1 kúsok cheesecaku"
+    },
+    "lasagna": {
+      "name": "Lasagne",
+      "namePrep": "lasagniach",
+      "serving": "1 porcia lasagní"
+    },
+    "grilled-cheese": {
+      "name": "Zapekaný syrový toast",
+      "namePrep": "zapekanom syrovom toaste",
+      "serving": "1 zapekaný syrový toast"
+    },
+    "peanut-butter-jelly": {
+      "name": "Sendvič s arašidovým maslom a džemom",
+      "namePrep": "sendviči s arašidovým maslom a džemom",
+      "serving": "1 sendvič s arašidovým maslom a džemom"
+    },
+    "omelette": {
+      "name": "Omeleta",
+      "namePrep": "omelete",
+      "serving": "1 omeleta z 2 vajec"
+    },
+    "fried-egg": {
+      "name": "Volské oko",
+      "namePrep": "volskom oku",
+      "serving": "1 volské oko"
+    },
+    "boiled-egg": {
+      "name": "Varené vajce",
+      "namePrep": "varenom vajci",
+      "serving": "1 varené vajce"
+    },
+    "toast": {
+      "name": "Toast",
+      "namePrep": "toaste",
+      "serving": "1 plátok toastu"
+    },
+    "avocado-toast": {
+      "name": "Avokádový toast",
+      "namePrep": "avokádovom toaste",
+      "serving": "1 avokádový toast"
+    },
+    "chicken-salad": {
+      "name": "Kurací šalát",
+      "namePrep": "kuracom šaláte",
+      "serving": "1 porcia kuracieho šalátu"
+    },
+    "tuna-salad": {
+      "name": "Tuniakový šalát",
+      "namePrep": "tuniakovom šaláte",
+      "serving": "1 porcia tuniakového šalátu"
+    },
+    "egg-salad": {
+      "name": "Vajíčkový šalát",
+      "namePrep": "vajíčkovom šaláte",
+      "serving": "1 porcia vajíčkového šalátu"
+    },
+    "cottage-cheese": {
+      "name": "Cottage syr",
+      "namePrep": "cottage syre",
+      "serving": "1 téglik cottage syra"
+    },
+    "cream-cheese": {
+      "name": "Krémový syr",
+      "namePrep": "krémovom syre",
+      "serving": "2 lyžice krémového syra"
+    },
+    "butter": {
+      "name": "Maslo",
+      "namePrep": "masle",
+      "serving": "1 lyžica masla"
+    },
+    "olive-oil": {
+      "name": "Olivový olej",
+      "namePrep": "olivovom oleji",
+      "serving": "1 lyžica olivového oleja"
+    },
+    "mayonnaise": {
+      "name": "Majonéza",
+      "namePrep": "majonéze",
+      "serving": "1 lyžica majonézy"
+    },
+    "ketchup": {
+      "name": "Kečup",
+      "namePrep": "kečupe",
+      "serving": "1 lyžica kečupu"
+    },
+    "honey": {
+      "name": "Med",
+      "namePrep": "mede",
+      "serving": "1 lyžica medu"
+    },
+    "jam": {
+      "name": "Džem",
+      "namePrep": "džeme",
+      "serving": "1 lyžica džemu"
+    },
+    "protein-bar": {
+      "name": "Proteínová tyčinka",
+      "namePrep": "proteínovej tyčinke",
+      "serving": "1 proteínová tyčinka"
+    },
+    "energy-drink": {
+      "name": "Energetický nápoj",
+      "namePrep": "energetickom nápoji",
+      "serving": "1 plechovka energetického nápoja"
+    },
+    "matcha-latte": {
+      "name": "Matcha latte",
+      "namePrep": "matcha latte",
+      "serving": "1 matcha latte"
+    },
+    "trail-mix": {
+      "name": "Zmes orechov a sušeného ovocia",
+      "namePrep": "zmesi orechov a sušeného ovocia",
+      "serving": "1 hrsť zmesi orechov a sušeného ovocia"
+    },
+    "blueberries": {
+      "name": "Čučoriedky",
+      "namePrep": "čučoriedkach",
+      "serving": "1 šálka čučoriedok"
+    },
+    "strawberries": {
+      "name": "Jahody",
+      "namePrep": "jahodách",
+      "serving": "1 šálka jahôd"
+    },
+    "grapes": {
+      "name": "Hrozno",
+      "namePrep": "hrozne",
+      "serving": "1 šálka hrozna"
+    },
+    "orange": {
+      "name": "Pomaranč",
+      "namePrep": "pomaranči",
+      "serving": "1 stredný pomaranč"
+    },
+    "pear": {
+      "name": "Hruška",
+      "namePrep": "hruške",
+      "serving": "1 stredná hruška"
+    },
+    "peach": {
+      "name": "Broskyňa",
+      "namePrep": "broskyni",
+      "serving": "1 stredná broskyňa"
+    },
+    "watermelon": {
+      "name": "Melón",
+      "namePrep": "melóne",
+      "serving": "1 plátok melóna"
+    },
+    "pineapple": {
+      "name": "Ananás",
+      "namePrep": "ananáse",
+      "serving": "1 šálka ananásu"
+    },
+    "mango": {
+      "name": "Mango",
+      "namePrep": "mangu",
+      "serving": "1 šálka manga"
+    },
+    "kiwi": {
+      "name": "Kiwi",
+      "namePrep": "kiwi",
+      "serving": "1 kiwi"
+    },
+    "raspberries": {
+      "name": "Maliny",
+      "namePrep": "malinách",
+      "serving": "1 šálka malín"
+    },
+    "blackberries": {
+      "name": "Černice",
+      "namePrep": "černiciach",
+      "serving": "1 šálka černíc"
+    },
+    "cherries": {
+      "name": "Čerešne",
+      "namePrep": "čerešniach",
+      "serving": "1 šálka čerešní"
+    },
+    "grapefruit": {
+      "name": "Grapefruit",
+      "namePrep": "grapefruite",
+      "serving": "1/2 grapefruitu"
+    },
+    "lettuce": {
+      "name": "Hlávkový šalát",
+      "namePrep": "hlávkovom šaláte",
+      "serving": "1 šálka hlávkového šalátu"
+    },
+    "cabbage": {
+      "name": "Kapusta",
+      "namePrep": "kapuste",
+      "serving": "1 šálka kapusty"
+    },
+    "cauliflower": {
+      "name": "Karfiol",
+      "namePrep": "karfiole",
+      "serving": "1 šálka karfiolu"
+    },
+    "asparagus": {
+      "name": "Špargľa",
+      "namePrep": "špargli",
+      "serving": "1 šálka špargle"
+    },
+    "zucchini": {
+      "name": "Cuketa",
+      "namePrep": "cukete",
+      "serving": "1 šálka cukety"
+    },
+    "eggplant": {
+      "name": "Baklažán",
+      "namePrep": "baklažáne",
+      "serving": "1 šálka baklažánu"
+    },
+    "bell-pepper": {
+      "name": "Paprika",
+      "namePrep": "paprike",
+      "serving": "1 stredná paprika"
+    },
+    "onion": {
+      "name": "Cibuľa",
+      "namePrep": "cibuli",
+      "serving": "1 stredná cibuľa"
+    },
+    "mushrooms": {
+      "name": "Huby",
+      "namePrep": "hubách",
+      "serving": "1 šálka húb"
+    },
+    "green-beans": {
+      "name": "Zelené fazuľky",
+      "namePrep": "zelených fazuľkách",
+      "serving": "1 šálka zelených fazuliek"
+    },
+    "kale": {
+      "name": "Kučeravý kel",
+      "namePrep": "kučeravom keli",
+      "serving": "1 šálka kučeravého kelu"
+    },
+    "beets": {
+      "name": "Červená repa",
+      "namePrep": "červenej repe",
+      "serving": "1 šálka červenej repy"
+    },
+    "turkey-breast": {
+      "name": "Morčacie prsia",
+      "namePrep": "morčacích prsiach",
+      "serving": "100 g morčacích pŕs"
+    },
+    "chicken-thigh": {
+      "name": "Kuracie stehno",
+      "namePrep": "kuracom stehne",
+      "serving": "1 kuracie stehno"
+    },
+    "pork-chop": {
+      "name": "Bravčová kotleta",
+      "namePrep": "bravčovej kotlete",
+      "serving": "1 bravčová kotleta"
+    },
+    "ground-beef": {
+      "name": "Mleté hovädzie mäso",
+      "namePrep": "mletom hovädzom mäse",
+      "serving": "100 g mletého hovädzieho mäsa"
+    },
+    "meatballs": {
+      "name": "Mäsové guľky",
+      "namePrep": "mäsových guľkách",
+      "serving": "4 mäsové guľky"
+    },
+    "sausage": {
+      "name": "Klobása",
+      "namePrep": "klobáse",
+      "serving": "1 klobása"
+    },
+    "cod": {
+      "name": "Treska",
+      "namePrep": "treske",
+      "serving": "100 g tresky"
+    },
+    "tilapia": {
+      "name": "Tilapia",
+      "namePrep": "tilapii",
+      "serving": "100 g tilapie"
+    },
+    "sardines": {
+      "name": "Sardinky",
+      "namePrep": "sardinkách",
+      "serving": "1 malá konzerva sardiniek"
+    },
+    "crab": {
+      "name": "Krab",
+      "namePrep": "krabovi",
+      "serving": "100 g krabieho mäsa"
+    },
+    "scallops": {
+      "name": "Mušle svätého Jakuba",
+      "namePrep": "mušliach svätého Jakuba",
+      "serving": "100 g mušlí svätého Jakuba"
+    },
+    "smoked-salmon": {
+      "name": "Údený losos",
+      "namePrep": "údenom lososovi",
+      "serving": "85 g údeného lososa"
+    },
+    "skim-milk": {
+      "name": "Odtučnené mlieko",
+      "namePrep": "odtučnenom mlieku",
+      "serving": "1 pohár odtučneného mlieka"
+    },
+    "soy-milk": {
+      "name": "Sójové mlieko",
+      "namePrep": "sójovom mlieku",
+      "serving": "1 pohár sójového mlieka"
+    },
+    "almond-milk": {
+      "name": "Mandľové mlieko",
+      "namePrep": "mandľovom mlieku",
+      "serving": "1 pohár mandľového mlieka"
+    },
+    "oat-milk": {
+      "name": "Ovsené mlieko",
+      "namePrep": "ovsenom mlieku",
+      "serving": "1 pohár ovseného mlieka"
+    },
+    "kefir": {
+      "name": "Kefír",
+      "namePrep": "kefíre",
+      "serving": "1 pohár kefíru"
+    },
+    "sour-cream": {
+      "name": "Kyslá smotana",
+      "namePrep": "kyslej smotane",
+      "serving": "2 lyžice kyslej smotany"
+    },
+    "feta-cheese": {
+      "name": "Syr feta",
+      "namePrep": "syre feta",
+      "serving": "30 g syra feta"
+    },
+    "mozzarella": {
+      "name": "Mozzarella",
+      "namePrep": "mozzarelle",
+      "serving": "30 g mozzarelly"
+    },
+    "parmesan": {
+      "name": "Parmezán",
+      "namePrep": "parmezáne",
+      "serving": "2 lyžice parmezánu"
+    },
+    "couscous": {
+      "name": "Kuskus",
+      "namePrep": "kuskuse",
+      "serving": "1 šálka vareného kuskusu"
+    },
+    "barley": {
+      "name": "Jačmeň",
+      "namePrep": "jačmeni",
+      "serving": "1 šálka vareného jačmeňa"
+    },
+    "buckwheat": {
+      "name": "Pohánka",
+      "namePrep": "pohánke",
+      "serving": "1 šálka varenej pohánky"
+    },
+    "bulgur": {
+      "name": "Bulgur",
+      "namePrep": "bulgure",
+      "serving": "1 šálka vareného bulguru"
+    },
+    "naan": {
+      "name": "Naan",
+      "namePrep": "naane",
+      "serving": "1 kus chleba naan"
+    },
+    "pita-bread": {
+      "name": "Pita chlieb",
+      "namePrep": "pita chlebe",
+      "serving": "1 pita chlieb"
+    },
+    "english-muffin": {
+      "name": "Anglický muffin",
+      "namePrep": "anglickom muffine",
+      "serving": "1 anglický muffin"
+    },
+    "rice-cake": {
+      "name": "Ryžový chlebík",
+      "namePrep": "ryžovom chlebíku",
+      "serving": "1 ryžový chlebík"
+    },
+    "crackers": {
+      "name": "Krekry",
+      "namePrep": "krekroch",
+      "serving": "1 porcia krekrov"
+    },
+    "mashed-potatoes": {
+      "name": "Zemiaková kaša",
+      "namePrep": "zemiakovej kaši",
+      "serving": "1 šálka zemiakovej kaše"
+    },
+    "scrambled-eggs": {
+      "name": "Miešané vajcia",
+      "namePrep": "miešaných vajciach",
+      "serving": "2 miešané vajcia"
+    },
+    "french-toast": {
+      "name": "Francúzsky toast",
+      "namePrep": "francúzskom toaste",
+      "serving": "1 plátok francúzskeho toastu"
+    },
+    "breakfast-burrito": {
+      "name": "Raňajkové burrito",
+      "namePrep": "raňajkovom burrite",
+      "serving": "1 raňajkové burrito"
+    },
+    "hash-browns": {
+      "name": "Zemiakové placky",
+      "namePrep": "zemiakových plackách",
+      "serving": "1 porcia zemiakových placiek"
+    },
+    "chia-pudding": {
+      "name": "Chia puding",
+      "namePrep": "chia pudingu",
+      "serving": "1 pohárik chia pudingu"
+    },
+    "overnight-oats": {
+      "name": "Nočná ovsená kaša",
+      "namePrep": "nočnej ovsenej kaši",
+      "serving": "1 pohár nočnej ovsenej kaše"
+    },
+    "breakfast-sandwich": {
+      "name": "Raňajkový sendvič",
+      "namePrep": "raňajkovom sendviči",
+      "serving": "1 raňajkový sendvič"
+    },
+    "edamame": {
+      "name": "Edamame",
+      "namePrep": "edamame",
+      "serving": "1 šálka edamame"
+    },
+    "kidney-beans": {
+      "name": "Červené fazule",
+      "namePrep": "červených fazuliach",
+      "serving": "1 šálka varených červených fazúľ"
+    },
+    "pinto-beans": {
+      "name": "Fazuľa pinto",
+      "namePrep": "fazuli pinto",
+      "serving": "1 šálka varenej fazule pinto"
+    },
+    "split-peas": {
+      "name": "Lúpaný hrach",
+      "namePrep": "lúpanom hrachu",
+      "serving": "1 šálka vareného lúpaného hrachu"
+    },
+    "baked-beans": {
+      "name": "Pečené fazule",
+      "namePrep": "pečených fazuliach",
+      "serving": "1/2 šálky pečených fazúľ"
+    },
+    "fried-rice": {
+      "name": "Vyprážaná ryža",
+      "namePrep": "vyprážanej ryži",
+      "serving": "1 porcia vyprážanej ryže"
+    },
+    "pad-thai": {
+      "name": "Pad thai",
+      "namePrep": "pad thai",
+      "serving": "1 porcia pad thai"
+    },
+    "chicken-curry": {
+      "name": "Kuracie kari",
+      "namePrep": "kuracom kari",
+      "serving": "1 porcia kuracieho kari"
+    },
+    "chicken-tikka-masala": {
+      "name": "Kuracia tikka masala",
+      "namePrep": "kuracej tikka masale",
+      "serving": "1 porcia kuracej tikka masaly"
+    },
+    "beef-chili": {
+      "name": "Hovädzie chilli",
+      "namePrep": "hovädzom chilli",
+      "serving": "1 miska hovädzieho chilli"
+    },
+    "falafel": {
+      "name": "Falafel",
+      "namePrep": "falafeli",
+      "serving": "3 guľky falafelu"
+    },
+    "dumplings": {
+      "name": "Knedličky/dumplings",
+      "namePrep": "knedličkách",
+      "serving": "1 porcia knedličiek"
+    },
+    "spring-rolls": {
+      "name": "Jarné závitky",
+      "namePrep": "jarných závitkoch",
+      "serving": "2 jarné závitky"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "quesadille",
+      "serving": "1 quesadilla"
+    },
+    "nachos": {
+      "name": "Nachos",
+      "namePrep": "nachos",
+      "serving": "1 porcia nachos"
+    },
+    "mac-and-cheese": {
+      "name": "Mac and cheese",
+      "namePrep": "mac and cheese",
+      "serving": "1 porcia mac and cheese"
+    },
+    "chicken-wings": {
+      "name": "Kuracie krídelká",
+      "namePrep": "kuracích krídelkách",
+      "serving": "6 kuracích krídeliek"
+    },
+    "fish-and-chips": {
+      "name": "Fish and chips",
+      "namePrep": "fish and chips",
+      "serving": "1 porcia fish and chips"
+    },
+    "risotto": {
+      "name": "Rizoto",
+      "namePrep": "rizote",
+      "serving": "1 tanier rizota"
+    },
+    "tortilla-chips": {
+      "name": "Tortilla čipsy",
+      "namePrep": "tortilla čipsoch",
+      "serving": "1 porcia tortilla čipsov"
+    },
+    "granola-bar": {
+      "name": "Granola tyčinka",
+      "namePrep": "granola tyčinke",
+      "serving": "1 granola tyčinka"
+    },
+    "chocolate-bar": {
+      "name": "Čokoládová tyčinka",
+      "namePrep": "čokoládovej tyčinke",
+      "serving": "1 čokoládová tyčinka"
+    },
+    "candy": {
+      "name": "Cukríky",
+      "namePrep": "cukríkoch",
+      "serving": "1 porcia cukríkov"
+    },
+    "cinnamon-roll": {
+      "name": "Škoricový slimák",
+      "namePrep": "škoricovom slimákovi",
+      "serving": "1 škoricový slimák"
+    },
+    "marshmallows": {
+      "name": "Marshmallows",
+      "namePrep": "marshmallows",
+      "serving": "1 porcia marshmallows"
+    },
+    "fruit-snacks": {
+      "name": "Ovocné snacky",
+      "namePrep": "ovocných snackoch",
+      "serving": "1 porcia ovocných snackov"
+    },
+    "black-coffee": {
+      "name": "Čierna káva",
+      "namePrep": "čiernej káve",
+      "serving": "1 šálka čiernej kávy"
+    },
+    "cappuccino": {
+      "name": "Cappuccino",
+      "namePrep": "cappuccine",
+      "serving": "1 cappuccino"
+    },
+    "milk-tea": {
+      "name": "Mliečny čaj",
+      "namePrep": "mliečnom čaji",
+      "serving": "1 pohár mliečneho čaju"
+    },
+    "bubble-tea": {
+      "name": "Bubble tea",
+      "namePrep": "bubble tea",
+      "serving": "1 bubble tea"
+    },
+    "lemonade": {
+      "name": "Limonáda",
+      "namePrep": "limonáde",
+      "serving": "1 pohár limonády"
+    },
+    "iced-tea": {
+      "name": "Ľadový čaj",
+      "namePrep": "ľadovom čaji",
+      "serving": "1 fľaša ľadového čaju"
+    },
+    "apple-juice": {
+      "name": "Jablkový džús",
+      "namePrep": "jablkovom džúse",
+      "serving": "1 pohár jablkového džúsu"
+    },
+    "coconut-water": {
+      "name": "Kokosová voda",
+      "namePrep": "kokosovej vode",
+      "serving": "1 pohár kokosovej vody"
+    },
+    "sports-drink": {
+      "name": "Športový nápoj",
+      "namePrep": "športovom nápoji",
+      "serving": "1 fľaša športového nápoja"
+    },
+    "ranch-dressing": {
+      "name": "Ranch dresing",
+      "namePrep": "ranch dresingu",
+      "serving": "2 lyžice ranch dresingu"
+    },
+    "bbq-sauce": {
+      "name": "BBQ omáčka",
+      "namePrep": "BBQ omáčke",
+      "serving": "2 lyžice BBQ omáčky"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "salse",
+      "serving": "2 lyžice salsy"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "guacamole",
+      "serving": "2 lyžice guacamole"
+    }
+  },
+  "utility": {
+    "pricing": "Cenník",
+    "support": "Podpora",
+    "privacy": "Súkromie",
+    "terms": "Podmienky",
+    "press": "Pre médiá",
+    "deleteExtra": "O vymazanie účtu alebo údajov požiadajte z e-mailu prepojeného s účtom a do predmetu napíšte „Vymazať účet“."
+  },
+  "store": {
+    "appStoreSmall": "Stiahnuť",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Stiahnuť",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Funkcie",
+    "useCase": "Použitie",
+    "openPage": "Zistiť viac →",
+    "openArrow": "Otvoriť →",
+    "practicalWorkflow": "Praktický postup",
+    "workflowTitle": "Ako to pomáha pri každodennom zápise",
+    "goodToKnow": "Dobré vedieť",
+    "defaultNote": "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie.",
+    "relatedPages": "Súvisiace stránky",
+    "quickTakeaway": "Rýchle zhrnutie:",
+    "defaultTakeaway": "Calorie Counter AI pomáha viesť denník rýchlejšie: kombinujte odhady z fotiek, čiarové kódy a ručné úpravy.",
+    "information": "Informácie",
+    "bestFor": "Vhodné pre"
+  },
+  "internalCta": {
+    "title": "Počítadlo kalórií z fotky",
+    "text": "Odfoťte jedlo, skontrolujte odhad AI a uložte ho do stravovacieho denníka bez ručného hľadania každej suroviny.",
+    "button": "Stiahnuť"
+  },
+  "download": {
+    "availableTitle": "iPhone a Android",
+    "availableText": "Stiahnite si Calorie Counter AI pre iPhone alebo Android a premeňte ďalšiu fotku jedla na záznam denníka."
+  },
+  "faq": {
+    "items": [
+      [
+        "Je Calorie Counter AI zadarmo?",
+        "Začať môžete zadarmo s dennými AI analýzami jedál. Platená verzia môže ponúknuť prémiové funkcie a vyššie limity."
+      ],
+      [
+        "Môžem počítať kalórie z fotky?",
+        "Áno. Odfoťte tanier a aplikácia odhadne viditeľné jedlo, kalórie, makrá aj hmotnosť porcie."
+      ],
+      [
+        "Aké presné je AI počítadlo kalórií?",
+        "Ide o orientačný odhad. Presnosť ovplyvňuje kvalita fotky, viditeľná porcia, skryté suroviny, omáčky a vaše úpravy."
+      ],
+      [
+        "Sleduje aplikácia makrá?",
+        "Áno. V denníku uvidíte bielkoviny, tuky a sacharidy vedľa kalórií."
+      ],
+      [
+        "Je to vhodné pre domáce jedlo?",
+        "Áno. Fotka pomôže vytvoriť prvý odhad a vy môžete doplniť olej, omáčky, recept alebo presnejšiu porciu."
+      ],
+      [
+        "Je to lekárske odporúčanie?",
+        "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Začať môžete zadarmo s dennými AI analýzami jedál. Prémiové funkcie sa hodia, ak potrebujete vyššie limity alebo ďalšie nástroje.",
+      "Aktuálnu ponuku a dostupné nákupy uvidíte priamo v aplikácii pred potvrdením."
+    ],
+    "support": [
+      "Potrebujete pomoc? Kontaktujte podporu a uveďte zariadenie, platformu, verziu aplikácie a stručný opis problému.",
+      "Pri problémoch s rozpoznaním jedla pomôže pripojiť, čo ste fotili a aký výsledok ste očakávali."
+    ],
+    "contact": [
+      "E-mail podpory: support@caloriecounterai.app",
+      "Pri partnerstvách, médiách a spätnej väzbe použite jasný predmet správy."
+    ],
+    "privacy": [
+      "Calorie Counter AI je vytvorený na zapisovanie jedál a vedomé sledovanie výživy. Údaje môžu zahŕňať jedlá, fotky, nastavenia a technické informácie potrebné na prevádzku služby.",
+      "Podrobnosti o spracovaní údajov nájdete v zásadách ochrany súkromia v aplikácii a na webe."
+    ],
+    "terms": [
+      "Používaním aplikácie súhlasíte s podmienkami služby vrátane pravidiel pre informatívne nutričné odhady.",
+      "Aplikácia nie je určená na diagnostiku, liečbu ani nahradenie odborného poradenstva."
+    ],
+    "disclaimer": [
+      "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "Ak máte zdravotné ťažkosti, špeciálnu diétu, poruchu príjmu potravy alebo inú citlivú situáciu, poraďte sa s kvalifikovaným odborníkom."
+    ],
+    "delete": [
+      "Ak chcete vymazať účet, napíšte podpore z e-mailu prepojeného s účtom.",
+      "Do predmetu správy napíšte „Vymazať účet“ a uveďte, že chcete odstrániť účet a súvisiace údaje."
+    ]
+  },
+  "press": {
+    "iconAlt": "Ikona aplikácie",
+    "iconTitle": "Ikona aplikácie",
+    "downloadIcon": "Stiahnuť",
+    "screenshotAlt": "Snímka aplikácie",
+    "screenshotTitle": "Snímka obrazovky",
+    "downloadScreenshot": "Stiahnuť",
+    "shortDescriptionTitle": "Počítadlo kalórií z fotky",
+    "shortDescriptionText": "Odfoťte jedlo a za pár sekúnd získate upraviteľný odhad kalórií, bielkovín, tukov, sacharidov a veľkosti porcie."
+  },
+  "notFound": {
+    "title": "404",
+    "text": "Táto stránka zatiaľ neexistuje alebo bola adresa zadaná nesprávne.",
+    "home": "Domov"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Funkcie",
+      "h1": "Funkcie Calorie Counter AI",
+      "description": "Prehľad funkcií na počítanie kalórií z fotky, skenovanie čiarových kódov, sledovanie makier a vedenie stravovacieho denníka.",
+      "kicker": "Funkcie",
+      "summary": "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania.",
+      "bullets": [
+        "Kalórie",
+        "Bielkoviny",
+        "Tuky",
+        "Sacharidy"
+      ],
+      "sections": [
+        [
+          "Ako to pomáha",
+          "Prehľad funkcií na počítanie kalórií z fotky, skenovanie čiarových kódov, sledovanie makier a vedenie stravovacieho denníka."
+        ],
+        [
+          "Na čo myslieť",
+          "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie."
+        ],
+        [
+          "Pre pravidelnosť",
+          "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania."
+        ]
+      ],
+      "workflowTitle": "Praktický postup",
+      "workflow": [
+        "Ak jedlo nemá etiketu, začnite fotkou. Pri balenom produkte použite čiarový kód a pri známom recepte upravte porciu alebo suroviny ručne.",
+        "Denník tak zostane rýchly, ale nie slepý: aplikácia pomôže začať a vy potvrdíte detaily, ktoré sú dôležité pre presnosť."
+      ],
+      "note": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "bestFor": [
+        "každodenné sledovanie",
+        "kontrola porcií",
+        "lepší kontext",
+        "pravidelnosť"
+      ],
+      "workflowKicker": "Ako začať",
+      "noteTitle": "Dobré vedieť"
+    },
+    "/food-recognition-ai/": {
+      "title": "AI rozpoznávanie jedla",
+      "h1": "AI rozpoznávanie jedla z fotky",
+      "description": "Odfoťte porciu a získajte orientačný odhad potravín, kalórií, makier a veľkosti porcie.",
+      "kicker": "AI fotka jedla",
+      "summary": "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania.",
+      "bullets": [
+        "Kalórie",
+        "Bielkoviny",
+        "Tuky",
+        "Sacharidy"
+      ],
+      "sections": [
+        [
+          "Ako to pomáha",
+          "Odfoťte porciu a získajte orientačný odhad potravín, kalórií, makier a veľkosti porcie."
+        ],
+        [
+          "Na čo myslieť",
+          "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie."
+        ],
+        [
+          "Pre pravidelnosť",
+          "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania."
+        ]
+      ],
+      "workflowTitle": "Praktický postup",
+      "workflow": [
+        "Ak jedlo nemá etiketu, začnite fotkou. Pri balenom produkte použite čiarový kód a pri známom recepte upravte porciu alebo suroviny ručne.",
+        "Denník tak zostane rýchly, ale nie slepý: aplikácia pomôže začať a vy potvrdíte detaily, ktoré sú dôležité pre presnosť."
+      ],
+      "note": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "bestFor": [
+        "každodenné sledovanie",
+        "kontrola porcií",
+        "lepší kontext",
+        "pravidelnosť"
+      ],
+      "workflowKicker": "Ako začať",
+      "noteTitle": "Dobré vedieť"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Skener čiarových kódov",
+      "h1": "Skener čiarových kódov potravín",
+      "description": "Skenujte balené potraviny a pridávajte kalórie, bielkoviny, tuky a sacharidy do denníka rýchlejšie.",
+      "kicker": "Čiarové kódy",
+      "summary": "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania.",
+      "bullets": [
+        "Kalórie",
+        "Bielkoviny",
+        "Tuky",
+        "Sacharidy"
+      ],
+      "sections": [
+        [
+          "Ako to pomáha",
+          "Skenujte balené potraviny a pridávajte kalórie, bielkoviny, tuky a sacharidy do denníka rýchlejšie."
+        ],
+        [
+          "Na čo myslieť",
+          "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie."
+        ],
+        [
+          "Pre pravidelnosť",
+          "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania."
+        ]
+      ],
+      "workflowTitle": "Praktický postup",
+      "workflow": [
+        "Ak jedlo nemá etiketu, začnite fotkou. Pri balenom produkte použite čiarový kód a pri známom recepte upravte porciu alebo suroviny ručne.",
+        "Denník tak zostane rýchly, ale nie slepý: aplikácia pomôže začať a vy potvrdíte detaily, ktoré sú dôležité pre presnosť."
+      ],
+      "note": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "bestFor": [
+        "každodenné sledovanie",
+        "kontrola porcií",
+        "lepší kontext",
+        "pravidelnosť"
+      ],
+      "workflowKicker": "Ako začať",
+      "noteTitle": "Dobré vedieť"
+    },
+    "/macro-tracker/": {
+      "title": "Tracker makier",
+      "h1": "Sledujte bielkoviny, tuky a sacharidy",
+      "description": "Sledujte makrá spolu s kalóriami, aby denný prehľad dával zmysel pri chudnutí, udržaní aj tréningu.",
+      "kicker": "Makrá",
+      "summary": "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania.",
+      "bullets": [
+        "Kalórie",
+        "Bielkoviny",
+        "Tuky",
+        "Sacharidy"
+      ],
+      "sections": [
+        [
+          "Ako to pomáha",
+          "Sledujte makrá spolu s kalóriami, aby denný prehľad dával zmysel pri chudnutí, udržaní aj tréningu."
+        ],
+        [
+          "Na čo myslieť",
+          "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie."
+        ],
+        [
+          "Pre pravidelnosť",
+          "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania."
+        ]
+      ],
+      "workflowTitle": "Praktický postup",
+      "workflow": [
+        "Ak jedlo nemá etiketu, začnite fotkou. Pri balenom produkte použite čiarový kód a pri známom recepte upravte porciu alebo suroviny ručne.",
+        "Denník tak zostane rýchly, ale nie slepý: aplikácia pomôže začať a vy potvrdíte detaily, ktoré sú dôležité pre presnosť."
+      ],
+      "note": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "bestFor": [
+        "každodenné sledovanie",
+        "kontrola porcií",
+        "lepší kontext",
+        "pravidelnosť"
+      ],
+      "workflowKicker": "Ako začať",
+      "noteTitle": "Dobré vedieť"
+    },
+    "/food-diary-app/": {
+      "title": "Aplikácia stravovacieho denníka",
+      "h1": "Vizuálny stravovací denník",
+      "description": "Ukladajte raňajky, obedy, večere, snacky a nápoje ako prehľadné záznamy s fotkami.",
+      "kicker": "Denník",
+      "summary": "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania.",
+      "bullets": [
+        "Kalórie",
+        "Bielkoviny",
+        "Tuky",
+        "Sacharidy"
+      ],
+      "sections": [
+        [
+          "Ako to pomáha",
+          "Ukladajte raňajky, obedy, večere, snacky a nápoje ako prehľadné záznamy s fotkami."
+        ],
+        [
+          "Na čo myslieť",
+          "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie."
+        ],
+        [
+          "Pre pravidelnosť",
+          "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania."
+        ]
+      ],
+      "workflowTitle": "Praktický postup",
+      "workflow": [
+        "Ak jedlo nemá etiketu, začnite fotkou. Pri balenom produkte použite čiarový kód a pri známom recepte upravte porciu alebo suroviny ručne.",
+        "Denník tak zostane rýchly, ale nie slepý: aplikácia pomôže začať a vy potvrdíte detaily, ktoré sú dôležité pre presnosť."
+      ],
+      "note": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "bestFor": [
+        "každodenné sledovanie",
+        "kontrola porcií",
+        "lepší kontext",
+        "pravidelnosť"
+      ],
+      "workflowKicker": "Ako začať",
+      "noteTitle": "Dobré vedieť"
+    },
+    "/nutrition-tracker/": {
+      "title": "Nutričný tracker",
+      "h1": "Sledujte výživu bez zložitého zapisovania",
+      "description": "Kalórie, makrá, porcie a opakujúce sa návyky uvidíte v jednom jednoduchom prehľade.",
+      "kicker": "Výživa",
+      "summary": "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania.",
+      "bullets": [
+        "Kalórie",
+        "Bielkoviny",
+        "Tuky",
+        "Sacharidy"
+      ],
+      "sections": [
+        [
+          "Ako to pomáha",
+          "Kalórie, makrá, porcie a opakujúce sa návyky uvidíte v jednom jednoduchom prehľade."
+        ],
+        [
+          "Na čo myslieť",
+          "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie."
+        ],
+        [
+          "Pre pravidelnosť",
+          "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania."
+        ]
+      ],
+      "workflowTitle": "Praktický postup",
+      "workflow": [
+        "Ak jedlo nemá etiketu, začnite fotkou. Pri balenom produkte použite čiarový kód a pri známom recepte upravte porciu alebo suroviny ručne.",
+        "Denník tak zostane rýchly, ale nie slepý: aplikácia pomôže začať a vy potvrdíte detaily, ktoré sú dôležité pre presnosť."
+      ],
+      "note": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "bestFor": [
+        "každodenné sledovanie",
+        "kontrola porcií",
+        "lepší kontext",
+        "pravidelnosť"
+      ],
+      "workflowKicker": "Ako začať",
+      "noteTitle": "Dobré vedieť"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Odhad hmotnosti porcie",
+      "h1": "Odhadujte veľkosť porcie z fotky",
+      "description": "AI pomôže začať s odhadom porcie a vy ho môžete upraviť podľa taniera, receptu alebo balenia.",
+      "kicker": "Porcie",
+      "summary": "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania.",
+      "bullets": [
+        "Kalórie",
+        "Bielkoviny",
+        "Tuky",
+        "Sacharidy"
+      ],
+      "sections": [
+        [
+          "Ako to pomáha",
+          "AI pomôže začať s odhadom porcie a vy ho môžete upraviť podľa taniera, receptu alebo balenia."
+        ],
+        [
+          "Na čo myslieť",
+          "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie."
+        ],
+        [
+          "Pre pravidelnosť",
+          "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania."
+        ]
+      ],
+      "workflowTitle": "Praktický postup",
+      "workflow": [
+        "Ak jedlo nemá etiketu, začnite fotkou. Pri balenom produkte použite čiarový kód a pri známom recepte upravte porciu alebo suroviny ručne.",
+        "Denník tak zostane rýchly, ale nie slepý: aplikácia pomôže začať a vy potvrdíte detaily, ktoré sú dôležité pre presnosť."
+      ],
+      "note": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "bestFor": [
+        "každodenné sledovanie",
+        "kontrola porcií",
+        "lepší kontext",
+        "pravidelnosť"
+      ],
+      "workflowKicker": "Ako začať",
+      "noteTitle": "Dobré vedieť"
+    },
+    "/progress-statistics/": {
+      "title": "Štatistiky pokroku",
+      "h1": "Sledujte pokrok v kalóriách a makrách",
+      "description": "Porovnávajte dni, týždne a mesiace a všímajte si trendy namiesto jednej izolovanej hodnoty.",
+      "kicker": "Pokrok",
+      "summary": "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania.",
+      "bullets": [
+        "Kalórie",
+        "Bielkoviny",
+        "Tuky",
+        "Sacharidy"
+      ],
+      "sections": [
+        [
+          "Ako to pomáha",
+          "Porovnávajte dni, týždne a mesiace a všímajte si trendy namiesto jednej izolovanej hodnoty."
+        ],
+        [
+          "Na čo myslieť",
+          "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie."
+        ],
+        [
+          "Pre pravidelnosť",
+          "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania."
+        ]
+      ],
+      "workflowTitle": "Praktický postup",
+      "workflow": [
+        "Ak jedlo nemá etiketu, začnite fotkou. Pri balenom produkte použite čiarový kód a pri známom recepte upravte porciu alebo suroviny ručne.",
+        "Denník tak zostane rýchly, ale nie slepý: aplikácia pomôže začať a vy potvrdíte detaily, ktoré sú dôležité pre presnosť."
+      ],
+      "note": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "bestFor": [
+        "každodenné sledovanie",
+        "kontrola porcií",
+        "lepší kontext",
+        "pravidelnosť"
+      ],
+      "workflowKicker": "Ako začať",
+      "noteTitle": "Dobré vedieť"
+    },
+    "/meal-reminders/": {
+      "title": "Pripomienky jedál",
+      "h1": "Nezabúdajte zapisovať jedlá",
+      "description": "Pripomienky pomáhajú zapisovať jedlá včas, kým si ešte pamätáte porciu a detaily.",
+      "kicker": "Pripomienky",
+      "summary": "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania.",
+      "bullets": [
+        "Kalórie",
+        "Bielkoviny",
+        "Tuky",
+        "Sacharidy"
+      ],
+      "sections": [
+        [
+          "Ako to pomáha",
+          "Pripomienky pomáhajú zapisovať jedlá včas, kým si ešte pamätáte porciu a detaily."
+        ],
+        [
+          "Na čo myslieť",
+          "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie."
+        ],
+        [
+          "Pre pravidelnosť",
+          "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania."
+        ]
+      ],
+      "workflowTitle": "Praktický postup",
+      "workflow": [
+        "Ak jedlo nemá etiketu, začnite fotkou. Pri balenom produkte použite čiarový kód a pri známom recepte upravte porciu alebo suroviny ručne.",
+        "Denník tak zostane rýchly, ale nie slepý: aplikácia pomôže začať a vy potvrdíte detaily, ktoré sú dôležité pre presnosť."
+      ],
+      "note": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "bestFor": [
+        "každodenné sledovanie",
+        "kontrola porcií",
+        "lepší kontext",
+        "pravidelnosť"
+      ],
+      "workflowKicker": "Ako začať",
+      "noteTitle": "Dobré vedieť"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Prepojenie s Google Health Connect",
+      "description": "Využite prepojenie ekosystému Android na pohodlnejšiu prácu s vybranými zdravotnými údajmi.",
+      "kicker": "Android",
+      "summary": "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania.",
+      "bullets": [
+        "Kalórie",
+        "Bielkoviny",
+        "Tuky",
+        "Sacharidy"
+      ],
+      "sections": [
+        [
+          "Ako to pomáha",
+          "Využite prepojenie ekosystému Android na pohodlnejšiu prácu s vybranými zdravotnými údajmi."
+        ],
+        [
+          "Na čo myslieť",
+          "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie."
+        ],
+        [
+          "Pre pravidelnosť",
+          "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania."
+        ]
+      ],
+      "workflowTitle": "Praktický postup",
+      "workflow": [
+        "Ak jedlo nemá etiketu, začnite fotkou. Pri balenom produkte použite čiarový kód a pri známom recepte upravte porciu alebo suroviny ručne.",
+        "Denník tak zostane rýchly, ale nie slepý: aplikácia pomôže začať a vy potvrdíte detaily, ktoré sú dôležité pre presnosť."
+      ],
+      "note": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "bestFor": [
+        "každodenné sledovanie",
+        "kontrola porcií",
+        "lepší kontext",
+        "pravidelnosť"
+      ],
+      "workflowKicker": "Ako začať",
+      "noteTitle": "Dobré vedieť"
+    },
+    "/data-export/": {
+      "title": "Export údajov",
+      "h1": "Exportujte svoje nutričné údaje",
+      "description": "Majte možnosť pracovať so svojimi záznamami mimo aplikácie, keď potrebujete prehľad alebo zálohu.",
+      "kicker": "Údaje",
+      "summary": "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania.",
+      "bullets": [
+        "Kalórie",
+        "Bielkoviny",
+        "Tuky",
+        "Sacharidy"
+      ],
+      "sections": [
+        [
+          "Ako to pomáha",
+          "Majte možnosť pracovať so svojimi záznamami mimo aplikácie, keď potrebujete prehľad alebo zálohu."
+        ],
+        [
+          "Na čo myslieť",
+          "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie."
+        ],
+        [
+          "Pre pravidelnosť",
+          "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania."
+        ]
+      ],
+      "workflowTitle": "Praktický postup",
+      "workflow": [
+        "Ak jedlo nemá etiketu, začnite fotkou. Pri balenom produkte použite čiarový kód a pri známom recepte upravte porciu alebo suroviny ručne.",
+        "Denník tak zostane rýchly, ale nie slepý: aplikácia pomôže začať a vy potvrdíte detaily, ktoré sú dôležité pre presnosť."
+      ],
+      "note": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "bestFor": [
+        "každodenné sledovanie",
+        "kontrola porcií",
+        "lepší kontext",
+        "pravidelnosť"
+      ],
+      "workflowKicker": "Ako začať",
+      "noteTitle": "Dobré vedieť"
+    },
+    "/use-cases/": {
+      "title": "Použitie",
+      "h1": "Použitie",
+      "description": "Praktické spôsoby použitia aplikácie pri chudnutí, udržaní hmotnosti, domácom jedle, reštauráciách a športových cieľoch.",
+      "kicker": "Použitie"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Počítadlo kalórií na chudnutie",
+      "h1": "Počítajte kalórie pri chudnutí",
+      "description": "Vidíte, ako sa jedlá zmestia do denného cieľa a ktoré voľby najviac ovplyvňujú kalorický deficit.",
+      "kicker": "Chudnutie",
+      "summary": "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania.",
+      "bullets": [
+        "Kalórie",
+        "Bielkoviny",
+        "Tuky",
+        "Sacharidy"
+      ],
+      "sections": [
+        [
+          "Ako to pomáha",
+          "Vidíte, ako sa jedlá zmestia do denného cieľa a ktoré voľby najviac ovplyvňujú kalorický deficit."
+        ],
+        [
+          "Na čo myslieť",
+          "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie."
+        ],
+        [
+          "Pre pravidelnosť",
+          "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania."
+        ]
+      ],
+      "workflowTitle": "Praktický postup",
+      "workflow": [
+        "Ak jedlo nemá etiketu, začnite fotkou. Pri balenom produkte použite čiarový kód a pri známom recepte upravte porciu alebo suroviny ručne.",
+        "Denník tak zostane rýchly, ale nie slepý: aplikácia pomôže začať a vy potvrdíte detaily, ktoré sú dôležité pre presnosť."
+      ],
+      "note": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "bestFor": [
+        "každodenné sledovanie",
+        "kontrola porcií",
+        "lepší kontext",
+        "pravidelnosť"
+      ],
+      "workflowKicker": "Ako začať",
+      "noteTitle": "Dobré vedieť"
+    },
+    "/calorie-deficit-app/": {
+      "title": "Aplikácia na kalorický deficit",
+      "h1": "Sledujte kalorický deficit bez extrémov",
+      "description": "Pochopte dennú bilanciu, porcie a opakujúce sa návyky, ktoré ovplyvňujú deficit.",
+      "kicker": "Deficit",
+      "summary": "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania.",
+      "bullets": [
+        "Kalórie",
+        "Bielkoviny",
+        "Tuky",
+        "Sacharidy"
+      ],
+      "sections": [
+        [
+          "Ako to pomáha",
+          "Pochopte dennú bilanciu, porcie a opakujúce sa návyky, ktoré ovplyvňujú deficit."
+        ],
+        [
+          "Na čo myslieť",
+          "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie."
+        ],
+        [
+          "Pre pravidelnosť",
+          "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania."
+        ]
+      ],
+      "workflowTitle": "Praktický postup",
+      "workflow": [
+        "Ak jedlo nemá etiketu, začnite fotkou. Pri balenom produkte použite čiarový kód a pri známom recepte upravte porciu alebo suroviny ručne.",
+        "Denník tak zostane rýchly, ale nie slepý: aplikácia pomôže začať a vy potvrdíte detaily, ktoré sú dôležité pre presnosť."
+      ],
+      "note": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "bestFor": [
+        "každodenné sledovanie",
+        "kontrola porcií",
+        "lepší kontext",
+        "pravidelnosť"
+      ],
+      "workflowKicker": "Ako začať",
+      "noteTitle": "Dobré vedieť"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Tracker kalórií na naberanie svalov",
+      "h1": "Sledujte kalórie a bielkoviny pri naberaní svalov",
+      "description": "Majte pod kontrolou energetický nadbytok, bielkoviny a pravidelnosť jedál.",
+      "kicker": "Svaly",
+      "summary": "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania.",
+      "bullets": [
+        "Kalórie",
+        "Bielkoviny",
+        "Tuky",
+        "Sacharidy"
+      ],
+      "sections": [
+        [
+          "Ako to pomáha",
+          "Majte pod kontrolou energetický nadbytok, bielkoviny a pravidelnosť jedál."
+        ],
+        [
+          "Na čo myslieť",
+          "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie."
+        ],
+        [
+          "Pre pravidelnosť",
+          "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania."
+        ]
+      ],
+      "workflowTitle": "Praktický postup",
+      "workflow": [
+        "Ak jedlo nemá etiketu, začnite fotkou. Pri balenom produkte použite čiarový kód a pri známom recepte upravte porciu alebo suroviny ručne.",
+        "Denník tak zostane rýchly, ale nie slepý: aplikácia pomôže začať a vy potvrdíte detaily, ktoré sú dôležité pre presnosť."
+      ],
+      "note": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "bestFor": [
+        "každodenné sledovanie",
+        "kontrola porcií",
+        "lepší kontext",
+        "pravidelnosť"
+      ],
+      "workflowKicker": "Ako začať",
+      "noteTitle": "Dobré vedieť"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Tracker kalórií na udržanie váhy",
+      "h1": "Udržujte stabilnú kalorickú bilanciu",
+      "description": "Sledujte, ktoré dni a jedlá vás držia blízko cieľa udržania hmotnosti.",
+      "kicker": "Udržanie",
+      "summary": "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania.",
+      "bullets": [
+        "Kalórie",
+        "Bielkoviny",
+        "Tuky",
+        "Sacharidy"
+      ],
+      "sections": [
+        [
+          "Ako to pomáha",
+          "Sledujte, ktoré dni a jedlá vás držia blízko cieľa udržania hmotnosti."
+        ],
+        [
+          "Na čo myslieť",
+          "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie."
+        ],
+        [
+          "Pre pravidelnosť",
+          "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania."
+        ]
+      ],
+      "workflowTitle": "Praktický postup",
+      "workflow": [
+        "Ak jedlo nemá etiketu, začnite fotkou. Pri balenom produkte použite čiarový kód a pri známom recepte upravte porciu alebo suroviny ručne.",
+        "Denník tak zostane rýchly, ale nie slepý: aplikácia pomôže začať a vy potvrdíte detaily, ktoré sú dôležité pre presnosť."
+      ],
+      "note": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "bestFor": [
+        "každodenné sledovanie",
+        "kontrola porcií",
+        "lepší kontext",
+        "pravidelnosť"
+      ],
+      "workflowKicker": "Ako začať",
+      "noteTitle": "Dobré vedieť"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Počítadlo kalórií pre domáce jedlo",
+      "h1": "Odhadujte kalórie v domácich jedlách",
+      "description": "Pridávajte polievky, šaláty, miešané jedlá a recepty bez etikety pomocou fotky a úprav porcie.",
+      "kicker": "Domáce jedlo",
+      "summary": "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania.",
+      "bullets": [
+        "Kalórie",
+        "Bielkoviny",
+        "Tuky",
+        "Sacharidy"
+      ],
+      "sections": [
+        [
+          "Ako to pomáha",
+          "Pridávajte polievky, šaláty, miešané jedlá a recepty bez etikety pomocou fotky a úprav porcie."
+        ],
+        [
+          "Na čo myslieť",
+          "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie."
+        ],
+        [
+          "Pre pravidelnosť",
+          "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania."
+        ]
+      ],
+      "workflowTitle": "Praktický postup",
+      "workflow": [
+        "Ak jedlo nemá etiketu, začnite fotkou. Pri balenom produkte použite čiarový kód a pri známom recepte upravte porciu alebo suroviny ručne.",
+        "Denník tak zostane rýchly, ale nie slepý: aplikácia pomôže začať a vy potvrdíte detaily, ktoré sú dôležité pre presnosť."
+      ],
+      "note": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "bestFor": [
+        "každodenné sledovanie",
+        "kontrola porcií",
+        "lepší kontext",
+        "pravidelnosť"
+      ],
+      "workflowKicker": "Ako začať",
+      "noteTitle": "Dobré vedieť"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Tracker kalórií v reštaurácii",
+      "h1": "Zapisujte jedlá z reštaurácie jednoduchšie",
+      "description": "Odfoťte jedlo pred jedením, skontrolujte omáčky, prílohy a porciu a uložte realistický odhad.",
+      "kicker": "Reštaurácia",
+      "summary": "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania.",
+      "bullets": [
+        "Kalórie",
+        "Bielkoviny",
+        "Tuky",
+        "Sacharidy"
+      ],
+      "sections": [
+        [
+          "Ako to pomáha",
+          "Odfoťte jedlo pred jedením, skontrolujte omáčky, prílohy a porciu a uložte realistický odhad."
+        ],
+        [
+          "Na čo myslieť",
+          "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie."
+        ],
+        [
+          "Pre pravidelnosť",
+          "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania."
+        ]
+      ],
+      "workflowTitle": "Praktický postup",
+      "workflow": [
+        "Ak jedlo nemá etiketu, začnite fotkou. Pri balenom produkte použite čiarový kód a pri známom recepte upravte porciu alebo suroviny ručne.",
+        "Denník tak zostane rýchly, ale nie slepý: aplikácia pomôže začať a vy potvrdíte detaily, ktoré sú dôležité pre presnosť."
+      ],
+      "note": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "bestFor": [
+        "každodenné sledovanie",
+        "kontrola porcií",
+        "lepší kontext",
+        "pravidelnosť"
+      ],
+      "workflowKicker": "Ako začať",
+      "noteTitle": "Dobré vedieť"
+    },
+    "/meal-tracker/": {
+      "title": "Tracker jedál",
+      "h1": "Sledujte jedlá počas dňa",
+      "description": "Zapisujte raňajky, obedy, večere, snacky a nápoje v jednom prehľadnom denníku.",
+      "kicker": "Jedlá",
+      "summary": "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania.",
+      "bullets": [
+        "Kalórie",
+        "Bielkoviny",
+        "Tuky",
+        "Sacharidy"
+      ],
+      "sections": [
+        [
+          "Ako to pomáha",
+          "Zapisujte raňajky, obedy, večere, snacky a nápoje v jednom prehľadnom denníku."
+        ],
+        [
+          "Na čo myslieť",
+          "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie."
+        ],
+        [
+          "Pre pravidelnosť",
+          "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania."
+        ]
+      ],
+      "workflowTitle": "Praktický postup",
+      "workflow": [
+        "Ak jedlo nemá etiketu, začnite fotkou. Pri balenom produkte použite čiarový kód a pri známom recepte upravte porciu alebo suroviny ručne.",
+        "Denník tak zostane rýchly, ale nie slepý: aplikácia pomôže začať a vy potvrdíte detaily, ktoré sú dôležité pre presnosť."
+      ],
+      "note": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "bestFor": [
+        "každodenné sledovanie",
+        "kontrola porcií",
+        "lepší kontext",
+        "pravidelnosť"
+      ],
+      "workflowKicker": "Ako začať",
+      "noteTitle": "Dobré vedieť"
+    },
+    "/photo-food-journal/": {
+      "title": "Fotodenník jedla",
+      "h1": "Veďte stravovací denník s fotkami",
+      "description": "Fotky pomáhajú vidieť porcie, zloženie taniera a opakujúce sa vzorce lepšie než samotný názov jedla.",
+      "kicker": "Fotky",
+      "summary": "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania.",
+      "bullets": [
+        "Kalórie",
+        "Bielkoviny",
+        "Tuky",
+        "Sacharidy"
+      ],
+      "sections": [
+        [
+          "Ako to pomáha",
+          "Fotky pomáhajú vidieť porcie, zloženie taniera a opakujúce sa vzorce lepšie než samotný názov jedla."
+        ],
+        [
+          "Na čo myslieť",
+          "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie."
+        ],
+        [
+          "Pre pravidelnosť",
+          "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania."
+        ]
+      ],
+      "workflowTitle": "Praktický postup",
+      "workflow": [
+        "Ak jedlo nemá etiketu, začnite fotkou. Pri balenom produkte použite čiarový kód a pri známom recepte upravte porciu alebo suroviny ručne.",
+        "Denník tak zostane rýchly, ale nie slepý: aplikácia pomôže začať a vy potvrdíte detaily, ktoré sú dôležité pre presnosť."
+      ],
+      "note": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "bestFor": [
+        "každodenné sledovanie",
+        "kontrola porcií",
+        "lepší kontext",
+        "pravidelnosť"
+      ],
+      "workflowKicker": "Ako začať",
+      "noteTitle": "Dobré vedieť"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Tracker zdravého stravovania",
+      "h1": "Rozumejte svojim každodenným voľbám",
+      "description": "Používajte kalórie, makrá a fotky ako spätnú väzbu, nie ako tvrdú kontrolu.",
+      "kicker": "Zdravé stravovanie",
+      "summary": "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania.",
+      "bullets": [
+        "Kalórie",
+        "Bielkoviny",
+        "Tuky",
+        "Sacharidy"
+      ],
+      "sections": [
+        [
+          "Ako to pomáha",
+          "Používajte kalórie, makrá a fotky ako spätnú väzbu, nie ako tvrdú kontrolu."
+        ],
+        [
+          "Na čo myslieť",
+          "Nutrične ide o odhad. Skutočné hodnoty závisia od značky, receptu, prípravy a veľkosti porcie."
+        ],
+        [
+          "Pre pravidelnosť",
+          "Pomáha rýchlejšie zapisovať jedlá, kontrolovať porcie a sledovať kalórie bez zbytočného ručného vyhľadávania."
+        ]
+      ],
+      "workflowTitle": "Praktický postup",
+      "workflow": [
+        "Ak jedlo nemá etiketu, začnite fotkou. Pri balenom produkte použite čiarový kód a pri známom recepte upravte porciu alebo suroviny ručne.",
+        "Denník tak zostane rýchly, ale nie slepý: aplikácia pomôže začať a vy potvrdíte detaily, ktoré sú dôležité pre presnosť."
+      ],
+      "note": "Nutričné hodnoty sú iba orientačné a nenahrádzajú radu lekára, nutričného terapeuta ani iného zdravotníckeho odborníka.",
+      "bestFor": [
+        "každodenné sledovanie",
+        "kontrola porcií",
+        "lepší kontext",
+        "pravidelnosť"
+      ],
+      "workflowKicker": "Ako začať",
+      "noteTitle": "Dobré vedieť"
+    },
+    "/blog/": {
+      "title": "Návody",
+      "h1": "Návody",
+      "description": "Návody na počítanie kalórií, odhad porcií, makrá a praktickejšie zapisovanie jedál.",
+      "kicker": "Návody"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Ako počítať kalórie z fotky",
+      "h1": "Ako počítať kalórie z fotky",
+      "description": "Ako počítať kalórie z fotky: praktický návod na bežné zapisovanie jedál, kontrolu porcií a lepšiu prácu s kalóriami.",
+      "category": "Návod",
+      "readTime": "4 min čítania",
+      "intro": "Cieľom nie je dokonalé číslo, ale pravidelný a zrozumiteľný záznam, ktorý pomáha rozhodovať sa v bežnom dni.",
+      "sections": [
+        [
+          "Začnite jednoducho",
+          "Sledujte najprv hlavné hodnoty: kalórie, porciu a podľa cieľa aj bielkoviny."
+        ],
+        [
+          "Kontrolujte porciu",
+          "Porcia často zmení výsledok viac než drobné rozdiely v názve potraviny."
+        ],
+        [
+          "Doplňte kontext",
+          "Omáčky, olej, nápoje a značky môžu výsledok výrazne posunúť."
+        ],
+        [
+          "Sledujte trend",
+          "Užitočnejší je priemer niekoľkých dní než jeden presný zápis."
+        ]
+      ],
+      "takeaway": "Pravidelný, rozumne presný denník je praktickejší než občasné dokonalé váženie."
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Aké presné sú AI počítadlá kalórií?",
+      "h1": "Aké presné sú AI počítadlá kalórií?",
+      "description": "Aké presné sú AI počítadlá kalórií?: praktický návod na bežné zapisovanie jedál, kontrolu porcií a lepšiu prácu s kalóriami.",
+      "category": "Návod",
+      "readTime": "4 min čítania",
+      "intro": "Cieľom nie je dokonalé číslo, ale pravidelný a zrozumiteľný záznam, ktorý pomáha rozhodovať sa v bežnom dni.",
+      "sections": [
+        [
+          "Začnite jednoducho",
+          "Sledujte najprv hlavné hodnoty: kalórie, porciu a podľa cieľa aj bielkoviny."
+        ],
+        [
+          "Kontrolujte porciu",
+          "Porcia často zmení výsledok viac než drobné rozdiely v názve potraviny."
+        ],
+        [
+          "Doplňte kontext",
+          "Omáčky, olej, nápoje a značky môžu výsledok výrazne posunúť."
+        ],
+        [
+          "Sledujte trend",
+          "Užitočnejší je priemer niekoľkých dní než jeden presný zápis."
+        ]
+      ],
+      "takeaway": "Pravidelný, rozumne presný denník je praktickejší než občasné dokonalé váženie."
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "AI počítadlo kalórií alebo ručný zápis?",
+      "h1": "AI počítadlo kalórií alebo ručný zápis?",
+      "description": "AI počítadlo kalórií alebo ručný zápis?: praktický návod na bežné zapisovanie jedál, kontrolu porcií a lepšiu prácu s kalóriami.",
+      "category": "Návod",
+      "readTime": "4 min čítania",
+      "intro": "Cieľom nie je dokonalé číslo, ale pravidelný a zrozumiteľný záznam, ktorý pomáha rozhodovať sa v bežnom dni.",
+      "sections": [
+        [
+          "Začnite jednoducho",
+          "Sledujte najprv hlavné hodnoty: kalórie, porciu a podľa cieľa aj bielkoviny."
+        ],
+        [
+          "Kontrolujte porciu",
+          "Porcia často zmení výsledok viac než drobné rozdiely v názve potraviny."
+        ],
+        [
+          "Doplňte kontext",
+          "Omáčky, olej, nápoje a značky môžu výsledok výrazne posunúť."
+        ],
+        [
+          "Sledujte trend",
+          "Užitočnejší je priemer niekoľkých dní než jeden presný zápis."
+        ]
+      ],
+      "takeaway": "Pravidelný, rozumne presný denník je praktickejší než občasné dokonalé váženie."
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Skener kalórií v jedle",
+      "h1": "Skener kalórií v jedle",
+      "description": "Skener kalórií v jedle: praktický návod na bežné zapisovanie jedál, kontrolu porcií a lepšiu prácu s kalóriami.",
+      "category": "Návod",
+      "readTime": "4 min čítania",
+      "intro": "Cieľom nie je dokonalé číslo, ale pravidelný a zrozumiteľný záznam, ktorý pomáha rozhodovať sa v bežnom dni.",
+      "sections": [
+        [
+          "Začnite jednoducho",
+          "Sledujte najprv hlavné hodnoty: kalórie, porciu a podľa cieľa aj bielkoviny."
+        ],
+        [
+          "Kontrolujte porciu",
+          "Porcia často zmení výsledok viac než drobné rozdiely v názve potraviny."
+        ],
+        [
+          "Doplňte kontext",
+          "Omáčky, olej, nápoje a značky môžu výsledok výrazne posunúť."
+        ],
+        [
+          "Sledujte trend",
+          "Užitočnejší je priemer niekoľkých dní než jeden presný zápis."
+        ]
+      ],
+      "takeaway": "Pravidelný, rozumne presný denník je praktickejší než občasné dokonalé váženie."
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Ako sledovať makrá pre začiatočníkov",
+      "h1": "Ako sledovať makrá pre začiatočníkov",
+      "description": "Ako sledovať makrá pre začiatočníkov: praktický návod na bežné zapisovanie jedál, kontrolu porcií a lepšiu prácu s kalóriami.",
+      "category": "Návod",
+      "readTime": "4 min čítania",
+      "intro": "Cieľom nie je dokonalé číslo, ale pravidelný a zrozumiteľný záznam, ktorý pomáha rozhodovať sa v bežnom dni.",
+      "sections": [
+        [
+          "Začnite jednoducho",
+          "Sledujte najprv hlavné hodnoty: kalórie, porciu a podľa cieľa aj bielkoviny."
+        ],
+        [
+          "Kontrolujte porciu",
+          "Porcia často zmení výsledok viac než drobné rozdiely v názve potraviny."
+        ],
+        [
+          "Doplňte kontext",
+          "Omáčky, olej, nápoje a značky môžu výsledok výrazne posunúť."
+        ],
+        [
+          "Sledujte trend",
+          "Užitočnejší je priemer niekoľkých dní než jeden presný zápis."
+        ]
+      ],
+      "takeaway": "Pravidelný, rozumne presný denník je praktickejší než občasné dokonalé váženie."
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Kalórie vs. makrá",
+      "h1": "Kalórie vs. makrá",
+      "description": "Kalórie vs. makrá: praktický návod na bežné zapisovanie jedál, kontrolu porcií a lepšiu prácu s kalóriami.",
+      "category": "Návod",
+      "readTime": "4 min čítania",
+      "intro": "Cieľom nie je dokonalé číslo, ale pravidelný a zrozumiteľný záznam, ktorý pomáha rozhodovať sa v bežnom dni.",
+      "sections": [
+        [
+          "Začnite jednoducho",
+          "Sledujte najprv hlavné hodnoty: kalórie, porciu a podľa cieľa aj bielkoviny."
+        ],
+        [
+          "Kontrolujte porciu",
+          "Porcia často zmení výsledok viac než drobné rozdiely v názve potraviny."
+        ],
+        [
+          "Doplňte kontext",
+          "Omáčky, olej, nápoje a značky môžu výsledok výrazne posunúť."
+        ],
+        [
+          "Sledujte trend",
+          "Užitočnejší je priemer niekoľkých dní než jeden presný zápis."
+        ]
+      ],
+      "takeaway": "Pravidelný, rozumne presný denník je praktickejší než občasné dokonalé váženie."
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Ako počítať kalórie v domácom jedle",
+      "h1": "Ako počítať kalórie v domácom jedle",
+      "description": "Ako počítať kalórie v domácom jedle: praktický návod na bežné zapisovanie jedál, kontrolu porcií a lepšiu prácu s kalóriami.",
+      "category": "Návod",
+      "readTime": "4 min čítania",
+      "intro": "Cieľom nie je dokonalé číslo, ale pravidelný a zrozumiteľný záznam, ktorý pomáha rozhodovať sa v bežnom dni.",
+      "sections": [
+        [
+          "Začnite jednoducho",
+          "Sledujte najprv hlavné hodnoty: kalórie, porciu a podľa cieľa aj bielkoviny."
+        ],
+        [
+          "Kontrolujte porciu",
+          "Porcia často zmení výsledok viac než drobné rozdiely v názve potraviny."
+        ],
+        [
+          "Doplňte kontext",
+          "Omáčky, olej, nápoje a značky môžu výsledok výrazne posunúť."
+        ],
+        [
+          "Sledujte trend",
+          "Užitočnejší je priemer niekoľkých dní než jeden presný zápis."
+        ]
+      ],
+      "takeaway": "Pravidelný, rozumne presný denník je praktickejší než občasné dokonalé váženie."
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Ako odhadnúť veľkosť porcie",
+      "h1": "Ako odhadnúť veľkosť porcie",
+      "description": "Ako odhadnúť veľkosť porcie: praktický návod na bežné zapisovanie jedál, kontrolu porcií a lepšiu prácu s kalóriami.",
+      "category": "Návod",
+      "readTime": "4 min čítania",
+      "intro": "Cieľom nie je dokonalé číslo, ale pravidelný a zrozumiteľný záznam, ktorý pomáha rozhodovať sa v bežnom dni.",
+      "sections": [
+        [
+          "Začnite jednoducho",
+          "Sledujte najprv hlavné hodnoty: kalórie, porciu a podľa cieľa aj bielkoviny."
+        ],
+        [
+          "Kontrolujte porciu",
+          "Porcia často zmení výsledok viac než drobné rozdiely v názve potraviny."
+        ],
+        [
+          "Doplňte kontext",
+          "Omáčky, olej, nápoje a značky môžu výsledok výrazne posunúť."
+        ],
+        [
+          "Sledujte trend",
+          "Užitočnejší je priemer niekoľkých dní než jeden presný zápis."
+        ]
+      ],
+      "takeaway": "Pravidelný, rozumne presný denník je praktickejší než občasné dokonalé váženie."
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Koľko kalórií jesť denne?",
+      "h1": "Koľko kalórií jesť denne?",
+      "description": "Koľko kalórií jesť denne?: praktický návod na bežné zapisovanie jedál, kontrolu porcií a lepšiu prácu s kalóriami.",
+      "category": "Návod",
+      "readTime": "4 min čítania",
+      "intro": "Cieľom nie je dokonalé číslo, ale pravidelný a zrozumiteľný záznam, ktorý pomáha rozhodovať sa v bežnom dni.",
+      "sections": [
+        [
+          "Začnite jednoducho",
+          "Sledujte najprv hlavné hodnoty: kalórie, porciu a podľa cieľa aj bielkoviny."
+        ],
+        [
+          "Kontrolujte porciu",
+          "Porcia často zmení výsledok viac než drobné rozdiely v názve potraviny."
+        ],
+        [
+          "Doplňte kontext",
+          "Omáčky, olej, nápoje a značky môžu výsledok výrazne posunúť."
+        ],
+        [
+          "Sledujte trend",
+          "Užitočnejší je priemer niekoľkých dní než jeden presný zápis."
+        ]
+      ],
+      "takeaway": "Pravidelný, rozumne presný denník je praktickejší než občasné dokonalé váženie."
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Čo je kalorický deficit?",
+      "h1": "Čo je kalorický deficit?",
+      "description": "Čo je kalorický deficit?: praktický návod na bežné zapisovanie jedál, kontrolu porcií a lepšiu prácu s kalóriami.",
+      "category": "Návod",
+      "readTime": "4 min čítania",
+      "intro": "Cieľom nie je dokonalé číslo, ale pravidelný a zrozumiteľný záznam, ktorý pomáha rozhodovať sa v bežnom dni.",
+      "sections": [
+        [
+          "Začnite jednoducho",
+          "Sledujte najprv hlavné hodnoty: kalórie, porciu a podľa cieľa aj bielkoviny."
+        ],
+        [
+          "Kontrolujte porciu",
+          "Porcia často zmení výsledok viac než drobné rozdiely v názve potraviny."
+        ],
+        [
+          "Doplňte kontext",
+          "Omáčky, olej, nápoje a značky môžu výsledok výrazne posunúť."
+        ],
+        [
+          "Sledujte trend",
+          "Užitočnejší je priemer niekoľkých dní než jeden presný zápis."
+        ]
+      ],
+      "takeaway": "Pravidelný, rozumne presný denník je praktickejší než občasné dokonalé váženie."
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Najčastejšie chyby pri počítaní kalórií",
+      "h1": "Najčastejšie chyby pri počítaní kalórií",
+      "description": "Najčastejšie chyby pri počítaní kalórií: praktický návod na bežné zapisovanie jedál, kontrolu porcií a lepšiu prácu s kalóriami.",
+      "category": "Návod",
+      "readTime": "4 min čítania",
+      "intro": "Cieľom nie je dokonalé číslo, ale pravidelný a zrozumiteľný záznam, ktorý pomáha rozhodovať sa v bežnom dni.",
+      "sections": [
+        [
+          "Začnite jednoducho",
+          "Sledujte najprv hlavné hodnoty: kalórie, porciu a podľa cieľa aj bielkoviny."
+        ],
+        [
+          "Kontrolujte porciu",
+          "Porcia často zmení výsledok viac než drobné rozdiely v názve potraviny."
+        ],
+        [
+          "Doplňte kontext",
+          "Omáčky, olej, nápoje a značky môžu výsledok výrazne posunúť."
+        ],
+        [
+          "Sledujte trend",
+          "Užitočnejší je priemer niekoľkých dní než jeden presný zápis."
+        ]
+      ],
+      "takeaway": "Pravidelný, rozumne presný denník je praktickejší než občasné dokonalé váženie."
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Ako zapisovať jedlo z reštaurácie",
+      "h1": "Ako zapisovať jedlo z reštaurácie",
+      "description": "Ako zapisovať jedlo z reštaurácie: praktický návod na bežné zapisovanie jedál, kontrolu porcií a lepšiu prácu s kalóriami.",
+      "category": "Návod",
+      "readTime": "4 min čítania",
+      "intro": "Cieľom nie je dokonalé číslo, ale pravidelný a zrozumiteľný záznam, ktorý pomáha rozhodovať sa v bežnom dni.",
+      "sections": [
+        [
+          "Začnite jednoducho",
+          "Sledujte najprv hlavné hodnoty: kalórie, porciu a podľa cieľa aj bielkoviny."
+        ],
+        [
+          "Kontrolujte porciu",
+          "Porcia často zmení výsledok viac než drobné rozdiely v názve potraviny."
+        ],
+        [
+          "Doplňte kontext",
+          "Omáčky, olej, nápoje a značky môžu výsledok výrazne posunúť."
+        ],
+        [
+          "Sledujte trend",
+          "Užitočnejší je priemer niekoľkých dní než jeden presný zápis."
+        ]
+      ],
+      "takeaway": "Pravidelný, rozumne presný denník je praktickejší než občasné dokonalé váženie."
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Ako sledovať bielkoviny",
+      "h1": "Ako sledovať bielkoviny",
+      "description": "Ako sledovať bielkoviny: praktický návod na bežné zapisovanie jedál, kontrolu porcií a lepšiu prácu s kalóriami.",
+      "category": "Návod",
+      "readTime": "4 min čítania",
+      "intro": "Cieľom nie je dokonalé číslo, ale pravidelný a zrozumiteľný záznam, ktorý pomáha rozhodovať sa v bežnom dni.",
+      "sections": [
+        [
+          "Začnite jednoducho",
+          "Sledujte najprv hlavné hodnoty: kalórie, porciu a podľa cieľa aj bielkoviny."
+        ],
+        [
+          "Kontrolujte porciu",
+          "Porcia často zmení výsledok viac než drobné rozdiely v názve potraviny."
+        ],
+        [
+          "Doplňte kontext",
+          "Omáčky, olej, nápoje a značky môžu výsledok výrazne posunúť."
+        ],
+        [
+          "Sledujte trend",
+          "Užitočnejší je priemer niekoľkých dní než jeden presný zápis."
+        ]
+      ],
+      "takeaway": "Pravidelný, rozumne presný denník je praktickejší než občasné dokonalé váženie."
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Čo je stravovací denník?",
+      "h1": "Čo je stravovací denník?",
+      "description": "Čo je stravovací denník?: praktický návod na bežné zapisovanie jedál, kontrolu porcií a lepšiu prácu s kalóriami.",
+      "category": "Návod",
+      "readTime": "4 min čítania",
+      "intro": "Cieľom nie je dokonalé číslo, ale pravidelný a zrozumiteľný záznam, ktorý pomáha rozhodovať sa v bežnom dni.",
+      "sections": [
+        [
+          "Začnite jednoducho",
+          "Sledujte najprv hlavné hodnoty: kalórie, porciu a podľa cieľa aj bielkoviny."
+        ],
+        [
+          "Kontrolujte porciu",
+          "Porcia často zmení výsledok viac než drobné rozdiely v názve potraviny."
+        ],
+        [
+          "Doplňte kontext",
+          "Omáčky, olej, nápoje a značky môžu výsledok výrazne posunúť."
+        ],
+        [
+          "Sledujte trend",
+          "Užitočnejší je priemer niekoľkých dní než jeden presný zápis."
+        ]
+      ],
+      "takeaway": "Pravidelný, rozumne presný denník je praktickejší než občasné dokonalé váženie."
+    },
+    "/download/": {
+      "title": "Stiahnuť aplikáciu",
+      "h1": "Stiahnuť Calorie Counter AI",
+      "description": "Stiahnite si AI počítadlo kalórií pre iPhone alebo Android a začnite zapisovať jedlá fotkou.",
+      "kicker": "Stiahnutie"
+    },
+    "/faq/": {
+      "title": "FAQ",
+      "h1": "Časté otázky",
+      "description": "Odpovede na otázky o počítaní kalórií z fotky, presnosti, makrách, čiarových kódoch a súkromí.",
+      "kicker": "FAQ"
+    },
+    "/pricing/": {
+      "title": "Cenník",
+      "h1": "Cenník a možnosti aplikácie",
+      "description": "Začnite zadarmo a v aplikácii si overte aktuálne prémiové možnosti, limity a dostupné nákupy.",
+      "kicker": "Cenník"
+    },
+    "/support/": {
+      "title": "Podpora",
+      "h1": "Podpora Calorie Counter AI",
+      "description": "Potrebujete pomoc? Pripravte verziu aplikácie, zariadenie a stručný opis problému.",
+      "kicker": "Podpora"
+    },
+    "/contact/": {
+      "title": "Kontakt",
+      "h1": "Kontaktujte Calorie Counter AI",
+      "description": "Kontakt pre podporu, médiá, partnerstvá a spätnú väzbu k aplikácii.",
+      "kicker": "Kontakt"
+    },
+    "/privacy-policy/": {
+      "title": "Zásady ochrany súkromia",
+      "h1": "Zásady ochrany súkromia",
+      "description": "Prehľad toho, ako Calorie Counter AI pracuje s údajmi potrebnými pre stravovací denník a prevádzku služby.",
+      "kicker": "Súkromie"
+    },
+    "/terms/": {
+      "title": "Podmienky",
+      "h1": "Podmienky používania",
+      "description": "Pravidlá používania aplikácie Calorie Counter AI a informatívnych nutričných odhadov.",
+      "kicker": "Podmienky"
+    },
+    "/health-disclaimer/": {
+      "title": "Zdravotné upozornenie",
+      "h1": "Zdravotné upozornenie",
+      "description": "Nutričné odhady sú iba informatívne a nenahrádzajú odborné zdravotné ani dietetické poradenstvo.",
+      "kicker": "Upozornenie"
+    },
+    "/delete-account/": {
+      "title": "Vymazanie účtu",
+      "h1": "Ako požiadať o vymazanie účtu",
+      "description": "Postup pre žiadosť o vymazanie účtu a súvisiacich údajov v Calorie Counter AI.",
+      "kicker": "Účet"
+    },
+    "/press/": {
+      "title": "Pre médiá",
+      "h1": "Materiály pre médiá Calorie Counter AI",
+      "description": "Krátky opis, ikona a snímky aplikácie pre médiá a partnerov.",
+      "kicker": "Press"
+    },
+    "/how-many-calories-in/": {
+      "title": "Kalórie v potravinách",
+      "h1": "Koľko kalórií je v potravinách?",
+      "description": "Prehľadávajte orientačné kalórie, makrá a bežné porcie pre obľúbené potraviny, jedlá a nápoje.",
+      "kicker": "Kalórie"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Cookies",
+    "text": "Používame nevyhnutné cookies a localStorage na uloženie jazyka a voľby cookies. So súhlasom používame aj analytické cookies na zlepšovanie webu.",
+    "accept": "Prijať",
+    "decline": "Odmietnuť analytiku"
+  }
+}

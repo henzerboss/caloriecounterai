@@ -1,0 +1,2619 @@
+{
+  "localeName": "Tiếng Việt",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "Ứng dụng đếm calo AI bằng ảnh"
+  },
+  "nav": {
+    "features": "Tính năng",
+    "useCases": "Trường hợp sử dụng",
+    "blog": "Hướng dẫn",
+    "faq": "FAQ",
+    "download": "Tải xuống",
+    "language": "Ngôn ngữ",
+    "openMenu": "Mở menu",
+    "caloriesInFoods": "Calo trong thực phẩm",
+    "all": "Tất cả",
+    "allFeatures": "Tất cả tính năng",
+    "allUseCases": "Tất cả trường hợp sử dụng",
+    "allLearn": "Tất cả hướng dẫn",
+    "openHub": "Mở mục →",
+    "home": "Trang chủ"
+  },
+  "cta": {
+    "appStore": "Tải trên App Store",
+    "googlePlay": "Tải trên Google Play",
+    "downloadNow": "Tải xuống ngay",
+    "tryFree": "Dùng thử miễn phí",
+    "learnMore": "Tìm hiểu thêm",
+    "learnMoreArrow": "Tìm hiểu thêm →",
+    "readGuide": "Đọc hướng dẫn"
+  },
+  "home": {
+    "title": "Ứng dụng đếm calo AI bằng ảnh",
+    "description": "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+    "heroNote": "Bắt đầu miễn phí với phân tích món ăn bằng AI mỗi ngày. Dùng được trên iPhone và Android.",
+    "photoEyebrow": "Bộ đếm calo bằng ảnh",
+    "photoTitle": "Bộ đếm calo bằng ảnh",
+    "photoText": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+    "photoChecklist": [
+      "Bộ đếm calo bằng ảnh",
+      "Máy quét mã vạch",
+      "Macro",
+      "Nhật ký ăn uống"
+    ],
+    "featureCards": [
+      [
+        "camera",
+        "Bộ đếm calo bằng ảnh",
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống."
+      ],
+      [
+        "sparkles",
+        "Máy quét mã vạch",
+        "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+      ],
+      [
+        "shield",
+        "Macro",
+        "Bắt đầu miễn phí với phân tích món ăn bằng AI mỗi ngày. Dùng được trên iPhone và Android."
+      ],
+      [
+        "barcode",
+        "Nhật ký ăn uống",
+        "Quét mã vạch thực phẩm đóng gói, xác nhận sản phẩm rồi thêm calo và macro vào nhật ký chỉ trong vài giây."
+      ],
+      [
+        "macro",
+        "Bộ đếm calo bằng ảnh",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      [
+        "diary",
+        "Máy quét mã vạch",
+        "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+      ]
+    ],
+    "foodPreviewTitle": "Thực phẩm phổ biến có bao nhiêu calo?",
+    "foodPreviewText": "Xem nhanh hướng dẫn calo và macro cho bữa ăn, món ăn vặt và đồ uống hằng ngày.",
+    "foodPreviewLink": "Mở toàn bộ hướng dẫn calo thực phẩm →",
+    "goalEyebrow": "Dinh dưỡng",
+    "counterTitle": "Ứng dụng đếm calo AI bằng ảnh",
+    "counterText": "Dùng ảnh, mã vạch, mục yêu thích và nhật ký gọn gàng để duy trì thói quen mà không biến việc đếm calo thành một công việc thứ hai.",
+    "goalPills": [
+      "Giảm cân",
+      "Duy trì cân nặng",
+      "Tăng cơ",
+      "Ngày bận rộn"
+    ],
+    "magicEyebrow": "Tính năng",
+    "magicTitle": "Ghi món ăn trong ba bước nhanh",
+    "magicText": "Chụp ảnh, xem lại ước tính rồi lưu bữa ăn. Ít phải nhập tay hơn, thói quen cũng dễ duy trì hơn.",
+    "magicSteps": [
+      "Chụp",
+      "Kiểm tra",
+      "Lưu"
+    ],
+    "barcodeEyebrow": "Máy quét mã vạch",
+    "barcodeTitle": "Máy quét mã vạch",
+    "barcodeText": "Quét mã vạch thực phẩm đóng gói, xác nhận sản phẩm rồi thêm calo và macro vào nhật ký chỉ trong vài giây.",
+    "barcodeLink": "Máy quét mã vạch →",
+    "progressEyebrow": "Macro",
+    "macroTitle": "Theo dõi calo và macro",
+    "macroText": "Xem nhanh calo, protein, carb và chất béo, rồi so sánh tiến độ theo ngày, tuần và tháng.",
+    "macroLink": "Macro →",
+    "useCasesEyebrow": "Trường hợp sử dụng",
+    "useCasesTitle": "Dinh dưỡng",
+    "useCasesText": "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Giảm cân",
+        "Calo"
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Món tự nấu",
+        "Bộ đếm calo bằng ảnh"
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Món ở nhà hàng",
+        "Nhật ký ăn uống"
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Tăng cơ",
+        "Protein"
+      ]
+    ],
+    "downloadTitle": "Tải Calorie Counter AI",
+    "downloadText": "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký.",
+    "faqEyebrow": "FAQ",
+    "faqTitle": "FAQ",
+    "faq": [
+      [
+        "Calorie Counter AI có miễn phí không?",
+        "Bạn có thể bắt đầu bằng các phân tích món ăn AI miễn phí mỗi ngày. Gói Premium hữu ích nếu bạn cần giới hạn cao hơn và thêm công cụ."
+      ],
+      [
+        "Tôi có thể đếm calo từ ảnh không?",
+        "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+      ],
+      [
+        "Ước tính của AI chính xác đến đâu?",
+        "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+      ],
+      [
+        "Ứng dụng có theo dõi macro không?",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      [
+        "Ứng dụng có dùng được trên iPhone và Android không?",
+        "Bắt đầu miễn phí với phân tích món ăn bằng AI mỗi ngày. Dùng được trên iPhone và Android."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "Ứng dụng đếm calo AI bằng ảnh",
+    "homeOgTitle": "Ứng dụng đếm calo AI bằng ảnh",
+    "homeDescription": "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+  },
+  "footer": {
+    "disclaimer": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+    "copyright": "© 2026 Calorie Counter AI"
+  },
+  "foodIndex": {
+    "findTitle": "Calo trong thực phẩm",
+    "findText": "Calo, protein, chất béo và carb cho các thực phẩm và khẩu phần phổ biến.",
+    "categoryIntro": "Calo trong thực phẩm"
+  },
+  "foodPage": {
+    "eyebrow": "Calo trong thực phẩm",
+    "trackInApp": "Tải xuống",
+    "browseFoods": "Calo trong thực phẩm →",
+    "typicalEstimate": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+    "caloriesMacros": "Calo và macro",
+    "whenFits": "Trường hợp sử dụng",
+    "whatToWatch": "Tìm hiểu thêm",
+    "howToLog": "Nhật ký ăn uống",
+    "helpfulContext": "Hướng dẫn",
+    "faq": "FAQ",
+    "weightLossQuestion": "Có phù hợp để giảm cân không?",
+    "variabilityQuestion": "Điều gì làm lượng calo thay đổi nhiều nhất?",
+    "logFasterTitle": "Bộ đếm calo bằng ảnh",
+    "logFasterText": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+    "photoTrackingLink": "Bộ đếm calo bằng ảnh →",
+    "macros": {
+      "protein": "Protein",
+      "fat": "Chất béo",
+      "carbs": "Carb"
+    },
+    "titleTemplate": "{namePrep} có bao nhiêu calo?",
+    "h1Template": "{namePrep} có bao nhiêu calo?",
+    "descriptionTemplate": "{name}: calo, protein, chất béo và carb cho khẩu phần “{serving}”, kèm ghi chú thực tế để ghi nhật ký.",
+    "heroIntroTemplate": "Khoảng {calories} {kcal} mỗi khẩu phần: {servingLower}. Hãy dùng làm điểm tham khảo và điều chỉnh theo thương hiệu, công thức, cách nấu và kích thước khẩu phần.",
+    "macroParagraphTemplate": "{name}: khoảng {calories} {kcal} mỗi khẩu phần “{servingLower}”. Khẩu phần này có khoảng {protein} {gram} protein, {fat} {gram} chất béo và {carbs} {gram} carb{fiberText}.",
+    "per100Template": "Để so sánh trên 100 {gram}: khoảng {calories} {kcal}, {protein} {gram} protein, {fat} {gram} chất béo và {carbs} {gram} carb.",
+    "calorieLevelTemplate": "Hãy lấy khẩu phần làm mốc: khoảng {calories} {kcal} cho “{servingLower}”."
+  },
+  "foodCategories": {
+    "Fruit": "Trái cây",
+    "Protein foods": "Thực phẩm giàu protein",
+    "Fruits and fats": "Trái cây và chất béo",
+    "Grains and starches": "Ngũ cốc và tinh bột",
+    "Nuts and spreads": "Các loại hạt và bơ phết",
+    "Breakfast foods": "Món ăn sáng",
+    "Dairy": "Sữa và sản phẩm từ sữa",
+    "Restaurant meals": "Món ở nhà hàng",
+    "Fast food": "Đồ ăn nhanh",
+    "Legumes and plant protein": "Đậu và protein thực vật",
+    "Desserts": "Món tráng miệng",
+    "Snacks": "Đồ ăn vặt",
+    "Drinks": "Đồ uống",
+    "Vegetables": "Rau củ",
+    "Sauces and condiments": "Nước sốt và gia vị",
+    "Mixed dishes": "Món hỗn hợp"
+  },
+  "foods": {
+    "banana": {
+      "name": "Chuối",
+      "namePrep": "chuối",
+      "serving": "1 khẩu phần chuối"
+    },
+    "apple": {
+      "name": "Táo",
+      "namePrep": "táo",
+      "serving": "1 khẩu phần táo"
+    },
+    "egg": {
+      "name": "Trứng",
+      "namePrep": "trứng",
+      "serving": "1 khẩu phần trứng"
+    },
+    "avocado": {
+      "name": "Bơ",
+      "namePrep": "bơ",
+      "serving": "1 khẩu phần bơ"
+    },
+    "chicken-breast": {
+      "name": "Ức gà",
+      "namePrep": "ức gà",
+      "serving": "1 khẩu phần ức gà"
+    },
+    "salmon": {
+      "name": "Cá hồi",
+      "namePrep": "cá hồi",
+      "serving": "1 khẩu phần cá hồi"
+    },
+    "white-rice": {
+      "name": "Cơm trắng",
+      "namePrep": "cơm trắng",
+      "serving": "1 khẩu phần cơm trắng"
+    },
+    "brown-rice": {
+      "name": "Gạo lứt",
+      "namePrep": "gạo lứt",
+      "serving": "1 khẩu phần gạo lứt"
+    },
+    "pasta": {
+      "name": "Mì pasta",
+      "namePrep": "mì pasta",
+      "serving": "1 khẩu phần mì pasta"
+    },
+    "potato": {
+      "name": "Khoai tây",
+      "namePrep": "khoai tây",
+      "serving": "1 khẩu phần khoai tây"
+    },
+    "sweet-potato": {
+      "name": "Khoai lang",
+      "namePrep": "khoai lang",
+      "serving": "1 khẩu phần khoai lang"
+    },
+    "bread": {
+      "name": "Bánh mì",
+      "namePrep": "bánh mì",
+      "serving": "1 khẩu phần bánh mì"
+    },
+    "peanut-butter": {
+      "name": "Bơ đậu phộng",
+      "namePrep": "bơ đậu phộng",
+      "serving": "1 khẩu phần bơ đậu phộng"
+    },
+    "oatmeal": {
+      "name": "Yến mạch nấu",
+      "namePrep": "yến mạch nấu",
+      "serving": "1 khẩu phần yến mạch nấu"
+    },
+    "greek-yogurt": {
+      "name": "Sữa chua Hy Lạp",
+      "namePrep": "sữa chua Hy Lạp",
+      "serving": "1 khẩu phần sữa chua Hy Lạp"
+    },
+    "yogurt": {
+      "name": "Sữa chua",
+      "namePrep": "sữa chua",
+      "serving": "1 khẩu phần sữa chua"
+    },
+    "milk": {
+      "name": "Sữa",
+      "namePrep": "sữa",
+      "serving": "1 khẩu phần sữa"
+    },
+    "cheddar-cheese": {
+      "name": "Phô mai cheddar",
+      "namePrep": "phô mai cheddar",
+      "serving": "1 khẩu phần phô mai cheddar"
+    },
+    "pizza": {
+      "name": "Pizza",
+      "namePrep": "pizza",
+      "serving": "1 khẩu phần pizza"
+    },
+    "burger": {
+      "name": "Burger",
+      "namePrep": "burger",
+      "serving": "1 khẩu phần burger"
+    },
+    "french-fries": {
+      "name": "Khoai tây chiên",
+      "namePrep": "khoai tây chiên",
+      "serving": "1 khẩu phần khoai tây chiên"
+    },
+    "sushi-roll": {
+      "name": "Cuộn sushi",
+      "namePrep": "cuộn sushi",
+      "serving": "1 khẩu phần cuộn sushi"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "taco",
+      "serving": "1 khẩu phần taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "burrito",
+      "serving": "1 khẩu phần burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Gà viên chiên",
+      "namePrep": "gà viên chiên",
+      "serving": "1 khẩu phần gà viên chiên"
+    },
+    "hot-dog": {
+      "name": "Hot dog",
+      "namePrep": "hot dog",
+      "serving": "1 khẩu phần hot dog"
+    },
+    "steak": {
+      "name": "Bít tết",
+      "namePrep": "bít tết",
+      "serving": "1 khẩu phần bít tết"
+    },
+    "bacon": {
+      "name": "Thịt xông khói",
+      "namePrep": "thịt xông khói",
+      "serving": "1 khẩu phần thịt xông khói"
+    },
+    "tuna": {
+      "name": "Cá ngừ",
+      "namePrep": "cá ngừ",
+      "serving": "1 khẩu phần cá ngừ"
+    },
+    "shrimp": {
+      "name": "Tôm",
+      "namePrep": "tôm",
+      "serving": "1 khẩu phần tôm"
+    },
+    "tofu": {
+      "name": "Đậu phụ",
+      "namePrep": "đậu phụ",
+      "serving": "1 khẩu phần đậu phụ"
+    },
+    "lentils": {
+      "name": "Đậu lăng",
+      "namePrep": "đậu lăng",
+      "serving": "1 khẩu phần đậu lăng"
+    },
+    "black-beans": {
+      "name": "Đậu đen",
+      "namePrep": "đậu đen",
+      "serving": "1 khẩu phần đậu đen"
+    },
+    "chickpeas": {
+      "name": "Đậu gà",
+      "namePrep": "đậu gà",
+      "serving": "1 khẩu phần đậu gà"
+    },
+    "hummus": {
+      "name": "Hummus",
+      "namePrep": "hummus",
+      "serving": "1 khẩu phần hummus"
+    },
+    "quinoa": {
+      "name": "Hạt quinoa",
+      "namePrep": "hạt quinoa",
+      "serving": "1 khẩu phần hạt quinoa"
+    },
+    "tortilla": {
+      "name": "Bánh tortilla",
+      "namePrep": "bánh tortilla",
+      "serving": "1 khẩu phần bánh tortilla"
+    },
+    "bagel": {
+      "name": "Bagel",
+      "namePrep": "bagel",
+      "serving": "1 khẩu phần bagel"
+    },
+    "croissant": {
+      "name": "Croissant",
+      "namePrep": "croissant",
+      "serving": "1 khẩu phần croissant"
+    },
+    "pancake": {
+      "name": "Bánh pancake",
+      "namePrep": "bánh pancake",
+      "serving": "1 khẩu phần bánh pancake"
+    },
+    "waffle": {
+      "name": "Bánh waffle",
+      "namePrep": "bánh waffle",
+      "serving": "1 khẩu phần bánh waffle"
+    },
+    "cereal": {
+      "name": "Ngũ cốc ăn sáng",
+      "namePrep": "ngũ cốc ăn sáng",
+      "serving": "1 khẩu phần ngũ cốc ăn sáng"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granola",
+      "serving": "1 khẩu phần granola"
+    },
+    "almonds": {
+      "name": "Hạnh nhân",
+      "namePrep": "hạnh nhân",
+      "serving": "1 khẩu phần hạnh nhân"
+    },
+    "walnuts": {
+      "name": "Óc chó",
+      "namePrep": "óc chó",
+      "serving": "1 khẩu phần óc chó"
+    },
+    "cashews": {
+      "name": "Hạt điều",
+      "namePrep": "hạt điều",
+      "serving": "1 khẩu phần hạt điều"
+    },
+    "chocolate": {
+      "name": "Sô cô la",
+      "namePrep": "sô cô la",
+      "serving": "1 khẩu phần sô cô la"
+    },
+    "ice-cream": {
+      "name": "Kem",
+      "namePrep": "kem",
+      "serving": "1 khẩu phần kem"
+    },
+    "cookie": {
+      "name": "Bánh quy chocolate chip",
+      "namePrep": "bánh quy chocolate chip",
+      "serving": "1 khẩu phần bánh quy chocolate chip"
+    },
+    "donut": {
+      "name": "Bánh donut phủ đường",
+      "namePrep": "bánh donut phủ đường",
+      "serving": "1 khẩu phần bánh donut phủ đường"
+    },
+    "muffin": {
+      "name": "Muffin việt quất",
+      "namePrep": "muffin việt quất",
+      "serving": "1 khẩu phần muffin việt quất"
+    },
+    "cake": {
+      "name": "Bánh ngọt",
+      "namePrep": "bánh ngọt",
+      "serving": "1 khẩu phần bánh ngọt"
+    },
+    "brownie": {
+      "name": "Brownie",
+      "namePrep": "brownie",
+      "serving": "1 khẩu phần brownie"
+    },
+    "popcorn": {
+      "name": "Bắp rang",
+      "namePrep": "bắp rang",
+      "serving": "1 khẩu phần bắp rang"
+    },
+    "potato-chips": {
+      "name": "Snack khoai tây",
+      "namePrep": "snack khoai tây",
+      "serving": "1 khẩu phần snack khoai tây"
+    },
+    "pretzels": {
+      "name": "Pretzel",
+      "namePrep": "pretzel",
+      "serving": "1 khẩu phần pretzel"
+    },
+    "smoothie": {
+      "name": "Sinh tố trái cây",
+      "namePrep": "sinh tố trái cây",
+      "serving": "1 khẩu phần sinh tố trái cây"
+    },
+    "orange-juice": {
+      "name": "Nước cam",
+      "namePrep": "nước cam",
+      "serving": "1 khẩu phần nước cam"
+    },
+    "soda": {
+      "name": "Nước ngọt có ga",
+      "namePrep": "nước ngọt có ga",
+      "serving": "1 khẩu phần nước ngọt có ga"
+    },
+    "latte": {
+      "name": "Latte",
+      "namePrep": "latte",
+      "serving": "1 khẩu phần latte"
+    },
+    "protein-shake": {
+      "name": "Sinh tố protein",
+      "namePrep": "sinh tố protein",
+      "serving": "1 khẩu phần sinh tố protein"
+    },
+    "spaghetti-bolognese": {
+      "name": "Mì spaghetti bolognese",
+      "namePrep": "mì spaghetti bolognese",
+      "serving": "1 khẩu phần mì spaghetti bolognese"
+    },
+    "ramen": {
+      "name": "Ramen",
+      "namePrep": "ramen",
+      "serving": "1 khẩu phần ramen"
+    },
+    "pho": {
+      "name": "Phở",
+      "namePrep": "phở",
+      "serving": "1 khẩu phần phở"
+    },
+    "chicken-soup": {
+      "name": "Súp gà",
+      "namePrep": "súp gà",
+      "serving": "1 khẩu phần súp gà"
+    },
+    "caesar-salad": {
+      "name": "Salad Caesar",
+      "namePrep": "salad Caesar",
+      "serving": "1 khẩu phần salad Caesar"
+    },
+    "green-salad": {
+      "name": "Salad rau xanh",
+      "namePrep": "salad rau xanh",
+      "serving": "1 khẩu phần salad rau xanh"
+    },
+    "broccoli": {
+      "name": "Bông cải xanh",
+      "namePrep": "bông cải xanh",
+      "serving": "1 khẩu phần bông cải xanh"
+    },
+    "spinach": {
+      "name": "Rau bina",
+      "namePrep": "rau bina",
+      "serving": "1 khẩu phần rau bina"
+    },
+    "carrots": {
+      "name": "Cà rốt",
+      "namePrep": "cà rốt",
+      "serving": "1 khẩu phần cà rốt"
+    },
+    "corn": {
+      "name": "Bắp",
+      "namePrep": "bắp",
+      "serving": "1 khẩu phần bắp"
+    },
+    "tomato": {
+      "name": "Cà chua",
+      "namePrep": "cà chua",
+      "serving": "1 khẩu phần cà chua"
+    },
+    "cucumber": {
+      "name": "Dưa leo",
+      "namePrep": "dưa leo",
+      "serving": "1 khẩu phần dưa leo"
+    },
+    "cheesecake": {
+      "name": "Cheesecake",
+      "namePrep": "cheesecake",
+      "serving": "1 khẩu phần cheesecake"
+    },
+    "lasagna": {
+      "name": "Lasagna",
+      "namePrep": "lasagna",
+      "serving": "1 khẩu phần lasagna"
+    },
+    "grilled-cheese": {
+      "name": "Sandwich phô mai nướng",
+      "namePrep": "sandwich phô mai nướng",
+      "serving": "1 khẩu phần sandwich phô mai nướng"
+    },
+    "peanut-butter-jelly": {
+      "name": "Sandwich bơ đậu phộng và mứt",
+      "namePrep": "sandwich bơ đậu phộng và mứt",
+      "serving": "1 khẩu phần sandwich bơ đậu phộng và mứt"
+    },
+    "omelette": {
+      "name": "Trứng omelette",
+      "namePrep": "trứng omelette",
+      "serving": "1 khẩu phần trứng omelette"
+    },
+    "fried-egg": {
+      "name": "Trứng ốp la",
+      "namePrep": "trứng ốp la",
+      "serving": "1 khẩu phần trứng ốp la"
+    },
+    "boiled-egg": {
+      "name": "Trứng luộc",
+      "namePrep": "trứng luộc",
+      "serving": "1 khẩu phần trứng luộc"
+    },
+    "toast": {
+      "name": "Bánh mì nướng",
+      "namePrep": "bánh mì nướng",
+      "serving": "1 khẩu phần bánh mì nướng"
+    },
+    "avocado-toast": {
+      "name": "Bánh mì nướng bơ",
+      "namePrep": "bánh mì nướng bơ",
+      "serving": "1 khẩu phần bánh mì nướng bơ"
+    },
+    "chicken-salad": {
+      "name": "Salad gà",
+      "namePrep": "salad gà",
+      "serving": "1 khẩu phần salad gà"
+    },
+    "tuna-salad": {
+      "name": "Salad cá ngừ",
+      "namePrep": "salad cá ngừ",
+      "serving": "1 khẩu phần salad cá ngừ"
+    },
+    "egg-salad": {
+      "name": "Salad trứng",
+      "namePrep": "salad trứng",
+      "serving": "1 khẩu phần salad trứng"
+    },
+    "cottage-cheese": {
+      "name": "Phô mai cottage",
+      "namePrep": "phô mai cottage",
+      "serving": "1 khẩu phần phô mai cottage"
+    },
+    "cream-cheese": {
+      "name": "Cream cheese",
+      "namePrep": "cream cheese",
+      "serving": "1 khẩu phần cream cheese"
+    },
+    "butter": {
+      "name": "Bơ sữa",
+      "namePrep": "bơ sữa",
+      "serving": "1 khẩu phần bơ sữa"
+    },
+    "olive-oil": {
+      "name": "Dầu ô liu",
+      "namePrep": "dầu ô liu",
+      "serving": "1 khẩu phần dầu ô liu"
+    },
+    "mayonnaise": {
+      "name": "Sốt mayonnaise",
+      "namePrep": "sốt mayonnaise",
+      "serving": "1 khẩu phần sốt mayonnaise"
+    },
+    "ketchup": {
+      "name": "Sốt cà chua",
+      "namePrep": "sốt cà chua",
+      "serving": "1 khẩu phần sốt cà chua"
+    },
+    "honey": {
+      "name": "Mật ong",
+      "namePrep": "mật ong",
+      "serving": "1 khẩu phần mật ong"
+    },
+    "jam": {
+      "name": "Mứt",
+      "namePrep": "mứt",
+      "serving": "1 khẩu phần mứt"
+    },
+    "protein-bar": {
+      "name": "Thanh protein",
+      "namePrep": "thanh protein",
+      "serving": "1 khẩu phần thanh protein"
+    },
+    "energy-drink": {
+      "name": "Nước tăng lực",
+      "namePrep": "nước tăng lực",
+      "serving": "1 khẩu phần nước tăng lực"
+    },
+    "matcha-latte": {
+      "name": "Matcha latte",
+      "namePrep": "matcha latte",
+      "serving": "1 khẩu phần matcha latte"
+    },
+    "trail-mix": {
+      "name": "Hỗn hợp hạt và trái cây khô",
+      "namePrep": "hỗn hợp hạt và trái cây khô",
+      "serving": "1 khẩu phần hỗn hợp hạt và trái cây khô"
+    },
+    "blueberries": {
+      "name": "Việt quất",
+      "namePrep": "việt quất",
+      "serving": "1 khẩu phần việt quất"
+    },
+    "strawberries": {
+      "name": "Dâu tây",
+      "namePrep": "dâu tây",
+      "serving": "1 khẩu phần dâu tây"
+    },
+    "grapes": {
+      "name": "Nho",
+      "namePrep": "nho",
+      "serving": "1 khẩu phần nho"
+    },
+    "orange": {
+      "name": "Cam",
+      "namePrep": "cam",
+      "serving": "1 khẩu phần cam"
+    },
+    "pear": {
+      "name": "Lê",
+      "namePrep": "lê",
+      "serving": "1 khẩu phần lê"
+    },
+    "peach": {
+      "name": "Đào",
+      "namePrep": "đào",
+      "serving": "1 khẩu phần đào"
+    },
+    "watermelon": {
+      "name": "Dưa hấu",
+      "namePrep": "dưa hấu",
+      "serving": "1 khẩu phần dưa hấu"
+    },
+    "pineapple": {
+      "name": "Dứa",
+      "namePrep": "dứa",
+      "serving": "1 khẩu phần dứa"
+    },
+    "mango": {
+      "name": "Xoài",
+      "namePrep": "xoài",
+      "serving": "1 khẩu phần xoài"
+    },
+    "kiwi": {
+      "name": "Kiwi",
+      "namePrep": "kiwi",
+      "serving": "1 khẩu phần kiwi"
+    },
+    "raspberries": {
+      "name": "Mâm xôi đỏ",
+      "namePrep": "mâm xôi đỏ",
+      "serving": "1 khẩu phần mâm xôi đỏ"
+    },
+    "blackberries": {
+      "name": "Mâm xôi đen",
+      "namePrep": "mâm xôi đen",
+      "serving": "1 khẩu phần mâm xôi đen"
+    },
+    "cherries": {
+      "name": "Anh đào",
+      "namePrep": "anh đào",
+      "serving": "1 khẩu phần anh đào"
+    },
+    "grapefruit": {
+      "name": "Bưởi chùm",
+      "namePrep": "bưởi chùm",
+      "serving": "1 khẩu phần bưởi chùm"
+    },
+    "lettuce": {
+      "name": "Xà lách",
+      "namePrep": "xà lách",
+      "serving": "1 khẩu phần xà lách"
+    },
+    "cabbage": {
+      "name": "Bắp cải",
+      "namePrep": "bắp cải",
+      "serving": "1 khẩu phần bắp cải"
+    },
+    "cauliflower": {
+      "name": "Bông cải trắng",
+      "namePrep": "bông cải trắng",
+      "serving": "1 khẩu phần bông cải trắng"
+    },
+    "asparagus": {
+      "name": "Măng tây",
+      "namePrep": "măng tây",
+      "serving": "1 khẩu phần măng tây"
+    },
+    "zucchini": {
+      "name": "Bí ngòi",
+      "namePrep": "bí ngòi",
+      "serving": "1 khẩu phần bí ngòi"
+    },
+    "eggplant": {
+      "name": "Cà tím",
+      "namePrep": "cà tím",
+      "serving": "1 khẩu phần cà tím"
+    },
+    "bell-pepper": {
+      "name": "Ớt chuông",
+      "namePrep": "ớt chuông",
+      "serving": "1 khẩu phần ớt chuông"
+    },
+    "onion": {
+      "name": "Hành tây",
+      "namePrep": "hành tây",
+      "serving": "1 khẩu phần hành tây"
+    },
+    "mushrooms": {
+      "name": "Nấm",
+      "namePrep": "nấm",
+      "serving": "1 khẩu phần nấm"
+    },
+    "green-beans": {
+      "name": "Đậu que",
+      "namePrep": "đậu que",
+      "serving": "1 khẩu phần đậu que"
+    },
+    "kale": {
+      "name": "Cải kale",
+      "namePrep": "cải kale",
+      "serving": "1 khẩu phần cải kale"
+    },
+    "beets": {
+      "name": "Củ dền",
+      "namePrep": "củ dền",
+      "serving": "1 khẩu phần củ dền"
+    },
+    "turkey-breast": {
+      "name": "Ức gà tây",
+      "namePrep": "ức gà tây",
+      "serving": "1 khẩu phần ức gà tây"
+    },
+    "chicken-thigh": {
+      "name": "Đùi gà",
+      "namePrep": "đùi gà",
+      "serving": "1 khẩu phần đùi gà"
+    },
+    "pork-chop": {
+      "name": "Sườn cốt lết heo",
+      "namePrep": "sườn cốt lết heo",
+      "serving": "1 khẩu phần sườn cốt lết heo"
+    },
+    "ground-beef": {
+      "name": "Thịt bò xay",
+      "namePrep": "thịt bò xay",
+      "serving": "1 khẩu phần thịt bò xay"
+    },
+    "meatballs": {
+      "name": "Thịt viên",
+      "namePrep": "thịt viên",
+      "serving": "1 khẩu phần thịt viên"
+    },
+    "sausage": {
+      "name": "Xúc xích",
+      "namePrep": "xúc xích",
+      "serving": "1 khẩu phần xúc xích"
+    },
+    "cod": {
+      "name": "Cá tuyết",
+      "namePrep": "cá tuyết",
+      "serving": "1 khẩu phần cá tuyết"
+    },
+    "tilapia": {
+      "name": "Cá rô phi",
+      "namePrep": "cá rô phi",
+      "serving": "1 khẩu phần cá rô phi"
+    },
+    "sardines": {
+      "name": "Cá mòi",
+      "namePrep": "cá mòi",
+      "serving": "1 khẩu phần cá mòi"
+    },
+    "crab": {
+      "name": "Cua",
+      "namePrep": "cua",
+      "serving": "1 khẩu phần cua"
+    },
+    "scallops": {
+      "name": "Sò điệp",
+      "namePrep": "sò điệp",
+      "serving": "1 khẩu phần sò điệp"
+    },
+    "smoked-salmon": {
+      "name": "Cá hồi xông khói",
+      "namePrep": "cá hồi xông khói",
+      "serving": "1 khẩu phần cá hồi xông khói"
+    },
+    "skim-milk": {
+      "name": "Sữa tách béo",
+      "namePrep": "sữa tách béo",
+      "serving": "1 khẩu phần sữa tách béo"
+    },
+    "soy-milk": {
+      "name": "Sữa đậu nành",
+      "namePrep": "sữa đậu nành",
+      "serving": "1 khẩu phần sữa đậu nành"
+    },
+    "almond-milk": {
+      "name": "Sữa hạnh nhân",
+      "namePrep": "sữa hạnh nhân",
+      "serving": "1 khẩu phần sữa hạnh nhân"
+    },
+    "oat-milk": {
+      "name": "Sữa yến mạch",
+      "namePrep": "sữa yến mạch",
+      "serving": "1 khẩu phần sữa yến mạch"
+    },
+    "kefir": {
+      "name": "Kefir",
+      "namePrep": "kefir",
+      "serving": "1 khẩu phần kefir"
+    },
+    "sour-cream": {
+      "name": "Kem chua",
+      "namePrep": "kem chua",
+      "serving": "1 khẩu phần kem chua"
+    },
+    "feta-cheese": {
+      "name": "Phô mai feta",
+      "namePrep": "phô mai feta",
+      "serving": "1 khẩu phần phô mai feta"
+    },
+    "mozzarella": {
+      "name": "Mozzarella",
+      "namePrep": "mozzarella",
+      "serving": "1 khẩu phần mozzarella"
+    },
+    "parmesan": {
+      "name": "Parmesan",
+      "namePrep": "parmesan",
+      "serving": "1 khẩu phần parmesan"
+    },
+    "couscous": {
+      "name": "Couscous",
+      "namePrep": "couscous",
+      "serving": "1 khẩu phần couscous"
+    },
+    "barley": {
+      "name": "Đại mạch",
+      "namePrep": "đại mạch",
+      "serving": "1 khẩu phần đại mạch"
+    },
+    "buckwheat": {
+      "name": "Kiều mạch",
+      "namePrep": "kiều mạch",
+      "serving": "1 khẩu phần kiều mạch"
+    },
+    "bulgur": {
+      "name": "Bulgur",
+      "namePrep": "bulgur",
+      "serving": "1 khẩu phần bulgur"
+    },
+    "naan": {
+      "name": "Bánh naan",
+      "namePrep": "bánh naan",
+      "serving": "1 khẩu phần bánh naan"
+    },
+    "pita-bread": {
+      "name": "Bánh pita",
+      "namePrep": "bánh pita",
+      "serving": "1 khẩu phần bánh pita"
+    },
+    "english-muffin": {
+      "name": "English muffin",
+      "namePrep": "english muffin",
+      "serving": "1 khẩu phần english muffin"
+    },
+    "rice-cake": {
+      "name": "Bánh gạo",
+      "namePrep": "bánh gạo",
+      "serving": "1 khẩu phần bánh gạo"
+    },
+    "crackers": {
+      "name": "Bánh cracker",
+      "namePrep": "bánh cracker",
+      "serving": "1 khẩu phần bánh cracker"
+    },
+    "mashed-potatoes": {
+      "name": "Khoai tây nghiền",
+      "namePrep": "khoai tây nghiền",
+      "serving": "1 khẩu phần khoai tây nghiền"
+    },
+    "scrambled-eggs": {
+      "name": "Trứng bác",
+      "namePrep": "trứng bác",
+      "serving": "1 khẩu phần trứng bác"
+    },
+    "french-toast": {
+      "name": "French toast",
+      "namePrep": "french toast",
+      "serving": "1 khẩu phần french toast"
+    },
+    "breakfast-burrito": {
+      "name": "Burrito ăn sáng",
+      "namePrep": "burrito ăn sáng",
+      "serving": "1 khẩu phần burrito ăn sáng"
+    },
+    "hash-browns": {
+      "name": "Khoai tây bào chiên",
+      "namePrep": "khoai tây bào chiên",
+      "serving": "1 khẩu phần khoai tây bào chiên"
+    },
+    "chia-pudding": {
+      "name": "Pudding hạt chia",
+      "namePrep": "pudding hạt chia",
+      "serving": "1 khẩu phần pudding hạt chia"
+    },
+    "overnight-oats": {
+      "name": "Yến mạch ngâm qua đêm",
+      "namePrep": "yến mạch ngâm qua đêm",
+      "serving": "1 khẩu phần yến mạch ngâm qua đêm"
+    },
+    "breakfast-sandwich": {
+      "name": "Sandwich ăn sáng",
+      "namePrep": "sandwich ăn sáng",
+      "serving": "1 khẩu phần sandwich ăn sáng"
+    },
+    "edamame": {
+      "name": "Đậu nành Nhật",
+      "namePrep": "đậu nành Nhật",
+      "serving": "1 khẩu phần đậu nành Nhật"
+    },
+    "kidney-beans": {
+      "name": "Đậu thận",
+      "namePrep": "đậu thận",
+      "serving": "1 khẩu phần đậu thận"
+    },
+    "pinto-beans": {
+      "name": "Đậu pinto",
+      "namePrep": "đậu pinto",
+      "serving": "1 khẩu phần đậu pinto"
+    },
+    "split-peas": {
+      "name": "Đậu Hà Lan tách đôi",
+      "namePrep": "đậu Hà Lan tách đôi",
+      "serving": "1 khẩu phần đậu Hà Lan tách đôi"
+    },
+    "baked-beans": {
+      "name": "Đậu hầm sốt",
+      "namePrep": "đậu hầm sốt",
+      "serving": "1 khẩu phần đậu hầm sốt"
+    },
+    "fried-rice": {
+      "name": "Cơm chiên",
+      "namePrep": "cơm chiên",
+      "serving": "1 khẩu phần cơm chiên"
+    },
+    "pad-thai": {
+      "name": "Pad Thai",
+      "namePrep": "pad Thai",
+      "serving": "1 khẩu phần pad Thai"
+    },
+    "chicken-curry": {
+      "name": "Cà ri gà",
+      "namePrep": "cà ri gà",
+      "serving": "1 khẩu phần cà ri gà"
+    },
+    "chicken-tikka-masala": {
+      "name": "Gà tikka masala",
+      "namePrep": "gà tikka masala",
+      "serving": "1 khẩu phần gà tikka masala"
+    },
+    "beef-chili": {
+      "name": "Chili bò",
+      "namePrep": "chili bò",
+      "serving": "1 khẩu phần chili bò"
+    },
+    "falafel": {
+      "name": "Falafel",
+      "namePrep": "falafel",
+      "serving": "1 khẩu phần falafel"
+    },
+    "dumplings": {
+      "name": "Há cảo",
+      "namePrep": "há cảo",
+      "serving": "1 khẩu phần há cảo"
+    },
+    "spring-rolls": {
+      "name": "Gỏi cuốn",
+      "namePrep": "gỏi cuốn",
+      "serving": "1 khẩu phần gỏi cuốn"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "quesadilla",
+      "serving": "1 khẩu phần quesadilla"
+    },
+    "nachos": {
+      "name": "Nachos",
+      "namePrep": "nachos",
+      "serving": "1 khẩu phần nachos"
+    },
+    "mac-and-cheese": {
+      "name": "Mac and cheese",
+      "namePrep": "mac and cheese",
+      "serving": "1 khẩu phần mac and cheese"
+    },
+    "chicken-wings": {
+      "name": "Cánh gà",
+      "namePrep": "cánh gà",
+      "serving": "1 khẩu phần cánh gà"
+    },
+    "fish-and-chips": {
+      "name": "Fish and chips",
+      "namePrep": "fish and chips",
+      "serving": "1 khẩu phần fish and chips"
+    },
+    "risotto": {
+      "name": "Risotto",
+      "namePrep": "risotto",
+      "serving": "1 khẩu phần risotto"
+    },
+    "tortilla-chips": {
+      "name": "Snack tortilla",
+      "namePrep": "snack tortilla",
+      "serving": "1 khẩu phần snack tortilla"
+    },
+    "granola-bar": {
+      "name": "Thanh granola",
+      "namePrep": "thanh granola",
+      "serving": "1 khẩu phần thanh granola"
+    },
+    "chocolate-bar": {
+      "name": "Thanh sô cô la",
+      "namePrep": "thanh sô cô la",
+      "serving": "1 khẩu phần thanh sô cô la"
+    },
+    "candy": {
+      "name": "Kẹo",
+      "namePrep": "kẹo",
+      "serving": "1 khẩu phần kẹo"
+    },
+    "cinnamon-roll": {
+      "name": "Bánh cuộn quế",
+      "namePrep": "bánh cuộn quế",
+      "serving": "1 khẩu phần bánh cuộn quế"
+    },
+    "marshmallows": {
+      "name": "Kẹo marshmallow",
+      "namePrep": "kẹo marshmallow",
+      "serving": "1 khẩu phần kẹo marshmallow"
+    },
+    "fruit-snacks": {
+      "name": "Snack trái cây",
+      "namePrep": "snack trái cây",
+      "serving": "1 khẩu phần snack trái cây"
+    },
+    "black-coffee": {
+      "name": "Cà phê đen",
+      "namePrep": "cà phê đen",
+      "serving": "1 khẩu phần cà phê đen"
+    },
+    "cappuccino": {
+      "name": "Cappuccino",
+      "namePrep": "cappuccino",
+      "serving": "1 khẩu phần cappuccino"
+    },
+    "milk-tea": {
+      "name": "Trà sữa",
+      "namePrep": "trà sữa",
+      "serving": "1 khẩu phần trà sữa"
+    },
+    "bubble-tea": {
+      "name": "Trà sữa trân châu",
+      "namePrep": "trà sữa trân châu",
+      "serving": "1 khẩu phần trà sữa trân châu"
+    },
+    "lemonade": {
+      "name": "Nước chanh",
+      "namePrep": "nước chanh",
+      "serving": "1 khẩu phần nước chanh"
+    },
+    "iced-tea": {
+      "name": "Trà đá",
+      "namePrep": "trà đá",
+      "serving": "1 khẩu phần trà đá"
+    },
+    "apple-juice": {
+      "name": "Nước táo",
+      "namePrep": "nước táo",
+      "serving": "1 khẩu phần nước táo"
+    },
+    "coconut-water": {
+      "name": "Nước dừa",
+      "namePrep": "nước dừa",
+      "serving": "1 khẩu phần nước dừa"
+    },
+    "sports-drink": {
+      "name": "Đồ uống thể thao",
+      "namePrep": "đồ uống thể thao",
+      "serving": "1 khẩu phần đồ uống thể thao"
+    },
+    "ranch-dressing": {
+      "name": "Sốt ranch",
+      "namePrep": "sốt ranch",
+      "serving": "1 khẩu phần sốt ranch"
+    },
+    "bbq-sauce": {
+      "name": "Sốt BBQ",
+      "namePrep": "sốt BBQ",
+      "serving": "1 khẩu phần sốt BBQ"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "salsa",
+      "serving": "1 khẩu phần salsa"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "guacamole",
+      "serving": "1 khẩu phần guacamole"
+    }
+  },
+  "utility": {
+    "pricing": "Giá",
+    "support": "Hỗ trợ",
+    "privacy": "Quyền riêng tư",
+    "terms": "Điều khoản",
+    "press": "Bộ tài liệu báo chí",
+    "deleteExtra": "Để yêu cầu xóa tài khoản hoặc dữ liệu, hãy viết từ email liên kết với tài khoản và dùng “Delete account” trong dòng tiêu đề."
+  },
+  "store": {
+    "appStoreSmall": "App Store",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Google Play",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Tính năng",
+    "useCase": "Trường hợp sử dụng",
+    "openPage": "Tìm hiểu thêm →",
+    "openArrow": "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+    "practicalWorkflow": "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+    "workflowTitle": "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+    "goodToKnow": "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+    "defaultNote": "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+    "relatedPages": "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+    "quickTakeaway": "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+    "defaultTakeaway": "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+    "information": "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+    "bestFor": "Phù hợp nhất cho"
+  },
+  "internalCta": {
+    "title": "Biến bữa ăn tiếp theo thành một mục dinh dưỡng",
+    "text": "Tải Calorie Counter AI và trải nghiệm cách theo dõi calo bằng ảnh thật nhanh.",
+    "button": "Tải ứng dụng"
+  },
+  "download": {
+    "availableTitle": "Có trên iPhone và Android",
+    "availableText": "Bắt đầu bằng ảnh, mã vạch hoặc một mục nhật ký đơn giản. Giữ việc theo dõi calo và macro nhanh ngay từ ngày đầu."
+  },
+  "faq": {
+    "items": [
+      [
+        "Calorie Counter AI có miễn phí không?",
+        "Bạn có thể bắt đầu bằng các phân tích món ăn AI miễn phí mỗi ngày. Gói Premium hữu ích nếu bạn cần giới hạn cao hơn và thêm công cụ."
+      ],
+      [
+        "Tôi có thể đếm calo từ ảnh không?",
+        "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+      ],
+      [
+        "Có máy quét mã vạch không?",
+        "Quét mã vạch thực phẩm đóng gói, xác nhận sản phẩm rồi thêm calo và macro vào nhật ký chỉ trong vài giây."
+      ],
+      [
+        "Ứng dụng có theo dõi macro không?",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      [
+        "Có phù hợp với món tự nấu không?",
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống."
+      ],
+      [
+        "Đây có phải là lời khuyên y tế không?",
+        "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Bạn có thể bắt đầu bằng các phân tích món ăn AI miễn phí mỗi ngày. Gói Premium hữu ích nếu bạn cần giới hạn cao hơn và thêm công cụ.",
+      "Bạn có thể bắt đầu bằng các phân tích món ăn AI miễn phí mỗi ngày. Gói Premium hữu ích nếu bạn cần giới hạn cao hơn và thêm công cụ."
+    ],
+    "support": [
+      "Cần trợ giúp? Hãy liên hệ hỗ trợ và gửi kèm thiết bị, nền tảng, phiên bản ứng dụng cùng mô tả ngắn về sự cố.",
+      "Cần trợ giúp? Hãy liên hệ hỗ trợ và gửi kèm thiết bị, nền tảng, phiên bản ứng dụng cùng mô tả ngắn về sự cố."
+    ],
+    "contact": [
+      "Email hỗ trợ: support@caloriecounterai.app",
+      "Với hợp tác, yêu cầu truyền thông và phản hồi, hãy dùng dòng tiêu đề rõ ràng."
+    ],
+    "privacy": [
+      "Calorie Counter AI được xây dựng để ghi lại bữa ăn và theo dõi dinh dưỡng có ý thức. Dữ liệu có thể bao gồm bữa ăn, ảnh, cài đặt và thông tin kỹ thuật cần thiết để vận hành dịch vụ.",
+      "Calorie Counter AI được xây dựng để ghi lại bữa ăn và theo dõi dinh dưỡng có ý thức. Dữ liệu có thể bao gồm bữa ăn, ảnh, cài đặt và thông tin kỹ thuật cần thiết để vận hành dịch vụ."
+    ],
+    "terms": [
+      "Khi sử dụng Calorie Counter AI, bạn đồng ý dùng ứng dụng như một công cụ thông tin về dinh dưỡng và tự kiểm tra các ước tính trước khi dựa vào chúng.",
+      "Khi sử dụng Calorie Counter AI, bạn đồng ý dùng ứng dụng như một công cụ thông tin về dinh dưỡng và tự kiểm tra các ước tính trước khi dựa vào chúng."
+    ],
+    "disclaimer": [
+      "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+    ],
+    "delete": [
+      "Để yêu cầu xóa tài khoản hoặc dữ liệu, hãy viết từ email liên kết với tài khoản và dùng “Delete account” trong dòng tiêu đề.",
+      "Để yêu cầu xóa tài khoản hoặc dữ liệu, hãy viết từ email liên kết với tài khoản và dùng “Delete account” trong dòng tiêu đề."
+    ]
+  },
+  "press": {
+    "iconAlt": "Biểu tượng ứng dụng",
+    "iconTitle": "Biểu tượng ứng dụng",
+    "downloadIcon": "Tải xuống",
+    "screenshotAlt": "Ảnh chụp màn hình ứng dụng",
+    "screenshotTitle": "Ảnh chụp màn hình",
+    "downloadScreenshot": "Tải xuống",
+    "shortDescriptionTitle": "Ứng dụng đếm calo AI bằng ảnh",
+    "shortDescriptionText": "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+  },
+  "notFound": {
+    "title": "Không tìm thấy trang",
+    "text": "Trang bạn đang tìm hiện chưa tồn tại.",
+    "home": "Về trang chủ"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Tính năng",
+      "h1": "Tính năng",
+      "description": "Tính năng: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Tính năng",
+      "summary": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+      "bullets": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ]
+      ],
+      "workflowTitle": "Tính năng",
+      "workflow": [
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      "note": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "bestFor": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "workflowKicker": "Tính năng",
+      "noteTitle": "Tìm hiểu thêm"
+    },
+    "/food-recognition-ai/": {
+      "title": "Bộ đếm calo AI bằng ảnh",
+      "h1": "Bộ đếm calo AI bằng ảnh",
+      "description": "Bộ đếm calo AI bằng ảnh: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Bộ đếm calo AI bằng ảnh",
+      "summary": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+      "bullets": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ]
+      ],
+      "workflowTitle": "Bộ đếm calo AI bằng ảnh",
+      "workflow": [
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      "note": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "bestFor": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "workflowKicker": "Bộ đếm calo AI bằng ảnh",
+      "noteTitle": "Tìm hiểu thêm"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Máy quét mã vạch",
+      "h1": "Máy quét mã vạch",
+      "description": "Máy quét mã vạch: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Máy quét mã vạch",
+      "summary": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+      "bullets": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ]
+      ],
+      "workflowTitle": "Máy quét mã vạch",
+      "workflow": [
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      "note": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "bestFor": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "workflowKicker": "Máy quét mã vạch",
+      "noteTitle": "Tìm hiểu thêm"
+    },
+    "/macro-tracker/": {
+      "title": "Theo dõi macro",
+      "h1": "Theo dõi macro",
+      "description": "Theo dõi macro: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Theo dõi macro",
+      "summary": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+      "bullets": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ]
+      ],
+      "workflowTitle": "Theo dõi macro",
+      "workflow": [
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      "note": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "bestFor": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "workflowKicker": "Theo dõi macro",
+      "noteTitle": "Tìm hiểu thêm"
+    },
+    "/food-diary-app/": {
+      "title": "Ứng dụng nhật ký ăn uống",
+      "h1": "Ứng dụng nhật ký ăn uống",
+      "description": "Ứng dụng nhật ký ăn uống: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Ứng dụng nhật ký ăn uống",
+      "summary": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+      "bullets": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ]
+      ],
+      "workflowTitle": "Ứng dụng nhật ký ăn uống",
+      "workflow": [
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      "note": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "bestFor": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "workflowKicker": "Ứng dụng nhật ký ăn uống",
+      "noteTitle": "Tìm hiểu thêm"
+    },
+    "/nutrition-tracker/": {
+      "title": "Theo dõi dinh dưỡng",
+      "h1": "Theo dõi dinh dưỡng",
+      "description": "Theo dõi dinh dưỡng: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Theo dõi dinh dưỡng",
+      "summary": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+      "bullets": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ]
+      ],
+      "workflowTitle": "Theo dõi dinh dưỡng",
+      "workflow": [
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      "note": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "bestFor": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "workflowKicker": "Theo dõi dinh dưỡng",
+      "noteTitle": "Tìm hiểu thêm"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Ước tính khối lượng bữa ăn",
+      "h1": "Ước tính khối lượng bữa ăn",
+      "description": "Ước tính khối lượng bữa ăn: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Ước tính khối lượng bữa ăn",
+      "summary": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+      "bullets": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ]
+      ],
+      "workflowTitle": "Ước tính khối lượng bữa ăn",
+      "workflow": [
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      "note": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "bestFor": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "workflowKicker": "Ước tính khối lượng bữa ăn",
+      "noteTitle": "Tìm hiểu thêm"
+    },
+    "/progress-statistics/": {
+      "title": "Thống kê dinh dưỡng",
+      "h1": "Thống kê dinh dưỡng",
+      "description": "Thống kê dinh dưỡng: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Thống kê dinh dưỡng",
+      "summary": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+      "bullets": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ]
+      ],
+      "workflowTitle": "Thống kê dinh dưỡng",
+      "workflow": [
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      "note": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "bestFor": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "workflowKicker": "Thống kê dinh dưỡng",
+      "noteTitle": "Tìm hiểu thêm"
+    },
+    "/meal-reminders/": {
+      "title": "Nhắc bữa ăn",
+      "h1": "Nhắc bữa ăn",
+      "description": "Nhắc bữa ăn: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Nhắc bữa ăn",
+      "summary": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+      "bullets": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ]
+      ],
+      "workflowTitle": "Nhắc bữa ăn",
+      "workflow": [
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      "note": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "bestFor": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "workflowKicker": "Nhắc bữa ăn",
+      "noteTitle": "Tìm hiểu thêm"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Google Health Connect",
+      "description": "Google Health Connect: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Google Health Connect",
+      "summary": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+      "bullets": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ]
+      ],
+      "workflowTitle": "Google Health Connect",
+      "workflow": [
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      "note": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "bestFor": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "workflowKicker": "Google Health Connect",
+      "noteTitle": "Tìm hiểu thêm"
+    },
+    "/data-export/": {
+      "title": "Xuất dữ liệu",
+      "h1": "Xuất dữ liệu",
+      "description": "Xuất dữ liệu: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Xuất dữ liệu",
+      "summary": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+      "bullets": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ]
+      ],
+      "workflowTitle": "Xuất dữ liệu",
+      "workflow": [
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      "note": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "bestFor": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "workflowKicker": "Xuất dữ liệu",
+      "noteTitle": "Tìm hiểu thêm"
+    },
+    "/use-cases/": {
+      "title": "Trường hợp sử dụng",
+      "h1": "Trường hợp sử dụng",
+      "description": "Trường hợp sử dụng: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Trường hợp sử dụng"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Bộ đếm calo để giảm cân",
+      "h1": "Bộ đếm calo để giảm cân",
+      "description": "Bộ đếm calo để giảm cân: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Bộ đếm calo để giảm cân",
+      "summary": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+      "bullets": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ]
+      ],
+      "workflowTitle": "Bộ đếm calo để giảm cân",
+      "workflow": [
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      "note": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "bestFor": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "workflowKicker": "Bộ đếm calo để giảm cân",
+      "noteTitle": "Tìm hiểu thêm"
+    },
+    "/calorie-deficit-app/": {
+      "title": "Ứng dụng thâm hụt calo",
+      "h1": "Ứng dụng thâm hụt calo",
+      "description": "Ứng dụng thâm hụt calo: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Ứng dụng thâm hụt calo",
+      "summary": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+      "bullets": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ]
+      ],
+      "workflowTitle": "Ứng dụng thâm hụt calo",
+      "workflow": [
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      "note": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "bestFor": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "workflowKicker": "Ứng dụng thâm hụt calo",
+      "noteTitle": "Tìm hiểu thêm"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Theo dõi calo để tăng cơ",
+      "h1": "Theo dõi calo để tăng cơ",
+      "description": "Theo dõi calo để tăng cơ: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Theo dõi calo để tăng cơ",
+      "summary": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+      "bullets": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ]
+      ],
+      "workflowTitle": "Theo dõi calo để tăng cơ",
+      "workflow": [
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      "note": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "bestFor": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "workflowKicker": "Theo dõi calo để tăng cơ",
+      "noteTitle": "Tìm hiểu thêm"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Theo dõi duy trì cân nặng",
+      "h1": "Theo dõi duy trì cân nặng",
+      "description": "Theo dõi duy trì cân nặng: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Theo dõi duy trì cân nặng",
+      "summary": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+      "bullets": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ]
+      ],
+      "workflowTitle": "Theo dõi duy trì cân nặng",
+      "workflow": [
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      "note": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "bestFor": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "workflowKicker": "Theo dõi duy trì cân nặng",
+      "noteTitle": "Tìm hiểu thêm"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Đếm calo cho món tự nấu",
+      "h1": "Đếm calo cho món tự nấu",
+      "description": "Đếm calo cho món tự nấu: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Đếm calo cho món tự nấu",
+      "summary": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+      "bullets": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ]
+      ],
+      "workflowTitle": "Đếm calo cho món tự nấu",
+      "workflow": [
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      "note": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "bestFor": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "workflowKicker": "Đếm calo cho món tự nấu",
+      "noteTitle": "Tìm hiểu thêm"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Theo dõi calo món ở nhà hàng",
+      "h1": "Theo dõi calo món ở nhà hàng",
+      "description": "Theo dõi calo món ở nhà hàng: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Theo dõi calo món ở nhà hàng",
+      "summary": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+      "bullets": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ]
+      ],
+      "workflowTitle": "Theo dõi calo món ở nhà hàng",
+      "workflow": [
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      "note": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "bestFor": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "workflowKicker": "Theo dõi calo món ở nhà hàng",
+      "noteTitle": "Tìm hiểu thêm"
+    },
+    "/meal-tracker/": {
+      "title": "Theo dõi bữa ăn",
+      "h1": "Theo dõi bữa ăn",
+      "description": "Theo dõi bữa ăn: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Theo dõi bữa ăn",
+      "summary": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+      "bullets": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ]
+      ],
+      "workflowTitle": "Theo dõi bữa ăn",
+      "workflow": [
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      "note": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "bestFor": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "workflowKicker": "Theo dõi bữa ăn",
+      "noteTitle": "Tìm hiểu thêm"
+    },
+    "/photo-food-journal/": {
+      "title": "Nhật ký ăn uống bằng ảnh",
+      "h1": "Nhật ký ăn uống bằng ảnh",
+      "description": "Nhật ký ăn uống bằng ảnh: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Nhật ký ăn uống bằng ảnh",
+      "summary": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+      "bullets": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ]
+      ],
+      "workflowTitle": "Nhật ký ăn uống bằng ảnh",
+      "workflow": [
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      "note": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "bestFor": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "workflowKicker": "Nhật ký ăn uống bằng ảnh",
+      "noteTitle": "Tìm hiểu thêm"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Theo dõi ăn uống lành mạnh",
+      "h1": "Theo dõi ăn uống lành mạnh",
+      "description": "Theo dõi ăn uống lành mạnh: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Theo dõi ăn uống lành mạnh",
+      "summary": "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+      "bullets": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ]
+      ],
+      "workflowTitle": "Theo dõi ăn uống lành mạnh",
+      "workflow": [
+        "Không cần tìm từng nguyên liệu thủ công. Chụp ảnh món ăn, kiểm tra ước tính của AI rồi lưu vào nhật ký ăn uống.",
+        "Theo dõi calo, protein, chất béo và carb cạnh mục tiêu hằng ngày của bạn."
+      ],
+      "note": "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng.",
+      "bestFor": [
+        "Bộ đếm calo bằng ảnh",
+        "Máy quét mã vạch",
+        "Macro",
+        "Nhật ký ăn uống"
+      ],
+      "workflowKicker": "Theo dõi ăn uống lành mạnh",
+      "noteTitle": "Tìm hiểu thêm"
+    },
+    "/blog/": {
+      "title": "Hướng dẫn đếm calo và ghi món ăn bằng AI",
+      "h1": "Hướng dẫn đếm calo và ghi món ăn bằng AI",
+      "description": "Hướng dẫn đếm calo và ghi món ăn bằng AI: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Hướng dẫn đếm calo và ghi món ăn bằng AI"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Cách đếm calo từ ảnh",
+      "h1": "Cách đếm calo từ ảnh",
+      "description": "Cách đếm calo từ ảnh: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "category": "Cách đếm calo từ ảnh",
+      "readTime": "Cách đếm calo từ ảnh",
+      "intro": "Cách đếm calo từ ảnh",
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ],
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ]
+      ],
+      "takeaway": "Cách đếm calo từ ảnh"
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Bộ đếm calo AI chính xác đến đâu?",
+      "h1": "Bộ đếm calo AI chính xác đến đâu?",
+      "description": "Bộ đếm calo AI chính xác đến đâu?: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "category": "Bộ đếm calo AI chính xác đến đâu?",
+      "readTime": "Bộ đếm calo AI chính xác đến đâu?",
+      "intro": "Bộ đếm calo AI chính xác đến đâu?",
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ],
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ]
+      ],
+      "takeaway": "Bộ đếm calo AI chính xác đến đâu?"
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "Ghi món ăn bằng AI so với nhập thủ công",
+      "h1": "Ghi món ăn bằng AI so với nhập thủ công",
+      "description": "Ghi món ăn bằng AI so với nhập thủ công: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "category": "Ghi món ăn bằng AI so với nhập thủ công",
+      "readTime": "Ghi món ăn bằng AI so với nhập thủ công",
+      "intro": "Ghi món ăn bằng AI so với nhập thủ công",
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ],
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ]
+      ],
+      "takeaway": "Ghi món ăn bằng AI so với nhập thủ công"
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Food scanner là gì?",
+      "h1": "Food scanner là gì?",
+      "description": "Food scanner là gì?: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "category": "Food scanner là gì?",
+      "readTime": "Food scanner là gì?",
+      "intro": "Food scanner là gì?",
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ],
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ]
+      ],
+      "takeaway": "Food scanner là gì?"
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Cách bắt đầu theo dõi macro",
+      "h1": "Cách bắt đầu theo dõi macro",
+      "description": "Cách bắt đầu theo dõi macro: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "category": "Cách bắt đầu theo dõi macro",
+      "readTime": "Cách bắt đầu theo dõi macro",
+      "intro": "Cách bắt đầu theo dõi macro",
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ],
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ]
+      ],
+      "takeaway": "Cách bắt đầu theo dõi macro"
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Calo và macro khác nhau thế nào",
+      "h1": "Calo và macro khác nhau thế nào",
+      "description": "Calo và macro khác nhau thế nào: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "category": "Calo và macro khác nhau thế nào",
+      "readTime": "Calo và macro khác nhau thế nào",
+      "intro": "Calo và macro khác nhau thế nào",
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ],
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ]
+      ],
+      "takeaway": "Calo và macro khác nhau thế nào"
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Cách đếm calo trong món tự nấu",
+      "h1": "Cách đếm calo trong món tự nấu",
+      "description": "Cách đếm calo trong món tự nấu: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "category": "Cách đếm calo trong món tự nấu",
+      "readTime": "Cách đếm calo trong món tự nấu",
+      "intro": "Cách đếm calo trong món tự nấu",
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ],
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ]
+      ],
+      "takeaway": "Cách đếm calo trong món tự nấu"
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Cách ước tính khẩu phần",
+      "h1": "Cách ước tính khẩu phần",
+      "description": "Cách ước tính khẩu phần: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "category": "Cách ước tính khẩu phần",
+      "readTime": "Cách ước tính khẩu phần",
+      "intro": "Cách ước tính khẩu phần",
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ],
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ]
+      ],
+      "takeaway": "Cách ước tính khẩu phần"
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Mỗi ngày nên ăn bao nhiêu calo?",
+      "h1": "Mỗi ngày nên ăn bao nhiêu calo?",
+      "description": "Mỗi ngày nên ăn bao nhiêu calo?: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "category": "Mỗi ngày nên ăn bao nhiêu calo?",
+      "readTime": "Mỗi ngày nên ăn bao nhiêu calo?",
+      "intro": "Mỗi ngày nên ăn bao nhiêu calo?",
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ],
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ]
+      ],
+      "takeaway": "Mỗi ngày nên ăn bao nhiêu calo?"
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Thâm hụt calo là gì?",
+      "h1": "Thâm hụt calo là gì?",
+      "description": "Thâm hụt calo là gì?: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "category": "Thâm hụt calo là gì?",
+      "readTime": "Thâm hụt calo là gì?",
+      "intro": "Thâm hụt calo là gì?",
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ],
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ]
+      ],
+      "takeaway": "Thâm hụt calo là gì?"
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Những lỗi thường gặp khi đếm calo",
+      "h1": "Những lỗi thường gặp khi đếm calo",
+      "description": "Những lỗi thường gặp khi đếm calo: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "category": "Những lỗi thường gặp khi đếm calo",
+      "readTime": "Những lỗi thường gặp khi đếm calo",
+      "intro": "Những lỗi thường gặp khi đếm calo",
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ],
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ]
+      ],
+      "takeaway": "Những lỗi thường gặp khi đếm calo"
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Cách ghi món ăn ở nhà hàng",
+      "h1": "Cách ghi món ăn ở nhà hàng",
+      "description": "Cách ghi món ăn ở nhà hàng: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "category": "Cách ghi món ăn ở nhà hàng",
+      "readTime": "Cách ghi món ăn ở nhà hàng",
+      "intro": "Cách ghi món ăn ở nhà hàng",
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ],
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ]
+      ],
+      "takeaway": "Cách ghi món ăn ở nhà hàng"
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Cách theo dõi protein",
+      "h1": "Cách theo dõi protein",
+      "description": "Cách theo dõi protein: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "category": "Cách theo dõi protein",
+      "readTime": "Cách theo dõi protein",
+      "intro": "Cách theo dõi protein",
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ],
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ]
+      ],
+      "takeaway": "Cách theo dõi protein"
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Nhật ký ăn uống là gì?",
+      "h1": "Nhật ký ăn uống là gì?",
+      "description": "Nhật ký ăn uống là gì?: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "category": "Nhật ký ăn uống là gì?",
+      "readTime": "Nhật ký ăn uống là gì?",
+      "intro": "Nhật ký ăn uống là gì?",
+      "sections": [
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ],
+        [
+          "Tìm hiểu thêm",
+          "Calorie Counter AI cung cấp ước tính dinh dưỡng mang tính tham khảo và không thay thế lời khuyên y tế hoặc tư vấn dinh dưỡng."
+        ],
+        [
+          "Tải xuống",
+          "Tải Calorie Counter AI cho iPhone hoặc Android và biến ảnh món ăn tiếp theo thành một mục trong nhật ký."
+        ],
+        [
+          "Tính năng",
+          "Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây."
+        ]
+      ],
+      "takeaway": "Nhật ký ăn uống là gì?"
+    },
+    "/download/": {
+      "title": "Tải Calorie Counter AI",
+      "h1": "Tải Calorie Counter AI",
+      "description": "Tải Calorie Counter AI: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Tải Calorie Counter AI"
+    },
+    "/faq/": {
+      "title": "FAQ",
+      "h1": "FAQ",
+      "description": "FAQ: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "FAQ"
+    },
+    "/pricing/": {
+      "title": "Giá",
+      "h1": "Giá",
+      "description": "Giá: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Giá"
+    },
+    "/support/": {
+      "title": "Hỗ trợ",
+      "h1": "Hỗ trợ",
+      "description": "Hỗ trợ: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Hỗ trợ"
+    },
+    "/contact/": {
+      "title": "Liên hệ",
+      "h1": "Liên hệ",
+      "description": "Liên hệ: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Liên hệ"
+    },
+    "/privacy-policy/": {
+      "title": "Quyền riêng tư",
+      "h1": "Quyền riêng tư",
+      "description": "Quyền riêng tư: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Quyền riêng tư"
+    },
+    "/terms/": {
+      "title": "Điều khoản",
+      "h1": "Điều khoản",
+      "description": "Điều khoản: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Điều khoản"
+    },
+    "/health-disclaimer/": {
+      "title": "Tuyên bố miễn trừ về sức khỏe",
+      "h1": "Tuyên bố miễn trừ về sức khỏe",
+      "description": "Tuyên bố miễn trừ về sức khỏe: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Tuyên bố miễn trừ về sức khỏe"
+    },
+    "/delete-account/": {
+      "title": "Tải xuống / Quyền riêng tư",
+      "h1": "Tải xuống / Quyền riêng tư",
+      "description": "Tải xuống / Quyền riêng tư: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Tải xuống / Quyền riêng tư"
+    },
+    "/press/": {
+      "title": "Bộ tài liệu báo chí",
+      "h1": "Bộ tài liệu báo chí",
+      "description": "Bộ tài liệu báo chí: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Bộ tài liệu báo chí"
+    },
+    "/how-many-calories-in/": {
+      "title": "Calo trong thực phẩm",
+      "h1": "Calo trong thực phẩm",
+      "description": "Calo trong thực phẩm: Chụp ảnh bữa ăn để nhận ước tính calo, protein, chất béo, carb và khẩu phần chỉ trong vài giây.",
+      "kicker": "Calo trong thực phẩm"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Tùy chọn cookie",
+    "text": "Chúng tôi dùng cookie cần thiết và bộ nhớ cục bộ để ghi nhớ ngôn ngữ cũng như lựa chọn cookie của bạn. Nếu bạn đồng ý, chúng tôi cũng dùng cookie phân tích để cải thiện website.",
+    "accept": "Chấp nhận",
+    "decline": "Từ chối phân tích"
+  }
+}

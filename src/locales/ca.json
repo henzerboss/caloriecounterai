@@ -1,0 +1,2619 @@
+{
+  "localeName": "Català",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "Comptador de calories amb IA a partir de fotos"
+  },
+  "nav": {
+    "features": "Funcions",
+    "useCases": "Casos d’ús",
+    "blog": "Guies",
+    "faq": "Preguntes freqüents",
+    "download": "Baixa l’app",
+    "language": "Tria l’idioma",
+    "openMenu": "Obre el menú",
+    "caloriesInFoods": "Calories dels aliments",
+    "all": "Tot",
+    "allFeatures": "Totes les funcions",
+    "allUseCases": "Tots els casos d’ús",
+    "allLearn": "Totes les guies",
+    "openHub": "Veure-ho tot →",
+    "home": "Inici"
+  },
+  "cta": {
+    "appStore": "Baixa-la a l’App Store",
+    "googlePlay": "Baixa-la a Google Play",
+    "downloadNow": "Baixa-la ara",
+    "tryFree": "Prova-ho gratis",
+    "learnMore": "Més informació",
+    "learnMoreArrow": "Més informació →",
+    "readGuide": "Llegeix la guia"
+  },
+  "home": {
+    "title": "Comptador de calories amb IA a partir de fotos",
+    "description": "Fes una foto del teu àpat i obtén en pocs segons una estimació editable de calories, proteïnes, greixos, hidrats de carboni i mida de la ració.",
+    "heroNote": "Comença gratis amb anàlisis diàries de menjar amb IA. Disponible per a iPhone i Android.",
+    "photoEyebrow": "La funció clau",
+    "photoTitle": "Comptador de calories per foto",
+    "photoText": "No cal buscar cada ingredient a mà. Fes una foto del menjar, revisa l’estimació de la IA i desa l’àpat al diari alimentari.",
+    "photoChecklist": [
+      "Estimació de calories a partir d’una foto del menjar",
+      "Proteïnes, greixos i hidrats de carboni en una sola vista",
+      "Revisió i edició abans de desar",
+      "Diari alimentari visual"
+    ],
+    "featureCards": [
+      [
+        "camera",
+        "Registre amb foto",
+        "Fotografia l’àpat, revisa l’estimació i desa’l sense cerques llargues."
+      ],
+      [
+        "sparkles",
+        "Estimació d’àpats amb IA",
+        "Quan no hi ha etiqueta ni recepta exacta, obtén un punt de partida per a calories, macronutrients i ració."
+      ],
+      [
+        "shield",
+        "Anàlisis diàries gratuïtes",
+        "Prova el flux bàsic amb IA cada dia i actualitza només si necessites límits més alts."
+      ],
+      [
+        "barcode",
+        "Productes envasats",
+        "Escaneja codis de barres de iogurts, begudes, snacks, plats preparats i altres aliments envasats."
+      ],
+      [
+        "macro",
+        "Macronutrients d’un cop d’ull",
+        "Segueix proteïnes, greixos i hidrats de carboni juntament amb l’objectiu diari de calories."
+      ],
+      [
+        "diary",
+        "Diari visual",
+        "Torna a qualsevol dia, mira els àpats com a fotos i detecta hàbits que es repeteixen."
+      ]
+    ],
+    "foodPreviewTitle": "Quantes calories tenen els aliments habituals?",
+    "foodPreviewText": "Una referència ràpida de calories i macronutrients per a plats, snacks i begudes del dia a dia.",
+    "foodPreviewLink": "Obre la guia completa de calories →",
+    "goalEyebrow": "Objectiu sota control",
+    "counterTitle": "Un comptador de calories simple per al dia a dia",
+    "counterText": "Fotos, codis de barres, àpats preferits i un diari clar perquè seguir l’alimentació no sembli una segona feina.",
+    "goalPills": [
+      "Pèrdua de pes",
+      "Manteniment",
+      "Guany de massa muscular",
+      "Dies amb poc temps"
+    ],
+    "magicEyebrow": "Per què és més fàcil?",
+    "magicTitle": "Registra l’àpat en tres passos",
+    "magicText": "Fes la foto, revisa l’estimació i desa-la. Com menys entrada manual necessitis, més fàcil és mantenir el diari cada dia.",
+    "magicSteps": [
+      "Foto",
+      "Revisa",
+      "Desa"
+    ],
+    "barcodeEyebrow": "Productes envasats",
+    "barcodeTitle": "Escàner de codis de barres d’aliments",
+    "barcodeText": "Hi ha codi de barres? Escaneja l’envàs, confirma el producte i afegeix calories, proteïnes, greixos i hidrats de carboni al diari en segons.",
+    "barcodeLink": "Més informació sobre l’escàner de codis de barres →",
+    "progressEyebrow": "Progrés clar",
+    "macroTitle": "Segueix calories i macronutrients",
+    "macroText": "Consulta calories, proteïnes, greixos i hidrats de carboni en un sol lloc i compara dies, setmanes i mesos.",
+    "macroLink": "Obre la pàgina de macronutrients →",
+    "useCasesEyebrow": "Per a què serveix Calorie Counter AI?",
+    "useCasesTitle": "Objectius nutricionals per a la vida real",
+    "useCasesText": "Tant si vols perdre pes, mantenir-lo, guanyar massa muscular o entendre millor què menges, l’app converteix els àpats en informació clara i diària.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Pèrdua de pes",
+        "Mira quantes calories et queden per a l’objectiu diari."
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Menjar casolà",
+        "Obtén una estimació de plats sense etiqueta ni recepta exacta."
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Menjar fora",
+        "Registra ràpidament àpats de restaurant amb una estimació per foto."
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Guany de massa muscular",
+        "Mantén visibles la proteïna i les calories en una etapa de volum."
+      ]
+    ],
+    "downloadTitle": "Comença avui a comptar calories amb IA",
+    "downloadText": "Baixa Calorie Counter AI per a iPhone o Android i converteix la pròxima foto del menjar en una entrada del diari.",
+    "faqEyebrow": "Preguntes freqüents",
+    "faqTitle": "Tens dubtes abans de baixar-la?",
+    "faq": [
+      [
+        "Calorie Counter AI és gratuït?",
+        "Pots començar amb anàlisis diàries gratuïtes de menjar amb IA. Per a límits més alts i funcions avançades, pot haver-hi opcions premium."
+      ],
+      [
+        "Puc comptar calories a partir d’una foto?",
+        "Sí. Fas una foto del menjar, revises l’estimació de la IA i ajustes la ració, els ingredients, les salses o la marca abans de desar-ho."
+      ],
+      [
+        "Quina precisió tenen les estimacions de calories amb IA?",
+        "No és una anàlisi de laboratori, sinó una estimació pràctica. La mida de la ració, la recepta, els greixos ocults, les salses, la marca i la qualitat de la foto influeixen en el resultat."
+      ],
+      [
+        "Hi ha escàner de codis de barres?",
+        "Sí. Per a productes envasats pots escanejar el codi de barres, confirmar el producte i afegir calories i macronutrients més ràpidament."
+      ],
+      [
+        "Serveix per perdre pes?",
+        "Sí, pot ajudar a seguir un dèficit calòric i entendre millor els hàbits alimentaris. Per a objectius mèdics, consulta un professional."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "Comptador de calories amb IA per foto | Calorie Counter AI",
+    "homeOgTitle": "Comptador de calories amb IA a partir de fotos",
+    "homeDescription": "Fes una foto del teu àpat i obtén en pocs segons una estimació editable de calories, proteïnes, greixos, hidrats de carboni i mida de la ració."
+  },
+  "footer": {
+    "disclaimer": "Les estimacions nutricionals només tenen finalitat informativa i no substitueixen el consell d’un metge, dietista-nutricionista o altre professional sanitari.",
+    "copyright": "© 2026 Calorie Counter AI. Tots els drets reservats."
+  },
+  "foodIndex": {
+    "findTitle": "Calories, macronutrients i consells pràctics de ració",
+    "findText": "La guia inclou valors aproximats per a aliments populars i consells sobre racions, cocció, salses, oli i ingredients afegits.",
+    "categoryIntro": "Cerques populars de calories i macronutrients en aquesta categoria."
+  },
+  "foodPage": {
+    "eyebrow": "Guia de calories",
+    "trackInApp": "Registra-ho a l’app",
+    "browseFoods": "Veure aliments →",
+    "typicalEstimate": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+    "caloriesMacros": "Calories i macronutrients",
+    "whenFits": "Quan encaixa",
+    "whatToWatch": "Què cal vigilar",
+    "howToLog": "Com registrar-ho amb més precisió",
+    "helpfulContext": "Context útil",
+    "faq": "Preguntes freqüents",
+    "weightLossQuestion": "És adequat per perdre pes?",
+    "variabilityQuestion": "Què pot canviar més les calories?",
+    "logFasterTitle": "Registra l’àpat més ràpid",
+    "logFasterText": "Amb Calorie Counter AI pots fer una foto del menjar, obtenir un esborrany de registre i ajustar la ració, les salses o la marca quan calgui.",
+    "photoTrackingLink": "Com funciona el recompte de calories per foto →",
+    "macros": {
+      "protein": "Proteïnes",
+      "fat": "Greixos",
+      "carbs": "Hidrats de carboni"
+    },
+    "titleTemplate": "{namePrep}: calories i macronutrients",
+    "h1Template": "{namePrep}: calories i macronutrients",
+    "descriptionTemplate": "{name}: calories, proteïnes, greixos i hidrats de carboni per a la ració «{serving}», amb consells pràctics per registrar-ho al diari alimentari.",
+    "heroIntroTemplate": "Aproximadament {calories} {kcal}: {servingLower}. Fes servir aquesta xifra com a punt de partida i ajusta-la segons la marca, la recepta, la cocció i la mida de la ració.",
+    "macroParagraphTemplate": "{name}: aproximadament {calories} {kcal} per a «{servingLower}». Aquesta ració aporta uns {protein} {gram} de proteïnes, {fat} {gram} de greixos i {carbs} {gram} d’hidrats de carboni{fiberText}.",
+    "per100Template": "Per comparar, per cada 100 {gram}: aproximadament {calories} {kcal}, {protein} {gram} de proteïnes, {fat} {gram} de greixos i {carbs} {gram} d’hidrats de carboni.",
+    "calorieLevelTemplate": "Comença per la ració: aquí es mostren aproximadament {calories} {kcal} per a «{servingLower}»."
+  },
+  "foodCategories": {
+    "Fruit": "Fruita",
+    "Protein foods": "Aliments rics en proteïnes",
+    "Fruits and fats": "Fruites i greixos",
+    "Grains and starches": "Cereals i aliments amb midó",
+    "Nuts and spreads": "Fruita seca i cremes per untar",
+    "Breakfast foods": "Aliments d’esmorzar",
+    "Dairy": "Làctics",
+    "Restaurant meals": "Àpats de restaurant",
+    "Fast food": "Menjar ràpid",
+    "Legumes and plant protein": "Llegums i proteïna vegetal",
+    "Desserts": "Postres",
+    "Snacks": "Snacks",
+    "Drinks": "Begudes",
+    "Vegetables": "Verdures i hortalisses",
+    "Sauces and condiments": "Salses i condiments",
+    "Mixed dishes": "Plats combinats"
+  },
+  "foods": {
+    "banana": {
+      "name": "Plàtan",
+      "namePrep": "el plàtan",
+      "serving": "1 porció de plàtan"
+    },
+    "apple": {
+      "name": "Poma",
+      "namePrep": "la poma",
+      "serving": "1 porció de poma"
+    },
+    "egg": {
+      "name": "Ou",
+      "namePrep": "l’ou",
+      "serving": "1 porció d’ou"
+    },
+    "avocado": {
+      "name": "Alvocat",
+      "namePrep": "l’alvocat",
+      "serving": "1 porció d’alvocat"
+    },
+    "chicken-breast": {
+      "name": "Pit de pollastre",
+      "namePrep": "el pit de pollastre",
+      "serving": "1 porció de pit de pollastre"
+    },
+    "salmon": {
+      "name": "Salmó",
+      "namePrep": "el salmó",
+      "serving": "1 porció de salmó"
+    },
+    "white-rice": {
+      "name": "Arròs blanc",
+      "namePrep": "l’arròs blanc",
+      "serving": "1 porció d’arròs blanc"
+    },
+    "brown-rice": {
+      "name": "Arròs integral",
+      "namePrep": "l’arròs integral",
+      "serving": "1 porció d’arròs integral"
+    },
+    "pasta": {
+      "name": "Pasta",
+      "namePrep": "la pasta",
+      "serving": "1 porció de pasta"
+    },
+    "potato": {
+      "name": "Patata",
+      "namePrep": "la patata",
+      "serving": "1 porció de patata"
+    },
+    "sweet-potato": {
+      "name": "Moniato",
+      "namePrep": "el moniato",
+      "serving": "1 porció de moniato"
+    },
+    "bread": {
+      "name": "Pa",
+      "namePrep": "el pa",
+      "serving": "1 porció de pa"
+    },
+    "peanut-butter": {
+      "name": "Crema de cacauet",
+      "namePrep": "la crema de cacauet",
+      "serving": "1 porció de crema de cacauet"
+    },
+    "oatmeal": {
+      "name": "Farinetes de civada",
+      "namePrep": "les farinetes de civada",
+      "serving": "1 porció de farinetes de civada"
+    },
+    "greek-yogurt": {
+      "name": "Iogurt grec",
+      "namePrep": "el iogurt grec",
+      "serving": "1 porció de iogurt grec"
+    },
+    "yogurt": {
+      "name": "Iogurt",
+      "namePrep": "el iogurt",
+      "serving": "1 porció de iogurt"
+    },
+    "milk": {
+      "name": "Llet",
+      "namePrep": "la llet",
+      "serving": "1 porció de llet"
+    },
+    "cheddar-cheese": {
+      "name": "Formatge cheddar",
+      "namePrep": "el formatge cheddar",
+      "serving": "1 porció de formatge cheddar"
+    },
+    "pizza": {
+      "name": "Pizza",
+      "namePrep": "la pizza",
+      "serving": "1 porció de pizza"
+    },
+    "burger": {
+      "name": "Hamburguesa",
+      "namePrep": "l’hamburguesa",
+      "serving": "1 porció d’hamburguesa"
+    },
+    "french-fries": {
+      "name": "Patates fregides",
+      "namePrep": "les patates fregides",
+      "serving": "1 porció de patates fregides"
+    },
+    "sushi-roll": {
+      "name": "Rotlle de sushi",
+      "namePrep": "el rotlle de sushi",
+      "serving": "1 porció de rotlle de sushi"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "el taco",
+      "serving": "1 porció de taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "el burrito",
+      "serving": "1 porció de burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Nuggets de pollastre",
+      "namePrep": "els nuggets de pollastre",
+      "serving": "1 porció de nuggets de pollastre"
+    },
+    "hot-dog": {
+      "name": "Hot dog",
+      "namePrep": "el hot dog",
+      "serving": "1 porció de hot dog"
+    },
+    "steak": {
+      "name": "Bistec de vedella",
+      "namePrep": "el bistec de vedella",
+      "serving": "1 porció de bistec de vedella"
+    },
+    "bacon": {
+      "name": "Bacó",
+      "namePrep": "el bacó",
+      "serving": "1 porció de bacó"
+    },
+    "tuna": {
+      "name": "Tonyina",
+      "namePrep": "la tonyina",
+      "serving": "1 porció de tonyina"
+    },
+    "shrimp": {
+      "name": "Gambes",
+      "namePrep": "les gambes",
+      "serving": "1 porció de gambes"
+    },
+    "tofu": {
+      "name": "Tofu",
+      "namePrep": "el tofu",
+      "serving": "1 porció de tofu"
+    },
+    "lentils": {
+      "name": "Llenties",
+      "namePrep": "les llenties",
+      "serving": "1 porció de llenties"
+    },
+    "black-beans": {
+      "name": "Mongetes negres",
+      "namePrep": "les mongetes negres",
+      "serving": "1 porció de mongetes negres"
+    },
+    "chickpeas": {
+      "name": "Cigrons",
+      "namePrep": "els cigrons",
+      "serving": "1 porció de cigrons"
+    },
+    "hummus": {
+      "name": "Hummus",
+      "namePrep": "l’hummus",
+      "serving": "1 porció d’hummus"
+    },
+    "quinoa": {
+      "name": "Quinoa",
+      "namePrep": "la quinoa",
+      "serving": "1 porció de quinoa"
+    },
+    "tortilla": {
+      "name": "Tortilla mexicana",
+      "namePrep": "la tortilla mexicana",
+      "serving": "1 porció de tortilla mexicana"
+    },
+    "bagel": {
+      "name": "Bagel",
+      "namePrep": "el bagel",
+      "serving": "1 porció de bagel"
+    },
+    "croissant": {
+      "name": "Croissant",
+      "namePrep": "el croissant",
+      "serving": "1 porció de croissant"
+    },
+    "pancake": {
+      "name": "Pancakes",
+      "namePrep": "els pancakes",
+      "serving": "1 porció de pancakes"
+    },
+    "waffle": {
+      "name": "Gofra",
+      "namePrep": "la gofra",
+      "serving": "1 porció de gofra"
+    },
+    "cereal": {
+      "name": "Cereals",
+      "namePrep": "els cereals",
+      "serving": "1 porció de cereals"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "la granola",
+      "serving": "1 porció de granola"
+    },
+    "almonds": {
+      "name": "Ametlles",
+      "namePrep": "les ametlles",
+      "serving": "1 porció d’ametlles"
+    },
+    "walnuts": {
+      "name": "Nous",
+      "namePrep": "les nous",
+      "serving": "1 porció de nous"
+    },
+    "cashews": {
+      "name": "Anacards",
+      "namePrep": "els anacards",
+      "serving": "1 porció d’anacards"
+    },
+    "chocolate": {
+      "name": "Xocolata",
+      "namePrep": "la xocolata",
+      "serving": "1 porció de xocolata"
+    },
+    "ice-cream": {
+      "name": "Gelat",
+      "namePrep": "el gelat",
+      "serving": "1 porció de gelat"
+    },
+    "cookie": {
+      "name": "Galeta amb xips de xocolata",
+      "namePrep": "la galeta amb xips de xocolata",
+      "serving": "1 porció de galeta amb xips de xocolata"
+    },
+    "donut": {
+      "name": "Dònut glacejat",
+      "namePrep": "el dònut glacejat",
+      "serving": "1 porció de dònut glacejat"
+    },
+    "muffin": {
+      "name": "Muffin de nabius",
+      "namePrep": "el muffin de nabius",
+      "serving": "1 porció de muffin de nabius"
+    },
+    "cake": {
+      "name": "Pastís",
+      "namePrep": "el pastís",
+      "serving": "1 porció de pastís"
+    },
+    "brownie": {
+      "name": "Brownie",
+      "namePrep": "el brownie",
+      "serving": "1 porció de brownie"
+    },
+    "popcorn": {
+      "name": "Crispetes",
+      "namePrep": "les crispetes",
+      "serving": "1 porció de crispetes"
+    },
+    "potato-chips": {
+      "name": "Patates xips",
+      "namePrep": "les patates xips",
+      "serving": "1 porció de patates xips"
+    },
+    "pretzels": {
+      "name": "Pretzels",
+      "namePrep": "els pretzels",
+      "serving": "1 porció de pretzels"
+    },
+    "smoothie": {
+      "name": "Batut de fruita",
+      "namePrep": "el batut de fruita",
+      "serving": "1 porció de batut de fruita"
+    },
+    "orange-juice": {
+      "name": "Suc de taronja",
+      "namePrep": "el suc de taronja",
+      "serving": "1 porció de suc de taronja"
+    },
+    "soda": {
+      "name": "Refresc",
+      "namePrep": "el refresc",
+      "serving": "1 porció de refresc"
+    },
+    "latte": {
+      "name": "Cafè amb llet",
+      "namePrep": "el cafè amb llet",
+      "serving": "1 porció de cafè amb llet"
+    },
+    "protein-shake": {
+      "name": "Batut de proteïnes",
+      "namePrep": "el batut de proteïnes",
+      "serving": "1 porció de batut de proteïnes"
+    },
+    "spaghetti-bolognese": {
+      "name": "Espaguetis a la bolonyesa",
+      "namePrep": "els espaguetis a la bolonyesa",
+      "serving": "1 porció d’espaguetis a la bolonyesa"
+    },
+    "ramen": {
+      "name": "Ramen",
+      "namePrep": "el ramen",
+      "serving": "1 porció de ramen"
+    },
+    "pho": {
+      "name": "Pho",
+      "namePrep": "el pho",
+      "serving": "1 porció de pho"
+    },
+    "chicken-soup": {
+      "name": "Sopa de pollastre",
+      "namePrep": "la sopa de pollastre",
+      "serving": "1 porció de sopa de pollastre"
+    },
+    "caesar-salad": {
+      "name": "Amanida Cèsar",
+      "namePrep": "l’amanida Cèsar",
+      "serving": "1 porció d’amanida Cèsar"
+    },
+    "green-salad": {
+      "name": "Amanida verda",
+      "namePrep": "l’amanida verda",
+      "serving": "1 porció d’amanida verda"
+    },
+    "broccoli": {
+      "name": "Bròcoli",
+      "namePrep": "el bròcoli",
+      "serving": "1 porció de bròcoli"
+    },
+    "spinach": {
+      "name": "Espinacs",
+      "namePrep": "els espinacs",
+      "serving": "1 porció d’espinacs"
+    },
+    "carrots": {
+      "name": "Pastanagues",
+      "namePrep": "les pastanagues",
+      "serving": "1 porció de pastanagues"
+    },
+    "corn": {
+      "name": "Blat de moro",
+      "namePrep": "el blat de moro",
+      "serving": "1 porció de blat de moro"
+    },
+    "tomato": {
+      "name": "Tomàquet",
+      "namePrep": "el tomàquet",
+      "serving": "1 porció de tomàquet"
+    },
+    "cucumber": {
+      "name": "Cogombre",
+      "namePrep": "el cogombre",
+      "serving": "1 porció de cogombre"
+    },
+    "cheesecake": {
+      "name": "Pastís de formatge",
+      "namePrep": "el pastís de formatge",
+      "serving": "1 porció de pastís de formatge"
+    },
+    "lasagna": {
+      "name": "Lasanya",
+      "namePrep": "la lasanya",
+      "serving": "1 porció de lasanya"
+    },
+    "grilled-cheese": {
+      "name": "Entrepà de formatge a la planxa",
+      "namePrep": "l’entrepà de formatge a la planxa",
+      "serving": "1 porció d’entrepà de formatge a la planxa"
+    },
+    "peanut-butter-jelly": {
+      "name": "Entrepà de crema de cacauet i melmelada",
+      "namePrep": "l’entrepà de crema de cacauet i melmelada",
+      "serving": "1 porció d’entrepà de crema de cacauet i melmelada"
+    },
+    "omelette": {
+      "name": "Truita francesa",
+      "namePrep": "la truita francesa",
+      "serving": "1 porció de truita francesa"
+    },
+    "fried-egg": {
+      "name": "Ou ferrat",
+      "namePrep": "l’ou ferrat",
+      "serving": "1 porció d’ou ferrat"
+    },
+    "boiled-egg": {
+      "name": "Ou dur",
+      "namePrep": "l’ou dur",
+      "serving": "1 porció d’ou dur"
+    },
+    "toast": {
+      "name": "Torrada",
+      "namePrep": "la torrada",
+      "serving": "1 porció de torrada"
+    },
+    "avocado-toast": {
+      "name": "Torrada amb alvocat",
+      "namePrep": "la torrada amb alvocat",
+      "serving": "1 porció de torrada amb alvocat"
+    },
+    "chicken-salad": {
+      "name": "Amanida de pollastre",
+      "namePrep": "l’amanida de pollastre",
+      "serving": "1 porció d’amanida de pollastre"
+    },
+    "tuna-salad": {
+      "name": "Amanida de tonyina",
+      "namePrep": "l’amanida de tonyina",
+      "serving": "1 porció d’amanida de tonyina"
+    },
+    "egg-salad": {
+      "name": "Amanida d’ou",
+      "namePrep": "l’amanida d’ou",
+      "serving": "1 porció d’amanida d’ou"
+    },
+    "cottage-cheese": {
+      "name": "Mató",
+      "namePrep": "el mató",
+      "serving": "1 porció de mató"
+    },
+    "cream-cheese": {
+      "name": "Formatge crema",
+      "namePrep": "el formatge crema",
+      "serving": "1 porció de formatge crema"
+    },
+    "butter": {
+      "name": "Mantega",
+      "namePrep": "la mantega",
+      "serving": "1 porció de mantega"
+    },
+    "olive-oil": {
+      "name": "Oli d’oliva",
+      "namePrep": "l’oli d’oliva",
+      "serving": "1 porció d’oli d’oliva"
+    },
+    "mayonnaise": {
+      "name": "Maionesa",
+      "namePrep": "la maionesa",
+      "serving": "1 porció de maionesa"
+    },
+    "ketchup": {
+      "name": "Quètxup",
+      "namePrep": "el quètxup",
+      "serving": "1 porció de quètxup"
+    },
+    "honey": {
+      "name": "Mel",
+      "namePrep": "la mel",
+      "serving": "1 porció de mel"
+    },
+    "jam": {
+      "name": "Melmelada",
+      "namePrep": "la melmelada",
+      "serving": "1 porció de melmelada"
+    },
+    "protein-bar": {
+      "name": "Barreta de proteïnes",
+      "namePrep": "la barreta de proteïnes",
+      "serving": "1 porció de barreta de proteïnes"
+    },
+    "energy-drink": {
+      "name": "Beguda energètica",
+      "namePrep": "la beguda energètica",
+      "serving": "1 porció de beguda energètica"
+    },
+    "matcha-latte": {
+      "name": "Matcha latte",
+      "namePrep": "el matcha latte",
+      "serving": "1 porció de matcha latte"
+    },
+    "trail-mix": {
+      "name": "Barreja de fruita seca",
+      "namePrep": "la barreja de fruita seca",
+      "serving": "1 porció de barreja de fruita seca"
+    },
+    "blueberries": {
+      "name": "Nabius",
+      "namePrep": "els nabius",
+      "serving": "1 porció de nabius"
+    },
+    "strawberries": {
+      "name": "Maduixes",
+      "namePrep": "les maduixes",
+      "serving": "1 porció de maduixes"
+    },
+    "grapes": {
+      "name": "Raïm",
+      "namePrep": "el raïm",
+      "serving": "1 porció de raïm"
+    },
+    "orange": {
+      "name": "Taronja",
+      "namePrep": "la taronja",
+      "serving": "1 porció de taronja"
+    },
+    "pear": {
+      "name": "Pera",
+      "namePrep": "la pera",
+      "serving": "1 porció de pera"
+    },
+    "peach": {
+      "name": "Préssec",
+      "namePrep": "el préssec",
+      "serving": "1 porció de préssec"
+    },
+    "watermelon": {
+      "name": "Síndria",
+      "namePrep": "la síndria",
+      "serving": "1 porció de síndria"
+    },
+    "pineapple": {
+      "name": "Pinya",
+      "namePrep": "la pinya",
+      "serving": "1 porció de pinya"
+    },
+    "mango": {
+      "name": "Mango",
+      "namePrep": "el mango",
+      "serving": "1 porció de mango"
+    },
+    "kiwi": {
+      "name": "Kiwi",
+      "namePrep": "el kiwi",
+      "serving": "1 porció de kiwi"
+    },
+    "raspberries": {
+      "name": "Gerds",
+      "namePrep": "els gerds",
+      "serving": "1 porció de gerds"
+    },
+    "blackberries": {
+      "name": "Mores",
+      "namePrep": "les mores",
+      "serving": "1 porció de mores"
+    },
+    "cherries": {
+      "name": "Cireres",
+      "namePrep": "les cireres",
+      "serving": "1 porció de cireres"
+    },
+    "grapefruit": {
+      "name": "Aranja",
+      "namePrep": "l’aranja",
+      "serving": "1 porció d’aranja"
+    },
+    "lettuce": {
+      "name": "Enciam",
+      "namePrep": "l’enciam",
+      "serving": "1 porció d’enciam"
+    },
+    "cabbage": {
+      "name": "Col",
+      "namePrep": "la col",
+      "serving": "1 porció de col"
+    },
+    "cauliflower": {
+      "name": "Coliflor",
+      "namePrep": "la coliflor",
+      "serving": "1 porció de coliflor"
+    },
+    "asparagus": {
+      "name": "Espàrrecs",
+      "namePrep": "els espàrrecs",
+      "serving": "1 porció d’espàrrecs"
+    },
+    "zucchini": {
+      "name": "Carbassó",
+      "namePrep": "el carbassó",
+      "serving": "1 porció de carbassó"
+    },
+    "eggplant": {
+      "name": "Albergínia",
+      "namePrep": "l’albergínia",
+      "serving": "1 porció d’albergínia"
+    },
+    "bell-pepper": {
+      "name": "Pebrot",
+      "namePrep": "el pebrot",
+      "serving": "1 porció de pebrot"
+    },
+    "onion": {
+      "name": "Ceba",
+      "namePrep": "la ceba",
+      "serving": "1 porció de ceba"
+    },
+    "mushrooms": {
+      "name": "Xampinyons",
+      "namePrep": "els xampinyons",
+      "serving": "1 porció de xampinyons"
+    },
+    "green-beans": {
+      "name": "Mongetes tendres",
+      "namePrep": "les mongetes tendres",
+      "serving": "1 porció de mongetes tendres"
+    },
+    "kale": {
+      "name": "Col kale",
+      "namePrep": "la col kale",
+      "serving": "1 porció de col kale"
+    },
+    "beets": {
+      "name": "Remolatxa",
+      "namePrep": "la remolatxa",
+      "serving": "1 porció de remolatxa"
+    },
+    "turkey-breast": {
+      "name": "Pit de gall dindi",
+      "namePrep": "el pit de gall dindi",
+      "serving": "1 porció de pit de gall dindi"
+    },
+    "chicken-thigh": {
+      "name": "Cuixa de pollastre",
+      "namePrep": "la cuixa de pollastre",
+      "serving": "1 porció de cuixa de pollastre"
+    },
+    "pork-chop": {
+      "name": "Costella de porc",
+      "namePrep": "la costella de porc",
+      "serving": "1 porció de costella de porc"
+    },
+    "ground-beef": {
+      "name": "Carn picada de vedella",
+      "namePrep": "la carn picada de vedella",
+      "serving": "1 porció de carn picada de vedella"
+    },
+    "meatballs": {
+      "name": "Mandonguilles",
+      "namePrep": "les mandonguilles",
+      "serving": "1 porció de mandonguilles"
+    },
+    "sausage": {
+      "name": "Salsitxa",
+      "namePrep": "la salsitxa",
+      "serving": "1 porció de salsitxa"
+    },
+    "cod": {
+      "name": "Bacallà",
+      "namePrep": "el bacallà",
+      "serving": "1 porció de bacallà"
+    },
+    "tilapia": {
+      "name": "Tilàpia",
+      "namePrep": "la tilàpia",
+      "serving": "1 porció de tilàpia"
+    },
+    "sardines": {
+      "name": "Sardines",
+      "namePrep": "les sardines",
+      "serving": "1 porció de sardines"
+    },
+    "crab": {
+      "name": "Cranc",
+      "namePrep": "el cranc",
+      "serving": "1 porció de cranc"
+    },
+    "scallops": {
+      "name": "Vieires",
+      "namePrep": "les vieires",
+      "serving": "1 porció de vieires"
+    },
+    "smoked-salmon": {
+      "name": "Salmó fumat",
+      "namePrep": "el salmó fumat",
+      "serving": "1 porció de salmó fumat"
+    },
+    "skim-milk": {
+      "name": "Llet desnatada",
+      "namePrep": "la llet desnatada",
+      "serving": "1 porció de llet desnatada"
+    },
+    "soy-milk": {
+      "name": "Beguda de soja",
+      "namePrep": "la beguda de soja",
+      "serving": "1 porció de beguda de soja"
+    },
+    "almond-milk": {
+      "name": "Beguda d’ametlla",
+      "namePrep": "la beguda d’ametlla",
+      "serving": "1 porció de beguda d’ametlla"
+    },
+    "oat-milk": {
+      "name": "Beguda de civada",
+      "namePrep": "la beguda de civada",
+      "serving": "1 porció de beguda de civada"
+    },
+    "kefir": {
+      "name": "Quefir",
+      "namePrep": "el quefir",
+      "serving": "1 porció de quefir"
+    },
+    "sour-cream": {
+      "name": "Nata agra",
+      "namePrep": "la nata agra",
+      "serving": "1 porció de nata agra"
+    },
+    "feta-cheese": {
+      "name": "Formatge feta",
+      "namePrep": "el formatge feta",
+      "serving": "1 porció de formatge feta"
+    },
+    "mozzarella": {
+      "name": "Mozzarella",
+      "namePrep": "la mozzarella",
+      "serving": "1 porció de mozzarella"
+    },
+    "parmesan": {
+      "name": "Parmesà",
+      "namePrep": "el parmesà",
+      "serving": "1 porció de parmesà"
+    },
+    "couscous": {
+      "name": "Cuscús",
+      "namePrep": "el cuscús",
+      "serving": "1 porció de cuscús"
+    },
+    "barley": {
+      "name": "Ordi",
+      "namePrep": "l’ordi",
+      "serving": "1 porció d’ordi"
+    },
+    "buckwheat": {
+      "name": "Fajol",
+      "namePrep": "el fajol",
+      "serving": "1 porció de fajol"
+    },
+    "bulgur": {
+      "name": "Bulgur",
+      "namePrep": "el bulgur",
+      "serving": "1 porció de bulgur"
+    },
+    "naan": {
+      "name": "Pa naan",
+      "namePrep": "el pa naan",
+      "serving": "1 porció de pa naan"
+    },
+    "pita-bread": {
+      "name": "Pa de pita",
+      "namePrep": "el pa de pita",
+      "serving": "1 porció de pa de pita"
+    },
+    "english-muffin": {
+      "name": "Muffin anglès",
+      "namePrep": "el muffin anglès",
+      "serving": "1 porció de muffin anglès"
+    },
+    "rice-cake": {
+      "name": "Tortita d’arròs",
+      "namePrep": "la tortita d’arròs",
+      "serving": "1 porció de tortita d’arròs"
+    },
+    "crackers": {
+      "name": "Crackers",
+      "namePrep": "els crackers",
+      "serving": "1 porció de crackers"
+    },
+    "mashed-potatoes": {
+      "name": "Puré de patata",
+      "namePrep": "el puré de patata",
+      "serving": "1 porció de puré de patata"
+    },
+    "scrambled-eggs": {
+      "name": "Ous remenats",
+      "namePrep": "els ous remenats",
+      "serving": "1 porció d’ous remenats"
+    },
+    "french-toast": {
+      "name": "Torrada francesa",
+      "namePrep": "la torrada francesa",
+      "serving": "1 porció de torrada francesa"
+    },
+    "breakfast-burrito": {
+      "name": "Burrito d’esmorzar",
+      "namePrep": "el burrito d’esmorzar",
+      "serving": "1 porció de burrito d’esmorzar"
+    },
+    "hash-browns": {
+      "name": "Hash browns",
+      "namePrep": "els hash browns",
+      "serving": "1 porció de hash browns"
+    },
+    "chia-pudding": {
+      "name": "Púding de xia",
+      "namePrep": "el púding de xia",
+      "serving": "1 porció de púding de xia"
+    },
+    "overnight-oats": {
+      "name": "Civada remullada",
+      "namePrep": "la civada remullada",
+      "serving": "1 porció de civada remullada"
+    },
+    "breakfast-sandwich": {
+      "name": "Entrepà d’esmorzar",
+      "namePrep": "l’entrepà d’esmorzar",
+      "serving": "1 porció d’entrepà d’esmorzar"
+    },
+    "edamame": {
+      "name": "Edamame",
+      "namePrep": "l’edamame",
+      "serving": "1 porció d’edamame"
+    },
+    "kidney-beans": {
+      "name": "Mongetes vermelles",
+      "namePrep": "les mongetes vermelles",
+      "serving": "1 porció de mongetes vermelles"
+    },
+    "pinto-beans": {
+      "name": "Mongetes pintes",
+      "namePrep": "les mongetes pintes",
+      "serving": "1 porció de mongetes pintes"
+    },
+    "split-peas": {
+      "name": "Pèsols partits",
+      "namePrep": "els pèsols partits",
+      "serving": "1 porció de pèsols partits"
+    },
+    "baked-beans": {
+      "name": "Mongetes amb tomàquet",
+      "namePrep": "les mongetes amb tomàquet",
+      "serving": "1 porció de mongetes amb tomàquet"
+    },
+    "fried-rice": {
+      "name": "Arròs fregit",
+      "namePrep": "l’arròs fregit",
+      "serving": "1 porció d’arròs fregit"
+    },
+    "pad-thai": {
+      "name": "Pad thai",
+      "namePrep": "el pad thai",
+      "serving": "1 porció de pad thai"
+    },
+    "chicken-curry": {
+      "name": "Curri de pollastre",
+      "namePrep": "el curri de pollastre",
+      "serving": "1 porció de curri de pollastre"
+    },
+    "chicken-tikka-masala": {
+      "name": "Pollastre tikka masala",
+      "namePrep": "el pollastre tikka masala",
+      "serving": "1 porció de pollastre tikka masala"
+    },
+    "beef-chili": {
+      "name": "Xili amb carn",
+      "namePrep": "el xili amb carn",
+      "serving": "1 porció de xili amb carn"
+    },
+    "falafel": {
+      "name": "Falàfel",
+      "namePrep": "el falàfel",
+      "serving": "1 porció de falàfel"
+    },
+    "dumplings": {
+      "name": "Dumplings",
+      "namePrep": "els dumplings",
+      "serving": "1 porció de dumplings"
+    },
+    "spring-rolls": {
+      "name": "Rotllets de primavera",
+      "namePrep": "els rotllets de primavera",
+      "serving": "1 porció de rotllets de primavera"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "la quesadilla",
+      "serving": "1 porció de quesadilla"
+    },
+    "nachos": {
+      "name": "Nachos",
+      "namePrep": "els nachos",
+      "serving": "1 porció de nachos"
+    },
+    "mac-and-cheese": {
+      "name": "Macarrons amb formatge",
+      "namePrep": "els macarrons amb formatge",
+      "serving": "1 porció de macarrons amb formatge"
+    },
+    "chicken-wings": {
+      "name": "Aletes de pollastre",
+      "namePrep": "les aletes de pollastre",
+      "serving": "1 porció d’aletes de pollastre"
+    },
+    "fish-and-chips": {
+      "name": "Peix amb patates fregides",
+      "namePrep": "el peix amb patates fregides",
+      "serving": "1 porció de peix amb patates fregides"
+    },
+    "risotto": {
+      "name": "Risotto",
+      "namePrep": "el risotto",
+      "serving": "1 porció de risotto"
+    },
+    "tortilla-chips": {
+      "name": "Xips de blat de moro",
+      "namePrep": "els xips de blat de moro",
+      "serving": "1 porció de xips de blat de moro"
+    },
+    "granola-bar": {
+      "name": "Barreta de granola",
+      "namePrep": "la barreta de granola",
+      "serving": "1 porció de barreta de granola"
+    },
+    "chocolate-bar": {
+      "name": "Barreta de xocolata",
+      "namePrep": "la barreta de xocolata",
+      "serving": "1 porció de barreta de xocolata"
+    },
+    "candy": {
+      "name": "Caramels",
+      "namePrep": "els caramels",
+      "serving": "1 porció de caramels"
+    },
+    "cinnamon-roll": {
+      "name": "Rotlle de canyella",
+      "namePrep": "el rotlle de canyella",
+      "serving": "1 porció de rotlle de canyella"
+    },
+    "marshmallows": {
+      "name": "Núvols de sucre",
+      "namePrep": "els núvols de sucre",
+      "serving": "1 porció de núvols de sucre"
+    },
+    "fruit-snacks": {
+      "name": "Snacks de fruita",
+      "namePrep": "els snacks de fruita",
+      "serving": "1 porció de snacks de fruita"
+    },
+    "black-coffee": {
+      "name": "Cafè sol",
+      "namePrep": "el cafè sol",
+      "serving": "1 porció de cafè sol"
+    },
+    "cappuccino": {
+      "name": "Caputxino",
+      "namePrep": "el caputxino",
+      "serving": "1 porció de caputxino"
+    },
+    "milk-tea": {
+      "name": "Te amb llet",
+      "namePrep": "el te amb llet",
+      "serving": "1 porció de te amb llet"
+    },
+    "bubble-tea": {
+      "name": "Bubble tea",
+      "namePrep": "el bubble tea",
+      "serving": "1 porció de bubble tea"
+    },
+    "lemonade": {
+      "name": "Llimonada",
+      "namePrep": "la llimonada",
+      "serving": "1 porció de llimonada"
+    },
+    "iced-tea": {
+      "name": "Te fred",
+      "namePrep": "el te fred",
+      "serving": "1 porció de te fred"
+    },
+    "apple-juice": {
+      "name": "Suc de poma",
+      "namePrep": "el suc de poma",
+      "serving": "1 porció de suc de poma"
+    },
+    "coconut-water": {
+      "name": "Aigua de coco",
+      "namePrep": "l’aigua de coco",
+      "serving": "1 porció d’aigua de coco"
+    },
+    "sports-drink": {
+      "name": "Beguda isotònica",
+      "namePrep": "la beguda isotònica",
+      "serving": "1 porció de beguda isotònica"
+    },
+    "ranch-dressing": {
+      "name": "Salsa ranch",
+      "namePrep": "la salsa ranch",
+      "serving": "1 porció de salsa ranch"
+    },
+    "bbq-sauce": {
+      "name": "Salsa barbacoa",
+      "namePrep": "la salsa barbacoa",
+      "serving": "1 porció de salsa barbacoa"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "la salsa",
+      "serving": "1 porció de salsa"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "el guacamole",
+      "serving": "1 porció de guacamole"
+    }
+  },
+  "utility": {
+    "pricing": "Preus",
+    "support": "Suport",
+    "privacy": "Privacitat",
+    "terms": "Condicions d’ús",
+    "press": "Kit de premsa",
+    "deleteExtra": "Per eliminar el compte o les dades, escriu des del correu associat al compte i posa “Delete account” a l’assumpte."
+  },
+  "store": {
+    "appStoreSmall": "Baixa-la a",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Disponible a",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Funció",
+    "useCase": "Cas d’ús",
+    "openPage": "Obre la pàgina",
+    "openArrow": "Obre →",
+    "practicalWorkflow": "Flux pràctic",
+    "workflowTitle": "Ús diari",
+    "goodToKnow": "Convindria saber-ho",
+    "defaultNote": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+    "relatedPages": "Pàgines relacionades",
+    "quickTakeaway": "Resum ràpid",
+    "defaultTakeaway": "La foto, la revisió de la ració i les correccions manuals fan que el diari alimentari sigui més fàcil de mantenir.",
+    "information": "Informació",
+    "bestFor": "Ideal per a"
+  },
+  "internalCta": {
+    "title": "Prova el comptador de calories amb IA per foto",
+    "text": "Fotografia el teu pròxim àpat, revisa l’estimació de calories i macronutrients i desa-la al diari alimentari.",
+    "button": "Baixa l’app"
+  },
+  "download": {
+    "availableTitle": "Disponible per a iPhone i Android",
+    "availableText": "Baixa Calorie Counter AI per a iPhone o Android i converteix la pròxima foto del menjar en una entrada del diari."
+  },
+  "faq": {
+    "items": [
+      [
+        "Calorie Counter AI és gratuït?",
+        "Pots començar amb anàlisis diàries gratuïtes de menjar amb IA. Per a límits més alts i funcions avançades, pot haver-hi opcions premium."
+      ],
+      [
+        "Puc comptar calories a partir d’una foto?",
+        "Sí. Fas una foto del menjar, revises l’estimació de la IA i ajustes la ració, els ingredients, les salses o la marca abans de desar-ho."
+      ],
+      [
+        "Quina precisió tenen les estimacions de calories amb IA?",
+        "No és una anàlisi de laboratori, sinó una estimació pràctica. La mida de la ració, la recepta, els greixos ocults, les salses, la marca i la qualitat de la foto influeixen en el resultat."
+      ],
+      [
+        "Hi ha escàner de codis de barres?",
+        "Sí. Per a productes envasats pots escanejar el codi de barres, confirmar el producte i afegir calories i macronutrients més ràpidament."
+      ],
+      [
+        "Serveix per perdre pes?",
+        "Sí, pot ajudar a seguir un dèficit calòric i entendre millor els hàbits alimentaris. Per a objectius mèdics, consulta un professional."
+      ],
+      [
+        "Puc seguir proteïnes, greixos i hidrats de carboni?",
+        "Sí. Cada registre mostra calories juntament amb proteïnes, greixos i hidrats de carboni perquè puguis veure els macronutrients al llarg del dia."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Pots començar amb anàlisis diàries gratuïtes de menjar amb IA. Per a límits més alts, eines avançades i funcions addicionals, pot haver-hi opcions premium.",
+      "Els preus, els períodes de prova i les subscripcions poden variar segons el país i la plataforma. El preu actual es mostra a l’App Store o a Google Play abans de comprar."
+    ],
+    "support": [
+      "Necessites ajuda? Quan escriguis al suport, indica el dispositiu, la plataforma, la versió de l’app i una descripció breu del problema.",
+      "Els pagaments, els reemborsaments i la gestió de subscripcions normalment es fan des de la configuració de l’App Store o de Google Play, perquè la compra passa per la botiga."
+    ],
+    "contact": [
+      "Correu de suport: support@caloriecounterai.app",
+      "Per a col·laboracions, peticions de mitjans o comentaris sobre el producte, un assumpte clar ajuda a respondre més de pressa."
+    ],
+    "privacy": [
+      "Calorie Counter AI està pensat per portar un diari alimentari i entendre millor la nutrició. Les dades poden incloure registres d’àpats, fotos, preferències i informació tècnica necessària per fer funcionar el servei.",
+      "Permet només les dades de salut i activitat amb què et sentis còmode. Pots canviar els permisos des de la configuració del dispositiu."
+    ],
+    "terms": [
+      "En utilitzar Calorie Counter AI acceptes que l’app és una eina informativa per registrar l’alimentació i que has de revisar les estimacions abans de fer-les servir.",
+      "Les funcions, els límits gratuïts i les opcions premium poden canviar. Les compres fetes a través de l’App Store i Google Play també estan subjectes a les normes de cada botiga."
+    ],
+    "disclaimer": [
+      "Les estimacions nutricionals només tenen finalitat informativa i no substitueixen el consell d’un metge, dietista-nutricionista o altre professional sanitari.",
+      "Les estimacions per foto depenen de la ració, els ingredients ocults, la recepta, la qualitat de la foto i les correccions manuals. Si tens una malaltia, estàs embarassada, tens antecedents de trastorns de la conducta alimentària o objectius nutricionals clínics, consulta un professional."
+    ],
+    "delete": [
+      "Per eliminar el compte o les dades, escriu des del correu associat al compte i posa “Delete account” a l’assumpte.",
+      "L’equip de suport pot demanar informació addicional per confirmar la sol·licitud i trobar el compte correcte."
+    ]
+  },
+  "press": {
+    "iconAlt": "Icona de l’app",
+    "iconTitle": "Icona de l’app",
+    "downloadIcon": "Baixa la icona",
+    "screenshotAlt": "Captura de pantalla de l’app",
+    "screenshotTitle": "Captura de pantalla",
+    "downloadScreenshot": "Baixa la captura de pantalla",
+    "shortDescriptionTitle": "Descripció breu",
+    "shortDescriptionText": "Calorie Counter AI és un comptador de calories amb intel·ligència artificial que estima calories, macronutrients i mida de la ració a partir d’una foto del menjar, amb escàner de codis de barres i diari alimentari visual."
+  },
+  "notFound": {
+    "title": "No s’ha trobat la pàgina",
+    "text": "Pot ser que l’enllaç sigui antic o que la pàgina s’hagi mogut.",
+    "home": "Torna a l’inici"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Funcions",
+      "h1": "Funcions",
+      "description": "Funcions: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Funció",
+      "summary": "Aquesta funció ajuda a registrar el menjar amb menys fricció i a revisar les estimacions abans de desar-les.",
+      "bullets": [
+        "Registre més ràpid dels àpats",
+        "Calories i macronutrients en una sola vista",
+        "Correcció de racions, salses i ingredients",
+        "Historial clar per seguir tendències"
+      ],
+      "sections": [
+        [
+          "Per què és útil",
+          "Redueix el temps de cerca manual i converteix cada àpat en una entrada editable del diari."
+        ],
+        [
+          "Què cal revisar",
+          "Les racions, els olis, les salses, les begudes i els ingredients ocults poden canviar molt el resultat."
+        ],
+        [
+          "Com treure’n més profit",
+          "Fes servir la foto o el codi de barres com a punt de partida i ajusta el registre abans de desar-lo."
+        ]
+      ],
+      "workflowTitle": "Com utilitzar-ho en el registre diari",
+      "workflow": [
+        "Fes servir una foto o el codi de barres quan sigui útil.",
+        "Revisa la ració, les salses, les begudes i els ingredients ocults."
+      ],
+      "note": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+      "bestFor": [
+        "Registre diari ràpid",
+        "Àpats sense etiqueta",
+        "Persones que volen calories i macronutrients junts",
+        "Crear un hàbit sostenible sense massa rutina"
+      ],
+      "workflowKicker": "Enfocament pràctic",
+      "noteTitle": "A tenir en compte"
+    },
+    "/food-recognition-ai/": {
+      "title": "Reconeixement d’aliments amb IA",
+      "h1": "Reconeixement d’aliments amb IA",
+      "description": "Reconeixement d’aliments amb IA: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Funció",
+      "summary": "Aquesta funció ajuda a registrar el menjar amb menys fricció i a revisar les estimacions abans de desar-les.",
+      "bullets": [
+        "Registre més ràpid dels àpats",
+        "Calories i macronutrients en una sola vista",
+        "Correcció de racions, salses i ingredients",
+        "Historial clar per seguir tendències"
+      ],
+      "sections": [
+        [
+          "Per què és útil",
+          "Redueix el temps de cerca manual i converteix cada àpat en una entrada editable del diari."
+        ],
+        [
+          "Què cal revisar",
+          "Les racions, els olis, les salses, les begudes i els ingredients ocults poden canviar molt el resultat."
+        ],
+        [
+          "Com treure’n més profit",
+          "Fes servir la foto o el codi de barres com a punt de partida i ajusta el registre abans de desar-lo."
+        ]
+      ],
+      "workflowTitle": "Com utilitzar-ho en el registre diari",
+      "workflow": [
+        "Fes servir una foto o el codi de barres quan sigui útil.",
+        "Revisa la ració, les salses, les begudes i els ingredients ocults."
+      ],
+      "note": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+      "bestFor": [
+        "Registre diari ràpid",
+        "Àpats sense etiqueta",
+        "Persones que volen calories i macronutrients junts",
+        "Crear un hàbit sostenible sense massa rutina"
+      ],
+      "workflowKicker": "Enfocament pràctic",
+      "noteTitle": "A tenir en compte"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Escàner de calories amb codi de barres",
+      "h1": "Escàner de calories amb codi de barres",
+      "description": "Escàner de calories amb codi de barres: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Funció",
+      "summary": "Aquesta funció ajuda a registrar el menjar amb menys fricció i a revisar les estimacions abans de desar-les.",
+      "bullets": [
+        "Registre més ràpid dels àpats",
+        "Calories i macronutrients en una sola vista",
+        "Correcció de racions, salses i ingredients",
+        "Historial clar per seguir tendències"
+      ],
+      "sections": [
+        [
+          "Per què és útil",
+          "Redueix el temps de cerca manual i converteix cada àpat en una entrada editable del diari."
+        ],
+        [
+          "Què cal revisar",
+          "Les racions, els olis, les salses, les begudes i els ingredients ocults poden canviar molt el resultat."
+        ],
+        [
+          "Com treure’n més profit",
+          "Fes servir la foto o el codi de barres com a punt de partida i ajusta el registre abans de desar-lo."
+        ]
+      ],
+      "workflowTitle": "Com utilitzar-ho en el registre diari",
+      "workflow": [
+        "Fes servir una foto o el codi de barres quan sigui útil.",
+        "Revisa la ració, les salses, les begudes i els ingredients ocults."
+      ],
+      "note": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+      "bestFor": [
+        "Registre diari ràpid",
+        "Àpats sense etiqueta",
+        "Persones que volen calories i macronutrients junts",
+        "Crear un hàbit sostenible sense massa rutina"
+      ],
+      "workflowKicker": "Enfocament pràctic",
+      "noteTitle": "A tenir en compte"
+    },
+    "/macro-tracker/": {
+      "title": "Seguiment de macronutrients",
+      "h1": "Seguiment de macronutrients",
+      "description": "Seguiment de macronutrients: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Funció",
+      "summary": "Aquesta funció ajuda a registrar el menjar amb menys fricció i a revisar les estimacions abans de desar-les.",
+      "bullets": [
+        "Registre més ràpid dels àpats",
+        "Calories i macronutrients en una sola vista",
+        "Correcció de racions, salses i ingredients",
+        "Historial clar per seguir tendències"
+      ],
+      "sections": [
+        [
+          "Per què és útil",
+          "Redueix el temps de cerca manual i converteix cada àpat en una entrada editable del diari."
+        ],
+        [
+          "Què cal revisar",
+          "Les racions, els olis, les salses, les begudes i els ingredients ocults poden canviar molt el resultat."
+        ],
+        [
+          "Com treure’n més profit",
+          "Fes servir la foto o el codi de barres com a punt de partida i ajusta el registre abans de desar-lo."
+        ]
+      ],
+      "workflowTitle": "Com utilitzar-ho en el registre diari",
+      "workflow": [
+        "Fes servir una foto o el codi de barres quan sigui útil.",
+        "Revisa la ració, les salses, les begudes i els ingredients ocults."
+      ],
+      "note": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+      "bestFor": [
+        "Registre diari ràpid",
+        "Àpats sense etiqueta",
+        "Persones que volen calories i macronutrients junts",
+        "Crear un hàbit sostenible sense massa rutina"
+      ],
+      "workflowKicker": "Enfocament pràctic",
+      "noteTitle": "A tenir en compte"
+    },
+    "/food-diary-app/": {
+      "title": "App de diari alimentari",
+      "h1": "App de diari alimentari",
+      "description": "App de diari alimentari: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Funció",
+      "summary": "Aquesta funció ajuda a registrar el menjar amb menys fricció i a revisar les estimacions abans de desar-les.",
+      "bullets": [
+        "Registre més ràpid dels àpats",
+        "Calories i macronutrients en una sola vista",
+        "Correcció de racions, salses i ingredients",
+        "Historial clar per seguir tendències"
+      ],
+      "sections": [
+        [
+          "Per què és útil",
+          "Redueix el temps de cerca manual i converteix cada àpat en una entrada editable del diari."
+        ],
+        [
+          "Què cal revisar",
+          "Les racions, els olis, les salses, les begudes i els ingredients ocults poden canviar molt el resultat."
+        ],
+        [
+          "Com treure’n més profit",
+          "Fes servir la foto o el codi de barres com a punt de partida i ajusta el registre abans de desar-lo."
+        ]
+      ],
+      "workflowTitle": "Com utilitzar-ho en el registre diari",
+      "workflow": [
+        "Fes servir una foto o el codi de barres quan sigui útil.",
+        "Revisa la ració, les salses, les begudes i els ingredients ocults."
+      ],
+      "note": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+      "bestFor": [
+        "Registre diari ràpid",
+        "Àpats sense etiqueta",
+        "Persones que volen calories i macronutrients junts",
+        "Crear un hàbit sostenible sense massa rutina"
+      ],
+      "workflowKicker": "Enfocament pràctic",
+      "noteTitle": "A tenir en compte"
+    },
+    "/nutrition-tracker/": {
+      "title": "App de seguiment nutricional",
+      "h1": "App de seguiment nutricional",
+      "description": "App de seguiment nutricional: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Funció",
+      "summary": "Aquesta funció ajuda a registrar el menjar amb menys fricció i a revisar les estimacions abans de desar-les.",
+      "bullets": [
+        "Registre més ràpid dels àpats",
+        "Calories i macronutrients en una sola vista",
+        "Correcció de racions, salses i ingredients",
+        "Historial clar per seguir tendències"
+      ],
+      "sections": [
+        [
+          "Per què és útil",
+          "Redueix el temps de cerca manual i converteix cada àpat en una entrada editable del diari."
+        ],
+        [
+          "Què cal revisar",
+          "Les racions, els olis, les salses, les begudes i els ingredients ocults poden canviar molt el resultat."
+        ],
+        [
+          "Com treure’n més profit",
+          "Fes servir la foto o el codi de barres com a punt de partida i ajusta el registre abans de desar-lo."
+        ]
+      ],
+      "workflowTitle": "Com utilitzar-ho en el registre diari",
+      "workflow": [
+        "Fes servir una foto o el codi de barres quan sigui útil.",
+        "Revisa la ració, les salses, les begudes i els ingredients ocults."
+      ],
+      "note": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+      "bestFor": [
+        "Registre diari ràpid",
+        "Àpats sense etiqueta",
+        "Persones que volen calories i macronutrients junts",
+        "Crear un hàbit sostenible sense massa rutina"
+      ],
+      "workflowKicker": "Enfocament pràctic",
+      "noteTitle": "A tenir en compte"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Estimador del pes de la ració",
+      "h1": "Estimador del pes de la ració",
+      "description": "Estimador del pes de la ració: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Funció",
+      "summary": "Aquesta funció ajuda a registrar el menjar amb menys fricció i a revisar les estimacions abans de desar-les.",
+      "bullets": [
+        "Registre més ràpid dels àpats",
+        "Calories i macronutrients en una sola vista",
+        "Correcció de racions, salses i ingredients",
+        "Historial clar per seguir tendències"
+      ],
+      "sections": [
+        [
+          "Per què és útil",
+          "Redueix el temps de cerca manual i converteix cada àpat en una entrada editable del diari."
+        ],
+        [
+          "Què cal revisar",
+          "Les racions, els olis, les salses, les begudes i els ingredients ocults poden canviar molt el resultat."
+        ],
+        [
+          "Com treure’n més profit",
+          "Fes servir la foto o el codi de barres com a punt de partida i ajusta el registre abans de desar-lo."
+        ]
+      ],
+      "workflowTitle": "Com utilitzar-ho en el registre diari",
+      "workflow": [
+        "Fes servir una foto o el codi de barres quan sigui útil.",
+        "Revisa la ració, les salses, les begudes i els ingredients ocults."
+      ],
+      "note": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+      "bestFor": [
+        "Registre diari ràpid",
+        "Àpats sense etiqueta",
+        "Persones que volen calories i macronutrients junts",
+        "Crear un hàbit sostenible sense massa rutina"
+      ],
+      "workflowKicker": "Enfocament pràctic",
+      "noteTitle": "A tenir en compte"
+    },
+    "/progress-statistics/": {
+      "title": "Estadístiques de progrés",
+      "h1": "Estadístiques de progrés",
+      "description": "Estadístiques de progrés: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Funció",
+      "summary": "Aquesta funció ajuda a registrar el menjar amb menys fricció i a revisar les estimacions abans de desar-les.",
+      "bullets": [
+        "Registre més ràpid dels àpats",
+        "Calories i macronutrients en una sola vista",
+        "Correcció de racions, salses i ingredients",
+        "Historial clar per seguir tendències"
+      ],
+      "sections": [
+        [
+          "Per què és útil",
+          "Redueix el temps de cerca manual i converteix cada àpat en una entrada editable del diari."
+        ],
+        [
+          "Què cal revisar",
+          "Les racions, els olis, les salses, les begudes i els ingredients ocults poden canviar molt el resultat."
+        ],
+        [
+          "Com treure’n més profit",
+          "Fes servir la foto o el codi de barres com a punt de partida i ajusta el registre abans de desar-lo."
+        ]
+      ],
+      "workflowTitle": "Com utilitzar-ho en el registre diari",
+      "workflow": [
+        "Fes servir una foto o el codi de barres quan sigui útil.",
+        "Revisa la ració, les salses, les begudes i els ingredients ocults."
+      ],
+      "note": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+      "bestFor": [
+        "Registre diari ràpid",
+        "Àpats sense etiqueta",
+        "Persones que volen calories i macronutrients junts",
+        "Crear un hàbit sostenible sense massa rutina"
+      ],
+      "workflowKicker": "Enfocament pràctic",
+      "noteTitle": "A tenir en compte"
+    },
+    "/meal-reminders/": {
+      "title": "Recordatoris d’àpats",
+      "h1": "Recordatoris d’àpats",
+      "description": "Recordatoris d’àpats: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Funció",
+      "summary": "Aquesta funció ajuda a registrar el menjar amb menys fricció i a revisar les estimacions abans de desar-les.",
+      "bullets": [
+        "Registre més ràpid dels àpats",
+        "Calories i macronutrients en una sola vista",
+        "Correcció de racions, salses i ingredients",
+        "Historial clar per seguir tendències"
+      ],
+      "sections": [
+        [
+          "Per què és útil",
+          "Redueix el temps de cerca manual i converteix cada àpat en una entrada editable del diari."
+        ],
+        [
+          "Què cal revisar",
+          "Les racions, els olis, les salses, les begudes i els ingredients ocults poden canviar molt el resultat."
+        ],
+        [
+          "Com treure’n més profit",
+          "Fes servir la foto o el codi de barres com a punt de partida i ajusta el registre abans de desar-lo."
+        ]
+      ],
+      "workflowTitle": "Com utilitzar-ho en el registre diari",
+      "workflow": [
+        "Fes servir una foto o el codi de barres quan sigui útil.",
+        "Revisa la ració, les salses, les begudes i els ingredients ocults."
+      ],
+      "note": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+      "bestFor": [
+        "Registre diari ràpid",
+        "Àpats sense etiqueta",
+        "Persones que volen calories i macronutrients junts",
+        "Crear un hàbit sostenible sense massa rutina"
+      ],
+      "workflowKicker": "Enfocament pràctic",
+      "noteTitle": "A tenir en compte"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Google Health Connect",
+      "description": "Google Health Connect: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Funció",
+      "summary": "Aquesta funció ajuda a registrar el menjar amb menys fricció i a revisar les estimacions abans de desar-les.",
+      "bullets": [
+        "Registre més ràpid dels àpats",
+        "Calories i macronutrients en una sola vista",
+        "Correcció de racions, salses i ingredients",
+        "Historial clar per seguir tendències"
+      ],
+      "sections": [
+        [
+          "Per què és útil",
+          "Redueix el temps de cerca manual i converteix cada àpat en una entrada editable del diari."
+        ],
+        [
+          "Què cal revisar",
+          "Les racions, els olis, les salses, les begudes i els ingredients ocults poden canviar molt el resultat."
+        ],
+        [
+          "Com treure’n més profit",
+          "Fes servir la foto o el codi de barres com a punt de partida i ajusta el registre abans de desar-lo."
+        ]
+      ],
+      "workflowTitle": "Com utilitzar-ho en el registre diari",
+      "workflow": [
+        "Fes servir una foto o el codi de barres quan sigui útil.",
+        "Revisa la ració, les salses, les begudes i els ingredients ocults."
+      ],
+      "note": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+      "bestFor": [
+        "Registre diari ràpid",
+        "Àpats sense etiqueta",
+        "Persones que volen calories i macronutrients junts",
+        "Crear un hàbit sostenible sense massa rutina"
+      ],
+      "workflowKicker": "Enfocament pràctic",
+      "noteTitle": "A tenir en compte"
+    },
+    "/data-export/": {
+      "title": "Exportació de dades",
+      "h1": "Exportació de dades",
+      "description": "Exportació de dades: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Funció",
+      "summary": "Aquesta funció ajuda a registrar el menjar amb menys fricció i a revisar les estimacions abans de desar-les.",
+      "bullets": [
+        "Registre més ràpid dels àpats",
+        "Calories i macronutrients en una sola vista",
+        "Correcció de racions, salses i ingredients",
+        "Historial clar per seguir tendències"
+      ],
+      "sections": [
+        [
+          "Per què és útil",
+          "Redueix el temps de cerca manual i converteix cada àpat en una entrada editable del diari."
+        ],
+        [
+          "Què cal revisar",
+          "Les racions, els olis, les salses, les begudes i els ingredients ocults poden canviar molt el resultat."
+        ],
+        [
+          "Com treure’n més profit",
+          "Fes servir la foto o el codi de barres com a punt de partida i ajusta el registre abans de desar-lo."
+        ]
+      ],
+      "workflowTitle": "Com utilitzar-ho en el registre diari",
+      "workflow": [
+        "Fes servir una foto o el codi de barres quan sigui útil.",
+        "Revisa la ració, les salses, les begudes i els ingredients ocults."
+      ],
+      "note": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+      "bestFor": [
+        "Registre diari ràpid",
+        "Àpats sense etiqueta",
+        "Persones que volen calories i macronutrients junts",
+        "Crear un hàbit sostenible sense massa rutina"
+      ],
+      "workflowKicker": "Enfocament pràctic",
+      "noteTitle": "A tenir en compte"
+    },
+    "/use-cases/": {
+      "title": "Casos d’ús",
+      "h1": "Casos d’ús",
+      "description": "Casos d’ús: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Cas d’ús"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Comptador de calories per perdre pes",
+      "h1": "Comptador de calories per perdre pes",
+      "description": "Comptador de calories per perdre pes: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Cas d’ús",
+      "summary": "Aquest cas d’ús converteix el menjar del dia a dia en dades comprensibles sense haver de seguir regles rígides.",
+      "bullets": [
+        "Objectiu diari de calories",
+        "Proteïnes, greixos i hidrats de carboni per àpat",
+        "Estimació per foto per a plats complexos",
+        "Historial i correccions segons els teus hàbits"
+      ],
+      "sections": [
+        [
+          "Comença observant",
+          "Uns quants dies de registre poden donar més context que intentar canviar-ho tot de cop."
+        ],
+        [
+          "Revisa les racions",
+          "La mida de la ració, l’oli, les salses i les begudes sovint expliquen bona part de la diferència calòrica."
+        ],
+        [
+          "Utilitza les dades amb calma",
+          "L’objectiu no és jutjar cada desviació, sinó entendre millor els patrons alimentaris."
+        ]
+      ],
+      "workflowTitle": "Com utilitzar-ho en el registre diari",
+      "workflow": [
+        "Fes servir una foto o el codi de barres quan sigui útil.",
+        "Revisa la ració, les salses, les begudes i els ingredients ocults."
+      ],
+      "note": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+      "bestFor": [
+        "Registre diari ràpid",
+        "Àpats sense etiqueta",
+        "Persones que volen calories i macronutrients junts",
+        "Crear un hàbit sostenible sense massa rutina"
+      ],
+      "workflowKicker": "Enfocament pràctic",
+      "noteTitle": "A tenir en compte"
+    },
+    "/calorie-deficit-app/": {
+      "title": "App per al dèficit calòric",
+      "h1": "App per al dèficit calòric",
+      "description": "App per al dèficit calòric: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Cas d’ús",
+      "summary": "Aquest cas d’ús converteix el menjar del dia a dia en dades comprensibles sense haver de seguir regles rígides.",
+      "bullets": [
+        "Objectiu diari de calories",
+        "Proteïnes, greixos i hidrats de carboni per àpat",
+        "Estimació per foto per a plats complexos",
+        "Historial i correccions segons els teus hàbits"
+      ],
+      "sections": [
+        [
+          "Comença observant",
+          "Uns quants dies de registre poden donar més context que intentar canviar-ho tot de cop."
+        ],
+        [
+          "Revisa les racions",
+          "La mida de la ració, l’oli, les salses i les begudes sovint expliquen bona part de la diferència calòrica."
+        ],
+        [
+          "Utilitza les dades amb calma",
+          "L’objectiu no és jutjar cada desviació, sinó entendre millor els patrons alimentaris."
+        ]
+      ],
+      "workflowTitle": "Com utilitzar-ho en el registre diari",
+      "workflow": [
+        "Fes servir una foto o el codi de barres quan sigui útil.",
+        "Revisa la ració, les salses, les begudes i els ingredients ocults."
+      ],
+      "note": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+      "bestFor": [
+        "Registre diari ràpid",
+        "Àpats sense etiqueta",
+        "Persones que volen calories i macronutrients junts",
+        "Crear un hàbit sostenible sense massa rutina"
+      ],
+      "workflowKicker": "Enfocament pràctic",
+      "noteTitle": "A tenir en compte"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Seguiment per guanyar massa muscular",
+      "h1": "Seguiment per guanyar massa muscular",
+      "description": "Seguiment per guanyar massa muscular: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Cas d’ús",
+      "summary": "Aquest cas d’ús converteix el menjar del dia a dia en dades comprensibles sense haver de seguir regles rígides.",
+      "bullets": [
+        "Objectiu diari de calories",
+        "Proteïnes, greixos i hidrats de carboni per àpat",
+        "Estimació per foto per a plats complexos",
+        "Historial i correccions segons els teus hàbits"
+      ],
+      "sections": [
+        [
+          "Comença observant",
+          "Uns quants dies de registre poden donar més context que intentar canviar-ho tot de cop."
+        ],
+        [
+          "Revisa les racions",
+          "La mida de la ració, l’oli, les salses i les begudes sovint expliquen bona part de la diferència calòrica."
+        ],
+        [
+          "Utilitza les dades amb calma",
+          "L’objectiu no és jutjar cada desviació, sinó entendre millor els patrons alimentaris."
+        ]
+      ],
+      "workflowTitle": "Com utilitzar-ho en el registre diari",
+      "workflow": [
+        "Fes servir una foto o el codi de barres quan sigui útil.",
+        "Revisa la ració, les salses, les begudes i els ingredients ocults."
+      ],
+      "note": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+      "bestFor": [
+        "Registre diari ràpid",
+        "Àpats sense etiqueta",
+        "Persones que volen calories i macronutrients junts",
+        "Crear un hàbit sostenible sense massa rutina"
+      ],
+      "workflowKicker": "Enfocament pràctic",
+      "noteTitle": "A tenir en compte"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Seguiment per mantenir el pes",
+      "h1": "Seguiment per mantenir el pes",
+      "description": "Seguiment per mantenir el pes: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Cas d’ús",
+      "summary": "Aquest cas d’ús converteix el menjar del dia a dia en dades comprensibles sense haver de seguir regles rígides.",
+      "bullets": [
+        "Objectiu diari de calories",
+        "Proteïnes, greixos i hidrats de carboni per àpat",
+        "Estimació per foto per a plats complexos",
+        "Historial i correccions segons els teus hàbits"
+      ],
+      "sections": [
+        [
+          "Comença observant",
+          "Uns quants dies de registre poden donar més context que intentar canviar-ho tot de cop."
+        ],
+        [
+          "Revisa les racions",
+          "La mida de la ració, l’oli, les salses i les begudes sovint expliquen bona part de la diferència calòrica."
+        ],
+        [
+          "Utilitza les dades amb calma",
+          "L’objectiu no és jutjar cada desviació, sinó entendre millor els patrons alimentaris."
+        ]
+      ],
+      "workflowTitle": "Com utilitzar-ho en el registre diari",
+      "workflow": [
+        "Fes servir una foto o el codi de barres quan sigui útil.",
+        "Revisa la ració, les salses, les begudes i els ingredients ocults."
+      ],
+      "note": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+      "bestFor": [
+        "Registre diari ràpid",
+        "Àpats sense etiqueta",
+        "Persones que volen calories i macronutrients junts",
+        "Crear un hàbit sostenible sense massa rutina"
+      ],
+      "workflowKicker": "Enfocament pràctic",
+      "noteTitle": "A tenir en compte"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Comptador de calories per a menjar casolà",
+      "h1": "Comptador de calories per a menjar casolà",
+      "description": "Comptador de calories per a menjar casolà: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Cas d’ús",
+      "summary": "Aquest cas d’ús converteix el menjar del dia a dia en dades comprensibles sense haver de seguir regles rígides.",
+      "bullets": [
+        "Objectiu diari de calories",
+        "Proteïnes, greixos i hidrats de carboni per àpat",
+        "Estimació per foto per a plats complexos",
+        "Historial i correccions segons els teus hàbits"
+      ],
+      "sections": [
+        [
+          "Comença observant",
+          "Uns quants dies de registre poden donar més context que intentar canviar-ho tot de cop."
+        ],
+        [
+          "Revisa les racions",
+          "La mida de la ració, l’oli, les salses i les begudes sovint expliquen bona part de la diferència calòrica."
+        ],
+        [
+          "Utilitza les dades amb calma",
+          "L’objectiu no és jutjar cada desviació, sinó entendre millor els patrons alimentaris."
+        ]
+      ],
+      "workflowTitle": "Com utilitzar-ho en el registre diari",
+      "workflow": [
+        "Fes servir una foto o el codi de barres quan sigui útil.",
+        "Revisa la ració, les salses, les begudes i els ingredients ocults."
+      ],
+      "note": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+      "bestFor": [
+        "Registre diari ràpid",
+        "Àpats sense etiqueta",
+        "Persones que volen calories i macronutrients junts",
+        "Crear un hàbit sostenible sense massa rutina"
+      ],
+      "workflowKicker": "Enfocament pràctic",
+      "noteTitle": "A tenir en compte"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Seguiment de calories al restaurant",
+      "h1": "Seguiment de calories al restaurant",
+      "description": "Seguiment de calories al restaurant: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Cas d’ús",
+      "summary": "Aquest cas d’ús converteix el menjar del dia a dia en dades comprensibles sense haver de seguir regles rígides.",
+      "bullets": [
+        "Objectiu diari de calories",
+        "Proteïnes, greixos i hidrats de carboni per àpat",
+        "Estimació per foto per a plats complexos",
+        "Historial i correccions segons els teus hàbits"
+      ],
+      "sections": [
+        [
+          "Comença observant",
+          "Uns quants dies de registre poden donar més context que intentar canviar-ho tot de cop."
+        ],
+        [
+          "Revisa les racions",
+          "La mida de la ració, l’oli, les salses i les begudes sovint expliquen bona part de la diferència calòrica."
+        ],
+        [
+          "Utilitza les dades amb calma",
+          "L’objectiu no és jutjar cada desviació, sinó entendre millor els patrons alimentaris."
+        ]
+      ],
+      "workflowTitle": "Com utilitzar-ho en el registre diari",
+      "workflow": [
+        "Fes servir una foto o el codi de barres quan sigui útil.",
+        "Revisa la ració, les salses, les begudes i els ingredients ocults."
+      ],
+      "note": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+      "bestFor": [
+        "Registre diari ràpid",
+        "Àpats sense etiqueta",
+        "Persones que volen calories i macronutrients junts",
+        "Crear un hàbit sostenible sense massa rutina"
+      ],
+      "workflowKicker": "Enfocament pràctic",
+      "noteTitle": "A tenir en compte"
+    },
+    "/meal-tracker/": {
+      "title": "App de seguiment d’àpats",
+      "h1": "App de seguiment d’àpats",
+      "description": "App de seguiment d’àpats: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Cas d’ús",
+      "summary": "Aquest cas d’ús converteix el menjar del dia a dia en dades comprensibles sense haver de seguir regles rígides.",
+      "bullets": [
+        "Objectiu diari de calories",
+        "Proteïnes, greixos i hidrats de carboni per àpat",
+        "Estimació per foto per a plats complexos",
+        "Historial i correccions segons els teus hàbits"
+      ],
+      "sections": [
+        [
+          "Comença observant",
+          "Uns quants dies de registre poden donar més context que intentar canviar-ho tot de cop."
+        ],
+        [
+          "Revisa les racions",
+          "La mida de la ració, l’oli, les salses i les begudes sovint expliquen bona part de la diferència calòrica."
+        ],
+        [
+          "Utilitza les dades amb calma",
+          "L’objectiu no és jutjar cada desviació, sinó entendre millor els patrons alimentaris."
+        ]
+      ],
+      "workflowTitle": "Com utilitzar-ho en el registre diari",
+      "workflow": [
+        "Fes servir una foto o el codi de barres quan sigui útil.",
+        "Revisa la ració, les salses, les begudes i els ingredients ocults."
+      ],
+      "note": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+      "bestFor": [
+        "Registre diari ràpid",
+        "Àpats sense etiqueta",
+        "Persones que volen calories i macronutrients junts",
+        "Crear un hàbit sostenible sense massa rutina"
+      ],
+      "workflowKicker": "Enfocament pràctic",
+      "noteTitle": "A tenir en compte"
+    },
+    "/photo-food-journal/": {
+      "title": "Diari visual de menjar",
+      "h1": "Diari visual de menjar",
+      "description": "Diari visual de menjar: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Cas d’ús",
+      "summary": "Aquest cas d’ús converteix el menjar del dia a dia en dades comprensibles sense haver de seguir regles rígides.",
+      "bullets": [
+        "Objectiu diari de calories",
+        "Proteïnes, greixos i hidrats de carboni per àpat",
+        "Estimació per foto per a plats complexos",
+        "Historial i correccions segons els teus hàbits"
+      ],
+      "sections": [
+        [
+          "Comença observant",
+          "Uns quants dies de registre poden donar més context que intentar canviar-ho tot de cop."
+        ],
+        [
+          "Revisa les racions",
+          "La mida de la ració, l’oli, les salses i les begudes sovint expliquen bona part de la diferència calòrica."
+        ],
+        [
+          "Utilitza les dades amb calma",
+          "L’objectiu no és jutjar cada desviació, sinó entendre millor els patrons alimentaris."
+        ]
+      ],
+      "workflowTitle": "Com utilitzar-ho en el registre diari",
+      "workflow": [
+        "Fes servir una foto o el codi de barres quan sigui útil.",
+        "Revisa la ració, les salses, les begudes i els ingredients ocults."
+      ],
+      "note": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+      "bestFor": [
+        "Registre diari ràpid",
+        "Àpats sense etiqueta",
+        "Persones que volen calories i macronutrients junts",
+        "Crear un hàbit sostenible sense massa rutina"
+      ],
+      "workflowKicker": "Enfocament pràctic",
+      "noteTitle": "A tenir en compte"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Seguiment d’alimentació saludable",
+      "h1": "Seguiment d’alimentació saludable",
+      "description": "Seguiment d’alimentació saludable: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Cas d’ús",
+      "summary": "Aquest cas d’ús converteix el menjar del dia a dia en dades comprensibles sense haver de seguir regles rígides.",
+      "bullets": [
+        "Objectiu diari de calories",
+        "Proteïnes, greixos i hidrats de carboni per àpat",
+        "Estimació per foto per a plats complexos",
+        "Historial i correccions segons els teus hàbits"
+      ],
+      "sections": [
+        [
+          "Comença observant",
+          "Uns quants dies de registre poden donar més context que intentar canviar-ho tot de cop."
+        ],
+        [
+          "Revisa les racions",
+          "La mida de la ració, l’oli, les salses i les begudes sovint expliquen bona part de la diferència calòrica."
+        ],
+        [
+          "Utilitza les dades amb calma",
+          "L’objectiu no és jutjar cada desviació, sinó entendre millor els patrons alimentaris."
+        ]
+      ],
+      "workflowTitle": "Com utilitzar-ho en el registre diari",
+      "workflow": [
+        "Fes servir una foto o el codi de barres quan sigui útil.",
+        "Revisa la ració, les salses, les begudes i els ingredients ocults."
+      ],
+      "note": "Els valors nutricionals són estimacions. Les xifres reals poden variar segons la marca, la recepta, la manera de cuinar i la mida de la ració.",
+      "bestFor": [
+        "Registre diari ràpid",
+        "Àpats sense etiqueta",
+        "Persones que volen calories i macronutrients junts",
+        "Crear un hàbit sostenible sense massa rutina"
+      ],
+      "workflowKicker": "Enfocament pràctic",
+      "noteTitle": "A tenir en compte"
+    },
+    "/blog/": {
+      "title": "Guies sobre calories i seguiment nutricional amb IA",
+      "h1": "Guies sobre calories i seguiment nutricional amb IA",
+      "description": "Guies sobre calories i seguiment nutricional amb IA: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Guia"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Com comptar calories a partir d’una foto",
+      "h1": "Com comptar calories a partir d’una foto",
+      "description": "Com comptar calories a partir d’una foto: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "category": "Guia",
+      "readTime": "4 min de lectura",
+      "intro": "Com comptar calories a partir d’una foto: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "sections": [
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ],
+        [
+          "Afegeix context",
+          "La marca, la recepta, la cocció i els olis ocults poden canviar molt els valors nutricionals."
+        ],
+        [
+          "Mira les tendències",
+          "Un sol registre no explica tota la història. Els patrons setmanals solen ser més útils."
+        ],
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ]
+      ],
+      "takeaway": "La millor estimació és la que pots revisar: foto, comprovació de la ració i correcció abans de desar."
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Quina precisió tenen els comptadors de calories amb IA",
+      "h1": "Quina precisió tenen els comptadors de calories amb IA",
+      "description": "Quina precisió tenen els comptadors de calories amb IA: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "category": "Guia",
+      "readTime": "4 min de lectura",
+      "intro": "Quina precisió tenen els comptadors de calories amb IA: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "sections": [
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ],
+        [
+          "Afegeix context",
+          "La marca, la recepta, la cocció i els olis ocults poden canviar molt els valors nutricionals."
+        ],
+        [
+          "Mira les tendències",
+          "Un sol registre no explica tota la història. Els patrons setmanals solen ser més útils."
+        ],
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ]
+      ],
+      "takeaway": "La millor estimació és la que pots revisar: foto, comprovació de la ració i correcció abans de desar."
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "Comptador de calories amb IA o registre manual",
+      "h1": "Comptador de calories amb IA o registre manual",
+      "description": "Comptador de calories amb IA o registre manual: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "category": "Guia",
+      "readTime": "4 min de lectura",
+      "intro": "Comptador de calories amb IA o registre manual: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "sections": [
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ],
+        [
+          "Afegeix context",
+          "La marca, la recepta, la cocció i els olis ocults poden canviar molt els valors nutricionals."
+        ],
+        [
+          "Mira les tendències",
+          "Un sol registre no explica tota la història. Els patrons setmanals solen ser més útils."
+        ],
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ]
+      ],
+      "takeaway": "La millor estimació és la que pots revisar: foto, comprovació de la ració i correcció abans de desar."
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Com funciona un escàner de calories d’aliments",
+      "h1": "Com funciona un escàner de calories d’aliments",
+      "description": "Com funciona un escàner de calories d’aliments: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "category": "Guia",
+      "readTime": "4 min de lectura",
+      "intro": "Com funciona un escàner de calories d’aliments: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "sections": [
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ],
+        [
+          "Afegeix context",
+          "La marca, la recepta, la cocció i els olis ocults poden canviar molt els valors nutricionals."
+        ],
+        [
+          "Mira les tendències",
+          "Un sol registre no explica tota la història. Els patrons setmanals solen ser més útils."
+        ],
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ]
+      ],
+      "takeaway": "La millor estimació és la que pots revisar: foto, comprovació de la ració i correcció abans de desar."
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Com seguir macronutrients si comences de zero",
+      "h1": "Com seguir macronutrients si comences de zero",
+      "description": "Com seguir macronutrients si comences de zero: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "category": "Guia",
+      "readTime": "4 min de lectura",
+      "intro": "Com seguir macronutrients si comences de zero: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "sections": [
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ],
+        [
+          "Afegeix context",
+          "La marca, la recepta, la cocció i els olis ocults poden canviar molt els valors nutricionals."
+        ],
+        [
+          "Mira les tendències",
+          "Un sol registre no explica tota la història. Els patrons setmanals solen ser més útils."
+        ],
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ]
+      ],
+      "takeaway": "La millor estimació és la que pots revisar: foto, comprovació de la ració i correcció abans de desar."
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Calories o macronutrients: què cal mirar",
+      "h1": "Calories o macronutrients: què cal mirar",
+      "description": "Calories o macronutrients: què cal mirar: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "category": "Guia",
+      "readTime": "4 min de lectura",
+      "intro": "Calories o macronutrients: què cal mirar: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "sections": [
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ],
+        [
+          "Afegeix context",
+          "La marca, la recepta, la cocció i els olis ocults poden canviar molt els valors nutricionals."
+        ],
+        [
+          "Mira les tendències",
+          "Un sol registre no explica tota la història. Els patrons setmanals solen ser més útils."
+        ],
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ]
+      ],
+      "takeaway": "La millor estimació és la que pots revisar: foto, comprovació de la ració i correcció abans de desar."
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Com comptar calories en menjar casolà",
+      "h1": "Com comptar calories en menjar casolà",
+      "description": "Com comptar calories en menjar casolà: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "category": "Guia",
+      "readTime": "4 min de lectura",
+      "intro": "Com comptar calories en menjar casolà: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "sections": [
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ],
+        [
+          "Afegeix context",
+          "La marca, la recepta, la cocció i els olis ocults poden canviar molt els valors nutricionals."
+        ],
+        [
+          "Mira les tendències",
+          "Un sol registre no explica tota la història. Els patrons setmanals solen ser més útils."
+        ],
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ]
+      ],
+      "takeaway": "La millor estimació és la que pots revisar: foto, comprovació de la ració i correcció abans de desar."
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Com estimar la mida de la ració",
+      "h1": "Com estimar la mida de la ració",
+      "description": "Com estimar la mida de la ració: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "category": "Guia",
+      "readTime": "4 min de lectura",
+      "intro": "Com estimar la mida de la ració: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "sections": [
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ],
+        [
+          "Afegeix context",
+          "La marca, la recepta, la cocció i els olis ocults poden canviar molt els valors nutricionals."
+        ],
+        [
+          "Mira les tendències",
+          "Un sol registre no explica tota la història. Els patrons setmanals solen ser més útils."
+        ],
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ]
+      ],
+      "takeaway": "La millor estimació és la que pots revisar: foto, comprovació de la ració i correcció abans de desar."
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Quantes calories hauria de menjar al dia",
+      "h1": "Quantes calories hauria de menjar al dia",
+      "description": "Quantes calories hauria de menjar al dia: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "category": "Guia",
+      "readTime": "4 min de lectura",
+      "intro": "Quantes calories hauria de menjar al dia: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "sections": [
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ],
+        [
+          "Afegeix context",
+          "La marca, la recepta, la cocció i els olis ocults poden canviar molt els valors nutricionals."
+        ],
+        [
+          "Mira les tendències",
+          "Un sol registre no explica tota la història. Els patrons setmanals solen ser més útils."
+        ],
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ]
+      ],
+      "takeaway": "La millor estimació és la que pots revisar: foto, comprovació de la ració i correcció abans de desar."
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Què és un dèficit calòric",
+      "h1": "Què és un dèficit calòric",
+      "description": "Què és un dèficit calòric: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "category": "Guia",
+      "readTime": "4 min de lectura",
+      "intro": "Què és un dèficit calòric: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "sections": [
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ],
+        [
+          "Afegeix context",
+          "La marca, la recepta, la cocció i els olis ocults poden canviar molt els valors nutricionals."
+        ],
+        [
+          "Mira les tendències",
+          "Un sol registre no explica tota la història. Els patrons setmanals solen ser més útils."
+        ],
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ]
+      ],
+      "takeaway": "La millor estimació és la que pots revisar: foto, comprovació de la ració i correcció abans de desar."
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Errors habituals en comptar calories",
+      "h1": "Errors habituals en comptar calories",
+      "description": "Errors habituals en comptar calories: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "category": "Guia",
+      "readTime": "4 min de lectura",
+      "intro": "Errors habituals en comptar calories: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "sections": [
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ],
+        [
+          "Afegeix context",
+          "La marca, la recepta, la cocció i els olis ocults poden canviar molt els valors nutricionals."
+        ],
+        [
+          "Mira les tendències",
+          "Un sol registre no explica tota la història. Els patrons setmanals solen ser més útils."
+        ],
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ]
+      ],
+      "takeaway": "La millor estimació és la que pots revisar: foto, comprovació de la ració i correcció abans de desar."
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Com registrar menjar de restaurant",
+      "h1": "Com registrar menjar de restaurant",
+      "description": "Com registrar menjar de restaurant: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "category": "Guia",
+      "readTime": "4 min de lectura",
+      "intro": "Com registrar menjar de restaurant: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "sections": [
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ],
+        [
+          "Afegeix context",
+          "La marca, la recepta, la cocció i els olis ocults poden canviar molt els valors nutricionals."
+        ],
+        [
+          "Mira les tendències",
+          "Un sol registre no explica tota la història. Els patrons setmanals solen ser més útils."
+        ],
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ]
+      ],
+      "takeaway": "La millor estimació és la que pots revisar: foto, comprovació de la ració i correcció abans de desar."
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Com seguir la proteïna diària",
+      "h1": "Com seguir la proteïna diària",
+      "description": "Com seguir la proteïna diària: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "category": "Guia",
+      "readTime": "4 min de lectura",
+      "intro": "Com seguir la proteïna diària: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "sections": [
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ],
+        [
+          "Afegeix context",
+          "La marca, la recepta, la cocció i els olis ocults poden canviar molt els valors nutricionals."
+        ],
+        [
+          "Mira les tendències",
+          "Un sol registre no explica tota la història. Els patrons setmanals solen ser més útils."
+        ],
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ]
+      ],
+      "takeaway": "La millor estimació és la que pots revisar: foto, comprovació de la ració i correcció abans de desar."
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Què és un diari alimentari",
+      "h1": "Què és un diari alimentari",
+      "description": "Què és un diari alimentari: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "category": "Guia",
+      "readTime": "4 min de lectura",
+      "intro": "Què és un diari alimentari: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "sections": [
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ],
+        [
+          "Afegeix context",
+          "La marca, la recepta, la cocció i els olis ocults poden canviar molt els valors nutricionals."
+        ],
+        [
+          "Mira les tendències",
+          "Un sol registre no explica tota la història. Els patrons setmanals solen ser més útils."
+        ],
+        [
+          "Comença de manera simple",
+          "La foto és un bon punt de partida, sobretot en plats mixtos, menjar casolà i àpats sense etiqueta."
+        ]
+      ],
+      "takeaway": "La millor estimació és la que pots revisar: foto, comprovació de la ració i correcció abans de desar."
+    },
+    "/download/": {
+      "title": "Baixa Calorie Counter AI",
+      "h1": "Baixa Calorie Counter AI",
+      "description": "Baixa Calorie Counter AI: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Informació"
+    },
+    "/faq/": {
+      "title": "Preguntes freqüents",
+      "h1": "Preguntes freqüents",
+      "description": "Preguntes freqüents: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Informació"
+    },
+    "/pricing/": {
+      "title": "Preus",
+      "h1": "Preus",
+      "description": "Informació sobre l’accés gratuït, les opcions premium i on veure el preu actual abans de comprar.",
+      "kicker": "Preus"
+    },
+    "/support/": {
+      "title": "Suport",
+      "h1": "Suport",
+      "description": "Com obtenir ajuda amb l’app, les subscripcions, els registres d’àpats i els problemes tècnics.",
+      "kicker": "Suport"
+    },
+    "/contact/": {
+      "title": "Contacte",
+      "h1": "Contacte",
+      "description": "Contacte per a suport, col·laboracions, premsa o comentaris sobre Calorie Counter AI.",
+      "kicker": "Contacte"
+    },
+    "/privacy-policy/": {
+      "title": "Política de privacitat",
+      "h1": "Política de privacitat",
+      "description": "Com Calorie Counter AI tracta les dades del diari alimentari, les fotos, les preferències i els permisos del dispositiu.",
+      "kicker": "Privacitat"
+    },
+    "/terms/": {
+      "title": "Condicions d’ús",
+      "h1": "Condicions d’ús",
+      "description": "Condicions bàsiques per utilitzar Calorie Counter AI i entendre els límits de les estimacions nutricionals.",
+      "kicker": "Condicions"
+    },
+    "/health-disclaimer/": {
+      "title": "Avís de salut",
+      "h1": "Avís de salut",
+      "description": "Informació important sobre l’ús de les estimacions de calories i macronutrients amb finalitat informativa.",
+      "kicker": "Avís de salut"
+    },
+    "/delete-account/": {
+      "title": "Eliminació del compte",
+      "h1": "Eliminació del compte",
+      "description": "Com sol·licitar l’eliminació del compte o de les dades associades a Calorie Counter AI.",
+      "kicker": "Compte i dades"
+    },
+    "/press/": {
+      "title": "Premsa",
+      "h1": "Premsa",
+      "description": "Descripció breu, recursos visuals i informació bàsica per parlar de Calorie Counter AI.",
+      "kicker": "Premsa"
+    },
+    "/how-many-calories-in/": {
+      "title": "Quantes calories tenen els aliments",
+      "h1": "Quantes calories tenen els aliments",
+      "description": "Quantes calories tenen els aliments: informació pràctica sobre calories, macronutrients, racions i registre alimentari amb Calorie Counter AI.",
+      "kicker": "Informació"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Preferències de cookies",
+    "text": "Fem servir cookies essencials i localStorage per recordar l’idioma i les preferències de cookies. Si hi dones el consentiment, també fem servir cookies d’analítica per millorar el lloc web.",
+    "accept": "Accepta",
+    "decline": "Rebutja l’analítica"
+  }
+}

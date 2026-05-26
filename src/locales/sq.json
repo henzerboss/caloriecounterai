@@ -1,0 +1,2619 @@
+{
+  "localeName": "Shqip",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "Numërues kalorish me AI nga fotoja"
+  },
+  "nav": {
+    "features": "Veçoritë",
+    "useCases": "Përdorimet",
+    "blog": "Udhëzues",
+    "faq": "FAQ",
+    "download": "Shkarko",
+    "language": "Gjuha",
+    "openMenu": "Hap menunë",
+    "caloriesInFoods": "Kalori në ushqime",
+    "all": "Të gjitha",
+    "allFeatures": "Të gjitha veçoritë",
+    "allUseCases": "Të gjitha përdorimet",
+    "allLearn": "Të gjithë udhëzuesit",
+    "openHub": "Hap seksionin →",
+    "home": "Kreu"
+  },
+  "cta": {
+    "appStore": "Shkarko në App Store",
+    "googlePlay": "Merre në Google Play",
+    "downloadNow": "Shkarko tani",
+    "tryFree": "Provoje falas",
+    "learnMore": "Mëso më shumë",
+    "learnMoreArrow": "Mëso më shumë →",
+    "readGuide": "Lexo udhëzuesin"
+  },
+  "home": {
+    "title": "Aplikacion numërues kalorish me AI nga fotoja",
+    "description": "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+    "heroNote": "Fillo falas me analizë ditore të vakteve nga AI. Për iPhone dhe Android.",
+    "photoEyebrow": "Numërues kalorish me foto",
+    "photoTitle": "Numërues kalorish me foto",
+    "photoText": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+    "photoChecklist": [
+      "Kalori",
+      "Proteina",
+      "Yndyrna",
+      "Karbohidrate"
+    ],
+    "featureCards": [
+      [
+        "photo",
+        "Numërues kalorish me foto",
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor."
+      ],
+      [
+        "ai",
+        "Aplikacion numërues kalorish me AI nga fotoja",
+        "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+      ],
+      [
+        "barcode",
+        "Skaner barkodi",
+        "Skano barkodin e ushqimit të paketuar, konfirmo produktin dhe shto kaloritë e makrot në ditar brenda pak sekondash."
+      ],
+      [
+        "macro",
+        "Makro",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      [
+        "diary",
+        "Ditar ushqimor",
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor."
+      ],
+      [
+        "download",
+        "Shkarko Calorie Counter AI",
+        "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+      ]
+    ],
+    "foodPreviewTitle": "Sa kalori kanë ushqimet e zakonshme?",
+    "foodPreviewText": "Shiko udhëzues të shpejtë për kalori dhe makro për vakte, snack-e dhe pije të përditshme.",
+    "foodPreviewLink": "Hap udhëzuesin e plotë të kalorive në ushqime →",
+    "goalEyebrow": "Ushqyerje",
+    "counterTitle": "Aplikacion numërues kalorish me AI nga fotoja",
+    "counterText": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+    "goalPills": [
+      "Humbje peshe",
+      "Ruajtje peshe",
+      "Shtim muskujsh",
+      "Ditë të ngarkuara"
+    ],
+    "magicEyebrow": "Veçoritë",
+    "magicTitle": "Regjistro ushqimin në tre hapa të shpejtë",
+    "magicText": "Bëj foto, kontrollo vlerësimin dhe ruaj vaktin. Më pak shkrim, zakon më i lehtë.",
+    "magicSteps": [
+      "Bëj foto",
+      "Kontrollo",
+      "Ruaj"
+    ],
+    "barcodeEyebrow": "Skaner barkodi",
+    "barcodeTitle": "Skaner barkodi",
+    "barcodeText": "Skano barkodin e ushqimit të paketuar, konfirmo produktin dhe shto kaloritë e makrot në ditar brenda pak sekondash.",
+    "barcodeLink": "Skaner barkodi →",
+    "progressEyebrow": "Makro",
+    "macroTitle": "Makro",
+    "macroText": "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor.",
+    "macroLink": "Makro →",
+    "useCasesEyebrow": "Përdorimet",
+    "useCasesTitle": "Ushqyerje",
+    "useCasesText": "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Humbje peshe",
+        "Kalori"
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Ushqim shtëpie",
+        "Numërues kalorish me foto"
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Ushqim restoranti",
+        "Ditar ushqimor"
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Shtim muskujsh",
+        "Proteina"
+      ]
+    ],
+    "downloadTitle": "Shkarko Calorie Counter AI",
+    "downloadText": "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari.",
+    "faqEyebrow": "FAQ",
+    "faqTitle": "FAQ",
+    "faq": [
+      [
+        "A është Calorie Counter AI falas?",
+        "Mund të fillosh me analiza ditore falas të vakteve nga AI. Premium ndihmon kur të duhen kufij më të lartë dhe mjete shtesë."
+      ],
+      [
+        "A mund të numëroj kaloritë nga një foto?",
+        "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+      ],
+      [
+        "Sa i saktë është vlerësimi i AI-së?",
+        "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+      ],
+      [
+        "A i ndjek aplikacioni makrot?",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      [
+        "A është i disponueshëm për iPhone dhe Android?",
+        "Fillo falas me analizë ditore të vakteve nga AI. Për iPhone dhe Android."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "Aplikacion numërues kalorish me AI nga fotoja",
+    "homeOgTitle": "Aplikacion numërues kalorish me AI nga fotoja",
+    "homeDescription": "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+  },
+  "footer": {
+    "disclaimer": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+    "copyright": "© 2026 Calorie Counter AI"
+  },
+  "foodIndex": {
+    "findTitle": "Kalori në ushqime",
+    "findText": "Kalori, proteina, yndyrna dhe karbohidrate për ushqime dhe porcione të zakonshme.",
+    "categoryIntro": "Kalori në ushqime"
+  },
+  "foodPage": {
+    "eyebrow": "Kalori në ushqime",
+    "trackInApp": "Shkarko",
+    "browseFoods": "Kalori në ushqime →",
+    "typicalEstimate": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+    "caloriesMacros": "Kalori dhe makro",
+    "whenFits": "Përdorimet",
+    "whatToWatch": "Mëso më shumë",
+    "howToLog": "Ditar ushqimor",
+    "helpfulContext": "Udhëzues",
+    "faq": "FAQ",
+    "weightLossQuestion": "A është i përshtatshëm për humbje peshe?",
+    "variabilityQuestion": "Çfarë i ndryshon më shumë kaloritë?",
+    "logFasterTitle": "Numërues kalorish me foto",
+    "logFasterText": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+    "photoTrackingLink": "Numërues kalorish me foto →",
+    "macros": {
+      "protein": "Proteina",
+      "fat": "Yndyrna",
+      "carbs": "Karbohidrate"
+    },
+    "titleTemplate": "Sa kalori ka {namePrep}?",
+    "h1Template": "Sa kalori ka {namePrep}?",
+    "descriptionTemplate": "{name}: kalori, proteina, yndyrna dhe karbohidrate për porcionin “{serving}”, me këshilla praktike për regjistrim.",
+    "heroIntroTemplate": "Rreth {calories} {kcal} për porcion: {servingLower}. Përdore si pikënisje dhe përshtate sipas markës, recetës, mënyrës së gatimit dhe madhësisë së porcionit.",
+    "macroParagraphTemplate": "{name}: rreth {calories} {kcal} për porcion “{servingLower}”. Ky porcion ka rreth {protein} {gram} proteina, {fat} {gram} yndyrna dhe {carbs} {gram} karbohidrate{fiberText}.",
+    "per100Template": "Për krahasim për 100 {gram}: rreth {calories} {kcal}, {protein} {gram} proteina, {fat} {gram} yndyrna dhe {carbs} {gram} karbohidrate.",
+    "calorieLevelTemplate": "Përdore porcionin si orientim: rreth {calories} {kcal} për “{servingLower}”."
+  },
+  "foodCategories": {
+    "Fruit": "Fruta",
+    "Protein foods": "Ushqime me proteina",
+    "Fruits and fats": "Fruta dhe yndyrna",
+    "Grains and starches": "Drithëra dhe niseshte",
+    "Nuts and spreads": "Arra dhe produkte për lyerje",
+    "Breakfast foods": "Ushqime mëngjesi",
+    "Dairy": "Bulmet",
+    "Restaurant meals": "Vakte restoranti",
+    "Fast food": "Ushqim i shpejtë",
+    "Legumes and plant protein": "Bishtajore dhe proteina bimore",
+    "Desserts": "Ëmbëlsira",
+    "Snacks": "Snack-e",
+    "Drinks": "Pije",
+    "Vegetables": "Perime",
+    "Sauces and condiments": "Salca dhe erëza",
+    "Mixed dishes": "Gatime të përziera"
+  },
+  "foods": {
+    "banana": {
+      "name": "Banane",
+      "namePrep": "banane",
+      "serving": "1 porcion banane"
+    },
+    "apple": {
+      "name": "Mollë",
+      "namePrep": "mollë",
+      "serving": "1 porcion mollë"
+    },
+    "egg": {
+      "name": "Vezë",
+      "namePrep": "vezë",
+      "serving": "1 porcion vezë"
+    },
+    "avocado": {
+      "name": "Avokado",
+      "namePrep": "avokado",
+      "serving": "1 porcion avokado"
+    },
+    "chicken-breast": {
+      "name": "Gjoks pule",
+      "namePrep": "gjoks pule",
+      "serving": "1 porcion gjoks pule"
+    },
+    "salmon": {
+      "name": "Salmon",
+      "namePrep": "salmon",
+      "serving": "1 porcion salmon"
+    },
+    "white-rice": {
+      "name": "Oriz i bardhë",
+      "namePrep": "oriz i bardhë",
+      "serving": "1 porcion oriz i bardhë"
+    },
+    "brown-rice": {
+      "name": "Oriz integral",
+      "namePrep": "oriz integral",
+      "serving": "1 porcion oriz integral"
+    },
+    "pasta": {
+      "name": "Makarona",
+      "namePrep": "makarona",
+      "serving": "1 porcion makarona"
+    },
+    "potato": {
+      "name": "Patate",
+      "namePrep": "patate",
+      "serving": "1 porcion patate"
+    },
+    "sweet-potato": {
+      "name": "Patate e ëmbël",
+      "namePrep": "patate e ëmbël",
+      "serving": "1 porcion patate e ëmbël"
+    },
+    "bread": {
+      "name": "Bukë",
+      "namePrep": "bukë",
+      "serving": "1 porcion bukë"
+    },
+    "peanut-butter": {
+      "name": "Gjalpë kikiriku",
+      "namePrep": "gjalpë kikiriku",
+      "serving": "1 porcion gjalpë kikiriku"
+    },
+    "oatmeal": {
+      "name": "Tërshërë e gatuar",
+      "namePrep": "tërshërë e gatuar",
+      "serving": "1 porcion tërshërë e gatuar"
+    },
+    "greek-yogurt": {
+      "name": "Kos grek",
+      "namePrep": "kos grek",
+      "serving": "1 porcion kos grek"
+    },
+    "yogurt": {
+      "name": "Kos",
+      "namePrep": "kos",
+      "serving": "1 porcion kos"
+    },
+    "milk": {
+      "name": "Qumësht",
+      "namePrep": "qumësht",
+      "serving": "1 porcion qumësht"
+    },
+    "cheddar-cheese": {
+      "name": "Djathë cheddar",
+      "namePrep": "djathë cheddar",
+      "serving": "1 porcion djathë cheddar"
+    },
+    "pizza": {
+      "name": "Picë",
+      "namePrep": "picë",
+      "serving": "1 porcion picë"
+    },
+    "burger": {
+      "name": "Burger",
+      "namePrep": "burger",
+      "serving": "1 porcion burger"
+    },
+    "french-fries": {
+      "name": "Patate të skuqura",
+      "namePrep": "patate të skuqura",
+      "serving": "1 porcion patate të skuqura"
+    },
+    "sushi-roll": {
+      "name": "Rul sushi",
+      "namePrep": "rul sushi",
+      "serving": "1 porcion rul sushi"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "taco",
+      "serving": "1 porcion taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "burrito",
+      "serving": "1 porcion burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Nuggets pule",
+      "namePrep": "nuggets pule",
+      "serving": "1 porcion nuggets pule"
+    },
+    "hot-dog": {
+      "name": "Hot dog",
+      "namePrep": "hot dog",
+      "serving": "1 porcion hot dog"
+    },
+    "steak": {
+      "name": "Biftek",
+      "namePrep": "biftek",
+      "serving": "1 porcion biftek"
+    },
+    "bacon": {
+      "name": "Proshutë e tymosur",
+      "namePrep": "proshutë e tymosur",
+      "serving": "1 porcion proshutë e tymosur"
+    },
+    "tuna": {
+      "name": "Ton",
+      "namePrep": "ton",
+      "serving": "1 porcion ton"
+    },
+    "shrimp": {
+      "name": "Karkaleca",
+      "namePrep": "karkaleca",
+      "serving": "1 porcion karkaleca"
+    },
+    "tofu": {
+      "name": "Tofu",
+      "namePrep": "tofu",
+      "serving": "1 porcion tofu"
+    },
+    "lentils": {
+      "name": "Thjerrëza",
+      "namePrep": "thjerrëza",
+      "serving": "1 porcion thjerrëza"
+    },
+    "black-beans": {
+      "name": "Fasule të zeza",
+      "namePrep": "fasule të zeza",
+      "serving": "1 porcion fasule të zeza"
+    },
+    "chickpeas": {
+      "name": "Qiqra",
+      "namePrep": "qiqra",
+      "serving": "1 porcion qiqra"
+    },
+    "hummus": {
+      "name": "Hummus",
+      "namePrep": "hummus",
+      "serving": "1 porcion hummus"
+    },
+    "quinoa": {
+      "name": "Quinoa",
+      "namePrep": "quinoa",
+      "serving": "1 porcion quinoa"
+    },
+    "tortilla": {
+      "name": "Tortilla",
+      "namePrep": "tortilla",
+      "serving": "1 porcion tortilla"
+    },
+    "bagel": {
+      "name": "Bagel",
+      "namePrep": "bagel",
+      "serving": "1 porcion bagel"
+    },
+    "croissant": {
+      "name": "Croissant",
+      "namePrep": "croissant",
+      "serving": "1 porcion croissant"
+    },
+    "pancake": {
+      "name": "Pancakes",
+      "namePrep": "pancakes",
+      "serving": "1 porcion pancakes"
+    },
+    "waffle": {
+      "name": "Waffle",
+      "namePrep": "waffle",
+      "serving": "1 porcion waffle"
+    },
+    "cereal": {
+      "name": "Drithëra mëngjesi",
+      "namePrep": "drithëra mëngjesi",
+      "serving": "1 porcion drithëra mëngjesi"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granola",
+      "serving": "1 porcion granola"
+    },
+    "almonds": {
+      "name": "Bajame",
+      "namePrep": "bajame",
+      "serving": "1 porcion bajame"
+    },
+    "walnuts": {
+      "name": "Arra",
+      "namePrep": "arra",
+      "serving": "1 porcion arra"
+    },
+    "cashews": {
+      "name": "Arrat cashew",
+      "namePrep": "arrat cashew",
+      "serving": "1 porcion arrat cashew"
+    },
+    "chocolate": {
+      "name": "Çokollatë",
+      "namePrep": "çokollatë",
+      "serving": "1 porcion çokollatë"
+    },
+    "ice-cream": {
+      "name": "Akullore",
+      "namePrep": "akullore",
+      "serving": "1 porcion akullore"
+    },
+    "cookie": {
+      "name": "Biskotë me copa çokollate",
+      "namePrep": "biskotë me copa çokollate",
+      "serving": "1 porcion biskotë me copa çokollate"
+    },
+    "donut": {
+      "name": "Donut me glazurë",
+      "namePrep": "donut me glazurë",
+      "serving": "1 porcion donut me glazurë"
+    },
+    "muffin": {
+      "name": "Muffin me boronica",
+      "namePrep": "muffin me boronica",
+      "serving": "1 porcion muffin me boronica"
+    },
+    "cake": {
+      "name": "Tortë",
+      "namePrep": "tortë",
+      "serving": "1 porcion tortë"
+    },
+    "brownie": {
+      "name": "Brownie",
+      "namePrep": "brownie",
+      "serving": "1 porcion brownie"
+    },
+    "popcorn": {
+      "name": "Kokoshka",
+      "namePrep": "kokoshka",
+      "serving": "1 porcion kokoshka"
+    },
+    "potato-chips": {
+      "name": "Patatina",
+      "namePrep": "patatina",
+      "serving": "1 porcion patatina"
+    },
+    "pretzels": {
+      "name": "Pretzels",
+      "namePrep": "pretzels",
+      "serving": "1 porcion pretzels"
+    },
+    "smoothie": {
+      "name": "Smoothie frutash",
+      "namePrep": "smoothie frutash",
+      "serving": "1 porcion smoothie frutash"
+    },
+    "orange-juice": {
+      "name": "Lëng portokalli",
+      "namePrep": "lëng portokalli",
+      "serving": "1 porcion lëng portokalli"
+    },
+    "soda": {
+      "name": "Pije e gazuar",
+      "namePrep": "pije e gazuar",
+      "serving": "1 porcion pije e gazuar"
+    },
+    "latte": {
+      "name": "Latte",
+      "namePrep": "latte",
+      "serving": "1 porcion latte"
+    },
+    "protein-shake": {
+      "name": "Shkundje proteinike",
+      "namePrep": "shkundje proteinike",
+      "serving": "1 porcion shkundje proteinike"
+    },
+    "spaghetti-bolognese": {
+      "name": "Spaghetti bolognese",
+      "namePrep": "spaghetti bolognese",
+      "serving": "1 porcion spaghetti bolognese"
+    },
+    "ramen": {
+      "name": "Ramen",
+      "namePrep": "ramen",
+      "serving": "1 porcion ramen"
+    },
+    "pho": {
+      "name": "Pho",
+      "namePrep": "pho",
+      "serving": "1 porcion pho"
+    },
+    "chicken-soup": {
+      "name": "Supë pule",
+      "namePrep": "supë pule",
+      "serving": "1 porcion supë pule"
+    },
+    "caesar-salad": {
+      "name": "Sallatë Cezar",
+      "namePrep": "sallatë Cezar",
+      "serving": "1 porcion sallatë Cezar"
+    },
+    "green-salad": {
+      "name": "Sallatë jeshile",
+      "namePrep": "sallatë jeshile",
+      "serving": "1 porcion sallatë jeshile"
+    },
+    "broccoli": {
+      "name": "Brokoli",
+      "namePrep": "brokoli",
+      "serving": "1 porcion brokoli"
+    },
+    "spinach": {
+      "name": "Spinaq",
+      "namePrep": "spinaq",
+      "serving": "1 porcion spinaq"
+    },
+    "carrots": {
+      "name": "Karota",
+      "namePrep": "karota",
+      "serving": "1 porcion karota"
+    },
+    "corn": {
+      "name": "Misër",
+      "namePrep": "misër",
+      "serving": "1 porcion misër"
+    },
+    "tomato": {
+      "name": "Domate",
+      "namePrep": "domate",
+      "serving": "1 porcion domate"
+    },
+    "cucumber": {
+      "name": "Kastravec",
+      "namePrep": "kastravec",
+      "serving": "1 porcion kastravec"
+    },
+    "cheesecake": {
+      "name": "Cheesecake",
+      "namePrep": "cheesecake",
+      "serving": "1 porcion cheesecake"
+    },
+    "lasagna": {
+      "name": "Lazanja",
+      "namePrep": "lazanja",
+      "serving": "1 porcion lazanja"
+    },
+    "grilled-cheese": {
+      "name": "Sanduiç me djathë të pjekur",
+      "namePrep": "sanduiç me djathë të pjekur",
+      "serving": "1 porcion sanduiç me djathë të pjekur"
+    },
+    "peanut-butter-jelly": {
+      "name": "Sanduiç me gjalpë kikiriku dhe reçel",
+      "namePrep": "sanduiç me gjalpë kikiriku dhe reçel",
+      "serving": "1 porcion sanduiç me gjalpë kikiriku dhe reçel"
+    },
+    "omelette": {
+      "name": "Omëletë",
+      "namePrep": "omëletë",
+      "serving": "1 porcion omëletë"
+    },
+    "fried-egg": {
+      "name": "Vezë e skuqur",
+      "namePrep": "vezë e skuqur",
+      "serving": "1 porcion vezë e skuqur"
+    },
+    "boiled-egg": {
+      "name": "Vezë e zier",
+      "namePrep": "vezë e zier",
+      "serving": "1 porcion vezë e zier"
+    },
+    "toast": {
+      "name": "Bukë e thekur",
+      "namePrep": "bukë e thekur",
+      "serving": "1 porcion bukë e thekur"
+    },
+    "avocado-toast": {
+      "name": "Bukë e thekur me avokado",
+      "namePrep": "bukë e thekur me avokado",
+      "serving": "1 porcion bukë e thekur me avokado"
+    },
+    "chicken-salad": {
+      "name": "Sallatë pule",
+      "namePrep": "sallatë pule",
+      "serving": "1 porcion sallatë pule"
+    },
+    "tuna-salad": {
+      "name": "Sallatë toni",
+      "namePrep": "sallatë toni",
+      "serving": "1 porcion sallatë toni"
+    },
+    "egg-salad": {
+      "name": "Sallatë me vezë",
+      "namePrep": "sallatë me vezë",
+      "serving": "1 porcion sallatë me vezë"
+    },
+    "cottage-cheese": {
+      "name": "Gjizë",
+      "namePrep": "gjizë",
+      "serving": "1 porcion gjizë"
+    },
+    "cream-cheese": {
+      "name": "Djathë krem",
+      "namePrep": "djathë krem",
+      "serving": "1 porcion djathë krem"
+    },
+    "butter": {
+      "name": "Gjalpë",
+      "namePrep": "gjalpë",
+      "serving": "1 porcion gjalpë"
+    },
+    "olive-oil": {
+      "name": "Vaj ulliri",
+      "namePrep": "vaj ulliri",
+      "serving": "1 porcion vaj ulliri"
+    },
+    "mayonnaise": {
+      "name": "Majonezë",
+      "namePrep": "majonezë",
+      "serving": "1 porcion majonezë"
+    },
+    "ketchup": {
+      "name": "Ketchup",
+      "namePrep": "ketchup",
+      "serving": "1 porcion ketchup"
+    },
+    "honey": {
+      "name": "Mjaltë",
+      "namePrep": "mjaltë",
+      "serving": "1 porcion mjaltë"
+    },
+    "jam": {
+      "name": "Reçel",
+      "namePrep": "reçel",
+      "serving": "1 porcion reçel"
+    },
+    "protein-bar": {
+      "name": "Shufër proteinike",
+      "namePrep": "shufër proteinike",
+      "serving": "1 porcion shufër proteinike"
+    },
+    "energy-drink": {
+      "name": "Pije energjike",
+      "namePrep": "pije energjike",
+      "serving": "1 porcion pije energjike"
+    },
+    "matcha-latte": {
+      "name": "Matcha latte",
+      "namePrep": "matcha latte",
+      "serving": "1 porcion matcha latte"
+    },
+    "trail-mix": {
+      "name": "Përzierje arrash dhe frutash të thata",
+      "namePrep": "përzierje arrash dhe frutash të thata",
+      "serving": "1 porcion përzierje arrash dhe frutash të thata"
+    },
+    "blueberries": {
+      "name": "Boronica",
+      "namePrep": "boronica",
+      "serving": "1 porcion boronica"
+    },
+    "strawberries": {
+      "name": "Luleshtrydhe",
+      "namePrep": "luleshtrydhe",
+      "serving": "1 porcion luleshtrydhe"
+    },
+    "grapes": {
+      "name": "Rrush",
+      "namePrep": "rrush",
+      "serving": "1 porcion rrush"
+    },
+    "orange": {
+      "name": "Portokall",
+      "namePrep": "portokall",
+      "serving": "1 porcion portokall"
+    },
+    "pear": {
+      "name": "Dardhë",
+      "namePrep": "dardhë",
+      "serving": "1 porcion dardhë"
+    },
+    "peach": {
+      "name": "Pjeshkë",
+      "namePrep": "pjeshkë",
+      "serving": "1 porcion pjeshkë"
+    },
+    "watermelon": {
+      "name": "Shalqi",
+      "namePrep": "shalqi",
+      "serving": "1 porcion shalqi"
+    },
+    "pineapple": {
+      "name": "Ananas",
+      "namePrep": "ananas",
+      "serving": "1 porcion ananas"
+    },
+    "mango": {
+      "name": "Mango",
+      "namePrep": "mango",
+      "serving": "1 porcion mango"
+    },
+    "kiwi": {
+      "name": "Kivi",
+      "namePrep": "kivi",
+      "serving": "1 porcion kivi"
+    },
+    "raspberries": {
+      "name": "Mjedra",
+      "namePrep": "mjedra",
+      "serving": "1 porcion mjedra"
+    },
+    "blackberries": {
+      "name": "Manaferra",
+      "namePrep": "manaferra",
+      "serving": "1 porcion manaferra"
+    },
+    "cherries": {
+      "name": "Qershi",
+      "namePrep": "qershi",
+      "serving": "1 porcion qershi"
+    },
+    "grapefruit": {
+      "name": "Grejpfrut",
+      "namePrep": "grejpfrut",
+      "serving": "1 porcion grejpfrut"
+    },
+    "lettuce": {
+      "name": "Marule",
+      "namePrep": "marule",
+      "serving": "1 porcion marule"
+    },
+    "cabbage": {
+      "name": "Lakër",
+      "namePrep": "lakër",
+      "serving": "1 porcion lakër"
+    },
+    "cauliflower": {
+      "name": "Lulelakër",
+      "namePrep": "lulelakër",
+      "serving": "1 porcion lulelakër"
+    },
+    "asparagus": {
+      "name": "Asparag",
+      "namePrep": "asparag",
+      "serving": "1 porcion asparag"
+    },
+    "zucchini": {
+      "name": "Kungulleshkë",
+      "namePrep": "kungulleshkë",
+      "serving": "1 porcion kungulleshkë"
+    },
+    "eggplant": {
+      "name": "Patëllxhan",
+      "namePrep": "patëllxhan",
+      "serving": "1 porcion patëllxhan"
+    },
+    "bell-pepper": {
+      "name": "Spec i ëmbël",
+      "namePrep": "spec i ëmbël",
+      "serving": "1 porcion spec i ëmbël"
+    },
+    "onion": {
+      "name": "Qepë",
+      "namePrep": "qepë",
+      "serving": "1 porcion qepë"
+    },
+    "mushrooms": {
+      "name": "Kërpudha",
+      "namePrep": "kërpudha",
+      "serving": "1 porcion kërpudha"
+    },
+    "green-beans": {
+      "name": "Fasule jeshile",
+      "namePrep": "fasule jeshile",
+      "serving": "1 porcion fasule jeshile"
+    },
+    "kale": {
+      "name": "Kale",
+      "namePrep": "kale",
+      "serving": "1 porcion kale"
+    },
+    "beets": {
+      "name": "Panxhar",
+      "namePrep": "panxhar",
+      "serving": "1 porcion panxhar"
+    },
+    "turkey-breast": {
+      "name": "Gjoks gjeldeti",
+      "namePrep": "gjoks gjeldeti",
+      "serving": "1 porcion gjoks gjeldeti"
+    },
+    "chicken-thigh": {
+      "name": "Kofshë pule",
+      "namePrep": "kofshë pule",
+      "serving": "1 porcion kofshë pule"
+    },
+    "pork-chop": {
+      "name": "Bërxollë derri",
+      "namePrep": "bërxollë derri",
+      "serving": "1 porcion bërxollë derri"
+    },
+    "ground-beef": {
+      "name": "Mish viçi i grirë",
+      "namePrep": "mish viçi i grirë",
+      "serving": "1 porcion mish viçi i grirë"
+    },
+    "meatballs": {
+      "name": "Qofte",
+      "namePrep": "qofte",
+      "serving": "1 porcion qofte"
+    },
+    "sausage": {
+      "name": "Salsiçe",
+      "namePrep": "salsiçe",
+      "serving": "1 porcion salsiçe"
+    },
+    "cod": {
+      "name": "Merluc",
+      "namePrep": "merluc",
+      "serving": "1 porcion merluc"
+    },
+    "tilapia": {
+      "name": "Tilapia",
+      "namePrep": "tilapia",
+      "serving": "1 porcion tilapia"
+    },
+    "sardines": {
+      "name": "Sardele",
+      "namePrep": "sardele",
+      "serving": "1 porcion sardele"
+    },
+    "crab": {
+      "name": "Gaforre",
+      "namePrep": "gaforre",
+      "serving": "1 porcion gaforre"
+    },
+    "scallops": {
+      "name": "Fistonë",
+      "namePrep": "fistonë",
+      "serving": "1 porcion fistonë"
+    },
+    "smoked-salmon": {
+      "name": "Salmon i tymosur",
+      "namePrep": "salmon i tymosur",
+      "serving": "1 porcion salmon i tymosur"
+    },
+    "skim-milk": {
+      "name": "Qumësht i skremuar",
+      "namePrep": "qumësht i skremuar",
+      "serving": "1 porcion qumësht i skremuar"
+    },
+    "soy-milk": {
+      "name": "Qumësht soje",
+      "namePrep": "qumësht soje",
+      "serving": "1 porcion qumësht soje"
+    },
+    "almond-milk": {
+      "name": "Qumësht bajameje",
+      "namePrep": "qumësht bajameje",
+      "serving": "1 porcion qumësht bajameje"
+    },
+    "oat-milk": {
+      "name": "Qumësht tërshëre",
+      "namePrep": "qumësht tërshëre",
+      "serving": "1 porcion qumësht tërshëre"
+    },
+    "kefir": {
+      "name": "Kefir",
+      "namePrep": "kefir",
+      "serving": "1 porcion kefir"
+    },
+    "sour-cream": {
+      "name": "Salcë kosi",
+      "namePrep": "salcë kosi",
+      "serving": "1 porcion salcë kosi"
+    },
+    "feta-cheese": {
+      "name": "Feta",
+      "namePrep": "feta",
+      "serving": "1 porcion feta"
+    },
+    "mozzarella": {
+      "name": "Mozzarella",
+      "namePrep": "mozzarella",
+      "serving": "1 porcion mozzarella"
+    },
+    "parmesan": {
+      "name": "Parmesan",
+      "namePrep": "parmesan",
+      "serving": "1 porcion parmesan"
+    },
+    "couscous": {
+      "name": "Couscous",
+      "namePrep": "couscous",
+      "serving": "1 porcion couscous"
+    },
+    "barley": {
+      "name": "Elb",
+      "namePrep": "elb",
+      "serving": "1 porcion elb"
+    },
+    "buckwheat": {
+      "name": "Hikërror",
+      "namePrep": "hikërror",
+      "serving": "1 porcion hikërror"
+    },
+    "bulgur": {
+      "name": "Bulgur",
+      "namePrep": "bulgur",
+      "serving": "1 porcion bulgur"
+    },
+    "naan": {
+      "name": "Naan",
+      "namePrep": "naan",
+      "serving": "1 porcion naan"
+    },
+    "pita-bread": {
+      "name": "Bukë pita",
+      "namePrep": "bukë pita",
+      "serving": "1 porcion bukë pita"
+    },
+    "english-muffin": {
+      "name": "English muffin",
+      "namePrep": "english muffin",
+      "serving": "1 porcion english muffin"
+    },
+    "rice-cake": {
+      "name": "Kek orizi",
+      "namePrep": "kek orizi",
+      "serving": "1 porcion kek orizi"
+    },
+    "crackers": {
+      "name": "Krekera",
+      "namePrep": "krekera",
+      "serving": "1 porcion krekera"
+    },
+    "mashed-potatoes": {
+      "name": "Pure patatesh",
+      "namePrep": "pure patatesh",
+      "serving": "1 porcion pure patatesh"
+    },
+    "scrambled-eggs": {
+      "name": "Vezë të rrahura",
+      "namePrep": "vezë të rrahura",
+      "serving": "1 porcion vezë të rrahura"
+    },
+    "french-toast": {
+      "name": "French toast",
+      "namePrep": "french toast",
+      "serving": "1 porcion french toast"
+    },
+    "breakfast-burrito": {
+      "name": "Burrito mëngjesi",
+      "namePrep": "burrito mëngjesi",
+      "serving": "1 porcion burrito mëngjesi"
+    },
+    "hash-browns": {
+      "name": "Hash browns",
+      "namePrep": "hash browns",
+      "serving": "1 porcion hash browns"
+    },
+    "chia-pudding": {
+      "name": "Puding chia",
+      "namePrep": "puding chia",
+      "serving": "1 porcion puding chia"
+    },
+    "overnight-oats": {
+      "name": "Tërshërë e lënë gjatë natës",
+      "namePrep": "tërshërë e lënë gjatë natës",
+      "serving": "1 porcion tërshërë e lënë gjatë natës"
+    },
+    "breakfast-sandwich": {
+      "name": "Sanduiç mëngjesi",
+      "namePrep": "sanduiç mëngjesi",
+      "serving": "1 porcion sanduiç mëngjesi"
+    },
+    "edamame": {
+      "name": "Edamame",
+      "namePrep": "edamame",
+      "serving": "1 porcion edamame"
+    },
+    "kidney-beans": {
+      "name": "Fasule të kuqe",
+      "namePrep": "fasule të kuqe",
+      "serving": "1 porcion fasule të kuqe"
+    },
+    "pinto-beans": {
+      "name": "Fasule pinto",
+      "namePrep": "fasule pinto",
+      "serving": "1 porcion fasule pinto"
+    },
+    "split-peas": {
+      "name": "Bizele të ndara",
+      "namePrep": "bizele të ndara",
+      "serving": "1 porcion bizele të ndara"
+    },
+    "baked-beans": {
+      "name": "Fasule të pjekura",
+      "namePrep": "fasule të pjekura",
+      "serving": "1 porcion fasule të pjekura"
+    },
+    "fried-rice": {
+      "name": "Oriz i skuqur",
+      "namePrep": "oriz i skuqur",
+      "serving": "1 porcion oriz i skuqur"
+    },
+    "pad-thai": {
+      "name": "Pad Thai",
+      "namePrep": "pad Thai",
+      "serving": "1 porcion pad Thai"
+    },
+    "chicken-curry": {
+      "name": "Kerri pule",
+      "namePrep": "kerri pule",
+      "serving": "1 porcion kerri pule"
+    },
+    "chicken-tikka-masala": {
+      "name": "Kuku tikka masala",
+      "namePrep": "kuku tikka masala",
+      "serving": "1 porcion kuku tikka masala"
+    },
+    "beef-chili": {
+      "name": "Chili me mish viçi",
+      "namePrep": "chili me mish viçi",
+      "serving": "1 porcion chili me mish viçi"
+    },
+    "falafel": {
+      "name": "Falafel",
+      "namePrep": "falafel",
+      "serving": "1 porcion falafel"
+    },
+    "dumplings": {
+      "name": "Dumplings",
+      "namePrep": "dumplings",
+      "serving": "1 porcion dumplings"
+    },
+    "spring-rolls": {
+      "name": "Rrotulla pranverore",
+      "namePrep": "rrotulla pranverore",
+      "serving": "1 porcion rrotulla pranverore"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "quesadilla",
+      "serving": "1 porcion quesadilla"
+    },
+    "nachos": {
+      "name": "Nachos",
+      "namePrep": "nachos",
+      "serving": "1 porcion nachos"
+    },
+    "mac-and-cheese": {
+      "name": "Makarona me djathë",
+      "namePrep": "makarona me djathë",
+      "serving": "1 porcion makarona me djathë"
+    },
+    "chicken-wings": {
+      "name": "Krahë pule",
+      "namePrep": "krahë pule",
+      "serving": "1 porcion krahë pule"
+    },
+    "fish-and-chips": {
+      "name": "Peshk me patate të skuqura",
+      "namePrep": "peshk me patate të skuqura",
+      "serving": "1 porcion peshk me patate të skuqura"
+    },
+    "risotto": {
+      "name": "Risotto",
+      "namePrep": "risotto",
+      "serving": "1 porcion risotto"
+    },
+    "tortilla-chips": {
+      "name": "Chips tortilla",
+      "namePrep": "chips tortilla",
+      "serving": "1 porcion chips tortilla"
+    },
+    "granola-bar": {
+      "name": "Shufër granola",
+      "namePrep": "shufër granola",
+      "serving": "1 porcion shufër granola"
+    },
+    "chocolate-bar": {
+      "name": "Shufër çokollate",
+      "namePrep": "shufër çokollate",
+      "serving": "1 porcion shufër çokollate"
+    },
+    "candy": {
+      "name": "Karamele",
+      "namePrep": "karamele",
+      "serving": "1 porcion karamele"
+    },
+    "cinnamon-roll": {
+      "name": "Rrotull kanelle",
+      "namePrep": "rrotull kanelle",
+      "serving": "1 porcion rrotull kanelle"
+    },
+    "marshmallows": {
+      "name": "Marshmallows",
+      "namePrep": "marshmallows",
+      "serving": "1 porcion marshmallows"
+    },
+    "fruit-snacks": {
+      "name": "Snacks frutash",
+      "namePrep": "snacks frutash",
+      "serving": "1 porcion snacks frutash"
+    },
+    "black-coffee": {
+      "name": "Kafe e zezë",
+      "namePrep": "kafe e zezë",
+      "serving": "1 porcion kafe e zezë"
+    },
+    "cappuccino": {
+      "name": "Cappuccino",
+      "namePrep": "cappuccino",
+      "serving": "1 porcion cappuccino"
+    },
+    "milk-tea": {
+      "name": "Çaj me qumësht",
+      "namePrep": "çaj me qumësht",
+      "serving": "1 porcion çaj me qumësht"
+    },
+    "bubble-tea": {
+      "name": "Bubble tea",
+      "namePrep": "bubble tea",
+      "serving": "1 porcion bubble tea"
+    },
+    "lemonade": {
+      "name": "Limonadë",
+      "namePrep": "limonadë",
+      "serving": "1 porcion limonadë"
+    },
+    "iced-tea": {
+      "name": "Çaj i ftohtë",
+      "namePrep": "çaj i ftohtë",
+      "serving": "1 porcion çaj i ftohtë"
+    },
+    "apple-juice": {
+      "name": "Lëng molle",
+      "namePrep": "lëng molle",
+      "serving": "1 porcion lëng molle"
+    },
+    "coconut-water": {
+      "name": "Ujë kokosi",
+      "namePrep": "ujë kokosi",
+      "serving": "1 porcion ujë kokosi"
+    },
+    "sports-drink": {
+      "name": "Pije sportive",
+      "namePrep": "pije sportive",
+      "serving": "1 porcion pije sportive"
+    },
+    "ranch-dressing": {
+      "name": "Salcë ranch",
+      "namePrep": "salcë ranch",
+      "serving": "1 porcion salcë ranch"
+    },
+    "bbq-sauce": {
+      "name": "Salcë BBQ",
+      "namePrep": "salcë BBQ",
+      "serving": "1 porcion salcë BBQ"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "salsa",
+      "serving": "1 porcion salsa"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "guacamole",
+      "serving": "1 porcion guacamole"
+    }
+  },
+  "utility": {
+    "pricing": "Çmimet",
+    "support": "Suport",
+    "privacy": "Privatësia",
+    "terms": "Kushtet",
+    "press": "Paketa për media",
+    "deleteExtra": "Për të kërkuar fshirjen e llogarisë ose të të dhënave, shkruaj nga emaili i lidhur me llogarinë dhe përdor “Delete account” në subjekt."
+  },
+  "store": {
+    "appStoreSmall": "App Store",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Google Play",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Veçoritë",
+    "useCase": "Përdorimet",
+    "openPage": "Mëso më shumë →",
+    "openArrow": "Mëso më shumë →",
+    "practicalWorkflow": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+    "workflowTitle": "Regjistro ushqimin në tre hapa të shpejtë",
+    "goodToKnow": "Mëso më shumë",
+    "defaultNote": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+    "relatedPages": "Përdorimet",
+    "quickTakeaway": "Mëso më shumë",
+    "defaultTakeaway": "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+    "information": "Ushqyerje",
+    "bestFor": "Më e mira për"
+  },
+  "internalCta": {
+    "title": "Kthe vaktin e radhës në një hyrje ushqimore",
+    "text": "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari.",
+    "button": "Shkarko"
+  },
+  "download": {
+    "availableTitle": "I disponueshëm për iPhone dhe Android",
+    "availableText": "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+  },
+  "faq": {
+    "items": [
+      [
+        "A është Calorie Counter AI falas?",
+        "Mund të fillosh me analiza ditore falas të vakteve nga AI. Premium ndihmon kur të duhen kufij më të lartë dhe mjete shtesë."
+      ],
+      [
+        "A mund të numëroj kaloritë nga një foto?",
+        "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+      ],
+      [
+        "A ka skaner barkodi?",
+        "Skano barkodin e ushqimit të paketuar, konfirmo produktin dhe shto kaloritë e makrot në ditar brenda pak sekondash."
+      ],
+      [
+        "A i ndjek aplikacioni makrot?",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      [
+        "A funksionon për ushqimin e shtëpisë?",
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor."
+      ],
+      [
+        "A është këshillë mjekësore?",
+        "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Mund të fillosh me analiza ditore falas të vakteve nga AI. Premium ndihmon kur të duhen kufij më të lartë dhe mjete shtesë.",
+      "Mund të fillosh me analiza ditore falas të vakteve nga AI. Premium ndihmon kur të duhen kufij më të lartë dhe mjete shtesë."
+    ],
+    "support": [
+      "Të duhet ndihmë? Kontakto suportin dhe përfshi pajisjen, platformën, versionin e aplikacionit dhe një përshkrim të shkurtër të problemit.",
+      "Të duhet ndihmë? Kontakto suportin dhe përfshi pajisjen, platformën, versionin e aplikacionit dhe një përshkrim të shkurtër të problemit."
+    ],
+    "contact": [
+      "Emaili i suportit: support@caloriecounterai.app",
+      "Për partneritete, kërkesa mediatike dhe komente, përdor një subjekt të qartë."
+    ],
+    "privacy": [
+      "Calorie Counter AI është ndërtuar për regjistrimin e ushqimit dhe ndjekjen më të ndërgjegjshme të ushqyerjes. Të dhënat mund të përfshijnë vakte, foto, cilësime dhe informacion teknik të nevojshëm për funksionimin e shërbimit.",
+      "Calorie Counter AI është ndërtuar për regjistrimin e ushqimit dhe ndjekjen më të ndërgjegjshme të ushqyerjes. Të dhënat mund të përfshijnë vakte, foto, cilësime dhe informacion teknik të nevojshëm për funksionimin e shërbimit."
+    ],
+    "terms": [
+      "Duke përdorur Calorie Counter AI, pranon ta përdorësh si mjet informues për ushqyerjen dhe të kontrollosh vlerësimet përpara se të mbështetesh tek ato.",
+      "Duke përdorur Calorie Counter AI, pranon ta përdorësh si mjet informues për ushqyerjen dhe të kontrollosh vlerësimet përpara se të mbështetesh tek ato."
+    ],
+    "disclaimer": [
+      "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+    ],
+    "delete": [
+      "Për të kërkuar fshirjen e llogarisë ose të të dhënave, shkruaj nga emaili i lidhur me llogarinë dhe përdor “Delete account” në subjekt.",
+      "Për të kërkuar fshirjen e llogarisë ose të të dhënave, shkruaj nga emaili i lidhur me llogarinë dhe përdor “Delete account” në subjekt."
+    ]
+  },
+  "press": {
+    "iconAlt": "Ikona e aplikacionit",
+    "iconTitle": "Ikona e aplikacionit",
+    "downloadIcon": "Shkarko",
+    "screenshotAlt": "Pamje ekrani e aplikacionit",
+    "screenshotTitle": "Pamje ekrani",
+    "downloadScreenshot": "Shkarko",
+    "shortDescriptionTitle": "Aplikacion numërues kalorish me AI nga fotoja",
+    "shortDescriptionText": "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+  },
+  "notFound": {
+    "title": "Faqja nuk u gjet",
+    "text": "Faqja që kërkon nuk ekziston ende.",
+    "home": "Kreu"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Veçoritë",
+      "h1": "Veçoritë",
+      "description": "Veçoritë: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Veçoritë",
+      "summary": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+      "bullets": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ]
+      ],
+      "workflowTitle": "Veçoritë",
+      "workflow": [
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      "note": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "bestFor": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "workflowKicker": "Veçoritë",
+      "noteTitle": "Mëso më shumë"
+    },
+    "/food-recognition-ai/": {
+      "title": "Numërues kalorish me foto nga AI",
+      "h1": "Numërues kalorish me foto nga AI",
+      "description": "Numërues kalorish me foto nga AI: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Numërues kalorish me foto nga AI",
+      "summary": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+      "bullets": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ]
+      ],
+      "workflowTitle": "Numërues kalorish me foto nga AI",
+      "workflow": [
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      "note": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "bestFor": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "workflowKicker": "Numërues kalorish me foto nga AI",
+      "noteTitle": "Mëso më shumë"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Skaner barkodi",
+      "h1": "Skaner barkodi",
+      "description": "Skaner barkodi: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Skaner barkodi",
+      "summary": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+      "bullets": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ]
+      ],
+      "workflowTitle": "Skaner barkodi",
+      "workflow": [
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      "note": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "bestFor": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "workflowKicker": "Skaner barkodi",
+      "noteTitle": "Mëso më shumë"
+    },
+    "/macro-tracker/": {
+      "title": "Gjurmues makrosh",
+      "h1": "Gjurmues makrosh",
+      "description": "Gjurmues makrosh: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Gjurmues makrosh",
+      "summary": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+      "bullets": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ]
+      ],
+      "workflowTitle": "Gjurmues makrosh",
+      "workflow": [
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      "note": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "bestFor": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "workflowKicker": "Gjurmues makrosh",
+      "noteTitle": "Mëso më shumë"
+    },
+    "/food-diary-app/": {
+      "title": "Aplikacion ditari ushqimor",
+      "h1": "Aplikacion ditari ushqimor",
+      "description": "Aplikacion ditari ushqimor: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Aplikacion ditari ushqimor",
+      "summary": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+      "bullets": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ]
+      ],
+      "workflowTitle": "Aplikacion ditari ushqimor",
+      "workflow": [
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      "note": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "bestFor": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "workflowKicker": "Aplikacion ditari ushqimor",
+      "noteTitle": "Mëso më shumë"
+    },
+    "/nutrition-tracker/": {
+      "title": "Gjurmues ushqyerjeje",
+      "h1": "Gjurmues ushqyerjeje",
+      "description": "Gjurmues ushqyerjeje: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Gjurmues ushqyerjeje",
+      "summary": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+      "bullets": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ]
+      ],
+      "workflowTitle": "Gjurmues ushqyerjeje",
+      "workflow": [
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      "note": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "bestFor": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "workflowKicker": "Gjurmues ushqyerjeje",
+      "noteTitle": "Mëso më shumë"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Vlerësues i peshës së vaktit",
+      "h1": "Vlerësues i peshës së vaktit",
+      "description": "Vlerësues i peshës së vaktit: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Vlerësues i peshës së vaktit",
+      "summary": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+      "bullets": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ]
+      ],
+      "workflowTitle": "Vlerësues i peshës së vaktit",
+      "workflow": [
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      "note": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "bestFor": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "workflowKicker": "Vlerësues i peshës së vaktit",
+      "noteTitle": "Mëso më shumë"
+    },
+    "/progress-statistics/": {
+      "title": "Statistika ushqyerjeje",
+      "h1": "Statistika ushqyerjeje",
+      "description": "Statistika ushqyerjeje: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Statistika ushqyerjeje",
+      "summary": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+      "bullets": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ]
+      ],
+      "workflowTitle": "Statistika ushqyerjeje",
+      "workflow": [
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      "note": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "bestFor": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "workflowKicker": "Statistika ushqyerjeje",
+      "noteTitle": "Mëso më shumë"
+    },
+    "/meal-reminders/": {
+      "title": "Kujtesa vaktesh",
+      "h1": "Kujtesa vaktesh",
+      "description": "Kujtesa vaktesh: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Kujtesa vaktesh",
+      "summary": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+      "bullets": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ]
+      ],
+      "workflowTitle": "Kujtesa vaktesh",
+      "workflow": [
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      "note": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "bestFor": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "workflowKicker": "Kujtesa vaktesh",
+      "noteTitle": "Mëso më shumë"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Google Health Connect",
+      "description": "Google Health Connect: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Google Health Connect",
+      "summary": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+      "bullets": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ]
+      ],
+      "workflowTitle": "Google Health Connect",
+      "workflow": [
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      "note": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "bestFor": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "workflowKicker": "Google Health Connect",
+      "noteTitle": "Mëso më shumë"
+    },
+    "/data-export/": {
+      "title": "Eksport të dhënash",
+      "h1": "Eksport të dhënash",
+      "description": "Eksport të dhënash: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Eksport të dhënash",
+      "summary": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+      "bullets": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ]
+      ],
+      "workflowTitle": "Eksport të dhënash",
+      "workflow": [
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      "note": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "bestFor": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "workflowKicker": "Eksport të dhënash",
+      "noteTitle": "Mëso më shumë"
+    },
+    "/use-cases/": {
+      "title": "Përdorimet",
+      "h1": "Përdorimet",
+      "description": "Përdorimet: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Përdorimet"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Numërues kalorish për humbje peshe",
+      "h1": "Numërues kalorish për humbje peshe",
+      "description": "Numërues kalorish për humbje peshe: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Numërues kalorish për humbje peshe",
+      "summary": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+      "bullets": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ]
+      ],
+      "workflowTitle": "Numërues kalorish për humbje peshe",
+      "workflow": [
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      "note": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "bestFor": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "workflowKicker": "Numërues kalorish për humbje peshe",
+      "noteTitle": "Mëso më shumë"
+    },
+    "/calorie-deficit-app/": {
+      "title": "Aplikacion për deficit kalorik",
+      "h1": "Aplikacion për deficit kalorik",
+      "description": "Aplikacion për deficit kalorik: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Aplikacion për deficit kalorik",
+      "summary": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+      "bullets": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ]
+      ],
+      "workflowTitle": "Aplikacion për deficit kalorik",
+      "workflow": [
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      "note": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "bestFor": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "workflowKicker": "Aplikacion për deficit kalorik",
+      "noteTitle": "Mëso më shumë"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Gjurmues kalorish për shtim muskujsh",
+      "h1": "Gjurmues kalorish për shtim muskujsh",
+      "description": "Gjurmues kalorish për shtim muskujsh: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Gjurmues kalorish për shtim muskujsh",
+      "summary": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+      "bullets": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ]
+      ],
+      "workflowTitle": "Gjurmues kalorish për shtim muskujsh",
+      "workflow": [
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      "note": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "bestFor": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "workflowKicker": "Gjurmues kalorish për shtim muskujsh",
+      "noteTitle": "Mëso më shumë"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Gjurmues për ruajtje peshe",
+      "h1": "Gjurmues për ruajtje peshe",
+      "description": "Gjurmues për ruajtje peshe: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Gjurmues për ruajtje peshe",
+      "summary": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+      "bullets": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ]
+      ],
+      "workflowTitle": "Gjurmues për ruajtje peshe",
+      "workflow": [
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      "note": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "bestFor": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "workflowKicker": "Gjurmues për ruajtje peshe",
+      "noteTitle": "Mëso më shumë"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Numërues kalorish për ushqim shtëpie",
+      "h1": "Numërues kalorish për ushqim shtëpie",
+      "description": "Numërues kalorish për ushqim shtëpie: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Numërues kalorish për ushqim shtëpie",
+      "summary": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+      "bullets": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ]
+      ],
+      "workflowTitle": "Numërues kalorish për ushqim shtëpie",
+      "workflow": [
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      "note": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "bestFor": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "workflowKicker": "Numërues kalorish për ushqim shtëpie",
+      "noteTitle": "Mëso më shumë"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Gjurmues kalorish për ushqim restoranti",
+      "h1": "Gjurmues kalorish për ushqim restoranti",
+      "description": "Gjurmues kalorish për ushqim restoranti: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Gjurmues kalorish për ushqim restoranti",
+      "summary": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+      "bullets": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ]
+      ],
+      "workflowTitle": "Gjurmues kalorish për ushqim restoranti",
+      "workflow": [
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      "note": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "bestFor": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "workflowKicker": "Gjurmues kalorish për ushqim restoranti",
+      "noteTitle": "Mëso më shumë"
+    },
+    "/meal-tracker/": {
+      "title": "Gjurmues vaktesh",
+      "h1": "Gjurmues vaktesh",
+      "description": "Gjurmues vaktesh: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Gjurmues vaktesh",
+      "summary": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+      "bullets": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ]
+      ],
+      "workflowTitle": "Gjurmues vaktesh",
+      "workflow": [
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      "note": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "bestFor": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "workflowKicker": "Gjurmues vaktesh",
+      "noteTitle": "Mëso më shumë"
+    },
+    "/photo-food-journal/": {
+      "title": "Ditar ushqimor me foto",
+      "h1": "Ditar ushqimor me foto",
+      "description": "Ditar ushqimor me foto: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Ditar ushqimor me foto",
+      "summary": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+      "bullets": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ]
+      ],
+      "workflowTitle": "Ditar ushqimor me foto",
+      "workflow": [
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      "note": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "bestFor": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "workflowKicker": "Ditar ushqimor me foto",
+      "noteTitle": "Mëso më shumë"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Gjurmues për ushqyerje të shëndetshme",
+      "h1": "Gjurmues për ushqyerje të shëndetshme",
+      "description": "Gjurmues për ushqyerje të shëndetshme: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Gjurmues për ushqyerje të shëndetshme",
+      "summary": "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+      "bullets": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ]
+      ],
+      "workflowTitle": "Gjurmues për ushqyerje të shëndetshme",
+      "workflow": [
+        "Nuk ke nevojë të kërkosh çdo përbërës me dorë. Bëj foto ushqimit, kontrollo vlerësimin e AI-së dhe ruaje në ditarin ushqimor.",
+        "Ndiq kaloritë, proteinat, yndyrnat dhe karbohidratet krahas objektivit tënd ditor."
+      ],
+      "note": "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike.",
+      "bestFor": [
+        "Numërues kalorish me foto",
+        "Skaner barkodi",
+        "Makro",
+        "Ditar ushqimor"
+      ],
+      "workflowKicker": "Gjurmues për ushqyerje të shëndetshme",
+      "noteTitle": "Mëso më shumë"
+    },
+    "/blog/": {
+      "title": "Udhëzues për numërim kalorish dhe regjistrim ushqimi me AI",
+      "h1": "Udhëzues për numërim kalorish dhe regjistrim ushqimi me AI",
+      "description": "Udhëzues për numërim kalorish dhe regjistrim ushqimi me AI: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Udhëzues për numërim kalorish dhe regjistrim ushqimi me AI"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Si të numërosh kaloritë nga një foto",
+      "h1": "Si të numërosh kaloritë nga një foto",
+      "description": "Si të numërosh kaloritë nga një foto: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "category": "Si të numërosh kaloritë nga një foto",
+      "readTime": "Si të numërosh kaloritë nga një foto",
+      "intro": "Si të numërosh kaloritë nga një foto",
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ],
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ]
+      ],
+      "takeaway": "Si të numërosh kaloritë nga një foto"
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Sa të saktë janë numëruesit e kalorive me AI?",
+      "h1": "Sa të saktë janë numëruesit e kalorive me AI?",
+      "description": "Sa të saktë janë numëruesit e kalorive me AI?: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "category": "Sa të saktë janë numëruesit e kalorive me AI?",
+      "readTime": "Sa të saktë janë numëruesit e kalorive me AI?",
+      "intro": "Sa të saktë janë numëruesit e kalorive me AI?",
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ],
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ]
+      ],
+      "takeaway": "Sa të saktë janë numëruesit e kalorive me AI?"
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "Regjistrimi me AI kundrejt regjistrimit manual",
+      "h1": "Regjistrimi me AI kundrejt regjistrimit manual",
+      "description": "Regjistrimi me AI kundrejt regjistrimit manual: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "category": "Regjistrimi me AI kundrejt regjistrimit manual",
+      "readTime": "Regjistrimi me AI kundrejt regjistrimit manual",
+      "intro": "Regjistrimi me AI kundrejt regjistrimit manual",
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ],
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ]
+      ],
+      "takeaway": "Regjistrimi me AI kundrejt regjistrimit manual"
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Çfarë është skaneri i ushqimit?",
+      "h1": "Çfarë është skaneri i ushqimit?",
+      "description": "Çfarë është skaneri i ushqimit?: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "category": "Çfarë është skaneri i ushqimit?",
+      "readTime": "Çfarë është skaneri i ushqimit?",
+      "intro": "Çfarë është skaneri i ushqimit?",
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ],
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ]
+      ],
+      "takeaway": "Çfarë është skaneri i ushqimit?"
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Si të ndjekësh makrot për fillestarë",
+      "h1": "Si të ndjekësh makrot për fillestarë",
+      "description": "Si të ndjekësh makrot për fillestarë: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "category": "Si të ndjekësh makrot për fillestarë",
+      "readTime": "Si të ndjekësh makrot për fillestarë",
+      "intro": "Si të ndjekësh makrot për fillestarë",
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ],
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ]
+      ],
+      "takeaway": "Si të ndjekësh makrot për fillestarë"
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Kalori kundrejt makrove",
+      "h1": "Kalori kundrejt makrove",
+      "description": "Kalori kundrejt makrove: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "category": "Kalori kundrejt makrove",
+      "readTime": "Kalori kundrejt makrove",
+      "intro": "Kalori kundrejt makrove",
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ],
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ]
+      ],
+      "takeaway": "Kalori kundrejt makrove"
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Si të numërosh kaloritë në ushqimin e shtëpisë",
+      "h1": "Si të numërosh kaloritë në ushqimin e shtëpisë",
+      "description": "Si të numërosh kaloritë në ushqimin e shtëpisë: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "category": "Si të numërosh kaloritë në ushqimin e shtëpisë",
+      "readTime": "Si të numërosh kaloritë në ushqimin e shtëpisë",
+      "intro": "Si të numërosh kaloritë në ushqimin e shtëpisë",
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ],
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ]
+      ],
+      "takeaway": "Si të numërosh kaloritë në ushqimin e shtëpisë"
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Si të vlerësosh madhësinë e porcionit",
+      "h1": "Si të vlerësosh madhësinë e porcionit",
+      "description": "Si të vlerësosh madhësinë e porcionit: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "category": "Si të vlerësosh madhësinë e porcionit",
+      "readTime": "Si të vlerësosh madhësinë e porcionit",
+      "intro": "Si të vlerësosh madhësinë e porcionit",
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ],
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ]
+      ],
+      "takeaway": "Si të vlerësosh madhësinë e porcionit"
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Sa kalori duhet të ha në ditë?",
+      "h1": "Sa kalori duhet të ha në ditë?",
+      "description": "Sa kalori duhet të ha në ditë?: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "category": "Sa kalori duhet të ha në ditë?",
+      "readTime": "Sa kalori duhet të ha në ditë?",
+      "intro": "Sa kalori duhet të ha në ditë?",
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ],
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ]
+      ],
+      "takeaway": "Sa kalori duhet të ha në ditë?"
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Çfarë është deficiti kalorik?",
+      "h1": "Çfarë është deficiti kalorik?",
+      "description": "Çfarë është deficiti kalorik?: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "category": "Çfarë është deficiti kalorik?",
+      "readTime": "Çfarë është deficiti kalorik?",
+      "intro": "Çfarë është deficiti kalorik?",
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ],
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ]
+      ],
+      "takeaway": "Çfarë është deficiti kalorik?"
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Gabime të zakonshme në numërimin e kalorive",
+      "h1": "Gabime të zakonshme në numërimin e kalorive",
+      "description": "Gabime të zakonshme në numërimin e kalorive: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "category": "Gabime të zakonshme në numërimin e kalorive",
+      "readTime": "Gabime të zakonshme në numërimin e kalorive",
+      "intro": "Gabime të zakonshme në numërimin e kalorive",
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ],
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ]
+      ],
+      "takeaway": "Gabime të zakonshme në numërimin e kalorive"
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Si të regjistrosh ushqimin e restorantit",
+      "h1": "Si të regjistrosh ushqimin e restorantit",
+      "description": "Si të regjistrosh ushqimin e restorantit: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "category": "Si të regjistrosh ushqimin e restorantit",
+      "readTime": "Si të regjistrosh ushqimin e restorantit",
+      "intro": "Si të regjistrosh ushqimin e restorantit",
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ],
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ]
+      ],
+      "takeaway": "Si të regjistrosh ushqimin e restorantit"
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Si të ndjekësh proteinat",
+      "h1": "Si të ndjekësh proteinat",
+      "description": "Si të ndjekësh proteinat: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "category": "Si të ndjekësh proteinat",
+      "readTime": "Si të ndjekësh proteinat",
+      "intro": "Si të ndjekësh proteinat",
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ],
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ]
+      ],
+      "takeaway": "Si të ndjekësh proteinat"
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Çfarë është ditari ushqimor?",
+      "h1": "Çfarë është ditari ushqimor?",
+      "description": "Çfarë është ditari ushqimor?: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "category": "Çfarë është ditari ushqimor?",
+      "readTime": "Çfarë është ditari ushqimor?",
+      "intro": "Çfarë është ditari ushqimor?",
+      "sections": [
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ],
+        [
+          "Mëso më shumë",
+          "Calorie Counter AI jep vlerësime të përafërta ushqimore vetëm për informacion dhe nuk zëvendëson këshillën mjekësore apo dietologjike."
+        ],
+        [
+          "Shkarko",
+          "Shkarko Calorie Counter AI për iPhone ose Android dhe kthe fotografinë e radhës të ushqimit në një hyrje ditari."
+        ],
+        [
+          "Veçoritë",
+          "Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit."
+        ]
+      ],
+      "takeaway": "Çfarë është ditari ushqimor?"
+    },
+    "/download/": {
+      "title": "Shkarko Calorie Counter AI",
+      "h1": "Shkarko Calorie Counter AI",
+      "description": "Shkarko Calorie Counter AI: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Shkarko Calorie Counter AI"
+    },
+    "/faq/": {
+      "title": "FAQ",
+      "h1": "FAQ",
+      "description": "FAQ: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "FAQ"
+    },
+    "/pricing/": {
+      "title": "Çmimet",
+      "h1": "Çmimet",
+      "description": "Çmimet: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Çmimet"
+    },
+    "/support/": {
+      "title": "Suport",
+      "h1": "Suport",
+      "description": "Suport: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Suport"
+    },
+    "/contact/": {
+      "title": "Kontakt",
+      "h1": "Kontakt",
+      "description": "Kontakt: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Kontakt"
+    },
+    "/privacy-policy/": {
+      "title": "Privatësia",
+      "h1": "Privatësia",
+      "description": "Privatësia: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Privatësia"
+    },
+    "/terms/": {
+      "title": "Kushtet",
+      "h1": "Kushtet",
+      "description": "Kushtet: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Kushtet"
+    },
+    "/health-disclaimer/": {
+      "title": "Deklaratë shëndetësore",
+      "h1": "Deklaratë shëndetësore",
+      "description": "Deklaratë shëndetësore: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Deklaratë shëndetësore"
+    },
+    "/delete-account/": {
+      "title": "Fshirja e llogarisë dhe e të dhënave",
+      "h1": "Fshirja e llogarisë dhe e të dhënave",
+      "description": "Fshirja e llogarisë dhe e të dhënave: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Fshirja e llogarisë dhe e të dhënave"
+    },
+    "/press/": {
+      "title": "Paketa për media",
+      "h1": "Paketa për media",
+      "description": "Paketa për media: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Paketa për media"
+    },
+    "/how-many-calories-in/": {
+      "title": "Kalori në ushqime",
+      "h1": "Kalori në ushqime",
+      "description": "Kalori në ushqime: Bëj një foto të vaktit dhe merr brenda pak sekondash një vlerësim për kaloritë, proteinat, yndyrnat, karbohidratet dhe madhësinë e porcionit.",
+      "kicker": "Kalori në ushqime"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Zgjedhjet e cookie-ve",
+    "text": "Përdorim cookie të domosdoshme dhe ruajtje lokale për të mbajtur mend gjuhën dhe zgjedhjet e cookie-ve. Nëse pranon, përdorim edhe cookie analitike për të përmirësuar faqen.",
+    "accept": "Prano",
+    "decline": "Refuzo analitikën"
+  }
+}

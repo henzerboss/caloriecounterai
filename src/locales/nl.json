@@ -1,0 +1,2619 @@
+{
+  "localeName": "Nederlands",
+  "site": {
+    "name": "Calorie Counter AI",
+    "tagline": "AI-calorieteller op basis van foto’s"
+  },
+  "nav": {
+    "features": "Functies",
+    "useCases": "Toepassingen",
+    "blog": "Gidsen",
+    "faq": "FAQ",
+    "download": "Downloaden",
+    "language": "Taal kiezen",
+    "openMenu": "Menu openen",
+    "caloriesInFoods": "Calorieën in voeding",
+    "all": "Alles",
+    "allFeatures": "Alle functies",
+    "allUseCases": "Alle toepassingen",
+    "allLearn": "Alle gidsen",
+    "openHub": "Sectie openen →",
+    "home": "Home"
+  },
+  "cta": {
+    "appStore": "Download in de App Store",
+    "googlePlay": "Download via Google Play",
+    "downloadNow": "Nu downloaden",
+    "tryFree": "Gratis proberen",
+    "learnMore": "Meer bekijken",
+    "learnMoreArrow": "Meer bekijken →",
+    "readGuide": "Gids lezen"
+  },
+  "home": {
+    "title": "Tel calorieën met AI vanaf een foto",
+    "description": "Maak een foto van je maaltijd en krijg binnen enkele seconden een bewerkbare schatting van calorieën, eiwitten, vetten, koolhydraten en portiegrootte.",
+    "heroNote": "Begin gratis met dagelijkse AI-analyses van maaltijden. Beschikbaar voor iPhone en Android.",
+    "photoEyebrow": "Belangrijkste functie",
+    "photoTitle": "Calorieën tellen vanaf een foto",
+    "photoText": "Je hoeft niet elk ingrediënt handmatig te zoeken. Maak een foto, controleer de AI-schatting en sla de maaltijd op in je voedingsdagboek.",
+    "photoChecklist": [
+      "Schat calorieën van maaltijden op basis van een foto",
+      "Bekijk eiwitten, vetten en koolhydraten",
+      "Controleer en pas het resultaat aan voordat je opslaat",
+      "Houd een visueel voedingsdagboek bij"
+    ],
+    "featureCards": [
+      [
+        "camera",
+        "Invoer via foto",
+        "Fotografeer je maaltijd, controleer de schatting en sla hem op zonder lang naar elk product te zoeken."
+      ],
+      [
+        "sparkles",
+        "AI-schatting van maaltijden",
+        "Krijg snel een richtwaarde voor calorieën, macro’s en portiegrootte wanneer je geen etiket of exact recept hebt."
+      ],
+      [
+        "shield",
+        "Elke dag gratis analyses",
+        "Probeer de belangrijkste AI-flow dagelijks en verhoog je limieten alleen als je meer nodig hebt."
+      ],
+      [
+        "barcode",
+        "Verpakte producten",
+        "Scan barcodes van yoghurt, dranken, snacks, kant-en-klaarmaaltijden en andere supermarktproducten."
+      ],
+      [
+        "macro",
+        "Macro’s altijd zichtbaar",
+        "Houd eiwitten, vetten en koolhydraten naast je dagelijkse caloriedoel in beeld."
+      ],
+      [
+        "diary",
+        "Visueel dagboek",
+        "Open elke dag, bekijk je maaltijden terug en herken terugkerende eetgewoonten."
+      ]
+    ],
+    "foodPreviewTitle": "Hoeveel calorieën zitten er in veelvoorkomende voedingsmiddelen?",
+    "foodPreviewText": "Snelle kaarten met calorieën en macro’s voor dagelijkse maaltijden, snacks en dranken.",
+    "foodPreviewLink": "Open de volledige caloriegids →",
+    "goalEyebrow": "Doel onder controle",
+    "counterTitle": "Een eenvoudige calorieteller voor elke dag",
+    "counterText": "Gebruik foto’s, barcodes, favoriete maaltijden en een duidelijk dagboek om je voeding vast te leggen zonder er een tweede baan van te maken.",
+    "goalPills": [
+      "Afvallen",
+      "Op gewicht blijven",
+      "Spieropbouw",
+      "Drukke dagen"
+    ],
+    "magicEyebrow": "Waarom het lichter voelt",
+    "magicTitle": "Leg een maaltijd vast in drie stappen",
+    "magicText": "Maak een foto, controleer de schatting en sla de invoer op. Minder handmatig werk maakt het makkelijker om je dagboek vol te houden.",
+    "magicSteps": [
+      "Foto maken",
+      "Controleren",
+      "Opslaan"
+    ],
+    "barcodeEyebrow": "Verpakte producten",
+    "barcodeTitle": "Barcodescanner voor voeding",
+    "barcodeText": "Heeft het product een barcode? Scan de verpakking, bevestig het product en voeg calorieën, eiwitten, vetten en koolhydraten binnen enkele seconden toe aan je dagboek.",
+    "barcodeLink": "Bekijk de barcodescanner →",
+    "progressEyebrow": "Voortgang die makkelijk leest",
+    "macroTitle": "Volg calorieën en macro’s",
+    "macroText": "Bekijk calorieën, eiwitten, vetten en koolhydraten op één plek en vergelijk dagen, weken en maanden.",
+    "macroLink": "Open de pagina over macro’s →",
+    "useCasesEyebrow": "Waarom Calorie Counter AI gebruiken",
+    "useCasesTitle": "Voedingsdoelen die passen bij het echte leven",
+    "useCasesText": "Of je nu wilt afvallen, op gewicht wilt blijven, spiermassa wilt opbouwen of beter wilt begrijpen wat je eet: de app zet maaltijden om in duidelijke dagelijkse feedback.",
+    "useCases": [
+      [
+        "/weight-loss-calorie-counter/",
+        "Afvallen",
+        "Zie hoeveel calorieën je nog over hebt ten opzichte van je dagelijkse richtwaarde."
+      ],
+      [
+        "/homemade-food-calorie-counter/",
+        "Zelfgemaakte maaltijden",
+        "Schat gemengde gerechten en recepten zonder voedingsetiket."
+      ],
+      [
+        "/restaurant-calorie-tracker/",
+        "Uit eten",
+        "Registreer restaurantgerechten met een snelle fotoschatting."
+      ],
+      [
+        "/muscle-gain-calorie-tracker/",
+        "Spieropbouw",
+        "Houd eiwitten en calorieën goed zichtbaar tijdens een bulkfase."
+      ]
+    ],
+    "downloadTitle": "Begin vandaag met calorieën tellen met AI",
+    "downloadText": "Download de app voor iPhone of Android en verander je volgende maaltijdfoto in een dagboekinvoer.",
+    "faqEyebrow": "FAQ",
+    "faqTitle": "Vragen voordat je downloadt?",
+    "faq": [
+      [
+        "Is Calorie Counter AI gratis?",
+        "Je kunt gratis beginnen met dagelijkse AI-analyses van maaltijden. Geavanceerde functies en hogere limieten kunnen beschikbaar zijn in de premiumversie."
+      ],
+      [
+        "Kan ik calorieën tellen vanaf een foto?",
+        "Ja. Maak een foto van je bord en de app schat calorieën, macro’s en het gewicht van zichtbare voedingsmiddelen."
+      ],
+      [
+        "Hoe nauwkeurig is de AI-calorieteller?",
+        "Het is een richtschatting. De nauwkeurigheid hangt af van fotokwaliteit, zichtbare portie, verborgen ingrediënten, sauzen en handmatige correcties."
+      ],
+      [
+        "Volgt de app macro’s?",
+        "Ja. In het dagboek zie je eiwitten, vetten en koolhydraten naast de calorieën."
+      ],
+      [
+        "Is de app beschikbaar voor iPhone en Android?",
+        "Ja. De app is beschikbaar in de App Store en op Google Play."
+      ]
+    ]
+  },
+  "seo": {
+    "homeTitle": "AI-calorieteller vanaf foto | Calorie Counter AI",
+    "homeOgTitle": "Calorieën tellen met AI vanaf een foto",
+    "homeDescription": "Tel calorieën met AI: schat calorieën, macro’s en porties vanaf een maaltijd­foto, scan barcodes en houd een voedingsdagboek bij."
+  },
+  "footer": {
+    "disclaimer": "Voedingsschattingen zijn alleen bedoeld als richtlijn en vervangen geen advies van een arts, diëtist of andere zorgprofessional.",
+    "copyright": "© 2026 Calorie Counter AI. Alle rechten voorbehouden."
+  },
+  "foodIndex": {
+    "findTitle": "Calorieën, macro’s en praktische porties",
+    "findText": "Bekijk richtwaarden voor veelvoorkomende voedingsmiddelen en tips om ze met realistische porties te registreren.",
+    "categoryIntro": "Populaire zoekopdrachten naar calorieën en macro’s in deze categorie."
+  },
+  "foodPage": {
+    "eyebrow": "Caloriegids",
+    "trackInApp": "Toevoegen in de app",
+    "browseFoods": "Bekijk voedingsmiddelen →",
+    "typicalEstimate": "Richtwaarde. Werkelijke waarden hangen af van merk, recept en portiegrootte.",
+    "caloriesMacros": "Calorieën en macro’s",
+    "whenFits": "Wanneer past het?",
+    "whatToWatch": "Waarop letten?",
+    "howToLog": "Zo log je het beter",
+    "helpfulContext": "Handige context",
+    "faq": "FAQ",
+    "weightLossQuestion": "Past dit bij afvallen?",
+    "variabilityQuestion": "Wat verandert de calorieën het meest?",
+    "logFasterTitle": "Maaltijden sneller loggen",
+    "logFasterText": "Gebruik Calorie Counter AI: maak een foto van je maaltijd, krijg een conceptinvoer en pas portie, saus of merk aan wanneer dat nodig is.",
+    "photoTrackingLink": "Zo werkt calorieën tellen met een foto →",
+    "macros": {
+      "protein": "Eiwitten",
+      "fat": "Vetten",
+      "carbs": "Koolhydraten"
+    },
+    "titleTemplate": "Hoeveel calorieën zitten er in {namePrep}?",
+    "h1Template": "Hoeveel calorieën zitten er in {namePrep}?",
+    "descriptionTemplate": "{name}: calorieën, eiwitten, vetten en koolhydraten voor de portie “{serving}”, met tips om het in je voedingsdagboek te loggen.",
+    "heroIntroTemplate": "Ongeveer {calories} {kcal} per portie: {servingLower}. Gebruik dit als startpunt en pas aan voor merk, recept, bereiding en portiegrootte.",
+    "macroParagraphTemplate": "{name}: ongeveer {calories} {kcal} per “{servingLower}”. Deze portie bevat ongeveer {protein} {gram} eiwitten, {fat} {gram} vetten en {carbs} {gram} koolhydraten{fiberText}.",
+    "per100Template": "Ter vergelijking per 100 {gram}: ongeveer {calories} {kcal}, {protein} {gram} eiwitten, {fat} {gram} vetten en {carbs} {gram} koolhydraten.",
+    "calorieLevelTemplate": "Gebruik de portie als richtlijn: ongeveer {calories} {kcal} voor “{servingLower}”."
+  },
+  "foodCategories": {
+    "Fruit": "Fruit",
+    "Protein foods": "Eiwitrijke voeding",
+    "Fruits and fats": "Fruit en vetten",
+    "Grains and starches": "Granen en zetmeelrijke producten",
+    "Nuts and spreads": "Noten en smeersels",
+    "Breakfast foods": "Ontbijtproducten",
+    "Dairy": "Zuivel",
+    "Restaurant meals": "Restaurantmaaltijden",
+    "Fast food": "Fastfood",
+    "Legumes and plant protein": "Peulvruchten en plantaardige eiwitten",
+    "Desserts": "Desserts",
+    "Snacks": "Snacks",
+    "Drinks": "Dranken",
+    "Vegetables": "Groenten",
+    "Sauces and condiments": "Sauzen en smaakmakers",
+    "Mixed dishes": "Gemengde gerechten"
+  },
+  "foods": {
+    "banana": {
+      "name": "Banaan",
+      "namePrep": "een banaan",
+      "serving": "1 middelgrote banaan"
+    },
+    "apple": {
+      "name": "Appel",
+      "namePrep": "een appel",
+      "serving": "1 middelgrote appel"
+    },
+    "egg": {
+      "name": "Ei",
+      "namePrep": "een ei",
+      "serving": "1 ei"
+    },
+    "avocado": {
+      "name": "Avocado",
+      "namePrep": "een avocado",
+      "serving": "1/2 middelgrote avocado"
+    },
+    "chicken-breast": {
+      "name": "Kipfilet",
+      "namePrep": "kipfilet",
+      "serving": "1 portie kipfilet"
+    },
+    "salmon": {
+      "name": "Zalm",
+      "namePrep": "zalm",
+      "serving": "1 portie zalm"
+    },
+    "white-rice": {
+      "name": "Witte rijst",
+      "namePrep": "witte rijst",
+      "serving": "1 portie witte rijst"
+    },
+    "brown-rice": {
+      "name": "Zilvervliesrijst",
+      "namePrep": "zilvervliesrijst",
+      "serving": "1 portie zilvervliesrijst"
+    },
+    "pasta": {
+      "name": "Pasta",
+      "namePrep": "pasta",
+      "serving": "1 portie pasta"
+    },
+    "potato": {
+      "name": "Aardappel",
+      "namePrep": "een aardappel",
+      "serving": "1 middelgrote aardappel"
+    },
+    "sweet-potato": {
+      "name": "Zoete aardappel",
+      "namePrep": "een zoete aardappel",
+      "serving": "1 middelgrote zoete aardappel"
+    },
+    "bread": {
+      "name": "Brood",
+      "namePrep": "brood",
+      "serving": "1 snee brood"
+    },
+    "peanut-butter": {
+      "name": "Pindakaas",
+      "namePrep": "pindakaas",
+      "serving": "1 eetlepel pindakaas"
+    },
+    "oatmeal": {
+      "name": "Havermout",
+      "namePrep": "havermout",
+      "serving": "1 kom havermout"
+    },
+    "greek-yogurt": {
+      "name": "Griekse yoghurt",
+      "namePrep": "Griekse yoghurt",
+      "serving": "1 portie Griekse yoghurt"
+    },
+    "yogurt": {
+      "name": "Yoghurt",
+      "namePrep": "yoghurt",
+      "serving": "1 portie yoghurt"
+    },
+    "milk": {
+      "name": "Melk",
+      "namePrep": "melk",
+      "serving": "1 glas melk"
+    },
+    "cheddar-cheese": {
+      "name": "Cheddar",
+      "namePrep": "cheddar",
+      "serving": "1 portie cheddar"
+    },
+    "pizza": {
+      "name": "Pizza",
+      "namePrep": "pizza",
+      "serving": "1 punt pizza"
+    },
+    "burger": {
+      "name": "Burger",
+      "namePrep": "een burger",
+      "serving": "1 burger"
+    },
+    "french-fries": {
+      "name": "Friet",
+      "namePrep": "friet",
+      "serving": "1 portie friet"
+    },
+    "sushi-roll": {
+      "name": "Sushirol",
+      "namePrep": "een sushirol",
+      "serving": "1 sushirol"
+    },
+    "taco": {
+      "name": "Taco",
+      "namePrep": "een taco",
+      "serving": "1 taco"
+    },
+    "burrito": {
+      "name": "Burrito",
+      "namePrep": "een burrito",
+      "serving": "1 burrito"
+    },
+    "chicken-nuggets": {
+      "name": "Kipnuggets",
+      "namePrep": "kipnuggets",
+      "serving": "1 portie kipnuggets"
+    },
+    "hot-dog": {
+      "name": "Hotdog",
+      "namePrep": "een hotdog",
+      "serving": "1 hotdog"
+    },
+    "steak": {
+      "name": "Biefstuk",
+      "namePrep": "biefstuk",
+      "serving": "1 portie biefstuk"
+    },
+    "bacon": {
+      "name": "Bacon",
+      "namePrep": "bacon",
+      "serving": "1 portie bacon"
+    },
+    "tuna": {
+      "name": "Tonijn",
+      "namePrep": "tonijn",
+      "serving": "1 portie tonijn"
+    },
+    "shrimp": {
+      "name": "Garnalen",
+      "namePrep": "garnalen",
+      "serving": "1 portie garnalen"
+    },
+    "tofu": {
+      "name": "Tofu",
+      "namePrep": "tofu",
+      "serving": "1 portie tofu"
+    },
+    "lentils": {
+      "name": "Linzen",
+      "namePrep": "linzen",
+      "serving": "1 portie linzen"
+    },
+    "black-beans": {
+      "name": "Zwarte bonen",
+      "namePrep": "zwarte bonen",
+      "serving": "1 portie zwarte bonen"
+    },
+    "chickpeas": {
+      "name": "Kikkererwten",
+      "namePrep": "kikkererwten",
+      "serving": "1 portie kikkererwten"
+    },
+    "hummus": {
+      "name": "Hummus",
+      "namePrep": "hummus",
+      "serving": "1 portie hummus"
+    },
+    "quinoa": {
+      "name": "Quinoa",
+      "namePrep": "quinoa",
+      "serving": "1 portie quinoa"
+    },
+    "tortilla": {
+      "name": "Tortilla",
+      "namePrep": "een tortilla",
+      "serving": "1 tortilla"
+    },
+    "bagel": {
+      "name": "Bagel",
+      "namePrep": "een bagel",
+      "serving": "1 bagel"
+    },
+    "croissant": {
+      "name": "Croissant",
+      "namePrep": "een croissant",
+      "serving": "1 croissant"
+    },
+    "pancake": {
+      "name": "Pannenkoeken",
+      "namePrep": "pannenkoeken",
+      "serving": "1 portie pannenkoeken"
+    },
+    "waffle": {
+      "name": "Wafel",
+      "namePrep": "een wafel",
+      "serving": "1 wafel"
+    },
+    "cereal": {
+      "name": "Ontbijtgranen",
+      "namePrep": "ontbijtgranen",
+      "serving": "1 kom ontbijtgranen"
+    },
+    "granola": {
+      "name": "Granola",
+      "namePrep": "granola",
+      "serving": "1 portie granola"
+    },
+    "almonds": {
+      "name": "Amandelen",
+      "namePrep": "amandelen",
+      "serving": "1 portie amandelen"
+    },
+    "walnuts": {
+      "name": "Walnoten",
+      "namePrep": "walnoten",
+      "serving": "1 portie walnoten"
+    },
+    "cashews": {
+      "name": "Cashewnoten",
+      "namePrep": "cashewnoten",
+      "serving": "1 portie cashewnoten"
+    },
+    "chocolate": {
+      "name": "Chocolade",
+      "namePrep": "chocolade",
+      "serving": "1 portie chocolade"
+    },
+    "ice-cream": {
+      "name": "IJs",
+      "namePrep": "ijs",
+      "serving": "1 bol ijs"
+    },
+    "cookie": {
+      "name": "Chocolate chip cookie",
+      "namePrep": "een chocolate chip cookie",
+      "serving": "1 chocolate chip cookie"
+    },
+    "donut": {
+      "name": "Geglazuurde donut",
+      "namePrep": "een geglazuurde donut",
+      "serving": "1 geglazuurde donut"
+    },
+    "muffin": {
+      "name": "Bosbessenmuffin",
+      "namePrep": "een bosbessenmuffin",
+      "serving": "1 bosbessenmuffin"
+    },
+    "cake": {
+      "name": "Cake",
+      "namePrep": "cake",
+      "serving": "1 plak cake"
+    },
+    "brownie": {
+      "name": "Brownie",
+      "namePrep": "een brownie",
+      "serving": "1 brownie"
+    },
+    "popcorn": {
+      "name": "Popcorn",
+      "namePrep": "popcorn",
+      "serving": "1 portie popcorn"
+    },
+    "potato-chips": {
+      "name": "Chips",
+      "namePrep": "chips",
+      "serving": "1 portie chips"
+    },
+    "pretzels": {
+      "name": "Pretzels",
+      "namePrep": "pretzels",
+      "serving": "1 portie pretzels"
+    },
+    "smoothie": {
+      "name": "Fruitsmoothie",
+      "namePrep": "een fruitsmoothie",
+      "serving": "1 fruitsmoothie"
+    },
+    "orange-juice": {
+      "name": "Sinaasappelsap",
+      "namePrep": "sinaasappelsap",
+      "serving": "1 glas sinaasappelsap"
+    },
+    "soda": {
+      "name": "Frisdrank",
+      "namePrep": "frisdrank",
+      "serving": "1 glas frisdrank"
+    },
+    "latte": {
+      "name": "Latte",
+      "namePrep": "een latte",
+      "serving": "1 latte"
+    },
+    "protein-shake": {
+      "name": "Eiwitshake",
+      "namePrep": "een eiwitshake",
+      "serving": "1 eiwitshake"
+    },
+    "spaghetti-bolognese": {
+      "name": "Spaghetti bolognese",
+      "namePrep": "spaghetti bolognese",
+      "serving": "1 portie spaghetti bolognese"
+    },
+    "ramen": {
+      "name": "Ramen",
+      "namePrep": "ramen",
+      "serving": "1 kom ramen"
+    },
+    "pho": {
+      "name": "Pho",
+      "namePrep": "pho",
+      "serving": "1 kom pho"
+    },
+    "chicken-soup": {
+      "name": "Kippensoep",
+      "namePrep": "kippensoep",
+      "serving": "1 kom kippensoep"
+    },
+    "caesar-salad": {
+      "name": "Caesarsalade",
+      "namePrep": "caesarsalade",
+      "serving": "1 portie caesarsalade"
+    },
+    "green-salad": {
+      "name": "Groene salade",
+      "namePrep": "groene salade",
+      "serving": "1 portie groene salade"
+    },
+    "broccoli": {
+      "name": "Broccoli",
+      "namePrep": "broccoli",
+      "serving": "1 portie broccoli"
+    },
+    "spinach": {
+      "name": "Spinazie",
+      "namePrep": "spinazie",
+      "serving": "1 portie spinazie"
+    },
+    "carrots": {
+      "name": "Wortelen",
+      "namePrep": "wortelen",
+      "serving": "1 portie wortelen"
+    },
+    "corn": {
+      "name": "Mais",
+      "namePrep": "mais",
+      "serving": "1 portie mais"
+    },
+    "tomato": {
+      "name": "Tomaat",
+      "namePrep": "een tomaat",
+      "serving": "1 middelgrote tomaat"
+    },
+    "cucumber": {
+      "name": "Komkommer",
+      "namePrep": "komkommer",
+      "serving": "1 portie komkommer"
+    },
+    "cheesecake": {
+      "name": "Cheesecake",
+      "namePrep": "cheesecake",
+      "serving": "1 punt cheesecake"
+    },
+    "lasagna": {
+      "name": "Lasagne",
+      "namePrep": "lasagne",
+      "serving": "1 portie lasagne"
+    },
+    "grilled-cheese": {
+      "name": "Tosti met kaas",
+      "namePrep": "een tosti met kaas",
+      "serving": "1 tosti met kaas"
+    },
+    "peanut-butter-jelly": {
+      "name": "Boterham met pindakaas en jam",
+      "namePrep": "een boterham met pindakaas en jam",
+      "serving": "1 boterham met pindakaas en jam"
+    },
+    "omelette": {
+      "name": "Omelet",
+      "namePrep": "een omelet",
+      "serving": "1 omelet"
+    },
+    "fried-egg": {
+      "name": "Gebakken ei",
+      "namePrep": "een gebakken ei",
+      "serving": "1 gebakken ei"
+    },
+    "boiled-egg": {
+      "name": "Gekookt ei",
+      "namePrep": "een gekookt ei",
+      "serving": "1 gekookt ei"
+    },
+    "toast": {
+      "name": "Toast",
+      "namePrep": "toast",
+      "serving": "1 snee toast"
+    },
+    "avocado-toast": {
+      "name": "Avocadotoast",
+      "namePrep": "avocadotoast",
+      "serving": "1 snee avocadotoast"
+    },
+    "chicken-salad": {
+      "name": "Kipsalade",
+      "namePrep": "kipsalade",
+      "serving": "1 portie kipsalade"
+    },
+    "tuna-salad": {
+      "name": "Tonijnsalade",
+      "namePrep": "tonijnsalade",
+      "serving": "1 portie tonijnsalade"
+    },
+    "egg-salad": {
+      "name": "Eiersalade",
+      "namePrep": "eiersalade",
+      "serving": "1 portie eiersalade"
+    },
+    "cottage-cheese": {
+      "name": "Hüttenkäse",
+      "namePrep": "hüttenkäse",
+      "serving": "1 portie hüttenkäse"
+    },
+    "cream-cheese": {
+      "name": "Roomkaas",
+      "namePrep": "roomkaas",
+      "serving": "1 portie roomkaas"
+    },
+    "butter": {
+      "name": "Boter",
+      "namePrep": "boter",
+      "serving": "1 portie boter"
+    },
+    "olive-oil": {
+      "name": "Olijfolie",
+      "namePrep": "olijfolie",
+      "serving": "1 eetlepel olijfolie"
+    },
+    "mayonnaise": {
+      "name": "Mayonaise",
+      "namePrep": "mayonaise",
+      "serving": "1 portie mayonaise"
+    },
+    "ketchup": {
+      "name": "Ketchup",
+      "namePrep": "ketchup",
+      "serving": "1 portie ketchup"
+    },
+    "honey": {
+      "name": "Honing",
+      "namePrep": "honing",
+      "serving": "1 portie honing"
+    },
+    "jam": {
+      "name": "Jam",
+      "namePrep": "jam",
+      "serving": "1 portie jam"
+    },
+    "protein-bar": {
+      "name": "Eiwitreep",
+      "namePrep": "een eiwitreep",
+      "serving": "1 eiwitreep"
+    },
+    "energy-drink": {
+      "name": "Energiedrank",
+      "namePrep": "een energiedrank",
+      "serving": "1 blik energiedrank"
+    },
+    "matcha-latte": {
+      "name": "Matcha latte",
+      "namePrep": "een matcha latte",
+      "serving": "1 matcha latte"
+    },
+    "trail-mix": {
+      "name": "Notenmix",
+      "namePrep": "notenmix",
+      "serving": "1 portie notenmix"
+    },
+    "blueberries": {
+      "name": "Blauwe bessen",
+      "namePrep": "blauwe bessen",
+      "serving": "1 portie blauwe bessen"
+    },
+    "strawberries": {
+      "name": "Aardbeien",
+      "namePrep": "aardbeien",
+      "serving": "1 portie aardbeien"
+    },
+    "grapes": {
+      "name": "Druiven",
+      "namePrep": "druiven",
+      "serving": "1 portie druiven"
+    },
+    "orange": {
+      "name": "Sinaasappel",
+      "namePrep": "een sinaasappel",
+      "serving": "1 sinaasappel"
+    },
+    "pear": {
+      "name": "Peer",
+      "namePrep": "een peer",
+      "serving": "1 middelgrote peer"
+    },
+    "peach": {
+      "name": "Perzik",
+      "namePrep": "een perzik",
+      "serving": "1 perzik"
+    },
+    "watermelon": {
+      "name": "Watermeloen",
+      "namePrep": "watermeloen",
+      "serving": "1 portie watermeloen"
+    },
+    "pineapple": {
+      "name": "Ananas",
+      "namePrep": "ananas",
+      "serving": "1 portie ananas"
+    },
+    "mango": {
+      "name": "Mango",
+      "namePrep": "mango",
+      "serving": "1 portie mango"
+    },
+    "kiwi": {
+      "name": "Kiwi",
+      "namePrep": "een kiwi",
+      "serving": "1 kiwi"
+    },
+    "raspberries": {
+      "name": "Frambozen",
+      "namePrep": "frambozen",
+      "serving": "1 portie frambozen"
+    },
+    "blackberries": {
+      "name": "Bramen",
+      "namePrep": "bramen",
+      "serving": "1 portie bramen"
+    },
+    "cherries": {
+      "name": "Kersen",
+      "namePrep": "kersen",
+      "serving": "1 portie kersen"
+    },
+    "grapefruit": {
+      "name": "Grapefruit",
+      "namePrep": "een grapefruit",
+      "serving": "1/2 grapefruit"
+    },
+    "lettuce": {
+      "name": "Sla",
+      "namePrep": "sla",
+      "serving": "1 portie sla"
+    },
+    "cabbage": {
+      "name": "Witte kool",
+      "namePrep": "witte kool",
+      "serving": "1 portie witte kool"
+    },
+    "cauliflower": {
+      "name": "Bloemkool",
+      "namePrep": "bloemkool",
+      "serving": "1 portie bloemkool"
+    },
+    "asparagus": {
+      "name": "Asperges",
+      "namePrep": "asperges",
+      "serving": "1 portie asperges"
+    },
+    "zucchini": {
+      "name": "Courgette",
+      "namePrep": "courgette",
+      "serving": "1 portie courgette"
+    },
+    "eggplant": {
+      "name": "Aubergine",
+      "namePrep": "aubergine",
+      "serving": "1 portie aubergine"
+    },
+    "bell-pepper": {
+      "name": "Paprika",
+      "namePrep": "paprika",
+      "serving": "1 middelgrote paprika"
+    },
+    "onion": {
+      "name": "Ui",
+      "namePrep": "een ui",
+      "serving": "1 middelgrote ui"
+    },
+    "mushrooms": {
+      "name": "Champignons",
+      "namePrep": "champignons",
+      "serving": "1 portie champignons"
+    },
+    "green-beans": {
+      "name": "Sperziebonen",
+      "namePrep": "sperziebonen",
+      "serving": "1 portie sperziebonen"
+    },
+    "kale": {
+      "name": "Boerenkool",
+      "namePrep": "boerenkool",
+      "serving": "1 portie boerenkool"
+    },
+    "beets": {
+      "name": "Bieten",
+      "namePrep": "bieten",
+      "serving": "1 portie bieten"
+    },
+    "turkey-breast": {
+      "name": "Kalkoenfilet",
+      "namePrep": "kalkoenfilet",
+      "serving": "1 portie kalkoenfilet"
+    },
+    "chicken-thigh": {
+      "name": "Kippendij",
+      "namePrep": "een kippendij",
+      "serving": "1 kippendij"
+    },
+    "pork-chop": {
+      "name": "Varkenskotelet",
+      "namePrep": "een varkenskotelet",
+      "serving": "1 varkenskotelet"
+    },
+    "ground-beef": {
+      "name": "Rundergehakt",
+      "namePrep": "rundergehakt",
+      "serving": "1 portie rundergehakt"
+    },
+    "meatballs": {
+      "name": "Gehaktballen",
+      "namePrep": "gehaktballen",
+      "serving": "1 portie gehaktballen"
+    },
+    "sausage": {
+      "name": "Worst",
+      "namePrep": "een worst",
+      "serving": "1 worst"
+    },
+    "cod": {
+      "name": "Kabeljauw",
+      "namePrep": "kabeljauw",
+      "serving": "1 portie kabeljauw"
+    },
+    "tilapia": {
+      "name": "Tilapia",
+      "namePrep": "tilapia",
+      "serving": "1 portie tilapia"
+    },
+    "sardines": {
+      "name": "Sardines",
+      "namePrep": "sardines",
+      "serving": "1 portie sardines"
+    },
+    "crab": {
+      "name": "Krab",
+      "namePrep": "krab",
+      "serving": "1 portie krab"
+    },
+    "scallops": {
+      "name": "Sint-jakobsschelpen",
+      "namePrep": "sint-jakobsschelpen",
+      "serving": "1 portie sint-jakobsschelpen"
+    },
+    "smoked-salmon": {
+      "name": "Gerookte zalm",
+      "namePrep": "gerookte zalm",
+      "serving": "1 portie gerookte zalm"
+    },
+    "skim-milk": {
+      "name": "Magere melk",
+      "namePrep": "magere melk",
+      "serving": "1 glas magere melk"
+    },
+    "soy-milk": {
+      "name": "Sojadrink",
+      "namePrep": "sojadrink",
+      "serving": "1 glas sojadrink"
+    },
+    "almond-milk": {
+      "name": "Amandeldrink",
+      "namePrep": "amandeldrink",
+      "serving": "1 glas amandeldrink"
+    },
+    "oat-milk": {
+      "name": "Haverdrink",
+      "namePrep": "haverdrink",
+      "serving": "1 glas haverdrink"
+    },
+    "kefir": {
+      "name": "Kefir",
+      "namePrep": "kefir",
+      "serving": "1 glas kefir"
+    },
+    "sour-cream": {
+      "name": "Zure room",
+      "namePrep": "zure room",
+      "serving": "1 portie zure room"
+    },
+    "feta-cheese": {
+      "name": "Feta",
+      "namePrep": "feta",
+      "serving": "1 portie feta"
+    },
+    "mozzarella": {
+      "name": "Mozzarella",
+      "namePrep": "mozzarella",
+      "serving": "1 portie mozzarella"
+    },
+    "parmesan": {
+      "name": "Parmezaanse kaas",
+      "namePrep": "Parmezaanse kaas",
+      "serving": "1 portie Parmezaanse kaas"
+    },
+    "couscous": {
+      "name": "Couscous",
+      "namePrep": "couscous",
+      "serving": "1 portie couscous"
+    },
+    "barley": {
+      "name": "Gerst",
+      "namePrep": "gerst",
+      "serving": "1 portie gerst"
+    },
+    "buckwheat": {
+      "name": "Boekweit",
+      "namePrep": "boekweit",
+      "serving": "1 portie boekweit"
+    },
+    "bulgur": {
+      "name": "Bulgur",
+      "namePrep": "bulgur",
+      "serving": "1 portie bulgur"
+    },
+    "naan": {
+      "name": "Naan",
+      "namePrep": "naan",
+      "serving": "1 naan"
+    },
+    "pita-bread": {
+      "name": "Pitabrood",
+      "namePrep": "pitabrood",
+      "serving": "1 pitabrood"
+    },
+    "english-muffin": {
+      "name": "English muffin",
+      "namePrep": "een English muffin",
+      "serving": "1 English muffin"
+    },
+    "rice-cake": {
+      "name": "Rijstwafel",
+      "namePrep": "een rijstwafel",
+      "serving": "1 rijstwafel"
+    },
+    "crackers": {
+      "name": "Crackers",
+      "namePrep": "crackers",
+      "serving": "1 portie crackers"
+    },
+    "mashed-potatoes": {
+      "name": "Aardappelpuree",
+      "namePrep": "aardappelpuree",
+      "serving": "1 portie aardappelpuree"
+    },
+    "scrambled-eggs": {
+      "name": "Roerei",
+      "namePrep": "roerei",
+      "serving": "1 portie roerei"
+    },
+    "french-toast": {
+      "name": "Wentelteefjes",
+      "namePrep": "wentelteefjes",
+      "serving": "1 portie wentelteefjes"
+    },
+    "breakfast-burrito": {
+      "name": "Ontbijtburrito",
+      "namePrep": "een ontbijtburrito",
+      "serving": "1 ontbijtburrito"
+    },
+    "hash-browns": {
+      "name": "Hash browns",
+      "namePrep": "hash browns",
+      "serving": "1 portie hash browns"
+    },
+    "chia-pudding": {
+      "name": "Chiapudding",
+      "namePrep": "chiapudding",
+      "serving": "1 portie chiapudding"
+    },
+    "overnight-oats": {
+      "name": "Overnight oats",
+      "namePrep": "overnight oats",
+      "serving": "1 portie overnight oats"
+    },
+    "breakfast-sandwich": {
+      "name": "Ontbijtsandwich",
+      "namePrep": "een ontbijtsandwich",
+      "serving": "1 ontbijtsandwich"
+    },
+    "edamame": {
+      "name": "Edamame",
+      "namePrep": "edamame",
+      "serving": "1 portie edamame"
+    },
+    "kidney-beans": {
+      "name": "Kidneybonen",
+      "namePrep": "kidneybonen",
+      "serving": "1 portie kidneybonen"
+    },
+    "pinto-beans": {
+      "name": "Pintobonen",
+      "namePrep": "pintobonen",
+      "serving": "1 portie pintobonen"
+    },
+    "split-peas": {
+      "name": "Spliterwten",
+      "namePrep": "spliterwten",
+      "serving": "1 portie spliterwten"
+    },
+    "baked-beans": {
+      "name": "Witte bonen in tomatensaus",
+      "namePrep": "witte bonen in tomatensaus",
+      "serving": "1 portie witte bonen in tomatensaus"
+    },
+    "fried-rice": {
+      "name": "Gebakken rijst",
+      "namePrep": "gebakken rijst",
+      "serving": "1 portie gebakken rijst"
+    },
+    "pad-thai": {
+      "name": "Pad thai",
+      "namePrep": "pad thai",
+      "serving": "1 portie pad thai"
+    },
+    "chicken-curry": {
+      "name": "Kipcurry",
+      "namePrep": "kipcurry",
+      "serving": "1 portie kipcurry"
+    },
+    "chicken-tikka-masala": {
+      "name": "Kip tikka masala",
+      "namePrep": "kip tikka masala",
+      "serving": "1 portie kip tikka masala"
+    },
+    "beef-chili": {
+      "name": "Chili con carne",
+      "namePrep": "chili con carne",
+      "serving": "1 portie chili con carne"
+    },
+    "falafel": {
+      "name": "Falafel",
+      "namePrep": "falafel",
+      "serving": "1 portie falafel"
+    },
+    "dumplings": {
+      "name": "Dumplings",
+      "namePrep": "dumplings",
+      "serving": "1 portie dumplings"
+    },
+    "spring-rolls": {
+      "name": "Loempia’s",
+      "namePrep": "loempia’s",
+      "serving": "1 portie loempia’s"
+    },
+    "quesadilla": {
+      "name": "Quesadilla",
+      "namePrep": "een quesadilla",
+      "serving": "1 quesadilla"
+    },
+    "nachos": {
+      "name": "Nacho’s",
+      "namePrep": "nacho’s",
+      "serving": "1 portie nacho’s"
+    },
+    "mac-and-cheese": {
+      "name": "Mac and cheese",
+      "namePrep": "mac and cheese",
+      "serving": "1 portie mac and cheese"
+    },
+    "chicken-wings": {
+      "name": "Kippenvleugels",
+      "namePrep": "kippenvleugels",
+      "serving": "1 portie kippenvleugels"
+    },
+    "fish-and-chips": {
+      "name": "Fish and chips",
+      "namePrep": "fish and chips",
+      "serving": "1 portie fish and chips"
+    },
+    "risotto": {
+      "name": "Risotto",
+      "namePrep": "risotto",
+      "serving": "1 portie risotto"
+    },
+    "tortilla-chips": {
+      "name": "Tortillachips",
+      "namePrep": "tortillachips",
+      "serving": "1 portie tortillachips"
+    },
+    "granola-bar": {
+      "name": "Mueslireep",
+      "namePrep": "een mueslireep",
+      "serving": "1 mueslireep"
+    },
+    "chocolate-bar": {
+      "name": "Chocoladereep",
+      "namePrep": "een chocoladereep",
+      "serving": "1 chocoladereep"
+    },
+    "candy": {
+      "name": "Snoep",
+      "namePrep": "snoep",
+      "serving": "1 portie snoep"
+    },
+    "cinnamon-roll": {
+      "name": "Kaneelbroodje",
+      "namePrep": "een kaneelbroodje",
+      "serving": "1 kaneelbroodje"
+    },
+    "marshmallows": {
+      "name": "Marshmallows",
+      "namePrep": "marshmallows",
+      "serving": "1 portie marshmallows"
+    },
+    "fruit-snacks": {
+      "name": "Fruitsnacks",
+      "namePrep": "fruitsnacks",
+      "serving": "1 portie fruitsnacks"
+    },
+    "black-coffee": {
+      "name": "Zwarte koffie",
+      "namePrep": "zwarte koffie",
+      "serving": "1 kop zwarte koffie"
+    },
+    "cappuccino": {
+      "name": "Cappuccino",
+      "namePrep": "een cappuccino",
+      "serving": "1 cappuccino"
+    },
+    "milk-tea": {
+      "name": "Melkthee",
+      "namePrep": "melkthee",
+      "serving": "1 melkthee"
+    },
+    "bubble-tea": {
+      "name": "Bubble tea",
+      "namePrep": "bubble tea",
+      "serving": "1 bubble tea"
+    },
+    "lemonade": {
+      "name": "Limonade",
+      "namePrep": "limonade",
+      "serving": "1 glas limonade"
+    },
+    "iced-tea": {
+      "name": "IJsthee",
+      "namePrep": "ijsthee",
+      "serving": "1 glas ijsthee"
+    },
+    "apple-juice": {
+      "name": "Appelsap",
+      "namePrep": "appelsap",
+      "serving": "1 glas appelsap"
+    },
+    "coconut-water": {
+      "name": "Kokoswater",
+      "namePrep": "kokoswater",
+      "serving": "1 glas kokoswater"
+    },
+    "sports-drink": {
+      "name": "Sportdrank",
+      "namePrep": "een sportdrank",
+      "serving": "1 fles sportdrank"
+    },
+    "ranch-dressing": {
+      "name": "Ranchdressing",
+      "namePrep": "ranchdressing",
+      "serving": "1 portie ranchdressing"
+    },
+    "bbq-sauce": {
+      "name": "BBQ-saus",
+      "namePrep": "BBQ-saus",
+      "serving": "1 portie BBQ-saus"
+    },
+    "salsa": {
+      "name": "Salsa",
+      "namePrep": "salsa",
+      "serving": "1 portie salsa"
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "namePrep": "guacamole",
+      "serving": "1 portie guacamole"
+    }
+  },
+  "utility": {
+    "pricing": "Prijzen",
+    "support": "Support",
+    "privacy": "Privacy",
+    "terms": "Voorwaarden",
+    "press": "Perskit",
+    "deleteExtra": "Wil je je account of gegevens laten verwijderen? Schrijf vanaf het e-mailadres dat aan je account is gekoppeld en gebruik “Delete account” als onderwerp."
+  },
+  "store": {
+    "appStoreSmall": "Download in de",
+    "appStoreName": "App Store",
+    "googlePlaySmall": "Download via",
+    "googlePlayName": "Google Play"
+  },
+  "labels": {
+    "feature": "Functie",
+    "useCase": "Toepassing",
+    "openPage": "Pagina openen →",
+    "openArrow": "Openen →",
+    "practicalWorkflow": "Praktische workflow",
+    "workflowTitle": "Zo helpt het in je dagelijkse dagboek",
+    "goodToKnow": "Goed om te weten",
+    "defaultNote": "Voedingswaarden zijn richtwaarden: controleer vooral portie, merk, recept en verborgen ingrediënten.",
+    "relatedPages": "Gerelateerde pagina’s",
+    "quickTakeaway": "Kort samengevat:",
+    "defaultTakeaway": "Calorie Counter AI helpt je sneller bijhouden met fotoschattingen, barcodes en handmatige correcties.",
+    "information": "Informatie",
+    "bestFor": "Geschikt voor"
+  },
+  "internalCta": {
+    "title": "Maak van je volgende maaltijd een dagboekinvoer",
+    "text": "Download de app en probeer snel calorieën tellen vanaf een foto.",
+    "button": "Download de app"
+  },
+  "download": {
+    "availableTitle": "Beschikbaar voor iPhone en Android",
+    "availableText": "Begin met een foto, een barcode of een eenvoudige handmatige invoer. Calorieën en macro’s zijn vanaf dag één overzichtelijk."
+  },
+  "faq": {
+    "items": [
+      [
+        "Is Calorie Counter AI gratis?",
+        "Je kunt gratis beginnen met dagelijkse AI-analyses. Premiumfuncties kunnen beschikbaar zijn voor hogere limieten en extra tools."
+      ],
+      [
+        "Kan ik calorieën tellen vanaf een foto?",
+        "Ja. De app schat calorieën, macro’s en portiegewicht op basis van een foto van je maaltijd."
+      ],
+      [
+        "Is er een barcodescanner?",
+        "Ja. Daarmee voeg je verpakte producten snel toe."
+      ],
+      [
+        "Berekent de app macro’s?",
+        "Ja. Eiwitten, vetten en koolhydraten worden naast calorieën weergegeven."
+      ],
+      [
+        "Is dit geschikt voor zelfgemaakt eten?",
+        "Ja. Fotoschattingen zijn handig voor thuisgerechten, maar controleer portie, olie, sauzen en verborgen ingrediënten."
+      ],
+      [
+        "Is dit medisch advies?",
+        "Nee. De app geeft informatieve schattingen en vervangt geen arts, diëtist of andere zorgprofessional."
+      ]
+    ]
+  },
+  "utilityContent": {
+    "pricing": [
+      "Prijzen en gratis toegang",
+      "Je kunt gratis beginnen. Eventuele abonnementen, proefperiodes en actuele prijzen worden beheerd door de App Store of Google Play en kunnen per land verschillen."
+    ],
+    "support": [
+      "Support",
+      "Heb je hulp, feedback of een probleem met de app? Vermeld je apparaat, besturingssysteem en een korte beschrijving van het probleem."
+    ],
+    "contact": [
+      "Contact",
+      "Voor vragen over Calorie Counter AI, samenwerkingen of persverzoeken kun je het team bereiken via het contact dat op de site of in de store staat."
+    ],
+    "privacy": [
+      "Privacy",
+      "We verzamelen en verwerken gegevens die nodig zijn om de app en website te laten werken. Lees het volledige privacybeleid voor details over doelen, bewaartermijnen en rechten."
+    ],
+    "terms": [
+      "Gebruiksvoorwaarden",
+      "Door de app te gebruiken ga je ermee akkoord dat voedingsschattingen richtwaarden zijn en dat je de dienst gebruikt volgens de gepubliceerde voorwaarden."
+    ],
+    "disclaimer": [
+      "Gezondheidsdisclaimer",
+      "Calorie Counter AI stelt geen diagnoses, geeft geen behandelingen en maakt geen medisch voedingsplan. Raadpleeg bij medische behoeften of specifieke aandoeningen een gekwalificeerde professional."
+    ],
+    "delete": [
+      "Account verwijderen",
+      "Wil je je account laten verwijderen? Schrijf vanaf het e-mailadres dat aan je profiel is gekoppeld en zet “Delete account” in de onderwerpregel."
+    ]
+  },
+  "press": {
+    "iconAlt": "App-icoon",
+    "iconTitle": "App-icoon",
+    "downloadIcon": "Icoon downloaden",
+    "screenshotAlt": "App-screenshot",
+    "screenshotTitle": "Screenshot",
+    "downloadScreenshot": "Screenshot downloaden",
+    "shortDescriptionTitle": "Korte beschrijving",
+    "shortDescriptionText": "Calorie Counter AI is een AI-calorieteller die calorieën, macro’s en portiegrootte schat vanaf een foto van je maaltijd, met voedingsdagboek en barcodescanner."
+  },
+  "notFound": {
+    "title": "Pagina niet gevonden",
+    "text": "Deze pagina bestaat nog niet of het adres is verkeerd ingevoerd.",
+    "home": "Terug naar home"
+  },
+  "pages": {
+    "/features/": {
+      "title": "Functies",
+      "h1": "Tools om voeding sneller bij te houden",
+      "description": "Foto’s, barcodes, dagboek, macro’s, doelen, statistieken en Health Connect: alles wat helpt om voeding consequenter te volgen.",
+      "kicker": "Productoverzicht",
+      "summary": "De kern van de app is maaltijden zo eenvoudig vastleggen dat je het dagelijks kunt volhouden.",
+      "bullets": [
+        "Fotoschatting van maaltijden zonder etiket",
+        "Barcodescanner voor verpakte producten",
+        "Bewerkbare schattingen van calorieën en macro’s",
+        "Dagboek, doelen en voortgangsgrafieken"
+      ],
+      "sections": [
+        [
+          "Kies de snelste methode",
+          "Een zelfgemaakt bord, een yoghurt uit de supermarkt en een burger in een restaurant log je niet op dezelfde manier. Gebruik foto, barcode of handmatige invoer afhankelijk van de situatie."
+        ],
+        [
+          "Controleer de schatting",
+          "AI maakt een handig concept. Sauzen, olie en portiegrootte moet je bevestigen voordat je opslaat."
+        ],
+        [
+          "Bouw de gewoonte op",
+          "De waarde zit niet in één scan, maar in een herhaalbaar dagboek dat trends laat zien."
+        ]
+      ],
+      "workflowTitle": "Kies per maaltijd de juiste methode",
+      "workflow": [
+        "Heeft het gerecht geen etiket, begin dan met een foto. Is het verpakt, scan de barcode. Ken je het recept beter, corrigeer dan portie of ingrediënten handmatig.",
+        "Zo blijft het dagboek snel maar niet blind: de app start de invoer en jij bevestigt de details die voor nauwkeurigheid tellen."
+      ],
+      "note": "Automatisering verlaagt de drempel, maar neemt de controle niet over: portie, recept en verborgen ingrediënten blijven belangrijk.",
+      "bestFor": [
+        "snelle start",
+        "verschillende soorten eten",
+        "bewerkbare schattingen",
+        "dagelijkse gewoonte"
+      ],
+      "workflowKicker": "Zo werkt het",
+      "noteTitle": "Goed om te weten"
+    },
+    "/food-recognition-ai/": {
+      "title": "Voedselherkenning met AI",
+      "h1": "Voedselherkenning met AI vanaf een foto",
+      "description": "Maak een foto van je bord, krijg herkende voedingsmiddelen en een bewerkbare voedingsschatting.",
+      "kicker": "Fotoanalyse",
+      "summary": "Voedselherkenning bespaart tijd wanneer meerdere ingrediënten handmatig zoeken te traag is.",
+      "bullets": [
+        "Herkent zichtbaar eten",
+        "Schat portie en macro’s",
+        "Laat je het resultaat aanpassen",
+        "Handig voor gemengde gerechten, salades en restaurants"
+      ],
+      "sections": [
+        [
+          "Waar het het meest helpt",
+          "Fotoanalyse helpt bij thuisgerechten, bowls, salades, restjes en eten zonder etiket."
+        ],
+        [
+          "Wat de camera niet ziet",
+          "Olie, suiker, room en sauzen kunnen verborgen zijn. Daarom moet je het resultaat controleren."
+        ],
+        [
+          "Schatting verbeteren",
+          "Fotografeer het hele bord met goed licht en voeg onzichtbare ingrediënten handmatig toe."
+        ]
+      ],
+      "workflowTitle": "Zo krijg je een bruikbare schatting uit een foto",
+      "workflow": [
+        "Maak een foto van het hele bord bij normaal licht en zonder extreme hoek. Controleer na herkenning de naam, portie en macro’s voordat je opslaat.",
+        "Staat er olie, saus, kaas, suiker of een drankje bij? Voeg dat handmatig toe. De beste invoer is AI plus een korte controle."
+      ],
+      "note": "Foto’s werken goed voor zichtbaar eten, maar raden verborgen ingrediënten niet altijd. Het resultaat moet bewerkbaar blijven.",
+      "bestFor": [
+        "thuisgerechten",
+        "salades en bowls",
+        "restaurant",
+        "snel concept"
+      ],
+      "workflowKicker": "Fotoanalyse",
+      "noteTitle": "Onthouden"
+    },
+    "/barcode-calorie-scanner/": {
+      "title": "Barcodescanner voor calorieën",
+      "h1": "Barcodescanner voor verpakte voeding",
+      "description": "Scan verpakte producten en voeg calorieën en macro’s snel toe aan je dagboek.",
+      "kicker": "Verpakte producten",
+      "summary": "De scanner is de snelste methode wanneer een product al een barcode op de verpakking heeft.",
+      "bullets": [
+        "Yoghurt, snacks en dranken",
+        "Kant-en-klaarmaaltijden en diepvriesproducten",
+        "Handmatige portiecorrectie",
+        "Sneller dagboek"
+      ],
+      "sections": [
+        [
+          "Wanneer gebruiken",
+          "Gebruik hem voor verpakte voeding, snacks, dranken en supermarktproducten."
+        ],
+        [
+          "Controleer de portie",
+          "Het gevonden product kan kloppen, maar hoeveel je eet bepaal je zelf."
+        ],
+        [
+          "Combineer met foto’s",
+          "Voor een gemengde maaltijd kun je één product scannen en de rest via foto of handmatig toevoegen."
+        ]
+      ],
+      "workflowTitle": "Zo log je een verpakt product",
+      "workflow": [
+        "Scan de code, controleer of het product klopt en kies de portie die je echt hebt gegeten.",
+        "Eet je maar een halve verpakking of voeg je andere ingrediënten toe, pas de invoer dan aan voordat je opslaat."
+      ],
+      "note": "Productdatabases verschillen per land en merk. De barcode versnelt de invoer, maar de portie blijft iets om te controleren.",
+      "bestFor": [
+        "verpakte producten",
+        "snacks",
+        "dranken",
+        "boodschappen"
+      ],
+      "workflowKicker": "Scanner",
+      "noteTitle": "Belangrijke noot"
+    },
+    "/macro-tracker/": {
+      "title": "Macrotracker",
+      "h1": "Volg eiwitten, vetten en koolhydraten",
+      "description": "Houd calorieën en macro’s samen bij om de samenstelling van je dag beter te begrijpen.",
+      "kicker": "Macro’s",
+      "summary": "Calorieën tonen hoeveel energie je eet; macro’s laten zien waar die energie vandaan komt.",
+      "bullets": [
+        "Eiwitten",
+        "Vetten",
+        "Koolhydraten",
+        "Dagdoelen"
+      ],
+      "sections": [
+        [
+          "Waarom ze tellen",
+          "Twee dagen met dezelfde calorieën kunnen heel anders zijn opgebouwd."
+        ],
+        [
+          "Eiwitten zichtbaar",
+          "Wie spiermassa wil opbouwen of verzadiging wil sturen, kijkt vaak eerst naar eiwitten."
+        ],
+        [
+          "Eenvoudig lezen",
+          "Macro’s naast calorieën maken het makkelijker om de rest van de dag bij te sturen."
+        ]
+      ],
+      "workflowTitle": "Macro’s gebruiken in je dagboek",
+      "workflow": [
+        "Registreer maaltijden met foto, barcode of handmatige invoer. Bekijk daarna het dagtotaal voor eiwitten, vetten en koolhydraten.",
+        "Gebruik de cijfers als richting: perfecte waarden per maaltijd zijn minder belangrijk dan een stabiele trend."
+      ],
+      "note": "Macro’s zijn geen diagnose of voedingsplan. Raadpleeg een professional bij specifieke doelen of medische behoeften.",
+      "bestFor": [
+        "eiwitten",
+        "afvallen",
+        "spieropbouw",
+        "kwaliteit van voeding"
+      ],
+      "workflowKicker": "Macro’s",
+      "noteTitle": "Goed om te weten"
+    },
+    "/food-diary-app/": {
+      "title": "Voedingsdagboek",
+      "h1": "Snel en visueel voedingsdagboek",
+      "description": "Registreer maaltijden, porties en voedingsschattingen in een dagboek dat makkelijk terug te lezen is.",
+      "kicker": "Dagboek",
+      "summary": "Een goed dagboek hoeft niet perfect te zijn; het moet eenvoudig genoeg zijn om vol te houden.",
+      "bullets": [
+        "Invoer via foto",
+        "Maaltijdgeschiedenis",
+        "Handmatige correcties",
+        "Terugkerende gewoonten"
+      ],
+      "sections": [
+        [
+          "Minder drempel",
+          "Een foto verkort de tijd die nodig is om een invoer te starten."
+        ],
+        [
+          "Meer controle",
+          "Elke schatting blijft bewerkbaar voordat je hem opslaat."
+        ],
+        [
+          "Meer bewustzijn",
+          "Dagen terugkijken helpt patronen te zien die je op het moment zelf mist."
+        ]
+      ],
+      "workflowTitle": "Een dagboek bijhouden zonder stress",
+      "workflow": [
+        "Sla eerst het concept op en corrigeer daarna alleen wat echt verschil maakt: portie, sauzen, olie, dranken en hoofdingrediënten.",
+        "Het dagboek is bedoeld om trends en gewoonten te zien, niet om elke maaltijd te beoordelen."
+      ],
+      "note": "Automatisering verlaagt de drempel, maar neemt de controle niet over: portie, recept en verborgen ingrediënten blijven belangrijk.",
+      "bestFor": [
+        "dagelijks dagboek",
+        "gewoonten",
+        "terugkerende maaltijden",
+        "eenvoudige controle"
+      ],
+      "workflowKicker": "Dagboek",
+      "noteTitle": "Basisprincipe"
+    },
+    "/nutrition-tracker/": {
+      "title": "Voedingstracker",
+      "h1": "Volg je voeding met duidelijke cijfers",
+      "description": "Bekijk calorieën, eiwitten, vetten en koolhydraten zonder alles vanaf nul in te voeren.",
+      "kicker": "Voeding",
+      "summary": "De voedingstracker combineert foto’s, barcodes en handmatige correcties tot een helder beeld van je maaltijden.",
+      "bullets": [
+        "Calorieën",
+        "Macro’s",
+        "Porties",
+        "Trends in de tijd"
+      ],
+      "sections": [
+        [
+          "Overzicht",
+          "Elke maaltijd voegt context toe aan je voedingsdag."
+        ],
+        [
+          "Slim corrigeren",
+          "Pas portie, ingrediënten of merk aan wanneer de schatting niet nauwkeurig genoeg is."
+        ],
+        [
+          "Makkelijker kiezen",
+          "Weten wat je al gegeten hebt helpt bij de volgende maaltijd."
+        ]
+      ],
+      "workflowTitle": "Zo gebruik je de voedingstracker",
+      "workflow": [
+        "Registreer de belangrijkste maaltijden en kijk naar het totaal van de dag. Losse schattingen zijn richtwaarden, maar door continuïteit wordt het overzicht bruikbaar.",
+        "Controleer verborgen ingrediënten en porties voordat je opslaat voor betere resultaten."
+      ],
+      "note": "Automatisering verlaagt de drempel, maar neemt de controle niet over: portie, recept en verborgen ingrediënten blijven belangrijk.",
+      "bestFor": [
+        "dagelijkse voeding",
+        "macro’s",
+        "porties",
+        "overzicht"
+      ],
+      "workflowKicker": "Voeding",
+      "noteTitle": "Praktisch gebruik"
+    },
+    "/meal-weight-estimator/": {
+      "title": "Portiegewicht schatten",
+      "h1": "Schat portiegewicht vanaf een maaltijd",
+      "description": "Gebruik een fotoschatting als startpunt wanneer je het exacte gewicht niet weet.",
+      "kicker": "Porties",
+      "summary": "Bij calorieën tellen is portiegrootte vaak de grootste onzekerheid.",
+      "bullets": [
+        "Gewicht als richtwaarde",
+        "Bewerkbare porties",
+        "Handig zonder weegschaal",
+        "Betere dagboekinvoer"
+      ],
+      "sections": [
+        [
+          "Wanneer nuttig",
+          "Bij restaurants, thuisgerechten en gedeelde schalen weet je het gewicht vaak niet precies."
+        ],
+        [
+          "Wat controleren",
+          "Grootte van het bord, saus, olie en dichtheid van het gerecht kunnen veel verschil maken."
+        ],
+        [
+          "Wanneer wegen beter is",
+          "Als je exacte waarden nodig hebt, blijft een keukenweegschaal nauwkeuriger."
+        ]
+      ],
+      "workflowTitle": "Porties realistisch houden",
+      "workflow": [
+        "Gebruik de schatting als beginpunt. Als je weet dat je meer of minder hebt gegeten, pas de hoeveelheid aan voordat je opslaat.",
+        "Vergelijk vergelijkbare maaltijden na verloop van tijd: consistent corrigeren is vaak nuttiger dan één perfecte invoer."
+      ],
+      "note": "Een fotoschatting is geen weging. Gebruik het als praktische richtwaarde wanneer exact meten niet haalbaar is.",
+      "bestFor": [
+        "porties",
+        "thuisgerechten",
+        "restaurant",
+        "geen weegschaal"
+      ],
+      "workflowKicker": "Porties",
+      "noteTitle": "Richtwaarde"
+    },
+    "/progress-statistics/": {
+      "title": "Voortgang en statistieken",
+      "h1": "Bekijk trends in calorieën en voeding",
+      "description": "Volg dagtotalen, patronen en voortgang zodat losse maaltijden context krijgen.",
+      "kicker": "Voortgang",
+      "summary": "Statistieken maken je dagboek bruikbaarder dan alleen losse invoerregels.",
+      "bullets": [
+        "Dag- en weekoverzicht",
+        "Calorie- en macrotrends",
+        "Patronen herkennen",
+        "Voortgang terugkijken"
+      ],
+      "sections": [
+        [
+          "Waarom trends helpen",
+          "Eén dag zegt weinig; gemiddelden over tijd laten beter zien wat er gebeurt."
+        ],
+        [
+          "Patronen zien",
+          "Terugkerende snacks, drankjes of grote maaltijden vallen sneller op."
+        ],
+        [
+          "Bijsturen zonder paniek",
+          "Een trend helpt om rustig te corrigeren in plaats van op één maaltijd te reageren."
+        ]
+      ],
+      "workflowTitle": "Voortgang lezen zonder ruis",
+      "workflow": [
+        "Bekijk gemiddelden per week en vergelijk ze met je doel. Let op patronen die vaak terugkomen, niet op één afwijkende dag.",
+        "Gebruik statistieken als feedback, niet als oordeel."
+      ],
+      "note": "Automatisering verlaagt de drempel, maar neemt de controle niet over: portie, recept en verborgen ingrediënten blijven belangrijk.",
+      "bestFor": [
+        "weektrends",
+        "macro’s",
+        "dagboekanalyse",
+        "doelen"
+      ],
+      "workflowKicker": "Voortgang",
+      "noteTitle": "Interpretatie"
+    },
+    "/meal-reminders/": {
+      "title": "Maaltijdherinneringen",
+      "h1": "Herinneringen om je dagboek bij te houden",
+      "description": "Gebruik subtiele herinneringen om maaltijden te registreren voordat je details vergeet.",
+      "kicker": "Herinneringen",
+      "summary": "Een dagboek werkt beter wanneer je maaltijden vastlegt terwijl je ze nog goed weet.",
+      "bullets": [
+        "Herinneringen per dag",
+        "Minder vergeten invoer",
+        "Handig bij drukte",
+        "Consistenter dagboek"
+      ],
+      "sections": [
+        [
+          "Waarom herinneren helpt",
+          "Na een paar uur vergeet je porties, sauzen en snacks sneller."
+        ],
+        [
+          "Niet te veel meldingen",
+          "Herinneringen moeten ondersteunen, niet irriteren."
+        ],
+        [
+          "Combineer met snelle invoer",
+          "Een melding plus foto-invoer maakt het makkelijker om consistent te blijven."
+        ]
+      ],
+      "workflowTitle": "Herinneringen nuttig inzetten",
+      "workflow": [
+        "Kies momenten waarop je normaal eet of waarop je vaak vergeet te loggen. Houd het simpel en pas meldingen aan als ze niet meer helpen.",
+        "Regelmaat is belangrijker dan perfecte timing."
+      ],
+      "note": "Automatisering verlaagt de drempel, maar neemt de controle niet over: portie, recept en verborgen ingrediënten blijven belangrijk.",
+      "bestFor": [
+        "drukke dagen",
+        "gewoonte opbouwen",
+        "maaltijden niet vergeten",
+        "dagelijkse routine"
+      ],
+      "workflowKicker": "Routine",
+      "noteTitle": "Praktisch"
+    },
+    "/google-health-connect/": {
+      "title": "Google Health Connect",
+      "h1": "Verbind voedingsdata met Health Connect",
+      "description": "Gebruik Health Connect om gezondheids- en voedingsgegevens beter in je routine te laten passen.",
+      "kicker": "Integraties",
+      "summary": "Een voedingsdagboek wordt handiger wanneer het aansluit op de tools die je al gebruikt.",
+      "bullets": [
+        "Health Connect",
+        "Android-integratie",
+        "Gegevens overzichtelijker",
+        "Meer context"
+      ],
+      "sections": [
+        [
+          "Waarom verbinden",
+          "Activiteit, gewicht en voeding zijn makkelijker te begrijpen wanneer ze niet volledig los staan."
+        ],
+        [
+          "Controle over gegevens",
+          "Controleer altijd welke gegevens je deelt en welke app toegang krijgt."
+        ],
+        [
+          "Gebruik als context",
+          "Gezondheidsdata helpt trends duiden, maar vervangt geen professioneel advies."
+        ]
+      ],
+      "workflowTitle": "Health Connect bewust gebruiken",
+      "workflow": [
+        "Koppel alleen de gegevens die je nodig hebt en controleer de permissies in je Android-instellingen.",
+        "Gebruik de koppeling als extra context naast je voedingsdagboek."
+      ],
+      "note": "Beschikbaarheid en functies kunnen verschillen per apparaat, Android-versie en regio.",
+      "bestFor": [
+        "Android",
+        "Health Connect",
+        "gezondheidsdata",
+        "integraties"
+      ],
+      "workflowKicker": "Integratie",
+      "noteTitle": "Privacy"
+    },
+    "/data-export/": {
+      "title": "Gegevens exporteren",
+      "h1": "Exporteer je voedingsdagboek",
+      "description": "Bewaar of analyseer je invoer buiten de app wanneer je meer overzicht nodig hebt.",
+      "kicker": "Gegevens",
+      "summary": "Export is handig voor wie eigen analyses wil maken of gegevens wil delen met een professional.",
+      "bullets": [
+        "Dagboekgegevens",
+        "Analyse buiten de app",
+        "Delen indien nodig",
+        "Meer controle"
+      ],
+      "sections": [
+        [
+          "Wanneer exporteren",
+          "Bij langere periodes, coaching, eigen spreadsheets of overleg met een diëtist kan export handig zijn."
+        ],
+        [
+          "Controleer de context",
+          "Geëxporteerde waarden blijven schattingen en moeten met porties en notities worden geïnterpreteerd."
+        ],
+        [
+          "Bewaar bewust",
+          "Voedingsdata is persoonlijk. Sla exports veilig op en deel ze alleen met mensen die je vertrouwt."
+        ]
+      ],
+      "workflowTitle": "Export gebruiken zonder context te verliezen",
+      "workflow": [
+        "Exporteer een periode die lang genoeg is om trends te zien. Voeg waar nodig notities toe over reizen, ziekte of veranderde routine.",
+        "Gebruik exports als hulpmiddel voor reflectie, niet als absolute waarheid."
+      ],
+      "note": "Een export bevat persoonlijke informatie. Behandel het bestand als privégegevens.",
+      "bestFor": [
+        "eigen analyse",
+        "coaching",
+        "langere trends",
+        "gegevenscontrole"
+      ],
+      "workflowKicker": "Export",
+      "noteTitle": "Privacy"
+    },
+    "/use-cases/": {
+      "title": "Toepassingen",
+      "h1": "Toepassingen voor Calorie Counter AI",
+      "description": "Praktische manieren om calorieën, macro’s en maaltijden bij te houden voor afvallen, spieropbouw, onderhoud en dagelijks overzicht.",
+      "kicker": "Toepassingen"
+    },
+    "/weight-loss-calorie-counter/": {
+      "title": "Calorieteller voor afvallen",
+      "h1": "Calorieën tellen bij afvallen",
+      "description": "Houd je calorie-inname bij met foto’s, barcodes en duidelijke dagtotalen.",
+      "kicker": "Afvallen",
+      "summary": "Afvallen wordt overzichtelijker wanneer je ziet waar calorieën vandaan komen en hoeveel ruimte er nog is.",
+      "bullets": [
+        "Snelle invoer via foto",
+        "Bewerkbare porties",
+        "Calorieën en macro’s samen",
+        "Geschikt voor echte maaltijden"
+      ],
+      "sections": [
+        [
+          "Dagelijks overzicht",
+          "Zie hoeveel calorieën je hebt geregistreerd en welke maaltijden het meest bijdragen."
+        ],
+        [
+          "Porties tellen mee",
+          "Zelfs gezonde maaltijden kunnen meer calorieën bevatten door portiegrootte, olie of sauzen."
+        ],
+        [
+          "Volhouden is belangrijker",
+          "Een snelle invoer maakt het makkelijker om consequent te blijven."
+        ]
+      ],
+      "workflowTitle": "Afvallen praktisch volgen",
+      "workflow": [
+        "Log maaltijden zo snel mogelijk, controleer porties en bekijk het dagtotaal. Gebruik de trend over meerdere dagen, niet één losse maaltijd.",
+        "Maak correcties wanneer je weet dat de schatting te hoog of te laag is."
+      ],
+      "note": "De app geeft geen persoonlijk dieetadvies. Voor medische doelen of eetproblemen is professionele begeleiding belangrijk.",
+      "bestFor": [
+        "calorietekort",
+        "dagdoel",
+        "portiecontrole",
+        "eetgewoonten"
+      ],
+      "workflowKicker": "Doel",
+      "noteTitle": "Belangrijk"
+    },
+    "/calorie-deficit-app/": {
+      "title": "App voor calorietekort",
+      "h1": "Een calorietekort overzichtelijk volgen",
+      "description": "Gebruik een voedingsdagboek om te zien of je gemiddeld minder energie binnenkrijgt dan je verbruikt.",
+      "kicker": "Calorietekort",
+      "summary": "Een tekort gaat over gemiddelden in de tijd, niet over één perfecte dag.",
+      "bullets": [
+        "Snelle invoer via foto",
+        "Bewerkbare porties",
+        "Calorieën en macro’s samen",
+        "Geschikt voor echte maaltijden"
+      ],
+      "sections": [
+        [
+          "Wat zichtbaar wordt",
+          "Maaltijden, snacks en dranken tellen allemaal mee in je gemiddelde."
+        ],
+        [
+          "Waarom foto’s helpen",
+          "Snelle registratie verkleint de kans dat je later iets vergeet."
+        ],
+        [
+          "Niet te agressief",
+          "Een te groot tekort is vaak moeilijk vol te houden."
+        ]
+      ],
+      "workflowTitle": "Een tekort volgen zonder obsessie",
+      "workflow": [
+        "Gebruik het dagboek om richting te zien. Controleer weekgemiddelden en pas rustig aan als je trend niet past bij je doel.",
+        "Combineer cijfers met energie, honger en haalbaarheid."
+      ],
+      "note": "Calorietekort is een algemeen principe, geen individueel medisch advies.",
+      "bestFor": [
+        "afvallen",
+        "weekgemiddelde",
+        "energie-inname",
+        "routine"
+      ],
+      "workflowKicker": "Calorietekort",
+      "noteTitle": "Balans"
+    },
+    "/muscle-gain-calorie-tracker/": {
+      "title": "Calorietracker voor spieropbouw",
+      "h1": "Calorieën en eiwitten volgen voor spieropbouw",
+      "description": "Houd calorieën en eiwitten zichtbaar wanneer je sterker wilt worden of massa wilt opbouwen.",
+      "kicker": "Spieropbouw",
+      "summary": "Bij spieropbouw draait het vaak om genoeg energie, genoeg eiwitten en consistent trainen.",
+      "bullets": [
+        "Snelle invoer via foto",
+        "Bewerkbare porties",
+        "Calorieën en macro’s samen",
+        "Geschikt voor echte maaltijden"
+      ],
+      "sections": [
+        [
+          "Eiwitten in beeld",
+          "Bekijk eiwitten naast je totale calorieën."
+        ],
+        [
+          "Genoeg eten",
+          "Een dagboek helpt zien of je structureel te laag uitkomt."
+        ],
+        [
+          "Maaltijden herhalen",
+          "Favoriete maaltijden maken consequent eten makkelijker."
+        ]
+      ],
+      "workflowTitle": "Voeding ondersteunen bij training",
+      "workflow": [
+        "Registreer hoofdmaaltijden en eiwitbronnen. Kijk naar je dagtotaal en herhaal maaltijden die goed werken.",
+        "Gebruik cijfers als steun naast training, slaap en herstel."
+      ],
+      "note": "Voor sportvoeding of medische vragen blijft persoonlijk advies van een professional beter.",
+      "bestFor": [
+        "eiwitten",
+        "bulkfase",
+        "krachttraining",
+        "maaltijdplanning"
+      ],
+      "workflowKicker": "Spieropbouw",
+      "noteTitle": "Context"
+    },
+    "/maintenance-calorie-tracker/": {
+      "title": "Tracker voor gewichtsonderhoud",
+      "h1": "Op gewicht blijven met een helder dagboek",
+      "description": "Gebruik calorieën en macro’s om stabiele gewoonten te herkennen zonder steeds te diëten.",
+      "kicker": "Onderhoud",
+      "summary": "Gewichtsonderhoud vraagt vaak om inzicht in normale dagen, niet alleen in strenge periodes.",
+      "bullets": [
+        "Snelle invoer via foto",
+        "Bewerkbare porties",
+        "Calorieën en macro’s samen",
+        "Geschikt voor echte maaltijden"
+      ],
+      "sections": [
+        [
+          "Normale dagen volgen",
+          "Zie hoe je gebruikelijke maaltijden samen optellen."
+        ],
+        [
+          "Flexibel blijven",
+          "Een dagboek helpt compenseren zonder zwart-wit te denken."
+        ],
+        [
+          "Trends boven perfectie",
+          "Weekgemiddelden zeggen meer dan één uitschieter."
+        ]
+      ],
+      "workflowTitle": "Onderhoud makkelijker maken",
+      "workflow": [
+        "Log regelmatig genoeg om je patroon te zien. Vergelijk drukke dagen, weekenden en normale werkdagen.",
+        "Gebruik de informatie om kleine aanpassingen te maken voordat veranderingen groot worden."
+      ],
+      "note": "Automatisering verlaagt de drempel, maar neemt de controle niet over: portie, recept en verborgen ingrediënten blijven belangrijk.",
+      "bestFor": [
+        "gewicht behouden",
+        "weekenden",
+        "routine",
+        "flexibele voeding"
+      ],
+      "workflowKicker": "Onderhoud",
+      "noteTitle": "Trend"
+    },
+    "/homemade-food-calorie-counter/": {
+      "title": "Calorieteller voor zelfgemaakt eten",
+      "h1": "Calorieën schatten in zelfgemaakte maaltijden",
+      "description": "Fotografeer thuisgerechten en pas portie, olie, saus of ingrediënten aan voor een betere invoer.",
+      "kicker": "Thuis koken",
+      "summary": "Zelfgemaakte maaltijden hebben vaak geen etiket, maar je kunt wel een bruikbare schatting maken.",
+      "bullets": [
+        "Snelle invoer via foto",
+        "Bewerkbare porties",
+        "Calorieën en macro’s samen",
+        "Geschikt voor echte maaltijden"
+      ],
+      "sections": [
+        [
+          "Gemengde gerechten",
+          "Stoofschotels, pasta’s, bowls en salades zijn lastig handmatig op te bouwen."
+        ],
+        [
+          "Verborgen calorieën",
+          "Olie, kaas, noten en sauzen maken vaak het verschil."
+        ],
+        [
+          "Receptkennis gebruiken",
+          "Als je weet wat erin zit, corrigeer de AI-schatting."
+        ]
+      ],
+      "workflowTitle": "Thuisgerechten beter loggen",
+      "workflow": [
+        "Maak een foto van het bord en pas daarna ingrediënten aan die de camera niet kan zien. Corrigeer vooral olie, saus, kaas en portiegrootte.",
+        "Bij terugkerende recepten kun je je correcties hergebruiken als richtlijn."
+      ],
+      "note": "Zelfgemaakt eten blijft variabel. Een eerlijke schatting is meestal nuttiger dan helemaal niets loggen.",
+      "bestFor": [
+        "thuis koken",
+        "recepten",
+        "gemengde gerechten",
+        "porties"
+      ],
+      "workflowKicker": "Zelfgemaakt",
+      "noteTitle": "Let op"
+    },
+    "/restaurant-calorie-tracker/": {
+      "title": "Calorietracker voor restaurantmaaltijden",
+      "h1": "Restaurantgerechten loggen zonder etiket",
+      "description": "Gebruik een foto en menucontext om uit eten realistisch te schatten.",
+      "kicker": "Restaurant",
+      "summary": "Buiten de deur heb je minder controle, maar je kunt nog steeds een bruikbare invoer maken.",
+      "bullets": [
+        "Snelle invoer via foto",
+        "Bewerkbare porties",
+        "Calorieën en macro’s samen",
+        "Geschikt voor echte maaltijden"
+      ],
+      "sections": [
+        [
+          "Foto van het bord",
+          "Helpt portie en onderdelen onthouden."
+        ],
+        [
+          "Menu als hint",
+          "Ingrediënten en bereidingswijze geven context."
+        ],
+        [
+          "Extra’s toevoegen",
+          "Sauzen, olie, brood en dranken worden makkelijk vergeten."
+        ]
+      ],
+      "workflowTitle": "Uit eten praktisch registreren",
+      "workflow": [
+        "Maak een foto voordat je begint en controleer achteraf portie, saus en bijgerechten. Gebruik het resultaat als bereik, niet als exacte meting.",
+        "Bij twijfel is consistent schatten beter dan niets registreren."
+      ],
+      "note": "Restaurantwaarden zijn vaak minder exact. Gebruik ze als richtlijn voor je dagboek.",
+      "bestFor": [
+        "uit eten",
+        "menu’s",
+        "porties schatten",
+        "sociale maaltijden"
+      ],
+      "workflowKicker": "Restaurant",
+      "noteTitle": "Realistisch"
+    },
+    "/meal-tracker/": {
+      "title": "Maaltijdtracker",
+      "h1": "Maaltijden snel vastleggen",
+      "description": "Registreer ontbijt, lunch, diner en snacks met foto, barcode of handmatige invoer.",
+      "kicker": "Maaltijden",
+      "summary": "Een maaltijdtracker helpt je dag op te bouwen uit duidelijke, bewerkbare invoerregels.",
+      "bullets": [
+        "Snelle invoer via foto",
+        "Bewerkbare porties",
+        "Calorieën en macro’s samen",
+        "Geschikt voor echte maaltijden"
+      ],
+      "sections": [
+        [
+          "Elke maaltijd op één plek",
+          "Bekijk wat je per dag hebt toegevoegd."
+        ],
+        [
+          "Snacks en dranken",
+          "Kleine dingen tellen ook mee in het totaal."
+        ],
+        [
+          "Bewerkbaar",
+          "Pas hoeveelheden of ingrediënten aan wanneer je meer weet."
+        ]
+      ],
+      "workflowTitle": "Maaltijden overzichtelijk houden",
+      "workflow": [
+        "Leg maaltijden vast zodra het kan en corrigeer later alleen wat nodig is. Gebruik foto’s als geheugensteun.",
+        "Maak het proces snel genoeg om dagelijks te blijven doen."
+      ],
+      "note": "Automatisering verlaagt de drempel, maar neemt de controle niet over: portie, recept en verborgen ingrediënten blijven belangrijk.",
+      "bestFor": [
+        "ontbijt",
+        "lunch",
+        "diner",
+        "snacks"
+      ],
+      "workflowKicker": "Maaltijden",
+      "noteTitle": "Workflow"
+    },
+    "/photo-food-journal/": {
+      "title": "Fotodagboek voor eten",
+      "h1": "Een visueel voedingsdagboek met foto’s",
+      "description": "Gebruik maaltijd­foto’s om te onthouden wat je at en hoe porties eruitzagen.",
+      "kicker": "Fotodagboek",
+      "summary": "Foto’s voegen context toe die cijfers alleen niet geven.",
+      "bullets": [
+        "Snelle invoer via foto",
+        "Bewerkbare porties",
+        "Calorieën en macro’s samen",
+        "Geschikt voor echte maaltijden"
+      ],
+      "sections": [
+        [
+          "Visuele herinnering",
+          "Zie je maaltijd terug zoals hij op tafel stond."
+        ],
+        [
+          "Portiecontext",
+          "Borden, kommen en bijgerechten worden zichtbaar."
+        ],
+        [
+          "Minder typen",
+          "Een foto start de invoer sneller dan handmatig zoeken."
+        ]
+      ],
+      "workflowTitle": "Foto’s gebruiken als dagboek",
+      "workflow": [
+        "Maak foto’s van volledige maaltijden en controleer de AI-invoer voordat je opslaat. Bekijk later patronen in porties, timing en keuzes.",
+        "Foto’s zijn vooral handig wanneer je dag druk is of je later wilt terugkijken."
+      ],
+      "note": "Automatisering verlaagt de drempel, maar neemt de controle niet over: portie, recept en verborgen ingrediënten blijven belangrijk.",
+      "bestFor": [
+        "visueel dagboek",
+        "porties",
+        "gewoonten",
+        "maaltijdherinnering"
+      ],
+      "workflowKicker": "Foto’s",
+      "noteTitle": "Context"
+    },
+    "/healthy-eating-tracker/": {
+      "title": "Tracker voor gezonder eten",
+      "h1": "Gezonder eten volgen zonder ingewikkelde regels",
+      "description": "Gebruik calorieën, macro’s en een visueel dagboek om bewuster te kiezen.",
+      "kicker": "Gezonde gewoonten",
+      "summary": "Gezonder eten gaat vaak om patronen: genoeg eiwitten, passende porties en minder vergeten snacks.",
+      "bullets": [
+        "Snelle invoer via foto",
+        "Bewerkbare porties",
+        "Calorieën en macro’s samen",
+        "Geschikt voor echte maaltijden"
+      ],
+      "sections": [
+        [
+          "Bewuster kiezen",
+          "Zie wat je eet in plaats van te gokken."
+        ],
+        [
+          "Macro’s bekijken",
+          "Eiwitten, vetten en koolhydraten geven meer context dan calorieën alleen."
+        ],
+        [
+          "Patronen herkennen",
+          "Dagen terugkijken maakt gewoonten zichtbaar."
+        ]
+      ],
+      "workflowTitle": "Gezonde gewoonten zichtbaar maken",
+      "workflow": [
+        "Registreer wat je echt eet en gebruik de cijfers als feedback. Kijk naar herhaling: welke maaltijden helpen je en welke maken je doel moeilijker?",
+        "Kleine consistente verbeteringen zijn vaak bruikbaarder dan perfecte dagen."
+      ],
+      "note": "De app vervangt geen persoonlijk voedingsadvies of behandeling.",
+      "bestFor": [
+        "gezonde gewoonten",
+        "bewust eten",
+        "macro’s",
+        "dagboek"
+      ],
+      "workflowKicker": "Gewoonten",
+      "noteTitle": "Niet medisch"
+    },
+    "/blog/": {
+      "title": "Gidsen",
+      "h1": "Gidsen over calorieën tellen",
+      "description": "Praktische artikelen over calorieën tellen, AI-schattingen, macro’s, porties, restaurantmaaltijden en voedingsdagboeken.",
+      "kicker": "Gidsen"
+    },
+    "/blog/how-to-count-calories-from-a-photo/": {
+      "title": "Calorieën tellen vanaf een foto",
+      "h1": "Calorieën tellen vanaf een foto",
+      "description": "Zo gebruik je een maaltijd­foto om sneller een bewerkbare schatting van calorieën en macro’s te maken.",
+      "category": "Gids",
+      "readTime": "4 min lezen",
+      "intro": "Een foto kan het begin van je invoer versnellen, vooral bij maaltijden zonder etiket.",
+      "sections": [
+        [
+          "Maak de foto duidelijk",
+          "Fotografeer het hele bord bij normaal licht. Vermijd extreme hoeken en verborgen onderdelen."
+        ],
+        [
+          "Controleer de herkenning",
+          "Kijk of het gerecht, de portie en de belangrijkste ingrediënten kloppen."
+        ],
+        [
+          "Voeg verborgen ingrediënten toe",
+          "Olie, saus, suiker, kaas en dranken worden niet altijd zichtbaar herkend."
+        ],
+        [
+          "Sla bewerkbaar op",
+          "Gebruik de AI-schatting als concept, niet als onfeilbare uitkomst."
+        ]
+      ],
+      "takeaway": "De beste fotoschatting is snel én gecontroleerd: foto maken, portie checken, verborgen ingrediënten toevoegen."
+    },
+    "/blog/how-accurate-are-ai-calorie-counters/": {
+      "title": "Hoe nauwkeurig zijn AI-calorietellers?",
+      "h1": "Hoe nauwkeurig zijn AI-calorietellers?",
+      "description": "Wat AI goed kan schatten, waar fouten ontstaan en hoe je betrouwbaardere invoer maakt.",
+      "category": "Gids",
+      "readTime": "4 min lezen",
+      "intro": "AI-calorietellers zijn handig voor snelheid, maar blijven afhankelijk van zichtbaarheid en context.",
+      "sections": [
+        [
+          "Waar AI goed in is",
+          "Zichtbare producten, eenvoudige borden en duidelijke porties werken meestal beter."
+        ],
+        [
+          "Waar fouten ontstaan",
+          "Verborgen olie, sauzen, gemengde recepten en onduidelijke foto’s kunnen de schatting vertekenen."
+        ],
+        [
+          "Waarom controleren telt",
+          "Handmatige correcties maken het verschil tussen een ruwe gok en een bruikbare invoer."
+        ],
+        [
+          "Denk in trends",
+          "Een losse schatting kan afwijken, maar consistente invoer kan toch nuttige patronen laten zien."
+        ]
+      ],
+      "takeaway": "Gebruik AI als startpunt. Nauwkeurigheid komt vooral uit jouw controle op portie en verborgen ingrediënten."
+    },
+    "/blog/ai-calorie-counter-vs-manual-logging/": {
+      "title": "AI-calorieteller of handmatig loggen?",
+      "h1": "AI-calorieteller of handmatig loggen?",
+      "description": "Wanneer foto’s sneller zijn, wanneer handmatige invoer beter is en hoe je beide combineert.",
+      "category": "Gids",
+      "readTime": "4 min lezen",
+      "intro": "De beste methode hangt af van wat je eet en hoeveel je weet over de maaltijd.",
+      "sections": [
+        [
+          "Foto voor snelheid",
+          "Gebruik foto’s bij gemengde gerechten, restaurantmaaltijden en restjes."
+        ],
+        [
+          "Handmatig voor precisie",
+          "Gebruik handmatige invoer wanneer je gewicht, recept of etiket exact kent."
+        ],
+        [
+          "Barcode voor verpakt eten",
+          "Een barcode is vaak het snelst voor supermarktproducten."
+        ],
+        [
+          "Combineren werkt vaak het best",
+          "Start snel en corrigeer wat jij beter weet dan de app."
+        ]
+      ],
+      "takeaway": "AI en handmatig loggen hoeven niet te concurreren: samen maken ze je dagboek sneller én beter."
+    },
+    "/blog/food-calorie-scanner/": {
+      "title": "Wat is een calorie­scanner voor voeding?",
+      "h1": "Wat is een calorie­scanner voor voeding?",
+      "description": "Verschil tussen fotoscanner, barcodescanner en handmatige invoer voor voedingswaarden.",
+      "category": "Gids",
+      "readTime": "4 min lezen",
+      "intro": "Een voedingsscanner helpt je sneller van maaltijd naar dagboekinvoer te gaan.",
+      "sections": [
+        [
+          "Fotoscanner",
+          "Handig voor borden zonder etiket en gemengde maaltijden."
+        ],
+        [
+          "Barcodescanner",
+          "Handig voor verpakte producten met merk en voedingsinformatie."
+        ],
+        [
+          "Handmatige invoer",
+          "Handig wanneer je het recept of gewicht precies kent."
+        ],
+        [
+          "Controle blijft nodig",
+          "Elke methode heeft context nodig: portie, merk en bereiding."
+        ]
+      ],
+      "takeaway": "Kies de scanner die past bij de situatie: foto voor borden, barcode voor verpakkingen, handmatig voor exacte gegevens."
+    },
+    "/blog/how-to-track-macros-for-beginners/": {
+      "title": "Macro’s volgen voor beginners",
+      "h1": "Macro’s volgen voor beginners",
+      "description": "Eenvoudige uitleg over eiwitten, vetten en koolhydraten in je voedingsdagboek.",
+      "category": "Gids",
+      "readTime": "4 min lezen",
+      "intro": "Macro’s geven meer context aan je calorieën zonder dat je meteen ingewikkeld hoeft te plannen.",
+      "sections": [
+        [
+          "Drie hoofdgroepen",
+          "Eiwitten, vetten en koolhydraten leveren energie en hebben verschillende rollen."
+        ],
+        [
+          "Begin met zichtbaarheid",
+          "Bekijk eerst je huidige verdeling voordat je doelen strak maakt."
+        ],
+        [
+          "Eiwitten vaak prioriteit",
+          "Veel mensen letten extra op eiwitten voor verzadiging of training."
+        ],
+        [
+          "Niet perfect nodig",
+          "Een bruikbare richting is belangrijker dan elke gram exact raken."
+        ]
+      ],
+      "takeaway": "Voor beginners is macro’s volgen vooral leren kijken: wat zit er in je normale maaltijden?"
+    },
+    "/blog/calories-vs-macros/": {
+      "title": "Calorieën versus macro’s",
+      "h1": "Calorieën versus macro’s",
+      "description": "Het verschil tussen totale energie en de verdeling over eiwitten, vetten en koolhydraten.",
+      "category": "Gids",
+      "readTime": "4 min lezen",
+      "intro": "Calorieën en macro’s beantwoorden verschillende vragen over je voeding.",
+      "sections": [
+        [
+          "Calorieën zijn energie",
+          "Ze helpen begrijpen hoeveel energie je in totaal eet."
+        ],
+        [
+          "Macro’s zijn samenstelling",
+          "Ze laten zien hoeveel eiwitten, vetten en koolhydraten daarin zitten."
+        ],
+        [
+          "Beide zijn nuttig",
+          "Voor veel doelen is totaal én verdeling relevant."
+        ],
+        [
+          "Context telt",
+          "Kwaliteit, portie en consistentie blijven belangrijk."
+        ]
+      ],
+      "takeaway": "Calorieën tonen hoeveel; macro’s tonen waaruit. Samen geven ze een duidelijker beeld."
+    },
+    "/blog/how-to-count-calories-in-homemade-food/": {
+      "title": "Calorieën tellen in zelfgemaakt eten",
+      "h1": "Calorieën tellen in zelfgemaakt eten",
+      "description": "Praktische aanpak voor recepten, gemengde gerechten en porties zonder etiket.",
+      "category": "Gids",
+      "readTime": "4 min lezen",
+      "intro": "Zelfgemaakt eten is variabel, maar je kunt met een paar checks een bruikbare schatting maken.",
+      "sections": [
+        [
+          "Start met het bord",
+          "Een foto helpt de zichtbare onderdelen en portie vastleggen."
+        ],
+        [
+          "Voeg receptkennis toe",
+          "Olie, boter, kaas, noten en sauzen moet je vaak zelf aanvullen."
+        ],
+        [
+          "Let op porties",
+          "Dezelfde pan kan heel andere porties opleveren."
+        ],
+        [
+          "Herhaal recepten",
+          "Voor gerechten die je vaak maakt, worden correcties steeds makkelijker."
+        ]
+      ],
+      "takeaway": "Bij thuisgerechten is de combinatie van foto plus jouw receptkennis het sterkst."
+    },
+    "/blog/how-to-estimate-portion-size/": {
+      "title": "Portiegrootte schatten",
+      "h1": "Portiegrootte schatten",
+      "description": "Tips om porties realistischer te loggen wanneer je geen weegschaal gebruikt.",
+      "category": "Gids",
+      "readTime": "4 min lezen",
+      "intro": "Portiegrootte is vaak de grootste bron van verschil in een caloriedagboek.",
+      "sections": [
+        [
+          "Gebruik zichtbare referentie",
+          "Bord, kom en bestek geven context voor de grootte."
+        ],
+        [
+          "Fotografeer alles",
+          "Een volledige foto maakt de schatting consistenter."
+        ],
+        [
+          "Corrigeer wanneer je meer weet",
+          "Weet je het gewicht of de hoeveelheid, vervang dan de schatting."
+        ],
+        [
+          "Accepteer een marge",
+          "Buiten de deur is minder precisie normaal."
+        ]
+      ],
+      "takeaway": "Een geschatte en gecontroleerde portie is vaak genoeg om je dagboek consequent te houden."
+    },
+    "/blog/how-many-calories-should-i-eat-a-day/": {
+      "title": "Hoeveel calorieën moet ik per dag eten?",
+      "h1": "Hoeveel calorieën moet ik per dag eten?",
+      "description": "Waarom je caloriebehoefte afhangt van lichaam, activiteit, doelen en trends in de tijd.",
+      "category": "Gids",
+      "readTime": "4 min lezen",
+      "intro": "Er is geen enkel getal dat voor iedereen klopt: je behoefte hangt van veel factoren af.",
+      "sections": [
+        [
+          "Belangrijke factoren",
+          "Gewicht, lengte, leeftijd, geslacht, activiteit en doel beïnvloeden je richtwaarde."
+        ],
+        [
+          "Gebruik een startpunt",
+          "Een eerste doel moet je vergelijken met gewicht, energie en haalbaarheid."
+        ],
+        [
+          "Kijk naar trends",
+          "Weekgemiddelden en voortgang zijn nuttiger dan één losse dag."
+        ],
+        [
+          "Wanneer hulp vragen",
+          "Bij medische situaties of complexe doelen is een professional nodig."
+        ]
+      ],
+      "takeaway": "Het juiste getal is een richtwaarde om te testen en aan te passen, geen universele regel."
+    },
+    "/blog/what-is-a-calorie-deficit/": {
+      "title": "Wat is een calorietekort?",
+      "h1": "Wat is een calorietekort?",
+      "description": "Eenvoudige uitleg van een calorietekort en hoe je het met een voedingsdagboek volgt.",
+      "category": "Gids",
+      "readTime": "4 min lezen",
+      "intro": "Een calorietekort betekent dat je over tijd minder energie binnenkrijgt dan je lichaam verbruikt.",
+      "sections": [
+        [
+          "Basisidee",
+          "Als energie-inname lager is dan energieverbruik, daalt gewicht meestal op termijn."
+        ],
+        [
+          "Waarom een dagboek helpt",
+          "Registreren maakt porties, snacks en dranken zichtbaarder."
+        ],
+        [
+          "Pas op met te groot tekort",
+          "Een te groot tekort is vaak moeilijk vol te houden."
+        ],
+        [
+          "Meet over tijd",
+          "De weektrend is nuttiger dan één dag."
+        ]
+      ],
+      "takeaway": "Een calorietekort is een principe, maar het moet duurzaam en passend voor jou zijn."
+    },
+    "/blog/calorie-counting-mistakes/": {
+      "title": "Veelgemaakte fouten bij calorieën tellen",
+      "h1": "Veelgemaakte fouten bij calorieën tellen",
+      "description": "De bekendste fouten: porties onderschatten, sauzen vergeten, dranken overslaan en onregelmatig loggen.",
+      "category": "Gids",
+      "readTime": "4 min lezen",
+      "intro": "Calorieën tellen wordt nuttiger wanneer je weet welke fouten je dagboek vertekenen.",
+      "sections": [
+        [
+          "Olie en sauzen vergeten",
+          "Kleine hoeveelheden kunnen veel calorieën toevoegen."
+        ],
+        [
+          "Porties onderschatten",
+          "Een portie op het oog kan flink afwijken van de werkelijkheid."
+        ],
+        [
+          "Snacks en dranken overslaan",
+          "Ook kleine dingen beïnvloeden het gemiddelde."
+        ],
+        [
+          "Perfectie zoeken",
+          "Een houdbaar dagboek is nuttiger dan drie perfecte dagen."
+        ]
+      ],
+      "takeaway": "Controleer eerst porties, smaakmakers en consistentie: die wegen vaak zwaarder dan kleine details."
+    },
+    "/blog/how-to-log-restaurant-food/": {
+      "title": "Restauranteten loggen",
+      "h1": "Restauranteten loggen",
+      "description": "Praktische strategieën om maaltijden buiten de deur zonder voedingsetiket te schatten.",
+      "category": "Gids",
+      "readTime": "4 min lezen",
+      "intro": "In een restaurant heb je niet altijd recept en gewicht, maar je kunt wel een nuttige schatting maken.",
+      "sections": [
+        [
+          "Fotografeer het bord",
+          "Dat helpt om portie en onderdelen te onthouden."
+        ],
+        [
+          "Lees het menu",
+          "Ingrediënten en bereidingswijze geven nuttige aanwijzingen."
+        ],
+        [
+          "Voeg extra’s toe",
+          "Sauzen, olie, brood en dranken vergeet je makkelijk."
+        ],
+        [
+          "Denk in marges",
+          "Buiten de deur is een realistische schatting beter dan schijnprecisie."
+        ]
+      ],
+      "takeaway": "Ga bij restaurantmaaltijden voor een eerlijke, bewerkbare schatting, niet voor absolute precisie."
+    },
+    "/blog/how-to-track-protein/": {
+      "title": "Eiwitten volgen",
+      "h1": "Eiwitten volgen",
+      "description": "Tips om eiwitten zichtbaar te houden naast calorieën en andere macro’s.",
+      "category": "Gids",
+      "readTime": "4 min lezen",
+      "intro": "Eiwitten zijn voor veel mensen belangrijk bij verzadiging, spiermassa en maaltijdkwaliteit.",
+      "sections": [
+        [
+          "Log de hoofdbronnen",
+          "Vlees, vis, eieren, zuivel, peulvruchten, tofu en eiwitpoeder tellen sterk mee."
+        ],
+        [
+          "Bekijk de dag",
+          "Een dagtotaal is vaak nuttiger dan één maaltijd."
+        ],
+        [
+          "Verdeling",
+          "Veel mensen vinden het makkelijker om eiwitten over maaltijden te verdelen."
+        ],
+        [
+          "Niet alleen het getal",
+          "Ook algemene voedingskwaliteit en je doel tellen mee."
+        ]
+      ],
+      "takeaway": "Eiwitten zichtbaar houden naast calorieën maakt het dagboek voor veel doelen bruikbaarder."
+    },
+    "/blog/what-is-a-food-diary/": {
+      "title": "Wat is een voedingsdagboek?",
+      "h1": "Wat is een voedingsdagboek?",
+      "description": "Waar een voedingsdagboek voor dient en waarom foto’s, schattingen en correcties het praktischer maken.",
+      "category": "Gids",
+      "readTime": "4 min lezen",
+      "intro": "Een voedingsdagboek is een registratie van wat je over tijd eet en drinkt.",
+      "sections": [
+        [
+          "Wat staat erin",
+          "Maaltijden, snacks, dranken, porties en geschatte voedingswaarden."
+        ],
+        [
+          "Waarom het nuttig is",
+          "Het laat gewoonten en patronen zien die je uit geheugen moeilijk ziet."
+        ],
+        [
+          "Visueel dagboek",
+          "Foto’s helpen context en porties onthouden."
+        ],
+        [
+          "Volhouden",
+          "Hoe eenvoudiger de invoer, hoe groter de kans dat je doorgaat."
+        ]
+      ],
+      "takeaway": "Een goed voedingsdagboek hoeft niet perfect te zijn; het moet je echte gewoonten helpen begrijpen."
+    },
+    "/download/": {
+      "title": "Calorie Counter AI downloaden",
+      "h1": "Calorie Counter AI downloaden",
+      "description": "Installeer de app voor iPhone of Android en begin met calorieën tellen vanaf een foto van je maaltijd.",
+      "kicker": "Downloaden"
+    },
+    "/faq/": {
+      "title": "FAQ",
+      "h1": "Veelgestelde vragen",
+      "description": "Antwoorden over calorieën tellen vanaf foto’s, nauwkeurigheid, macro’s, barcodescanner en beschikbaarheid van de app.",
+      "kicker": "FAQ"
+    },
+    "/pricing/": {
+      "title": "Prijzen",
+      "h1": "Prijzen en gratis starten",
+      "description": "Begin gratis en bekijk actuele abonnementsvoorwaarden in de App Store of op Google Play.",
+      "kicker": "Prijzen"
+    },
+    "/support/": {
+      "title": "Support",
+      "h1": "Support",
+      "description": "Hulp nodig met Calorie Counter AI? Vind informatie over app, account en feedback.",
+      "kicker": "Support"
+    },
+    "/contact/": {
+      "title": "Contact",
+      "h1": "Contact",
+      "description": "Neem contact op met het team van Calorie Counter AI voor support, samenwerkingen of persverzoeken.",
+      "kicker": "Contact"
+    },
+    "/privacy-policy/": {
+      "title": "Privacybeleid",
+      "h1": "Privacybeleid",
+      "description": "Lees hoe Calorie Counter AI omgaat met gegevens, privacy en gebruikersvoorkeuren.",
+      "kicker": "Privacy"
+    },
+    "/terms/": {
+      "title": "Gebruiksvoorwaarden",
+      "h1": "Gebruiksvoorwaarden",
+      "description": "Voorwaarden voor het gebruik van Calorie Counter AI en de website.",
+      "kicker": "Voorwaarden"
+    },
+    "/health-disclaimer/": {
+      "title": "Gezondheidsdisclaimer",
+      "h1": "Gezondheidsdisclaimer",
+      "description": "Voedingsschattingen zijn informatief en vervangen geen professioneel medisch of voedingsadvies.",
+      "kicker": "Disclaimer"
+    },
+    "/delete-account/": {
+      "title": "Account verwijderen",
+      "h1": "Accountverwijdering aanvragen",
+      "description": "Lees hoe je verwijdering van je account en gekoppelde gegevens kunt aanvragen.",
+      "kicker": "Account"
+    },
+    "/press/": {
+      "title": "Perskit",
+      "h1": "Perskit",
+      "description": "Materialen en korte beschrijving van Calorie Counter AI voor pers, media en partners.",
+      "kicker": "Perskit"
+    },
+    "/how-many-calories-in/": {
+      "title": "Hoeveel calorieën zitten er in voeding?",
+      "h1": "Hoeveel calorieën zitten er in voeding?",
+      "description": "Bekijk calorieën, eiwitten, vetten en koolhydraten voor veelvoorkomende voedingsmiddelen en porties.",
+      "kicker": "Caloriegids"
+    }
+  },
+  "units": {
+    "kcal": "kcal",
+    "gram": "g"
+  },
+  "cookies": {
+    "title": "Cookie-instellingen",
+    "text": "We gebruiken noodzakelijke cookies en localStorage om je taal en cookievoorkeur te onthouden. Met je toestemming gebruiken we ook analytische cookies om de site te verbeteren.",
+    "accept": "Accepteren",
+    "decline": "Analytics weigeren"
+  }
+}
