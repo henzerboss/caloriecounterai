@@ -6,14 +6,37 @@ import { languageCodes, languages, nonEnglishLanguages } from './data/languages.
 import { pageEnhancements } from './data/pageEnhancements.js';
 import privacyPolicyText from './data/legal/privacy-policy.txt?raw';
 import termsOfUseText from './data/legal/terms-of-use.txt?raw';
+import enLocale from './locales/en.json';
 
-const localeModules = import.meta.glob('./locales/*.json', { eager: true });
-const locales = Object.fromEntries(
-  Object.entries(localeModules).map(([path, module]) => {
-    const code = path.split('/').pop().replace('.json', '');
-    return [code, module.default ?? module];
-  })
-);
+// EN всегда eager — используется как fallback и нужен сразу для SSG/SEO
+// Остальные локали грузятся динамически по требованию через import.meta.glob (lazy)
+const lazyLocaleModules = import.meta.glob('./locales/*.json');
+
+// Кеш загруженных локалей. en сразу.
+const locales = { en: enLocale };
+
+// Promise.cache чтобы не дублировать запросы
+const loadingLocales = new Map();
+
+function loadLocale(code) {
+  if (locales[code]) return Promise.resolve(locales[code]);
+  if (loadingLocales.has(code)) return loadingLocales.get(code);
+  const path = `./locales/${code}.json`;
+  const loader = lazyLocaleModules[path];
+  if (!loader) return Promise.resolve(enLocale);
+  const promise = loader().then((module) => {
+    const data = module.default ?? module;
+    locales[code] = data;
+    loadingLocales.delete(code);
+    return data;
+  }).catch(() => {
+    loadingLocales.delete(code);
+    return enLocale;
+  });
+  loadingLocales.set(code, promise);
+  return promise;
+}
+
 const localizedScreenLocales = new Set(languageCodes);
 const rtlLanguageCodes = new Set(['ar', 'fa', 'he', 'ur']);
 
@@ -273,9 +296,11 @@ function useSeo(page, locale, routePath, indexable) {
   }, [page, locale, routePath, indexable]);
 }
 
-function useScrollReveal(routeKey) {
+function useScrollReveal(routeKey, localeKey) {
   useEffect(() => {
     const elements = document.querySelectorAll('[data-reveal]');
+    // Сбрасываем is-visible при смене языка/маршрута, чтобы observer заново обработал актуальные DOM-узлы
+    elements.forEach((element) => element.classList.remove('is-visible'));
     if (!('IntersectionObserver' in window)) {
       elements.forEach((element) => element.classList.add('is-visible'));
       return undefined;
@@ -290,7 +315,7 @@ function useScrollReveal(routeKey) {
     }, { rootMargin: '0px 0px 120px 0px', threshold: 0.01 });
     elements.forEach((element) => observer.observe(element));
     return () => observer.disconnect();
-  }, [routeKey]);
+  }, [routeKey, localeKey]);
 }
 
 function Icon({ name }) {
@@ -513,7 +538,7 @@ function Header({ locale, routePath, t }) {
   return (
     <header className="site-header">
       <a className="brand" href={localizePath('/', locale)} aria-label="Calorie Counter AI home">
-        <img src={site.assets.icon} alt="" />
+        <img src={site.assets.iconSmall} alt="" width="40" height="40" decoding="async" fetchpriority="high" />
         <span>Calorie Counter AI</span>
       </a>
       <button className="mobile-toggle" onClick={() => setOpen(!open)} aria-label={t('nav.openMenu', 'Open menu')}>☰</button>
@@ -588,7 +613,7 @@ function Footer({ locale, t }) {
     <footer className="site-footer">
       <div className="footer-card">
         <div>
-          <a className="brand footer-brand" href={localizePath('/', locale)}><img src={site.assets.icon} alt="" /><span>Calorie Counter AI</span></a>
+          <a className="brand footer-brand" href={localizePath('/', locale)}><img src={site.assets.iconSmall} alt="" width="40" height="40" loading="lazy" decoding="async" /><span>Calorie Counter AI</span></a>
           <p>{t('footer.disclaimer')}</p>
           <SocialLinks className="footer-social" />
         </div>
@@ -667,7 +692,7 @@ function HomePage({ t, locale }) {
           <h2>{t('home.photoTitle')}</h2>
           <p>{t('home.photoText')}</p>
           <ul className="check-list">
-            {checkList.map((item) => <li key={item}>{item}</li>)}
+            {checkList.map((item, i) => <li key={`check-${i}`}>{item}</li>)}
           </ul>
         </div>
         <div className="image-frame screenshot-crop tilted" data-reveal>
@@ -676,8 +701,8 @@ function HomePage({ t, locale }) {
       </section>
 
       <section className="feature-grid section-wide" data-reveal>
-        {featureCards.map(([icon, title, text]) => (
-          <article className="feature-card" key={title}>
+        {featureCards.map(([icon, title, text], index) => (
+          <article className="feature-card" key={`feature-${index}`}>
             <Icon name={icon} />
             <h3>{title}</h3>
             <p>{text}</p>
@@ -695,7 +720,7 @@ function HomePage({ t, locale }) {
           <div className="eyebrow"><Icon name="goal" /> {t('home.goalEyebrow', 'Goal under control')}</div>
           <h2>{t('home.counterTitle')}</h2>
           <p>{t('home.counterText')}</p>
-          <div className="pill-list">{goalPills.map((pill) => <span key={pill}>{pill}</span>)}</div>
+          <div className="pill-list">{goalPills.map((pill, i) => <span key={`pill-${i}`}>{pill}</span>)}</div>
         </div>
       </section>
 
@@ -706,7 +731,7 @@ function HomePage({ t, locale }) {
           <p>{t('home.magicText')}</p>
         </div>
         <div className="speed-steps">
-          {magicSteps.map((step, index) => <React.Fragment key={step}><span>{step}</span>{index < magicSteps.length - 1 && <i />}</React.Fragment>)}
+          {magicSteps.map((step, index) => <React.Fragment key={`step-${index}`}><span>{step}</span>{index < magicSteps.length - 1 && <i />}</React.Fragment>)}
         </div>
       </section>
 
@@ -748,7 +773,7 @@ function HomePage({ t, locale }) {
       </section>
 
       <section className="download-band section-wide" data-reveal>
-        <img src={site.assets.icon} alt={t('alt.appIcon', 'Calorie Counter AI app icon')} />
+        <img src={site.assets.iconMedium} alt={t('alt.appIcon', 'Calorie Counter AI app icon')} width="128" height="128" loading="lazy" decoding="async" />
         <div>
           <h2>{t('home.downloadTitle', 'Start tracking calories with AI today')}</h2>
           <p>{t('home.downloadText', 'Download Calorie Counter AI for iPhone or Android and turn your next meal photo into a nutrition entry.')}</p>
@@ -762,7 +787,7 @@ function HomePage({ t, locale }) {
           <h2>{t('home.faqTitle', 'Questions before you download?')}</h2>
         </div>
         <div className="faq-list">
-          {faq.map(([q, a]) => <details key={q}><summary>{q}</summary><p>{a}</p></details>)}
+          {faq.map(([q, a], i) => <details key={`faq-${i}`}><summary>{q}</summary><p>{a}</p></details>)}
         </div>
       </section>
 
@@ -824,14 +849,14 @@ function StandardPage({ page: basePage, locale, t }) {
           <div className="eyebrow"><Icon name="sparkles" /> {page.kicker}</div>
           <h2>{page.summary}</h2>
           <ul className="check-list">
-            {page.bullets?.map((bullet) => <li key={bullet}>{bullet}</li>)}
+            {page.bullets?.map((bullet, i) => <li key={`bullet-${i}`}>{bullet}</li>)}
           </ul>
         </div>
         <div className="image-frame screenshot-crop" data-reveal><LocalizedScreenshot src={page.image} locale={locale} alt={page.title} /></div>
       </section>
       <section className="content-sections">
         {pageSections.map(([title, text], index) => (
-          <article key={title} className="content-card" data-reveal style={{ '--delay': `${index * 80}ms` }}>
+          <article key={`section-${index}`} className="content-card" data-reveal style={{ '--delay': `${index * 80}ms` }}>
             <h2>{title}</h2><p>{text}</p>
           </article>
         ))}
@@ -840,7 +865,7 @@ function StandardPage({ page: basePage, locale, t }) {
         <article>
           <div className="eyebrow"><Icon name="sparkles" /> {page.workflowKicker || t('labels.practicalWorkflow', 'Practical workflow')}</div>
           <h2>{page.workflowTitle || t('labels.workflowTitle', 'How this fits into daily tracking')}</h2>
-          {(page.workflow || []).map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
+          {(page.workflow || []).map((paragraph, i) => <p key={`wf-${i}`}>{paragraph}</p>)}
         </article>
         <article className="deep-note">
           <h3>{page.noteTitle || t('labels.goodToKnow', 'Good to know')}</h3>
@@ -848,7 +873,7 @@ function StandardPage({ page: basePage, locale, t }) {
           {page.bestFor && page.bestFor.length > 0 && (
             <div className="best-for-list">
               <strong>{t('labels.bestFor', 'Best for')}</strong>
-              <ul className="mini-list">{page.bestFor.map((item) => <li key={item}>{item}</li>)}</ul>
+              <ul className="mini-list">{page.bestFor.map((item, i) => <li key={`bf-${i}`}>{item}</li>)}</ul>
             </div>
           )}
         </article>
@@ -907,7 +932,7 @@ function ArticlePage({ page: basePage, locale, t }) {
         <div className="article-hero-image screenshot-crop"><LocalizedScreenshot src={page.image} locale={locale} alt={page.title} /></div>
       </section>
       <section className="article-body">
-        {page.sections.map(([heading, text]) => <section key={heading} data-reveal><h2>{heading}</h2><p>{text}</p></section>)}
+        {page.sections.map(([heading, text], i) => <section key={`s-${i}`} data-reveal><h2>{heading}</h2><p>{text}</p></section>)}
         <div className="article-note" data-reveal>
           <strong>{t('labels.quickTakeaway', 'Quick takeaway:')}</strong> {page.takeaway || t('labels.defaultTakeaway', 'Calorie Counter AI is designed to reduce logging friction. Use AI estimates, barcode scanning and manual edits together for a practical daily workflow.')}
         </div>
@@ -1016,12 +1041,12 @@ function FoodLandingPage({ page, locale, t }) {
 function LegalText({ text }) {
   return (
     <div className="legal-text">
-      {text.split(/\n+/).map((line) => {
+      {text.split(/\n+/).map((line, idx) => {
         const trimmed = line.trim();
         if (!trimmed) return null;
-        if (/^\d+\.\s/.test(trimmed)) return <h2 key={trimmed}>{trimmed}</h2>;
-        if (/^\d+\.\d+\.\s/.test(trimmed)) return <h3 key={trimmed}>{trimmed}</h3>;
-        return <p key={trimmed}>{trimmed}</p>;
+        if (/^\d+\.\s/.test(trimmed)) return <h2 key={`lt-${idx}`}>{trimmed}</h2>;
+        if (/^\d+\.\d+\.\s/.test(trimmed)) return <h3 key={`lt-${idx}`}>{trimmed}</h3>;
+        return <p key={`lt-${idx}`}>{trimmed}</p>;
       })}
     </div>
   );
@@ -1060,7 +1085,7 @@ function UtilityPage({ page: basePage, locale, t }) {
     <>
       <PageHero page={{ ...page, kicker: page.kicker || t('labels.information', 'Information') }} />
       <section className="legal-card" data-reveal>
-        {content.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
+        {content.map((paragraph, i) => <p key={`p-${i}`}>{paragraph}</p>)}
         {page.path === '/delete-account/' && <p>{t('utility.deleteExtra', `To request deletion, contact ${site.supportEmail} from the email linked to your account and include “Delete account” in the subject.`)}</p>}
       </section>
       <InternalCta locale={locale} t={t} />
@@ -1073,7 +1098,7 @@ function DownloadPage({ page, t }) {
     <>
       <PageHero page={{ ...page, kicker: page.kicker || t('nav.download', 'Download') }} />
       <section className="download-page-card section-wide" data-reveal>
-        <img src={site.assets.icon} alt="Calorie Counter AI app icon" />
+        <img src={site.assets.iconMedium} alt="Calorie Counter AI app icon" width="128" height="128" loading="lazy" decoding="async" />
         <div><h2>{t('download.availableTitle', 'Available for iPhone and Android')}</h2><p>{t('download.availableText', 'Start with a photo, barcode or simple diary entry. Keep calorie and macro tracking fast from day one.')}</p></div>
         <div className="hero-cta"><AppButton type="apple" t={t} /><AppButton type="google" t={t} /></div>
       </section>
@@ -1093,7 +1118,7 @@ function FaqPage({ page, t }) {
   return (
     <>
       <PageHero page={{ ...page, kicker: page.kicker || t('nav.faq', 'FAQ') }} />
-      <section className="faq-section" data-reveal><div className="faq-list">{items.map(([q,a]) => <details key={q} open><summary>{q}</summary><p>{a}</p></details>)}</div></section>
+      <section className="faq-section" data-reveal><div className="faq-list">{items.map(([q,a], i) => <details key={`faq-${i}`} open><summary>{q}</summary><p>{a}</p></details>)}</div></section>
     </>
   );
 }
@@ -1103,7 +1128,7 @@ function PressPage({ page, t }) {
     <>
       <PageHero page={{ ...page, kicker: page.kicker || t('utility.press', 'Press') }} />
       <section className="press-grid section-wide">
-        <div className="press-card" data-reveal><img src={site.assets.icon} alt={t('press.iconAlt', 'App icon')} /><h2>{t('press.iconTitle', 'App icon')}</h2><a href={site.assets.icon} download>{t('press.downloadIcon', 'Download icon')}</a></div>
+        <div className="press-card" data-reveal><img src={site.assets.iconMedium} alt={t('press.iconAlt', 'App icon')} width="128" height="128" loading="lazy" decoding="async" /><h2>{t('press.iconTitle', 'App icon')}</h2><a href={site.assets.iconLarge} download>{t('press.downloadIcon', 'Download icon')}</a></div>
         <div className="press-card" data-reveal><LocalizedScreenshot src={site.assets.screens.aiPhoto} locale="en" alt={t('press.screenshotAlt', 'App screenshot')} /><h2>{t('press.screenshotTitle', 'Screenshot')}</h2><a href={site.assets.screens.aiPhoto} download>{t('press.downloadScreenshot', 'Download screenshot')}</a></div>
         <div className="press-card text" data-reveal><h2>{t('press.shortDescriptionTitle', 'Short description')}</h2><p>{t('press.shortDescriptionText', 'Calorie Counter AI is an AI calorie counter app that estimates calories, macros and meal weight from food photos, with barcode scanning and a visual food diary.')}</p></div>
       </section>
@@ -1183,7 +1208,21 @@ function NotFound({ locale, t }) {
 
 export default function App() {
   const [{ locale, routePath, prefix }, setLocationState] = useState(parseLocation());
-  const t = useMemo(() => createTranslator(locale), [locale]);
+  // localesVersion инкрементируется при загрузке новой локали, чтобы форсировать re-render
+  const [localesVersion, setLocalesVersion] = useState(0);
+
+  // При смене locale — подгружаем словарь (если ещё не загружен) и обновляем version
+  useEffect(() => {
+    if (locale === 'en' || locales[locale]) return;
+    let cancelled = false;
+    loadLocale(locale).then(() => {
+      if (!cancelled) setLocalesVersion((v) => v + 1);
+    });
+    return () => { cancelled = true; };
+  }, [locale]);
+
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  const t = useMemo(() => createTranslator(locale), [locale, localesVersion]);
   const page = useMemo(() => {
     const basePage = routePath === '/'
       ? { title: t('seo.homeOgTitle', 'AI Calorie Counter App by Photo'), description: t('seo.homeDescription', locales.en.seo.homeDescription), type: 'home' }
@@ -1192,7 +1231,7 @@ export default function App() {
   }, [routePath, t]);
 
   useSeo(page || { title: 'Page not found', description: 'Page not found' }, locale, routePath, Boolean(page));
-  useScrollReveal(routePath);
+  useScrollReveal(routePath, locale);
 
   useEffect(() => {
     if (pathHasLocalePrefix(window.location.pathname) || isLegalOnlyRoute(routePath)) return;
@@ -1214,7 +1253,14 @@ export default function App() {
   }, [locale, routePath]);
 
   useEffect(() => {
-    const onPop = () => setLocationState(parseLocation());
+    const onPop = () => {
+      const next = parseLocation();
+      if (next.locale !== 'en' && !locales[next.locale]) {
+        loadLocale(next.locale).then(() => setLocationState(next));
+      } else {
+        setLocationState(next);
+      }
+    };
     window.addEventListener('popstate', onPop);
     return () => window.removeEventListener('popstate', onPop);
   }, []);
@@ -1226,19 +1272,30 @@ export default function App() {
       const url = new URL(anchor.href);
       if (url.origin !== window.location.origin) return;
       event.preventDefault();
-      window.history.pushState({}, '', url.pathname);
-      setLocationState(parseLocation());
-      window.scrollTo({ top: 0, behavior: 'smooth' });
+      // Если новый URL ведёт на другой язык — сначала подгружаем словарь, потом меняем route
+      const segments = url.pathname.split('/').filter(Boolean);
+      const firstSeg = (segments[0] || '').toLowerCase();
+      const targetLocale = languageCodes.includes(firstSeg) ? firstSeg : 'en';
+      const navigate = () => {
+        window.history.pushState({}, '', url.pathname);
+        setLocationState(parseLocation());
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      };
+      if (targetLocale !== locale && !locales[targetLocale]) {
+        loadLocale(targetLocale).then(navigate);
+      } else {
+        navigate();
+      }
     };
     document.addEventListener('click', handler);
     return () => document.removeEventListener('click', handler);
-  }, []);
+  }, [locale]);
 
   return (
     <div className="app">
       <MagicBackdrop />
       <Header locale={locale} routePath={routePath} t={t} />
-      <main>
+      <main key={`${locale}-${routePath}`}>
         {routePath === '/' && <HomePage t={t} locale={locale} />}
         {routePath === '/features/' && <HubPage page={{ ...page, kicker: page.kicker || t('nav.features', 'Features') }} items={featurePages.filter((item) => item.path !== '/features/')} locale={locale} t={t} kind="features" />}
         {routePath === useCaseIndex.path && <HubPage page={useCaseIndex} items={useCasePages} locale={locale} t={t} kind="use cases" />}

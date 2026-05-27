@@ -6,7 +6,13 @@ export const site = {
   googlePlayUrl: 'https://play.google.com/store/apps/details?id=com.henzerboss.CalorieCounterAI',
   supportEmail: 'support@evsi.store',
   assets: {
-    icon: '/assets/icons/app-icon.png',
+    icon: '/assets/icons/app-icon-128.webp',
+    iconSmall: '/assets/icons/app-icon-128.webp',
+    iconSmallPng: '/assets/icons/app-icon-128.png',
+    iconMedium: '/assets/icons/app-icon-256.webp',
+    iconMediumPng: '/assets/icons/app-icon-256.png',
+    iconLarge: '/assets/icons/app-icon-512.png',
+    iconLargeWebp: '/assets/icons/app-icon-512.webp',
     og: '/og-image.png',
     screens: {
       aiPhoto: '/assets/screens/ai-photo.png',

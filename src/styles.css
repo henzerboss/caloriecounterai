@@ -41,16 +41,24 @@ button, select, input, textarea { font: inherit; }
 }
 
 .magic-backdrop { position: fixed; inset: 0; z-index: -1; pointer-events: none; overflow: hidden; }
-.orb { position: absolute; width: 420px; height: 420px; border-radius: 50%; filter: blur(18px); opacity: .32; animation: floatOrb 12s ease-in-out infinite; }
+.orb { position: absolute; width: 420px; height: 420px; border-radius: 50%; filter: blur(18px); opacity: .32; animation: floatOrb 12s ease-in-out infinite; will-change: transform; transform: translateZ(0); }
 .orb-one { top: 10%; left: -120px; background: radial-gradient(circle, #ffbf7b, transparent 65%); }
 .orb-two { top: 4%; right: -120px; background: radial-gradient(circle, #8f7cff, transparent 65%); animation-delay: -3s; }
 .orb-three { bottom: 5%; left: 35%; background: radial-gradient(circle, #8bdfff, transparent 65%); animation-delay: -7s; }
-.star { position: absolute; color: rgba(111,77,255,.55); font-size: 28px; animation: twinkle 2.8s ease-in-out infinite; }
+.star { position: absolute; color: rgba(111,77,255,.55); font-size: 28px; animation: twinkle 2.8s ease-in-out infinite; will-change: transform, opacity; }
 .star-one { top: 18%; left: 10%; }
 .star-two { top: 42%; right: 8%; animation-delay: .6s; }
 .star-three { bottom: 20%; left: 18%; animation-delay: 1.2s; }
 @keyframes floatOrb { 0%,100%{ transform: translate3d(0,0,0) scale(1);} 50%{ transform: translate3d(30px,-24px,0) scale(1.08);} }
 @keyframes twinkle { 0%,100%{ transform: scale(.82) rotate(0deg); opacity:.3;} 50%{ transform: scale(1.25) rotate(16deg); opacity:1;} }
+@media (prefers-reduced-motion: reduce) {
+  .orb, .star { animation: none !important; }
+}
+@media (max-width: 640px) {
+  /* На мобильных blur очень дорогой, отключаем размытие у оrbов и анимации */
+  .orb { filter: none; opacity: .22; animation: none; }
+  .star { animation: none; }
+}
 
 .site-header {
   position: sticky;
@@ -1499,5 +1507,25 @@ html[lang="ru"] .food-hero h1 { letter-spacing: -.055em; }
     height: 20px !important;
     margin: 0 auto !important;
     background: linear-gradient(180deg, rgba(111,77,255,.18), rgba(111,77,255,.7)) !important;
+  }
+}
+
+/* === Mobile performance optimizations === */
+@media (max-width: 980px) {
+  /* backdrop-filter дорогой на мобиле — заменяем на простой фон */
+  .feature-card,
+  .content-card,
+  .use-case-card,
+  .article-card,
+  .press-card,
+  .legal-card,
+  .download-page-card,
+  .internal-cta,
+  .magic-panel,
+  .footer-card,
+  .floating-result,
+  .live-result-card {
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
   }
 }
