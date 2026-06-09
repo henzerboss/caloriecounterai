@@ -2,6 +2,11 @@
   "name": "Calorie Counter AI",
   "short_name": "Calorie AI",
   "description": "AI calorie counter app by photo for calories, macros and food diary tracking.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#6f4dff",
+  "background_color": "#fbf8ff",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -14,7 +19,12 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#6f4dff",
-  "background_color": "#fbf8ff",
-  "display": "standalone"
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.henzerboss.CalorieCounterAI",
+      "url": "https://play.google.com/store/apps/details?id=com.henzerboss.CalorieCounterAI"
+    }
+  ]
 }
